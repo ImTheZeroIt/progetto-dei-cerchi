@@ -1,0 +1,436 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Codice 2 — Qualità e validazione — Progetto dei Cerchi</title>
+<meta name="description" content="Codice 2 — Qualità e validazione, versione V1.5.">
+<link rel="stylesheet" href="../assets/stile.css">
+<link rel="icon" href="../assets/icona.svg" type="image/svg+xml">
+<meta property="og:title" content="Codice 2 — Qualità e validazione — Progetto dei Cerchi">
+<meta property="og:description" content="Codice 2 — Qualità e validazione, versione V1.5.">
+<meta property="og:image" content="https://imthezeroit.github.io/progetto-dei-cerchi/assets/copertina.png">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<a class="salta" href="#contenuto">Vai al contenuto</a>
+<header class="testata">
+  <a class="marchio" href="../index.html"><svg class="logo" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true" focusable="false"><circle cx="32.00" cy="13.80" r="10.4" class="uno"/><circle cx="46.23" cy="20.65" r="10.4" class="an"/><circle cx="49.74" cy="36.05" r="10.4" class="an"/><circle cx="39.90" cy="48.40" r="10.4" class="an"/><circle cx="24.10" cy="48.40" r="10.4" class="an"/><circle cx="14.26" cy="36.05" r="10.4" class="an"/><circle cx="17.77" cy="20.65" r="10.4" class="an"/></svg><span>Progetto dei Cerchi</span></a>
+  <nav aria-label="Sezioni"><a href="../index.html#percorso">Percorso</a><a href="../registro/index.html" aria-current="page">Registro</a><a href="../contribuire.html">Contribuire</a><a class="lingua" href="../en/register/code-02.html" lang="en" hreflang="en">English</a></nav>
+</header>
+<main id="contenuto">
+<article class="norma">
+<header class="apertura">
+  <p class="briciole"><a href="index.html">Registro</a> / Codice 2 — Qualità e validazione</p>
+  <h1>Codice 2 — Della qualità e della validazione</h1>
+  <p class="dati"><span class="versione">V1.5</span><span class="scarica">Scarica: <a href="../scarica/codice-02.pdf" download>PDF</a> · <a href="../scarica/codice-02.odt" download>ODT</a></span></p>
+  <details class="allineamento"><summary>Versioni degli altri testi con cui è allineato</summary><p>Costituzione V.29; Codice 1 V1.5; Codice 3 V1.4; Codice 4 V1.4; Codice 5 V1.3; Codice 6 V1.5; Codice 7 V1.6; Codice 8 V1.3; C.1-Annex A V1.3; Codice 9 V3.1; Codice 10 V1.3; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.3; Codice 16 V1.4.</p></details>
+</header>
+<div class="colonne">
+<aside class="indice">
+<details id="indice"><summary>Indice</summary>
+<nav aria-label="Indice del testo">
+<ul>
+<li><a href="#capo-i--principi-criteri-e-ammissione" id="toc-capo-i--principi-criteri-e-ammissione">CAPO I — PRINCIPI, CRITERI E AMMISSIONE</a>
+<ul>
+<li><a href="#art-1--oggetto-e-principio-di-sufficienza-qualitativa" id="toc-art-1--oggetto-e-principio-di-sufficienza-qualitativa">Art. 1 — Oggetto e principio di sufficienza qualitativa</a></li>
+<li><a href="#art-2--criteri-di-qualità" id="toc-art-2--criteri-di-qualità">Art. 2 — Criteri di qualità</a></li>
+<li><a href="#art-3--scheda-tecnica-di-validazione" id="toc-art-3--scheda-tecnica-di-validazione">Art. 3 — Scheda Tecnica di Validazione</a></li>
+<li><a href="#art-4--gerarchia-di-ammissione-e-riuso" id="toc-art-4--gerarchia-di-ammissione-e-riuso">Art. 4 — Gerarchia di ammissione e riuso</a></li>
+<li><a href="#art-5--divieto-di-dipendenza-proprietaria-critica" id="toc-art-5--divieto-di-dipendenza-proprietaria-critica">Art. 5 — Divieto di dipendenza proprietaria critica</a></li>
+<li><a href="#art-6--distinzione-tra-tipologia-ed-esemplare" id="toc-art-6--distinzione-tra-tipologia-ed-esemplare">Art. 6 — Distinzione tra tipologia ed esemplare</a></li>
+<li><a href="#art-7--vigilanza-e-segnalazioni" id="toc-art-7--vigilanza-e-segnalazioni">Art. 7 — Vigilanza e segnalazioni</a></li>
+<li><a href="#art-8--esclusione-e-sospensione-rapida" id="toc-art-8--esclusione-e-sospensione-rapida">Art. 8 — Esclusione e sospensione rapida</a></li>
+<li><a href="#art-9--qualità-del-servizio-e-del-cbo" id="toc-art-9--qualità-del-servizio-e-del-cbo">Art. 9 — Qualità del servizio e del CBO</a></li>
+<li><a href="#art-10--architettura-documentale" id="toc-art-10--architettura-documentale">Art. 10 — Architettura documentale</a></li>
+<li><a href="#art-11--norma-transitoria" id="toc-art-11--norma-transitoria">Art. 11 — Norma transitoria</a></li>
+</ul></li>
+<li><a href="#capo-ii--procedura-competenze-e-fine-vita" id="toc-capo-ii--procedura-competenze-e-fine-vita">CAPO II — PROCEDURA, COMPETENZE E FINE VITA</a>
+<ul>
+<li><a href="#art-12--piano-di-sostituzione" id="toc-art-12--piano-di-sostituzione">Art. 12 — Piano di Sostituzione</a></li>
+<li><a href="#art-13--validità-temporale-della-stv-e-audit" id="toc-art-13--validità-temporale-della-stv-e-audit">Art. 13 — Validità temporale della STV e audit</a></li>
+<li><a href="#art-14--fasi-della-procedura-di-ammissione" id="toc-art-14--fasi-della-procedura-di-ammissione">Art. 14 — Fasi della procedura di ammissione</a></li>
+<li><a href="#art-15--competenza-decisionale-e-anti-elusione" id="toc-art-15--competenza-decisionale-e-anti-elusione">Art. 15 — Competenza decisionale e anti-elusione</a></li>
+<li><a href="#art-16--contestazione-conflitto-di-interessi-e-ricorso" id="toc-art-16--contestazione-conflitto-di-interessi-e-ricorso">Art. 16 — Contestazione, conflitto di interessi e ricorso</a></li>
+<li><a href="#art-17--destinazione-del-bene-dopo-lesclusione" id="toc-art-17--destinazione-del-bene-dopo-lesclusione">Art. 17 — Destinazione del bene dopo l’esclusione</a></li>
+<li><a href="#art-18--coordinamento-intercodice" id="toc-art-18--coordinamento-intercodice">Art. 18 — Coordinamento intercodice</a></li>
+</ul></li>
+<li><a href="#capo-iii--servizi-esterni" id="toc-capo-iii--servizi-esterni">CAPO III — SERVIZI ESTERNI</a>
+<ul>
+<li><a href="#art-19--oggetto-e-definizione-di-servizio-esterno" id="toc-art-19--oggetto-e-definizione-di-servizio-esterno">Art. 19 — Oggetto e definizione di servizio esterno</a></li>
+<li><a href="#art-20--criteri-di-qualità-del-servizio" id="toc-art-20--criteri-di-qualità-del-servizio">Art. 20 — Criteri di qualità del servizio</a></li>
+<li><a href="#art-21--scheda-di-validazione-del-servizio" id="toc-art-21--scheda-di-validazione-del-servizio">Art. 21 — Scheda di Validazione del Servizio</a></li>
+<li><a href="#art-22--gerarchia-durata-e-piano-di-sostituzione" id="toc-art-22--gerarchia-durata-e-piano-di-sostituzione">Art. 22 — Gerarchia, durata e Piano di Sostituzione</a></li>
+<li><a href="#art-23--procedura-di-ammissione-del-servizio" id="toc-art-23--procedura-di-ammissione-del-servizio">Art. 23 — Procedura di ammissione del servizio</a></li>
+<li><a href="#art-24--esclusione-cessazione-e-continuità" id="toc-art-24--esclusione-cessazione-e-continuità">Art. 24 — Esclusione, cessazione e continuità</a></li>
+</ul></li>
+</ul>
+</nav>
+</details>
+</aside>
+<script>if (window.matchMedia("(min-width: 60rem)").matches) document.getElementById("indice").open = true;</script>
+<div class="prosa testo-norma">
+<h2 id="capo-i--principi-criteri-e-ammissione">CAPO I — PRINCIPI, CRITERI E AMMISSIONE</h2>
+<h3 id="art-1--oggetto-e-principio-di-sufficienza-qualitativa">Art. 1 — Oggetto e principio di sufficienza qualitativa</h3>
+<ol type="1">
+<li>Il presente Codice disciplina i criteri e le procedure con cui beni e strumenti sono valutati ai fini della loro ammissione, permanenza, sospensione o esclusione dai Magazzini Comuni previsti dal Codice 1.</li>
+<li>Il Codice 1 disciplina il fabbisogno, la produzione, la conservazione, la distribuzione e la movimentazione dei beni. Il presente Codice stabilisce i criteri di qualità e le procedure per determinare quali beni possano entrare e rimanere nel sistema comune.</li>
+<li>I servizi forniti da soggetti esterni alla Confederazione sono disciplinati dal Capo III.</li>
+<li>La valutazione di qualità è svolta in funzione del bisogno effettivo e non può essere usata per introdurre requisiti estranei alla sicurezza, all’idoneità, alla durata, alla riparabilità o agli altri criteri previsti dal presente Codice.</li>
+<li>Il Consiglio Qualità è il Consiglio tecnico competente per le funzioni del presente Codice. È composto da tre a cinque persone sorteggiate secondo l’articolo 12-bis del Codice 3.</li>
+</ol>
+<h3 id="art-2--criteri-di-qualità">Art. 2 — Criteri di qualità</h3>
+<ol type="1">
+<li><p>La qualità di un bene è valutata considerando congiuntamente i seguenti criteri:</p>
+<p>a) utilità effettiva rispetto al bisogno;</p>
+<p>b) durevolezza e durata del ciclo di vita;</p>
+<p>c) riparabilità e disponibilità di ricambi;</p>
+<p>d) non nocività per le persone, gli animali e l’ambiente, secondo le competenze dei Codici pertinenti;</p>
+<p>e) sobrietà nell’impiego di materiali, energia e altre risorse.</p></li>
+<li><p>I criteri possono entrare in conflitto. La loro comparazione avviene secondo la procedura multicriterio definita nell’Allegato Tecnico Qualità. Nessuna formula automatica può sostituire la valutazione motivata prevista dal presente Codice.</p></li>
+<li><p>A parità di utilità e di adeguatezza rispetto al bisogno, è preferito il bene con minore impatto sistemico nel ciclo di vita completo.</p></li>
+<li><p>La valutazione indica i criteri considerati, le evidenze disponibili, le incertezze e le ragioni dell’esito. La mancanza di dati non può essere trasformata in prova automatica di conformità.</p></li>
+<li><p>I criteri del comma 1 attuano i principi di Cura, Autonomia, Convivialità e Senso previsti dall’articolo 9.1 della Costituzione: la cura attraverso la non nocività e la durevolezza; l’autonomia attraverso la riparabilità e l’assenza di dipendenze; la convivialità attraverso l’uso condiviso e accessibile; il senso attraverso l’utilità effettiva e la sobrietà.</p></li>
+</ol>
+<h3 id="art-3--scheda-tecnica-di-validazione">Art. 3 — Scheda Tecnica di Validazione</h3>
+<ol type="1">
+<li><p>Ogni tipologia o modello di bene destinato all’ammissione nel Magazzino Centrale deve essere accompagnato da una Scheda Tecnica di Validazione, di seguito «STV».</p></li>
+<li><p>La STV è istruita dal Consiglio Qualità, con il contributo del Cerchio di Competenza pertinente e il parere del Consiglio Salute sui profili di sua competenza. Sono acquisiti i pareri degli altri Cerchi competenti quando il bene presenta profili di sicurezza, ambientali, energetici, territoriali o digitali a essi attribuiti.</p></li>
+<li><p>La STV valuta la tipologia o il modello del bene. Non certifica automaticamente ogni singolo esemplare o lotto, il cui controllo è disciplinato dall’articolo 6.</p></li>
+<li><p>La STV contiene almeno:</p>
+<p>a) identificazione del bene, del modello e del produttore, se disponibile;</p>
+<p>b) origine e materiali;</p>
+<p>c) ciclo di vita stimato;</p>
+<p>d) caratteristiche di durevolezza e riparabilità;</p>
+<p>e) disponibilità e accessibilità dei ricambi;</p>
+<p>f) dipendenze proprietarie o tecnologiche;</p>
+<p>g) consumo energetico e di altre risorse;</p>
+<p>h) rischi e misure di prevenzione;</p>
+<p>i) manutenzione richiesta;</p>
+<p>j) modalità di riuso, riciclo o messa in sicurezza a fine vita;</p>
+<p>k) criteri di prova e di controllo dell’esemplare;</p>
+<p>l) data di emissione, versione, responsabili dell’istruttoria, pareri ricevuti e data del riesame previsto.</p></li>
+<li><p>La STV è un atto motivato, tracciato e pubblicato in Rete secondo i livelli di accesso applicabili. Può essere contestata ai sensi del Capo II.</p></li>
+<li><p>La relazione comparativa prevista dall’articolo 40, comma 4, del Codice 1 è distinta dalla STV. Può richiamarne o riprenderne i dati tecnici pertinenti, ma non sostituisce la comparazione economica e funzionale richiesta dal Codice 1.</p></li>
+<li><p>Le STV sono condivise nel Magazzino del Sapere federato. Il Cerchio che adotta una STV già validata da un altro Cerchio ne verifica soltanto l’adeguatezza alle condizioni locali.</p></li>
+<li><p>Gli adempimenti documentali sono proporzionati al rischio. Per i beni di uso comune a rischio nullo o basso è sufficiente una STV semplificata, secondo l’Allegato Tecnico Qualità.</p></li>
+</ol>
+<h3 id="art-4--gerarchia-di-ammissione-e-riuso">Art. 4 — Gerarchia di ammissione e riuso</h3>
+<ol type="1">
+<li><p>In via ordinaria, le alternative sono valutate secondo il seguente ordine di preferenza:</p>
+<p>a) bene riutilizzato o ricondizionato localmente;</p>
+<p>b) bene autoprodotto nella Confederazione;</p>
+<p>c) bene di produzione esterna, purché durevole e riparabile;</p>
+<p>d) bene esterno con criticità, ma necessario e privo di alternativa immediatamente disponibile, ammesso solo in via temporanea con Piano di Sostituzione.</p></li>
+<li><p>L’acquisto di un bene nuovo è vietato quando nella Rete sia disponibile un bene riutilizzato funzionalmente equivalente, salvo deroga motivata ai sensi del comma 4.</p></li>
+<li><p>L’equivalenza funzionale è determinata secondo criteri oggettivi indicati nella STV e tiene conto almeno di sicurezza, prestazioni necessarie, compatibilità, disponibilità, tempi di consegna e costi di riparazione.</p></li>
+<li><p>La deroga alla gerarchia è ammessa solo quando sia documentata:</p>
+<p>a) l’impossibilità materiale di reperire l’alternativa entro il tempo utile;</p>
+<p>b) un’incompatibilità tecnica accertata;</p>
+<p>c) l’insufficienza quantitativa dell’alternativa rispetto al fabbisogno.</p></li>
+<li><p>La deroga è motivata e tracciata in Rete. Se determina una dipendenza o una criticità temporanea, si applicano gli articoli 5 e 12.</p></li>
+</ol>
+<h3 id="art-5--divieto-di-dipendenza-proprietaria-critica">Art. 5 — Divieto di dipendenza proprietaria critica</h3>
+<ol type="1">
+<li><p>Per dipendenza proprietaria critica si intende una condizione nella quale un bene, pur essendo materialmente integro, è reso inutilizzabile, limitato o non riparabile dal controllo esclusivo di un produttore o fornitore su software, firmware, servizi cloud, chiavi di attivazione remota, licenze, ricambi, diagnostica o sistemi di autenticazione.</p></li>
+<li><p>La dipendenza proprietaria critica è classificata in una delle seguenti categorie:</p>
+<p>a) <strong>dipendenza critica assoluta:</strong> determina un blocco totale o un accoppiamento proprietario irreversibile, oppure rende impossibile l’uso offline o il controllo comunitario. È vietata e non può essere ammessa neppure in via temporanea;</p>
+<p>b) <strong>dipendenza critica residua e superabile:</strong> determina una limitazione parziale che può essere rimossa dalla Comunità mediante strumenti, procedure o sostituzioni tecnicamente disponibili. Il bene può essere ammesso solo temporaneamente ai sensi dell’articolo 4, comma 1, lettera d), con Piano di Sostituzione obbligatorio.</p></li>
+<li><p>La classificazione è riportata nella STV, sulla base di un’istruttoria del Consiglio Qualità e del parere del Consiglio Rete. La valutazione considera anche la possibilità concreta, i tempi e i costi della rimozione della dipendenza.</p></li>
+<li><p>Il fornitore esterno è tenuto a fornire le informazioni e le evidenze necessarie a dimostrare l’assenza di dipendenze critiche. In mancanza di informazioni sufficienti, la STV indica l’incertezza e non presume l’assenza della dipendenza.</p></li>
+<li><p>La dipendenza residua ammessa temporaneamente è registrata nel Registro Dipendenze previsto dal Codice 15.</p></li>
+</ol>
+<h3 id="art-6--distinzione-tra-tipologia-ed-esemplare">Art. 6 — Distinzione tra tipologia ed esemplare</h3>
+<ol type="1">
+<li><p>La validazione si articola in due livelli:</p>
+<p>a) <strong>livello di tipologia:</strong> la STV determina se il modello o la tipologia del bene sia ammissibile nel sistema comune;</p>
+<p>b) <strong>livello di esemplare o lotto:</strong> il controllo verifica che il bene consegnato corrisponda alla STV, sia integro e rispetti i requisiti applicabili.</p></li>
+<li><p>Il controllo dell’esemplare o lotto comprende, secondo la natura del bene:</p>
+<p>a) integrità e assenza di danni;</p>
+<p>b) scadenza e condizioni di conservazione;</p>
+<p>c) funzionamento;</p>
+<p>d) danni da trasporto;</p>
+<p>e) corrispondenza alle specifiche della STV.</p></li>
+<li><p>La non conformità di un singolo esemplare non comporta automaticamente il riesame della STV della tipologia. Il riesame è avviato quando le anomalie indicano un difetto sistematico o una possibile variazione del modello.</p></li>
+<li><p>Il controllo ordinario dell’esemplare può essere svolto nell’ambito del CBO generico mediante checklist derivata dalla STV. L’esito è registrato nel Registro Magazzino.</p></li>
+<li><p>L’esemplare non conforme è isolato e non distribuito fino alla decisione del Cerchio competente.</p></li>
+</ol>
+<h3 id="art-7--vigilanza-e-segnalazioni">Art. 7 — Vigilanza e segnalazioni</h3>
+<ol type="1">
+<li><p>Ogni membro può segnalare difetti, sospetta nocività, rottura prematura o altra non conformità. La segnalazione è registrata in Rete e contiene, per quanto possibile, la descrizione del bene, il tipo di anomalia e le evidenze disponibili.</p></li>
+<li><p>Le segnalazioni sono gestite secondo due procedure:</p>
+<p>a) <strong>segnalazione ordinaria:</strong> tre segnalazioni documentate e indipendenti relative alla stessa tipologia comportano il riesame obbligatorio della STV;</p>
+<p>b) <strong>segnalazione grave:</strong> una segnalazione documentata di rischio sanitario o di sicurezza comporta l’immediata valutazione della sospensione cautelare ai sensi del comma 3. In caso di rischio grave e immediato, il bene o lotto interessato è sospeso senza ritardo e il riesame è avviato entro sette giorni.</p></li>
+<li><p>La sospensione cautelare non costituisce sanzione né accertamento definitivo di non conformità. Durante la sospensione il bene interessato non è distribuito, salvo una misura sostitutiva necessaria per garantire la continuità di un servizio essenziale e ritenuta sicura dai Cerchi competenti.</p></li>
+<li><p>Il segnalante è protetto da ritorsioni secondo il Codice 4. Le segnalazioni sono valutate senza attribuire automaticamente responsabilità a produttori, fornitori o utilizzatori.</p></li>
+</ol>
+<h3 id="art-8--esclusione-e-sospensione-rapida">Art. 8 — Esclusione e sospensione rapida</h3>
+<ol type="1">
+<li><p>Il bene o la tipologia possono essere sospesi o esclusi per non conformità intrinseca, tra cui:</p>
+<p>a) presenza di sostanze vietate dal Consiglio Salute secondo le competenze attribuitegli;</p>
+<p>b) consumo energetico sproporzionato rispetto all’utilità, senza giustificazione tecnica;</p>
+<p>c) rischio grave accertato;</p>
+<p>d) mancata corrispondenza ai requisiti essenziali della STV;</p>
+<p>e) impossibilità di garantire in sicurezza l’uso, la manutenzione o il fine vita.</p></li>
+<li><p>La decisione distingue tra:</p>
+<p>a) sospensione cautelare, adottata in attesa di verifiche quando vi sia un rischio che non possa essere escluso;</p>
+<p>b) esclusione definitiva, adottata dopo istruttoria e decisione motivata;</p>
+<p>c) limitazione d’uso, quando il rischio possa essere contenuto escludendo specifiche condizioni o impieghi.</p></li>
+<li><p>La compatibilità delle pratiche commerciali o del rapporto con il fornitore è valutata separatamente dalla conformità tecnica intrinseca del bene. Possono rilevare, a titolo esemplificativo, pubblicità ingannevole sistematica o la creazione artificiale di dipendenze.</p></li>
+<li><p>La valutazione del rapporto con il fornitore è coordinata con il Codice 15. Le misure tecniche sul bene restano di competenza degli organi previsti dal presente Codice.</p></li>
+<li><p>Ogni sospensione o esclusione è motivata, registrata e comunicata ai soggetti interessati. Restano disponibili i ricorsi previsti dal Capo II.</p></li>
+</ol>
+<h3 id="art-9--qualità-del-servizio-e-del-cbo">Art. 9 — Qualità del servizio e del CBO</h3>
+<ol type="1">
+<li><p>I criteri di qualità si applicano anche ai compiti e ai servizi interni. Un’attività di CBO è adeguatamente organizzata quando:</p>
+<p>a) è svolta in sicurezza secondo l’articolo 27 del Codice 1 e il Codice 14;</p>
+<p>b) la persona ha ricevuto la formazione prevista dall’articolo 28 del Codice 1;</p>
+<p>c) sono disponibili gli strumenti necessari ai sensi dell’articolo 26 del Codice 1;</p>
+<p>d) il tempo assegnato è realistico e compatibile con l’esecuzione corretta del compito;</p>
+<p>e) il risultato è verificabile rispetto alle specifiche applicabili.</p></li>
+<li><p>L’esecuzione frettolosa di un compito, quando compromette la qualità del bene o del servizio, è trattata anzitutto come possibile inefficienza organizzativa o errore di pianificazione. Non costituisce automaticamente colpa individuale.</p></li>
+<li><p>L’eventuale responsabilità individuale è valutata separatamente e secondo le garanzie del Codice 4.</p></li>
+<li><p>La validazione negativa reiterata di un’opera, di un bene o di un servizio non comporta sanzioni personali. Può determinare la sospensione del prelievo di risorse comuni destinato a quella specifica produzione e l’avvio di un percorso di accompagnamento con il Consiglio competente, ai sensi dell’articolo 9.3 della Costituzione.</p></li>
+</ol>
+<h3 id="art-10--architettura-documentale">Art. 10 — Architettura documentale</h3>
+<ol type="1">
+<li><p>La procedura documentale segue, in via ordinaria, questa sequenza:</p>
+<p>a) proposta di ammissione;</p>
+<p>b) istruttoria;</p>
+<p>c) redazione della STV;</p>
+<p>d) decisione di ammissione;</p>
+<p>e) eventuale relazione comparativa di acquisto prevista dal Codice 1;</p>
+<p>f) registrazione nel Magazzino;</p>
+<p>g) monitoraggio e segnalazioni;</p>
+<p>h) riesame, sospensione o esclusione, se necessari.</p></li>
+<li><p>La STV è il documento tecnico di riferimento per la tipologia del bene. Non sostituisce gli atti decisionali, le relazioni economiche o i registri richiesti dagli altri Codici.</p></li>
+<li><p>STV, segnalazioni, riesami e Registro Esclusioni sono pubblicati in Rete secondo i livelli di accesso e le garanzie di riservatezza previste dai Codici 3, 6 e 7.</p></li>
+<li><p>La documentazione deve indicare versione, data, responsabili e collegamenti agli atti presupposti, così da consentire la ricostruzione del procedimento.</p></li>
+</ol>
+<h3 id="art-11--norma-transitoria">Art. 11 — Norma transitoria</h3>
+<ol type="1">
+<li>I beni già presenti nei Magazzini alla data di entrata in vigore del presente Codice possono rimanere in uso per un periodo massimo di dodici mesi in attesa della STV, salvo i casi previsti dall’articolo 8.</li>
+<li>Durante il periodo transitorio, i beni sono censiti e sottoposti almeno ai controlli di esemplare previsti dall’articolo 6.</li>
+<li>Il termine di dodici mesi è iniziale e può essere ricalibrato dall’Assemblea sulla base della capacità istruttoria dei Cerchi. La proroga non si applica ai beni per i quali sia stato accertato un rischio grave o una dipendenza proprietaria critica assoluta.</li>
+</ol>
+<h2 id="capo-ii--procedura-competenze-e-fine-vita">CAPO II — PROCEDURA, COMPETENZE E FINE VITA</h2>
+<h3 id="art-12--piano-di-sostituzione">Art. 12 — Piano di Sostituzione</h3>
+<ol type="1">
+<li><p>È obbligatorio un Piano di Sostituzione per:</p>
+<p>a) ogni bene ammesso temporaneamente ai sensi dell’articolo 4, comma 1, lettera d);</p>
+<p>b) ogni bene con dipendenza proprietaria critica residua e superabile ai sensi dell’articolo 5, comma 2, lettera b).</p></li>
+<li><p>Il Piano contiene almeno:</p>
+<p>a) la motivazione della necessità temporanea;</p>
+<p>b) le alternative esaminate e le ragioni per cui non sono immediatamente disponibili;</p>
+<p>c) la dipendenza da rimuovere;</p>
+<p>d) la soluzione prevista;</p>
+<p>e) il Cerchio e la persona responsabile dell’attuazione;</p>
+<p>f) una scadenza non superiore a dodici mesi;</p>
+<p>g) lo stato di avanzamento, aggiornato almeno trimestralmente e pubblicato secondo i livelli di accesso applicabili;</p>
+<p>h) i criteri che determinano l’uscita dal regime temporaneo.</p></li>
+<li><p>La scadenza può essere prorogata una sola volta, per un periodo motivato e non superiore a dodici mesi, quando sia documentata un’impossibilità tecnica o materiale non imputabile a inerzia organizzativa. La proroga è approvata dall’organo competente secondo l’articolo 15.</p></li>
+<li><p>Se la scadenza è superata senza che sia stata rimossa la dipendenza o attuata la soluzione prevista, il bene passa automaticamente a riesame ai fini della sospensione o esclusione. Il riesame considera anche l’eventuale necessità di garantire la continuità di un servizio essenziale.</p></li>
+</ol>
+<h3 id="art-13--validità-temporale-della-stv-e-audit">Art. 13 — Validità temporale della STV e audit</h3>
+<ol type="1">
+<li><p>Ogni STV è sottoposta ad audit almeno ogni ventiquattro mesi, salvo che la STV stabilisca un termine inferiore in ragione della criticità, della tecnologia o dei rischi del bene.</p></li>
+<li><p>È avviato un riesame straordinario nei casi previsti dall’articolo 7 o quando intervengano:</p>
+<p>a) modifiche sostanziali del bene o del processo produttivo;</p>
+<p>b) nuove evidenze su nocività, sicurezza o durata;</p>
+<p>c) cambiamenti nella disponibilità di ricambi o alternative;</p>
+<p>d) variazioni delle dipendenze proprietarie;</p>
+<p>e) mutamenti rilevanti del fabbisogno.</p></li>
+<li><p>L’audit verifica:</p>
+<p>a) la permanenza dei criteri di qualità di cui all’articolo 2;</p>
+<p>b) l’esistenza di alternative di riuso o ricondizionamento;</p>
+<p>c) lo stato di rimozione delle dipendenze proprietarie;</p>
+<p>d) la correttezza dei controlli sugli esemplari;</p>
+<p>e) la validità delle misure di manutenzione e fine vita.</p></li>
+<li><p>L’esito dell’audit è registrato. In caso di criticità, sono indicate le misure correttive, il responsabile e il termine di attuazione.</p></li>
+</ol>
+<h3 id="art-14--fasi-della-procedura-di-ammissione">Art. 14 — Fasi della procedura di ammissione</h3>
+<ol type="1">
+<li><p>La procedura ordinaria di ammissione comprende:</p>
+<p>a) presentazione della proposta di ammissione;</p>
+<p>b) istruttoria del Consiglio Qualità;</p>
+<p>c) redazione di una STV provvisoria;</p>
+<p>d) acquisizione del parere del Consiglio Salute sui profili di non nocività di sua competenza; il parere negativo impedisce l’ammissione finché la criticità non sia risolta;</p>
+<p>e) acquisizione del parere tecnico del Cerchio di Competenza pertinente e degli altri Cerchi competenti, quando necessario;</p>
+<p>f) decisione di ammissione motivata ai sensi dell’articolo 15;</p>
+<p>g) eventuale periodo di prova in una Dispensa pilota;</p>
+<p>h) ingresso nel Magazzino Centrale con la STV vigente;</p>
+<p>i) monitoraggio e raccolta delle segnalazioni;</p>
+<p>j) riesame periodico o straordinario;</p>
+<p>k) eventuale sospensione o esclusione motivata;</p>
+<p>l) accesso alle procedure di contestazione e ricorso.</p></li>
+<li><p>La STV provvisoria indica quali verifiche siano ancora in corso e le condizioni d’uso applicabili durante l’istruttoria.</p></li>
+<li><p>Il periodo di prova non può essere utilizzato per distribuire beni non sicuri o per eludere il parere vincolante previsto dal comma 1, lettera d).</p></li>
+<li><p>La procedura è coordinata con il Codice 1 per gli aspetti di approvvigionamento, acquisto, registrazione e distribuzione.</p></li>
+</ol>
+<h3 id="art-15--competenza-decisionale-e-anti-elusione">Art. 15 — Competenza decisionale e anti-elusione</h3>
+<ol type="1">
+<li><p>La decisione finale sull’ammissione è adottata come segue:</p>
+<p>a) per i beni sotto la soglia economica stabilita dal Codice 3 e di uso comune, decide il Consiglio Qualità sulla base della STV, con motivazione;</p>
+<p>b) per i beni sopra soglia, per quelli con impatto sistemico elevato o per quelli con dipendenza critica residua ai sensi dell’articolo 5, comma 2, lettera b), il Consiglio Qualità formula una proposta e decide l’Assemblea del Cerchio 1 secondo il Codice 3.</p></li>
+<li><p>La soglia economica è calcolata sul valore complessivo dell’operazione e comprende, per quanto prevedibile:</p>
+<p>a) il costo del lotto;</p>
+<p>b) trasporto e installazione;</p>
+<p>c) manutenzione prevista per i successivi ventiquattro mesi;</p>
+<p>d) formazione;</p>
+<p>e) trattamento e trasferimento dei dati, se applicabili;</p>
+<p>f) costi di fine vita.</p></li>
+<li><p>È vietato frazionare artificiosamente l’acquisto o l’operazione per eludere la soglia. Le operazioni collegate per oggetto, fornitore, tempo o funzione sono considerate unitariamente quando vi siano elementi che ne dimostrino l’unitarietà.</p></li>
+<li><p>La soglia e le modalità di calcolo sono stabilite dal Codice 3.</p></li>
+<li><p>Ogni decisione è tracciata in Rete con la STV e gli eventuali pareri allegati, nel rispetto dei livelli di accesso applicabili.</p></li>
+</ol>
+<h3 id="art-16--contestazione-conflitto-di-interessi-e-ricorso">Art. 16 — Contestazione, conflitto di interessi e ricorso</h3>
+<ol type="1">
+<li><p>Ogni membro può contestare una STV con motivazione e documentazione tecnica, indicando le parti contestate e le evidenze disponibili.</p></li>
+<li><p>La contestazione produce i seguenti effetti:</p>
+<p>a) la contestazione ordinaria non sospende la validità della STV, ma è registrata e inserita nella procedura di riesame;</p>
+<p>b) in presenza di un rischio grave documentato, può essere chiesta la sospensione cautelare. Il Consiglio Qualità e il Consiglio Salute, ciascuno per la propria competenza, valutano entro quarantotto ore se ricorrono i presupposti per la misura prevista dall’articolo 7, comma 2, lettera b);</p>
+<p>c) contro la decisione finale è ammesso ricorso al Cerchio di Garanzia. Il ricorso non è sospensivo, salvo diversa decisione motivata della Garanzia in presenza di rischio grave o di possibile pregiudizio irreversibile.</p></li>
+<li><p>Chi abbia partecipato alla redazione o all’approvazione della STV originaria non può essere l’unico decisore del riesame o della contestazione relativa alla medesima decisione.</p></li>
+<li><p>Il riesame è svolto collegialmente o con la partecipazione di un componente diverso e indipendente. I conflitti di interesse e le relative sostituzioni sono gestiti secondo il Codice 4.</p></li>
+<li><p>Le decisioni su contestazioni e ricorsi sono motivate, registrate e comunicate agli interessati.</p></li>
+<li><p>Alla validazione partecipano chi fruisce del bene o del servizio, chi possiede la competenza pertinente e chi gestisce la logistica del Magazzino, ai sensi dell’articolo 9.2 della Costituzione. È vietata la validazione svolta esclusivamente da un’IA. Resta fermo il diritto di impugnare una validazione dinanzi all’Assemblea del Cerchio 1, ai sensi dell’articolo 9.4 della Costituzione.</p></li>
+</ol>
+<h3 id="art-17--destinazione-del-bene-dopo-lesclusione">Art. 17 — Destinazione del bene dopo l’esclusione</h3>
+<ol type="1">
+<li><p>L’esclusione di un bene non comporta automaticamente la sua distruzione.</p></li>
+<li><p>In attesa della decisione sulla destinazione finale, il bene può essere sospeso o posto in quarantena per le verifiche necessarie.</p></li>
+<li><p>La destinazione finale segue, nell’ordine, i criteri applicabili:</p>
+<p>a) riparazione o ricondizionamento;</p>
+<p>b) declassamento a un uso non critico e compatibile con la condizione del bene;</p>
+<p>c) restituzione al fornitore, quando prevista o praticabile;</p>
+<p>d) recupero o riciclo dei materiali;</p>
+<p>e) messa in sicurezza, secondo l’articolo 15 del Codice 1.</p></li>
+<li><p>La decisione è adottata dal Consiglio Qualità con il Consiglio di Magazzino e con gli altri Cerchi competenti per la specifica tipologia di bene. È motivata e tracciata.</p></li>
+<li><p>La destinazione è coordinata con l’articolo 15 del Codice 1 e segue i principi di riduzione dello spreco e di massima sicurezza.</p></li>
+</ol>
+<h3 id="art-18--coordinamento-intercodice">Art. 18 — Coordinamento intercodice</h3>
+<ol type="1">
+<li><p>Il presente Codice si coordina con:</p>
+<p>a) il Codice 1, articolo 40, per la relazione comparativa sugli acquisti, che resta distinta dalla STV;</p>
+<p>b) il Codice 3, per soglie, Assemblea e UCR;</p>
+<p>c) il Codice 15, per i rapporti esterni e le pratiche commerciali;</p>
+<p>d) il Codice 4, per ricorsi, garanzie procedurali e responsabilità;</p>
+<p>e) il Codice 6, per i profili sanitari;</p>
+<p>f) il Codice 7, per Rete, sicurezza digitale e trattamento dei dati;</p>
+<p>g) i Codici settoriali pertinenti al bene o servizio valutato.</p></li>
+<li><p>Le competenze sono attribuite in modo espresso. Nessuna decisione di ammissione, sospensione o esclusione può essere fondata su una competenza non individuata o su un parere non accessibile agli aventi diritto.</p></li>
+<li><p>Ogni esclusione è motivata sulla base della STV o, nel caso di un servizio, della SVS ed è contestabile secondo il presente Codice e il Codice 4.</p></li>
+<li><p>Le procedure intercodice sono riesaminate quando entrano in vigore nuove versioni dei Codici 3 o 15, o quando emergano sovrapposizioni di competenza.</p></li>
+</ol>
+<h2 id="capo-iii--servizi-esterni">CAPO III — SERVIZI ESTERNI</h2>
+<h3 id="art-19--oggetto-e-definizione-di-servizio-esterno">Art. 19 — Oggetto e definizione di servizio esterno</h3>
+<ol type="1">
+<li><p>Per servizio esterno si intende una prestazione, continuativa o puntuale, fornita da un soggetto esterno alla Confederazione, il cui ricorso sia motivato da indisponibilità interna, efficienza temporanea dimostrabile o necessità di una competenza specialistica non immediatamente internalizzabile.</p></li>
+<li><p>Un servizio esterno può essere ammesso solo quando sia documentata almeno una delle seguenti condizioni:</p>
+<p>a) assenza di una persona interna disponibile nell’ambito del CBO;</p>
+<p>b) assenza della competenza necessaria nella Confederazione;</p>
+<p>c) efficienza temporanea dimostrabile rispetto alle alternative interne;</p>
+<p>d) necessità di una prestazione specialistica certificata.</p></li>
+<li><p>La motivazione è tracciata nella Scheda di Validazione del Servizio prevista dall’articolo 21.</p></li>
+<li><p>Possono costituire servizi esterni, a titolo esemplificativo, la manutenzione specialistica, la connettività, il trasporto extra-rete, la consulenza tecnica certificata, i servizi sanitari specialistici e i servizi digitali.</p></li>
+<li><p>Il servizio esterno non è un bene e non è sottoposto a STV. È valutato mediante Scheda di Validazione del Servizio, di seguito «SVS».</p></li>
+</ol>
+<h3 id="art-20--criteri-di-qualità-del-servizio">Art. 20 — Criteri di qualità del servizio</h3>
+<ol type="1">
+<li><p>Un servizio esterno è valutato secondo i seguenti criteri:</p>
+<p>a) <strong>continuità:</strong> disponibilità per la durata prevista e presenza di un piano di continuità adeguato;</p>
+<p>b) <strong>competenza:</strong> personale formato e, quando richiesto, certificato;</p>
+<p>c) <strong>sicurezza:</strong> rispetto delle regole di salute e sicurezza previste dal Codice 1, articolo 27, dal Codice 14 e dagli altri Codici pertinenti;</p>
+<p>d) <strong>sostituibilità:</strong> assenza, ove tecnicamente possibile, di dipendenza esclusiva e previsione del trasferimento delle competenze necessarie alla gestione interna;</p>
+<p>e) <strong>interoperabilità:</strong> possibilità di utilizzare standard aperti e di restituire dati e materiali in formati interoperabili;</p>
+<p>f) <strong>sobrietà:</strong> proporzionalità di costi in UCR, consumo energetico e impiego di materiali rispetto al fabbisogno;</p>
+<p>g) <strong>sovranità e trattamento dei dati:</strong> quando il servizio tratta dati dei membri o dati della Confederazione, devono essere garantiti cumulativamente i requisiti seguenti:</p>
+<p>i. localizzazione dei dati e giurisdizione applicabile dichiarate nella SVS;</p>
+<p>ii. controllo e governo dei dati da parte della Comunità, fatti salvi i diritti delle persone cui i dati si riferiscono;</p>
+<p>iii. divieto di profilazione e di cessione dei dati a terzi per finalità non autorizzate;</p>
+<p>iv. cifratura dei dati in transito e a riposo, con controllo delle chiavi da parte della Comunità o con meccanismo di escrow descritto nella SVS;</p>
+<p>v. dichiarazione e approvazione dei subfornitori e sub-responsabili; divieto di subappalto occulto;</p>
+<p>vi. cancellazione certificata o migrazione completa dei dati al termine del rapporto, entro il termine stabilito nella SVS;</p>
+<p>vii. restituzione dei dati in formato interoperabile e documentato.</p></li>
+<li><p>La sola localizzazione dei dati nell’Unione europea non dimostra, di per sé, la sovranità o il controllo della Comunità sui dati.</p></li>
+<li><p>I requisiti del presente articolo sono coordinati con gli articoli 37 e 38 del Codice 1 e con il Codice 7.</p></li>
+<li><p>Se un requisito non può essere soddisfatto, la SVS indica la deroga richiesta, la relativa motivazione, la durata, le misure compensative e il piano di uscita. La deroga non può autorizzare una dipendenza proprietaria critica assoluta vietata dall’articolo 5.</p></li>
+</ol>
+<h3 id="art-21--scheda-di-validazione-del-servizio">Art. 21 — Scheda di Validazione del Servizio</h3>
+<ol type="1">
+<li><p>Ogni servizio esterno è accompagnato da una SVS che contiene almeno:</p>
+<p>a) identità del fornitore e descrizione del servizio;</p>
+<p>b) motivazione dell’ammissione ai sensi dell’articolo 19;</p>
+<p>c) durata prevista e condizioni di rinnovo;</p>
+<p>d) valutazione dei criteri di cui all’articolo 20;</p>
+<p>e) dipendenze proprietarie e tecnologiche;</p>
+<p>f) costo complessivo, comprese le voci accessorie prevedibili;</p>
+<p>g) condizioni di uscita e cessazione;</p>
+<p>h) Piano di Sostituzione o Piano di Continuità;</p>
+<p>i) modalità di trattamento, restituzione, migrazione e cancellazione dei dati;</p>
+<p>j) responsabili del monitoraggio e della verifica.</p></li>
+<li><p>Nessun contratto collettivo relativo a un servizio esterno può essere stipulato senza una SVS approvata.</p></li>
+<li><p>La SVS è un atto motivato, tracciato e pubblicato secondo i livelli di accesso applicabili. Può essere contestata secondo le procedure previste per la STV, in quanto compatibili.</p></li>
+<li><p>La qualità tecnica del servizio è distinta dalla compatibilità del rapporto commerciale con il fornitore. Quest’ultima è valutata e gestita in coordinamento con il Codice 15.</p></li>
+</ol>
+<h3 id="art-22--gerarchia-durata-e-piano-di-sostituzione">Art. 22 — Gerarchia, durata e Piano di Sostituzione</h3>
+<ol type="1">
+<li><p>Nel soddisfare un fabbisogno, è seguito il seguente ordine di preferenza:</p>
+<p>a) prestazione interna nell’ambito del CBO;</p>
+<p>b) prestazione fornita da un altro Cerchio;</p>
+<p>c) servizio esterno cooperativo;</p>
+<p>d) servizio esterno commerciale.</p></li>
+<li><p>La durata ordinaria di un servizio esterno non supera dodici mesi. È ammesso un solo rinnovo ordinario. Il Piano di Sostituzione o il Piano di Continuità è predisposto al momento dell’ammissione e non soltanto alla scadenza.</p></li>
+<li><p>Quando il servizio è necessario oltre ventiquattro mesi, la SVS deve motivare e indicare una delle seguenti soluzioni:</p>
+<p>a) internalizzazione del servizio nell’ambito del CBO;</p>
+<p>b) adozione di un’alternativa esterna, individuata dopo aver comparato almeno due opzioni, quando disponibili;</p>
+<p>c) rinnovo eccezionale, temporaneo e motivato, quando non esista un’alternativa tecnicamente equivalente.</p></li>
+<li><p>Il rinnovo eccezionale di cui al comma 3, lettera c), non supera ulteriori dodici mesi, è sottoposto a riesame obbligatorio e comporta una ricerca attiva di alternative. Non è rinnovabile automaticamente.</p></li>
+<li><p>L’assenza di due alternative effettivamente disponibili non blocca automaticamente un servizio critico. In tal caso la SVS documenta l’assenza delle alternative, le ragioni della prosecuzione, le misure di riduzione della dipendenza e la data del riesame successivo.</p></li>
+</ol>
+<h3 id="art-23--procedura-di-ammissione-del-servizio">Art. 23 — Procedura di ammissione del servizio</h3>
+<ol type="1">
+<li><p>La procedura ordinaria di ammissione comprende:</p>
+<p>a) presentazione della proposta con motivazione ai sensi dell’articolo 19;</p>
+<p>b) istruttoria del Consiglio Qualità, con il Cerchio di Competenza pertinente e il Consiglio Rete quando il servizio tratta dati o dipende da infrastrutture digitali;</p>
+<p>c) redazione della SVS provvisoria;</p>
+<p>d) acquisizione del parere del Consiglio Salute quando il servizio riguarda persone, salute o sicurezza;</p>
+<p>e) decisione del Consiglio Qualità per i servizi sotto soglia e di uso comune, oppure proposta del Consiglio Qualità e decisione dell’Assemblea per i casi previsti dall’articolo 15;</p>
+<p>f) stipula del contratto con clausole di uscita, continuità, restituzione dei dati e gestione delle dipendenze;</p>
+<p>g) monitoraggio continuativo e gestione delle segnalazioni;</p>
+<p>h) audit almeno ogni dodici mesi, o più frequente quando la natura del servizio o il livello di rischio lo richiedano;</p>
+<p>i) possibilità di contestazione e ricorso al Cerchio di Garanzia.</p></li>
+<li><p>La SVS provvisoria indica le verifiche ancora necessarie e le condizioni applicabili prima dell’approvazione definitiva.</p></li>
+<li><p>Il contratto non può contenere clausole incompatibili con la SVS approvata.</p></li>
+</ol>
+<h3 id="art-24--esclusione-cessazione-e-continuità">Art. 24 — Esclusione, cessazione e continuità</h3>
+<ol type="1">
+<li><p>Un servizio può essere sospeso o escluso quando:</p>
+<p>a) non soddisfi più i criteri dell’articolo 20;</p>
+<p>b) il fornitore violi le prescrizioni dell’articolo 20, lettera g), in materia di dati;</p>
+<p>c) determini o mantenga una dipendenza proprietaria critica assoluta;</p>
+<p>d) venga meno la motivazione che ne giustificava l’ammissione;</p>
+<p>e) il fornitore non attui le misure correttive previste nella SVS.</p></li>
+<li><p>L’esclusione tecnica del servizio e la cessazione del rapporto con il fornitore sono decisioni distinte. La cessazione deve essere accompagnata da misure di continuità quando l’interruzione possa compromettere un servizio essenziale.</p></li>
+<li><p>Salvo emergenza che richieda una sospensione immediata per proteggere persone o dati, la cessazione segue una procedura motivata che consente al fornitore e ai Cerchi competenti di essere informati e di predisporre la transizione.</p></li>
+<li><p>La procedura di uscita comprende, secondo il caso:</p>
+<p>a) attivazione del Piano di Continuità;</p>
+<p>b) migrazione o sostituzione con una prestazione interna o un servizio alternativo;</p>
+<p>c) verifica della cancellazione o del trasferimento certificato dei dati;</p>
+<p>d) restituzione dei dati in formato interoperabile e documentato;</p>
+<p>e) chiusura degli accessi, delle credenziali e delle dipendenze tecniche;</p>
+<p>f) registrazione della chiusura del rapporto.</p></li>
+<li><p>Per i servizi critici, compresi connettività, servizi digitali, manutenzione infrastrutturale e servizi sanitari specialistici, il Piano di Continuità è predisposto per evitare interruzioni. Se l’assenza di interruzione non è tecnicamente possibile, il piano indica la durata, gli effetti, le misure temporanee e le responsabilità.</p></li>
+<li><p>Il piano di continuità non può giustificare il mantenimento indefinito di un servizio non conforme. Ogni prosecuzione temporanea è motivata, limitata nel tempo e sottoposta a riesame.</p></li>
+</ol>
+</div>
+</div>
+</article>
+</main>
+<footer class="piede">
+  
+  <p>Questo testo è pubblicato con licenza <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.it">CC BY-SA 4.0</a>: chiunque può copiarlo, modificarlo e ripubblicarlo, citando la fonte e mantenendo la stessa licenza.</p>
+  <p class="piccolo"><a href="../registro/modifiche.html">Registro delle modifiche</a> · <a href="../contribuire.html">Come contribuire</a> · <a href="https://github.com/ImTheZeroIt/progetto-dei-cerchi">Repository</a></p>
+</footer>
+</body>
+</html>

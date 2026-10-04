@@ -1,0 +1,436 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Code 2 — Quality and validation — The Circles Project</title>
+<meta name="description" content="Code 2 — Quality and validation, version V1.5.">
+<link rel="stylesheet" href="../../assets/stile.css">
+<link rel="icon" href="../../assets/icona.svg" type="image/svg+xml">
+<meta property="og:title" content="Code 2 — Quality and validation — The Circles Project">
+<meta property="og:description" content="Code 2 — Quality and validation, version V1.5.">
+<meta property="og:image" content="https://imthezeroit.github.io/progetto-dei-cerchi/assets/copertina.png">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<a class="salta" href="#contenuto">Skip to content</a>
+<header class="testata">
+  <a class="marchio" href="../index.html"><svg class="logo" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true" focusable="false"><circle cx="32.00" cy="13.80" r="10.4" class="uno"/><circle cx="46.23" cy="20.65" r="10.4" class="an"/><circle cx="49.74" cy="36.05" r="10.4" class="an"/><circle cx="39.90" cy="48.40" r="10.4" class="an"/><circle cx="24.10" cy="48.40" r="10.4" class="an"/><circle cx="14.26" cy="36.05" r="10.4" class="an"/><circle cx="17.77" cy="20.65" r="10.4" class="an"/></svg><span>The Circles Project</span></a>
+  <nav aria-label="Sections"><a href="../index.html#percorso">Path</a><a href="../register/index.html" aria-current="page">Register</a><a href="../contributing.html">Contributing</a><a class="lingua" href="../../registro/codice-02.html" lang="it" hreflang="it">Italiano</a></nav>
+</header>
+<main id="contenuto">
+<article class="norma">
+<header class="apertura">
+  <p class="briciole"><a href="index.html">Register</a> / Code 2 — Quality and validation</p>
+  <h1>Code 2 — On quality and validation</h1>
+  <p class="dati"><span class="versione">V1.5</span><span class="scarica">Download: <a href="../../en/download/code-02.pdf" download>PDF</a> · <a href="../../en/download/code-02.odt" download>ODT</a></span></p>
+  <details class="allineamento"><summary>Versions of the other texts it is aligned with</summary><p>Constitution V.29; Code 1 V1.5; Code 3 V1.4; Code 4 V1.4; Code 5 V1.3; Code 6 V1.5; Code 7 V1.6; Code 8 V1.3; C.1-Annex A V1.3; Code 9 V3.1; Code 10 V1.3; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.3; Code 16 V1.4.</p></details>
+</header>
+<div class="colonne">
+<aside class="indice">
+<details id="indice"><summary>Contents</summary>
+<nav aria-label="Table of contents">
+<ul>
+<li><a href="#chapter-i--principles-criteria-and-admission" id="toc-chapter-i--principles-criteria-and-admission">CHAPTER I — PRINCIPLES, CRITERIA AND ADMISSION</a>
+<ul>
+<li><a href="#art-1--subject-matter-and-principle-of-qualitative-sufficiency" id="toc-art-1--subject-matter-and-principle-of-qualitative-sufficiency">Art. 1 — Subject matter and principle of qualitative sufficiency</a></li>
+<li><a href="#art-2--quality-criteria" id="toc-art-2--quality-criteria">Art. 2 — Quality criteria</a></li>
+<li><a href="#art-3--technical-validation-sheet" id="toc-art-3--technical-validation-sheet">Art. 3 — Technical Validation Sheet</a></li>
+<li><a href="#art-4--hierarchy-of-admission-and-reuse" id="toc-art-4--hierarchy-of-admission-and-reuse">Art. 4 — Hierarchy of admission and reuse</a></li>
+<li><a href="#art-5--prohibition-of-critical-proprietary-dependency" id="toc-art-5--prohibition-of-critical-proprietary-dependency">Art. 5 — Prohibition of critical proprietary dependency</a></li>
+<li><a href="#art-6--distinction-between-type-and-item" id="toc-art-6--distinction-between-type-and-item">Art. 6 — Distinction between type and item</a></li>
+<li><a href="#art-7--supervision-and-reports" id="toc-art-7--supervision-and-reports">Art. 7 — Supervision and reports</a></li>
+<li><a href="#art-8--exclusion-and-rapid-suspension" id="toc-art-8--exclusion-and-rapid-suspension">Art. 8 — Exclusion and rapid suspension</a></li>
+<li><a href="#art-9--quality-of-the-service-and-of-the-cbo" id="toc-art-9--quality-of-the-service-and-of-the-cbo">Art. 9 — Quality of the service and of the CBO</a></li>
+<li><a href="#art-10--documentary-architecture" id="toc-art-10--documentary-architecture">Art. 10 — Documentary architecture</a></li>
+<li><a href="#art-11--transitional-provision" id="toc-art-11--transitional-provision">Art. 11 — Transitional provision</a></li>
+</ul></li>
+<li><a href="#chapter-ii--procedure-competences-and-end-of-life" id="toc-chapter-ii--procedure-competences-and-end-of-life">CHAPTER II — PROCEDURE, COMPETENCES AND END OF LIFE</a>
+<ul>
+<li><a href="#art-12--substitution-plan" id="toc-art-12--substitution-plan">Art. 12 — Substitution Plan</a></li>
+<li><a href="#art-13--temporal-validity-of-the-stv-and-audit" id="toc-art-13--temporal-validity-of-the-stv-and-audit">Art. 13 — Temporal validity of the STV and audit</a></li>
+<li><a href="#art-14--stages-of-the-admission-procedure" id="toc-art-14--stages-of-the-admission-procedure">Art. 14 — Stages of the admission procedure</a></li>
+<li><a href="#art-15--decision-making-competence-and-anti-circumvention" id="toc-art-15--decision-making-competence-and-anti-circumvention">Art. 15 — Decision-making competence and anti-circumvention</a></li>
+<li><a href="#art-16--challenge-conflict-of-interest-and-appeal" id="toc-art-16--challenge-conflict-of-interest-and-appeal">Art. 16 — Challenge, conflict of interest and appeal</a></li>
+<li><a href="#art-17--destination-of-the-good-after-exclusion" id="toc-art-17--destination-of-the-good-after-exclusion">Art. 17 — Destination of the good after exclusion</a></li>
+<li><a href="#art-18--inter-code-coordination" id="toc-art-18--inter-code-coordination">Art. 18 — Inter-Code coordination</a></li>
+</ul></li>
+<li><a href="#chapter-iii--external-services" id="toc-chapter-iii--external-services">CHAPTER III — EXTERNAL SERVICES</a>
+<ul>
+<li><a href="#art-19--subject-matter-and-definition-of-external-service" id="toc-art-19--subject-matter-and-definition-of-external-service">Art. 19 — Subject matter and definition of external service</a></li>
+<li><a href="#art-20--service-quality-criteria" id="toc-art-20--service-quality-criteria">Art. 20 — Service quality criteria</a></li>
+<li><a href="#art-21--service-validation-sheet" id="toc-art-21--service-validation-sheet">Art. 21 — Service Validation Sheet</a></li>
+<li><a href="#art-22--hierarchy-duration-and-substitution-plan" id="toc-art-22--hierarchy-duration-and-substitution-plan">Art. 22 — Hierarchy, duration and Substitution Plan</a></li>
+<li><a href="#art-23--service-admission-procedure" id="toc-art-23--service-admission-procedure">Art. 23 — Service admission procedure</a></li>
+<li><a href="#art-24--exclusion-termination-and-continuity" id="toc-art-24--exclusion-termination-and-continuity">Art. 24 — Exclusion, termination and continuity</a></li>
+</ul></li>
+</ul>
+</nav>
+</details>
+</aside>
+<script>if (window.matchMedia("(min-width: 60rem)").matches) document.getElementById("indice").open = true;</script>
+<div class="prosa testo-norma">
+<h2 id="chapter-i--principles-criteria-and-admission">CHAPTER I — PRINCIPLES, CRITERIA AND ADMISSION</h2>
+<h3 id="art-1--subject-matter-and-principle-of-qualitative-sufficiency">Art. 1 — Subject matter and principle of qualitative sufficiency</h3>
+<ol type="1">
+<li>This Code governs the criteria and procedures by which goods and tools are assessed for the purposes of their admission to, retention in, suspension from or exclusion from the Common Storehouses provided for by Code 1.</li>
+<li>Code 1 governs the requirement for, production, conservation, distribution and handling of goods. This Code establishes the quality criteria and the procedures for determining which goods may enter and remain in the common system.</li>
+<li>Services provided by parties external to the Confederation are governed by Chapter III.</li>
+<li>Quality assessment is carried out in relation to actual need and may not be used to introduce requirements unrelated to safety, suitability, durability, repairability or the other criteria provided for by this Code.</li>
+<li>The Quality Council is the technical Council competent for the functions of this Code. It is composed of three to five persons drawn by lot in accordance with Article 12-bis of Code 3.</li>
+</ol>
+<h3 id="art-2--quality-criteria">Art. 2 — Quality criteria</h3>
+<ol type="1">
+<li><p>The quality of a good is assessed by considering the following criteria jointly:</p>
+<p>a) actual usefulness in relation to the need;</p>
+<p>b) durability and length of the life cycle;</p>
+<p>c) repairability and availability of spare parts;</p>
+<p>d) harmlessness to persons, animals and the environment, in accordance with the competences of the relevant Codes;</p>
+<p>e) sobriety in the use of materials, energy and other resources.</p></li>
+<li><p>The criteria may conflict with one another. They are compared in accordance with the multi-criteria procedure defined in the Quality Technical Annex. No automatic formula may replace the reasoned assessment provided for by this Code.</p></li>
+<li><p>Where usefulness and adequacy in relation to the need are equal, preference is given to the good with the lower systemic impact over its complete life cycle.</p></li>
+<li><p>The assessment states the criteria considered, the evidence available, the uncertainties and the reasons for the outcome. The lack of data may not be turned into automatic proof of conformity.</p></li>
+<li><p>The criteria in paragraph 1 implement the principles of Care, Autonomy, Conviviality and Meaning provided for by Article 9.1 of the Constitution: care through harmlessness and durability; autonomy through repairability and the absence of dependencies; conviviality through shared and accessible use; meaning through actual usefulness and sobriety.</p></li>
+</ol>
+<h3 id="art-3--technical-validation-sheet">Art. 3 — Technical Validation Sheet</h3>
+<ol type="1">
+<li><p>Every type or model of good intended for admission to the Central Storehouse shall be accompanied by a Technical Validation Sheet, hereinafter “STV”.</p></li>
+<li><p>The STV is prepared by the Quality Council, with the contribution of the relevant Competence Circle and the opinion of the Health Council on the aspects within its competence. The opinions of the other competent Circles are obtained where the good presents safety, environmental, energy, territorial or digital aspects assigned to them.</p></li>
+<li><p>The STV assesses the type or model of the good. It does not automatically certify each individual item or batch, the checking of which is governed by Article 6.</p></li>
+<li><p>The STV contains at least:</p>
+<p>a) identification of the good, the model and the producer, if available;</p>
+<p>b) origin and materials;</p>
+<p>c) estimated life cycle;</p>
+<p>d) durability and repairability characteristics;</p>
+<p>e) availability and accessibility of spare parts;</p>
+<p>f) proprietary or technological dependencies;</p>
+<p>g) consumption of energy and other resources;</p>
+<p>h) risks and prevention measures;</p>
+<p>i) maintenance required;</p>
+<p>j) arrangements for reuse, recycling or making safe at end of life;</p>
+<p>k) criteria for testing and checking the item;</p>
+<p>l) date of issue, version, persons responsible for the preparatory inquiry, opinions received and date of the scheduled review.</p></li>
+<li><p>The STV is a reasoned act, traced and published on the Network in accordance with the applicable access levels. It may be challenged pursuant to Chapter II.</p></li>
+<li><p>The comparative report provided for by Article 40, paragraph 4, of Code 1 is distinct from the STV. It may refer to or reproduce the relevant technical data of the STV, but it does not replace the economic and functional comparison required by Code 1.</p></li>
+<li><p>STVs are shared in the federated Knowledge Storehouse. A Circle that adopts an STV already validated by another Circle verifies only its adequacy to local conditions.</p></li>
+<li><p>Documentary requirements are proportionate to the risk. For goods in common use presenting no risk or low risk, a simplified STV is sufficient, in accordance with the Quality Technical Annex.</p></li>
+</ol>
+<h3 id="art-4--hierarchy-of-admission-and-reuse">Art. 4 — Hierarchy of admission and reuse</h3>
+<ol type="1">
+<li><p>As a general rule, the alternatives are assessed in the following order of preference:</p>
+<p>a) a good reused or reconditioned locally;</p>
+<p>b) a good self-produced within the Confederation;</p>
+<p>c) a good of external production, provided that it is durable and repairable;</p>
+<p>d) an external good with critical shortcomings, but necessary and with no immediately available alternative, admitted only on a temporary basis with a Substitution Plan.</p></li>
+<li><p>The purchase of a new good is prohibited where a functionally equivalent reused good is available on the Network, except for a reasoned derogation pursuant to paragraph 4.</p></li>
+<li><p>Functional equivalence is determined in accordance with objective criteria stated in the STV and takes account at least of safety, necessary performance, compatibility, availability, delivery times and repair costs.</p></li>
+<li><p>Derogation from the hierarchy is permitted only where the following is documented:</p>
+<p>a) the material impossibility of procuring the alternative within the time needed;</p>
+<p>b) an established technical incompatibility;</p>
+<p>c) the quantitative insufficiency of the alternative in relation to the requirement.</p></li>
+<li><p>The derogation is reasoned and traced on the Network. If it gives rise to a dependency or a temporary critical shortcoming, Articles 5 and 12 apply.</p></li>
+</ol>
+<h3 id="art-5--prohibition-of-critical-proprietary-dependency">Art. 5 — Prohibition of critical proprietary dependency</h3>
+<ol type="1">
+<li><p>Critical proprietary dependency means a condition in which a good, although materially intact, is rendered unusable, limited or unrepairable by the exclusive control of a producer or supplier over software, firmware, cloud services, remote activation keys, licences, spare parts, diagnostics or authentication systems.</p></li>
+<li><p>Critical proprietary dependency is classified in one of the following categories:</p>
+<p>a) <strong>absolute critical dependency:</strong> it causes a total lock or an irreversible proprietary coupling, or makes offline use or community control impossible. It is prohibited and may not be admitted even on a temporary basis;</p>
+<p>b) <strong>residual and surmountable critical dependency:</strong> it causes a partial limitation that can be removed by the Community by means of technically available tools, procedures or substitutions. The good may be admitted only temporarily pursuant to Article 4, paragraph 1, letter d), with a mandatory Substitution Plan.</p></li>
+<li><p>The classification is recorded in the STV, on the basis of a preparatory inquiry by the Quality Council and the opinion of the Network Council. The assessment also considers the concrete possibility, the time and the costs of removing the dependency.</p></li>
+<li><p>The external supplier is required to provide the information and evidence necessary to demonstrate the absence of critical dependencies. In the absence of sufficient information, the STV states the uncertainty and does not presume the absence of the dependency.</p></li>
+<li><p>A residual dependency admitted temporarily is recorded in the Dependency Register provided for by Code 15.</p></li>
+</ol>
+<h3 id="art-6--distinction-between-type-and-item">Art. 6 — Distinction between type and item</h3>
+<ol type="1">
+<li><p>Validation is structured in two levels:</p>
+<p>a) <strong>type level:</strong> the STV determines whether the model or type of the good is admissible in the common system;</p>
+<p>b) <strong>item or batch level:</strong> the check verifies that the good delivered corresponds to the STV, is intact and meets the applicable requirements.</p></li>
+<li><p>The check of the item or batch covers, according to the nature of the good:</p>
+<p>a) integrity and absence of damage;</p>
+<p>b) expiry date and conservation conditions;</p>
+<p>c) functioning;</p>
+<p>d) transport damage;</p>
+<p>e) correspondence to the specifications of the STV.</p></li>
+<li><p>The non-conformity of a single item does not automatically entail the review of the STV for the type. The review is initiated when the anomalies indicate a systematic defect or a possible variation of the model.</p></li>
+<li><p>The ordinary check of the item may be carried out within the generic CBO by means of a checklist derived from the STV. The outcome is recorded in the Storehouse Register.</p></li>
+<li><p>A non-conforming item is isolated and not distributed until the decision of the competent Circle.</p></li>
+</ol>
+<h3 id="art-7--supervision-and-reports">Art. 7 — Supervision and reports</h3>
+<ol type="1">
+<li><p>Any member may report defects, suspected harmfulness, premature breakage or any other non-conformity. The report is recorded on the Network and contains, as far as possible, the description of the good, the type of anomaly and the evidence available.</p></li>
+<li><p>Reports are handled in accordance with two procedures:</p>
+<p>a) <strong>ordinary report:</strong> three documented and independent reports relating to the same type entail the mandatory review of the STV;</p>
+<p>b) <strong>serious report:</strong> one documented report of a health or safety risk entails the immediate assessment of precautionary suspension pursuant to paragraph 3. In the event of a serious and immediate risk, the good or batch concerned is suspended without delay and the review is initiated within seven days.</p></li>
+<li><p>Precautionary suspension constitutes neither a sanction nor a definitive finding of non-conformity. During the suspension the good concerned is not distributed, except for a substitute measure that is necessary to guarantee the continuity of an essential service and is considered safe by the competent Circles.</p></li>
+<li><p>The reporting person is protected from retaliation in accordance with Code 4. Reports are assessed without automatically attributing responsibility to producers, suppliers or users.</p></li>
+</ol>
+<h3 id="art-8--exclusion-and-rapid-suspension">Art. 8 — Exclusion and rapid suspension</h3>
+<ol type="1">
+<li><p>The good or the type may be suspended or excluded for intrinsic non-conformity, including:</p>
+<p>a) presence of substances prohibited by the Health Council in accordance with the competences assigned to it;</p>
+<p>b) energy consumption disproportionate to the usefulness, without technical justification;</p>
+<p>c) established serious risk;</p>
+<p>d) failure to correspond to the essential requirements of the STV;</p>
+<p>e) impossibility of safely guaranteeing use, maintenance or end of life.</p></li>
+<li><p>The decision distinguishes between:</p>
+<p>a) precautionary suspension, adopted pending verification where there is a risk that cannot be ruled out;</p>
+<p>b) definitive exclusion, adopted after a preparatory inquiry and a reasoned decision;</p>
+<p>c) limitation of use, where the risk can be contained by excluding specific conditions or uses.</p></li>
+<li><p>The compatibility of commercial practices or of the relationship with the supplier is assessed separately from the intrinsic technical conformity of the good. By way of example, systematic misleading advertising or the artificial creation of dependencies may be relevant.</p></li>
+<li><p>The assessment of the relationship with the supplier is coordinated with Code 15. Technical measures concerning the good remain within the competence of the bodies provided for by this Code.</p></li>
+<li><p>Every suspension or exclusion is reasoned, recorded and communicated to the parties concerned. The appeals provided for by Chapter II remain available.</p></li>
+</ol>
+<h3 id="art-9--quality-of-the-service-and-of-the-cbo">Art. 9 — Quality of the service and of the CBO</h3>
+<ol type="1">
+<li><p>The quality criteria also apply to internal tasks and services. A CBO activity is adequately organised when:</p>
+<p>a) it is carried out safely in accordance with Article 27 of Code 1 and Code 14;</p>
+<p>b) the person has received the training provided for by Article 28 of Code 1;</p>
+<p>c) the necessary tools are available pursuant to Article 26 of Code 1;</p>
+<p>d) the time allotted is realistic and compatible with the correct performance of the task;</p>
+<p>e) the result is verifiable against the applicable specifications.</p></li>
+<li><p>The hurried performance of a task, where it compromises the quality of the good or service, is treated first of all as a possible organisational inefficiency or planning error. It does not automatically constitute individual fault.</p></li>
+<li><p>Any individual responsibility is assessed separately and in accordance with the guarantees of Code 4.</p></li>
+<li><p>The repeated negative validation of a work, a good or a service does not entail personal sanctions. It may result in the suspension of the drawing of common resources intended for that specific production and the start of an accompaniment process with the competent Council, pursuant to Article 9.3 of the Constitution.</p></li>
+</ol>
+<h3 id="art-10--documentary-architecture">Art. 10 — Documentary architecture</h3>
+<ol type="1">
+<li><p>The documentary procedure ordinarily follows this sequence:</p>
+<p>a) proposal for admission;</p>
+<p>b) preparatory inquiry;</p>
+<p>c) drafting of the STV;</p>
+<p>d) admission decision;</p>
+<p>e) any comparative purchase report provided for by Code 1;</p>
+<p>f) registration in the Storehouse;</p>
+<p>g) monitoring and reports;</p>
+<p>h) review, suspension or exclusion, if necessary.</p></li>
+<li><p>The STV is the reference technical document for the type of the good. It does not replace the decision-making acts, the economic reports or the registers required by the other Codes.</p></li>
+<li><p>STVs, reports, reviews and the Exclusions Register are published on the Network in accordance with the access levels and the confidentiality guarantees provided for by Codes 3, 6 and 7.</p></li>
+<li><p>The documentation shall state the version, date, persons responsible and links to the underlying acts, so as to allow the procedure to be reconstructed.</p></li>
+</ol>
+<h3 id="art-11--transitional-provision">Art. 11 — Transitional provision</h3>
+<ol type="1">
+<li>Goods already present in the Storehouses on the date of entry into force of this Code may remain in use for a maximum period of twelve months pending the STV, except in the cases provided for by Article 8.</li>
+<li>During the transitional period, the goods are inventoried and subjected at least to the item checks provided for by Article 6.</li>
+<li>The twelve-month time limit is an initial one and may be recalibrated by the Assembly on the basis of the Circles’ capacity to conduct preparatory inquiries. The extension does not apply to goods for which a serious risk or an absolute critical proprietary dependency has been established.</li>
+</ol>
+<h2 id="chapter-ii--procedure-competences-and-end-of-life">CHAPTER II — PROCEDURE, COMPETENCES AND END OF LIFE</h2>
+<h3 id="art-12--substitution-plan">Art. 12 — Substitution Plan</h3>
+<ol type="1">
+<li><p>A Substitution Plan is mandatory for:</p>
+<p>a) every good admitted temporarily pursuant to Article 4, paragraph 1, letter d);</p>
+<p>b) every good with a residual and surmountable critical proprietary dependency pursuant to Article 5, paragraph 2, letter b).</p></li>
+<li><p>The Plan contains at least:</p>
+<p>a) the reasons for the temporary necessity;</p>
+<p>b) the alternatives examined and the reasons why they are not immediately available;</p>
+<p>c) the dependency to be removed;</p>
+<p>d) the solution envisaged;</p>
+<p>e) the Circle and the person responsible for implementation;</p>
+<p>f) a deadline not exceeding twelve months;</p>
+<p>g) the state of progress, updated at least quarterly and published in accordance with the applicable access levels;</p>
+<p>h) the criteria that determine exit from the temporary regime.</p></li>
+<li><p>The deadline may be extended once only, for a reasoned period not exceeding twelve months, where a technical or material impossibility not attributable to organisational inertia is documented. The extension is approved by the competent body in accordance with Article 15.</p></li>
+<li><p>If the deadline passes without the dependency having been removed or the envisaged solution implemented, the good automatically passes to review for the purposes of suspension or exclusion. The review also considers any need to guarantee the continuity of an essential service.</p></li>
+</ol>
+<h3 id="art-13--temporal-validity-of-the-stv-and-audit">Art. 13 — Temporal validity of the STV and audit</h3>
+<ol type="1">
+<li><p>Every STV is subjected to an audit at least every twenty-four months, unless the STV sets a shorter time limit by reason of the criticality, the technology or the risks of the good.</p></li>
+<li><p>An extraordinary review is initiated in the cases provided for by Article 7 or when any of the following occur:</p>
+<p>a) substantial modifications of the good or of the production process;</p>
+<p>b) new evidence on harmfulness, safety or durability;</p>
+<p>c) changes in the availability of spare parts or alternatives;</p>
+<p>d) variations in proprietary dependencies;</p>
+<p>e) significant changes in the requirement.</p></li>
+<li><p>The audit verifies:</p>
+<p>a) the continued fulfilment of the quality criteria referred to in Article 2;</p>
+<p>b) the existence of reuse or reconditioning alternatives;</p>
+<p>c) the state of removal of proprietary dependencies;</p>
+<p>d) the correctness of the checks on items;</p>
+<p>e) the validity of the maintenance and end-of-life measures.</p></li>
+<li><p>The outcome of the audit is recorded. Where critical shortcomings are found, the corrective measures, the person responsible and the time limit for implementation are stated.</p></li>
+</ol>
+<h3 id="art-14--stages-of-the-admission-procedure">Art. 14 — Stages of the admission procedure</h3>
+<ol type="1">
+<li><p>The ordinary admission procedure comprises:</p>
+<p>a) submission of the proposal for admission;</p>
+<p>b) preparatory inquiry by the Quality Council;</p>
+<p>c) drafting of a provisional STV;</p>
+<p>d) obtaining the opinion of the Health Council on the harmlessness aspects within its competence; a negative opinion prevents admission until the critical shortcoming has been resolved;</p>
+<p>e) obtaining the technical opinion of the relevant Competence Circle and of the other competent Circles, where necessary;</p>
+<p>f) reasoned admission decision pursuant to Article 15;</p>
+<p>g) any trial period in a pilot Pantry;</p>
+<p>h) entry into the Central Storehouse with the STV in force;</p>
+<p>i) monitoring and collection of reports;</p>
+<p>j) periodic or extraordinary review;</p>
+<p>k) any reasoned suspension or exclusion;</p>
+<p>l) access to the challenge and appeal procedures.</p></li>
+<li><p>The provisional STV states which verifications are still in progress and the conditions of use applicable during the preparatory inquiry.</p></li>
+<li><p>The trial period may not be used to distribute unsafe goods or to circumvent the binding opinion provided for by paragraph 1, letter d).</p></li>
+<li><p>The procedure is coordinated with Code 1 as regards the aspects of supply, purchase, registration and distribution.</p></li>
+</ol>
+<h3 id="art-15--decision-making-competence-and-anti-circumvention">Art. 15 — Decision-making competence and anti-circumvention</h3>
+<ol type="1">
+<li><p>The final decision on admission is adopted as follows:</p>
+<p>a) for goods below the economic threshold established by Code 3 and in common use, the Quality Council decides on the basis of the STV, stating its reasons;</p>
+<p>b) for goods above the threshold, for those with a high systemic impact or for those with a residual critical dependency pursuant to Article 5, paragraph 2, letter b), the Quality Council formulates a proposal and the Assembly of Circle 1 decides in accordance with Code 3.</p></li>
+<li><p>The economic threshold is calculated on the overall value of the operation and includes, as far as foreseeable:</p>
+<p>a) the cost of the batch;</p>
+<p>b) transport and installation;</p>
+<p>c) maintenance envisaged for the following twenty-four months;</p>
+<p>d) training;</p>
+<p>e) processing and transfer of data, if applicable;</p>
+<p>f) end-of-life costs.</p></li>
+<li><p>It is prohibited to split the purchase or the operation artificially in order to circumvent the threshold. Operations linked by subject matter, supplier, time or function are considered as a single whole where there are elements demonstrating their unity.</p></li>
+<li><p>The threshold and the methods of calculation are established by Code 3.</p></li>
+<li><p>Every decision is traced on the Network with the STV and any opinions attached, in compliance with the applicable access levels.</p></li>
+</ol>
+<h3 id="art-16--challenge-conflict-of-interest-and-appeal">Art. 16 — Challenge, conflict of interest and appeal</h3>
+<ol type="1">
+<li><p>Any member may challenge an STV with a statement of reasons and technical documentation, indicating the parts challenged and the evidence available.</p></li>
+<li><p>The challenge produces the following effects:</p>
+<p>a) an ordinary challenge does not suspend the validity of the STV, but is recorded and entered into the review procedure;</p>
+<p>b) where there is a documented serious risk, precautionary suspension may be requested. The Quality Council and the Health Council, each within its own competence, assess within forty-eight hours whether the conditions for the measure provided for by Article 7, paragraph 2, letter b) are met;</p>
+<p>c) an appeal against the final decision lies to the Guarantee Circle. The appeal does not have suspensive effect, unless the Guarantee decides otherwise, stating its reasons, where there is a serious risk or possible irreversible harm.</p></li>
+<li><p>Anyone who took part in the drafting or approval of the original STV may not be the sole decision-maker in the review or challenge relating to the same decision.</p></li>
+<li><p>The review is carried out collegially or with the participation of a different and independent member. Conflicts of interest and the related replacements are handled in accordance with Code 4.</p></li>
+<li><p>Decisions on challenges and appeals are reasoned, recorded and communicated to those concerned.</p></li>
+<li><p>Validation involves those who use the good or service, those who possess the relevant competence and those who manage the logistics of the Storehouse, pursuant to Article 9.2 of the Constitution. Validation carried out exclusively by an AI is prohibited. The right to contest a validation before the Assembly of Circle 1, pursuant to Article 9.4 of the Constitution, remains unaffected.</p></li>
+</ol>
+<h3 id="art-17--destination-of-the-good-after-exclusion">Art. 17 — Destination of the good after exclusion</h3>
+<ol type="1">
+<li><p>The exclusion of a good does not automatically entail its destruction.</p></li>
+<li><p>Pending the decision on its final destination, the good may be suspended or placed in quarantine for the necessary verifications.</p></li>
+<li><p>The final destination follows, in order, the applicable criteria:</p>
+<p>a) repair or reconditioning;</p>
+<p>b) downgrading to a non-critical use compatible with the condition of the good;</p>
+<p>c) return to the supplier, where provided for or practicable;</p>
+<p>d) recovery or recycling of the materials;</p>
+<p>e) making safe, in accordance with Article 15 of Code 1.</p></li>
+<li><p>The decision is adopted by the Quality Council together with the Storehouse Council and with the other Circles competent for the specific type of good. It is reasoned and traced.</p></li>
+<li><p>The destination is coordinated with Article 15 of Code 1 and follows the principles of waste reduction and maximum safety.</p></li>
+</ol>
+<h3 id="art-18--inter-code-coordination">Art. 18 — Inter-Code coordination</h3>
+<ol type="1">
+<li><p>This Code is coordinated with:</p>
+<p>a) Code 1, Article 40, for the comparative report on purchases, which remains distinct from the STV;</p>
+<p>b) Code 3, for thresholds, the Assembly and the UCR;</p>
+<p>c) Code 15, for external relations and commercial practices;</p>
+<p>d) Code 4, for appeals, procedural guarantees and responsibility;</p>
+<p>e) Code 6, for health aspects;</p>
+<p>f) Code 7, for the Network, digital security and data processing;</p>
+<p>g) the sectoral Codes relevant to the good or service assessed.</p></li>
+<li><p>Competences are assigned expressly. No decision of admission, suspension or exclusion may be based on a competence that has not been identified or on an opinion that is not accessible to those entitled to it.</p></li>
+<li><p>Every exclusion is reasoned on the basis of the STV or, in the case of a service, of the SVS and may be challenged in accordance with this Code and Code 4.</p></li>
+<li><p>The inter-Code procedures are reviewed when new versions of Codes 3 or 15 enter into force, or when overlaps of competence emerge.</p></li>
+</ol>
+<h2 id="chapter-iii--external-services">CHAPTER III — EXTERNAL SERVICES</h2>
+<h3 id="art-19--subject-matter-and-definition-of-external-service">Art. 19 — Subject matter and definition of external service</h3>
+<ol type="1">
+<li><p>External service means a service, whether continuous or one-off, provided by a party external to the Confederation, recourse to which is justified by internal unavailability, demonstrable temporary efficiency or the need for a specialist competence that cannot be immediately internalised.</p></li>
+<li><p>An external service may be admitted only where at least one of the following conditions is documented:</p>
+<p>a) absence of an internal person available within the CBO;</p>
+<p>b) absence of the necessary competence within the Confederation;</p>
+<p>c) demonstrable temporary efficiency compared with the internal alternatives;</p>
+<p>d) need for a certified specialist service.</p></li>
+<li><p>The reasons are traced in the Service Validation Sheet provided for by Article 21.</p></li>
+<li><p>By way of example, specialist maintenance, connectivity, off-network transport, certified technical consultancy, specialist health services and digital services may constitute external services.</p></li>
+<li><p>An external service is not a good and is not subject to an STV. It is assessed by means of a Service Validation Sheet, hereinafter “SVS”.</p></li>
+</ol>
+<h3 id="art-20--service-quality-criteria">Art. 20 — Service quality criteria</h3>
+<ol type="1">
+<li><p>An external service is assessed in accordance with the following criteria:</p>
+<p>a) <strong>continuity:</strong> availability for the envisaged duration and existence of an adequate continuity plan;</p>
+<p>b) <strong>competence:</strong> trained and, where required, certified personnel;</p>
+<p>c) <strong>safety:</strong> compliance with the health and safety rules provided for by Code 1, Article 27, by Code 14 and by the other relevant Codes;</p>
+<p>d) <strong>substitutability:</strong> absence, where technically possible, of exclusive dependency and provision for the transfer of the competences necessary for internal management;</p>
+<p>e) <strong>interoperability:</strong> possibility of using open standards and of returning data and materials in interoperable formats;</p>
+<p>f) <strong>sobriety:</strong> proportionality of costs in UCR, energy consumption and use of materials in relation to the requirement;</p>
+<p>g) <strong>data sovereignty and data processing:</strong> where the service processes members’ data or data of the Confederation, the following requirements shall be guaranteed cumulatively:</p>
+<p>i. location of the data and applicable jurisdiction declared in the SVS;</p>
+<p>ii. control and governance of the data by the Community, without prejudice to the rights of the persons to whom the data relate;</p>
+<p>iii. prohibition of profiling and of the transfer of data to third parties for unauthorised purposes;</p>
+<p>iv. encryption of data in transit and at rest, with control of the keys by the Community or with an escrow mechanism described in the SVS;</p>
+<p>v. declaration and approval of sub-suppliers and sub-processors; prohibition of concealed subcontracting;</p>
+<p>vi. certified deletion or complete migration of the data at the end of the relationship, within the time limit established in the SVS;</p>
+<p>vii. return of the data in an interoperable and documented format.</p></li>
+<li><p>The mere location of the data in the European Union does not, in itself, demonstrate the Community’s sovereignty or control over the data.</p></li>
+<li><p>The requirements of this Article are coordinated with Articles 37 and 38 of Code 1 and with Code 7.</p></li>
+<li><p>If a requirement cannot be met, the SVS states the derogation requested, the reasons for it, its duration, the compensatory measures and the exit plan. The derogation may not authorise an absolute critical proprietary dependency prohibited by Article 5.</p></li>
+</ol>
+<h3 id="art-21--service-validation-sheet">Art. 21 — Service Validation Sheet</h3>
+<ol type="1">
+<li><p>Every external service is accompanied by an SVS containing at least:</p>
+<p>a) identity of the supplier and description of the service;</p>
+<p>b) reasons for admission pursuant to Article 19;</p>
+<p>c) envisaged duration and renewal conditions;</p>
+<p>d) assessment of the criteria referred to in Article 20;</p>
+<p>e) proprietary and technological dependencies;</p>
+<p>f) overall cost, including foreseeable ancillary items;</p>
+<p>g) exit and termination conditions;</p>
+<p>h) Substitution Plan or Continuity Plan;</p>
+<p>i) arrangements for the processing, return, migration and deletion of data;</p>
+<p>j) persons responsible for monitoring and verification.</p></li>
+<li><p>No collective contract relating to an external service may be concluded without an approved SVS.</p></li>
+<li><p>The SVS is a reasoned act, traced and published in accordance with the applicable access levels. It may be challenged in accordance with the procedures provided for the STV, in so far as they are compatible.</p></li>
+<li><p>The technical quality of the service is distinct from the compatibility of the commercial relationship with the supplier. The latter is assessed and managed in coordination with Code 15.</p></li>
+</ol>
+<h3 id="art-22--hierarchy-duration-and-substitution-plan">Art. 22 — Hierarchy, duration and Substitution Plan</h3>
+<ol type="1">
+<li><p>In meeting a requirement, the following order of preference is followed:</p>
+<p>a) internal service within the CBO;</p>
+<p>b) service provided by another Circle;</p>
+<p>c) cooperative external service;</p>
+<p>d) commercial external service.</p></li>
+<li><p>The ordinary duration of an external service does not exceed twelve months. Only one ordinary renewal is permitted. The Substitution Plan or the Continuity Plan is drawn up at the time of admission and not merely at expiry.</p></li>
+<li><p>Where the service is necessary beyond twenty-four months, the SVS shall give reasons for and state one of the following solutions:</p>
+<p>a) internalisation of the service within the CBO;</p>
+<p>b) adoption of an external alternative, identified after comparing at least two options, where available;</p>
+<p>c) exceptional, temporary and reasoned renewal, where no technically equivalent alternative exists.</p></li>
+<li><p>The exceptional renewal referred to in paragraph 3, letter c), does not exceed a further twelve months, is subject to mandatory review and entails an active search for alternatives. It is not automatically renewable.</p></li>
+<li><p>The absence of two alternatives that are actually available does not automatically block a critical service. In that case the SVS documents the absence of alternatives, the reasons for continuation, the measures to reduce the dependency and the date of the next review.</p></li>
+</ol>
+<h3 id="art-23--service-admission-procedure">Art. 23 — Service admission procedure</h3>
+<ol type="1">
+<li><p>The ordinary admission procedure comprises:</p>
+<p>a) submission of the proposal with reasons pursuant to Article 19;</p>
+<p>b) preparatory inquiry by the Quality Council, together with the relevant Competence Circle and the Network Council where the service processes data or depends on digital infrastructure;</p>
+<p>c) drafting of the provisional SVS;</p>
+<p>d) obtaining the opinion of the Health Council where the service concerns persons, health or safety;</p>
+<p>e) decision of the Quality Council for services below the threshold and in common use, or proposal of the Quality Council and decision of the Assembly for the cases provided for by Article 15;</p>
+<p>f) conclusion of the contract with clauses on exit, continuity, return of data and management of dependencies;</p>
+<p>g) continuous monitoring and handling of reports;</p>
+<p>h) audit at least every twelve months, or more frequently where the nature of the service or the level of risk so requires;</p>
+<p>i) possibility of challenge and appeal to the Guarantee Circle.</p></li>
+<li><p>The provisional SVS states the verifications still necessary and the conditions applicable before definitive approval.</p></li>
+<li><p>The contract may not contain clauses incompatible with the approved SVS.</p></li>
+</ol>
+<h3 id="art-24--exclusion-termination-and-continuity">Art. 24 — Exclusion, termination and continuity</h3>
+<ol type="1">
+<li><p>A service may be suspended or excluded when:</p>
+<p>a) it no longer meets the criteria of Article 20;</p>
+<p>b) the supplier breaches the requirements of Article 20, letter g), concerning data;</p>
+<p>c) it gives rise to or maintains an absolute critical proprietary dependency;</p>
+<p>d) the reasons that justified its admission cease to exist;</p>
+<p>e) the supplier does not implement the corrective measures provided for in the SVS.</p></li>
+<li><p>The technical exclusion of the service and the termination of the relationship with the supplier are distinct decisions. Termination shall be accompanied by continuity measures where the interruption could compromise an essential service.</p></li>
+<li><p>Except in an emergency requiring immediate suspension in order to protect persons or data, termination follows a reasoned procedure that allows the supplier and the competent Circles to be informed and to prepare the transition.</p></li>
+<li><p>The exit procedure comprises, as the case may be:</p>
+<p>a) activation of the Continuity Plan;</p>
+<p>b) migration or substitution with an internal service or an alternative service;</p>
+<p>c) verification of the deletion or certified transfer of the data;</p>
+<p>d) return of the data in an interoperable and documented format;</p>
+<p>e) closure of accesses, credentials and technical dependencies;</p>
+<p>f) recording of the closure of the relationship.</p></li>
+<li><p>For critical services, including connectivity, digital services, infrastructure maintenance and specialist health services, the Continuity Plan is drawn up so as to avoid interruptions. If the absence of interruption is not technically possible, the plan states the duration, the effects, the temporary measures and the responsibilities.</p></li>
+<li><p>The continuity plan may not justify the indefinite maintenance of a non-conforming service. Every temporary continuation is reasoned, limited in time and subject to review.</p></li>
+</ol>
+</div>
+</div>
+</article>
+</main>
+<footer class="piede">
+  <p class="avviso">This is a working translation. The Italian text is the authoritative one.</p>
+  <p>This text is published under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> licence: anyone may copy, modify and republish it, citing the source and keeping the same licence.</p>
+  <p class="piccolo"><a href="../register/changes.html">Change log</a> · <a href="../contributing.html">How to contribute</a> · <a href="https://github.com/ImTheZeroIt/progetto-dei-cerchi">Repository</a></p>
+</footer>
+</body>
+</html>
