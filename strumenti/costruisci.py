@@ -73,6 +73,7 @@ LINGUE = {
                            "per intero, citando la fonte, ma non modificarlo. Per tradurlo o adattarlo serve il "
                            "permesso degli autori: vedi <a href=\"{con}\">come contribuire</a>.",
             avviso="",
+            bozza="Bozza in verifica: non adottata, non sperimentata",
             modifiche="Registro delle modifiche", come_contribuire="Come contribuire",
             capitolo="Capitolo {n} di {tot} · {min} min di lettura",
             continua="Continua · capitolo {n} di {tot}",
@@ -95,6 +96,28 @@ LINGUE = {
                     "vita collettiva. Comincia dalla persona, organizza la collettività e costruisce gli "
                     "strumenti perché nessuna delle due debba dominare l’altra.",
             comincia="Comincia dal percorso", vai_regole="Vai alle regole",
+            h_minuto="In un minuto",
+            minuto=[
+                ("Che cos’è", "Una proposta di organizzazione sociale scritta per intero: una Costituzione, 16 Codici "
+                              "e 4 Allegati. Non è in vigore da nessuna parte."),
+                ("Come è fatta", "Comunità di base da 30 a 500 persone, che decidono in assemblea e si federano in "
+                                 "livelli più ampi, fino al pianeta. Nessun livello comanda quello sotto. Gli "
+                                 "incarichi sono assegnati per sorteggio tra volontari, durano poco e non si "
+                                 "ripetono di seguito."),
+                ("Che cosa garantisce", "A ogni membro casa, cibo, acqua, energia, cure, istruzione e connessione: "
+                                        "non sono il compenso del lavoro. I beni si prendono dai Magazzini comuni "
+                                        "secondo il bisogno; il denaro è abolito. Terra, acqua, energia e mezzi di "
+                                        "produzione sono beni comuni, che non si comprano e non si vendono. Restano "
+                                        "personali la casa in uso e i propri oggetti."),
+                ("Che cosa chiede", "A ogni adulto che può, una quota a rotazione del lavoro necessario a tutti. E la "
+                                    "rinuncia alla proprietà privata dei mezzi di produzione, all’accumulo, alle "
+                                    "armi e allo sfruttamento degli animali, macellazione compresa. Chi non ci sta "
+                                    "può uscire in qualsiasi momento, e rientrare."),
+                ("Che cosa non sappiamo", "Se funziona. Nessuna comunità l’ha ancora messa alla prova. Molte soglie e "
+                                          "quantità sono ipotesi da verificare. Come ci si arrivi dal sistema "
+                                          "attuale, e se regga su grande scala, è scritto ma mai provato. Per questo "
+                                          "ogni testo è pubblico e si può correggere."),
+            ],
             h_percorso="Il percorso",
             guida_percorso="Quattro letture in sequenza: da dove veniamo, dove siamo, che cosa non funziona, "
                            "che cosa proponiamo.",
@@ -157,6 +180,7 @@ LINGUE = {
                            "in full, citing the source, but may not modify it. Translating or adapting it "
                            "requires the authors’ permission: see <a href=\"{con}\">how to contribute</a>.",
             avviso="This is a working translation. The Italian text is the authoritative one.",
+            bozza="Draft under review: not adopted, not tested",
             modifiche="Change log", come_contribuire="How to contribute",
             capitolo="Chapter {n} of {tot} · {min} min read",
             continua="Continue · chapter {n} of {tot}",
@@ -179,6 +203,28 @@ LINGUE = {
                     "life today. It starts from the person, organises the collectivity and builds the tools "
                     "so that neither has to dominate the other.",
             comincia="Start with the path", vai_regole="Go to the rules",
+            h_minuto="In one minute",
+            minuto=[
+                ("What it is", "A proposal for organising society, written out in full: a Constitution, 16 Codes and "
+                               "4 Annexes. It is not in force anywhere."),
+                ("How it is built", "Base Communities of 30 to 500 people, which decide in assembly and federate into "
+                                    "wider levels, up to the planet. No level commands the one below. Roles are "
+                                    "assigned by lot among volunteers, last a short time and cannot be held twice "
+                                    "in a row."),
+                ("What it guarantees", "To every member a home, food, water, energy, health care, education and "
+                                       "connectivity: these are not payment for work. Goods are taken from the "
+                                       "Common Storehouses according to need; money is abolished. Land, water, "
+                                       "energy and the means of production are commons, which cannot be bought or "
+                                       "sold. The home one lives in and one’s own belongings remain personal."),
+                ("What it asks", "Of every adult who is able, a rotating share of the work everyone needs. And "
+                                 "giving up private ownership of the means of production, accumulation, weapons "
+                                 "and the exploitation of animals, slaughter included. Anyone who does not agree "
+                                 "can leave at any time, and come back."),
+                ("What we do not know", "Whether it works. No community has put it to the test yet. Many thresholds "
+                                        "and quantities are hypotheses to be verified. How to get there from the "
+                                        "present system, and whether it holds at large scale, is written but never "
+                                        "tried. This is why every text is public and can be corrected."),
+            ],
             h_percorso="The path",
             guida_percorso="Four readings in sequence: where we come from, where we are, what does not work, "
                            "what we propose.",
@@ -424,7 +470,7 @@ def pagina(lingua, titolo, descrizione, corpo, profondita, sezione="", gemella="
     cambio = ('<a class="lingua" href="%s%s" lang="%s" hreflang="%s">%s</a>'
               % (base, gemella, lingua["altra"], lingua["altra"], lingua["nome_altra"])) if gemella else ""
     deposito = (' · <a href="%s">%s</a>' % (html.escape(REPOSITORY), t["repository"])) if REPOSITORY else ""
-    avviso = ('<p class="avviso">%s</p>' % t["avviso"]) if t["avviso"] else ""
+    avviso = ('<p class="avviso" role="note">%s</p>' % t["avviso"]) if t["avviso"] else ""
     licenza = '<a href="%s">%s</a>' % (lingua["licenza_url"], LICENZA)
     licenza_p = '<a href="%s">%s</a>' % (lingua["licenza_percorso_url"], LICENZA_PERCORSO)
     piede = t["piede_%s" % sezione] if ("piede_%s" % sezione) in t else t["piede"]
@@ -445,11 +491,11 @@ def pagina(lingua, titolo, descrizione, corpo, profondita, sezione="", gemella="
   <a class="marchio" href="%(radice)sindex.html">%(logo)s<span>%(nome)s</span></a>
   <nav aria-label="%(sezioni)s">%(v1)s%(v2)s%(v3)s%(cambio)s</nav>
 </header>
+%(avviso)s
 <main id="contenuto">
 %(corpo)s
 </main>
 <footer class="piede">
-  %(avviso)s
   <p>%(piede)s</p>
   <p class="piccolo"><a href="%(radice)s%(reg)s/%(pmod)s">%(modifiche)s</a> · <a href="%(radice)s%(pcon)s">%(come)s</a>%(deposito)s</p>
 </footer>
@@ -564,7 +610,7 @@ def costruisci_lingua(lingua, altra):
 <header class="apertura">
   <p class="briciole"><a href="index.html">%(registro)s</a> / %(breve)s</p>
   <h1>%(titolo)s</h1>
-  <p class="dati"><span class="versione">%(versione)s</span>%(scarica)s</p>
+  <p class="dati"><span class="versione">%(versione)s</span><span class="stato">%(bozza)s</span>%(scarica)s</p>
   %(dettagli)s
 </header>
 <div class="colonne">
@@ -580,7 +626,7 @@ def costruisci_lingua(lingua, altra):
 </div>
 </article>""" % dict(registro=t["registro"], breve=html.escape(meta["breve"]), indice=t["indice"],
                      titolo=html.escape(titolo_leggibile(meta["titolo"], lingua["maiuscole"])),
-                     versione=meta["versione"], scarica=scaricabili(lingua, meta["slug"], 1),
+                     versione=meta["versione"], bozza=t["bozza"], scarica=scaricabili(lingua, meta["slug"], 1),
                      dettagli=dettagli, sommario=sommario, corpo=corpo)
         scrivi(lingua, "%s/%s.html" % (dr, meta["slug"]),
                pagina(lingua, "%s — %s" % (meta["breve"], nome),
@@ -596,6 +642,7 @@ def costruisci_lingua(lingua, altra):
 <header class="apertura">
   <h1>%s</h1>
   <p class="sottotitolo">%s</p>
+  <p><span class="stato">%s</span></p>
 </header>
 <h2>%s</h2>
 <ul class="testi">%s</ul>
@@ -605,7 +652,7 @@ def costruisci_lingua(lingua, altra):
 <ul class="testi">%s</ul>
 <h2>%s</h2>
 <p>%s</p>
-</section>""" % (t["registro"], t["reg_sotto"].format(mod=lingua["pag_modifiche"]), t["h_cost"],
+</section>""" % (t["registro"], t["reg_sotto"].format(mod=lingua["pag_modifiche"]), t["bozza"], t["h_cost"],
                  elenco("costituzione"), t["h_codici"], elenco("codici"), t["h_allegati"], elenco("allegati"),
                  t["h_come"], t["come"])
     scrivi(lingua, "%s/index.html" % dr,
@@ -642,9 +689,17 @@ def costruisci_lingua(lingua, altra):
     <p class="etichetta">%(etichetta)s</p>
     <h1>%(domanda)s</h1>
     <p class="attacco">%(attacco)s</p>
+    <p><span class="stato">%(bozza)s</span></p>
     <p class="azioni"><a class="bottone" href="%(dp)s/%(primo)s.html">%(comincia)s</a><a class="secondario" href="%(dr)s/index.html">%(vai)s</a></p>
   </div>
   %(figura)s
+</section>
+
+<section class="blocco minuto" aria-labelledby="minuto">
+  <h2 id="minuto">%(h_minuto)s</h2>
+  <dl>
+%(minuto)s
+  </dl>
 </section>
 
 <section id="percorso" class="blocco">
@@ -675,11 +730,13 @@ def costruisci_lingua(lingua, altra):
 </section>""" % dict(
         etichetta=t["etichetta"], domanda=t["domanda"], attacco=t["attacco"], dp=dp, dr=dr,
         primo=percorso[0][0]["slug"], comincia=t["comincia"], vai=t["vai_regole"], figura=copertina(lingua),
+        h_minuto=t["h_minuto"],
+        minuto="\n".join("    <div><dt>%s</dt><dd>%s</dd></div>" % (html.escape(a), html.escape(b)) for a, b in t["minuto"]),
         h_percorso=t["h_percorso"], guida_percorso=t["guida_percorso"], passi=passi, h_regole=t["h_regole"],
         guida_regole=t["guida_regole"], cost=costituzione["slug"], h_cost=t["h_cost"],
         vcost=costituzione["versione"], codall=t["codici_allegati"].format(nc=nc, na=na),
         registro=t["registro"].lower(), pmod=lingua["pag_modifiche"], modifiche=t["modifiche"],
-        storico=t["storico"], h_aperto=t["h_aperto"], h_stato=t["h_stato"], stato=t["stato"],
+        storico=t["storico"], h_aperto=t["h_aperto"], h_stato=t["h_stato"], stato=t["stato"], bozza=t["bozza"],
         h_licenza=t["h_licenza"], licenza=t["licenza"].format(lic=licenza, licp=licenza_p), contribuire=t["contribuire"],
         ctesto=t["contribuire_testo"], pcon=lingua["pag_contribuire"], come=t["come_contribuire"])
     scrivi(lingua, "index.html",
