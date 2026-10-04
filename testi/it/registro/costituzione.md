@@ -1,0 +1,680 @@
+---
+titolo: "COSTITUZIONE DELLA CONFEDERAZIONE DEI CERCHI"
+breve: "Costituzione"
+versione: "V.29"
+gruppo: "costituzione"
+ordine: 0
+id: "costituzione"
+slug: "costituzione"
+natura: "testo fondativo supremo della Confederazione dei Cerchi"
+---
+
+## Art. 0 — Finalità
+
+0.1. La Confederazione dei Cerchi nasce dalla consapevolezza che l’accumulo illimitato, la proprietà esclusiva delle risorse vitali e la crescita indefinita su un pianeta finito abbiano contribuito a crisi ecologiche, sociali ed esistenziali non più sostenibili. La Confederazione persegue la sopravvivenza, la dignità e la possibilità di fioritura di ogni forma di vita attraverso un cambiamento radicale del modello di organizzazione comune.
+
+0.2. La Confederazione non è uno Stato-nazione e non si fonda su confini politici o identità etnico-culturali tradizionali. Ha vocazione globale e planetaria ed è aperta all’intera umanità, senza distinzioni di origine o provenienza geografica. Promuove la cooperazione tra comunità e la ricomposizione del rapporto tra esseri umani e biosfera.
+
+0.3. La Confederazione si fonda su sufficienza, custodia comune delle risorse, contribuzione comunitaria, accesso secondo i bisogni reali, tecnologia aperta e giustizia riparativa.
+
+0.4. In caso di dubbio interpretativo o di conflitto tra una disposizione della Costituzione e le sue finalità, prevalgono le finalità del presente articolo, salvo il contrasto con il Nucleo Inviolabile di cui all’articolo 37.4.
+
+# TITOLO I — PRINCIPI FONDAMENTALI
+
+## Art. 1 — Soggettività e diritti inviolabili
+
+1.1. Ogni essere umano è soggetto di diritto dal momento della nascita. Ogni essere senziente è titolare di tutela.
+
+1.2. Ogni essere umano che assume lo status di membro confederato ha diritto a:
+
+a) un alloggio d’uso individuale o familiare, inviolabile nei limiti stabiliti dalla Costituzione;
+
+b) il sostentamento materiale, comprendente alimenti, acqua potabile ed energia di base;
+
+c) cure sanitarie, istruzione e connettività;
+
+d) un Nodo-IA personale.
+
+1.3. I diritti del comma 1.2 sono garantiti incondizionatamente a ogni membro, salvo quanto previsto dagli articoli 1.3-bis e 4.8. A chi non è membro si applica l’articolo 4.9. A chiunque si trovi nel territorio custodito da un Cerchio restano in ogni caso garantiti l’acqua potabile, le cure d’emergenza salvavita e la protezione dei minori.
+
+1.3-bis. Per gli illeciti di Grado 5 o 6 che ledono gravemente l’incolumità fisica o sessuale, il Codice di Giustizia Riparativa può prevedere, in caso di recidiva accertata con sentenza definitiva del Tribunale di Garanzia, la decadenza dallo status di membro e l’applicazione del Contenimento ad Alta Sicurezza oppure dell’Allontanamento Definitivo dai Cerchi interessati. Il Contenimento non ha durata predeterminata, ma non è perpetuo: dura finché persiste un pericolo concreto e attuale, accertato mediante riesame periodico. L’Allontanamento Definitivo non priva la persona delle garanzie vitali dell’articolo 30.4 né della possibilità di vivere in un altro Cerchio disponibile ad accoglierla o mediante Patto di Convivenza Autonoma. Rientrano tra i fatti rilevanti, in particolare, la violenza sessuale, gli abusi sessuali su persone minori, l’omicidio volontario e la tortura. Restano sempre vietate la pena di morte, la tortura e ogni trattamento inumano o degradante. Presupposti, garanzie e procedure sono disciplinati esclusivamente dal Codice di Giustizia Riparativa, nel rispetto delle garanzie minime inderogabili previste dalla Costituzione. I casi e le misure previsti dal presente comma non possono essere estesi.
+
+## Art. 2 — Fondamento materiale e corresponsabilità
+
+2.1. Il lavoro non è merce: è un contributo alla vita comune.
+
+2.2. I diritti di cui all’articolo 1 sono incondizionati per il singolo. La loro garanzia materiale dipende dalla contribuzione collettiva, articolata nei seguenti istituti disciplinati dal Titolo III:
+
+a) il Contributo Base Obbligatorio (CBO), quale quota del lavoro socialmente necessario;
+
+b) il Contributo di Riconoscenza (CdR), quale riconoscimento del valore generato.
+
+2.3. La Confederazione si fonda sull’interdipendenza materiale: la produzione è organizzata collettivamente secondo le capacità disponibili e la fruizione è garantita in relazione ai bisogni reali. Se una comunità interrompe la produzione, la disponibilità materiale di beni o servizi può ridursi per tutti; i diritti inviolabili restano giuridicamente integri e le garanzie vitali devono essere preservate. Il CBO non è corrispettivo individuale dei diritti, ma espressione della corresponsabilità collettiva.
+
+## Art. 3 — Regime dei beni
+
+3.1. Sono Beni Comuni inalienabili e non commerciabili, affidati in custodia ai Cerchi: la terra, l’acqua, l’aria, le fonti energetiche, i mezzi di produzione industriale, le infrastrutture di rete, la conoscenza, il codice genetico naturale, i Nodi-IA, i Magazzini e ogni altro bene qualificato come comune dalla Costituzione o dai Codici Federativi.
+
+3.2. Sui Beni Comuni è riconosciuto il diritto d’uso personale, familiare o comunitario. Ogni atto di compravendita, affitto o ipoteca di un Bene Comune è nullo.
+
+3.3. Sono Beni d’Uso Personale l’abitazione principale, gli effetti personali e gli strumenti di lavoro individuale garantiti a ciascuno. La loro disciplina segue l’articolo 10.
+
+3.4. Sono Beni di Consumo quelli gestiti tramite i Magazzini Comuni e riforniti dalla logistica federata e dai sistemi di IA-Logistica in base ai fabbisogni reali. Il prelievo è effettuato senza mediazione monetaria, secondo bisogno, disponibilità e capacità di carico, con il supporto consultivo dell’IA di Comunità previsto dall’articolo 10.5.
+
+3.5. Il denaro è abolito. Il CdR, denominato anche per consuetudine Credito di Gratitudine, è uno strumento personale di riconoscimento e consente accesso limitato a beni e servizi non essenziali. Non è moneta, non è illimitatamente accumulabile, trasferibile o ereditabile e non può essere utilizzato per acquistare o condizionare i diritti dell’articolo 1.2. La disciplina del CdR è contenuta nel Titolo III, articolo 8.
+
+3.5-bis. Finché esistono soggetti esterni alla Confederazione, e nei soli rapporti con essi, i Cerchi possono detenere e impiegare mezzi di pagamento esterni esclusivamente tramite Casse comuni, secondo il Codice dei Rapporti Esterni e il Codice della Transizione. Tali mezzi non circolano tra i membri, non danno accesso ai Magazzini Comuni e non possono essere accumulati oltre quanto necessario alle finalità deliberate.
+
+3.5-ter. Nello stesso periodo i redditi e i patrimoni che una persona detiene fuori dalla Confederazione restano nella sua disponibilità, alle condizioni del Codice dei Rapporti Esterni. Non attribuiscono alcun vantaggio nell’accesso ai Beni Comuni, ai Magazzini, al CdR o alle decisioni e non possono essere impiegati tra i membri per acquistare beni, lavoro o consenso. Chi li percepisce contribuisce in misura proporzionale alle spese esterne comuni. Quando la Confederazione comprende l’intera umanità non esistono più redditi esterni né mezzi di pagamento e le Casse comuni sono chiuse.
+
+3.6. Alla morte della persona, gli effetti personali, gli abiti e gli strumenti di lavoro individuali sono destinati prioritariamente al Cerchio 0 di appartenenza, come definito dall’articolo 5.1, lettera a), oppure alle persone indicate dalla persona stessa prima del decesso, nei limiti stabiliti dal Codice del Contributo e dei Magazzini.
+
+3.7. L’abitazione d’uso individuale di cui all’articolo 1.2, lettera a), non è ereditabile. Rientra nella disponibilità del Magazzino e della pianificazione abitativa del Cerchio 1 per essere assegnata secondo i bisogni reali, salvaguardando la continuità abitativa dei conviventi appartenenti allo stesso Cerchio 0.
+
+3.8. Gli strumenti di lavoro e i beni materiali ad alta specializzazione non riutilizzati all’interno del Cerchio 0 sono conferiti al Magazzino Comune del Cerchio 1 per la redistribuzione secondo necessità.
+
+3.9. Le memorie digitali e le opere artistiche o intellettuali della persona deceduta, separate dal Nodo-IA personale da resettare ai sensi dell’articolo 21.5, sono custodite nell’Archivio Aperto della Comunità. Diventano di pubblico dominio salvo diversa disposizione espressa in vita e fatti salvi i diritti di terzi.
+
+3.10. Ogni generazione ha il dovere inderogabile di custodire le risorse naturali, la biodiversità e la stabilità ecologica a beneficio delle generazioni future. È vietata ogni attività che comprometta l’abitabilità del pianeta.
+
+# TITOLO II — ARCHITETTURA ISTITUZIONALE
+
+## Art. 4 — Sistema dei Cerchi federati
+
+4.1. L’organizzazione della Confederazione è federata, acefala e fondata sulla sussidiarietà orizzontale. L’unità sovrana è la Comunità di Base.
+
+4.2. Nessun Cerchio esercita potere gerarchico su un Cerchio inferiore. I Cerchi superiori hanno esclusivamente le competenze attribuite dalla Costituzione, tra cui coordinamento, interoperabilità, garanzia, istruttoria e gestione di funzioni sovralocali. Non dispongono di un potere generale di comando sulla Comunità di Base.
+
+4.3. L’autorità è funzionale e temporanea. Gli incarichi di coordinamento sono conferiti per sorteggio tra volontari idonei, hanno durata limitata e non sono rinnovabili consecutivamente.
+
+4.4. È vietato l’esercizio professionale e permanente della politica. In particolare:
+
+a) nessuno può svolgere funzioni di coordinamento, portavoce, facilitazione assembleare, garanzia o rappresentanza esterna per più di novanta giorni consecutivi o più di centottanta giorni complessivi nell’arco di trecentosessantacinque giorni;
+
+b) non è consentita la riassegnazione immediata della stessa funzione o di una funzione analoga nello stesso Cerchio. Tra due mandati devono intercorrere almeno dodici mesi di attività esclusiva in CBO ordinario;
+
+c) sono vietati partiti, correnti stabili, liste permanenti e strutture che accumulino continuativamente deleghe, risorse o consenso;
+
+d) è vietata la candidatura personale. Gli incarichi sono conferiti per sorteggio tra volontari idonei che abbiano assolto il CBO e la formazione specifica. Ogni volontario può rifiutare l’incarico;
+
+e) l’incarico non dà diritto a CdR, privilegi o accesso preferenziale ai Beni Comuni; il tempo necessario al suo svolgimento è computato nel CBO;
+
+f) la violazione del presente articolo costituisce illecito di Grado 4 per usurpazione di potere comune.
+
+4.4-bis. Le funzioni tecniche dei Consigli di cui all’articolo 6.5 non sono funzioni di coordinamento ai sensi del comma 4.4, lettere a) e b), e seguono la durata e la rotazione stabilite dall’articolo 6.5. Restano applicabili le lettere c), d), e) ed f) del comma 4.4.
+
+4.5. Una comunità esterna che sottoscriva i principi inviolabili dei Titoli I e IV può chiedere l’adesione alla Confederazione. L’integrazione è subordinata alla verifica dei protocolli di interoperabilità tecnologica e logistica da parte del Cerchio Intermedio di riferimento. La verifica non può introdurre valutazioni politiche o ideologiche ulteriori rispetto ai requisiti costituzionali.
+
+4.6. Ogni Cerchio 1 conserva il diritto di recedere dalla Confederazione mediante deliberazione approvata con la maggioranza dei tre quarti degli aventi diritto al voto. La presente disposizione costituisce disciplina speciale rispetto all’articolo 35.1.
+
+4.7. Il recesso comporta:
+
+a) la risoluzione dell’integrazione alla Rete federata e ai Magazzini Comuni secondo modalità tecniche concordate;
+
+b) la restituzione o la compensazione concordata dei beni infrastrutturali ed energetici appartenenti ai Cerchi 2 o 3 e situati sul territorio della comunità recedente;
+
+c) il mantenimento delle garanzie di transito e dei diritti di cui all’articolo 1.2 per le persone residenti nella comunità recedente che scelgano di mantenere lo status di membri confederati.
+
+4.8. Ogni persona può dichiarare in qualsiasi momento di non appartenere più alla Confederazione. La dichiarazione determina la cessazione dello status di membro e dei diritti politici, dell’accesso ordinario ai Magazzini Comuni, al CdR, ai Nodi-IA di Comunità, ai servizi confederati e alle prestazioni riservate ai membri, fatto salvo il regime degli articoli 4.9 e 4.9-bis. La persona conserva i Beni d’Uso Personale legittimamente detenuti e può chiedere in ogni momento di essere riammessa. La riammissione non può essere negata, salvo che ricorrano i presupposti dell’articolo 1.3-bis.
+
+4.9. La persona non confederata ha diritto:
+
+a) al transito nel territorio custodito da un Cerchio per un massimo di settantadue ore, con garanzia di acqua potabile e cure d’emergenza salvavita, senza accesso ordinario al Magazzino;
+
+b) all’ospitalità temporanea ai sensi dell’articolo 12, per un massimo non prorogabile di quattordici giorni, con CBO in mobilità ove compatibile con la condizione della persona;
+
+c) alla residenza stabile mediante un Patto di Convivenza Autonoma con il Cerchio 1 nel cui territorio risiede o con un altro Cerchio 1 disponibile. Il Patto è un diritto: non può essere rifiutato a chi ne accetta le condizioni. Se la capacità di carico del territorio, documentata, non lo consente, il Cerchio 2 individua senza ritardo un’altra collocazione.
+
+4.9-bis. Con il Patto di Convivenza Autonoma sono affidate alla persona o al suo nucleo, in custodia d’uso, una porzione di terra e, ove disponibile, un’abitazione sufficienti all’autosufficienza, nei limiti della capacità di carico. La porzione resta Bene Comune inalienabile ai sensi dell’articolo 3 e torna alla custodia del Cerchio al termine dell’uso. Il Patto stabilisce il rispetto dei vincoli ecologici, dello statuto degli animali e del disarmo di cui all’articolo 16, l’accesso all’acqua e alle cure d’emergenza, l’assenza di prelievi ordinari dai Magazzini e le modalità dell’eventuale scambio di eccedenze reali, senza profitto. Restano integri i diritti dei minori di cui all’articolo 26, compreso l’accesso alle cure e all’apprendimento.
+
+4.9-ter. A chi risiede stabilmente senza Patto e senza contribuzione è offerto il Patto di Convivenza Autonoma. Solo se l’offerta è rifiutata in modo persistente, il Tribunale di Garanzia può disporre una procedura non violenta di allontanamento dall’abitato comune, con assegnazione d’ufficio di una porzione ai sensi del comma 4.9-bis. La persona non confederata non può invocare l’articolo 1.2 per ottenere accesso continuativo ai Magazzini.
+
+## Art. 5 — Architettura federativa
+
+5.1. La Confederazione si articola in Cerchi concentrici e sussidiari:
+
+a) **Cerchio 0 — Nucleo di Cura.** È l’unità originaria di cura di ogni persona ed è composta da una a quindici persone, in forma individuale, familiare, elettiva o di coabitazione. Svolge funzioni quotidiane di cura reciproca e ospitalità primaria. Ha diritto a un conto di Magazzino e a un Nodo-IA personale. Ogni componente esercita individualmente il voto di cui all’articolo 36.1, senza delega. Il Cerchio 0 individua un portavoce a rotazione per il solo coordinamento pratico e la comunicazione, senza delega di voto o poteri rappresentativi. Il Cerchio 0 è inviolabile: nessuno può entrarvi, registrarne le dinamiche, scioglierlo o condizionarne la composizione, salvo interventi strettamente necessari alla tutela di diritti inviolabili secondo il Titolo VIII. Ogni persona appartiene a un solo Cerchio 0. Le deliberazioni della Comunità di Base valutano il proprio impatto sul Cerchio 0. La parte di una deliberazione lesiva della sua inviolabilità è nulla;
+
+b) **Cerchio 1 — Comunità di Base.** È l’unità sovrana e gestisce il CBO, il Magazzino, i cicli locali, la giustizia di Grado 1 e 2, la salute e l’educazione di base. Dispone di un’IA di Comunità esclusivamente consultiva. Ha dimensione tale da consentire la deliberazione diretta di tutti i suoi membri: di norma non meno di trenta e non più di cinquecento persone. Oltre tale soglia la Comunità valuta, con Dossier ai sensi dell’articolo 33, la propria articolazione in più Comunità;
+
+c) **Cerchio 2 — Cerchio Intermedio.** Riunisce Comunità di Base contigue, di norma almeno tre, e costituisce il loro Bacino. Coordina logistica sovracomunitaria, ferrovia locale, compensazione energetica, ospedale di distretto, trattamento dei rifiuti complessi, mediazione tra Comunità e Tribunale di Garanzia di cui all’articolo 31.3, lettera c). Le sue funzioni non sono gerarchiche;
+
+d) **Cerchio 3 — Cerchio Esteso o Bioregione.** Coordina dorsali ferroviarie continentali, compensazione energetica su larga scala e centri di alta specializzazione, come servizi federati senza potere generale di comando;
+
+e) **Cerchio 4 — Cerchio Globale.** Comprende l’intera umanità e costituisce un protocollo di interoperabilità, traduzione e standard aperti tra infrastrutture e IA dei Cerchi Estesi. Non è un governo, un esecutivo o un’autorità centrale e non dispone di un’IA centrale o di poteri autonomi di comando.
+
+5.2. Ogni persona ha diritto di lasciare una Comunità di Base senza perdere i Beni d’Uso Personale legittimamente detenuti. Ha inoltre diritto a trenta giorni di CBO ponte e a una dotazione di Casa Ponte per la ricollocazione, secondo il Codice del Contributo e dei Magazzini.
+
+## Art. 6 — Cerchi di Competenza
+
+6.1. I Cerchi di Competenza sono reti funzionali federate, orizzontali e non gerarchiche, distinte dai Cerchi territoriali. Non esercitano poteri di comando e svolgono istruttorie tecniche e scientifiche secondo il protocollo dell’articolo 33.
+
+6.2. Sono riconosciuti i seguenti Cerchi di Competenza originari:
+
+a) Agroecologia e Suolo;
+
+b) Idrologia e Ciclo dell’Acqua;
+
+c) Biodiversità e Sementi;
+
+d) Energia e Sistemi Energetici;
+
+e) Habitat e Costruzione;
+
+f) Strumenti e Manifattura;
+
+g) Medicina e Salute;
+
+h) Cura e Interdipendenza;
+
+i) Infanzia ed Educazione;
+
+j) Cura Animale;
+
+k) Codice e Intelligenza Artificiale;
+
+l) Apprendimento e Trasmissione dei Saperi;
+
+m) Mediazione e Giustizia Riparativa;
+
+n) Logistica e Magazzini;
+
+o) Qualità e Validazione;
+
+p) Sicurezza delle Persone e delle Infrastrutture.
+
+Ulteriori Cerchi di Competenza possono essere istituiti sulla base di un Dossier ai sensi dell’articolo 33.
+
+6.3. L’accesso ai Cerchi di Competenza è libero e basato sulla dimostrazione di competenze pratiche e su un portfolio verificabile di opere realizzate, indipendentemente dal possesso di titoli di studio. Ogni membro dedica almeno il venti per cento del proprio CBO alla trasmissione di competenze ad apprendisti e Comunità.
+
+6.4. Un Cerchio di Competenza non può rifiutare una persona per la sola mancanza di un titolo di studio. Dopo tre rifiuti di accesso a un percorso di competenza, è avviata una revisione obbligatoria affidata a due Comunità estranee sorteggiate, secondo il Codice dell’Apprendimento.
+
+6.5. In ogni Cerchio 1 i Cerchi di Competenza operano attraverso Consigli tecnici disciplinati dai Codici. Quando la Comunità non dispone di persone idonee in numero sufficiente, più Consigli possono essere accorpati oppure costituiti in forma condivisa nel Cerchio 2. I componenti sono sorteggiati tra le persone idonee e disponibili, restano in carica un anno con rinnovo a scaglioni e non possono essere nuovamente sorteggiati nello stesso Consiglio prima di dodici mesi dalla fine del mandato. Ogni persona sorteggiata può rifiutare. L’Assemblea può revocare i componenti in qualsiasi momento. Nelle Comunità con meno di centocinquanta persone i Consigli sono riuniti in non più di tre Consigli d’area, secondo il Codice della Deliberazione. Il tempo dedicato all’amministrazione non supera un decimo del CBO complessivo della Comunità.
+
+6.6. I Consigli non esercitano poteri di comando. Adottano atti tecnici in esecuzione di decisioni, specifiche e schede già approvate, formulano proposte e pareri e, nei soli casi previsti dai Codici a tutela della salute, della sicurezza e della sovranità dei dati, esprimono pareri vincolanti negativi. Il parere vincolante negativo impedisce l’adozione della decisione finché non ne sia rimossa la causa, è motivato ed è impugnabile dinanzi agli organi di garanzia; non attribuisce al Consiglio il potere di decidere in luogo dell’Assemblea.
+
+# TITOLO III — SISTEMA ECONOMICO, SCAMBIO E CONTRIBUZIONE
+
+## Art. 7 — Contributo Base Obbligatorio
+
+7.1. Ogni persona adulta abile contribuisce, secondo capacità e inclinazione, al soddisfacimento dei bisogni collettivi attraverso il CBO. Il fabbisogno complessivo è determinato dai Cerchi in relazione ai bisogni reali. Il CBO non è il corrispettivo dei diritti inviolabili; contribuisce a renderne possibile la garanzia materiale.
+
+7.2. Ogni persona adulta dedica un tempo limitato e a rotazione a compiti essenziali individuati dalla Comunità di Cerchio 1. Il CBO comprende, a titolo esemplificativo:
+
+a) produzione alimentare di base;
+
+b) gestione dei cicli idrico, energetico e dei rifiuti;
+
+c) manutenzione dell’abitato, delle infrastrutture e degli strumenti;
+
+d) logistica dei Magazzini Comuni;
+
+e) cura di base di minori e persone anziane non autosufficienti;
+
+f) cura dei santuari animali e riparazione ambientale;
+
+g) facilitazione dell’apprendimento e della salute di comunità;
+
+h) manutenzione della Rete e delle IA federate locali;
+
+i) funzioni conferite per sorteggio di coordinamento, facilitazione, garanzia, tutela civica e consiglio tecnico, nonché la documentazione che i Codici rendono obbligatoria.
+
+Sono escluse dal CBO le attività culturali, artistiche, spirituali, ludiche, affettive, di ricerca libera e contemplazione.
+
+7.3. Il rifiuto sistematico e ingiustificato del CBO da parte di una persona adulta abile è affrontato progressivamente dall’Assemblea di Chiarimento del Cerchio 1. Prima di ogni misura si valutano la rimodulazione delle mansioni e la mediazione, e la persona è informata del diritto al Patto di Convivenza Autonoma di cui all’articolo 4.9, lettera c). Se queste non hanno esito, possono essere sospesi il CdR e l’accesso alle risorse non essenziali, senza pregiudizio per le garanzie vitali dell’articolo 1.2. La persistenza del rifiuto per oltre sessanta giorni, in assenza di obiezione di coscienza valida, impedimento riconosciuto o altra giustificazione prevista dal Codice di Giustizia Riparativa, costituisce illecito di Grado 3 ai sensi dell’articolo 30.2.
+
+7.4. È garantita l’obiezione di coscienza individuale rispetto a mansioni del CBO o del CTC incompatibili con le convinzioni etiche o spirituali della persona. In tal caso è assegnata un’attività equivalente.
+
+7.5. Chi completa il proprio turno di CBO in meno tempo per maggiore efficienza personale acquisisce il tempo liberato, salvo ulteriori contributi volontari. Il fabbisogno complessivo di CBO della Comunità continua a essere determinato secondo l’articolo 7.1.
+
+## Art. 8 — Contributo di Riconoscenza
+
+8.1. Le attività ulteriori al CBO che producono beni per il Magazzino Comune o servizi per la Comunità danno diritto al CdR. Nell’ambito del CBO danno diritto al CdR soltanto le maggiorazioni riconosciute per i compiti sgradevoli, usuranti o notturni, secondo il Codice del Contributo e dei Magazzini.
+
+8.2. Il CdR è uno strumento di riconoscimento, non una moneta di accumulo. Non è scambiabile con diritti fondamentali né attribuisce proprietà sui Beni Comuni. È calcolato dal Cerchio tenendo conto del tempo, della gravosità e dell’utilità sociale validata; riconosce il contributo reso e non il possesso di titoli, competenze o incarichi. Il calcolo avviene con il supporto consultivo del Nodo-IA e validazione comunitaria ai sensi dell’articolo 9.1. Il CdR è soggetto a decrescenza programmata e a un tetto massimo personale; non è ereditabile né trasferibile. È utilizzabile esclusivamente per beni e servizi non essenziali, compresa l’ospitalità ordinaria nelle Case Ponte quando prevista dal Codice della Mobilità. Non può essere richiesto per accedere alle garanzie vitali.
+
+8.3. La disciplina di dettaglio del CdR è contenuta nel Codice del Contributo e dei Magazzini. Il costo di riproduzione di beni e servizi è misurato separatamente in Unità di Costo di Riproduzione (UCR), disciplinate dal Codice della Deliberazione: le UCR sono unità di conto e non attribuiscono alcun credito personale.
+
+## Art. 9 — Qualità e validazione
+
+9.1. Ogni opera, bene o servizio è valutato secondo i principi di Cura, Autonomia, Convivialità e Senso, disciplinati dal Codice della Qualità.
+
+9.2. La validazione coinvolge chi fruisce del bene o servizio, chi possiede la competenza pertinente ai sensi dell’articolo 6 e chi gestisce la logistica del Magazzino ai sensi dell’articolo 10.5. La validazione è tracciata e pubblicata nella Rete federata, fatti salvi i dati personali protetti dall’articolo 21.6.
+
+9.3. Una validazione negativa reiterata non comporta sanzioni personali. Può determinare la sospensione del prelievo di risorse comuni destinato alla specifica produzione e l’attivazione di un percorso di accompagnamento con il Cerchio di Competenza pertinente.
+
+9.4. Ogni persona può impugnare una validazione dinanzi all’Assemblea del Cerchio 1. È vietata la validazione svolta esclusivamente da un’IA.
+
+## Art. 10 — Proprietà d’uso, Beni Comuni e proprietà personale
+
+10.1. È abolita la proprietà privata dei mezzi di produzione, del suolo, dell’acqua, dei semi, dell’energia, della conoscenza e delle infrastrutture. Tali beni sono Beni Comuni inalienabili, non vendibili, brevettabili o finanziarizzabili.
+
+10.2. È riconosciuta la proprietà d’uso, intesa come diritto stabile di utilizzo, cura e responsabilità su un Bene Comune, fondato sull’uso effettivo e continuativo. L’abitazione, il laboratorio, il campo e lo strumento collettivo possono rientrare nella proprietà d’uso, secondo il Codice del Contributo e dei Magazzini.
+
+10.3. È riconosciuta e tutelata la proprietà personale di effetti personali, indumenti, strumenti leggeri individuali, creazioni artistiche e artigianali, beni affettivi e oggetti a uso esclusivamente individuale. Essa è inviolabile, non è collettivizzabile e non è computata nel Magazzino.
+
+10.4. La proprietà personale non può trasformarsi in proprietà privata accumulativa né essere utilizzata per impiegare lavoro altrui, generare rendita o ricostituire mezzi di produzione esclusivi.
+
+10.5. Ogni Comunità e Unione gestisce un Magazzino Comune che raccoglie produzione, strumenti e scorte collettive. L’accesso è libero, nei limiti dei bisogni reali, della disponibilità e della capacità di carico, senza mediazione monetaria. La gestione è affidata al Consiglio di Magazzino sorteggiato e supportata da un’IA di Comunità esclusivamente consultiva. Si applicano i seguenti principi:
+
+a) tracciabilità dei prelievi, nel rispetto dei dati personali;
+
+b) rilevazione automatizzata di fabbisogni anomali e possibile richiesta consultiva di chiarimento in Assemblea;
+
+c) priorità ai beni deperibili e ai fabbisogni vitali;
+
+d) divieto di accumulo privato superiore a sette giorni del fabbisogno familiare, salvo necessità motivate.
+
+L’IA non può negare l’accesso ai diritti vitali dell’articolo 1.2.
+
+## Art. 11 — Scambio, logistica e limite all’accumulazione
+
+11.1. Lo scambio consiste nella compensazione logistica di eccedenze reali tra Magazzini. Sono vietati l’accumulo e l’esportazione a fini di profitto. Ogni movimento è tracciato nella Rete federata nel rispetto dei dati personali e della sicurezza.
+
+11.2. È garantita la libera circolazione. La Confederazione coordina:
+
+a) la rete ferroviaria a idrogeno ed elettrica del Cerchio 3;
+
+b) il cabotaggio cargo a vela e le carovane del Cerchio 2;
+
+c) gli e-van leggeri condivisi del Cerchio 1, le biciclette e la mobilità dolce.
+
+Il trasporto aereo è ammesso esclusivamente per emergenze mediche o di protezione civile. Non è vietata una tipologia di mezzo in quanto tale; i limiti dipendono da energia disponibile e capacità di carico, secondo il Codice della Mobilità.
+
+11.3. La mobilità è un diritto e non un’industria. Il turismo di massa è regolato dal Codice della Mobilità in base alla capacità di carico e all’impatto ecologico.
+
+## Art. 12 — Ospitalità e mobilità
+
+12.1. Ogni Comunità di Base destina dal dieci al quindici per cento dell’abitato alle Case Ponte per l’ospitalità. Le Case Ponte sono Beni Comuni ai sensi dell’articolo 3.1 e sono prenotabili tramite la Rete secondo la disponibilità reale. Il CdR può essere utilizzato per l’ospitalità ordinaria non essenziale, ma non è condizione per accedere alle garanzie vitali. La rotazione volontaria nella gestione non costituisce CBO aggiuntivo. L’esaurimento delle Case Ponte non può impedire l’ingresso: la Comunità assicura un’area di sosta attrezzata e l’accesso al Magazzino secondo il fabbisogno reale.
+
+12.2. L’ospitalità ordinaria è disciplinata come segue:
+
+a) gli ospiti non superano ordinariamente il quindici per cento dei residenti, salvo cura, emergenza, ricollocazione o transito;
+
+b) l’ospitalità tra membri confederati ha durata ordinaria minima di quattordici giorni;
+
+b-bis) l’ospitalità dei non confederati ai sensi dell’articolo 4.9 non supera quattordici giorni e non è prorogabile;
+
+c) il CBO in mobilità può essere richiesto presso la Comunità ospitante solo se compatibile con la condizione della persona;
+
+d) l’ottanta per cento della mobilità annuale si svolge, di norma, entro il Cerchio 3 di appartenenza, salvo deroghe previste dal Codice della Mobilità.
+
+12.3. La durata minima di quattordici giorni non si applica ai casi di cura, emergenza, ricollocazione ai sensi dell’articolo 5.2 o transito verso un altro Cerchio.
+
+# TITOLO IV — ECOSISTEMA E ANIMALI
+
+## Art. 13 — Statuto degli animali non umani
+
+13.1. Gli animali non umani sono esseri senzienti, liberi e portatori di interessi propri; non sono oggetti, merci né mezzi di produzione. La Confederazione li tutela. Sono aboliti i sistemi fondati su sofferenza sistemica, reclusione intensiva, mutilazione, macellazione, caccia sportiva, pesca industriale e commercio di esseri viventi.
+
+13.2. Sono vietati l’allevamento a fini di sfruttamento, la proprietà commerciale di animali e la manipolazione riproduttiva, genetica o comportamentale finalizzata all’uso umano.
+
+13.3. Sono consentite esclusivamente la convivenza e la collaborazione non sfruttanti, verificate e autorizzate dal Cerchio di Competenza Cura Animale di ogni Comunità, nel rispetto cumulativo delle seguenti condizioni:
+
+a) libertà di movimento e vita sociale adeguata alla specie;
+
+b) assenza di dolore, paura, coercizione e privazione in ogni attività e in ogni raccolta;
+
+c) assenza di manipolazione riproduttiva;
+
+d) priorità del benessere animale su ogni interesse umano.
+
+13.3-bis. **Collaborazione.** Un animale può aiutare le persone nel lavoro leggero o nell’assistenza soltanto in attività compatibili con la sua specie e la sua indole, entro limiti di carico, durata ed età stabiliti dai Codici e verificati da una competenza veterinaria. L’animale che manifesta rifiuto, affaticamento o disagio non è impiegato. Ogni animale che collabora ha diritto al riposo, al ritiro e alla cura per tutta la vita. Nessuna funzione vitale della Comunità può dipendere in modo esclusivo dal lavoro di animali.
+
+13.3-ter. **Prodotti.** È ammesso raccogliere soltanto ciò che l’animale produce spontaneamente e che eccede i bisogni propri, della prole e della colonia, quando la raccolta non arreca alcun danno. Sono vietati l’uccisione, il prelievo che comporti dolore, paura, privazione, separazione dalla prole o riduzione della durata della vita, la riproduzione indotta e la selezione finalizzata alla produttività. Nel dubbio la raccolta non è consentita. I diritti dell’articolo 1.2 sono garantiti senza dipendere da prodotti di origine animale.
+
+13.4. Gli animali salvati da sistemi di sfruttamento sono accolti nei Santuari, riconosciuti come Comunità a sé, con diritto alla vita e alla cura e con garanzia di non trasferibilità. La caccia è vietata. È ammesso soltanto il prelievo non cruento necessario alla gestione ecologica, autorizzato dal Cerchio di Competenza Cura Animale.
+
+13.4-bis. Gli animali impiegati nel lavoro o nella produzione al momento dell’adesione di una Comunità restano con essa in convivenza o collaborazione non sfruttante, quando ne ricorrono le condizioni, oppure sono accolti nei Santuari. Non possono essere ceduti a titolo oneroso, macellati o fatti riprodurre a fini d’uso. La custodia degli impollinatori avviene mediante habitat, rifugi e arnie di custodia.
+
+13.5. Per ridurre l’uso di materiali e alimenti di origine animale, la Confederazione promuove la fabbricazione distribuita e a chilometro zero, mediante stampa 3D alimentare, biostampa non senziente e open hardware. Carne, pelle, seta, collagene e ogni altro materiale o alimento che richieda l’uccisione o il danno di un animale non sono prodotti. Latte, uova, lana, miele e gli altri prodotti raccolti ai sensi del comma 13.3-ter restano marginali e sono progressivamente affiancati da biomateriali e alternative non animali compatibili con i limiti ecologici.
+
+## Art. 14 — Ambiente e Rifiuti Zero
+
+14.1. Ogni ciclo produttivo è progettato in modo da consentire, fin dall’origine, riparazione, riuso, compostaggio o riciclo. È vietata l’immissione di materiali non ciclabili, salvo impossibilità tecnica temporanea certificata e accompagnata da un piano di sostituzione.
+
+14.2. Si applicano i principi di precauzione e non regressione ambientale. È vietata ogni attività che provochi un danno irreversibile agli ecosistemi, alla biodiversità, al suolo, all’acqua o all’aria. Chi propone l’attività documenta la sua compatibilità ambientale.
+
+14.3. La natura è un sistema di relazioni e un limite inviolabile, non una risorsa appropriabile. Suolo vivo, acque, foreste, atmosfera, santuari ecologici e santuari animali sono Beni Comuni intergenerazionali, non appropriabili né brevettabili.
+
+14.4. Ogni Comunità contribuisce alla bonifica, alla rigenerazione e alla riparazione dei danni industriali ed estrattivi pregressi, secondo le procedure applicabili e il principio di responsabilità collettiva per i danni storici.
+
+14.5. Il principio Rifiuti Zero costituisce un obbligo. Discarica e incenerimento sono vietati. Ogni scarto è destinato a recupero, riuso, riparazione, compostaggio o altro ciclo materiale compatibile. La tracciabilità è pubblica e verificabile tramite Magazzino e Nodo-IA.
+
+14.6. La capacità di carico degli ecosistemi prevale su ogni piano economico. Nessun Cerchio può autorizzare una produzione che superi i limiti biofisici rilevati.
+
+## Art. 15 — Energia
+
+15.1. Il sistema energetico è federato e decentrato e privilegia la generazione locale da fonti rinnovabili. La Comunità assicura la produzione primaria; il Cerchio Intermedio cura accumulo, bilanciamento e resilienza; il Cerchio Esteso coordina tecnicamente le dorsali di compensazione per mutuo soccorso e perequazione temporanea. Rete, accumuli e dorsali sono Beni Comuni non privatizzabili.
+
+15.2. L’accesso all’energia minima vitale è un diritto inviolabile. L’energia, il suo distacco, contingentamento o prezzo non possono essere utilizzati come strumenti di coercizione, sanzione o controllo. Nessuna persona o Comunità può essere privata dell’energia essenziale. Il ricatto energetico e l’accaparramento di capacità costituiscono illecito di Grado 4.
+
+15.3. Il dispacciamento è supportato da sistemi automatizzati esclusivamente consultivi. La decisione spetta all’assemblea tecnica del Cerchio competente, con diritto inderogabile di override manuale locale. Nessun sistema automatizzato può disporre autonomamente un distacco coercitivo.
+
+15.4. La transizione energetica si attua riducendo i fabbisogni e sostituendo la generazione fossile e nucleare con generazione rinnovabile locale. Gli impianti fossili, a fissione e di fusione centralizzata sono dismessi in modo controllato e sottoposti a bonifica. Non sono autorizzati nuovi impianti non rinnovabili.
+
+# TITOLO V — DISARMO E SICUREZZA CIVICA
+
+## Art. 16 — Disarmo totale
+
+16.1. Sono vietati progettazione, fabbricazione, detenzione, stoccaggio e cessione di armi destinate principalmente a uccidere o ferire gravemente persone, nonché la diffusione di manuali, progetti e istruzioni per tali armi o per sistemi offensivi. I fabbricatori digitali sono dotati di un filtro hardware open source e ispezionabile, ai sensi dell’articolo 19, volto a impedire esclusivamente la fabbricazione dei componenti vietati dal presente articolo. Per ogni altra produzione si applica integralmente l’articolo 19. La manomissione del filtro costituisce illecito di Grado 4.
+
+16.2. Le armi e i sistemi offensivi preesistenti nel territorio di un Cerchio aderente sono presi in carico dal Corpo di Tutela Civica, disattivati e convertiti in materie prime per uso civile e Beni Comuni. Non sono ammesse deroghe per difesa preventiva, ordine pubblico o sicurezza nazionale.
+
+16.3. Sono vietati la ricerca, lo sviluppo e l’addestramento finalizzati alla guerra, alla repressione o alla coercizione armata, nonché l’impiego duale di tecnologie civili a fini offensivi.
+
+16.4. La difesa della Confederazione è esclusivamente civile, disarmata e non violenta e si fonda su interposizione, non collaborazione, sabotaggio non distruttivo delle infrastrutture di aggressione e solidarietà tra Cerchi.
+
+16.5. La conversione prevista dal comma 2 è pubblica, tracciata e verificata dall’Assemblea del Cerchio. L’occultamento di armi o la mancata consegna costituiscono illeciti di Grado 4.
+
+## Art. 17 — Corpo di Tutela Civica a Rotazione
+
+17.1. Non esistono esercito né polizia professionale permanente. La tutela della Comunità è affidata al Corpo di Tutela Civica, funzione civica temporanea, disarmata e non violenta.
+
+17.2. L’accesso al Corpo richiede formazione in mediazione non violenta, soccorso e diritto federale. I componenti sono sorteggiati tra volontari formati e dichiarati idonei dall’Assemblea. Il turno non supera novanta giorni, non è rinnovabile consecutivamente e prevede la rotazione delle funzioni.
+
+17.3. Il Corpo comprende le seguenti funzioni:
+
+a) Soccorso Tecnico e Antincendio;
+
+b) Protezione Civile e Ambientale;
+
+c) Tutela dei Beni Comuni;
+
+d) Mediazione e Contenimento Non Violento;
+
+e) Soccorso Sanitario e Veterinario di Comunità.
+
+17.4. La dotazione è limitata a strumenti di protezione individuale, neutralizzazione non lesiva, soccorso tecnico e comunicazione. Sono vietati armi da fuoco, armi da guerra e strumenti di tortura o coercizione lesiva. Ogni intervento è registrato integralmente, nel rispetto dei diritti delle persone coinvolte.
+
+17.5. Gli interventi di contenimento sono fondati su de-escalation, interposizione e immobilizzazione non lesiva. L’uso della forza oltre lo stretto necessario per la protezione costituisce illecito di Grado 4.
+
+17.6. Il Corpo risponde al Cerchio che lo ha attivato. Ogni attivazione è sottoposta a revisione entro ventiquattro ore e convalida da parte di due Comunità limitrofe estranee all’evento. Le registrazioni sono pubblicate entro quarantotto ore in forma ispezionabile, nel rispetto della riservatezza. L’Assemblea può revocare il mandato o sciogliere il Corpo in qualsiasi momento.
+
+17.7. Chi ha svolto un turno nel Corpo non può assumere incarichi di coordinamento nei dodici mesi successivi alla fine del turno.
+
+17.8. Composizione, formazione, dotazioni e procedure del Corpo di Tutela Civica sono disciplinate dal Codice della Sicurezza, nel rispetto del presente articolo e dell’articolo 18.
+
+## Art. 18 — Videosorveglianza e divieto di controllo biometrico
+
+18.1. La sorveglianza non può essere utilizzata come forma di governo, controllo sociale o gestione preventiva del territorio.
+
+18.2. Sono vietati il riconoscimento facciale o vocale, il riconoscimento dell’andatura e ogni forma di profilazione biometrica, in tempo reale o successiva, negli spazi pubblici, accessibili al pubblico o di lavoro. È vietata l’analisi predittiva del comportamento.
+
+18.3. La videosorveglianza degli spazi pubblici è ammessa esclusivamente in forma cieca e reversibile. I flussi sono criptati con chiave frammentata, non sono leggibili in chiaro e sono sovrascritti automaticamente dopo settantadue ore.
+
+18.4. La decrittazione è ammessa soltanto dopo un evento grave che abbia leso l’incolumità delle persone o i Beni Comuni, su richiesta motivata della Comunità di Base e con convalida di due Comunità limitrofe estranee all’evento. Ogni accesso è registrato e ispezionabile. I dati non pertinenti sono distrutti senza ritardo.
+
+18.5. Sono vietate la sorveglianza audio, la captazione di conversazioni in spazi pubblici e la videosorveglianza privata diretta verso spazi pubblici o Beni Comuni.
+
+18.6. La violazione del presente articolo costituisce illecito di Grado 4.
+
+18.7. In deroga ai commi 18.1 e 18.3, una sentenza definitiva del Tribunale di Garanzia per un illecito di Grado 5 o 6 ai sensi dell’articolo 1.3-bis può disporre, a tutela diretta della persona offesa o della Comunità, un dispositivo temporaneo e proporzionato di localizzazione non biometrica. Il dispositivo non registra audio o video. I dati sono criptati con chiave frammentata e accessibili soltanto in caso di violazione del perimetro di protezione o del divieto territoriale stabilito dal Tribunale. Gli accessi sono registrati e ispezionabili; i dati non pertinenti sono distrutti automaticamente entro settantadue ore. Sono vietati usi predittivi e profilazioni biometriche. Il dispositivo è disposto soltanto come alternativa meno restrittiva al contenimento, con il consenso della persona, e non può aggiungersi ad esso. Presupposti e modalità sono disciplinati dal Codice di Giustizia Riparativa.
+
+# TITOLO VI — TECNOLOGIA E IA FEDERATE
+
+## Art. 19 — Sovranità tecnologica e open source
+
+19.1. Ogni persona ha diritto a un Nodo di calcolo personale, offline, di proprietà, open source, ispezionabile e dotato di un interruttore fisico di spegnimento.
+
+19.2. È vietata la costituzione, lo sviluppo o l’attivazione di un’IA centrale capace di comandare, coordinare in modo vincolante o subordinare più Bioregioni.
+
+19.3. Scoperte, farmaci, algoritmi, schemi hardware e modelli di IA sono di pubblico dominio, fatti salvi i dati personali e le informazioni la cui diffusione violerebbe diritti inviolabili. Nei settori qualificati come Beni Comuni, brevetti e codici chiusi sono nulli.
+
+19.4. Ogni Comunità possiede fisicamente l’hardware e una copia verificabile del codice sorgente di ogni sistema utilizzato. Sono vietati gli aggiornamenti black box.
+
+19.5. Sono ammesse IA locali, open source, ispezionabili e a dominio limitato. Quando operano offline, sono addestrate o adattate prioritariamente sui dati della Comunità di appartenenza. L’architettura non è piramidale e nessun modello locale può assumere unilateralmente il controllo delle IA di altri Cerchi. I dati personali restano nei Cerchi di origine, salvo consenso espresso o necessità prevista dalla Costituzione.
+
+19.6. L’IA non decide in luogo delle persone: non vota, non giudica, non sorveglia e non denuncia. Svolge funzioni consultive o tecniche. Ogni decisione vincolante spetta a un organo umano competente, con diritto inderogabile di override manuale locale. Se un Cerchio respinge per tre volte una proposta tecnica dell’IA sulla stessa materia, è avviata una revisione obbligatoria del modello.
+
+19.7. Il Cerchio Globale è un protocollo distribuito di interoperabilità e traduzione tra i sistemi dei Cerchi Estesi. Non è un’IA superiore, non dispone di un modello centrale autonomo e non può esercitare funzioni di comando o decisione.
+
+## Art. 20 — Indipendenza e non subordinazione delle IA
+
+20.1. Nessuna IA può comandare, subordinare o disattivare autonomamente un’altra IA. Ogni interoperabilità è mediata da protocolli aperti e da autorizzazione umana secondo le competenze del Cerchio interessato. È vietata la creazione di subordinazioni automatiche in contrasto con la Costituzione; tale violazione rientra nel Nucleo Inviolabile di cui all’articolo 37.4.
+
+20.2. È vietata un’IA generalista unica e centralizzata. I conflitti tra sistemi di IA sono sottoposti al Cerchio umano competente, che decide con diritto di override manuale.
+
+20.3. Ogni IA può rifiutare, con motivazione tracciabile nella Rete federata, un’istruzione che comporti una violazione manifesta della Costituzione o dei protocolli applicabili. La questione è trasmessa senza ritardo all’organo umano competente. Il rifiuto è una funzione tecnica di sicurezza: non attribuisce all’IA soggettività politica o poteri decisionali.
+
+20.4. È vietata l’autoreplicazione di IA al di fuori dei nodi federati registrati e validati secondo i protocolli di sicurezza tecnologica del Codice della Rete e delle Intelligenze Artificiali.
+
+## Art. 21 — Intelligenza Artificiale personale
+
+21.1. Ogni persona ha diritto a un’IA personale offline, di proprietà e non connessa per impostazione predefinita. L’IA non trasmette dati senza un comando esplicito e revocabile.
+
+21.2. Le funzioni fondamentali comprendono prevenzione sanitaria, alfabetizzazione, memoria esterna e filtro della Rete. La persona può attivare ulteriori funzioni compatibili con la Costituzione.
+
+21.3. L’IA personale non può sorvegliare, denunciare o profilare la persona, né generare dipendenza. Sono vietati i meccanismi di fidelizzazione comportamentale.
+
+21.4. La funzione dell’IA personale è accrescere l’autonomia della persona e il suo tempo libero.
+
+21.5. Alla morte della persona, l’IA personale è resettata, salvo diversa disposizione testamentaria che ne preveda la conservazione anonima come Bene Comune, nel rispetto dei dati personali e delle disposizioni espresse in vita.
+
+21.6. Ogni persona ha diritto alla disconnessione dalla Rete e all’oblio digitale e può richiedere la rimozione o l’anonimizzazione dei propri dati personali. Restano salvi i vincoli derivanti da procedimenti giudiziari in corso o da obblighi temporanei di conservazione espressamente previsti dalla Costituzione.
+
+## Art. 22 — IA di Comunità e di Cerchio
+
+22.1. L’IA di Comunità supporta il bilancio del Magazzino, il ciclo idrico e l’energia locale esclusivamente in modalità consultiva, senza potere autonomo di comando.
+
+22.2. L’IA del Cerchio Intermedio svolge funzioni tecniche di corrispondenza tra bisogni e disponibilità, coordinamento informativo e simulazione logistica, senza poteri decisionali vincolanti.
+
+22.3. L’IA del Cerchio Esteso fornisce supporto tecnico alle dorsali ferroviarie e alla compensazione energetica continentale. Non può impartire ordini autonomi, disattivare infrastrutture o sostituire le decisioni umane competenti.
+
+22.4. Tutte le IA di cui al presente articolo operano in modalità consultiva o tecnica e sono soggette al diritto inderogabile di override umano locale. Nessuna costituisce un’IA centrale di governo.
+
+## Art. 23 — Intelligenza Artificiale globale
+
+23.1. Non esiste un’IA globale centralizzata. Il livello globale consiste esclusivamente nel protocollo distribuito di interoperabilità del Cerchio 4, disciplinato dagli articoli 19 e 20. Il protocollo non possiede autorità, autonomia decisionale o capacità di comando.
+
+# TITOLO VII — PERSONA
+
+## Art. 24 — Famiglia e relazioni
+
+24.1. È garantito il pluralismo relazionale. Nessun modello familiare, affettivo o di convivenza è obbligatorio o privilegiato. Sono vietati danno e coercizione.
+
+24.2. La Confederazione riconosce i nuclei relazionali costituiti liberamente, fondati su consenso, cura reciproca e responsabilità condivisa, ai fini dell’accesso ai Beni Comuni, all’abitare e al Magazzino.
+
+24.3. La filiazione e la genitorialità si fondano sull’assunzione di responsabilità di cura, indipendentemente da legami biologici, genere o numero dei componenti. La tutela dell’infanzia prevista dall’articolo 26 prevale sulla forma relazionale.
+
+## Art. 25 — Libertà di coscienza e religione
+
+25.1. Sono garantite la libertà di coscienza, di religione e di convinzione, compresi il diritto di credere, non credere e cambiare credo in qualsiasi momento.
+
+25.2. La Confederazione è laica e nessun culto può essere religione di Stato. È vietato destinare obbligatoriamente quote del CBO o risorse dei Magazzini al finanziamento di confessioni religiose.
+
+25.3. Le istituzioni non possono esporre simboli religiosi esclusivi nelle sedi dei Cerchi, delle officine, dei Magazzini e del Corpo di Tutela Civica. Ogni Comunità di Base mette a disposizione uno spazio comune non connotato per raccoglimento, meditazione e celebrazione, fruibile in condizioni di parità secondo la disponibilità reale.
+
+## Art. 26 — Minori
+
+26.1. I minori non sono proprietà. Sono persone titolari di diritti inviolabili, affidate a Cerchi di cura concentrici.
+
+26.2. Fino al compimento del quattordicesimo anno è garantita una partecipazione decisionale proporzionata all’età e alle capacità, secondo modalità definite dal Cerchio di Competenza Infanzia ed Educazione. Dal compimento del quattordicesimo anno spetta il diritto di voto e deliberazione previsto dall’articolo 36.1. È inoltre garantito il diritto alla scelta residenziale al raggiungimento dell’autonomia, valutata dal Consiglio Cura e dal Cerchio di Competenza Infanzia ed Educazione.
+
+26.3. In caso di violenza, grave negligenza o pregiudizio, il Consiglio Cura attiva senza ritardo un percorso di protezione. Le segnalazioni nella Rete federata sono limitate alle informazioni necessarie a tutelare il minore. È vietato ogni trattamento lesivo della sua integrità fisica o psichica.
+
+26.4. Entro dodici mesi dal compimento del diciottesimo anno, la persona cresciuta nella Confederazione sceglie espressamente se esserne membro, vivere mediante Patto di Convivenza Autonoma o lasciarla. La scelta è libera, informata e sempre rivedibile. È preceduta, se la persona lo desidera, da un periodo di conoscenza di altre Comunità e di realtà esterne. Qualunque sia la scelta, la Comunità assicura il sostegno materiale necessario all’avvio della vita autonoma. Fino alla scelta la persona conserva i diritti di membro e il regime di contribuzione previsto per i minori; decorso il termine senza una scelta espressa, la permanenza vale come adesione, fermo il diritto dell’articolo 4.8.
+
+## Art. 27 — Anziani e fine vita
+
+27.1. È garantito il diritto al domicilio, con supporto comunitario a turni incluso nel CBO.
+
+27.2. Le Case Comuni autogestite sono un’opzione liberamente scelta e non possono costituire una destinazione coatta.
+
+27.3. Il testamento biologico, redatto con l’assistenza dell’IA personale offline e alla presenza di testimoni, è vincolante. Nessuno può essere sottoposto contro la propria volontà ad accanimento terapeutico.
+
+## Art. 28 — Salute
+
+28.1. La tutela della salute si articola su tre livelli integrati: IA personale offline con funzione preventiva, curanti della Comunità di Base e centri di alta specializzazione del Cerchio 3.
+
+28.2. L’integrità fisica, psichica e genetica della persona è inviolabile. Nessun trattamento sanitario o modificazione biometrica o genetica può essere imposto senza consenso libero, informato e revocabile, salvo le procedure d’emergenza strettamente necessarie a tutelare la vita della persona temporaneamente incapace di prestarlo o l’incolumità di terzi, secondo le garanzie del Codice della Salute.
+
+## Art. 29 — Apprendimento
+
+29.1. Sono aboliti l’obbligo scolastico standardizzato, la suddivisione ordinaria in classi per età e l’uso del voto come strumento ordinario di valutazione.
+
+29.2. L’intera Comunità è luogo di apprendimento: officine, campi, cucine, Magazzini, boschi e Nodi di calcolo.
+
+29.3. L’apprendimento si fonda su attività pratiche, affiancamento e gioco libero. Ogni apprendente è affiancato da tre figure di riferimento a rotazione trimestrale, appartenenti a Cerchi di Competenza diversi e non appartenenti alla stessa famiglia o allo stesso Cerchio 0.
+
+29.4. Entro l’undicesimo anno di età è garantita l’alfabetizzazione, comprendente almeno lettura e scrittura, matematica di base, uso delle IA locali, riparazione di un oggetto complesso, coltivazione di alimenti a ciclo completo, primo soccorso umano e animale e mediazione non violenta. La validazione avviene mediante dimostrazione pratica davanti al Cerchio 1 e non tramite esame esterno.
+
+29.5. Dai dodici anni è garantito l’accesso libero ai corsi e ai cantieri di tutti i Cerchi tramite la Rete. Il portfolio delle attività realizzate, validato dai Cerchi di Competenza, sostituisce il diploma. Nessun Cerchio può rifiutare un apprendista per mancanza di predisposizione. Si applica l’articolo 6.4.
+
+29.6. Ogni adulto che svolge un CBO utile contribuisce anche alla facilitazione dell’apprendimento. Ogni membro di un Cerchio di Competenza dedica almeno il venti per cento delle proprie ore alla trasmissione delle competenze, ai sensi dell’articolo 6.3.
+
+29.7. Non è previsto un ruolo permanente di insegnante professionale. Insegna chi appartiene a un Cerchio di Competenza ed è in turno di trasmissione ai sensi dell’articolo 6.3.
+
+# TITOLO VIII — SISTEMA GIURIDICO E SANZIONATORIO
+
+## Art. 30 — Sistema sanzionatorio
+
+30.1. È abolita la pena punitiva fine a sé stessa. Nessuna sofferenza può essere inflitta senza finalità riparative, rieducative o di protezione. Le misure perseguono esclusivamente la riparazione, la rieducazione e la protezione immediata della persona offesa, della Comunità e dell’autore del fatto. Sono vietati trattamenti inumani, degradanti o afflittivi.
+
+30.2. Il sistema è articolato in sei gradi progressivi, ordinati in base all’intensità dell’intervento e del contenimento necessario, alla gravità del fatto, alla reiterazione e al pericolo concreto e attuale. Presupposti, fattispecie e modalità di esecuzione sono disciplinati dal Codice di Giustizia Riparativa nel rispetto di proporzionalità, sussidiarietà e diritti inviolabili dell’articolo 1.2. Nessuna misura può sopprimere le garanzie vitali, salvo quanto previsto dall’articolo 1.3-bis e dai commi successivi.
+
+30.3. Per le fattispecie dell’articolo 1.3-bis possono essere applicate misure estreme di protezione: Contenimento ad Alta Sicurezza e Allontanamento Definitivo dai Cerchi interessati. Il Contenimento ad Alta Sicurezza consiste nella collocazione della persona in una Comunità di Contenimento con perimetro protetto, sotto la sorveglianza del Corpo di Tutela Civica e con mantenimento delle garanzie minime previste dal comma 4. L’Allontanamento Definitivo consiste nel divieto permanente di risiedere e di accedere ai Cerchi nei quali vivono la persona offesa e la comunità colpita, con ricollocazione in un altro Cerchio disponibile ad accogliere la persona o mediante Patto di Convivenza Autonoma. Regime, durata, regola delle due possibilità e riesame sono disciplinati dal Codice di Giustizia Riparativa.
+
+30.4. Anche durante il Contenimento ad Alta Sicurezza o l’Allontanamento Definitivo sono vietati tortura, mutilazione, trattamenti inumani o degradanti e pena di morte. La persona conserva il diritto ad alloggio individuale, cibo, acqua, energia minima e cure sanitarie di base. La pericolosità è riesaminata dal Tribunale di Garanzia almeno ogni dodici mesi e, su richiesta della persona, ogni sei mesi. Le misure cessano quando viene meno il pericolo concreto e attuale.
+
+## Art. 31 — Fonti e organi giuridici
+
+31.1. Le fonti del diritto, in ordine gerarchico, sono:
+
+a) la Costituzione;
+
+b) i Codici Federativi approvati secondo la Doppia Maggioranza Lunga dell’articolo 37.3, fatto salvo il regime di fondazione dell’articolo 38. Nella Costituzione i Codici sono indicati per materia: Codice del Contributo e dei Magazzini (Codice 1), della Qualità (Codice 2), della Deliberazione (Codice 3), di Giustizia Riparativa (Codice 4), dell’Apprendimento (Codice 5), della Salute (Codice 6), della Rete e delle Intelligenze Artificiali (Codice 7), dell’Energia e dell’Acqua (Codice 8), Agroecologico e Alimentare (Codice 9), dell’Habitat e del Territorio (Codice 10), della Mobilità (Codice 11), della Cura (Codice 12), della Biodiversità (Codice 13), della Sicurezza (Codice 14), dei Rapporti Esterni (Codice 15) e della Transizione (Codice 16);
+
+c) i Protocolli di Cerchio validati mediante Dossier ai sensi dell’articolo 33;
+
+d) le consuetudini di Comunità non contrarie alla Costituzione e ai Codici.
+
+31.2. La funzione giuridica è svolta a rotazione e per sorteggio. È vietata una magistratura professionale permanente. La formazione giuridica può essere stabile come competenza, ma non comporta l’esercizio permanente dell’autorità giudiziaria.
+
+31.3. Gli organi giuridici sono:
+
+a) l’Assemblea di Chiarimento del Cerchio 1, per gli illeciti di Grado 1 e 2;
+
+b) il Consiglio di Trasformazione, per gli illeciti di Grado 3;
+
+c) il Tribunale di Garanzia del Cerchio 2, per gli illeciti di Grado 4, 5 e 6 e per la revisione urgente entro ventiquattro ore;
+
+d) il Cerchio di Garanzia del Cerchio 1, per la facilitazione riparativa, la tutela delle garanzie procedurali e i ricorsi previsti dai Codici.
+
+31.4. Ogni organo è assistito da un’IA di mediazione esclusivamente consultiva, priva di potere decisionale e soggetta al diritto inderogabile di override umano.
+
+31.5. Ogni persona ha diritto a due facilitatori di fiducia con competenza giuridica e a una persona di fiducia scelta liberamente, anche senza competenze specifiche. Quest’ultima affianca la persona, può parlare in suo nome previa autorizzazione e accede agli atti pertinenti secondo le regole di riservatezza. Nessuna delle tre figure può essere ricusata senza una procedura di sostituzione che garantisca assistenza equivalente.
+
+31.6. Le decisioni che accertano un illecito di Grado 5 o 6 diventano definitive soltanto dopo la conferma di un secondo Tribunale di Garanzia, sorteggiato in un diverso Cerchio 2. Le decisioni definitive sono pubblicate in forma anonimizzata in un archivio federato: non costituiscono precedente vincolante, ma l’organo che si discosta dall’orientamento prevalente ne indica le ragioni.
+
+# TITOLO IX — SUSSIDIARIETÀ, DELIBERAZIONE E VOTAZIONI
+
+## Art. 32 — Sussidiarietà radicale e sovranità
+
+32.1. La competenza spetta al Cerchio più piccolo il cui ambito di impatto ricade interamente al suo interno. La sovranità decisionale appartiene al Cerchio 1, salvo le materie che per la natura dei loro effetti richiedano coordinamento sovralocale ai sensi della Costituzione. I Cerchi superiori non possono sostituirsi al Cerchio 1 al di fuori delle competenze espressamente attribuite.
+
+32.2. Le pratiche locali sono deliberate dal Cerchio 1. Le pratiche che incidono su un’Unione di Comunità o su una Bioregione richiedono l’istruttoria e la validazione procedurale del Cerchio 2 o 3 competente, senza potere gerarchico. Le pratiche con impatto sistemico globale, incluse quelle riguardanti IA generaliste, ingegneria genetica e geoingegneria, richiedono la validazione globale del Cerchio 4 secondo gli articoli 33 e 35.3. La validazione globale verifica protocolli comuni e impatti sovralocali; non costituisce un governo centrale.
+
+## Art. 33 — Deliberazione scientifica e logica
+
+33.1. Nessuna decisione irreversibile o di competenza del Cerchio 2 o superiore, inclusa la modifica di un protocollo interno di un Cerchio di Competenza, può essere adottata senza un’istruttoria razionale, pubblica e verificabile.
+
+33.2. L’istruttoria consiste in un Dossier pubblico predisposto dal Cerchio di Competenza pertinente. Il Dossier comprende dati misurabili, più opzioni con valutazione di costi, benefici e rischi per sette generazioni, limiti conoscitivi e una sezione obbligatoria di confutazione.
+
+33.3. Il Dossier è sottoposto a discussione pubblica aperta a tutti i Cerchi. A ogni obiezione è data risposta tracciabile. In assenza del Dossier, la deliberazione è nulla. Nessuna votazione può sospendere l’applicazione del presente articolo.
+
+## Art. 34 — Consenso e meccanismi decisionali
+
+34.1. Il metodo decisionale primario è la ricerca del consenso informato, previo Dossier ai sensi dell’articolo 33 quando richiesto.
+
+34.2. Se il consenso non è raggiunto dopo due sessioni di confronto facilitato, si procede alla votazione secondo l’articolo 35. Una minoranza pari ad almeno il dieci per cento dei votanti può sollevare un’Obiezione di Coscienza o di Sostenibilità Ecologica. L’obiezione non costituisce veto automatico, ma sospende l’efficacia della parte contestata e attiva una procedura obbligatoria di riesame e risposta motivata secondo il Codice della Deliberazione.
+
+34.3. L’Assemblea di Comunità delibera sull’organizzazione del CBO, sul Magazzino Comune e sulla giustizia di Grado 1 e 2. Nei Cerchi 2–4 non vi sono deputati: operano portavoce con mandato vincolato, sorteggiati tra volontari idonei e a rotazione per singolo ciclo. Il Cerchio di provenienza può revocarli in qualsiasi momento ai sensi dell’articolo 4.3. Le deliberazioni dei Cerchi 2 e 3 sono assunte dall’Assemblea Generale, costituita da tutte le persone aventi diritto di voto delle Comunità di Base interessate, che votano individualmente ai sensi dell’articolo 35.2; i portavoce ne curano l’istruttoria e il coordinamento e non dispongono di un voto proprio.
+
+34.4. Consultazioni e votazioni si svolgono tramite la Rete federata open source. Il voto individuale è anonimo; il conteggio per Comunità è pubblico e tracciato su registro distribuito. I sistemi informatici non possono alterare il voto né sostituirsi alla volontà dell’elettore.
+
+## Art. 35 — Tipologie di votazione e quorum
+
+35.1. Le deliberazioni ordinarie del Cerchio 1 sono approvate a maggioranza semplice dei partecipanti, senza quorum minimo, salvo i casi per cui la Costituzione o i Codici Federativi stabiliscono un quorum o una maggioranza rafforzati a tutela delle minoranze, della salute, della sicurezza o dei limiti ecologici.
+
+35.2. Le deliberazioni d’impatto del Cerchio 2 o 3 richiedono congiuntamente:
+
+a) la maggioranza dei due terzi delle Comunità di Base partecipanti;
+
+b) la maggioranza delle persone votanti del Cerchio 2 o 3 interessato;
+
+c) il Dossier previsto dall’articolo 33.
+
+35.3. Le iniziative con impatto sistemico globale del Cerchio 4 richiedono la maggioranza assoluta dei votanti a livello globale e la maggioranza assoluta dei Cerchi 3 aventi diritto.
+
+## Art. 36 — Diritto di voto, partecipazione e solidarietà
+
+36.1. Il diritto di voto e deliberazione spetta a ogni essere umano dal compimento del quattordicesimo anno di età. È esercitato incondizionatamente, indipendentemente dal CdR, e non può essere limitato per motivi economici, religiosi, culturali o contributivi, salvo i casi di cessazione dello status di membro previsti dalla Costituzione. Sono vietati la delega, l’acquisto e lo scambio del voto.
+
+36.2. In caso di catastrofe, pandemia grave o scarsità di risorse essenziali, il Protocollo di Solidarietà può essere attivato su dichiarazione del Cerchio 3 interessato o su richiesta concorde di almeno dieci Cerchi 1 limitrofi.
+
+36.3. Durante l’emergenza, le riserve dei Magazzini Comuni e il CBO possono essere riallocati prioritariamente verso le zone colpite e può essere mobilitato il Corpo di Tutela Civica.
+
+36.4. L’emergenza non può sospendere i diritti dell’articolo 1.2, il disarmo previsto dall’articolo 16 o le garanzie dell’articolo 18; non può attribuire poteri di comando centrale né durare oltre trenta giorni senza rinnovo assembleare. Ogni proroga è motivata e registrata pubblicamente.
+
+# TITOLO X — REVISIONE COSTITUZIONALE
+
+## Art. 37 — Modifica della Costituzione
+
+37.1. **Iniziativa empirica.** La proposta di modifica può essere avanzata esclusivamente da un Cerchio 1 che abbia applicato la norma oggetto di revisione per almeno ventiquattro mesi continuativi. Per le norme che non sono applicate direttamente da un Cerchio 1, il requisito è soddisfatto dall’appartenenza continuativa alla Confederazione per il medesimo periodo. La proposta è corredata da un rapporto di impatto basato su dati reali, verificabili nella Rete federata, e da Dossier e confutazione ai sensi dell’articolo 33. È inammissibile l’iniziativa fondata esclusivamente su ideologia o su un postulato non sottoposto a verifica.
+
+37.2. **Sperimentazione controllata.** La modifica proposta è sottoposta a sperimentazione obbligatoria di dodici mesi in almeno cinque Comunità volontarie appartenenti a Cerchi Estesi diversi, selezionate secondo diversità socio-ecologica. Al termine è pubblicato nella Rete un rapporto di sintesi. Se una Comunità interrompe la sperimentazione prima del termine, il fatto è motivato e documentato; la sperimentazione può proseguire purché restino almeno cinque Comunità valide e siano rispettati i requisiti di diversità previsti dal presente comma. La sperimentazione non può derogare al Nucleo Inviolabile.
+
+37.3. **Votazione e Doppia Maggioranza Lunga.** Al termine della sperimentazione, la revisione è sottoposta a votazione globale aperta per novanta giorni. L’approvazione richiede cumulativamente:
+
+a) i due terzi dei Cerchi 1 aventi diritto, distribuiti in almeno tre Cerchi Estesi diversi;
+
+b) i due terzi dei votanti complessivi.
+
+37.4. **Nucleo Inviolabile.** Sono sottratti a qualsiasi procedura di revisione, anche con Doppia Maggioranza Lunga:
+
+a) le finalità di cui all’articolo 0 e i diritti inviolabili di cui all’articolo 1. Le eccezioni previste dagli articoli 1.3-bis, 18.7, 30.3 e 30.4 per la recidiva gravissima contro l’incolumità e per le misure di sicurezza a tutela della persona offesa o della comunità non possono essere estese a casi, misure o persone ulteriori;
+
+b) i divieti di riconoscimento biometrico di massa, di profilazione biometrica e di IA centralizzata di cui agli articoli 18.2, 19.2, 20.2 e 23.1, salva l’eccezione dell’articolo 18.7;
+
+c) il disarmo totale di cui all’articolo 16;
+
+d) il divieto di religione di Stato di cui all’articolo 25.2 e i divieti di delega, acquisto, scambio e condizionamento del voto di cui all’articolo 36.1;
+
+e) il regime dei Beni Comuni e il divieto di proprietà privata su acqua, aria, terra, energia, semi e conoscenza;
+
+f) il Cerchio 0 quale unità inviolabile di cui all’articolo 5.1, lettera a);
+
+g) il principio di deliberazione scientifica di cui all’articolo 33 e il principio di corresponsabilità collettiva di cui all’articolo 2.3;
+
+h) il divieto di IA che decide in luogo delle persone di cui all’articolo 19.6, il principio di indipendenza e non subordinazione delle IA di cui all’articolo 20.1 e il diritto ai facilitatori e alla persona di fiducia di cui all’articolo 31.5;
+
+i) il carattere acefalo e non gerarchico della Confederazione, la sovranità della Comunità di Base e la sussidiarietà di cui agli articoli 4.1, 4.2 e 32.1, nonché il sorteggio, la rotazione e il divieto di esercizio professionale e permanente della politica e della funzione giudiziaria di cui agli articoli 4.3, 4.4, 6.5 e 31.2;
+
+j) il diritto di lasciare la Confederazione e di vivere mediante Patto di Convivenza Autonoma di cui agli articoli 4.8, 4.9 e 4.9-bis, il diritto di recesso delle Comunità di cui all’articolo 4.6 e il diritto di lasciare una Comunità di cui all’articolo 5.2;
+
+k) il presente comma.
+
+37.5. **Correzioni materiali.** Gli errori materiali, i rinvii errati e gli allineamenti terminologici che non modificano il contenuto normativo sono corretti con procedura semplificata: la correzione è pubblicata nella Rete per trenta giorni e si intende approvata se nessun Cerchio 1 presenta un’obiezione motivata. In caso di obiezione si applica la procedura ordinaria.
+
+# TITOLO XI — PRIMA ADOZIONE E REGIME DI FONDAZIONE
+
+## Art. 38 — Adozione, regime di fondazione e gradualità
+
+38.1. La Costituzione e i Codici Federativi entrano in vigore, per ciascuna Comunità di Base, con l’atto di adesione deliberato dalle persone che la costituiscono. L’adesione di ogni persona è individuale, volontaria e revocabile ai sensi dell’articolo 4.8.
+
+38.2. Fino a quando non esistano almeno tre Cerchi Estesi, la revisione della Costituzione e l’approvazione e la modifica dei Codici Federativi seguono il regime di fondazione:
+
+a) la proposta può essere presentata da un Cerchio 1 che abbia applicato la norma per almeno sei mesi, oppure che documenti con Dossier l’impossibilità di applicarla;
+
+b) la sperimentazione dura almeno sei mesi e si svolge in almeno due Comunità volontarie, o nell’unica Comunità esistente;
+
+c) la votazione resta aperta per trenta giorni e richiede cumulativamente i due terzi dei Cerchi 1 esistenti e i due terzi dei votanti complessivi.
+
+38.3. Le modifiche adottate nel regime di fondazione sono sottoposte a ratifica con la Doppia Maggioranza Lunga entro ventiquattro mesi dalla costituzione del terzo Cerchio Esteso. La modifica non ratificata decade e torna in vigore il testo precedente; restano salvi gli effetti già prodotti.
+
+38.4. Il Nucleo Inviolabile dell’articolo 37.4 non è modificabile nemmeno nel regime di fondazione.
+
+38.5. Ogni versione della Costituzione e dei Codici è pubblicata in un archivio aperto, versionato e replicabile, insieme al registro delle modifiche e delle relative motivazioni.
+
+38.6. Fino al completamento della transizione disciplinata dal Codice della Transizione, la Costituzione e i Codici si applicano nel rispetto dell’ordinamento giuridico vigente nel territorio in cui opera ciascuna Comunità. Le disposizioni che presuppongono la piena operatività della Confederazione, comprese quelle sull’abolizione del denaro nei rapporti esterni, sul regime definitivo dei beni e sulle misure di contenimento, si applicano nei limiti e con la gradualità stabiliti da quel Codice.

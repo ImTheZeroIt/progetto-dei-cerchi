@@ -1,0 +1,656 @@
+---
+titolo: "CODE 3 — ON DELIBERATION, THRESHOLDS AND THE ASSEMBLY"
+breve: "Code 3 — Deliberation, thresholds and Assembly"
+versione: "V1.4"
+gruppo: "codici"
+ordine: 3
+id: "codice-03"
+slug: "code-03"
+allineamento: "Constitution V.29; Code 1 V1.5; Code 2 V1.5; Code 4 V1.4; Code 5 V1.3; Code 6 V1.5; Code 7 V1.6; Code 8 V1.3; C.1-Annex A V1.3; Code 9 V3.1; Code 10 V1.3; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.3; Code 16 V1.4."
+---
+
+## CHAPTER I — DELIBERATIVE PRINCIPLES
+
+### Art. 1 — Subject matter
+
+1.  This Code governs:
+
+    a) the bodies competent to decide within the confederal system;
+
+    b) the deliberative procedures and the related decision-making levels;
+
+    c) the economic thresholds and the risk classes;
+
+    d) the consensus method, the handling of objections and, in the cases provided for, recourse to a qualified majority;
+
+    e) the composition and functioning of the Assemblies;
+
+    f) the obligations of statement of reasons, traceability and transparency.
+
+2.  This Code coordinates, in particular:
+
+    a) Code 1, as regards requirements, production, the Storehouses and CdRs;
+
+    b) Code 2, as regards quality, STVs, SVSs and validation;
+
+    c) Code 4, as regards procedural guarantees and appeals;
+
+    d) Code 15, as regards external relations.
+
+3.  The provisions of this Code do not transfer to any body technical, health or sectoral competences assigned to other Codes.
+
+### Art. 2 — Deliberative principles
+
+1.  Deliberation is founded on the following principles:
+
+    a) consensus understood as the absence of valid reasoned objections;
+
+    b) transparency differentiated according to the nature of the information and the rights involved;
+
+    c) traceability of proposals, objections, opinions and decisions;
+
+    d) subsidiarity: the decision is taken by the closest level that is competent;
+
+    e) reversibility of decisions, where their nature so permits;
+
+    f) non-accumulation of deliberative power;
+
+    g) respect for the competences assigned by the Constitution and the Codes.
+
+2.  No majority, even a qualified one, may validate a decision incompatible with a mandatory rule of the Constitution or of the Codes.
+
+3.  Transparency may not be used to disclose personal or health data, or information whose publication would create a risk to the security of infrastructure.
+
+### Art. 3 — Types of decision
+
+1.  **Operational decision.** This is the decision that gives effect to a decision already approved without:
+
+    a) a new commitment of common resources;
+
+    b) the choice of a new supplier;
+
+    c) the approval of a new STV or SVS;
+
+    d) an infrastructural modification;
+
+    e) a substantial modification of the scope or costs already approved.
+
+The operational decision lies with the relevant Competence Circle, within the limits of the original decision.
+
+2.  **Allocative decision.** This is the decision that:
+
+    a) commits common resources, measured in UCR;
+
+    b) selects a supplier;
+
+    c) approves an STV or an SVS;
+
+    d) modifies an infrastructure;
+
+    e) approves or renews an external service;
+
+    f) entails a significant use of common resources.
+
+The deliberative level is determined in accordance with the matrix in Article 7, on the basis of the value of the operation in UCR and of the risk class.
+
+a) Low-risk allocative decisions below threshold are adopted by the Quality Council together with the relevant Competence Circle, in accordance with the procedures of Code 2.
+
+b) Medium- or high-risk allocative decisions follow the reinforced, special or assembly procedure provided for in Article 7 and in Articles 7-bis, 7-ter and 7-quater.
+
+3.  **Constitutive decision.** This is the decision that proposes the amendment of the Codes, calibrates the thresholds and the risk classes, orders the exclusion of a category on principle or resolves on the other matters that the Codes reserve to the General Assembly. It lies with the General Assembly pursuant to Article 14. The amendment of the Codes is approved in accordance with Articles 37 and 38 of the Constitution.
+4.  A decision is classified on the basis of its real effects and not of the formal designation used by the proposer.
+
+### Art. 4 — Reasoned objection and consensus procedure
+
+1.  An objection is valid when it identifies, with verifiable reasons, at least one of the following grounds:
+
+    a) risk to health or safety;
+
+    b) breach of the quality criteria laid down in Code 2;
+
+    c) exceeding of the applicable ecological limits;
+
+    d) documented technical impossibility;
+
+    e) breach of a mandatory rule of the Constitution or of the Codes;
+
+    f) breach of the rules on data sovereignty or data processing laid down in Article 20, letter g), of Code 2;
+
+    g) conflict of interest;
+
+    h) failure to comply with the deliberative procedure, threshold or competence.
+
+2.  The ordinary consensus procedure consists of the following steps:
+
+    a) publication of the proposal and of the related Allocation Report, where required;
+
+    b) opening of a window for objections lasting at least seventy-two hours, except for the longer time limits laid down in this Code;
+
+    c) reasoned reply by the proposer to the objections received;
+
+    d) amendment of the proposal, if any, and publication of the updated version;
+
+    e) fresh verification of the objections after the amendment;
+
+    f) mediation with a facilitator, where objections remain;
+
+    g) decision in accordance with Article 13, where the procedure concerns an Assembly.
+
+3.  The assessment of the validity of an objection lies with the facilitator and the Quality Council, each for the aspects within its own competence. The proposer may not decide alone on the validity of objections to the proposer’s own proposal.
+
+4.  If the facilitator or the member of the Quality Council took part in the contested proposal or preparatory inquiry, the assessment is entrusted to an independent substitute in accordance with the guarantees of Code 4.
+
+5.  The decision on the validity of the objection shall state its reasons and shall be recorded. An objection is not considered valid merely because it has been raised, nor may it be rejected without its reasons being examined.
+
+## CHAPTER II — THRESHOLDS: REPRODUCTION COST AND RISK
+
+### Art. 5 — Economic threshold
+
+1.  The economic value of the operation is determined by considering its overall reproduction cost. The following are included, where applicable:
+
+    a) the cost of the batch or of the entire supply;
+
+    b) transport and installation;
+
+    c) maintenance foreseen for the following twenty-four months;
+
+    d) necessary training;
+
+    e) foreseeable end-of-life costs;
+
+    f) processing, transfer and storage of data;
+
+    g) any further costs directly connected with the operation.
+
+2.  The calculation is made in accordance with the UCR methodology provided for in Article 9 and in the UCR Technical Annex.
+
+3.  The value is calculated on the operation as a whole and not on the individual good or contract, including for the purposes of the anti-circumvention provisions of Article 11.
+
+### Art. 6 — Risk threshold and classification
+
+1.  The risk of the operation is assessed by considering at least:
+
+    a) the presence of proprietary dependencies;
+
+    b) the processing of data and sovereignty over them;
+
+    c) the criticality of the infrastructure involved;
+
+    d) the substitutability of the good or service;
+
+    e) the safety of persons and systems;
+
+    f) the continuity of essential services;
+
+    g) the environmental and territorial effects, where relevant.
+
+2.  Operations are classified in the following classes:
+
+    a) low risk;
+
+    b) medium risk;
+
+    c) high or critical risk.
+
+3.  Before the deliberative level is determined, a documented preliminary risk assessment shall be drawn up. That assessment is necessary in order to apply the matrix in Article 7 and does not replace the definitive STV or SVS.
+
+4.  The preliminary classification is confirmed or updated in the STV or in the SVS. If the definitive assessment identifies a higher risk class, the higher deliberative level applies and the procedure shall be adapted before the definitive decision is adopted.
+
+5.  A low economic threshold does not preclude the application of a higher risk class. If the value in UCR and the risk lead to different deliberative levels, the higher level prevails.
+
+6.  In the event of substantial uncertainty, the assessment shall indicate the missing data and shall provisionally apply the most precautionary class compatible with the available evidence.
+
+### Art. 7 — Binding deliberative matrix
+
+1.  The matrix in this Article determines the minimum deliberative level. No discretionary assessment may lower the resulting level.
+2.  Where the economic threshold and the risk class lead to different levels, the higher one applies.
+3.  The following matrix applies:
+
+|                                             |                                       |                                                |                                                                                      |
+|---------------------------------------------|---------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------------|
+| Value of the operation                      | Low risk                              | Medium risk                                    | High or critical risk                                                                |
+| **Low: below 500 UCR**                      | Competence Circle                     | Quality Council and Competence Circle          | Special procedure pursuant to Article 7-bis and decision of the Assembly of Circle 1 |
+| **Medium: from 500 to 2,500 UCR inclusive** | Quality Council and Competence Circle | Reinforced procedure pursuant to Article 7-ter | Assembly of Circle 1                                                                 |
+| **High: above 2,500 UCR**                   | Assembly of Circle 1                  | Assembly of Circle 1                           | Assembly of Circle 1 with special guarantees pursuant to Article 7-quater            |
+
+4.  Any operational decision subsequent to approval is entrusted to the Competence Circle, provided that it does not modify the subject matter, the cost, the risk or the conditions of the approved decision.
+5.  If a modification of the operation affects a threshold or the risk class, the decision shall be submitted afresh to the deliberative level resulting from the updated matrix.
+
+### Art. 7-bis — Special procedure
+
+1.  The special procedure applies to operations with a value below 500 UCR and high or critical risk.
+
+2.  The decision is taken by the Assembly of Circle 1, convened by ordinary procedure or, in the event of reasoned urgency, within forty-eight hours.
+
+3.  The opinions of the Health, Network and Quality Councils are mandatory, each for the matters within its own competence. Binding negative opinions produce the effects provided for in Article 8.
+
+4.  Before the decision, the following shall be available:
+
+    a) the preliminary risk assessment provided for in Article 6;
+
+    b) the Allocation Report provided for in Article 10;
+
+    c) a provisional STV or SVS;
+
+    d) a Continuity Plan;
+
+    e) a Substitution Plan, where necessary.
+
+5.  The preparatory inquiry shall not exceed seven days, except for a reasoned extension due to the need to obtain indispensable data or opinions. The extension shall be communicated and recorded.
+
+6.  The decision is adopted in accordance with the consensus procedure provided for in Article 4. Recourse to a qualified majority is permitted exclusively in the cases and under the conditions of Article 13, paragraph 3, letter b).
+
+7.  Where there is a persistent objection, mediation is mandatory. An objection that reports the breach of a mandatory rule or a serious risk that cannot be remedied may not be overcome by a vote.
+
+### Art. 7-ter — Reinforced procedure
+
+1.  The reinforced procedure applies to operations of medium value in UCR and medium risk.
+2.  The preparatory inquiry is carried out jointly by the Quality Council and the relevant Competence Circle. The binding opinion of the Health Council or of the Network Council shall be obtained where the subject matter of the operation falls within their respective competences.
+3.  The decision shall be accompanied by the Allocation Report provided for in Article 10.
+4.  The operation shall be audited within twelve months of its start and thereafter in accordance with the level of risk and the conditions laid down in the decision.
+
+### Art. 7-quater — Special guarantees
+
+1.  The procedure provided for in this Article applies to operations of high value in UCR and high or critical risk.
+
+2.  The decision lies with the Assembly of Circle 1 and is subject to:
+
+    a) the binding opinions of the Health and Network Councils, where relevant;
+
+    b) the opinion of the Guarantee Circle on the procedural aspects;
+
+    c) the preparation of a Continuity Plan;
+
+    d) the preparation of a Substitution Plan;
+
+    e) an audit within six months of the start;
+
+    f) an Allocation Report comparing at least two alternatives, where these are available.
+
+3.  If two real alternatives are not available, the Report shall indicate the options considered and give reasons for the impossibility of the comparison.
+
+4.  The opinion of the Guarantee Circle does not replace the technical opinions, nor does it determine the allocative outcome.
+
+### Art. 8 — Binding negative opinion
+
+1.  A binding negative opinion of the Health Council or of the Network Council prevents the adoption of the decision until the cause that gave rise to the opinion has been removed, limited to the matters assigned to the Circle that issued it.
+
+2.  A binding negative opinion may not be overcome by an assembly vote, not even by a qualified majority.
+
+3.  The proposer may amend the proposal and resubmit it, attaching the evidence demonstrating that the cause of the negative opinion has been removed.
+
+4.  The negative opinion shall state its reasons, be recorded and be communicated to those entitled to vote. It shall indicate, as far as possible:
+
+    a) the area of competence concerned;
+
+    b) the risk or breach identified;
+
+    c) the elements necessary for the proposal to be re-examined.
+
+5.  The binding opinion may be challenged only in accordance with the guarantee procedures provided for in the Codes, and the appeal shall not suspend the prohibition on proceeding, except as expressly provided for in the Constitution or the Codes.
+
+### Art. 9 — UCR: reproduction cost and methodology
+
+1.  The Reproduction Cost Unit, hereinafter “UCR”, is a non-monetary confederal unit of account representing the CBO time, materials, energy and logistics necessary to reproduce a good or to provide a service. One UCR corresponds to one hour of ordinary CBO; materials, energy and logistics are converted into that unit in accordance with the UCR Technical Annex.
+
+2.  The UCR is not a market price. It is used to compare alternatives, to make the systemic cost transparent and to prevent accumulation.
+
+3.  The methodology is defined in the UCR Technical Annex, prepared by the Accounting Council and the Quality Council and approved by the competent Assembly.
+
+4.  The UCR Technical Annex shall govern at least:
+
+    a) the unit of measurement of time;
+
+    b) the weighting of materials;
+
+    c) the assessment of energy consumption;
+
+    d) the calculation of digital services;
+
+    e) discounting over time;
+
+    f) the certification of the calculation;
+
+    g) the arrangements for revision and challenge.
+
+5.  The value in UCR is certified by the Accounting Council on the basis of the STV or the SVS and of the available data. Uncertainties shall be indicated in the certification.
+
+6.  Indicative conversions into external values are for information purposes only and are not binding.
+
+7.  UCR are not assigned to persons, do not constitute a credit and are not a means of exchange. Personal recognition of the contribution takes place through the Recognition Contribution, hereinafter “CdR”, governed by Article 8 of the Constitution and by Chapter V of Code 1. The acronym CdR denotes exclusively the Recognition Contribution.
+
+8.  The Accounting Council is the technical Council responsible for the calculation and certification of values in UCR and for the anti-circumvention verification under Article 11. It has no allocative powers and does not take part in the decision on the operations it certifies.
+
+### Art. 10 — Allocation Report
+
+1.  Every allocative decision shall be accompanied by an Allocation Report drawn up by the proposer, with the support of the Quality Council where necessary.
+
+2.  The Report shall contain at least:
+
+    a) the substantive requirement to which the decision responds;
+
+    b) the reference to the applicable STV or SVS;
+
+    c) the certified value in UCR and the criteria used to calculate it;
+
+    d) the preliminary risk class and, where available, the definitive one;
+
+    e) the alternatives considered;
+
+    f) the reasons for the proposed choice;
+
+    g) the Substitution Plan or Continuity Plan, where required;
+
+    h) the data-processing aspects;
+
+    i) the bodies consulted and the opinions obtained;
+
+    j) the time limits for review and the indicators for verifying effectiveness.
+
+3.  The Report is a reasoned and readable summary of the STV or the SVS and of the preparatory inquiry. It does not duplicate the technical documents, but refers to them unambiguously.
+
+4.  The Report is mandatory. Its absence produces the effects provided for in Article 18.
+
+5.  The Report shall be published in accordance with the levels of transparency of Article 15.
+
+6.  For irreversible decisions and for those within the competence of Circle 2 or of a higher Circle, the Allocation Report is incorporated into the Dossier provided for in Article 33 of the Constitution, which includes the assessment of costs, benefits and risks for seven generations, the limits of knowledge and the refutation section.
+
+### Art. 11 — Anti-circumvention and aggregation of operations
+
+1.  For the purposes of the thresholds, operations that respond to the same substantive requirement or to functionally connected requirements shall be considered as a single whole, even where they are:
+
+    a) entrusted to different suppliers;
+
+    b) described with different subject matters or titles;
+
+    c) divided into several contracts or orders;
+
+    d) spread over time.
+
+2.  For the purposes of aggregation, the following criteria apply:
+
+    a) operations foreseeable at the time of the initial decision shall be aggregated;
+
+    b) supervening and unforeseeable requirements may be assessed separately, with documented reasons;
+
+    c) a change of supplier, of designation or of contractual form does not preclude aggregation if the same substantive requirement persists.
+
+3.  The period of one hundred and eighty days constitutes a rebuttable presumption of foreseeability:
+
+    a) connected operations started within one hundred and eighty days of the first decision are presumed foreseeable and shall be aggregated, unless there is documented proof to the contrary;
+
+    b) operations started after more than one hundred and eighty days shall nevertheless be aggregated where it is documented that the requirement was foreseeable at the time of the first decision.
+
+4.  The verification is carried out by the Accounting Council. Anyone may report a possible circumvention.
+
+5.  The assessment of the Accounting Council shall state its reasons and shall be recorded. If it establishes a possible circumventing fragmentation, the operation shall be submitted to the deliberative level resulting from the aggregated value.
+
+## CHAPTER III — ASSEMBLY, TRANSPARENCY, CONFLICTS, APPEALS AND EFFECTS
+
+### Art. 12 — Assembly of Circle 1: composition, participation and quorum
+
+1.  The Assembly of Circle 1 is composed of all the persons who belong to the Base Community and have the right to vote pursuant to Article 36.1 of the Constitution. Each person votes individually. Delegation, purchase and exchange of votes are prohibited. The spokespersons of Circles 0 perform only functions of communication and practical coordination and do not dispose of the votes of others.
+
+2.  Participation takes place in person or through the federated Network, in accordance with Article 34.4 of the Constitution. The individual vote is anonymous. Reasoned objections shall be submitted in traceable form, so that they can be examined and answered.
+
+3.  For the purposes of this Code:
+
+    a) a participant is a person who takes part in the deliberation, in person or through the Network;
+
+    b) an abstainer is a participating person who declares that they are not expressing a position on the decision;
+
+    c) an active participant is a person who takes part in the deliberation and does not abstain.
+
+4.  Ordinary resolutions are valid without a minimum quorum, in accordance with Article 35.1 of the Constitution.
+
+5.  For decisions that the matrix in Article 7 assigns to the Assembly and for those for which the Codes require a qualified majority, the participation of at least one third of those entitled to vote is required. For decisions subject to the special guarantees of Article 7-quater, the participation of at least half of those entitled to vote is required. These quorums constitute reinforced guarantees pursuant to Article 35.1 of the Constitution.
+
+6.  If the quorum is not reached, the proposal shall be republished for a new period of not less than seven days. If the quorum is not reached within the new period either, the proposal lapses and may be resubmitted.
+
+7.  Abstention is not equivalent to an objection and does not, in itself, prevent the verification of consensus.
+
+8.  Participation, abstentions and the calculation of quorums shall be recorded in the minutes in aggregate form, without identifying the vote of individual persons.
+
+### Art. 12-bis — Technical Councils
+
+1.  The Councils provided for in the Codes are the local branches of the Competence Circles, pursuant to Article 6.5 of the Constitution. In the Codes the expressions “relevant Competence Circle” and “competent Council” denote, in each Circle 1, the same technical body.
+
+2.  The technical Councils are: the Storehouse Council (Code 1), the Quality Council (Code 2), the Accounting Council (this Code), the Competences Council (Code 5), the Health Council (Code 6), the Network Council (Code 7), the Energy and Water Council (Code 8), the Production Council (C.1-Annex A), the Agroecological Council (Code 9), the Habitat and Territory Council (Code 10), the Logistics Council (Code 11), the Care Council (Code 12), the Biodiversity Council (Code 13) and the Safety Council (Code 14). The Guarantee Circle is governed by Code 4 and the Transition Council by Code 16.
+
+3.  Each Council is composed of the number of persons laid down by the Code that governs it or, failing that, of three to five persons, with the validated competences required in accordance with Code 5.
+
+4.  The members are drawn by lot, by a public and traceable procedure, from among the persons who possess the required competence, have declared their availability and are not subject to a ground of incompatibility. Personal candidacy for a specific office is prohibited. Any person drawn by lot may refuse.
+
+5.  The term of office lasts one year. Renewal takes place in stages, as a rule for half of the members every six months, with a minuted handover. A person who has completed a term of office may not be drawn by lot again for the same Council before twelve months have elapsed. If there are no other suitable persons, a single reasoned extension is permitted, not exceeding six months, accompanied by a plan for training new persons in accordance with Code 5.
+
+6.  Where the Community does not have a sufficient number of suitable persons, the Assembly may:
+
+    a) merge several kindred Councils into a single Council, without prejudice to the separation between those who investigate, those who decide and those who control;
+
+    b) establish the Council in a form shared with other Communities of the same Circle 2;
+
+    c) make temporary use, solely for technical acts and opinions, of the Council of another Community.
+
+7.  The Accounting Council may not be merged with the Storehouse Council or with the Quality Council. The Guarantee Circle may not be merged with any Council.
+
+8.  No one may be a member at the same time of more than two Councils, or of a Council and of the Guarantee Circle. No more than two persons belonging to the same Circle 0 may serve on the same Council.
+
+9.  The Councils do not exercise powers of command, have no disciplinary powers and do not decide in place of the Assembly. They adopt bound technical acts in execution of decisions, STVs, SVSs and Sheets already approved; they formulate discretionary proposals and decisions in accordance with the consensus method of Article 4, after publication for at least seventy-two hours; they issue binding negative opinions solely in the cases of Article 8.
+
+10. The Assembly may at any time remove one or more members by reasoned decision. Article 16 on conflict of interest applies.
+
+11. The time devoted to Council, guarantee and facilitation functions and to mandatory documentation is counted in the CBO pursuant to Article 7.2 of the Constitution and to Code 1. The office does not confer any right to CdR, privileges or preferential access to the commons.
+
+12. **Small Communities.** In Communities with fewer than one hundred and fifty persons entitled to vote, the technical Councils are combined, unless the Assembly resolves otherwise with reasons, into three Area Councils:
+
+    a) the Material Life Council, which combines the Storehouse, Production, Agroecological, Logistics, Energy and Water, and Habitat and Territory Councils;
+
+    b) the People Council, which combines the Health, Care and Competences Councils;
+
+    c) the Technical Safeguards Council, which combines the Quality, Safety, Network and Biodiversity Councils.
+
+    Each Area Council is composed of three to seven persons and exercises the functions that the Codes assign to the combined Councils; the expressions used in the Codes shall be understood as referring to it. The Accounting Council, which may be established in shared form within Circle 2, and the Guarantee Circle remain separate. Where a Code requires the opinion of a Council other than the one making the proposal and the two are combined in the same area, the opinion is given by two competent persons not involved in the preparatory inquiry. In small Communities the interval provided for in paragraph 5 is reduced to six months.
+
+13. **Limit on administrative time.** The total time devoted to Council, guarantee, facilitation and accounting functions and to mandatory documentation shall not exceed one tenth of the total CBO of the Community, calculated on a quarterly basis in the Labour Balance provided for in Article 2 of Code 1. If the limit is exceeded, before assigning new hours the Assembly shall simplify: it shall merge bodies, reduce the frequency of formalities and abolish duplicate registers. Formalities protecting health, safety, personal data and the guarantees of Code 4 may not be reduced. Every proposal for a new rule shall indicate in the Dossier the administrative time it requires.
+
+### Art. 13 — Assembly decisions and qualified majority
+
+1.  The Assembly shall be convened with at least seven days’ notice. The notice of convocation shall indicate:
+
+    a) the agenda;
+
+    b) the proposal submitted for decision;
+
+    c) the Allocation Report provided for in Article 10, where required;
+
+    d) the relevant STV or SVS;
+
+    e) the estimated impact in UCR and the risk class;
+
+    f) the arrangements for submitting objections.
+
+2.  The decision is adopted by consensus, understood as the absence of valid reasoned objections persisting after the procedure of Article 4.
+
+3.  If objections remain after two sessions of facilitated discussion, the following rules apply:
+
+    a) if the objection reports a breach of a mandatory rule or a serious risk that cannot be remedied, the proposal may not be approved by majority. It shall be referred back for adaptation or shelved;
+
+    b) if the objection concerns an aspect that is technically resolvable and no serious risk or breach of a mandatory rule remains, mandatory mediation shall be carried out. If, after the mediation, the objection persists, the Assembly shall decide: for ordinary resolutions, by simple majority of the active participants pursuant to Article 35.1 of the Constitution; for decisions that the matrix in Article 7 assigns to the Assembly and in the other cases in which the Codes require a qualified majority, by a majority of two thirds of the active participants, with reinforced and traceable reasons.
+
+4.  For the purposes of the qualified majority, the denominator consists of the active participants in the deliberation; abstainers are excluded. By way of example: if one hundred and twenty persons participate, forty abstain and eighty participate actively, the two-thirds majority is reached with at least fifty-four votes in favour.
+
+5.  A qualified majority may not validate a decision incompatible with a mandatory rule or overcome a binding negative opinion pursuant to Article 8.
+
+6.  The minutes shall indicate the initial proposal, the objections, the outcomes of the mediation, any amendments, the quorum, the calculation of the majority and the reasons for the decision.
+
+### Art. 13-bis — Conscientious or Ecological Sustainability Objection
+
+1.  A minority equal to at least ten per cent of the voters may raise, within seventy-two hours of the announcement of the outcome, a Conscientious or Ecological Sustainability Objection pursuant to Article 34.2 of the Constitution, indicating the contested part and the reasons.
+2.  The objection does not constitute a veto. It suspends the effect of the contested part alone, unless the suspension would compromise an essential service or give rise to a serious and immediate risk; in that case the applicable Continuity Plan shall be implemented.
+3.  Within fourteen days the proposer and the competent body shall publish a reasoned reply and, where appropriate, an amended proposal. For the ecological aspects, the preparatory inquiry shall be supplemented by the competent Council.
+4.  The Assembly shall re-examine the contested part. Confirmation without amendments requires a majority of two thirds of the active participants and a statement of reasons that takes account of the grounds of the objection.
+5.  Decisions that conflict with a mandatory rule, with a binding negative opinion or with the biophysical limits referred to in Article 14.6 of the Constitution may not be confirmed.
+6.  A person who has raised a conscientious objection may not be obliged to carry out the contested part personally. Article 7.4 of the Constitution applies.
+
+### Art. 14 — General Assembly
+
+1.  The General Assembly is the joint deliberation of all the persons entitled to vote of the Base Communities included in the Circle 2 or Circle 3 whose scope is affected by the decision, in accordance with Articles 32 and 34.3 of the Constitution. It is not a permanent body and has no delegates: each person votes individually, through the federated Network or in the local Assemblies. The spokespersons drawn by lot with a binding mandate are responsible for its preparatory inquiry and coordination and do not have a vote of their own.
+
+2.  The General Assembly is competent to:
+
+    a) propose the amendment of the Codes, which is approved in accordance with Articles 37 and 38 of the Constitution;
+
+    b) calibrate annually the thresholds in UCR and the risk classes, as well as the parameters of the CdR provided for in Chapter V of Code 1;
+
+    c) resolve on the exclusion of a category on principle, that is, establish in a general and permanent manner that a category of goods, services, practices or relations is incompatible with the principles of the Confederation;
+
+    d) resolve on the other matters that the Codes reserve to it.
+
+3.  The exclusion of an individual good or supplier does not constitute exclusion of a category on principle and remains assigned to the competent bodies in accordance with Codes 2 and 15 and this Code.
+
+4.  The first calibration of the thresholds shall be carried out within six months of the entry into force of this Code. Subsequent calibrations shall be carried out at least once a year.
+
+5.  An extraordinary revision may be initiated, with reasons, on a proposal from the Quality Council or the Accounting Council.
+
+6.  The General Assembly shall be convened with at least twenty-one days’ notice. The resolution is valid when at least three quarters of the Base Communities concerned participate; a Community participates when at least one third of those entitled to vote in it cast a vote.
+
+7.  Pursuant to Article 35.2 of the Constitution, approval requires jointly:
+
+    a) the favourable vote of two thirds of the participating Base Communities, a Community being deemed favourable where votes in favour prevail within it;
+
+    b) the majority of the persons voting in the Circle concerned;
+
+    c) the Dossier provided for in Article 33 of the Constitution.
+
+8.  Where the Codes require a qualified majority of the General Assembly, the threshold in paragraph 7, letter b), is raised to two thirds of the persons voting.
+
+9.  In the cases of urgency provided for in the Codes, the General Assembly may be convened with notice reduced to as little as forty-eight hours. The Dossier may be replaced by a reasoned summary inquiry, to be supplemented within thirty days. An urgent resolution has effect for no more than thirty days and is renewable only by a new resolution.
+
+10. Until Circle 2 is established, the functions of the General Assembly are exercised by the Assembly of Circle 1 or, if several Communities exist, by their joint deliberation, in accordance with Code 16.
+
+11. Initiatives with a global systemic impact follow Article 35.3 of the Constitution.
+
+12. The rules on decision, minute-taking and transparency apply in accordance with the Constitution and the relevant provisions of this Code.
+
+### Art. 15 — Differentiated transparency
+
+1.  Information relating to decisions is classified in the following levels:
+
+    a) **public:** decision, summary statement of reasons, value in UCR, risk class and outcome;
+
+    b) **public in aggregate form:** statistics and the Exclusions Register, in a form that does not allow the unauthorised identification of persons;
+
+    c) **accessible to those entitled to vote:** full STV or SVS, preparatory inquiry, Allocation Report, objections and opinions, within the limits necessary for participation and appeal;
+
+    d) **confidential:** personal data, credentials and information on the security of infrastructure, in accordance with Article 20, letter g), of Code 2 and the provisions of Code 6 on health matters.
+
+2.  The classification shall indicate the reason for the level of access and, where possible, the duration of confidentiality.
+
+3.  Transparency may not infringe data sovereignty, the rights of persons or the security of infrastructure.
+
+4.  A decision to restrict access shall state its reasons, be traceable and be open to challenge in accordance with Codes 4 and 7.
+
+### Art. 16 — Conflict of interest
+
+1.  The rules on conflict of interest apply to every decision, including those relating to:
+
+    a) internal or external purchases;
+
+    b) investments;
+
+    c) appointments;
+
+    d) exclusions;
+
+    e) contractual modifications;
+
+    f) commitment of common resources.
+
+2.  Anyone who takes part in the preparatory inquiry or in the decision and has a direct, indirect, family or economic interest in the outcome shall declare it before the deliberation begins.
+
+3.  The person in a conflict of interest shall not take part in the preparatory inquiry, in the assessment of objections or in the decision, unless it is necessary to hear that person as a party or as a source of information. In that case participation is limited to the hearing and shall be recorded.
+
+4.  Failure to make the declaration, or participation in breach of this Article, produces the effects provided for in Article 18. The procedural assessment falls to the Guarantee Circle in accordance with Code 4.
+
+### Art. 17 — Appeal and continuity of service
+
+1.  An appeal may be lodged with the Guarantee Circle within fourteen days of the communication of the decision.
+2.  The appeal does not automatically suspend the decision. The Guarantee Circle may order precautionary suspension where it establishes a serious risk, irreversible harm or a procedural breach capable of affecting the outcome.
+3.  If the decision concerns a critical service, including connectivity, digital services, infrastructural maintenance or specialist health services, the applicable Continuity Plan shall be implemented during the appeal.
+4.  Suspension is prohibited where it would cause greater harm than the defect complained of, unless continuation would entail a serious and immediate risk that cannot otherwise be contained.
+5.  The Guarantee Circle shall decide within fourteen days of receipt of the appeal, except for a reasoned extension due to particular complexity or to the need to obtain indispensable opinions.
+6.  The decision on the appeal shall state its reasons and be communicated to the parties. The review does not transfer to the Guarantee Circle the technical or allocative competences of the other bodies.
+
+### Art. 18 — Effects of invalidity
+
+1.  For the internal purposes of the Confederation, the following categories apply:
+
+    a) **nullity:** this arises when the decision lacks the mandatory Allocation Report, breaches a mandatory rule, was adopted in the presence of a serious concealed conflict of interest, lacks the required STV or SVS, or circumvents a binding negative opinion. A null decision is without effect from the outset. The implementing acts are suspended to the extent necessary and the procedure must be renewed. Nullity may be contested by anyone with an interest within twelve months and may be raised by the Guarantee Circle of its own motion;
+
+    b) **voidability:** this arises in the presence of a non-mandatory procedural defect, such as an irregularity in the quorum or in the time limits, or an incomplete preparatory inquiry that can be remedied. The decision remains effective until it is annulled. The defect may be remedied within thirty days, where possible, or else the decision is annulled on appeal;
+
+    c) **remediable irregularity:** this arises in the presence of a clerical error or of a formality that does not affect the validity of the decision. It is corrected by means of a traceable rectification without any need to renew the procedure.
+
+2.  The classification of the defect and its effects lie with the Guarantee Circle, in compliance with Code 4 and with the limits of competence laid down in the other Codes.
+
+3.  The suspension of the implementing acts may not interrupt an essential service without the activation of the Continuity Plan, except in the case of serious and immediate risk.
+
+4.  The decision on nullity, voidability or irregularity shall indicate the remedies, the time limits and the body competent for the renewal or the correction.
+
+### Art. 19 — Status of the Technical Annexes
+
+1.  The Technical Annexes relating to UCR and to risk assessment do not constitute autonomous provisions of this Code.
+2.  The methodologies contained in the Annexes are mandatory for the application of Articles 5 to 11.
+3.  The Annexes are approved and amended by the Assembly of Circle 1 in accordance with the applicable deliberative method.
+4.  Each Annex shall indicate its version, date of approval, scope of application, the persons technically responsible and the arrangements for revision.
+5.  An Annex may not modify thresholds, competences or guarantees established directly by the Constitution or by the Codes.
+
+### Art. 20 — Inter-Code linkage
+
+1.  This Code receives:
+
+    a) from Code 1 the determination of requirements and the information relating to the Storehouses;
+
+    b) from Code 2 the STVs and the SVSs;
+
+    c) from the competent Circles the relevant technical opinions.
+
+2.  This Code transmits the approved decisions to the bodies responsible for implementation, including the Storehouses and the Competence Circles.
+
+3.  The main cross-references are the following:
+
+    a) Code 2, Article 15, for decision-making competence and the admission thresholds;
+
+    b) Code 1, Article 40, for purchases and the comparative report;
+
+    c) Code 4, for the procedural guarantee and appeals;
+
+    d) Code 15, for external relations.
+
+4.  The decisions, the opinions and the underlying documents are traceable and accessible in accordance with Article 15. No allocative decision may be opaque or lack a statement of reasons that can be reconstructed.
+
+### Art. 21 — Entry into force and application test
+
+1.  This Code enters into force in coordination with Code 2 and with the applicable provisions of Code 1.
+
+2.  Before the definitive filing of the version, a mandatory application test shall be carried out on a sample of between eight and ten concrete cases.
+
+3.  The test cases shall include different combinations of economic threshold and risk class, including at least:
+
+    a) an operation below threshold and at low risk;
+
+    b) an operation below threshold and at high or critical risk;
+
+    c) an operation of medium value in UCR and medium risk;
+
+    d) an operation of high value in UCR and high or critical risk;
+
+    e) a case with a binding negative opinion;
+
+    f) a case with a conflict of interest;
+
+    g) a case of appeal and continuity of service.
+
+4.  The outcomes shall be documented in order to verify that the matrix in Article 7 leads to an unambiguous deliberative level and that the time limits, opinions and remedies are applicable.
+
+5.  The critical issues that emerge shall be corrected before the definitive filing or recorded as open questions to be submitted to the competent body.
