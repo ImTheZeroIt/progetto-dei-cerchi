@@ -7,6 +7,18 @@ id: "3-il-sistema-contro-l-individuo"
 slug: "3-the-system-against-the-individual"
 ---
 
+**In brief**
+
+- The system produces a great deal, but does not turn that wealth proportionately into security, time and capacity for choice for people.
+
+- The individual is asked to take responsibility for results that depend on conditions they do not control.
+
+- Those who decide, those who benefit and those who pay are more and more often different people.
+
+- The present is financed by transferring costs onto the future.
+
+- This is why correcting the effects is not enough: the conditions that produce them must be changed.
+
 ## Foreword
 
 The contemporary world can be described through economic, demographic, environmental, technological and political data. We can measure growth, productivity, debt, poverty, concentration of wealth, consumption of resources, demographic change, trust in institutions and climate transformation.
@@ -367,127 +379,25 @@ Redistribution acts on the result.
 
 Systemic change must act on the conditions that produce that result.
 
-### 17. Changing the relationship between value and need
+Changing those conditions means changing some fundamental relationships:
 
-A different society must start from a fundamental distinction:
+- production starts from real need, not from price;
 
-> what has a price does not necessarily coincide with what has value, and what has economic value does not necessarily coincide with what is necessary.
+- necessary labour becomes contribution, and productivity can give time back;
 
-Production must start from real need, distribution from availability and necessity, organisation from the contribution actually required.
+- what determines the fundamental conditions of life is held in common custody and cannot become an unlimited private power over others;
 
-### 18. From labour as a commodity to contribution
+- the market remains an instrument, not the universal criterion;
 
-If survival does not depend on selling one’s labour, necessary labour takes on a different meaning.
+- real costs — time, matter, energy — remain visible without becoming accumulation;
 
-The question is not simply to work less.
+- power is a temporary and controllable function, not a position;
 
-It is to decide what must be produced, how much it is necessary to produce and how much human time is really necessary to do so.
+- technology helps to decide, it does not decide;
 
-If productivity increases, the first dividend should also be able to be time.
+- progress is measured by sufficiency, not by indefinite growth.
 
-Technology could therefore become not only an instrument for producing more, but an instrument for giving life back to human time.
-
-### 19. From ownership of the fundamental means to common custody
-
-Not all goods have the same nature.
-
-Personal objects, the home one lives in and individual tools can belong to the personal sphere.
-
-Land, water, energy sources, essential infrastructure, means of production, knowledge, networks and technological nodes, by contrast, have a different character: control over them determines the material possibilities of others.
-
-The principle is not:
-
-> everything belongs to everyone.
-
-It is:
-
-> what determines the fundamental conditions of life must not be able to become an unlimited private power over others.
-
-### 20. From the market as a principle to the market as an instrument
-
-Going beyond capitalism does not necessarily mean eliminating every form of exchange.
-
-It means taking away from the market the role of universal criterion.
-
-For essential goods the criterion becomes need.
-
-For common resources, sustainability.
-
-For technical functions, competence.
-
-For collective decisions, deliberation.
-
-For production, the real requirement.
-
-The economic problem does not disappear.
-
-It is relocated.
-
-### 21. From money to knowledge of the real cost
-
-Abolishing money as a universal measure does not mean giving up accounting.
-
-A complex society must know how much it costs to produce, transport, maintain and repair a good.
-
-But cost and price are not the same thing.
-
-The problem therefore becomes that of building instruments capable of making visible time, matter, energy, logistics, maintenance and consumption of resources, without transforming this measurement into a new form of accumulation.
-
-### 22. From concentrated power to distributed power
-
-Changing ownership without changing power would produce a new concentration.
-
-Power must not become a permanent position.
-
-It must be a temporary, competent, controllable and reversible function.
-
-The fundamental difference is between exercising a function and possessing power.
-
-### 23. Technology as an instrument, not as a sovereign
-
-The same distinction applies to artificial intelligence.
-
-AI can collect data, detect needs, propose solutions and optimise systems too complex to be managed manually.
-
-But it must not become the subject of the decision.
-
-Technology must therefore increase the human capacity to understand and decide, not replace it.
-
-### 24. From growth to sufficiency
-
-Finally, the ecological question requires us to change the criterion of progress.
-
-On a finite planet the quantitative increase of material production cannot be taken indefinitely as the universal measure of success.
-
-Sufficiency does not mean poverty.
-
-It means distinguishing:
-
-> need from accumulation;
->
-> quality from quantity;
->
-> durability from consumption;
->
-> repair from replacement;
->
-> well-being from possession.
-
-### 25. The individual remains the centre
-
-The opposite risk would be to replace economic individualism with a collectivity that absorbs the person.
-
-That is not the direction.
-
-The alternative must start from the individual.
-
-The limit placed on power over fundamental goods is therefore joined by a second principle:
-
-> no one must be deprived of necessary goods because they do not own enough.
-
-Freedom does not consist only in being able to choose.
-
-It also consists in having the minimum material conditions to be able to choose in reality.
+All of this starts from the individual: no one must be deprived of necessary goods because they do not own enough.
 
 ## Conclusion — Building what comes after
 

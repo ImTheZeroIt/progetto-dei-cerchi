@@ -7,6 +7,18 @@ id: "3-il-sistema-contro-l-individuo"
 slug: "3-il-sistema-contro-l-individuo"
 ---
 
+**In breve**
+
+- Il sistema produce molto, ma non trasforma in modo proporzionato quella ricchezza in sicurezza, tempo e capacità di scelta per le persone.
+
+- All'individuo viene chiesta responsabilità per risultati che dipendono da condizioni che non controlla.
+
+- Chi decide, chi beneficia e chi paga sono sempre più spesso persone diverse.
+
+- Il presente viene finanziato trasferendo costi sul futuro.
+
+- Per questo correggere gli effetti non basta: bisogna cambiare le condizioni che li producono.
+
 ## Premessa
 
 Il mondo contemporaneo può essere descritto attraverso dati economici, demografici, ambientali, tecnologici e politici. Possiamo misurare crescita, produttività, debito, povertà, concentrazione della ricchezza, consumo di risorse, cambiamento demografico, fiducia nelle istituzioni e trasformazione climatica.
@@ -367,127 +379,25 @@ La redistribuzione interviene sul risultato.
 
 Il cambiamento sistemico deve intervenire sulle condizioni che producono quel risultato.
 
-### 17. Cambiare il rapporto tra valore e bisogno
+Cambiare quelle condizioni significa cambiare alcuni rapporti fondamentali:
 
-Una società diversa deve partire da una distinzione fondamentale:
+- la produzione parte dal bisogno reale, non dal prezzo;
 
-> ciò che ha un prezzo non coincide necessariamente con ciò che ha valore, e ciò che ha valore economico non coincide necessariamente con ciò che è necessario.
+- il lavoro necessario diventa contributo, e la produttività può restituire tempo;
 
-La produzione deve partire dal bisogno reale, la distribuzione dalla disponibilità e dalla necessità, l'organizzazione dal contributo effettivamente richiesto.
+- ciò che determina le condizioni fondamentali della vita è custodito in comune e non può diventare un potere privato illimitato sugli altri;
 
-### 18. Dal lavoro come merce al contributo
+- il mercato resta uno strumento, non il criterio universale;
 
-Se la sopravvivenza non dipende dalla vendita del proprio lavoro, il lavoro necessario assume un significato diverso.
+- i costi reali — tempo, materia, energia — restano visibili senza diventare accumulazione;
 
-La questione non è semplicemente lavorare meno.
+- il potere è una funzione temporanea e controllabile, non una posizione;
 
-È decidere che cosa deve essere prodotto, quanto è necessario produrre e quanto tempo umano è realmente necessario per farlo.
+- la tecnologia aiuta a decidere, non decide;
 
-Se la produttività aumenta, il primo dividendo dovrebbe poter essere anche tempo.
+- il progresso si misura sulla sufficienza, non sulla crescita indefinita.
 
-La tecnologia potrebbe quindi diventare non soltanto uno strumento per produrre di più, ma uno strumento per restituire vita al tempo umano.
-
-### 19. Dalla proprietà dei mezzi fondamentali alla custodia comune
-
-Non tutti i beni hanno la stessa natura.
-
-Gli oggetti personali, l'abitazione d'uso e gli strumenti individuali possono appartenere alla sfera personale.
-
-Terra, acqua, fonti energetiche, infrastrutture essenziali, mezzi di produzione, conoscenza, reti e nodi tecnologici hanno invece un carattere diverso: il loro controllo determina le possibilità materiali degli altri.
-
-Il principio non è:
-
-> tutto appartiene a tutti.
-
-È:
-
-> ciò che determina le condizioni fondamentali della vita non deve poter diventare un potere privato illimitato sugli altri.
-
-### 20. Dal mercato come principio al mercato come strumento
-
-Superare il capitalismo non significa necessariamente eliminare ogni forma di scambio.
-
-Significa sottrarre al mercato il ruolo di criterio universale.
-
-Per i beni essenziali il criterio diventa il bisogno.
-
-Per le risorse comuni la sostenibilità.
-
-Per le funzioni tecniche la competenza.
-
-Per le decisioni collettive la deliberazione.
-
-Per la produzione il fabbisogno reale.
-
-Il problema economico non scompare.
-
-Viene ricollocato.
-
-### 21. Dal denaro alla conoscenza del costo reale
-
-Abolire il denaro come misura universale non significa rinunciare alla contabilità.
-
-Una società complessa deve sapere quanto costa produrre, trasportare, mantenere e riparare un bene.
-
-Ma costo e prezzo non sono la stessa cosa.
-
-Il problema diventa quindi costruire strumenti capaci di rendere visibili tempo, materia, energia, logistica, manutenzione e consumo di risorse, senza trasformare questa misurazione in una nuova forma di accumulazione.
-
-### 22. Dal potere concentrato al potere distribuito
-
-Cambiare la proprietà senza cambiare il potere produrrebbe una nuova concentrazione.
-
-Il potere non deve diventare una posizione permanente.
-
-Deve essere una funzione temporanea, competente, controllabile e reversibile.
-
-La differenza fondamentale è tra esercitare una funzione e possedere il potere.
-
-### 23. La tecnologia come strumento, non come sovrano
-
-La stessa distinzione vale per l'intelligenza artificiale.
-
-L'IA può raccogliere dati, rilevare bisogni, proporre soluzioni e ottimizzare sistemi troppo complessi per essere gestiti manualmente.
-
-Ma non deve diventare il soggetto della decisione.
-
-La tecnologia deve quindi aumentare la capacità umana di comprendere e decidere, non sostituirla.
-
-### 24. Dalla crescita alla sufficienza
-
-La questione ecologica impone infine di cambiare il criterio di progresso.
-
-Su un pianeta finito non può essere assunto indefinitamente l'aumento quantitativo della produzione materiale come misura universale del successo.
-
-Sufficienza non significa povertà.
-
-Significa distinguere:
-
-> bisogno da accumulazione;
->
-> qualità da quantità;
->
-> durata da consumo;
->
-> riparazione da sostituzione;
->
-> benessere da possesso.
-
-### 25. L'individuo rimane il centro
-
-Il rischio opposto sarebbe sostituire l'individualismo economico con una collettività che assorbe la persona.
-
-Non è questa la direzione.
-
-L'alternativa deve partire dall'individuo.
-
-Al limite posto al potere sui beni fondamentali si affianca quindi un secondo principio:
-
-> nessuno deve essere privato dei beni necessari perché non possiede abbastanza.
-
-La libertà non consiste soltanto nel poter scegliere.
-
-Consiste anche nell'avere le condizioni materiali minime per poter scegliere realmente.
+Tutto questo parte dall'individuo: nessuno deve essere privato dei beni necessari perché non possiede abbastanza.
 
 ## Conclusione — Costruire ciò che viene dopo
 

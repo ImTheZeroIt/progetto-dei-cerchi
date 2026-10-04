@@ -6,7 +6,7 @@ Costituzione V.29 e Codici allineati.
 
 **Oggetto:** revisione di coerenza e completamento dell'intero corpo normativo (Costituzione, Codici 1–16, C.1-Annex A, Allegati tecnici A, B e C al Codice 16), in due tornate: V.28 (coerenza e completamento) e V.29 (rafforzamento dei punti deboli). Le sezioni 1–6 descrivono la V.28; la sezione 7 descrive la V.29 e, dove indicato, sostituisce le scelte precedenti.
 
-**Testi del percorso:** *La storia umana* e *Il Progetto dei Cerchi* non sono stati modificati nel testo, salvo la correzione di un refuso nel secondo. *Analisi del presente* è stata riorganizzata il 4 ottobre 2026: i dati sono ora raccolti per tema in otto capitoli, con criticità e progressi dello stesso tema nello stesso capitolo, e ogni dato compare una volta sola; dati e fonti sono invariati. *Il sistema contro l'individuo* è stato rivisto il 4 ottobre 2026 per togliere le ripetizioni: le parti passano da dieci a otto e le sezioni da 28 a 25, senza cambiare le tesi. I quattro testi hanno ora la stessa impaginazione.
+**Testi del percorso:** *La storia umana* e *Il Progetto dei Cerchi* non sono stati modificati nel testo, salvo la correzione di un refuso nel secondo. *Analisi del presente* è stata riorganizzata il 4 ottobre 2026: i dati sono ora raccolti per tema in otto capitoli, con criticità e progressi dello stesso tema nello stesso capitolo, e ogni dato compare una volta sola; dati e fonti sono invariati. *Il sistema contro l'individuo* è stato rivisto il 4 e 5 ottobre 2026: tolte le ripetizioni, aggiunta una sintesi “In breve” in apertura e condensata l'ultima parte; le parti passano da dieci a otto e le sezioni da 28 a 16, senza cambiare le tesi. I quattro testi hanno ora la stessa impaginazione.
 
 # 1. Criteri seguiti
 

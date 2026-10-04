@@ -234,6 +234,9 @@ def pandoc(markdown, indice=False, etichetta="Indice"):
     sommario = sommario.replace('aria-label="Indice del testo"', 'aria-label="%s"' % etichetta)
     # le tabelle larghe scorrono dentro il proprio riquadro, non con la pagina
     corpo = corpo.replace("<table>", '<div class="tabella"><table>').replace("</table>", "</table></div>")
+    # un paragrafo tutto in grassetto ("In breve") seguito da un elenco, in apertura, diventa un riquadro di sintesi
+    corpo = re.sub(r'\A\s*<p><strong>([^<]{1,40})</strong></p>\s*<ul>(.*?)</ul>',
+                   r'<aside class="inbreve"><p class="inbreve-titolo">\1</p><ul>\2</ul></aside>', corpo, count=1, flags=re.S)
     return sommario.strip(), corpo.strip()
 
 
