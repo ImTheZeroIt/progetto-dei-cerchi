@@ -24,7 +24,9 @@ Chi sa usare gli strumenti del repository può proporre direttamente la modifica
 
 ## I quattro testi del percorso
 
-*La storia umana*, *Analisi del presente*, *Il sistema contro l'individuo* e *Il Progetto dei Cerchi* sono testi d'autore, pubblicati con licenza CC BY-ND 4.0: si possono diffondere per intero, ma non modificare. Si possono comunque segnalare refusi, dati superati o fonti non più raggiungibili: le correzioni le fanno gli autori. Per tradurli o adattarli, apri una segnalazione e chiedi il permesso.
+*La storia umana*, *Analisi del presente*, *Il sistema contro l'individuo* e *Il Progetto dei Cerchi* sono testi d'autore, pubblicati con licenza CC BY-ND 4.0: si possono diffondere per intero, ma non modificare. Si possono comunque segnalare refusi, dati superati o fonti non più raggiungibili: le correzioni le fanno gli autori.
+
+Si possono tradurre in altre lingue senza chiedere il permesso, alle condizioni scritte nella [licenza](https://github.com/ImTheZeroIt/progetto-dei-cerchi/blob/main/LICENSE.md): traduzione integrale e fedele, fonte citata, stessa licenza. Per ridurli o adattarli serve invece il permesso degli autori: apri una segnalazione.
 
 ## Che cosa non si può proporre
 
@@ -33,6 +35,24 @@ L'articolo 37.4 della Costituzione definisce un Nucleo Inviolabile: i diritti de
 ## Come vengono decise le modifiche
 
 Finché nessuna Comunità applica i testi, le proposte sono valutate da chi cura il repository, in modo pubblico e motivato. Ogni modifica accolta entra nel registro delle modifiche con la sua ragione. Quando esisteranno Comunità che applicano i testi, varranno le procedure dell'articolo 38 della Costituzione.
+
+## Con quali criteri
+
+Una proposta di modifica alle regole viene accolta quando rispetta tutti questi criteri:
+
+1. **È precisa.** Indica testo, articolo e comma, e contiene il testo riscritto. Una proposta, una modifica.
+2. **È motivata.** Porta un dato, una fonte, un caso o un'esperienza. «Mi sembra meglio» non basta.
+3. **Rispetta il Nucleo Inviolabile** dell'articolo 37.4 della Costituzione.
+4. **È coerente con il resto.** Non contraddice altri articoli. Se tocca un termine, una soglia o un rinvio usati altrove, indica anche gli altri punti da allineare.
+5. **Regge sui casi.** Fatta passare nei casi di prova già raccolti, non dà un esito peggiore del testo attuale.
+6. **Non riduce le garanzie senza dirlo.** Se restringe un diritto, allunga un incarico, concentra una decisione o toglie trasparenza, lo dichiara e lo giustifica. Nel dubbio prevale la versione che concentra meno potere e che è più facile da correggere.
+
+I tempi dipendono dal tipo di modifica:
+
+- **Correzioni materiali** (refusi, rinvii sbagliati, termini non allineati): si accolgono subito.
+- **Modifiche di sostanza:** restano aperte alla discussione per almeno quattordici giorni prima della decisione.
+
+Quando una proposta viene respinta, il motivo è scritto nella segnalazione, che resta consultabile. Una modifica già accolta può essere ritirata se un caso di prova mostra che ha peggiorato il testo.
 
 ## Tono
 

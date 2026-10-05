@@ -36,7 +36,18 @@ Chiunque può **copiare e ridistribuire** questi testi, con qualsiasi mezzo e fo
 - **citare la fonte** («Progetto dei Cerchi») e indicare la licenza;
 - **non modificarli**: i testi vanno diffusi per intero e invariati.
 
-Le citazioni di brevi passi restano libere secondo la legge. Per tradurre, ridurre o adattare questi testi serve il permesso degli autori: si chiede aprendo una segnalazione nel repository.
+Le citazioni di brevi passi restano libere secondo la legge.
+
+### Permesso aggiuntivo: le traduzioni
+
+In aggiunta a quanto consente la licenza, gli autori autorizzano chiunque a tradurre questi quattro testi in altre lingue e a pubblicare la traduzione, a queste condizioni:
+
+- la traduzione è **integrale e fedele**: senza tagli, aggiunte o adattamenti;
+- indica la **fonte** («Progetto dei Cerchi», con il collegamento al testo originale), la lingua d'origine e chi ha tradotto;
+- dichiara di essere una **traduzione non rivista dagli autori** e che il testo che fa fede è quello italiano;
+- è pubblicata con la **stessa licenza** CC BY-ND 4.0 e con questo stesso permesso.
+
+Per ridurre o adattare questi testi serve invece il permesso degli autori: si chiede aprendo una segnalazione nel repository.
 
 Queste sintesi non sostituiscono i testi legali.
 
@@ -56,6 +67,8 @@ This repository uses two licences, because it contains two kinds of text.
 
 **1. The rules — CC BY-SA 4.0.** The Constitution, the Codes, the Annexes, the change log, the website and the program that generates it are published under the Creative Commons Attribution-ShareAlike 4.0 International licence: <https://creativecommons.org/licenses/by-sa/4.0/>. Anyone may share and adapt the material, for any purpose, provided that they give appropriate credit (“Progetto dei Cerchi / The Circles Project”), indicate the licence and any changes, and distribute their contributions under the same licence.
 
-**2. The four texts of the path — CC BY-ND 4.0.** *Human history*, *Analysis of the present*, *The system against the individual* and *The Circles Project*, with their translations, are published under the Creative Commons Attribution-NoDerivatives 4.0 International licence: <https://creativecommons.org/licenses/by-nd/4.0/>. Anyone may copy and redistribute them in full and unchanged, for any purpose, giving appropriate credit. Translating, abridging or adapting them requires the authors’ permission, which can be requested by opening an issue in the repository.
+**2. The four texts of the path — CC BY-ND 4.0.** *Human history*, *Analysis of the present*, *The system against the individual* and *The Circles Project*, with their translations, are published under the Creative Commons Attribution-NoDerivatives 4.0 International licence: <https://creativecommons.org/licenses/by-nd/4.0/>. Anyone may copy and redistribute them in full and unchanged, for any purpose, giving appropriate credit.
+
+**Additional permission: translations.** In addition to what the licence allows, the authors authorise anyone to translate these four texts into other languages and to publish the translation, provided that: the translation is complete and faithful, without cuts, additions or adaptations; it states the source (“Progetto dei Cerchi / The Circles Project”, with a link to the original text), the original language and who translated it; it declares that it is a translation not reviewed by the authors and that the Italian text is the authoritative one; and it is published under the same CC BY-ND 4.0 licence and with this same permission. Abridging or adapting these texts does require the authors’ permission, which can be requested by opening an issue in the repository.
 
 These summaries do not replace the legal texts.

@@ -80,6 +80,6 @@ Servono competenze diverse e, soprattutto, casi concreti con cui mettere alla pr
 ## Licenza
 
 - **Costituzione, Codici e Allegati:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it). Si possono copiare, modificare e ripubblicare, citando la fonte e mantenendo la stessa licenza.
-- **I quattro testi del percorso:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.it). Si possono copiare e ripubblicare per intero, citando la fonte, ma non modificare.
+- **I quattro testi del percorso:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.it). Si possono copiare e ripubblicare per intero, citando la fonte, ma non modificare. Si possono tradurre in altre lingue, se la traduzione è integrale e fedele.
 
 Vedi [LICENSE.md](LICENSE.md).

@@ -77,6 +77,6 @@ Different skills are needed and, above all, concrete cases with which to put the
 ## Licence
 
 - **Constitution, Codes and Annexes:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). They may be copied, modified and republished, citing the source and keeping the same licence.
-- **The four texts of the path:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). They may be copied and republished in full, citing the source, but not modified.
+- **The four texts of the path:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). They may be copied and republished in full, citing the source, but not modified. They may be translated into other languages, provided the translation is complete and faithful.
 
 See [LICENSE.md](LICENSE.md).

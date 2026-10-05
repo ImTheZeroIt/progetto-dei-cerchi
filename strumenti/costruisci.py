@@ -70,8 +70,9 @@ LINGUE = {
             piede_registro="Questo testo è pubblicato con licenza {lic}: chiunque può copiarlo, modificarlo e "
                            "ripubblicarlo, citando la fonte e mantenendo la stessa licenza.",
             piede_percorso="Questo testo è pubblicato con licenza {licp}: chiunque può copiarlo e ripubblicarlo "
-                           "per intero, citando la fonte, ma non modificarlo. Per tradurlo o adattarlo serve il "
-                           "permesso degli autori: vedi <a href=\"{con}\">come contribuire</a>.",
+                           "per intero, citando la fonte, ma non modificarlo. Si può tradurre in altre lingue, se la "
+                           "traduzione è integrale e fedele; per ridurlo o adattarlo serve il permesso degli "
+                           "autori: vedi <a href=\"{con}\">come contribuire</a>.",
             avviso="",
             bozza="Bozza in verifica: non adottata, non sperimentata",
             modifiche="Registro delle modifiche", come_contribuire="Come contribuire",
@@ -130,7 +131,7 @@ LINGUE = {
                   "devono essere sperimentati, e dove falliscono vanno corretti.",
             licenza="Le regole sono libere: {lic}. Si possono copiare, modificare e ripubblicare, citando la "
                     "fonte e mantenendo la stessa licenza. I quattro testi del percorso si possono copiare e "
-                    "ripubblicare per intero, ma non modificare: {licp}.",
+                    "ripubblicare per intero, ma non modificare: {licp}. Tradurli è permesso.",
             contribuire_testo="Leggere, criticare, verificare, correggere. Servono competenze diverse e casi "
                               "concreti con cui mettere alla prova le regole.",
             desc_home="Una proposta aperta di alternativa al modo in cui organizziamo la vita collettiva: "
@@ -177,8 +178,10 @@ LINGUE = {
             piede_registro="This text is published under the {lic} licence: anyone may copy, modify and "
                            "republish it, citing the source and keeping the same licence.",
             piede_percorso="This text is published under the {licp} licence: anyone may copy and republish it "
-                           "in full, citing the source, but may not modify it. Translating or adapting it "
-                           "requires the authors’ permission: see <a href=\"{con}\">how to contribute</a>.",
+                           "in full, citing the source, but may not modify it. It may be translated into other "
+                           "languages, provided the translation is complete and faithful; abridging or "
+                           "adapting it requires the authors’ permission: see "
+                           "<a href=\"{con}\">how to contribute</a>.",
             avviso="This is a working translation. The Italian text is the authoritative one.",
             bozza="Draft under review: not adopted, not tested",
             modifiche="Change log", come_contribuire="How to contribute",
@@ -237,7 +240,7 @@ LINGUE = {
                   "model: they must be tested, and corrected where they fail.",
             licenza="The rules are free: {lic}. They may be copied, modified and republished, citing the "
                     "source and keeping the same licence. The four texts of the path may be copied and "
-                    "republished in full, but not modified: {licp}.",
+                    "republished in full, but not modified: {licp}. Translating them is permitted.",
             contribuire_testo="Read, criticise, verify, correct. Different skills are needed, and concrete "
                               "cases with which to put the rules to the test.",
             desc_home="An open proposal for an alternative to the way we organise collective life: "
