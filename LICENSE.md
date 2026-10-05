@@ -4,7 +4,7 @@ Questo repository usa due licenze, perché contiene due tipi di testo.
 
 ## 1. Le regole — CC BY-SA 4.0
 
-La Costituzione, i Codici, gli Allegati, il registro delle modifiche, il registro dei parametri da verificare, il sito e il programma che lo genera (cartelle `testi/it/registro/`, `testi/en/register/`, `strumenti/` e le pagine corrispondenti in `docs/`) sono pubblicati con licenza
+La Costituzione, i Codici, gli Allegati, il registro delle modifiche, il registro dei parametri da verificare, le bozze di calibrazione (cartella `bozze/`), le proposte di modifica, il sito e il programma che lo genera (cartelle `testi/it/registro/`, `testi/en/register/`, `strumenti/` e le pagine corrispondenti in `docs/`) sono pubblicati con licenza
 
 **Creative Commons Attribuzione – Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)**
 

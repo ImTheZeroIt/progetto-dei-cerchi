@@ -60,7 +60,7 @@ I Codici rinviano a questi valori, ma nessun testo li fissa ancora.
 
 | Che cosa manca | Dove è richiesto | Riferimenti da cui partire |
 |---|---|---|
-| Contenuto del Paniere di Sufficienza: beni, quantità, unità, periodo | Cod. 1, art. 18 | Da scrivere come allegato annuale. |
+| Contenuto del Paniere di Sufficienza: beni, quantità, unità, periodo | Cod. 1, art. 18 | Proposto nella [bozza dell'Allegato del Paniere](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-paniere.html), con le fonti di ogni quantità. |
 | Paniere Alimentare: valori nutrizionali e giorni di scorta | Cod. 9, art. 4 | Il valore di pianificazione usato da OMS, UNHCR e PAM nelle emergenze è 2.100 kcal per persona al giorno: è un minimo di sopravvivenza, non uno standard di vita. |
 | Paniere Energia: quota minima garantita | Cod. 8, art. 4 | Uno studio del 2020 stima che una vita dignitosa per 10 miliardi di persone sia possibile con meno del 40% dell'energia mondiale di oggi. Va tradotto in una quota per persona e per clima. |
 | Alloggio: superficie minima | Cost. 1.2; Cod. 10 | Lo standard Sphere per le emergenze è 3,5 m² coperti per persona (4,5–5,5 nei climi freddi): è un minimo di emergenza, non un'abitazione. |
@@ -72,8 +72,8 @@ I Codici rinviano a questi valori, ma nessun testo li fissa ancora.
 
 | Allegato | Dove è citato | Stato |
 |---|---|---|
-| Allegato Tecnico annuale del Paniere | Cod. 1, art. 18 | Da scrivere: è il prossimo. |
-| Allegato Tecnico UCR | Cod. 3, artt. 5 e 9 | Da scrivere dopo il Paniere. |
+| Allegato Tecnico annuale del Paniere | Cod. 1, art. 18 | [Bozza 0.1 pubblicata](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-paniere.html), non adottata. |
+| Allegato Tecnico UCR | Cod. 3, artt. 5 e 9 | Da scrivere: è il prossimo. |
 | Allegato Tecnico Qualità | Cod. 2, artt. 2 e 3 | Da scrivere. |
 | Allegato Tecnico Mobilità | Cod. 1, art. 25 | Da scrivere. |
 | Allegato Tecnico Formativo | Cod. 1, art. 28 | Da scrivere. |

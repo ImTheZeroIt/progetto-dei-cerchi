@@ -52,7 +52,7 @@ Una proposta di modifica alle regole viene accolta quando rispetta tutti questi 
 I tempi dipendono dal tipo di modifica:
 
 - **Correzioni materiali** (refusi, rinvii sbagliati, termini non allineati): si accolgono subito.
-- **Modifiche di sostanza:** restano aperte alla discussione per almeno quattordici giorni prima della decisione.
+- **Modifiche di sostanza:** restano aperte alla discussione per almeno quattordici giorni prima della decisione. Quelle in corso sono nella pagina [Proposte di modifica aperte](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html).
 
 Quando una proposta viene respinta, il motivo è scritto nella segnalazione, che resta consultabile. Una modifica già accolta può essere ritirata se un caso di prova mostra che ha peggiorato il testo.
 

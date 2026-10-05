@@ -49,7 +49,7 @@ Poi vengono le regole.
 
 La Costituzione stabilisce i principi e la struttura generale. I Codici trasformano quei principi in regole operative. Gli Allegati tecnici sviluppano procedure, criteri e specifiche. In caso di conflitto prevale la Costituzione.
 
-Ogni modifica è annotata e motivata nel [registro delle modifiche](REGISTRO-DELLE-MODIFICHE.md). I numeri proposti, con la loro origine e la prova che servirebbe per confermarli, sono nel [registro dei parametri da verificare](PARAMETRI.md). Lo storico di questo repository è l'archivio aperto, versionato e replicabile previsto dall'articolo 38.5 della Costituzione.
+Ogni modifica è annotata e motivata nel [registro delle modifiche](REGISTRO-DELLE-MODIFICHE.md). I numeri proposti, con la loro origine e la prova che servirebbe per confermarli, sono nel [registro dei parametri da verificare](PARAMETRI.md). Le bozze degli allegati tecnici che i Codici citano e che non sono ancora stati scritti sono nella cartella `bozze/`: la prima è l'[Allegato annuale del Paniere di Sufficienza](bozze/allegato-paniere.md). Sono bozze di calibrazione, non adottate. Le modifiche di sostanza in discussione sono in [PROPOSTE.md](PROPOSTE.md). Lo storico di questo repository è l'archivio aperto, versionato e replicabile previsto dall'articolo 38.5 della Costituzione.
 
 ## Come è fatto questo repository
 
@@ -59,6 +59,7 @@ Ogni modifica è annotata e motivata nel [registro delle modifiche](REGISTRO-DEL
 | `testi/it/registro/` | Costituzione, Codici e Allegati, in Markdown: sono la fonte di tutto il resto |
 | `testi/en/` | la traduzione inglese degli stessi testi |
 | `testi/es/` | la traduzione spagnola dei quattro testi del percorso |
+| `bozze/` | bozze di calibrazione degli allegati tecnici non ancora adottati |
 | `docs/` | il sito, generato dai testi, in italiano (`docs/`), in inglese (`docs/en/`) e in spagnolo (`docs/es/`); contiene anche le versioni PDF e ODT da scaricare |
 | `strumenti/` | il programma che genera il sito e il suo foglio di stile |
 

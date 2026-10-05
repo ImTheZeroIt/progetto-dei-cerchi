@@ -52,7 +52,7 @@ A proposed change to the rules is accepted when it meets all of these criteria:
 Timing depends on the kind of change:
 
 - **Material corrections** (typos, wrong cross-references, terms not aligned): accepted straight away.
-- **Changes of substance:** they stay open for discussion for at least fourteen days before the decision.
+- **Changes of substance:** they stay open for discussion for at least fourteen days before the decision. Those under way are listed, for now in Italian, on the page [Proposte di modifica aperte](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html).
 
 When a proposal is rejected, the reason is written in the issue, which remains available. A change already accepted can be withdrawn if a test case shows that it has made the text worse.
 

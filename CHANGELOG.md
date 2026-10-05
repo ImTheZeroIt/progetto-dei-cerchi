@@ -12,6 +12,10 @@ From here on, every accepted change will be recorded on this page with its date,
 
 Reason: for the same threshold Code 3, Art. 12-bis, para. 12, counts those entitled to vote, while the Constitution counted persons. The measure of the Code has been kept, because the Councils are made up of persons drawn by lot from among those entitled to vote: it is their number that tells whether a Community can fill them. The version remains V.29.
 
+# Open proposals
+
+Substantive changes that have been proposed and not yet decided are listed, for now in Italian, on the page [Proposte di modifica aperte](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html), with the wording of the new paragraphs, the reason and the date before which no decision is taken. As at 5 October 2026 there are five. Four concern the Sufficiency Basket: clothing and hygiene, adequate housing, connectivity and learning materials, and a first-application value for the Energy Basket. The fifth concerns CdR for cultural activities offered to the Community.
+
 # Parameters to be confirmed
 
 These are numbers proposed in order to make the rules applicable. They may all be modified by ordinary procedure. Data and experience that confirm or refute them are welcome. The full register, with the origin of each value, its uncertainty and the test needed to confirm or correct it, is for now in Italian: [Parametri da verificare](https://imthezeroit.github.io/progetto-dei-cerchi/registro/parametri.html). It is a calibration draft, not adopted, and changes no rule.

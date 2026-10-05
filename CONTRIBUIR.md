@@ -54,7 +54,7 @@ Una propuesta de cambio de las reglas se acepta cuando cumple todos estos criter
 Los plazos dependen del tipo de cambio:
 
 - **Correcciones materiales** (erratas, remisiones equivocadas, términos no alineados): se aceptan de inmediato.
-- **Cambios de fondo:** quedan abiertos a la discusión durante al menos catorce días antes de la decisión.
+- **Cambios de fondo:** quedan abiertos a la discusión durante al menos catorce días antes de la decisión. Los que están en curso figuran, por ahora en italiano, en la página [Proposte di modifica aperte](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html).
 
 Cuando una propuesta se rechaza, el motivo queda escrito en la incidencia, que sigue siendo consultable. Un cambio ya aceptado puede retirarse si un caso de prueba muestra que ha empeorado el texto.
 

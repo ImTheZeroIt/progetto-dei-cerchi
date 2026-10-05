@@ -50,6 +50,14 @@ SEGNALAZIONI = {"caso": "Caso di prova", "dato": "Parametro da confermare", "cod
 # Il registro dei parametri da verificare esiste, per ora, solo in italiano.
 PARAMETRI = dict(lingua="it", md="PARAMETRI.md", pagina="parametri.html")
 
+# Bozze di calibrazione: allegati tecnici che i Codici citano e che non sono ancora adottati. Per ora solo in italiano.
+BOZZE = [
+    dict(md="bozze/allegato-paniere.md", pagina="bozza-paniere.html",
+         titolo="Allegato annuale del Paniere di Sufficienza", nota="bozza 0.1"),
+    dict(md="PROPOSTE.md", pagina="proposte.html",
+         titolo="Proposte di modifica aperte", nota="in discussione", classe=""),
+]
+
 
 def segnalazioni(tipo):
     """Indirizzo dell'elenco delle segnalazioni aperte di un tipo."""
@@ -159,6 +167,9 @@ LINGUE = {
                          "verificata e corretta.",
             codici_allegati="{nc} Codici e {na} Allegati tecnici", storico="storico",
             parametri="Parametri da verificare", parametri_nota="bozza di calibrazione",
+            h_bozze="Bozze e proposte",
+            bozze_sotto="Bozze degli allegati tecnici che i Codici citano e che non sono ancora stati adottati, e "
+                        "modifiche di sostanza in discussione. Nessuna è in vigore.",
             reg_parametri="I numeri proposti, con la loro origine e la prova che servirebbe per confermarli, "
                           "sono nel <a href=\"{par}\">registro dei parametri da verificare</a>.",
             h_aperto="Un progetto aperto", h_stato="Stato", h_licenza="Licenza",
@@ -284,6 +295,9 @@ LINGUE = {
                          "verified and corrected.",
             codici_allegati="{nc} Codes and {na} Technical Annexes", storico="history",
             parametri="Parameters to be verified", parametri_nota="calibration draft · in Italian",
+            h_bozze="Drafts and proposals (in Italian)",
+            bozze_sotto="Drafts of the technical annexes that the Codes refer to and that have not yet been "
+                        "adopted, and substantive changes under discussion. None is in force.",
             reg_parametri="The proposed numbers, with their origin and the test each would need, are in the "
                           "<a href=\"{par}\">register of parameters to be verified</a> (for now in Italian).",
             h_aperto="An open project", h_stato="Status", h_licenza="Licence",
@@ -409,6 +423,9 @@ LINGUE = {
                          "y corregirse. Las reglas están por ahora en italiano y en inglés.",
             codici_allegati="{nc} Códigos y {na} Anexos técnicos", storico="historial",
             parametri="Parámetros por verificar", parametri_nota="borrador de calibración · en italiano",
+            h_bozze="Borradores y propuestas (en italiano)",
+            bozze_sotto="Borradores de los anexos técnicos que los Códigos citan y que todavía no se han adoptado, "
+                        "y cambios de fondo en discusión. Ninguno está en vigor.",
             reg_parametri="Los números propuestos, con su origen y la prueba que haría falta para confirmarlos, "
                           "están en el <a href=\"{par}\">registro de parámetros por verificar</a> (por ahora en italiano).",
             h_aperto="Un proyecto abierto", h_stato="Estado", h_licenza="Licencia",
@@ -845,6 +862,12 @@ def costruisci_lingua(lingua, altre):
                       contenuto, 1, "registro", gemelle(meta["id"])))
 
     # --- indice del registro
+    base_bozze = url_parametri(lingua, 1).rsplit("/", 1)[0]
+    bozze = '<h2>%s</h2>\n<p>%s</p>\n<ul class="testi">%s</ul>' % (
+        t["h_bozze"], t["bozze_sotto"],
+        "\n".join('<li><a href="%s/%s">%s</a><span class="versione">%s</span></li>'
+                  % (base_bozze, b["pagina"], html.escape(b["titolo"]), b["nota"]) for b in BOZZE))
+
     def elenco(gruppo):
         return "\n".join('<li><a href="%s.html">%s</a><span class="versione">%s</span></li>'
                          % (m["slug"], html.escape(m["breve"]), m["versione"])
@@ -863,10 +886,11 @@ def costruisci_lingua(lingua, altre):
 <ul class="testi">%s</ul>
 <h2>%s</h2>
 <p>%s</p>
+%s
 </section>""" % (t["registro"], t["reg_sotto"].format(mod=lingua["pag_modifiche"]),
                  t["reg_parametri"].format(par=url_parametri(lingua, 1)), t["bozza"], t["h_cost"],
                  elenco("costituzione"), t["h_codici"], elenco("codici"), t["h_allegati"], elenco("allegati"),
-                 t["h_come"], t["come"])
+                 t["h_come"], t["come"], bozze)
     if proprie:
         scrivi(lingua, "%s/index.html" % dr,
                pagina(lingua, "%s — %s" % (t["registro"], nome), t["desc_reg"], contenuto, 1, "registro",
@@ -881,6 +905,9 @@ def costruisci_lingua(lingua, altre):
     if lingua["codice"] == PARAMETRI["lingua"]:
         servizio.append((PARAMETRI["md"], "%s/%s" % (dr, PARAMETRI["pagina"]), t["parametri"], 1, "registro", {},
                          " largo"))
+        for b in BOZZE:
+            servizio.append((b["md"], "%s/%s" % (dr, b["pagina"]), b["titolo"], 1, "registro", {},
+                             b.get("classe", " largo")))
     if proprie:
         servizio.append(
             (lingua["md_modifiche"], "%s/%s" % (dr, lingua["pag_modifiche"]), t["modifiche"], 1, "registro",
