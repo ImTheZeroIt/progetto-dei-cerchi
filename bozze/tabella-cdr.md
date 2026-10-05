@@ -74,19 +74,57 @@ Sono scelte di redazione. Servono a evitare che il riconoscimento premi la popol
 
 Un CdR vale una UCR, cioè un'ora di lavoro (art. 45, c. 2). Con il coefficiente della bozza dell'Allegato UCR, 240 CdR corrispondono a circa 12.000 euro di beni acquistati fuori, o a sedici settimane di Contributo di Base.
 
-## 6. Costo in UCR dei beni e dei servizi non necessari
+## 6. Quanto costano in CdR i beni e i servizi non necessari
 
-Il costo si calcola con il metodo della [bozza dell'Allegato UCR](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-ucr.html): ore di lavoro, più materiali, energia e logistica ricondotti a ore. Per un bene acquistato fuori è il prezzo moltiplicato per 0,0196 ore per euro. I valori qui sotto sono esempi, non misure.
+Un CdR impiegato vale una UCR (art. 45, c. 2), cioè un'ora di lavoro. Il costo di ogni bene è il suo costo reale: le ore di chi lo produce, la quota dei mezzi di produzione e il trasporto, calcolati con il metodo della [bozza dell'Allegato UCR](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-ucr.html). Vale una regola: un'ora vale un'ora, chiunque la lavori e dovunque.
 
-| Bene o servizio | Come si calcola | UCR |
+- Per ciò che la Comunità produce da sé si contano le ore, i materiali e l'energia.
+- Per ciò che si compra fuori si usano le ore reali, quando si conoscono; altrimenti il prezzo moltiplicato per le ore di lavoro per euro del paese di produzione.
+
+I valori sono esempi per mostrare gli ordini di grandezza: prezzi e quote prodotte all'estero sono ipotesi. Ogni Comunità compila la propria tabella. L'ultima colonna mostra che cosa darebbe il solo prezzo convertito con la media europea: la differenza è lavoro reale che il prezzo non lascia vedere.
+
+| Bene o servizio | Come si calcola | CdR | Con la sola media europea |
+|---|---|---|---|
+| Un chilo di caffè (15 euro) | ore di piantagione in Ruanda, più 13 euro di lavorazione e trasporto in Europa | 3,2 | 0,3 |
+| Un chilo di cioccolato (12 euro) | un quinto del prezzo in Costa d'Avorio, il resto in Europa | 0,9 | 0,2 |
+| Un libro stampato in Europa (18 euro) | prezzo per coefficiente europeo | 0,4 | 0,4 |
+| Materiali europei per un'opera o un progetto personale (100 euro) | prezzo per coefficiente europeo | 2,0 | 2,0 |
+| Uno strumento musicale fatto in Europa (400 euro) | prezzo per coefficiente europeo | 7,8 | 7,8 |
+| Lo stesso strumento, fatto per metà in Cina | metà del prezzo per coefficiente cinese | 16,7 | 7,8 |
+| Un apparecchio oltre la dotazione di base (500 euro in più) | metà del prezzo in Cina | 20,9 | 9,8 |
+| Una macchina fotografica (600 euro) | metà del prezzo in Cina | 25,0 | 11,8 |
+| Una bicicletta da viaggio fatta in Europa (1.200 euro) | prezzo per coefficiente europeo | 23,5 | 23,5 |
+| La stessa bicicletta, fatta per metà in Cina | metà del prezzo per coefficiente cinese | 50,1 | 23,5 |
+| Un viaggio di 1.000 km in treno | 10 centesimi al km, coefficiente europeo | 2,0 | 2,0 |
+| Un viaggio di 5.000 km in treno | come sopra | 9,8 | 9,8 |
+| Una notte di ospitalità ordinaria in Casa Ponte | quota di 15 m² più mezz'ora di gestione e pulizia | 0,6 | |
+| Quattordici notti in Casa Ponte | come sopra | 8,0 | |
+| Uso esclusivo di uno spazio comune di 20 m² per tre mesi | 1,66 UCR per m² all'anno: materiali e manutenzione | 8,3 | |
+| Lo stesso spazio per un anno | come sopra | 33,2 | |
+
+Quattro cose da ricordare leggendo la tabella.
+
+- **Il CdR dà una precedenza, non un acquisto.** Gli stessi beni restano accessibili senza CdR, con prenotazione o lista d'attesa, e la precedenza vale al massimo per metà della disponibilità (art. 45, c. 4).
+- **Un CdR è un'ora.** Un chilo di caffè vale più di tre ore di lavoro volontario, perché tre ore di lavoro contiene; uno strumento musicale fatto in Europa, otto.
+- **Costa di più ciò che richiede più lavoro, non ciò che viene da lontano.** Il caffè vale tre ore perché è raccolto a mano, con pochi mezzi di produzione. La distanza pesa solo per il trasporto, che via mare è poca cosa: circa 20 centesimi al chilo dalla Cina all'Italia, meno di un centesimo di CdR. Lo stesso bene prodotto con attrezzi migliori costerebbe meno ore, ovunque fosse prodotto.
+- **Niente prezzi variabili.** Il costo è il costo di riproduzione, uguale per tutti: sono vietati aste, mercati e scambi di CdR tra persone (art. 45, c. 5).
+
+### Il tetto di 240 è giusto o basso?
+
+Rispetto ai costi non è basso: la voce più cara della tabella vale 50 CdR, il tetto è quasi cinque volte tanto. E il tetto limita quanto si può tenere da parte, non quanto si può maturare: chi usa i propri CdR ne matura altri senza limite.
+
+Rispetto alla concentrazione è vicino al massimo che regge. Nella Comunità simulata al paragrafo 7:
+
+| Tetto | Si raggiunge lavorando oltre il CBO | Quota di CdR del 5% più attivo |
 |---|---|---|
-| Un chilo di caffè a 15 euro | prezzo per coefficiente | 0,3 |
-| Uno strumento musicale da 400 euro | prezzo per coefficiente | 7,8 |
-| Un viaggio di 1.000 km in treno a 10 centesimi al km | prezzo per coefficiente | 2,0 |
-| Uso esclusivo prolungato di uno spazio comune | ore di manutenzione e quota dei materiali dello spazio, per il tempo d'uso | da calcolare spazio per spazio |
-| Una notte di ospitalità ordinaria in Casa Ponte | ore di gestione e pulizia, più quota dell'alloggio | da calcolare |
+| 120 | 1,4 ore a settimana | 12% |
+| 180 | 2,1 ore a settimana | 15% |
+| **240** | **2,8 ore a settimana** | **16%** |
+| 300 | 3,6 ore a settimana | 19% |
+| 360 | 4,3 ore a settimana | 22%: oltre la soglia del Codice |
+| 480 | 5,7 ore a settimana | 27%: oltre la soglia del Codice |
 
-L'impiego di CdR dà solo una precedenza. Gli stessi beni restano accessibili senza CdR, con prenotazione o lista d'attesa (art. 45, c. 4).
+Il Codice chiede di riesaminare il tetto quando il 5% delle persone detiene più del 20% dei CdR (art. 46, c. 3). In questa simulazione si può salire fino a circa 300 senza superare la soglia; oltre no. Un tetto più basso, per esempio 120, renderebbe i saldi più uguali ma verrebbe raggiunto con meno di un'ora e mezza a settimana. 240 è una scelta ragionevole: non c'è motivo di alzarlo.
 
 ## 7. Simulazione
 

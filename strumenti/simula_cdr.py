@@ -13,7 +13,29 @@ valore iniziale ogni trimestre e si estingue alla fine del ventiquattresimo mese
 TETTO = 240                  # Cod. 1, art. 44, c. 2 (prima applicazione)
 SETTIMANE_PER_MESE = 52 / 12
 CONTRIBUTORI = 95            # Comunità di 150 persone (bozza dell'Allegato UCR)
-ORE_PER_EURO = 0.0196        # coefficiente della bozza dell'Allegato UCR
+ORE_PER_EURO = 0.0196        # coefficiente dell'Unione europea (bozza dell'Allegato UCR)
+
+# Prodotto per abitante nel 2024, in dollari correnti (Banca Mondiale, NY.GDP.PCAP.CD).
+# Il coefficiente di un paese è quello europeo moltiplicato per il rapporto tra il prodotto per abitante
+# dell'UE e quello del paese. Ipotesi: le ore lavorate per abitante sono le stesse dell'UE.
+PRODOTTO_PER_ABITANTE = {"Unione europea": 43313.77, "Brasile": 10310.55, "Cina": 13293.12, "Vietnam": 4716.66,
+                         "Indonesia": 4925.44, "Costa d'Avorio": 2727.89, "India": 2591.99,
+                         "Bangladesh": 2593.42, "Etiopia": 1133.88, "Ruanda": 1059.94}
+
+
+def coefficiente(paese):
+    """Ore di lavoro per euro di prodotto in un paese."""
+    return ORE_PER_EURO * PRODOTTO_PER_ABITANTE["Unione europea"] / PRODOTTO_PER_ABITANTE[paese]
+
+
+def ore_caffe():
+    """Ore di piantagione in un chilo di caffè tostato.
+
+    Ruanda (Organizzazione internazionale del caffè): 251,4 giornate per ettaro, 1,69 kg di ciliegie per pianta.
+    Ipotesi: 2.500 piante per ettaro, giornate di 7 ore, 6 kg di ciliegie per kg di caffè verde,
+    1,19 kg di verde per kg di tostato.
+    """
+    return 251.4 * 7 / 4225 * 6 * 1.19
 
 
 def valore(mesi):
@@ -83,12 +105,51 @@ def stampa():
               % (nome, totale, 100 * primi / totale))
         for (q, o), (n, s) in zip(profili, saldi):
             print("     %2.0f%% delle persone, %d ore a settimana: saldo %3.0f" % (100 * q, o, s))
+    print("\nSe il tetto fosse diverso (stessa Comunità, nessuno impiega i CdR)")
+    for tetto in (120, 180, 240, 300, 360, 480):
+        saldi = [(q * CONTRIBUTORI, saldo(o * SETTIMANE_PER_MESE, 60, tetto)) for q, o in profili]
+        totale = sum(n * s for n, s in saldi)
+        quota = saldi[-1][0] * saldi[-1][1] / totale
+        al_tetto = sum(n for n, s in saldi if s >= tetto - 1e-6) / CONTRIBUTORI
+        print("  tetto %3d: si raggiunge con %.1f ore a settimana; persone al tetto %2.0f%%; quota del 5%% più attivo %2.0f%%%s"
+              % (tetto, tetto / fattore / SETTIMANE_PER_MESE, 100 * al_tetto, 100 * quota,
+                 "  <- oltre la soglia di un quinto" if quota > 0.2 else ""))
     print("\nUn CdR vale una UCR: %.0f euro di acquisti esterni; il tetto: %.0f euro; %.1f settimane di CBO"
           % (1 / ORE_PER_EURO, TETTO / ORE_PER_EURO, TETTO / 15))
-    print("Esempi di costo in UCR (prezzo per coefficiente; valori d'esempio)")
-    for nome, euro in (("un chilo di caffè a 15 euro", 15), ("uno strumento musicale da 400 euro", 400),
-                       ("un viaggio di 1.000 km in treno a 10 centesimi al km", 100)):
-        print("  %-52s %.1f UCR" % (nome, euro * ORE_PER_EURO))
+    print("\nOre di lavoro per euro, per paese di produzione")
+    for paese in PRODOTTO_PER_ABITANTE:
+        print("  %-16s %.3f  (un'ora ogni %.1f euro)" % (paese, coefficiente(paese), 1 / coefficiente(paese)))
+    print("\nCosto in UCR di beni e servizi non necessari (valori d'esempio)")
+    m2_anno = 750 / 80 * ORE_PER_EURO + 4427 / (150 * 20)    # materiali più manutenzione, per m2 all'anno
+    ue, cina = ORE_PER_EURO, coefficiente("Cina")
+    righe = [
+        ("un chilo di caffè (15 euro): ore di piantagione più 13 euro in Europa", ore_caffe() + 13 * ue, 15 * ue),
+        ("un chilo di cioccolato (12 euro): un quinto del prezzo in Costa d'Avorio",
+         12 * 0.2 * coefficiente("Costa d'Avorio") + 12 * 0.8 * ue, 12 * ue),
+        ("un libro stampato in Europa (18 euro)", 18 * ue, 18 * ue),
+        ("materiali europei per un'opera o un progetto personale (100 euro)", 100 * ue, 100 * ue),
+        ("uno strumento musicale fatto in Europa (400 euro)", 400 * ue, 400 * ue),
+        ("lo stesso strumento, metà del prezzo in Cina", 200 * cina + 200 * ue, 400 * ue),
+        ("un apparecchio oltre la dotazione di base (500 euro in più), metà in Cina", 250 * cina + 250 * ue, 500 * ue),
+        ("una macchina fotografica (600 euro), metà in Cina", 300 * cina + 300 * ue, 600 * ue),
+        ("una bicicletta da viaggio fatta in Europa (1.200 euro)", 1200 * ue, 1200 * ue),
+        ("la stessa bicicletta, metà del prezzo in Cina", 600 * cina + 600 * ue, 1200 * ue),
+        ("un viaggio di 1.000 km in treno (10 centesimi al km)", 100 * ue, 100 * ue),
+        ("un viaggio di 5.000 km in treno", 500 * ue, 500 * ue),
+        ("una notte di ospitalità ordinaria in Casa Ponte (15 m2 e mezz'ora di gestione)", 15 * m2_anno / 365 + 0.5, None),
+        ("quattordici notti in Casa Ponte", 14 * (15 * m2_anno / 365 + 0.5), None),
+        ("uso esclusivo di uno spazio comune di 20 m2 per tre mesi", 20 * m2_anno / 4, None),
+        ("uso esclusivo di uno spazio comune di 20 m2 per un anno", 20 * m2_anno, None),
+    ]
+    print("  uno spazio comune costa %.2f UCR per m2 all'anno; un chilo di caffè contiene %.1f ore di piantagione"
+          % (m2_anno, ore_caffe()))
+    print("  %-78s %6s %s" % ("", "UCR", "(con la sola media europea)"))
+    for nome, ucr, media in righe:
+        print("  %-78s %6.1f %s" % (nome, ucr, ("(%.1f)" % media) if media is not None and abs(media - ucr) > 0.05 else ""))
+    piu_caro = max(u for _, u, _ in righe)
+    print("  la voce più costosa vale %.0f UCR: il tetto è %.1f volte tanto" % (piu_caro, TETTO / piu_caro))
+    print("  un bene fatto per metà in Cina contiene %.1f volte le ore indicate dalla media europea"
+          % ((0.5 * cina + 0.5 * ue) / ue))
 
 
 if __name__ == "__main__":

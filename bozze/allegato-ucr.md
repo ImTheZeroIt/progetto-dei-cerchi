@@ -15,7 +15,7 @@ Il Codice elenca sette punti che l'Allegato deve disciplinare (art. 9, c. 4). La
 | Punto | Regola proposta |
 |---|---|
 | a) Tempo | Un'ora di lavoro vale una UCR, chiunque la svolga e qualunque sia il compito. Si conta al quarto d'ora. Sono comprese preparazione, riordino e formazione obbligatoria specifica. Le maggiorazioni per i compiti sgradevoli (Cod. 1, art. 10) sono riconoscimento in CdR e non cambiano la UCR. |
-| b) Materiali | Un materiale prodotto dalla Comunità vale le UCR servite a produrlo. Un materiale recuperato vale le ore del recupero. Un materiale acquistato fuori vale il suo prezzo moltiplicato per il coefficiente ore per euro (vedi sotto). Un bene durevole è ripartito in quote uguali sugli anni di vita utile. |
+| b) Materiali | Un materiale prodotto dalla Comunità vale le UCR servite a produrlo. Un materiale recuperato vale le ore del recupero. Un materiale acquistato fuori vale le ore realmente lavorate per produrlo, quando si conoscono; altrimenti il suo prezzo moltiplicato per il coefficiente ore per euro del paese in cui è prodotto (vedi sotto). Un bene durevole è ripartito in quote uguali sugli anni di vita utile. |
 | c) Energia | L'energia prodotta dalla Comunità vale le UCR dell'impianto e della sua manutenzione, divise per i chilowattora prodotti nella vita utile. L'energia acquistata vale prezzo per coefficiente. |
 | d) Servizi digitali | Ore di manutenzione della Rete più quote degli apparecchi, ripartite tra chi usa il servizio. |
 | e) Tempo | Nessun tasso di sconto e nessun interesse: un'ora vale un'ora, oggi e fra dieci anni. Il coefficiente ore per euro è aggiornato ogni anno. Un valore si ricalcola quando i dati cambiano di oltre un quinto. |
@@ -24,7 +24,31 @@ Il Codice elenca sette punti che l'Allegato deve disciplinare (art. 9, c. 4). La
 
 **Logistica.** Ore di trasporto, più la quota del mezzo, più l'energia consumata.
 
-**Il coefficiente ore per euro.** Per gli acquisti esterni serve un modo di passare dagli euro alle ore. La bozza propone il rapporto tra le ore lavorate e il prodotto dell'economia in cui la Comunità si trova. Nell'Unione europea, nel 2024: 353,7 miliardi di ore per 18.043 miliardi di euro, cioè **0,0196 ore per euro**. In altre parole 51 euro di acquisti contengono in media un'ora di lavoro. È una conversione indicativa (art. 9, c. 6) e sottostima le ore dei beni prodotti dove il lavoro è pagato meno.
+**Un'ora vale un'ora, chiunque la lavori e dovunque.** Per gli acquisti esterni serve un modo di passare dagli euro alle ore. Il prezzo da solo non basta, perché riflette i salari e non le ore: un bene prodotto dove il lavoro è pagato poco costa pochi euro e contiene molte ore. Convertirlo con la media europea vorrebbe dire scambiare un'ora del proprio lavoro con molte ore del lavoro di un altro. La bozza propone quindi tre regole, in ordine.
+
+1. **Ore reali.** Se le ore lavorate per produrre un bene sono note, si usano quelle.
+2. **Coefficiente del paese di produzione.** Se non sono note, il prezzo si moltiplica per le ore di lavoro per euro del paese in cui il bene è prodotto. Se è prodotto in più paesi, ogni parte del prezzo ha il suo coefficiente.
+3. **Media europea.** Se non si sa dove è prodotto, si usa il coefficiente dell'economia in cui la Comunità si trova, e il valore è certificato come «ipotizzato».
+
+Il coefficiente è il rapporto tra le ore lavorate e il prodotto di un'economia. Nell'Unione europea, nel 2024: 353,7 miliardi di ore per 18.043 miliardi di euro, cioè **0,0196 ore per euro**: 51 euro di prodotto contengono in media un'ora di lavoro. Per gli altri paesi la bozza lo ricava dal prodotto per abitante, ipotizzando le stesse ore lavorate per abitante dell'Unione europea.
+
+| Paese di produzione | Ore per euro | Un'ora di lavoro ogni |
+|---|---|---|
+| Unione europea | 0,020 | 51 euro |
+| Cina | 0,064 | 16 euro |
+| Brasile | 0,082 | 12 euro |
+| Indonesia | 0,17 | 5,8 euro |
+| Vietnam | 0,18 | 5,6 euro |
+| Costa d'Avorio | 0,31 | 3,2 euro |
+| India, Bangladesh | 0,33 | 3,1 euro |
+| Etiopia | 0,75 | 1,3 euro |
+| Ruanda | 0,80 | 1,2 euro |
+
+Un esempio di ore reali: in Ruanda la coltivazione del caffè richiede circa 251 giornate di lavoro per ettaro e rende in media 1,69 kg di ciliegie per pianta. Con 2.500 piante per ettaro, giornate di sette ore, sei chili di ciliegie per chilo di caffè verde e 1,19 chili di verde per chilo di tostato (ipotesi), un chilo di caffè tostato contiene circa 3 ore di lavoro di piantagione. Convertito con la media europea, lo stesso chilo ne conterebbe 0,3.
+
+**Che cosa fa il costo: lavoro, mezzi di produzione, trasporto.** Il costo reale di un bene ha tre parti: le ore di chi lo produce, la quota dei mezzi usati per produrlo (macchine, materiali, energia, ricondotti a ore) e il trasporto. Il coefficiente di un paese non misura la distanza: stima quante ore servono là, con i mezzi di produzione che là si usano. Il caffè contiene tre ore perché è raccolto a mano, con pochi mezzi; con attrezzi migliori ne conterrebbe meno, ovunque fosse coltivato. Il trasporto si conta a parte e pesa poco: nel maggio 2026 un container da Shanghai a Genova costava circa 4.100 dollari, cioè circa 20 centesimi per chilo di merce, meno di un centesimo di UCR.
+
+Sono conversioni indicative (art. 9, c. 6), da migliorare con dati di filiera.
 
 **Che cosa la UCR non misura.** Non misura l'impatto ambientale, che è valutato dalla STV secondo il Codice 2. Non comprende il lavoro domestico svolto nei Nuclei di Cura. Non comprende le funzioni civiche, che compaiono nel Bilancio del Lavoro e non nel costo dei singoli beni.
 
@@ -114,7 +138,7 @@ Macchine, attrezzi, pannelli, materiali da costruzione, farmaci, tessuti, elettr
 | Apprendimento | Materiali e strumenti | 50 | 150 |
 | **Totale** | | **2.291** | **6.740** |
 
-Sono 1,4 ore a settimana per contributore. I beni prodotti dove il lavoro rende meno contengono più ore di quante ne indichi il coefficiente europeo: raddoppiando, per prudenza, si arriva a 2,7 ore.
+Sono 1,4 ore a settimana per contributore. L'inventario è convertito con la media europea. Con la regola del paragrafo 2 un bene fatto per metà in Cina contiene circa il doppio delle ore: raddoppiando tutto l'inventario si arriva a 2,7 ore.
 
 **Quanto vale questo inventario.** Prezzi e durate sono ipotesi di redazione, elencate una per una nel programma: vanno sostituite con preventivi veri. Il risultato però non dipende da un prezzo sbagliato: anche triplicando l'intero inventario il conto completo resta sotto le quindici ore. Per confronto, la manifattura europea di oggi impiega per 150 persone circa 14.200 ore, industria alimentare esclusa: l'inventario sul bisogno ne chiede meno della metà.
 
@@ -191,6 +215,9 @@ Pagine consultate il 5 ottobre 2026.
 - [Regione Siciliana, tabelle dei fabbisogni di lavoro (2024)](https://www.regione.sicilia.it/system/files/2024-11/Tabelle%201_2_3.pdf)
 - [Camera dell'agricoltura dello Schleswig-Holstein, ore di lavoro per ettaro nelle colture meccanizzate (2025)](https://www.lksh.de/fileadmin/PDFs/Landwirtschaft/Markt/Kalkpl25_26.pdf)
 - [Our World in Data, rese delle colture su dati FAO](https://ourworldindata.org/crop-yields)
+- [Banca Mondiale, prodotto per abitante in dollari correnti, 2024](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD)
+- [Organizzazione internazionale del caffè, Rwanda's Coffee Value Chain](https://icocoffee.org/documents/GKH/Rwanda_.pdf)
+- [Drewry, World Container Index (21 maggio 2026)](https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry)
 - [Ponisio e altri, divario di resa dell'agricoltura biologica, Proceedings of the Royal Society B (2015)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4286047)
 - [Botta e Valentini, resa in sgusciato delle nocciole (2017)](https://nocciolare.it/wp-content/uploads/2017/03/Presentazione-Botta-Valentini-Convegno-Agrion-marzo-2017.pdf)
 - [FAO, resa in olio dei semi di girasole](https://www.fao.org/3/a-al375e.pdf)
