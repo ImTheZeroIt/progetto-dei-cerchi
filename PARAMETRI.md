@@ -43,8 +43,8 @@ Sono numeri fissati per rendere applicabili le norme. Non hanno una fonte estern
 | Contenimento protettivo | in prima applicazione non oltre 5 anni (Grado 5) e 10 anni (Grado 6), con riesame almeno ogni sei mesi | Cod. 4, art. 30, c. 3 | Alta | Confronto con i dati sulla recidiva e con gli ordinamenti che usano misure a termine con riesame. |
 | Obiezione in Assemblea | almeno il 10% dei votanti, entro 72 ore dall'esito | Cost. 34.2; Cod. 3, art. 13-bis | Media | Caso di prova. [Segnalazione 1](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues/1). |
 | Soglie economiche delle decisioni | sotto 500 UCR, da 500 a 2.500, sopra 2.500 | Cod. 3, art. 7 | Alta | Con il coefficiente proposto nella bozza dell'Allegato UCR, 500 UCR valgono circa 25.500 euro di acquisti: verificare se per una Comunità piccola è troppo. |
-| Tetto del CdR | 240 CdR in prima applicazione | Cod. 1, art. 44 | Alta | Simulazione: distribuzione dei CdR dopo uno e due anni; dipende dalla tabella pubblica. |
-| Decrescenza del CdR | valore pieno per 12 mesi, poi −25% a trimestre fino a zero al 24° mese | Cod. 1, art. 44 | Alta | Come sopra: verificare che impedisca l'accumulo senza svuotare il riconoscimento. |
+| Tetto del CdR | 240 CdR in prima applicazione | Cod. 1, art. 44 | Media | Una prima [simulazione](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-cdr.html) mostra che il tetto tiene il ventesimo più attivo sotto la soglia di concentrazione. Da rivedere con i dati trimestrali reali. |
+| Decrescenza del CdR | valore pieno per 12 mesi, poi −25% a trimestre fino a zero al 24° mese | Cod. 1, art. 44 | Media | Come sopra. Il testo non dice quando avviene la prima riduzione: da chiarire. |
 | Rifiuto del contributo | percorso graduale davanti all'Assemblea di Chiarimento | Cost. 7.3 | Media | Caso di prova. [Segnalazione 3](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues/3). |
 | Contributo sui redditi esterni | 1/10 del reddito netto in prima applicazione, mai oltre 1/5 | Cod. 15, art. 19-bis | Alta | Fabbisogno esterno reale di una Comunità in transizione (imposte, acquisti, cure). |
 | Dichiarazione dei redditi esterni | per fasce, riservata, conservata 12 mesi | Cod. 15, art. 19-bis | Bassa | Compatibilità con gli obblighi fiscali dello Stato in cui la Comunità si trova. |
@@ -67,7 +67,7 @@ I Codici rinviano a questi valori, ma nessun testo li fissa ancora.
 | Alloggio: superficie minima | Cost. 1.2; Cod. 10 | Lo standard Sphere per le emergenze è 3,5 m² coperti per persona (4,5–5,5 nei climi freddi): è un minimo di emergenza, non un'abitazione. |
 | Mobilità di base: distanze e tempi garantiti | Cod. 11; Cod. 1, art. 25 | Nessun riferimento ancora. |
 | Metodo di calcolo della UCR | Cod. 3, art. 9 | Proposto nella [bozza dell'Allegato UCR](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-ucr.html), con un esempio svolto. |
-| Tabella pubblica del CdR | Cod. 1, art. 46 | Dipende dal metodo UCR. È locale: la approva ogni Comunità. |
+| Tabella pubblica del CdR | Cod. 1, art. 46 | Modello proposto nella [bozza della tabella](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-cdr.html). È locale: la approva ogni Comunità. |
 
 ## 4. Allegati tecnici citati e non ancora scritti
 

@@ -56,6 +56,8 @@ BOZZE = [
          titolo="Allegato annuale del Paniere di Sufficienza", nota="bozza 0.1"),
     dict(md="bozze/allegato-ucr.md", pagina="bozza-ucr.html",
          titolo="Allegato UCR e primo bilancio delle ore", nota="bozza 0.1"),
+    dict(md="bozze/tabella-cdr.md", pagina="bozza-cdr.html",
+         titolo="Tabella pubblica del CdR", nota="bozza 0.1"),
     dict(md="PROPOSTE.md", pagina="proposte.html",
          titolo="Proposte di modifica aperte", nota="in discussione", classe=""),
 ]
