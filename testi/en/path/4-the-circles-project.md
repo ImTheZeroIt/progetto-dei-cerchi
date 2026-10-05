@@ -25,11 +25,11 @@ Each person is as important as the others. No one stands above anyone.
 
 The freedom of each meets that of the others.
 
-My freedom ends where yours begins.
+My freedom does not end where yours begins: it begins together with yours.
 
 From this principle derives a relationship of reciprocity:
 
-those who are in need receive; those who can help, help.
+need gives the right to receive; capacity commits one to contribute; usefulness to the community deserves recognition.
 
 Contribution to the collectivity does not constitute superiority over another, just as need does not constitute a condition of inferiority.
 
@@ -227,3 +227,7 @@ what alternatives do we have?
 The Circles Project tries to give an answer by building one.
 
 The project begins from the person, organises the collectivity and builds the instruments necessary for both to exist without the one having to dominate the other.
+
+## To you who have read this far
+
+I do not know whether the conditions exist today to try a system like this, and I do not know whether they ever will. I am publishing it all the same, because I believe it is valid. If in fifty years someone asks what can be done, here they will find a base to start from.

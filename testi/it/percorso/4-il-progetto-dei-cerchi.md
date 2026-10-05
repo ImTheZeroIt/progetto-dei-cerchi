@@ -25,11 +25,11 @@ Ognuno è importante quanto gli altri. Nessuno sovrasta nessuno.
 
 La libertà di ciascuno incontra quella degli altri.
 
-La mia libertà finisce dove inizia la tua.
+La mia libertà non finisce dove inizia la tua: comincia insieme alla tua.
 
 Da questo principio deriva un rapporto di reciprocità:
 
-chi ha bisogno riceve; chi può aiutare aiuta.
+il bisogno dà diritto a ricevere; la capacità impegna a contribuire; l’utilità per la comunità merita riconoscimento.
 
 Il contributo alla collettività non costituisce una superiorità sull’altro, così come il bisogno non costituisce una condizione di inferiorità.
 
@@ -227,3 +227,7 @@ quali alternative abbiamo?
 Il Progetto dei Cerchi prova a dare una risposta costruendone una.
 
 Il progetto comincia dalla persona, organizza la collettività e costruisce gli strumenti necessari affinché entrambe possano esistere senza che l’una debba dominare l’altra.
+
+## A te che hai letto fin qui
+
+Non so se oggi esistano le condizioni per provare un sistema come questo, e non so se esisteranno mai. Lo pubblico lo stesso, perché lo credo valido. Se tra cinquant’anni qualcuno si chiederà che cosa si può fare, qui troverà una base da cui partire.
