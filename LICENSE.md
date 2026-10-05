@@ -4,7 +4,7 @@ Questo repository usa due licenze, perché contiene due tipi di testo.
 
 ## 1. Le regole — CC BY-SA 4.0
 
-La Costituzione, i Codici, gli Allegati, il registro delle modifiche, il sito e il programma che lo genera (cartelle `testi/it/registro/`, `testi/en/register/`, `strumenti/` e le pagine corrispondenti in `docs/`) sono pubblicati con licenza
+La Costituzione, i Codici, gli Allegati, il registro delle modifiche, il registro dei parametri da verificare, il sito e il programma che lo genera (cartelle `testi/it/registro/`, `testi/en/register/`, `strumenti/` e le pagine corrispondenti in `docs/`) sono pubblicati con licenza
 
 **Creative Commons Attribuzione – Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)**
 
@@ -65,7 +65,7 @@ L'Allegato tecnico B al Codice 16 indica, per i progetti di hardware, la licenza
 
 This repository uses two licences, because it contains two kinds of text.
 
-**1. The rules — CC BY-SA 4.0.** The Constitution, the Codes, the Annexes, the change log, the website and the program that generates it are published under the Creative Commons Attribution-ShareAlike 4.0 International licence: <https://creativecommons.org/licenses/by-sa/4.0/>. Anyone may share and adapt the material, for any purpose, provided that they give appropriate credit (“Progetto dei Cerchi / The Circles Project”), indicate the licence and any changes, and distribute their contributions under the same licence.
+**1. The rules — CC BY-SA 4.0.** The Constitution, the Codes, the Annexes, the change log, the register of parameters to be verified, the website and the program that generates it are published under the Creative Commons Attribution-ShareAlike 4.0 International licence: <https://creativecommons.org/licenses/by-sa/4.0/>. Anyone may share and adapt the material, for any purpose, provided that they give appropriate credit (“Progetto dei Cerchi / The Circles Project”), indicate the licence and any changes, and distribute their contributions under the same licence.
 
 **2. The four texts of the path — CC BY-ND 4.0.** *Human history*, *Analysis of the present*, *The system against the individual* and *The Circles Project*, with their translations, are published under the Creative Commons Attribution-NoDerivatives 4.0 International licence: <https://creativecommons.org/licenses/by-nd/4.0/>. Anyone may copy and redistribute them in full and unchanged, for any purpose, giving appropriate credit.
 

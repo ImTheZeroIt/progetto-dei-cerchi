@@ -7,7 +7,7 @@ The Circles Project is public because no one holds, alone, the knowledge needed 
 1. **Concrete cases.** Codes 3 and 4 require the rules to be tested on real cases before they are considered final. A case is a situation described precisely (a conflict, a water shortage, a refusal, an objection in the Assembly) and run through the procedures, to see where they hold and where they do not.
 2. **Expert review.** Anyone who knows a subject can check the Code that deals with it: what is wrong, what is missing, what cannot be applied.
 3. **Contradictions and cross-references.** An article that contradicts another, a reference that leads to the wrong paragraph, a term used in two senses.
-4. **Numbers.** Many parameters are initial proposals, listed in the change log as “to be confirmed”. Data and experience that confirm or refute them are useful.
+4. **Numbers.** Many parameters are initial proposals. The [register of parameters to be verified](https://imthezeroit.github.io/progetto-dei-cerchi/registro/parametri.html) (for now in Italian) says where each one comes from and what test it would need; a shorter list in English is in the change log. Data and experience that confirm or refute them are useful.
 5. **Clarity.** Obscure sentences, passages that a non-expert reader cannot follow.
 6. **Translation.** The English and Spanish versions are working translations; the Spanish one covers only the path for now. Corrections by native speakers, especially with legal training, are welcome, as are translations of the rules into other languages. The Italian text is the authoritative one; the terminology is fixed in `testi/en/GLOSSARY.md` and in `testi/es/GLOSARIO.md`.
 

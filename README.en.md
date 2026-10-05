@@ -51,7 +51,7 @@ Then come the rules.
 
 The Constitution sets out the principles and the general structure. The Codes turn those principles into operating rules. The Technical Annexes develop procedures, criteria and specifications. In case of conflict, the Constitution prevails.
 
-Every change is recorded and explained in the [change log](CHANGELOG.md).
+Every change is recorded and explained in the [change log](CHANGELOG.md). The proposed numbers, with their origin and the test each would need, are in the [register of parameters to be verified](PARAMETRI.md) (for now in Italian).
 
 ## How this repository is organised
 

@@ -7,7 +7,7 @@ Il Progetto dei Cerchi è pubblico perché nessuno possiede da solo le conoscenz
 1. **Casi concreti.** I Codici 3 e 4 chiedono che le regole siano provate su casi reali prima di essere considerate definitive. Un caso è una situazione descritta con precisione (un conflitto, una scarsità d'acqua, un rifiuto, un'obiezione in Assemblea) fatta passare dentro le procedure, per vedere dove reggono e dove no.
 2. **Verifiche di competenza.** Chi conosce una materia può controllare il Codice che la riguarda: che cosa è sbagliato, che cosa manca, che cosa non è applicabile.
 3. **Contraddizioni e rinvii.** Un articolo che ne contraddice un altro, un rinvio che porta al comma sbagliato, un termine usato in due sensi.
-4. **Numeri.** Molti parametri sono proposte iniziali, elencate nel registro delle modifiche come «da confermare». Dati ed esperienze che li confermino o li smentiscano sono utili.
+4. **Numeri.** Molti parametri sono proposte iniziali. Il [registro dei parametri da verificare](https://imthezeroit.github.io/progetto-dei-cerchi/registro/parametri.html) dice per ciascuno da dove viene e quale prova servirebbe. Dati ed esperienze che li confermino o li smentiscano sono utili.
 5. **Chiarezza.** Frasi oscure, passaggi che un lettore non esperto non riesce a seguire.
 6. **Traduzione.** Le versioni inglese e spagnola sono traduzioni di lavoro; quella spagnola comprende per ora solo il percorso. Sono benvenute le correzioni di madrelingua, meglio se con formazione giuridica, e le traduzioni delle regole in altre lingue. Il testo che fa fede è quello italiano; i termini sono fissati in `testi/en/GLOSSARY.md` e in `testi/es/GLOSARIO.md`.
 

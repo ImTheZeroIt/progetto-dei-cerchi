@@ -10,7 +10,7 @@ None since first publication.
 
 # Parameters to be confirmed
 
-These are numbers proposed in order to make the rules applicable. They may all be modified by ordinary procedure. Data and experience that confirm or refute them are welcome.
+These are numbers proposed in order to make the rules applicable. They may all be modified by ordinary procedure. Data and experience that confirm or refute them are welcome. The full register, with the origin of each value, its uncertainty and the test needed to confirm or correct it, is for now in Italian: [Parametri da verificare](https://imthezeroit.github.io/progetto-dei-cerchi/registro/parametri.html). It is a calibration draft, not adopted, and changes no rule.
 
 | Parameter | Proposed value | Location |
 |---|---|---|
@@ -20,9 +20,9 @@ These are numbers proposed in order to make the rules applicable. They may all b
 | Guarantee Circle | 3–7 persons, 90 days (maximum 180 in the year) | Code 4, Art. 4 |
 | Cap on the CdR | 240 CdR | Code 1, Art. 44 |
 | Decay of the CdR | after 12 months, −25% per quarter down to zero at 24 months | Code 1, Art. 44 |
-| Clarification Assembly / Transformation Council / Guarantee Tribunal | 7 / 5 / 7 persons; 6 votes out of 7 for the extreme measures | Code 4, Chapter V |
-| Protective containment | maximum 5 years (Grade 5) and 10 years (Grade 6), with periodic review | Code 4, Chapter V |
-| Precautionary measures | validation within 24 hours | Code 4, Chapter V |
+| Clarification Assembly / Transformation Council / Guarantee Tribunal | 7 / 5 / 7 persons; 6 votes out of 7 for the extreme measures | Code 4, Art. 27 |
+| Protective containment | maximum 5 years (Grade 5) and 10 years (Grade 6), with review at least every six months | Code 4, Art. 30, para. 3 |
+| Precautionary measures | validation within 24 hours | Code 4, Art. 34 |
 | Water Basket | at least 50 litres per person per day | Code 8, Art. 4-bis |
 | Founding regime | 2 Communities, 6 months, vote within 30 days, 2/3 of the persons and 2/3 of the Communities, ratification within 24 months | Const. 38 |
 | Reserve of the Common Fund | no more than 12 months of external requirement | Code 15, Art. 17 |

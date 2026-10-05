@@ -47,6 +47,10 @@ CONTATTO = "zerocirclesproject@gmail.com"
 SEGNALAZIONI = {"caso": "Caso di prova", "dato": "Parametro da confermare", "codice": "Verifica di competenza"}
 
 
+# Il registro dei parametri da verificare esiste, per ora, solo in italiano.
+PARAMETRI = dict(lingua="it", md="PARAMETRI.md", pagina="parametri.html")
+
+
 def segnalazioni(tipo):
     """Indirizzo dell'elenco delle segnalazioni aperte di un tipo."""
     from urllib.parse import quote
@@ -154,6 +158,9 @@ LINGUE = {
             guida_regole="La proposta è scritta per intero, articolo per articolo, perché possa essere "
                          "verificata e corretta.",
             codici_allegati="{nc} Codici e {na} Allegati tecnici", storico="storico",
+            parametri="Parametri da verificare", parametri_nota="bozza di calibrazione",
+            reg_parametri="I numeri proposti, con la loro origine e la prova che servirebbe per confermarli, "
+                          "sono nel <a href=\"{par}\">registro dei parametri da verificare</a>.",
             h_aperto="Un progetto aperto", h_stato="Stato", h_licenza="Licenza",
             stato="Il progetto è nella fase di scrittura e verifica. I testi non sono un modello dimostrato: "
                   "devono essere sperimentati, e dove falliscono vanno corretti.",
@@ -276,6 +283,9 @@ LINGUE = {
             guida_regole="The proposal is written out in full, article by article, so that it can be "
                          "verified and corrected.",
             codici_allegati="{nc} Codes and {na} Technical Annexes", storico="history",
+            parametri="Parameters to be verified", parametri_nota="calibration draft · in Italian",
+            reg_parametri="The proposed numbers, with their origin and the test each would need, are in the "
+                          "<a href=\"{par}\">register of parameters to be verified</a> (for now in Italian).",
             h_aperto="An open project", h_stato="Status", h_licenza="Licence",
             stato="The project is at the stage of writing and verification. The texts are not a proven "
                   "model: they must be tested, and corrected where they fail.",
@@ -398,6 +408,9 @@ LINGUE = {
             guida_regole="La propuesta está escrita por entero, artículo por artículo, para que pueda verificarse "
                          "y corregirse. Las reglas están por ahora en italiano y en inglés.",
             codici_allegati="{nc} Códigos y {na} Anexos técnicos", storico="historial",
+            parametri="Parámetros por verificar", parametri_nota="borrador de calibración · en italiano",
+            reg_parametri="Los números propuestos, con su origen y la prueba que haría falta para confirmarlos, "
+                          "están en el <a href=\"{par}\">registro de parámetros por verificar</a> (por ahora en italiano).",
             h_aperto="Un proyecto abierto", h_stato="Estado", h_licenza="Licencia",
             stato="El proyecto está en la fase de escritura y verificación. Los textos no son un modelo "
                   "demostrado: deben ponerse a prueba, y corregirse allí donde fallen.",
@@ -432,6 +445,13 @@ def ha_registro(lingua):
 def lingua_regole(lingua):
     """La lingua in cui si leggono le regole: la propria, oppure quella indicata in «regole_da»."""
     return lingua if ha_registro(lingua) else LINGUE[lingua["regole_da"]]
+
+
+def url_parametri(lingua, profondita=0):
+    """Indirizzo del registro dei parametri, visto da una pagina della lingua a una certa profondità."""
+    lp = LINGUE[PARAMETRI["lingua"]]
+    su = "../" * (lingua["prefisso"].count("/") + profondita)
+    return "%s%s%s/%s" % (su, lp["prefisso"], lp["dir_registro"], PARAMETRI["pagina"])
 
 
 def dir_regole(lingua):
@@ -832,7 +852,7 @@ def costruisci_lingua(lingua, altre):
     contenuto = """<section class="foglio">
 <header class="apertura">
   <h1>%s</h1>
-  <p class="sottotitolo">%s</p>
+  <p class="sottotitolo">%s %s</p>
   <p><span class="stato">%s</span></p>
 </header>
 <h2>%s</h2>
@@ -843,7 +863,8 @@ def costruisci_lingua(lingua, altre):
 <ul class="testi">%s</ul>
 <h2>%s</h2>
 <p>%s</p>
-</section>""" % (t["registro"], t["reg_sotto"].format(mod=lingua["pag_modifiche"]), t["bozza"], t["h_cost"],
+</section>""" % (t["registro"], t["reg_sotto"].format(mod=lingua["pag_modifiche"]),
+                 t["reg_parametri"].format(par=url_parametri(lingua, 1)), t["bozza"], t["h_cost"],
                  elenco("costituzione"), t["h_codici"], elenco("codici"), t["h_allegati"], elenco("allegati"),
                  t["h_come"], t["come"])
     if proprie:
@@ -855,19 +876,22 @@ def costruisci_lingua(lingua, altre):
     # --- pagine di servizio: modifiche, contribuire
     servizio = [
         (lingua["md_contribuire"], lingua["pag_contribuire"], t["come_contribuire"], 0, "contribuire",
-         dict((a["codice"], "%s%s" % (a["prefisso"], a["pag_contribuire"])) for a in altre)),
+         dict((a["codice"], "%s%s" % (a["prefisso"], a["pag_contribuire"])) for a in altre), ""),
     ]
+    if lingua["codice"] == PARAMETRI["lingua"]:
+        servizio.append((PARAMETRI["md"], "%s/%s" % (dr, PARAMETRI["pagina"]), t["parametri"], 1, "registro", {},
+                         " largo"))
     if proprie:
         servizio.append(
             (lingua["md_modifiche"], "%s/%s" % (dr, lingua["pag_modifiche"]), t["modifiche"], 1, "registro",
              dict((a["codice"], "%s%s/%s" % (a["prefisso"], a["dir_registro"], a["pag_modifiche"]))
-                  for a in altre if ha_registro(a))))
-    for origine, destinazione, titolo, profondita, sezione, gem in servizio:
+                  for a in altre if ha_registro(a)), ""))
+    for origine, destinazione, titolo, profondita, sezione, gem, classe in servizio:
         testo = open(os.path.join(RADICE, origine), encoding="utf-8").read()
         testo = re.sub(r"\A# .*\n", "", testo)
         _, corpo = pandoc(abbassa_titoli(testo))
-        contenuto = ('<article class="foglio"><header class="apertura"><h1>%s</h1></header>'
-                     '<div class="prosa">%s</div></article>' % (titolo, corpo))
+        contenuto = ('<article class="foglio%s"><header class="apertura"><h1>%s</h1></header>'
+                     '<div class="prosa">%s</div></article>' % (classe, titolo, corpo))
         scrivi(lingua, destinazione,
                pagina(lingua, "%s — %s" % (titolo, nome), titolo + ".", contenuto, profondita, sezione, gemelle("", gem)))
 
@@ -913,6 +937,7 @@ def costruisci_lingua(lingua, altre):
     <li><a href="%(dr)s/%(cost)s.html">%(h_cost)s</a><span class="versione">%(vcost)s</span></li>
     <li><a href="%(dr)s/index.html">%(codall)s</a><span class="versione">%(registro)s</span></li>
     <li><a href="%(dr)s/%(pmod)s">%(modifiche)s</a><span class="versione">%(storico)s</span></li>
+    <li><a href="%(upar)s">%(parametri)s</a><span class="versione">%(parametri_nota)s</span></li>
   </ul>
 </section>
 
@@ -945,6 +970,7 @@ def costruisci_lingua(lingua, altre):
         guida_regole=t["guida_regole"], cost=costituzione["slug"], h_cost=t["h_cost"],
         vcost=costituzione["versione"], codall=t["codici_allegati"].format(nc=nc, na=na),
         registro=t["registro"].lower(), pmod=lreg["pag_modifiche"], modifiche=t["modifiche"],
+        upar=url_parametri(lingua), parametri=t["parametri"], parametri_nota=t["parametri_nota"],
         storico=t["storico"], h_aperto=t["h_aperto"], h_stato=t["h_stato"], stato=t["stato"], bozza=t["bozza"],
         h_licenza=t["h_licenza"], licenza=t["licenza"].format(lic=licenza, licp=licenza_p), contribuire=t["contribuire"],
         ctesto=t["contribuire_testo"], pcon=lingua["pag_contribuire"], come=t["come_contribuire"])

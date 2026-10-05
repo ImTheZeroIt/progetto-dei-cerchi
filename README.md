@@ -49,7 +49,7 @@ Poi vengono le regole.
 
 La Costituzione stabilisce i principi e la struttura generale. I Codici trasformano quei principi in regole operative. Gli Allegati tecnici sviluppano procedure, criteri e specifiche. In caso di conflitto prevale la Costituzione.
 
-Ogni modifica è annotata e motivata nel [registro delle modifiche](REGISTRO-DELLE-MODIFICHE.md). Lo storico di questo repository è l'archivio aperto, versionato e replicabile previsto dall'articolo 38.5 della Costituzione.
+Ogni modifica è annotata e motivata nel [registro delle modifiche](REGISTRO-DELLE-MODIFICHE.md). I numeri proposti, con la loro origine e la prova che servirebbe per confermarli, sono nel [registro dei parametri da verificare](PARAMETRI.md). Lo storico di questo repository è l'archivio aperto, versionato e replicabile previsto dall'articolo 38.5 della Costituzione.
 
 ## Come è fatto questo repository
 

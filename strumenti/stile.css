@@ -180,6 +180,10 @@ circle { fill: none; }
 .prosa table { border-collapse: collapse; font-size: 0.95rem; min-width: 100%; }
 .prosa th, .prosa td { text-align: left; vertical-align: top; padding: 0.5rem 0.8rem 0.5rem 0; border-bottom: 1px solid var(--linea); }
 .prosa th { font-family: var(--titoli); font-weight: 600; }
+.foglio.largo { max-width: 68rem; }
+.foglio.largo .apertura, .foglio.largo .prosa > :not(.tabella) { max-width: var(--colonna); }
+.foglio.largo table { min-width: 52rem; font-size: 0.9rem; }
+.foglio.largo td:first-child { font-weight: 600; }
 
 .avanti { margin-top: 3.5rem; }
 .seguito { display: grid; gap: 0.25rem; padding: 1.3rem 1.4rem; background: var(--carta-2); border: 1px solid var(--linea);
