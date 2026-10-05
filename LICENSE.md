@@ -24,7 +24,7 @@ Alle seguenti condizioni:
 
 ## 2. I quattro testi del percorso — CC BY-ND 4.0
 
-*La storia umana*, *Analisi del presente*, *Il sistema contro l'individuo* e *Il Progetto dei Cerchi*, con le loro traduzioni (cartelle `testi/it/percorso/`, `testi/en/path/` e le pagine e i file corrispondenti in `docs/`), sono pubblicati con licenza
+*La storia umana*, *Analisi del presente*, *Il sistema contro l'individuo* e *Il Progetto dei Cerchi*, con le loro traduzioni (cartelle `testi/it/percorso/`, `testi/en/path/`, `testi/es/recorrido/` e le pagine e i file corrispondenti in `docs/`), sono pubblicati con licenza
 
 **Creative Commons Attribuzione – Non opere derivate 4.0 Internazionale (CC BY-ND 4.0)**
 

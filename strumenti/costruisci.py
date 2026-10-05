@@ -7,8 +7,11 @@ Uso / usage (dalla cartella principale del repository / from the repository root
 
     python3 strumenti/costruisci.py
 
-Legge   testi/it/…  e  testi/en/…
-Scrive  docs/  (italiano)  e  docs/en/  (English)
+Legge   testi/it/…,  testi/en/…  e  testi/es/…
+Scrive  docs/  (italiano),  docs/en/  (English)  e  docs/es/  (español)
+
+Una lingua può avere solo i testi del percorso: in quel caso le sue pagine rimandano
+alle regole della lingua indicata in «regole_da».
 
 Serve soltanto Python 3 e pandoc (https://pandoc.org). Nessun altro
 programma, nessuna libreria esterna, nessun servizio in rete.
@@ -52,7 +55,7 @@ def segnalazioni(tipo):
 # Ogni lingua ha le proprie cartelle, i propri nomi di pagina e le proprie scritte.
 LINGUE = {
     "it": dict(
-        codice="it", prefisso="", altra="en", nome_altra="English",
+        codice="it", prefisso="", nome_lingua="Italiano",
         nome="Progetto dei Cerchi",
         dir_percorso="percorso", dir_registro="registro", dir_scarica="scarica",
         pag_modifiche="modifiche.html", pag_contribuire="contribuire.html",
@@ -173,7 +176,7 @@ LINGUE = {
         ),
     ),
     "en": dict(
-        codice="en", prefisso="en/", altra="it", nome_altra="Italiano",
+        codice="en", prefisso="en/", nome_lingua="English",
         nome="The Circles Project",
         dir_percorso="path", dir_registro="register", dir_scarica="en/download",
         pag_modifiche="changes.html", pag_contribuire="contributing.html",
@@ -294,10 +297,150 @@ LINGUE = {
                       "fills the Storehouses and everyone has access according to need.",
         ),
     ),
+    "es": dict(
+        codice="es", prefisso="es/", nome_lingua="Español", regole_da="it",
+        nome="Proyecto de los Círculos",
+        dir_percorso="recorrido", dir_registro="registro", dir_scarica="es/descargas",
+        pag_modifiche="cambios.html", pag_contribuire="contribuir.html",
+        md_modifiche="", md_contribuire="CONTRIBUIR.md",
+        licenza_url="https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+        licenza_percorso_url="https://creativecommons.org/licenses/by-nd/4.0/deed.es",
+        livelli=[("Núcleo de cuidado", "de 1 a 15 personas", ["cuidado cotidiano", "y hospitalidad"]),
+                 ("Comunidad de base", "por norma 30–500 personas", ["decide en Asamblea,", "gestiona trabajo y Almacén"]),
+                 ("Cuenca", "por norma ≥ 3 Comunidades", ["logística, hospital,", "Tribunal de Garantía"]),
+                 ("Biorregión", "varias Cuencas", ["ferrocarriles, energía,", "alta especialización"]),
+                 ("Círculo global", "toda la humanidad", ["reglas técnicas comunes,", "ningún gobierno"])],
+        ciclo=[("Necesidades", ["lo que necesitan", "las personas"]),
+               ("Asamblea", ["todas las personas,", "un voto cada una"]),
+               ("Trabajo necesario", ["por rotación; en promedio", "no más de 15 horas", "a la semana"]),
+               ("Almacenes comunes", ["bienes y servicios", "de todos"]),
+               ("Acceso", ["a cada cual", "según su necesidad"])],
+        frecce=["detectadas", "decide", "produce", "dan"],
+        maiuscole=["Confederación", "Círculos", "Código", "Annex", "Asamblea", "Red", "Almacenes Comunes",
+                   "Contribución Básica Obligatoria"],
+        t=dict(
+            salta="Ir al contenido", sezioni="Secciones", percorso="Recorrido", registro="Reglas",
+            contribuire="Contribuir", repository="Repositorio",
+            piede="La Constitución, los Códigos y los Anexos se publican con licencia {lic}: cualquiera puede "
+                  "copiarlos, modificarlos y volver a publicarlos, citando la fuente y manteniendo la misma "
+                  "licencia. Los cuatro textos del recorrido se publican con licencia {licp}: pueden copiarse y "
+                  "volver a publicarse íntegros, citando la fuente, pero no modificarse.",
+            piede_registro="Este texto se publica con licencia {lic}: cualquiera puede copiarlo, modificarlo y "
+                           "volver a publicarlo, citando la fuente y manteniendo la misma licencia.",
+            piede_percorso="Este texto se publica con licencia {licp}: cualquiera puede copiarlo y volver a "
+                           "publicarlo íntegro, citando la fuente, pero no modificarlo. Puede traducirse a otras "
+                           "lenguas, si la traducción es íntegra y fiel; para abreviarlo o adaptarlo hace falta el "
+                           "permiso de los autores: consulta <a href=\"{con}\">cómo contribuir</a>.",
+            avviso="Esta es una traducción de trabajo. El texto de referencia es el italiano.",
+            bozza="Borrador en revisión: no adoptado, no puesto a prueba",
+            modifiche="Registro de cambios", come_contribuire="Cómo contribuir",
+            capitolo="Capítulo {n} de {tot} · {min} min de lectura",
+            continua="Continúa · capítulo {n} de {tot}",
+            fine="El recorrido termina aquí", leggi_regole="Lee las reglas",
+            fine_testo="La Constitución, los dieciséis Códigos y los Anexos, con todas sus versiones. Por ahora "
+                       "en italiano y en inglés.",
+            inizio="← Inicio", capitoli="Capítulos", scarica="Descargar", indice="Índice",
+            indice_aria="Índice del texto",
+            allineamento="Versiones de los demás textos con los que está alineado",
+            reg_sotto="Todos los textos normativos del proyecto, con su versión. Cada cambio se anota y se "
+                      "motiva en el <a href=\"{mod}\">registro de cambios</a>.",
+            h_cost="Constitución", h_codici="Códigos", h_allegati="Anexos técnicos",
+            h_come="Cómo están organizados",
+            come="La Constitución establece los principios y la estructura general. Los Códigos transforman esos "
+                 "principios en reglas operativas. Los Anexos técnicos desarrollan procedimientos, criterios y "
+                 "especificaciones. En caso de conflicto prevalece la Constitución.",
+            desc_reg="Constitución, Códigos y Anexos del Proyecto de los Círculos, con todas sus versiones.",
+            versione="versión",
+            etichetta="Una propuesta abierta", domanda="¿Qué alternativas tenemos?",
+            attacco="El Proyecto de los Círculos es una propuesta de alternativa al modo en que hoy organizamos "
+                    "la vida colectiva. Empieza por la persona, organiza la colectividad y construye los "
+                    "instrumentos para que ninguna de las dos tenga que dominar a la otra.",
+            comincia="Empieza por el recorrido", vai_regole="Ir a las reglas", prova_caso="Pon a prueba un caso",
+            h_prova="Ponla a prueba",
+            guida_prova="El proyecto necesita críticas más que adhesiones. Tres maneras de empezar, cada una con "
+                        "incidencias ya abiertas (por ahora en italiano; puedes escribir en español):",
+            prova=[
+                ("caso", "Prueba un caso", "Toma una situación concreta, un conflicto o una objeción en la Asamblea, y "
+                                           "sométela a los procedimientos: dónde resisten y dónde no."),
+                ("dato", "Verifica un dato", "Muchos umbrales son propuestas iniciales: de 30 a 500 personas por "
+                                             "Comunidad, el quórum, 50 litros de agua al día. Hacen falta datos que "
+                                             "los confirmen o los desmientan."),
+                ("codice", "Revisa un Código", "Si conoces una materia, lee el Código que la trata y di qué está mal, "
+                                               "qué falta, qué no es aplicable."),
+            ],
+            senza_conto="¿No tienes cuenta de GitHub? Escribe a {mail}: basta con una línea.",
+            h_minuto="En un minuto",
+            minuto=[
+                ("Qué es", "Una propuesta de organización social escrita por entero: una Constitución, 16 Códigos y "
+                           "4 Anexos. No está en vigor en ninguna parte."),
+                ("Cómo está hecha", "Comunidades de base de 30 a 500 personas, que deciden en asamblea y se federan "
+                                    "en niveles más amplios, hasta el planeta. Ningún nivel manda sobre el de abajo. "
+                                    "Los cargos se asignan por sorteo entre voluntarios, duran poco y no se repiten "
+                                    "de forma consecutiva."),
+                ("Qué garantiza", "A cada miembro vivienda, alimentos, agua, energía, atención sanitaria, educación "
+                                  "y conexión: no son la retribución del trabajo. Los bienes se toman de los Almacenes "
+                                  "comunes según la necesidad; el dinero queda abolido. Tierra, agua, energía y "
+                                  "medios de producción son bienes comunes, que no se compran ni se venden. Siguen "
+                                  "siendo personales la vivienda en uso y los objetos propios."),
+                ("Qué pide", "A cada adulto que pueda, una parte por rotación del trabajo necesario para todos. Y la "
+                             "renuncia a la propiedad privada de los medios de producción, a la acumulación, a las "
+                             "armas y a la explotación de los animales, incluido su sacrificio. Quien no esté de "
+                             "acuerdo puede salir en cualquier momento y pedir volver."),
+                ("Qué no sabemos", "Si funciona. Ninguna comunidad la ha puesto a prueba todavía. Muchos umbrales y "
+                                   "cantidades son hipótesis por verificar. Cómo se llega desde el sistema actual, y "
+                                   "si resiste a gran escala, está escrito pero nunca se ha probado. Por eso todo es "
+                                   "público y las reglas se pueden corregir."),
+            ],
+            h_percorso="El recorrido",
+            guida_percorso="Cuatro lecturas en secuencia: de dónde venimos, dónde estamos, qué no funciona, "
+                           "qué proponemos.",
+            h_regole="Las reglas",
+            guida_regole="La propuesta está escrita por entero, artículo por artículo, para que pueda verificarse "
+                         "y corregirse. Las reglas están por ahora en italiano y en inglés.",
+            codici_allegati="{nc} Códigos y {na} Anexos técnicos", storico="historial",
+            h_aperto="Un proyecto abierto", h_stato="Estado", h_licenza="Licencia",
+            stato="El proyecto está en la fase de escritura y verificación. Los textos no son un modelo "
+                  "demostrado: deben ponerse a prueba, y corregirse allí donde fallen.",
+            licenza="Las reglas son libres: {lic}. Pueden copiarse, modificarse y volver a publicarse, citando la "
+                    "fuente y manteniendo la misma licencia. Los cuatro textos del recorrido pueden copiarse y "
+                    "volver a publicarse íntegros, pero no modificarse: {licp}. Traducirlos está permitido.",
+            contribuire_testo="Leer, criticar, verificar, corregir. Hacen falta competencias distintas y casos "
+                              "concretos con los que poner a prueba las reglas.",
+            desc_home="Una propuesta abierta de alternativa al modo en que organizamos la vida colectiva: "
+                      "el recorrido, la Constitución, los Códigos.",
+            figura="Personas dispuestas en círculo, todas iguales, con otras comunidades conectadas alrededor",
+            si_uniscono="se unen en",
+            ritorno="nacen nuevas necesidades, y el ciclo vuelve a empezar",
+            consigli="Consejos técnicos e IA", consigli2="proponen y calculan, no deciden",
+            garanzia="Círculo de Garantía", garanzia2="controla y recibe las apelaciones; cargos breves, por sorteo",
+            did_livelli="Los cinco niveles, de la persona al planeta. Ningún nivel manda sobre el de abajo: cada "
+                        "decisión se queda en el nivel más cercano que pueda tomarla.",
+            did_ciclo="Cómo funciona una Comunidad: se parte de las necesidades, la Asamblea decide, el trabajo "
+                      "necesario llena los Almacenes y cada cual accede según su necesidad.",
+        ),
+    ),
 }
 
 
 # ----------------------------------------------------------------- lettura
+
+def ha_registro(lingua):
+    """Vero se la lingua ha i propri testi normativi (Costituzione, Codici, Allegati)."""
+    return bool(glob.glob(os.path.join(TESTI, lingua["codice"], lingua["dir_registro"], "*.md")))
+
+
+def lingua_regole(lingua):
+    """La lingua in cui si leggono le regole: la propria, oppure quella indicata in «regole_da»."""
+    return lingua if ha_registro(lingua) else LINGUE[lingua["regole_da"]]
+
+
+def dir_regole(lingua):
+    """Cartella delle regole, relativa alla radice della lingua."""
+    lr = lingua_regole(lingua)
+    if lr is lingua:
+        return lingua["dir_registro"]
+    return "../" * lingua["prefisso"].count("/") + lr["prefisso"] + lr["dir_registro"]
+
 
 def leggi(percorso):
     """Restituisce (metadati, corpo) di un file Markdown con intestazione."""
@@ -494,11 +637,11 @@ def inserisci_figure(corpo, lingua):
     return re.sub(r"<!--\s*figura:\s*(\w+)\s*-->", lambda m: FIGURE[m.group(1)](lingua), corpo)
 
 
-def pagina(lingua, titolo, descrizione, corpo, profondita, sezione="", gemella=""):
+def pagina(lingua, titolo, descrizione, corpo, profondita, sezione="", gemelle=None):
     """Avvolge il corpo nella pagina completa.
 
     profondita: quante cartelle separano la pagina dalla radice della lingua (0 o 1).
-    gemella:    indirizzo, relativo alla radice del sito, della stessa pagina nell'altra lingua.
+    gemelle:    per ogni altra lingua, l'indirizzo (relativo alla radice del sito) della stessa pagina.
     """
     t = lingua["t"]
     radice = "../" * profondita                                   # radice della lingua
@@ -508,8 +651,8 @@ def pagina(lingua, titolo, descrizione, corpo, profondita, sezione="", gemella="
         attuale = ' aria-current="page"' if chiave == sezione else ""
         return '<a href="%s%s"%s>%s</a>' % (radice, indirizzo, attuale, nome)
 
-    cambio = ('<a class="lingua" href="%s%s" lang="%s" hreflang="%s">%s</a>'
-              % (base, gemella, lingua["altra"], lingua["altra"], lingua["nome_altra"])) if gemella else ""
+    cambio = "".join('<a class="lingua" href="%s%s" lang="%s" hreflang="%s">%s</a>'
+                     % (base, indirizzo, c, c, LINGUE[c]["nome_lingua"]) for c, indirizzo in (gemelle or {}).items())
     deposito = (' · <a href="%s">%s</a>' % (html.escape(REPOSITORY), t["repository"])) if REPOSITORY else ""
     avviso = ('<p class="avviso" role="note">%s</p>' % t["avviso"]) if t["avviso"] else ""
     licenza = '<a href="%s">%s</a>' % (lingua["licenza_url"], LICENZA)
@@ -549,11 +692,11 @@ def pagina(lingua, titolo, descrizione, corpo, profondita, sezione="", gemella="
                       '\n<meta name="twitter:card" content="summary_large_image">'
                       % (html.escape(titolo), html.escape(descrizione), SITO_URL)) if SITO_URL else "",
            salta=t["salta"], sezioni=t["sezioni"], cambio=cambio, avviso=avviso,
-           piede=piede, reg=lingua["dir_registro"], pmod=lingua["pag_modifiche"],
+           piede=piede, reg=dir_regole(lingua), pmod=lingua_regole(lingua)["pag_modifiche"],
            pcon=lingua["pag_contribuire"], modifiche=t["modifiche"], come=t["come_contribuire"],
            deposito=deposito,
            v1=voce(t["percorso"], "index.html#percorso", "percorso"),
-           v2=voce(t["registro"], lingua["dir_registro"] + "/index.html", "registro"),
+           v2=voce(t["registro"], dir_regole(lingua) + "/index.html", "registro"),
            v3=voce(t["contribuire"], lingua["pag_contribuire"], "contribuire"))
 
 
@@ -585,25 +728,32 @@ def carica(lingua):
     return percorso, registro
 
 
-def costruisci_lingua(lingua, altra):
-    """Costruisce tutte le pagine di una lingua. `altra` serve per i collegamenti tra le due versioni."""
+def costruisci_lingua(lingua, altre):
+    """Costruisce tutte le pagine di una lingua. `altre` sono le altre lingue presenti, per i collegamenti tra le versioni."""
     t = lingua["t"]
     nome = lingua["nome"]
     percorso, registro = carica(lingua)
-    # indirizzi delle pagine gemelle nell'altra lingua, per identificativo comune
-    gemelle = {}
-    if altra:
+    proprie = bool(registro)                     # la lingua ha le proprie regole?
+    lreg = lingua_regole(lingua)
+    if not proprie:
+        registro = carica(lreg)[1]               # servono solo per i conteggi e i collegamenti
+    # indirizzi delle pagine gemelle nelle altre lingue, per identificativo comune
+    tavole = {}
+    for altra in altre:
         p2, r2 = carica(altra)
+        tavola = {}
         for meta, _ in p2:
-            gemelle[meta["id"]] = "%s%s/%s.html" % (altra["prefisso"], altra["dir_percorso"], meta["slug"])
+            tavola[meta["id"]] = "%s%s/%s.html" % (altra["prefisso"], altra["dir_percorso"], meta["slug"])
         for meta, _ in r2:
-            gemelle[meta["id"]] = "%s%s/%s.html" % (altra["prefisso"], altra["dir_registro"], meta["slug"])
-    def gemella(chiave, predefinita=""):
-        if not altra:
-            return ""
-        return gemelle.get(chiave, predefinita)
+            tavola[meta["id"]] = "%s%s/%s.html" % (altra["prefisso"], altra["dir_registro"], meta["slug"])
+        tavole[altra["codice"]] = tavola
+
+    def gemelle(chiave="", predefinite=None):
+        """La stessa pagina nelle altre lingue; dove non esiste, la pagina iniziale di quella lingua."""
+        return dict((a["codice"], tavole[a["codice"]].get(chiave) or (predefinite or {}).get(a["codice"])
+                     or "%sindex.html" % a["prefisso"]) for a in altre)
     costituzione = next(m for m, _ in registro if m["gruppo"] == "costituzione")
-    dp, dr = lingua["dir_percorso"], lingua["dir_registro"]
+    dp, dr = lingua["dir_percorso"], dir_regole(lingua)
 
     # --- capitoli del percorso
     for i, (meta, testo) in enumerate(percorso):
@@ -638,10 +788,10 @@ def costruisci_lingua(lingua, altra):
                      seguito=seguito, prima=prima, scarica=scaricabili(lingua, meta["slug"], 1))
         scrivi(lingua, "%s/%s.html" % (dp, meta["slug"]),
                pagina(lingua, "%s — %s" % (meta["titolo"], nome), meta["sintesi"], contenuto, 1, "percorso",
-                      gemella(meta["id"])))
+                      gemelle(meta["id"])))
 
-    # --- testi del registro
-    for meta, testo in registro:
+    # --- testi del registro (solo se la lingua ha le proprie regole)
+    for meta, testo in (registro if proprie else []):
         sommario, corpo = pandoc(abbassa_titoli(testo), indice=True, etichetta=t["indice_aria"])
         dettagli = ""
         if meta.get("allineamento"):
@@ -672,7 +822,7 @@ def costruisci_lingua(lingua, altra):
         scrivi(lingua, "%s/%s.html" % (dr, meta["slug"]),
                pagina(lingua, "%s — %s" % (meta["breve"], nome),
                       "%s, %s %s." % (meta["breve"], t["versione"], meta["versione"]),
-                      contenuto, 1, "registro", gemella(meta["id"])))
+                      contenuto, 1, "registro", gemelle(meta["id"])))
 
     # --- indice del registro
     def elenco(gruppo):
@@ -696,17 +846,22 @@ def costruisci_lingua(lingua, altra):
 </section>""" % (t["registro"], t["reg_sotto"].format(mod=lingua["pag_modifiche"]), t["bozza"], t["h_cost"],
                  elenco("costituzione"), t["h_codici"], elenco("codici"), t["h_allegati"], elenco("allegati"),
                  t["h_come"], t["come"])
-    scrivi(lingua, "%s/index.html" % dr,
-           pagina(lingua, "%s — %s" % (t["registro"], nome), t["desc_reg"], contenuto, 1, "registro",
-                  gemella("", "%s%s/index.html" % (altra["prefisso"], altra["dir_registro"]) if altra else "")))
+    if proprie:
+        scrivi(lingua, "%s/index.html" % dr,
+               pagina(lingua, "%s — %s" % (t["registro"], nome), t["desc_reg"], contenuto, 1, "registro",
+                      gemelle("", dict((a["codice"], "%s%s/index.html" % (a["prefisso"], a["dir_registro"]))
+                                       for a in altre if ha_registro(a)))))
 
     # --- pagine di servizio: modifiche, contribuire
-    servizio = (
-        (lingua["md_modifiche"], "%s/%s" % (dr, lingua["pag_modifiche"]), t["modifiche"], 1, "registro",
-         "%s%s/%s" % (altra["prefisso"], altra["dir_registro"], altra["pag_modifiche"]) if altra else ""),
+    servizio = [
         (lingua["md_contribuire"], lingua["pag_contribuire"], t["come_contribuire"], 0, "contribuire",
-         "%s%s" % (altra["prefisso"], altra["pag_contribuire"]) if altra else ""),
-    )
+         dict((a["codice"], "%s%s" % (a["prefisso"], a["pag_contribuire"])) for a in altre)),
+    ]
+    if proprie:
+        servizio.append(
+            (lingua["md_modifiche"], "%s/%s" % (dr, lingua["pag_modifiche"]), t["modifiche"], 1, "registro",
+             dict((a["codice"], "%s%s/%s" % (a["prefisso"], a["dir_registro"], a["pag_modifiche"]))
+                  for a in altre if ha_registro(a))))
     for origine, destinazione, titolo, profondita, sezione, gem in servizio:
         testo = open(os.path.join(RADICE, origine), encoding="utf-8").read()
         testo = re.sub(r"\A# .*\n", "", testo)
@@ -714,7 +869,7 @@ def costruisci_lingua(lingua, altra):
         contenuto = ('<article class="foglio"><header class="apertura"><h1>%s</h1></header>'
                      '<div class="prosa">%s</div></article>' % (titolo, corpo))
         scrivi(lingua, destinazione,
-               pagina(lingua, "%s — %s" % (titolo, nome), titolo + ".", contenuto, profondita, sezione, gem))
+               pagina(lingua, "%s — %s" % (titolo, nome), titolo + ".", contenuto, profondita, sezione, gemelle("", gem)))
 
     # --- pagina iniziale
     passi = "\n".join(
@@ -789,21 +944,18 @@ def costruisci_lingua(lingua, altra):
         h_percorso=t["h_percorso"], guida_percorso=t["guida_percorso"], passi=passi, h_regole=t["h_regole"],
         guida_regole=t["guida_regole"], cost=costituzione["slug"], h_cost=t["h_cost"],
         vcost=costituzione["versione"], codall=t["codici_allegati"].format(nc=nc, na=na),
-        registro=t["registro"].lower(), pmod=lingua["pag_modifiche"], modifiche=t["modifiche"],
+        registro=t["registro"].lower(), pmod=lreg["pag_modifiche"], modifiche=t["modifiche"],
         storico=t["storico"], h_aperto=t["h_aperto"], h_stato=t["h_stato"], stato=t["stato"], bozza=t["bozza"],
         h_licenza=t["h_licenza"], licenza=t["licenza"].format(lic=licenza, licp=licenza_p), contribuire=t["contribuire"],
         ctesto=t["contribuire_testo"], pcon=lingua["pag_contribuire"], come=t["come_contribuire"])
     scrivi(lingua, "index.html",
-           pagina(lingua, nome, t["desc_home"], contenuto, 0, "",
-                  gemella("", "%sindex.html" % altra["prefisso"] if altra else "")))
+           pagina(lingua, nome, t["desc_home"], contenuto, 0, "", gemelle()))
 
 
 def costruisci():
     presenti = [c for c in LINGUE if os.path.isdir(os.path.join(TESTI, c))]
     for codice in presenti:
-        lingua = LINGUE[codice]
-        altra = LINGUE[lingua["altra"]] if lingua["altra"] in presenti else None
-        costruisci_lingua(lingua, altra)
+        costruisci_lingua(LINGUE[codice], [LINGUE[c] for c in presenti if c != codice])
     # foglio di stile e file che evita l'elaborazione Jekyll su alcuni servizi
     os.makedirs(os.path.join(SITO_DIR, "assets"), exist_ok=True)
     shutil.copy(os.path.join(RADICE, "strumenti", "stile.css"), os.path.join(SITO_DIR, "assets", "stile.css"))

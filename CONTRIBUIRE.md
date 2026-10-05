@@ -9,7 +9,7 @@ Il Progetto dei Cerchi è pubblico perché nessuno possiede da solo le conoscenz
 3. **Contraddizioni e rinvii.** Un articolo che ne contraddice un altro, un rinvio che porta al comma sbagliato, un termine usato in due sensi.
 4. **Numeri.** Molti parametri sono proposte iniziali, elencate nel registro delle modifiche come «da confermare». Dati ed esperienze che li confermino o li smentiscano sono utili.
 5. **Chiarezza.** Frasi oscure, passaggi che un lettore non esperto non riesce a seguire.
-6. **Traduzione.** La versione inglese è una traduzione di lavoro. Sono benvenute le correzioni di madrelingua, meglio se con formazione giuridica, e le traduzioni delle regole in altre lingue. Il testo che fa fede è quello italiano; i termini sono fissati in `testi/en/GLOSSARY.md`.
+6. **Traduzione.** Le versioni inglese e spagnola sono traduzioni di lavoro; quella spagnola comprende per ora solo il percorso. Sono benvenute le correzioni di madrelingua, meglio se con formazione giuridica, e le traduzioni delle regole in altre lingue. Il testo che fa fede è quello italiano; i termini sono fissati in `testi/en/GLOSSARY.md` e in `testi/es/GLOSARIO.md`.
 
 ## Come fare una segnalazione
 

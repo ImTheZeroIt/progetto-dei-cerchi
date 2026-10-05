@@ -1,8 +1,8 @@
 # The Circles Project
 
-*[Versione italiana](README.md)*
+*[Versione italiana](README.md) · [Versión española](README.es.md)*
 
-**Website:** <https://imthezeroit.github.io/progetto-dei-cerchi/en/> — all the texts, laid out for reading, in Italian and in English. To see in one minute what this is about: [In one minute](https://imthezeroit.github.io/progetto-dei-cerchi/en/#minuto).
+**Website:** <https://imthezeroit.github.io/progetto-dei-cerchi/en/> — all the texts, laid out for reading, in Italian and in English; the path also in Spanish. To see in one minute what this is about: [In one minute](https://imthezeroit.github.io/progetto-dei-cerchi/en/#minuto).
 
 An open proposal for an alternative to the way we organise collective life today.
 
@@ -59,7 +59,8 @@ Every change is recorded and explained in the [change log](CHANGELOG.md).
 |---|---|
 | `testi/it/` | the Italian texts (authoritative), in Markdown |
 | `testi/en/` | the English translation and its glossary |
-| `docs/` | the website, generated from the texts: Italian in `docs/`, English in `docs/en/`, with PDF and ODT downloads |
+| `testi/es/` | the Spanish translation of the four texts of the path, and its glossary |
+| `docs/` | the website, generated from the texts: Italian in `docs/`, English in `docs/en/`, Spanish in `docs/es/`, with PDF and ODT downloads |
 | `strumenti/` | the program that generates the website, and its style sheet |
 
 To rebuild the website after changing a text you need Python 3 and [pandoc](https://pandoc.org):

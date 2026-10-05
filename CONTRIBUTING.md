@@ -9,7 +9,7 @@ The Circles Project is public because no one holds, alone, the knowledge needed 
 3. **Contradictions and cross-references.** An article that contradicts another, a reference that leads to the wrong paragraph, a term used in two senses.
 4. **Numbers.** Many parameters are initial proposals, listed in the change log as “to be confirmed”. Data and experience that confirm or refute them are useful.
 5. **Clarity.** Obscure sentences, passages that a non-expert reader cannot follow.
-6. **Translation.** The English version is a working translation. Corrections by native speakers, especially with legal training, are welcome, as are translations of the rules into other languages. The Italian text is the authoritative one; the terminology is fixed in `testi/en/GLOSSARY.md`.
+6. **Translation.** The English and Spanish versions are working translations; the Spanish one covers only the path for now. Corrections by native speakers, especially with legal training, are welcome, as are translations of the rules into other languages. The Italian text is the authoritative one; the terminology is fixed in `testi/en/GLOSSARY.md` and in `testi/es/GLOSARIO.md`.
 
 ## How to report something
 
