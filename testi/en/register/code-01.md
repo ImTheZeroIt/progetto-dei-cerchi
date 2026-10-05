@@ -742,5 +742,3 @@ The derogation shall be reasoned and recorded. Where it entails a travel assignm
 3.  For the same period the person is entitled to the Bridge House allocation: accommodation in a Bridge House, access to the Basket and the means necessary to move personal effects, in accordance with Code 11. The provision does not require CdR.
 4.  The Community of destination shall assign a dwelling for use according to availability. Until the assignment, hospitality continues pursuant to Article 12.3 of the Constitution. If availability is lacking, Circle 2 shall assist in the search for another placement.
 5.  Relocation shall not give rise to annotations or prejudicial consequences for the person.
-
-## 

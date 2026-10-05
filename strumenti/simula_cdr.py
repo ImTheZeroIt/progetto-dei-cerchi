@@ -8,7 +8,15 @@ Rifà i conti della bozza della tabella pubblica del CdR (bozze/tabella-cdr.md):
 
 Regole simulate (Cod. 1, art. 44): un CdR conserva il valore pieno per dodici mesi, poi perde un quarto del
 valore iniziale ogni trimestre e si estingue alla fine del ventiquattresimo mese; il saldo non supera il tetto.
+
+Il testo ammette tre letture del modo in cui il valore scende (vedi LETTURE). La simulazione usa quella
+graduale: dal compimento del dodicesimo mese il valore scende in proporzione al tempo, un dodicesimo al mese,
+fino a zero al compimento del ventiquattresimo. È la sola che rispetta sia i dodici mesi pieni sia
+l'estinzione al ventiquattresimo, ed è la lettura della proposta di modifica 9. Per provare le altre basta
+cambiare LETTURA.
 """
+
+LETTURA = "graduale"         # "graduale", "fine trimestre" oppure "inizio trimestre"
 
 TETTO = 240                  # Cod. 1, art. 44, c. 2 (prima applicazione)
 SETTIMANE_PER_MESE = 52 / 12
@@ -38,21 +46,28 @@ def ore_caffe():
     return 251.4 * 7 / 4225 * 6 * 1.19
 
 
-def valore(mesi):
-    """Quota del valore iniziale rimasta a un CdR maturato da `mesi` mesi compiuti.
+def valore(mesi, lettura=None):
+    """Quota del valore iniziale di un CdR maturato da `mesi` mesi compiuti, in media durante il mese seguente.
 
-    Il testo non dice quando avviene la prima riduzione. Qui cade alla fine del quindicesimo mese,
-    l'unica lettura per cui il CdR si estingue «al termine del ventiquattresimo mese».
+    graduale:         pieno per dodici mesi, poi scende in proporzione al tempo; zero al compimento del 24°.
+    fine trimestre:   pieno per quindici mesi, poi 75%, 50%, 25%; zero al 24°.
+    inizio trimestre: pieno per dodici mesi, poi 75%, 50%, 25%; zero al 21°.
     """
-    if mesi < 15:
+    lettura = lettura or LETTURA
+    if lettura == "graduale":
+        return 1.0 if mesi < 12 else max(0.0, (23.5 - mesi) / 12)
+    passo = 15 if lettura == "fine trimestre" else 12
+    if mesi < passo:
         return 1.0
-    if mesi < 18:
-        return 0.75
-    if mesi < 21:
-        return 0.5
-    if mesi < 24:
-        return 0.25
-    return 0.0
+    return max(0.0, 0.75 - 0.25 * ((mesi - passo) // 3))
+
+
+def valore_al_compimento(mesi):
+    """Lettura graduale: valore esatto al compimento di `mesi` mesi."""
+    return 1.0 if mesi <= 12 else max(0.0, (24 - mesi) / 12)
+
+
+LETTURE = ("graduale", "fine trimestre", "inizio trimestre")
 
 
 def saldo(cdr_al_mese, mesi, tetto=TETTO):
@@ -76,8 +91,14 @@ def mesi_al_tetto(cdr_al_mese):
 
 
 def stampa():
+    print("Le tre letture dell'art. 44, c. 3: mesi di maturazione conservati a regime e ore a settimana per il tetto")
+    for lettura in LETTURE:
+        f = sum(valore(m, lettura) for m in range(24))
+        print("  %-17s %4.1f mesi; tetto con %.1f ore a settimana%s"
+              % (lettura, f, TETTO / f / SETTIMANE_PER_MESE, "   <- usata qui" if lettura == LETTURA else ""))
     fattore = sum(valore(m) for m in range(24))
-    print("Curva: valore pieno per 15 mesi, poi 75%, 50%, 25%, zero al 24° mese")
+    print("\nLettura graduale, valore al compimento dei mesi: %s"
+          % ", ".join("%d: %.0f%%" % (m, 100 * valore_al_compimento(m)) for m in (12, 15, 18, 21, 24)))
     print("A regime, chi non impiega mai i CdR ne conserva %.1f mesi di maturazione" % fattore)
     soglia = TETTO / fattore
     print("Il tetto di %d si raggiunge maturando %.1f CdR al mese: %.1f ore a settimana oltre il CBO"

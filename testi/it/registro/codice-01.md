@@ -742,5 +742,3 @@ La deroga è motivata e registrata. Quando comporta una trasferta, si applica la
 3.  Per lo stesso periodo la persona ha diritto alla dotazione di Casa Ponte: alloggio in una Casa Ponte, accesso al Paniere e mezzi necessari al trasferimento degli effetti personali, secondo il Codice 11. La dotazione non richiede CdR.
 4.  La Comunità di destinazione assegna un alloggio d’uso secondo la disponibilità. Fino all’assegnazione l’ospitalità prosegue ai sensi dell’articolo 12.3 della Costituzione. Se la disponibilità manca, il Cerchio 2 assiste nella ricerca di un’altra collocazione.
 5.  La ricollocazione non può produrre annotazioni o conseguenze pregiudizievoli per la persona.
-
-## 

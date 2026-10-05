@@ -26,6 +26,8 @@ import shutil
 import subprocess
 import sys
 
+import ricerca
+
 RADICE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TESTI = os.path.join(RADICE, "testi")
 SITO_DIR = os.path.join(RADICE, "docs")
@@ -60,7 +62,13 @@ BOZZE = [
          titolo="Tabella pubblica del CdR", nota="bozza 0.1"),
     dict(md="PROPOSTE.md", pagina="proposte.html",
          titolo="Proposte di modifica aperte", nota="in discussione", classe=""),
+    dict(md="VERIFICA-PROPOSTE.md", pagina="verifica-proposte.html",
+         titolo="Verifica contraria delle proposte", nota="sulla versione 1", classe=""),
 ]
+
+
+# Ancore degli articoli, per lingua: servono a controllare i richiami delle domande frequenti.
+ANCORE = {}
 
 
 def segnalazioni(tipo):
@@ -145,8 +153,7 @@ LINGUE = {
             minuto=[
                 ("Che cos’è", "Una proposta di organizzazione sociale scritta per intero: una Costituzione, 16 Codici "
                               "e 4 Allegati. Non è in vigore da nessuna parte."),
-                ("È comunismo?", "Qui non ci sono Stato, partito né potere centrale. Si entra per scelta e si esce per "
-                                 "scelta. Ciò che è personale resta personale, e chi contribuisce di più è "
+                ("È comunismo?", "Qui non ci sono Stato, partito né potere centrale. Si entra per scelta e si esce quando si vuole; chi vi cresce è chiamato a scegliere a diciotto anni. Ciò che è personale resta personale, e chi contribuisce di più è "
                                  "riconosciuto. Il progetto non nasce da un’ideologia, ma dalla logica e dal buon "
                                  "senso. Non chiede di aderire a un’etichetta: chiede di essere giudicato sulle "
                                  "regole."),
@@ -155,19 +162,17 @@ LINGUE = {
                                  "entrarvi né scioglierlo, se non per proteggere una persona. I Nuclei formano "
                                  "Comunità di base da 30 a 500 persone, che decidono in assemblea: ognuno vota "
                                  "per sé. Le Comunità si federano in cerchi più ampi, fino al pianeta, che "
-                                 "coordinano e non comandano. Gli incarichi si sorteggiano tra volontari, durano "
-                                 "poco e non si ripetono di seguito."),
+                                 "coordinano e non comandano. Gli incarichi si sorteggiano tra volontari, hanno durata limitata e non si ripetono di seguito."),
                 ("Che cosa garantisce", "A ogni membro casa, cibo, acqua, energia, cure, istruzione e connessione: "
                                         "non sono il compenso del lavoro. I beni si prendono dai Magazzini comuni "
-                                        "secondo il bisogno; il denaro è abolito. Terra, acqua, energia e mezzi di "
+                                        "secondo il bisogno. Tra i membri il denaro è abolito: resta solo in Casse comuni, per i rapporti con l’esterno. Terra, acqua, energia e mezzi di "
                                         "produzione sono beni comuni, che non si comprano e non si vendono. Restano "
                                         "personali la casa in uso e i propri oggetti."),
                 ("Che cosa chiede", "A ogni adulto che può, una quota a rotazione del lavoro necessario a tutti. E la "
                                     "rinuncia alla proprietà privata dei mezzi di produzione, all’accumulo, alle "
                                     "armi e allo sfruttamento degli animali, macellazione compresa. Chi non ci sta "
                                     "può uscire in qualsiasi momento e chiedere di rientrare."),
-                ("E le macchine?", "Robot e automazioni sono mezzi di produzione comuni: non appartengono a nessuno. "
-                                   "Servono prima di tutto dove il lavoro è pericoloso o usurante. Il tempo che "
+                ("E le macchine?", "Macchine e automazione sono beni comuni: non appartengono a nessuno. Servono prima di tutto dove il lavoro è ripetitivo, usurante o pericoloso. Il tempo che "
                                    "liberano resta alla Comunità: tempo libero, apprendimento, cura. L’IA calcola e propone, ma non decide: ogni decisione resta alle persone, e "
                                    "la cura delle persone non si automatizza."),
                 ("Che cosa non sappiamo", "Se funziona. Nessuna comunità l’ha ancora messa alla prova. Molte soglie e "
@@ -285,8 +290,7 @@ LINGUE = {
             minuto=[
                 ("What it is", "A proposal for organising society, written out in full: a Constitution, 16 Codes and "
                                "4 Annexes. It is not in force anywhere."),
-                ("Is it communism?", "Here there is no State, no party and no central power. People join by choice and "
-                                     "leave by choice. What is personal stays personal, and those who contribute more are "
+                ("Is it communism?", "Here there is no State, no party and no central power. People join by choice and can leave whenever they wish; those who grow up in it are called to choose at eighteen. What is personal stays personal, and those who contribute more are "
                                      "recognised. The project does not come from an ideology, but from logic and common "
                                      "sense. It does not ask anyone to sign up to a label: it asks to be judged on its "
                                      "rules."),
@@ -295,19 +299,17 @@ LINGUE = {
                                     "cannot enter it or dissolve it, except to protect a person. Nuclei form Base "
                                     "Communities of 30 to 500 people, which decide in assembly: everyone votes for "
                                     "themselves. Communities federate into wider circles, up to the planet, which "
-                                    "coordinate and do not command. Roles are assigned by lot among volunteers, "
-                                    "last a short time and cannot be held twice in a row."),
+                                    "coordinate and do not command. Roles are assigned by lot among volunteers, are of limited duration and cannot be held twice in a row."),
                 ("What it guarantees", "To every member a home, food, water, energy, health care, education and "
                                        "connectivity: these are not payment for work. Goods are taken from the "
-                                       "Common Storehouses according to need; money is abolished. Land, water, "
+                                       "Common Storehouses according to need. Among members money is abolished: it remains only in Common Funds, for dealings with the outside world. Land, water, "
                                        "energy and the means of production are commons, which cannot be bought or "
                                        "sold. The home one lives in and one’s own belongings remain personal."),
                 ("What it asks", "Of every adult who is able, a rotating share of the work everyone needs. And "
                                  "giving up private ownership of the means of production, accumulation, weapons "
                                  "and the exploitation of animals, slaughter included. Anyone who does not agree "
                                  "can leave at any time and ask to come back."),
-                ("And the machines?", "Robots and automation are common means of production: they belong to no one. They "
-                                      "are used first of all where work is dangerous or arduous. The time they free stays "
+                ("And the machines?", "Machines and automation are commons: they belong to no one. They are used first of all where work is repetitive, arduous or dangerous. The time they free stays "
                                       "with the Community: free time, learning, care. AI "
                                       "calculates and proposes, but does not decide: every decision stays with people, and "
                                       "the care of people is not automated."),
@@ -426,8 +428,7 @@ LINGUE = {
             minuto=[
                 ("Qué es", "Una propuesta de organización social escrita por entero: una Constitución, 16 Códigos y "
                            "4 Anexos. No está en vigor en ninguna parte."),
-                ("¿Es comunismo?", "Aquí no hay Estado, ni partido, ni poder central. Se entra por elección y se sale "
-                                   "por elección. Lo personal sigue siendo personal, y a quien contribuye más se le "
+                ("¿Es comunismo?", "Aquí no hay Estado, ni partido, ni poder central. Se entra por elección y se sale cuando se quiere; quien crece en ella está llamado a elegir a los dieciocho años. Lo personal sigue siendo personal, y a quien contribuye más se le "
                                    "reconoce. El proyecto no nace de una ideología, sino de la lógica y del sentido "
                                    "común. No pide adherirse a una etiqueta: pide ser juzgado por sus reglas."),
                 ("Cómo está hecha", "Se parte de la persona. Cada cual vive en un Núcleo de Cuidado (Círculo 0): solo, "
@@ -435,19 +436,17 @@ LINGUE = {
                                     "entrar en él ni disolverlo, salvo para proteger a una persona. Los Núcleos "
                                     "forman Comunidades de base de 30 a 500 personas, que deciden en asamblea: cada "
                                     "cual vota por sí mismo. Las Comunidades se federan en círculos más amplios, "
-                                    "hasta el planeta, que coordinan y no mandan. Los cargos se asignan por sorteo "
-                                    "entre voluntarios, duran poco y no se repiten de forma consecutiva."),
+                                    "hasta el planeta, que coordinan y no mandan. Los cargos se asignan por sorteo entre voluntarios, tienen duración limitada y no se repiten de forma consecutiva."),
                 ("Qué garantiza", "A cada miembro vivienda, alimentos, agua, energía, atención sanitaria, educación "
                                   "y conexión: no son la retribución del trabajo. Los bienes se toman de los Almacenes "
-                                  "comunes según la necesidad; el dinero queda abolido. Tierra, agua, energía y "
+                                  "comunes según la necesidad. Entre los miembros el dinero queda abolido: solo permanece en Cajas comunes, para las relaciones con el exterior. Tierra, agua, energía y "
                                   "medios de producción son bienes comunes, que no se compran ni se venden. Siguen "
                                   "siendo personales la vivienda en uso y los objetos propios."),
                 ("Qué pide", "A cada adulto que pueda, una parte por rotación del trabajo necesario para todos. Y la "
                              "renuncia a la propiedad privada de los medios de producción, a la acumulación, a las "
                              "armas y a la explotación de los animales, incluido su sacrificio. Quien no esté de "
                              "acuerdo puede salir en cualquier momento y pedir volver."),
-                ("¿Y las máquinas?", "Robots y automatizaciones son medios de producción comunes: no pertenecen a nadie. "
-                                     "Sirven ante todo donde el trabajo es peligroso o penoso. El tiempo que liberan "
+                ("¿Y las máquinas?", "Máquinas y automatización son bienes comunes: no pertenecen a nadie. Sirven ante todo donde el trabajo es repetitivo, penoso o peligroso. El tiempo que liberan "
                                      "queda en la Comunidad: tiempo libre, aprendizaje, cuidado. "
                                      "La IA calcula y propone, pero no decide: toda decisión queda en manos de las "
                                      "personas, y el cuidado de las personas no se automatiza."),
@@ -498,6 +497,11 @@ LINGUE = {
 def ha_registro(lingua):
     """Vero se la lingua ha i propri testi normativi (Costituzione, Codici, Allegati)."""
     return bool(glob.glob(os.path.join(TESTI, lingua["codice"], lingua["dir_registro"], "*.md")))
+
+
+def ha_domande(lingua):
+    """Vero se la lingua ha il proprio file di domande frequenti."""
+    return os.path.exists(os.path.join(RADICE, ricerca.LINGUE[lingua["codice"]]["md"]))
 
 
 def lingua_regole(lingua):
@@ -751,7 +755,7 @@ def pagina(lingua, titolo, descrizione, corpo, profondita, sezione="", gemelle=N
 <a class="salta" href="#contenuto">%(salta)s</a>
 <header class="testata">
   <a class="marchio" href="%(radice)sindex.html">%(logo)s<span>%(nome)s</span></a>
-  <nav aria-label="%(sezioni)s">%(v1)s%(v2)s%(v3)s%(cambio)s</nav>
+  <nav aria-label="%(sezioni)s">%(v1)s%(v2)s%(v4)s%(v3)s%(cambio)s</nav>
 </header>
 %(avviso)s
 <main id="contenuto">
@@ -775,7 +779,9 @@ def pagina(lingua, titolo, descrizione, corpo, profondita, sezione="", gemelle=N
            deposito=deposito,
            v1=voce(t["percorso"], "index.html#percorso", "percorso"),
            v2=voce(t["registro"], dir_regole(lingua) + "/index.html", "registro"),
-           v3=voce(t["contribuire"], lingua["pag_contribuire"], "contribuire"))
+           v3=voce(t["contribuire"], lingua["pag_contribuire"], "contribuire"),
+           v4=voce(ricerca.LINGUE[lingua["codice"]]["voce"], ricerca.LINGUE[lingua["codice"]]["pagina"], "domande")
+           if ha_domande(lingua) else "")
 
 
 def scrivi(lingua, relativo, contenuto):
@@ -832,10 +838,19 @@ def costruisci_lingua(lingua, altre):
                      or "%sindex.html" % a["prefisso"]) for a in altre)
     costituzione = next(m for m, _ in registro if m["gruppo"] == "costituzione")
     dp, dr = lingua["dir_percorso"], dir_regole(lingua)
+    documenti = []                               # per la ricerca: (titolo, indirizzo, unità)
+    ancore = ANCORE.setdefault(lingua["codice"], {})
+
+    def indicizza(titolo, indirizzo, markdown, corpo, cost=False, peso=1.0):
+        try:
+            documenti.append((titolo, indirizzo, ricerca.unita(markdown, corpo, cost), peso))
+        except ValueError as errore:
+            print("  ricerca: %s non indicizzato (%s)" % (indirizzo, errore))
 
     # --- capitoli del percorso
     for i, (meta, testo) in enumerate(percorso):
         _, corpo = pandoc(testo)
+        indicizza(meta["titolo"], "%s/%s.html" % (dp, meta["slug"]), testo, corpo, peso=0.7)
         corpo = inserisci_figure(corpo, lingua)
         n, tot = meta["capitolo"], len(percorso)
         if i + 1 < tot:
@@ -871,6 +886,13 @@ def costruisci_lingua(lingua, altre):
     # --- testi del registro (solo se la lingua ha le proprie regole)
     for meta, testo in (registro if proprie else []):
         sommario, corpo = pandoc(abbassa_titoli(testo), indice=True, etichetta=t["indice_aria"])
+        cost = meta["gruppo"] == "costituzione"
+        if cost:
+            corpo = ricerca.ancore_commi(corpo)
+        articoli, commi = ricerca.ancore_articoli(corpo)
+        ancore[meta["id"]] = dict(slug=meta["slug"], articoli=articoli, commi=commi, costituzione=cost)
+        indicizza(meta["breve"], "%s/%s.html" % (dr, meta["slug"]), abbassa_titoli(testo), corpo, cost,
+                  1.2 if cost else 1.0)
         dettagli = ""
         if meta.get("allineamento"):
             dettagli = ('<details class="allineamento"><summary>%s</summary><p>%s</p></details>'
@@ -958,10 +980,31 @@ def costruisci_lingua(lingua, altre):
         testo = open(os.path.join(RADICE, origine), encoding="utf-8").read()
         testo = re.sub(r"\A# .*\n", "", testo)
         _, corpo = pandoc(abbassa_titoli(testo))
+        indicizza(titolo, destinazione, abbassa_titoli(testo), corpo,
+                  peso=0.85 if sezione == "contribuire" else 0.6)        # bozze, proposte, parametri: dopo le regole
         contenuto = ('<article class="foglio%s"><header class="apertura"><h1>%s</h1></header>'
                      '<div class="prosa">%s</div></article>' % (classe, titolo, corpo))
         scrivi(lingua, destinazione,
                pagina(lingua, "%s — %s" % (titolo, nome), titolo + ".", contenuto, profondita, sezione, gemelle("", gem)))
+
+    # --- domande frequenti e ricerca nei testi
+    cerca_home = ""
+    if ha_domande(lingua):
+        rl = ricerca.LINGUE[lingua["codice"]]
+        base_assets = "../" * lingua["prefisso"].count("/")
+        titolo_d, premessa, gruppi = ricerca.leggi_domande(os.path.join(RADICE, rl["md"]),
+                                                           ANCORE[lreg["codice"]], dr)
+        scrivi(lingua, rl["pagina"],
+               pagina(lingua, "%s — %s" % (titolo_d, nome), rl["descrizione"],
+                      ricerca.pagina_domande(lingua["codice"], titolo_d, premessa, gruppi, base_assets,
+                                             lingua["pag_contribuire"]),
+                      0, "domande",
+                      gemelle("", dict((a["codice"], "%s%s" % (a["prefisso"], ricerca.LINGUE[a["codice"]]["pagina"]))
+                                       for a in altre if ha_domande(a)))))
+        os.makedirs(os.path.join(SITO_DIR, "assets"), exist_ok=True)
+        open(os.path.join(SITO_DIR, "assets", "indice-%s.js" % lingua["codice"]), "w", encoding="utf-8").write(
+            ricerca.indice_js(lingua["codice"], documenti, gruppi, lingua["pag_contribuire"]))
+        cerca_home = ricerca.modulo_home(lingua["codice"])
 
     # --- pagina iniziale
     passi = "\n".join(
@@ -988,6 +1031,7 @@ def costruisci_lingua(lingua, altre):
   <dl>
 %(minuto)s
   </dl>
+  %(cerca_home)s
 </section>
 
 <section id="percorso" class="blocco">
@@ -1026,7 +1070,7 @@ def costruisci_lingua(lingua, altre):
     <div><h3>%(contribuire)s</h3><p>%(ctesto)s <a href="%(pcon)s">%(come)s</a>.</p></div>
   </div>
 </section>""" % dict(
-        etichetta=t["etichetta"], domanda=t["domanda"], attacco=t["attacco"], dp=dp, dr=dr,
+        etichetta=t["etichetta"], domanda=t["domanda"], attacco=t["attacco"], dp=dp, dr=dr, cerca_home=cerca_home,
         primo=percorso[0][0]["slug"], comincia=t["comincia"], vai=t["vai_regole"], figura=copertina(lingua),
         h_minuto=t["h_minuto"], url_caso=segnalazioni("caso"), prova_caso=t["prova_caso"], h_prova=t["h_prova"],
         guida_prova=t["guida_prova"],
@@ -1053,6 +1097,7 @@ def costruisci():
     # foglio di stile e file che evita l'elaborazione Jekyll su alcuni servizi
     os.makedirs(os.path.join(SITO_DIR, "assets"), exist_ok=True)
     shutil.copy(os.path.join(RADICE, "strumenti", "stile.css"), os.path.join(SITO_DIR, "assets", "stile.css"))
+    shutil.copy(os.path.join(RADICE, "strumenti", "cerca.js"), os.path.join(SITO_DIR, "assets", "cerca.js"))
     open(os.path.join(SITO_DIR, "assets", "icona.svg"), "w", encoding="utf-8").write(icona())
     anteprima = os.path.join(RADICE, "immagini", "copertina.png")
     if os.path.exists(anteprima):

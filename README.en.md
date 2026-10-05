@@ -51,7 +51,7 @@ Then come the rules.
 
 The Constitution sets out the principles and the general structure. The Codes turn those principles into operating rules. The Technical Annexes develop procedures, criteria and specifications. In case of conflict, the Constitution prevails.
 
-Every change is recorded and explained in the [change log](CHANGELOG.md). The proposed numbers, with their origin and the test each would need, are in the [register of parameters to be verified](PARAMETRI.md) (for now in Italian).
+Every change is recorded and explained in the [change log](CHANGELOG.md). The proposed numbers, with their origin and the test each would need, are in the [register of parameters to be verified](PARAMETRI.md) (for now in Italian). Answers to the most common questions, with references to the articles, are in [QUESTIONS.md](QUESTIONS.md): on the website they become the page [Find an answer](https://imthezeroit.github.io/progetto-dei-cerchi/en/questions.html), which also searches the texts without sending anything outside the browser.
 
 ## How this repository is organised
 
@@ -61,7 +61,7 @@ Every change is recorded and explained in the [change log](CHANGELOG.md). The pr
 | `testi/en/` | the English translation and its glossary |
 | `testi/es/` | the Spanish translation of the four texts of the path, and its glossary |
 | `docs/` | the website, generated from the texts: Italian in `docs/`, English in `docs/en/`, Spanish in `docs/es/`, with PDF and ODT downloads |
-| `strumenti/` | the program that generates the website, and its style sheet |
+| `strumenti/` | the program that generates the website, its style sheet and the search over the texts (`ricerca.py`, `cerca.js`) |
 
 To rebuild the website after changing a text you need Python 3 and [pandoc](https://pandoc.org):
 

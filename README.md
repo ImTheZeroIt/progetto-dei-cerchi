@@ -49,7 +49,7 @@ Poi vengono le regole.
 
 La Costituzione stabilisce i principi e la struttura generale. I Codici trasformano quei principi in regole operative. Gli Allegati tecnici sviluppano procedure, criteri e specifiche. In caso di conflitto prevale la Costituzione.
 
-Ogni modifica è annotata e motivata nel [registro delle modifiche](REGISTRO-DELLE-MODIFICHE.md). I numeri proposti, con la loro origine e la prova che servirebbe per confermarli, sono nel [registro dei parametri da verificare](PARAMETRI.md). Le bozze degli allegati tecnici che i Codici citano e che non sono ancora stati scritti sono nella cartella `bozze/`: per ora l'[Allegato annuale del Paniere di Sufficienza](bozze/allegato-paniere.md) l'[Allegato UCR con il primo bilancio delle ore](bozze/allegato-ucr.md), i cui conti si rifanno con `python3 strumenti/bilancio_ore.py`, e la [tabella pubblica del CdR](bozze/tabella-cdr.md), con la simulazione `python3 strumenti/simula_cdr.py`. Sono bozze di calibrazione, non adottate. Le modifiche di sostanza in discussione sono in [PROPOSTE.md](PROPOSTE.md). Lo storico di questo repository è l'archivio aperto, versionato e replicabile previsto dall'articolo 38.5 della Costituzione.
+Ogni modifica è annotata e motivata nel [registro delle modifiche](REGISTRO-DELLE-MODIFICHE.md). I numeri proposti, con la loro origine e la prova che servirebbe per confermarli, sono nel [registro dei parametri da verificare](PARAMETRI.md). Le bozze degli allegati tecnici che i Codici citano e che non sono ancora stati scritti sono nella cartella `bozze/`: per ora l'[Allegato annuale del Paniere di Sufficienza](bozze/allegato-paniere.md) l'[Allegato UCR con il primo bilancio delle ore](bozze/allegato-ucr.md), i cui conti si rifanno con `python3 strumenti/bilancio_ore.py`, e la [tabella pubblica del CdR](bozze/tabella-cdr.md), con la simulazione `python3 strumenti/simula_cdr.py`. Sono bozze di calibrazione, non adottate. Le modifiche di sostanza in discussione sono in [PROPOSTE.md](PROPOSTE.md). Le risposte alle domande più comuni, con il richiamo agli articoli, sono in [DOMANDE.md](DOMANDE.md): sul sito diventano la pagina [Trova una risposta](https://imthezeroit.github.io/progetto-dei-cerchi/domande.html), che cerca anche dentro i testi senza inviare nulla fuori dal browser. Lo storico di questo repository è l'archivio aperto, versionato e replicabile previsto dall'articolo 38.5 della Costituzione.
 
 ## Come è fatto questo repository
 
@@ -61,7 +61,7 @@ Ogni modifica è annotata e motivata nel [registro delle modifiche](REGISTRO-DEL
 | `testi/es/` | la traduzione spagnola dei quattro testi del percorso |
 | `bozze/` | bozze di calibrazione degli allegati tecnici non ancora adottati |
 | `docs/` | il sito, generato dai testi, in italiano (`docs/`), in inglese (`docs/en/`) e in spagnolo (`docs/es/`); contiene anche le versioni PDF e ODT da scaricare |
-| `strumenti/` | il programma che genera il sito e il suo foglio di stile |
+| `strumenti/` | il programma che genera il sito, il suo foglio di stile e la ricerca nei testi (`ricerca.py`, `cerca.js`) |
 
 Per rigenerare il sito dopo una modifica ai testi servono Python 3 e [pandoc](https://pandoc.org):
 

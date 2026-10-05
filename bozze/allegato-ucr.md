@@ -203,7 +203,7 @@ Un robot è un mezzo di produzione, quindi entra nel conto come ogni altro: le o
 
 Un esempio: una macchina da 60.000 euro che dura quindici anni costa 78 UCR l'anno, 157 se è prodotta per metà dove il lavoro rende meno. Con cinquanta ore di manutenzione sono tra 130 e 210 ore l'anno. Conviene se ne fa risparmiare di più.
 
-Il risparmio non va a chi possiede la macchina, perché nessuno la possiede: il tempo liberato resta alla Comunità, che decide come usarlo (Cod. 7, art. 6, c. 6). La proposta 8 aggiunge che riduce le ore di Contributo di Base di tutti.
+Il risparmio non va a chi possiede la macchina, perché nessuno la possiede: il tempo liberato resta alla Comunità, che decide come usarlo (Cod. 7, art. 6, c. 6). La proposta 8 conferma questa regola anche per i robot.
 
 ### 5.2 Dove serve, ambito per ambito
 
@@ -211,7 +211,7 @@ Il risparmio non va a chi possiede la macchina, perché nessuno la possiede: il 
 |---|---|---|---|
 | Campi | 4.600 | Lavorazione del suolo, semina, irrigazione, diserbo meccanico. Cereali, legumi e girasole sono già quasi del tutto meccanizzati. | La parte più grande del lavoro di oggi: raccolta e cure di frutta secca, ortaggi e frutta. È qui che i robot cambierebbero di più il conto. |
 | Trasformazione del cibo | 1.800 | Mulino, frantoio, impasto, lavaggio, confezionamento | Controllo, ricette, pulizia degli impianti |
-| Miniere, scavi e materie prime | fuori dal conto interno: sta nei manufatti | Scavo, trasporto e frantumazione in ambienti pericolosi. È il primo posto da cui togliere le persone (Cod. 7, art. 6, c. 1; proposta 8). | Progetto, sorveglianza, manutenzione, bonifica. Prima dell'estrazione vengono riuso e riciclo: l'automazione non giustifica estrarre più del fabbisogno (proposte 7 e 8). |
+| Miniere, scavi e materie prime | fuori dal conto interno: sta nei manufatti | Scavo, trasporto e frantumazione in ambienti pericolosi. È il primo posto da cui togliere le persone (Cod. 7, art. 2, c. 6). | Progetto, sorveglianza, manutenzione, bonifica. Prima dell'estrazione vengono riuso e riciclo: oggi nessun testo ammette nuove estrazioni (Cost. 14.2). |
 | Costruzioni e manutenzione | 4.430 | Scavi, movimentazione dei carichi, prefabbricazione, ispezioni in quota | Progetto, finiture, riparazioni su misura |
 | Logistica e Magazzino | 2.560 | Inventario, movimentazione, parte delle consegne | Consegna alle persone fragili, rapporto con chi ritira |
 | Energia e acqua | 3.350 | Misure, regolazione, allarmi: in gran parte è già così | Riparazioni, decisioni sulle priorità |
@@ -219,7 +219,7 @@ Il risparmio non va a chi possiede la macchina, perché nessuno la possiede: il 
 | Cucina collettiva | 4.560 | Attrezzature migliori | Cucinare e servire, nell'ipotesi prudente di questo conto |
 | Cura, sanità, apprendimento, giustizia | 8.600 | Solo strumenti azionati da una persona: sollevatori, ausili, diagnostica | Tutto il resto. Il Codice vieta di automatizzare la cura, la mediazione, la validazione delle competenze e le decisioni di garanzia (Cod. 7, art. 6, c. 2). |
 
-**Le materie prime.** Una Comunità di 150 persone non scava miniere: metalli e minerali arrivano da fuori, dentro i manufatti. Oggi nessun testo regola l'estrazione. Due proposte aperte ([6 e 7](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html)) la ammettono solo come ultima risorsa, dopo riduzione, riuso e riciclo, con il consenso della Comunità ospitante e il ripristino contato prima di cominciare.
+**Le materie prime.** Una Comunità di 150 persone non scava miniere: metalli e minerali arrivano da fuori, dentro i manufatti. La Costituzione vieta ogni attività che provochi un danno irreversibile al suolo e alle acque (art. 14.2): letta alla lettera, vieta ogni nuova miniera. Due proposte aperte ([6 e 7](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html)) qualificano il sottosuolo come bene comune e chiedono a ogni Comunità un inventario di ciò che si può recuperare da edifici, veicoli e discariche. Se e quando ammettere l'estrazione resta una questione aperta.
 
 ### 5.3 Quanto può cambiare il conto
 
@@ -243,7 +243,7 @@ Ogni dieci per cento in meno vale 23 minuti a settimana per ciascuno.
 
 ## 6. Una conseguenza per le soglie del Codice 3
 
-L'articolo 7 del Codice 3 distingue le operazioni di valore basso (sotto 500 UCR), medio (da 500 a 2.500) e alto. Con il coefficiente proposto, 500 UCR corrispondono a circa 25.500 euro di acquisti e allo 0,7% delle ore annue di una Comunità di 150 persone; 2.500 UCR a circa 128.000 euro e al 3,4%. Per una Comunità piccola la soglia bassa potrebbe essere troppo alta: un acquisto da 20.000 euro sarebbe deciso da un Cerchio di Competenza. La [proposta 11](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html) mette le due soglie in proporzione alla dimensione della Comunità: una e cinque UCR per ogni membro, con 500 e 2.500 come massimo.
+L'articolo 7 del Codice 3 distingue le operazioni di valore basso (sotto 500 UCR), medio (da 500 a 2.500) e alto. Con il coefficiente proposto, 500 UCR corrispondono a circa 25.500 euro di acquisti e allo 0,7% delle ore annue di una Comunità di 150 persone; 2.500 UCR a circa 128.000 euro e al 3,4%. Per una Comunità piccola la soglia bassa potrebbe essere troppo alta: un acquisto da 20.000 euro sarebbe deciso da un Cerchio di Competenza. La [proposta 11](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html) lega le due soglie alla dimensione della Comunità: 100 UCR più una per persona, e 500 più cinque per persona, con 500 e 2.500 come massimo.
 
 ## Come si corregge
 

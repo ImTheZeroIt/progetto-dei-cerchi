@@ -265,3 +265,44 @@ circle { fill: none; }
 @media (max-width: 40rem) {
   .minuto dl > div { grid-template-columns: minmax(0, 1fr); }
 }
+
+/* ---------- "Trova una risposta": ricerca nei testi e domande frequenti */
+.cerca-form { margin: 0 0 2rem; }
+.cerca-form label { display: block; font-family: var(--titoli); font-weight: 600; margin-bottom: 0.5rem; }
+.cerca-riga { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+.cerca-riga input {
+  flex: 1 1 14rem; min-width: 0; font: inherit; color: var(--inchiostro); background: var(--carta);
+  border: 1px solid var(--tenue); border-radius: 999px; padding: 0.65rem 1.1rem;
+}
+.cerca-riga input::placeholder { color: var(--tenue); opacity: 0.85; }
+.cerca-riga input:focus-visible { outline: 2px solid var(--accento); outline-offset: 2px; border-color: var(--accento); }
+.cerca-riga button { font: inherit; font-family: var(--titoli); font-weight: 600; border: 0; cursor: pointer; }
+.cerca-nota { font-family: var(--titoli); font-size: 0.88rem; color: var(--tenue); margin: 0.8rem 0 0; }
+.cerca-home { margin: 1.6rem 0 0; max-width: 34rem; }
+.cerca-esito h2 { font-size: 1.25rem; margin: 2rem 0 0.8rem; }
+.risposta-breve { border-left: 3px solid var(--centro); background: var(--carta-2); border-radius: 0 0.5rem 0.5rem 0;
+  padding: 1rem 1.25rem; margin: 0 0 1rem; }
+.risposta-breve h3 { font-size: 1.1rem; margin: 0 0 0.5rem; }
+.risposta-breve p { margin: 0 0 0.7rem; }
+.dove { font-family: var(--titoli); font-size: 0.92rem; margin: 0; }
+.risposta-breve .dove, .risposta .dove { margin-bottom: 0; }
+.dove span { color: var(--tenue); }
+.cerca-conto { font-family: var(--titoli); font-size: 0.9rem; color: var(--tenue); margin: 0 0 0.6rem; }
+.cerca-risultati { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--linea); }
+.cerca-risultati li { padding: 0.9rem 0; border-bottom: 1px solid var(--linea); }
+.cerca-risultati p { margin: 0.35rem 0 0; font-size: 1rem; overflow-wrap: break-word; }
+.dove-titolo { font-family: var(--titoli); font-weight: 600; }
+.cerca-esito mark { background: color-mix(in srgb, var(--centro) 32%, transparent); color: inherit; border-radius: 2px; padding: 0 0.1em; }
+.secondario-bottone { font: inherit; font-family: var(--titoli); color: var(--accento); background: none; border: 1px solid var(--linea);
+  border-radius: 999px; padding: 0.4rem 1rem; cursor: pointer; margin-top: 1rem; }
+.secondario-bottone:hover { border-color: var(--accento); }
+.cerca-vuoto { color: var(--tenue); }
+.cerca-tutte { font-family: var(--titoli); font-size: 0.95rem; margin: 1.6rem 0 0; }
+.frequenti h2 { font-size: 1.6rem; margin: 2.5rem 0 0; }
+.frequenti h3 { font-size: 0.82rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--tenue); margin: 2rem 0 0.4rem; }
+.domanda { border-bottom: 1px solid var(--linea); }
+.domanda summary { cursor: pointer; padding: 0.75rem 0; font-family: var(--titoli); font-weight: 600; font-size: 1.08rem; }
+.domanda summary:hover { color: var(--accento); }
+.domanda .risposta { padding: 0 0 1.1rem; }
+.domanda .risposta p { margin: 0 0 0.7rem; }
+@media print { .cerca-form, .cerca-esito { display: none; } .domanda > .risposta { display: block; } }

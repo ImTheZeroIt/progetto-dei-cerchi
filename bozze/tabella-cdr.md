@@ -2,7 +2,7 @@
 
 **Bozza di calibrazione 0.1, non adottata.** Il Codice 1 (art. 46) chiede a ogni Comunità una tabella pubblica che indichi le maggiorazioni, i limiti del riconoscimento di utilità, il tetto, la decrescenza e il costo in UCR dei beni e dei servizi non necessari. La approva l'Assemblea del Cerchio 1, dentro i parametri che l'Assemblea Generale calibra ogni anno (Cod. 3, art. 14). Questa pagina propone un modello da cui partire e verifica con una simulazione se tetto e decrescenza fanno quello che devono: impedire l'accumulo senza svuotare il riconoscimento.
 
-**La risposta, in breve.** Sì. Con il tetto di 240 CdR la persona più attiva non può superare chi lavora tre ore a settimana oltre il Contributo di Base, e il ventesimo più attivo della Comunità resta sotto la soglia di concentrazione fissata dal Codice. Senza tetto la supererebbe di molto. Restano due punti da chiarire nei testi, indicati in fondo.
+**La risposta, in breve.** Sì. Con il tetto di 240 CdR la persona più attiva non può superare chi lavora poco più di tre ore a settimana oltre il Contributo di Base, e il ventesimo più attivo della Comunità resta sotto la soglia di concentrazione fissata dal Codice. Senza tetto la supererebbe di molto. Restano due punti da chiarire nei testi, indicati in fondo: da uno dipende la curva usata qui.
 
 ## 1. Che cosa il CdR è, in quattro righe
 
@@ -60,17 +60,25 @@ Sono scelte di redazione. Servono a evitare che il riconoscimento premi la popol
 | Estinzione | alla fine del ventiquattresimo mese | Cod. 1, art. 44, c. 3 |
 | Alla morte o all'uscita | i CdR si estinguono | Cod. 1, art. 44, c. 5 |
 
-**La curva, mese per mese.**
+**La curva.** Il testo dice «un quarto ogni trimestre» ma non dice come. Le letture possibili sono tre.
+
+| Lettura | Valore pieno per | Estinzione | Ore a settimana per arrivare al tetto |
+|---|---|---|---|
+| **Graduale: dal dodicesimo mese scende in proporzione al tempo, un dodicesimo al mese** | **12 mesi** | **24° mese** | **3,1** |
+| Tutto il quarto alla fine di ogni trimestre | 15 mesi | 24° mese | 2,8 |
+| Tutto il quarto all'inizio di ogni trimestre | 12 mesi | 21° mese | 3,4 |
+
+Solo la prima rispetta tutte e due le frasi del comma: dodici mesi di valore pieno ed estinzione al ventiquattresimo. È quella usata in questa bozza e proposta nella [proposta di modifica 9](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html). La prima versione di questa pagina usava la seconda, più generosa.
 
 | Mesi dalla maturazione | Valore rimasto |
 |---|---|
-| fino a 15 | 100% |
-| da 15 a 18 | 75% |
-| da 18 a 21 | 50% |
-| da 21 a 24 | 25% |
-| da 24 | zero |
+| fino a 12 | 100% |
+| 15 | 75% |
+| 18 | 50% |
+| 21 | 25% |
+| 24 | zero |
 
-**Che cosa significa.** Chi matura CdR con regolarità e non li usa mai ne conserva, a regime, l'equivalente di 19,5 mesi. Il tetto di 240 si raggiunge quindi maturando 12,3 CdR al mese: 2,8 ore a settimana oltre il CBO. Oltre quella soglia lavorare di più non aumenta il saldo.
+**Che cosa significa.** Chi matura CdR con regolarità e non li usa mai ne conserva, a regime, l'equivalente di 18 mesi. Il tetto di 240 si raggiunge quindi maturando 13,3 CdR al mese: 3,1 ore a settimana oltre il CBO. Oltre quella soglia lavorare di più non aumenta il saldo.
 
 Un CdR vale una UCR, cioè un'ora di lavoro (art. 45, c. 2). Con il coefficiente della bozza dell'Allegato UCR, 240 CdR corrispondono a circa 12.000 euro di beni acquistati fuori, o a sedici settimane di Contributo di Base.
 
@@ -117,14 +125,14 @@ Rispetto alla concentrazione è vicino al massimo che regge. Nella Comunità sim
 
 | Tetto | Si raggiunge lavorando oltre il CBO | Quota di CdR del 5% più attivo |
 |---|---|---|
-| 120 | 1,4 ore a settimana | 12% |
-| 180 | 2,1 ore a settimana | 15% |
-| **240** | **2,8 ore a settimana** | **16%** |
-| 300 | 3,6 ore a settimana | 19% |
-| 360 | 4,3 ore a settimana | 22%: oltre la soglia del Codice |
-| 480 | 5,7 ore a settimana | 27%: oltre la soglia del Codice |
+| 120 | 1,5 ore a settimana | 13% |
+| 180 | 2,3 ore a settimana | 15% |
+| **240** | **3,1 ore a settimana** | **17%** |
+| 300 | 3,8 ore a settimana | 20%: oltre la soglia del Codice |
+| 360 | 4,6 ore a settimana | 24%: oltre la soglia del Codice |
+| 480 | 6,2 ore a settimana | 29%: oltre la soglia del Codice |
 
-Il Codice chiede di riesaminare il tetto quando il 5% delle persone detiene più del 20% dei CdR (art. 46, c. 3). In questa simulazione si può salire fino a circa 300 senza superare la soglia; oltre no. Un tetto più basso, per esempio 120, renderebbe i saldi più uguali ma verrebbe raggiunto con meno di un'ora e mezza a settimana. 240 è una scelta ragionevole: non c'è motivo di alzarlo.
+Il Codice chiede di riesaminare il tetto quando il 5% delle persone detiene più del 20% dei CdR (art. 46, c. 3). In questa simulazione a 300 la soglia è appena superata. Un tetto più basso, per esempio 120, renderebbe i saldi più uguali ma verrebbe raggiunto con meno di un'ora e mezza a settimana. 240 è una scelta ragionevole: non c'è motivo di alzarlo.
 
 ## 7. Simulazione
 
@@ -134,10 +142,10 @@ Si può rifare e modificare con il programma `strumenti/simula_cdr.py`, pubblica
 
 | Ore a settimana oltre il CBO | Saldo dopo un anno | Dopo due anni | A regime | Raggiunge il tetto |
 |---|---|---|---|---|
-| 0,5 | 26 | 42 | 42 | mai |
-| 1 | 52 | 84 | 84 | mai |
-| 2 | 104 | 169 | 169 | mai |
-| 3 | 156 | 240 | 240 | dopo 21 mesi |
+| 0,5 | 26 | 39 | 39 | mai |
+| 1 | 52 | 78 | 78 | mai |
+| 2 | 104 | 156 | 156 | mai |
+| 3 | 156 | 234 | 234 | mai |
 | 5 | 240 | 240 | 240 | dopo 12 mesi |
 | 8 | 240 | 240 | 240 | dopo 7 mesi |
 
@@ -145,9 +153,9 @@ Si può rifare e modificare con il programma `strumenti/simula_cdr.py`, pubblica
 
 | | Con il tetto | Senza tetto |
 |---|---|---|
-| CdR esistenti | 6.970 | 9.230 |
-| Saldo del 5% più attivo | 240 a testa | 676 a testa |
-| Quota detenuta dal 5% più attivo | 16% | 35% |
+| CdR esistenti | 6.700 | 8.520 |
+| Saldo del 5% più attivo | 240 a testa | 624 a testa |
+| Quota detenuta dal 5% più attivo | 17% | 35% |
 
 Il Codice chiede di riesaminare tabella e tetto se più di un quinto dei CdR è in mano a meno di un ventesimo delle persone (art. 46, c. 3). Con il tetto la Comunità simulata resta sotto la soglia; senza, la supera di molto. È il caso peggiore: chi usa i CdR abbassa il proprio saldo.
 
@@ -155,16 +163,16 @@ Il Codice chiede di riesaminare tabella e tetto se più di un quinto dei CdR è 
 
 | Quota delle 15 ore in compiti maggiorati | Maggiorazione | CdR al mese | Saldo a regime | Raggiunge il tetto |
 |---|---|---|---|---|
-| un quinto | 30% | 3,9 | 76 | mai |
-| un quinto | 50% | 6,5 | 127 | mai |
-| un quinto | 100% | 13,0 | 240 | dopo 21 mesi |
+| un quinto | 30% | 3,9 | 70 | mai |
+| un quinto | 50% | 6,5 | 117 | mai |
+| un quinto | 100% | 13,0 | 234 | mai |
 | tutte | 50% | 32,5 | 240 | dopo 8 mesi |
 | tutte | 100% | 65,0 | 240 | dopo 4 mesi |
 
 ## 8. Che cosa se ne ricava
 
-1. **Il tetto fa il suo lavoro.** Ferma l'accumulo a un livello che una persona raggiunge con meno di tre ore a settimana: chi lavora molto di più non ottiene più potere di precedenza degli altri.
-2. **La decrescenza non svuota il riconoscimento.** Un CdR dura pieno per quindici mesi e si spegne in due anni: c'è tempo per usarlo, non per tesaurizzarlo.
+1. **Il tetto fa il suo lavoro.** Ferma l'accumulo a un livello che una persona raggiunge con poco più di tre ore a settimana: chi lavora molto di più non ottiene più potere di precedenza degli altri.
+2. **La decrescenza non svuota il riconoscimento.** Un CdR dura pieno per dodici mesi e si spegne in due anni: c'è tempo per usarlo, non per tesaurizzarlo.
 3. **Chi svolge molti compiti sgradevoli arriva presto al tetto.** Da quel momento la maggiorazione non gli viene più riconosciuta. Il Codice lo previene con il sorteggio e il riequilibrio dei compiti sgradevoli (art. 8, c. 3): la tabella funziona solo se quella rotazione funziona davvero.
 4. **Il valore del tetto è difendibile, non dimostrato.** 240 CdR sono sedici settimane di Contributo di Base. Va rivisto con i dati trimestrali che il Codice chiede di pubblicare (art. 46, c. 2).
 
@@ -172,8 +180,8 @@ Il Codice chiede di riesaminare tabella e tetto se più di un quinto dei CdR è 
 
 Non sono corretti qui: sono diventati due [proposte di modifica](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html), la 9 e la 10.
 
-1. **Quando comincia la decrescenza.** L'articolo 44, comma 3, dice che i CdR conservano il valore per dodici mesi, poi perdono un quarto a trimestre e si estinguono «al termine del ventiquattresimo mese». Non dice se la prima riduzione avviene all'inizio o alla fine del primo trimestre. La bozza adotta l'unica lettura per cui l'estinzione cade al ventiquattresimo mese: la prima riduzione alla fine del quindicesimo.
-2. **Che cosa accade alla maggiorazione di chi è al tetto.** L'articolo 44, comma 2, dice che raggiunto il tetto le attività ulteriori non attribuiscono CdR. Vale anche per la maggiorazione dei compiti sgradevoli svolti nel CBO, che la persona non ha scelto? Il testo non distingue.
+1. **Come scende il valore.** L'articolo 44, comma 3, dice che i CdR conservano il valore per dodici mesi, poi perdono un quarto a trimestre e si estinguono «al termine del ventiquattresimo mese». Non dice se il quarto si perde tutto insieme o un po' alla volta. La proposta 9 sceglie la riduzione graduale, in proporzione al tempo, la sola che rispetta entrambe le frasi, e aggiunge due regole che mancano: si impiegano per primi i CdR più vecchi, e ogni CdR conta per il valore che ha in quel momento.
+2. **Che cosa accade alla maggiorazione di chi è al tetto.** L'articolo 44, comma 2, dice che raggiunto il tetto le attività ulteriori non attribuiscono CdR. Vale anche per la maggiorazione dei compiti sgradevoli svolti nel CBO? Il testo non lo dice. La proposta 10 conferma che vale, e definisce come si misura il saldo.
 
 ## Come si corregge
 

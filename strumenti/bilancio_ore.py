@@ -264,12 +264,17 @@ def stampa():
     per_abitante = tot_a / PERSONE
     anno_contributore = tot_a / r["contributori"]
     print("  lavoro annuo: %.0f ore per abitante; un contributore ne dà %.0f" % (per_abitante, anno_contributore))
+    print("  proposta 11: soglia bassa = 100 UCR più 1 per persona (massimo 500); alta = 500 più 5 per persona (massimo 2.500)")
     for persone in (30, 150, 500):
         lavoro = per_abitante * persone
-        bassa, alta = min(persone, 500), min(5 * persone, 2500)
+        bassa, alta = min(100 + persone, 500), min(500 + 5 * persone, 2500)
         print("  %3d persone: oggi 500 UCR = %4.1f%% e 2.500 = %4.1f%% del lavoro annuo; "
-              "con 1 e 5 UCR per membro: %d (%.1f%%) e %d (%.1f%%)"
-              % (persone, 100 * 500 / lavoro, 100 * 2500 / lavoro, bassa, 100 * bassa / lavoro, alta, 100 * alta / lavoro))
+              "con la proposta: %d (%.1f%%, %.0f euro) e %d (%.1f%%, %.0f euro)"
+              % (persone, 100 * 500 / lavoro, 100 * 2500 / lavoro, bassa, 100 * bassa / lavoro, bassa / r["ore_per_euro"],
+                 alta, 100 * alta / lavoro, alta / r["ore_per_euro"]))
+    farmaci = 300 * r["ore_per_euro"]
+    print("  farmaci e materiale sanitario di un anno (300 euro a persona): %.0f UCR per 30 persone, %.0f per 150"
+          % (30 * farmaci, 150 * farmaci))
 
 
 def esempio_pane():

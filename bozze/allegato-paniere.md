@@ -174,7 +174,7 @@ Questa bozza dice che cosa serve. Non dice ancora quanto lavoro costa. È il pas
 
 ## 12. Lacune dei testi trovate scrivendo la bozza
 
-Non sono corrette qui. Per ciascuna c'è una [proposta di modifica aperta](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html), con il testo dei nuovi commi: resta in discussione fino al 19 ottobre 2026.
+Non sono corrette qui. Per ciascuna c'è una [proposta di modifica aperta](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html), con il testo dei nuovi commi: resta in discussione almeno fino al 20 ottobre 2026.
 
 1. **Vestiario e prodotti per l'igiene** non compaiono in nessun Paniere. Il Paniere Materiale nomina la biancheria, non i vestiti.
 2. **L'alloggio** è un diritto costituzionale, ma nessun Codice ne fissa superficie, temperatura o riservatezza.
