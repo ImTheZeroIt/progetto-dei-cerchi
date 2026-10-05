@@ -37,6 +37,18 @@ REPOSITORY = "https://github.com/ImTheZeroIt/progetto-dei-cerchi"
 # Se compilato, ogni pagina indica l'immagine di anteprima che i social mostrano quando si condivide un link.
 SITO_URL = "https://imthezeroit.github.io/progetto-dei-cerchi"
 
+# Indirizzo a cui scrivere per chi non ha un account sul repository.
+CONTATTO = "zerocirclesproject@gmail.com"
+
+# Parole con cui cominciano i titoli delle segnalazioni aperte, per tipo: servono ai tre inviti della pagina iniziale.
+SEGNALAZIONI = {"caso": "Caso di prova", "dato": "Parametro da confermare", "codice": "Verifica di competenza"}
+
+
+def segnalazioni(tipo):
+    """Indirizzo dell'elenco delle segnalazioni aperte di un tipo."""
+    from urllib.parse import quote
+    return "%s/issues?q=%s" % (REPOSITORY, quote('is:issue state:open in:title "%s"' % SEGNALAZIONI[tipo]))
+
 # Ogni lingua ha le proprie cartelle, i propri nomi di pagina e le proprie scritte.
 LINGUE = {
     "it": dict(
@@ -96,7 +108,20 @@ LINGUE = {
             attacco="Il Progetto dei Cerchi è una proposta di alternativa al modo in cui oggi organizziamo la "
                     "vita collettiva. Comincia dalla persona, organizza la collettività e costruisce gli "
                     "strumenti perché nessuna delle due debba dominare l’altra.",
-            comincia="Comincia dal percorso", vai_regole="Vai alle regole",
+            comincia="Comincia dal percorso", vai_regole="Vai alle regole", prova_caso="Metti alla prova un caso",
+            h_prova="Mettila alla prova",
+            guida_prova="Il progetto ha bisogno di critiche più che di consensi. Tre modi per cominciare, ciascuno "
+                        "con segnalazioni già aperte:",
+            prova=[
+                ("caso", "Prova un caso", "Prendi una situazione concreta, un conflitto o un’obiezione in Assemblea, e "
+                                          "falla passare nelle procedure: dove reggono e dove no."),
+                ("dato", "Verifica un dato", "Molte soglie sono proposte iniziali: da 30 a 500 persone per Comunità, il "
+                                             "quorum, 50 litri d’acqua al giorno. Servono dati che le confermino o le "
+                                             "smentiscano."),
+                ("codice", "Controlla un Codice", "Se conosci una materia, leggi il Codice che la riguarda e di’ che "
+                                                  "cosa è sbagliato, che cosa manca, che cosa non è applicabile."),
+            ],
+            senza_conto="Non hai un account su GitHub? Scrivi a {mail}: va bene anche una riga.",
             h_minuto="In un minuto",
             minuto=[
                 ("Che cos’è", "Una proposta di organizzazione sociale scritta per intero: una Costituzione, 16 Codici "
@@ -113,11 +138,11 @@ LINGUE = {
                 ("Che cosa chiede", "A ogni adulto che può, una quota a rotazione del lavoro necessario a tutti. E la "
                                     "rinuncia alla proprietà privata dei mezzi di produzione, all’accumulo, alle "
                                     "armi e allo sfruttamento degli animali, macellazione compresa. Chi non ci sta "
-                                    "può uscire in qualsiasi momento, e rientrare."),
+                                    "può uscire in qualsiasi momento e chiedere di rientrare."),
                 ("Che cosa non sappiamo", "Se funziona. Nessuna comunità l’ha ancora messa alla prova. Molte soglie e "
                                           "quantità sono ipotesi da verificare. Come ci si arrivi dal sistema "
                                           "attuale, e se regga su grande scala, è scritto ma mai provato. Per questo "
-                                          "ogni testo è pubblico e si può correggere."),
+                                          "tutto è pubblico e le regole si possono correggere."),
             ],
             h_percorso="Il percorso",
             guida_percorso="Quattro letture in sequenza: da dove veniamo, dove siamo, che cosa non funziona, "
@@ -205,7 +230,20 @@ LINGUE = {
             attacco="The Circles Project is a proposal for an alternative to the way we organise collective "
                     "life today. It starts from the person, organises the collectivity and builds the tools "
                     "so that neither has to dominate the other.",
-            comincia="Start with the path", vai_regole="Go to the rules",
+            comincia="Start with the path", vai_regole="Go to the rules", prova_caso="Put a case to the test",
+            h_prova="Put it to the test",
+            guida_prova="The project needs criticism more than approval. Three ways to start, each with issues already "
+                        "open (in Italian for now; you can write in English):",
+            prova=[
+                ("caso", "Test a case", "Take a concrete situation, a conflict or an objection in the Assembly, and run "
+                                        "it through the procedures: where they hold and where they do not."),
+                ("dato", "Check a figure", "Many thresholds are initial proposals: 30 to 500 people per Community, the "
+                                           "quorum, 50 litres of water a day. Data that confirm or refute them are "
+                                           "needed."),
+                ("codice", "Review a Code", "If you know a subject, read the Code that deals with it and say what is "
+                                            "wrong, what is missing, what cannot be applied."),
+            ],
+            senza_conto="No GitHub account? Write to {mail}: even one line is fine.",
             h_minuto="In one minute",
             minuto=[
                 ("What it is", "A proposal for organising society, written out in full: a Constitution, 16 Codes and "
@@ -222,11 +260,11 @@ LINGUE = {
                 ("What it asks", "Of every adult who is able, a rotating share of the work everyone needs. And "
                                  "giving up private ownership of the means of production, accumulation, weapons "
                                  "and the exploitation of animals, slaughter included. Anyone who does not agree "
-                                 "can leave at any time, and come back."),
+                                 "can leave at any time and ask to come back."),
                 ("What we do not know", "Whether it works. No community has put it to the test yet. Many thresholds "
                                         "and quantities are hypotheses to be verified. How to get there from the "
                                         "present system, and whether it holds at large scale, is written but never "
-                                        "tried. This is why every text is public and can be corrected."),
+                                        "tried. This is why everything is public and the rules can be corrected."),
             ],
             h_percorso="The path",
             guida_percorso="Four readings in sequence: where we come from, where we are, what does not work, "
@@ -693,7 +731,7 @@ def costruisci_lingua(lingua, altra):
     <h1>%(domanda)s</h1>
     <p class="attacco">%(attacco)s</p>
     <p><span class="stato">%(bozza)s</span></p>
-    <p class="azioni"><a class="bottone" href="%(dp)s/%(primo)s.html">%(comincia)s</a><a class="secondario" href="%(dr)s/index.html">%(vai)s</a></p>
+    <p class="azioni"><a class="bottone" href="%(dp)s/%(primo)s.html">%(comincia)s</a><a class="secondario" href="%(dr)s/index.html">%(vai)s</a><a class="secondario" href="%(url_caso)s">%(prova_caso)s</a></p>
   </div>
   %(figura)s
 </section>
@@ -723,6 +761,15 @@ def costruisci_lingua(lingua, altra):
   </ul>
 </section>
 
+<section id="prova" class="blocco">
+  <h2>%(h_prova)s</h2>
+  <p class="guida">%(guida_prova)s</p>
+  <div class="tre">
+%(prova)s
+  </div>
+  <p class="senza-conto">%(senza_conto)s</p>
+</section>
+
 <section class="blocco">
   <h2>%(h_aperto)s</h2>
   <div class="tre">
@@ -733,7 +780,11 @@ def costruisci_lingua(lingua, altra):
 </section>""" % dict(
         etichetta=t["etichetta"], domanda=t["domanda"], attacco=t["attacco"], dp=dp, dr=dr,
         primo=percorso[0][0]["slug"], comincia=t["comincia"], vai=t["vai_regole"], figura=copertina(lingua),
-        h_minuto=t["h_minuto"],
+        h_minuto=t["h_minuto"], url_caso=segnalazioni("caso"), prova_caso=t["prova_caso"], h_prova=t["h_prova"],
+        guida_prova=t["guida_prova"],
+        prova="\n".join('    <div><h3><a href="%s">%s</a></h3><p>%s</p></div>'
+                        % (html.escape(segnalazioni(k)), html.escape(a), html.escape(b)) for k, a, b in t["prova"]),
+        senza_conto=t["senza_conto"].format(mail='<a href="mailto:%s">%s</a>' % (CONTATTO, CONTATTO)),
         minuto="\n".join("    <div><dt>%s</dt><dd>%s</dd></div>" % (html.escape(a), html.escape(b)) for a, b in t["minuto"]),
         h_percorso=t["h_percorso"], guida_percorso=t["guida_percorso"], passi=passi, h_regole=t["h_regole"],
         guida_regole=t["guida_regole"], cost=costituzione["slug"], h_cost=t["h_cost"],

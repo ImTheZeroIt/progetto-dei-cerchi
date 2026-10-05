@@ -72,7 +72,7 @@ The website uses no external services, loads no fonts or scripts from the networ
 
 ## Contributing
 
-Different skills are needed and, above all, concrete cases with which to put the rules to the test. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Different skills are needed and, above all, concrete cases with which to put the rules to the test. See [CONTRIBUTING.md](CONTRIBUTING.md) and the [open issues](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues). Those without a GitHub account can write to [zerocirclesproject@gmail.com](mailto:zerocirclesproject@gmail.com).
 
 ## Licence
 

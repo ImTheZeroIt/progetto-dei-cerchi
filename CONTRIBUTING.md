@@ -13,12 +13,14 @@ The Circles Project is public because no one holds, alone, the knowledge needed 
 
 ## How to report something
 
-Open an issue in the repository and state:
+[Open an issue in the repository](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues/new) and state:
 
 - the text and the article (for example: Code 3, Art. 12, paragraph 5);
 - the problem, in a few lines;
 - the proposed change, if you have one, with the rewritten text;
 - the reason: a figure, a case, an experience, a source.
+
+Opening an issue requires a GitHub account. If you do not have one, write the same things to [zerocirclesproject@gmail.com](mailto:zerocirclesproject@gmail.com).
 
 Those who know how to use the repository tools can propose the change directly to the file in `testi/`. The files in `docs/` are generated: they must not be edited by hand.
 

@@ -147,6 +147,8 @@ circle { fill: none; }
 .tre { margin-top: 1.2rem; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.5rem 2.5rem; }
 .tre h3 { font-size: 1.1rem; margin-bottom: 0.4rem; }
 .tre p { margin: 0; font-size: 1.02rem; }
+.tre h3 a { color: var(--accento); }
+.senza-conto { margin: 1.6rem 0 0; color: var(--tenue); }
 
 /* ---------- pagine di lettura */
 .lettura, .foglio { max-width: var(--colonna); margin-inline: auto; }

@@ -13,12 +13,14 @@ Il Progetto dei Cerchi è pubblico perché nessuno possiede da solo le conoscenz
 
 ## Come fare una segnalazione
 
-Apri una segnalazione nel repository e indica:
+[Apri una segnalazione nel repository](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues/new) e indica:
 
 - il testo e l'articolo (per esempio: Codice 3, art. 12, comma 5);
 - il problema, in poche righe;
 - la modifica proposta, se ne hai una, con il testo riscritto;
 - il motivo: un dato, un caso, un'esperienza, una fonte.
+
+Per aprire una segnalazione serve un account su GitHub. Se non ce l'hai, scrivi le stesse cose a [zerocirclesproject@gmail.com](mailto:zerocirclesproject@gmail.com).
 
 Chi sa usare gli strumenti del repository può proporre direttamente la modifica al file in `testi/`. I file in `docs/` sono generati: non vanno modificati a mano.
 

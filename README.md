@@ -75,7 +75,7 @@ Il testo che fa fede è quello italiano. La versione inglese è una traduzione d
 
 ## Contribuire
 
-Servono competenze diverse e, soprattutto, casi concreti con cui mettere alla prova le regole. Vedi [CONTRIBUIRE.md](CONTRIBUIRE.md).
+Servono competenze diverse e, soprattutto, casi concreti con cui mettere alla prova le regole. Vedi [CONTRIBUIRE.md](CONTRIBUIRE.md) e le [segnalazioni aperte](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues). Chi non ha un account su GitHub può scrivere a [zerocirclesproject@gmail.com](mailto:zerocirclesproject@gmail.com).
 
 ## Licenza
 
