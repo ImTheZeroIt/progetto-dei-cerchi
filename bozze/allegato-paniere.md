@@ -166,7 +166,7 @@ Questa bozza dice che cosa serve. Non dice ancora quanto lavoro costa. È il pas
 
 | Che cosa va calcolato | Con che cosa |
 |---|---|
-| Ore di lavoro per produrre ogni voce del Paniere, in una Comunità tipo | Allegato Tecnico UCR (Cod. 3, art. 9): è il prossimo documento |
+| Ore di lavoro per produrre ogni voce del Paniere, in una Comunità tipo | Primo conto nella [bozza dell'Allegato UCR](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-ucr.html): tra 9 e 13 ore a settimana, manufatti compresi |
 | Terra e rese per il Paniere Alimentare, per clima | Dati agronomici locali; Consiglio Agroecologico |
 | Chilowattora del Paniere Energia, per clima ed edificio | STV Paniere Energia (Cod. 8, art. 4, c. 6) |
 | Adeguatezza nutrizionale della tabella alimentare | Verifica di un nutrizionista |

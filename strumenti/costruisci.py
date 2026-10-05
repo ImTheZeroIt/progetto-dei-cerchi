@@ -54,6 +54,8 @@ PARAMETRI = dict(lingua="it", md="PARAMETRI.md", pagina="parametri.html")
 BOZZE = [
     dict(md="bozze/allegato-paniere.md", pagina="bozza-paniere.html",
          titolo="Allegato annuale del Paniere di Sufficienza", nota="bozza 0.1"),
+    dict(md="bozze/allegato-ucr.md", pagina="bozza-ucr.html",
+         titolo="Allegato UCR e primo bilancio delle ore", nota="bozza 0.1"),
     dict(md="PROPOSTE.md", pagina="proposte.html",
          titolo="Proposte di modifica aperte", nota="in discussione", classe=""),
 ]

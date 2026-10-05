@@ -18,7 +18,7 @@ Per questi valori esistono dati o norme con cui confrontarsi. Il confronto non l
 
 | Parametro | Valore proposto | Sede | Origine e riscontri | Incertezza | Prova necessaria |
 |---|---|---|---|---|---|
-| Limite del lavoro necessario (CBO) | media non oltre 15 ore a settimana, su base trimestrale | Cod. 1, art. 3 | Scelta di redazione. Nessun calcolo dimostra oggi che 15 ore bastino a produrre il Paniere di Sufficienza. | Alta. È il parametro da cui dipende l'equilibrio dell'intero sistema. | Bilancio delle ore necessarie a produrre il Paniere in una Comunità tipo, voce per voce, con il metodo UCR. Prima il calcolo, poi la prova sul campo. |
+| Limite del lavoro necessario (CBO) | media non oltre 15 ore a settimana, su base trimestrale | Cod. 1, art. 3 | Scelta di redazione. Un primo conto fatto sul bisogno ([bozza dell'Allegato UCR](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-ucr.html)) dà tra 9 e 13 ore a settimana, manufatti compresi. Con il modo di produrre di oggi, uno studio indipendente stima circa 27 ore per un minimo realistico. | Alta. È il parametro da cui dipende l'equilibrio dell'intero sistema. | Bilanci del Lavoro reali; ore misurate di cucine collettive, orti e officine; quanto lavoro di casa entra nel CBO. |
 | Paniere Acqua | almeno 50 litri per persona al giorno | Cod. 8, art. 4-bis | L'OMS (2020) indica circa 20 litri come accesso di base, 50 litri come accesso intermedio a basso rischio per la salute, 100 litri come accesso ottimale. Lo standard umanitario Sphere fissa un minimo di 15 litri nelle emergenze e riconosce che in città possono servirne 50. | Bassa come minimo sanitario; media per clima e usi locali. | Consumi reali per clima e stagione; disponibilità della risorsa nel territorio. [Segnalazione 6](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues/6). |
 | Dimensione della Comunità di Base | di norma 30–500 persone | Cost. 5.1 | Il «numero di Dunbar» (circa 150) è contestato: una revisione del 2021 trova stime tra 16 e 109 con intervalli di confidenza da 2 a 520, e conclude che indicare un numero è inutile. Nelle assemblee cittadine del Vermont partecipa in media circa il 20% degli elettori nei comuni sotto i 5.000 iscritti. | Alta. | Dati di partecipazione di assemblee, cooperative ed ecovillaggi, distinti per dimensione. [Segnalazione 4](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues/4). |
 | Soglia della Comunità piccola | meno di 150 aventi diritto | Cost. 6.5; Cod. 3, art. 12-bis, c. 12 | Come sopra: la soglia di 150 non ha un fondamento solido. | Alta. | Verificare sotto quale dimensione non si riescono a coprire tutti i Consigli senza sovraccaricare le persone. |
@@ -42,6 +42,7 @@ Sono numeri fissati per rendere applicabili le norme. Non hanno una fonte estern
 | Organi della giustizia | Assemblea di Chiarimento 7, Consiglio di Trasformazione 5, Tribunale di Garanzia 7 persone; 6 voti su 7 per le misure estreme | Cod. 4, art. 27 | Media | Casi di prova. [Segnalazione 2](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues/2). |
 | Contenimento protettivo | in prima applicazione non oltre 5 anni (Grado 5) e 10 anni (Grado 6), con riesame almeno ogni sei mesi | Cod. 4, art. 30, c. 3 | Alta | Confronto con i dati sulla recidiva e con gli ordinamenti che usano misure a termine con riesame. |
 | Obiezione in Assemblea | almeno il 10% dei votanti, entro 72 ore dall'esito | Cost. 34.2; Cod. 3, art. 13-bis | Media | Caso di prova. [Segnalazione 1](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues/1). |
+| Soglie economiche delle decisioni | sotto 500 UCR, da 500 a 2.500, sopra 2.500 | Cod. 3, art. 7 | Alta | Con il coefficiente proposto nella bozza dell'Allegato UCR, 500 UCR valgono circa 25.500 euro di acquisti: verificare se per una Comunità piccola è troppo. |
 | Tetto del CdR | 240 CdR in prima applicazione | Cod. 1, art. 44 | Alta | Simulazione: distribuzione dei CdR dopo uno e due anni; dipende dalla tabella pubblica. |
 | Decrescenza del CdR | valore pieno per 12 mesi, poi −25% a trimestre fino a zero al 24° mese | Cod. 1, art. 44 | Alta | Come sopra: verificare che impedisca l'accumulo senza svuotare il riconoscimento. |
 | Rifiuto del contributo | percorso graduale davanti all'Assemblea di Chiarimento | Cost. 7.3 | Media | Caso di prova. [Segnalazione 3](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues/3). |
@@ -65,7 +66,7 @@ I Codici rinviano a questi valori, ma nessun testo li fissa ancora.
 | Paniere Energia: quota minima garantita | Cod. 8, art. 4 | Uno studio del 2020 stima che una vita dignitosa per 10 miliardi di persone sia possibile con meno del 40% dell'energia mondiale di oggi. Va tradotto in una quota per persona e per clima. |
 | Alloggio: superficie minima | Cost. 1.2; Cod. 10 | Lo standard Sphere per le emergenze è 3,5 m² coperti per persona (4,5–5,5 nei climi freddi): è un minimo di emergenza, non un'abitazione. |
 | Mobilità di base: distanze e tempi garantiti | Cod. 11; Cod. 1, art. 25 | Nessun riferimento ancora. |
-| Metodo di calcolo della UCR | Cod. 3, art. 9 | Da scrivere come Allegato Tecnico UCR, con un esempio svolto. |
+| Metodo di calcolo della UCR | Cod. 3, art. 9 | Proposto nella [bozza dell'Allegato UCR](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-ucr.html), con un esempio svolto. |
 | Tabella pubblica del CdR | Cod. 1, art. 46 | Dipende dal metodo UCR. È locale: la approva ogni Comunità. |
 
 ## 4. Allegati tecnici citati e non ancora scritti
@@ -73,7 +74,7 @@ I Codici rinviano a questi valori, ma nessun testo li fissa ancora.
 | Allegato | Dove è citato | Stato |
 |---|---|---|
 | Allegato Tecnico annuale del Paniere | Cod. 1, art. 18 | [Bozza 0.1 pubblicata](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-paniere.html), non adottata. |
-| Allegato Tecnico UCR | Cod. 3, artt. 5 e 9 | Da scrivere: è il prossimo. |
+| Allegato Tecnico UCR | Cod. 3, artt. 5 e 9 | [Bozza 0.1 pubblicata](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-ucr.html), non adottata. |
 | Allegato Tecnico Qualità | Cod. 2, artt. 2 e 3 | Da scrivere. |
 | Allegato Tecnico Mobilità | Cod. 1, art. 25 | Da scrivere. |
 | Allegato Tecnico Formativo | Cod. 1, art. 28 | Da scrivere. |
