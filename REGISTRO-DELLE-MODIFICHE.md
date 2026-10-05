@@ -14,7 +14,7 @@ Ragione: per la stessa soglia il Codice 3, art. 12-bis, comma 12, conta gli aven
 
 # Proposte aperte
 
-Le modifiche di sostanza proposte e non ancora decise sono nella pagina [Proposte di modifica aperte](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html), con il testo dei nuovi commi, la ragione e la data prima della quale non si decide. Al 5 ottobre 2026 sono cinque. Quattro riguardano il Paniere di Sufficienza: vestiario e igiene, alloggio adeguato, connettività e materiali per apprendere, valore di prima applicazione del Paniere Energia. La quinta riguarda il CdR per le attività culturali offerte alla Comunità.
+Le modifiche di sostanza proposte e non ancora decise sono nella pagina [Proposte di modifica aperte](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html), con il testo dei nuovi commi, la ragione e la data prima della quale non si decide. Al 5 ottobre 2026 sono otto. Quattro riguardano il Paniere di Sufficienza: vestiario e igiene, alloggio adeguato, connettività e materiali per apprendere, valore di prima applicazione del Paniere Energia. La quinta riguarda il CdR per le attività culturali offerte alla Comunità. La sesta e la settima riguardano il sottosuolo come bene comune e le regole su materie prime, recupero ed estrazione. L'ottava riguarda i robot e le macchine autonome.
 
 # Parametri da verificare
 

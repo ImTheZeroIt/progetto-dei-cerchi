@@ -2,7 +2,7 @@
 
 Questa pagina raccoglie le modifiche di sostanza proposte e non ancora decise. Nessuna è in vigore: i testi restano quelli pubblicati nel registro. Secondo le regole scritte in [Come contribuire](https://imthezeroit.github.io/progetto-dei-cerchi/contribuire.html), ogni proposta resta aperta alla discussione per almeno quattordici giorni prima della decisione.
 
-Le prime quattro proposte nascono dalla [bozza dell'Allegato del Paniere di Sufficienza](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-paniere.html): scrivendola sono emerse quattro lacune dei testi. La quinta riguarda il riconoscimento delle attività che la Costituzione esclude dal Contributo di Base.
+Le prime quattro proposte nascono dalla [bozza dell'Allegato del Paniere di Sufficienza](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-paniere.html): scrivendola sono emerse quattro lacune dei testi. La quinta riguarda il riconoscimento delle attività che la Costituzione esclude dal Contributo di Base. La sesta e la settima riguardano il sottosuolo e l'estrazione delle materie prime, che nessun testo oggi regola. L'ottava riguarda i robot.
 
 - **Aperte il:** 5 ottobre 2026.
 - **Decisione non prima del:** 19 ottobre 2026.
@@ -92,7 +92,7 @@ Nel Codice 5, all'articolo 2, dopo il comma 4 è inserito:
 
 **Ragione.** Le dotazioni seguono lo studio di Millward-Hopkins e altri (2020): un telefono per persona sopra i dieci anni e un computer per nucleo. La lettera d) rende effettivo il diritto alla disconnessione già scritto nell'articolo 5-bis, comma 8.
 
-**Altri punti da allineare.** Il Nodo personale resta disciplinato dall'articolo 5-bis del Codice 7: la lettera b) non lo duplica. Versioni: Codice 7 da V1.6 a V1.7; Codice 5 da V1.3 a V1.4.
+**Altri punti da allineare.** Il Nodo personale resta disciplinato dall'articolo 5-bis del Codice 7: la lettera b) non lo duplica. Versioni: Codice 7 da V1.6 a V1.7, insieme alla proposta 8; Codice 5 da V1.3 a V1.4.
 
 **Che cosa costa.** Dispositivi e componenti elettronici, che una Comunità non produce: dipendenza esterna da iscrivere nel Registro Dipendenze. Manutenzione a carico del Consiglio Rete.
 
@@ -127,6 +127,112 @@ Nel Codice 5, all'articolo 2, dopo il comma 4 è inserito:
 **Altri punti da allineare.** La Costituzione non cambia: l'articolo 7.2 continua a escludere queste attività dal CBO. Valgono i limiti che esistono già: la validazione di chi fruisce (Cost. 9.2), un CdR per ora e mai più delle ore effettive (art. 43, commi 2 e 3), il tetto e la decrescenza (art. 44). Versione: Codice 1 a V1.6, insieme alla proposta 2.
 
 **Che cosa costa.** Nessun lavoro necessario in più: il CdR non dà accesso al Paniere, solo una precedenza sui beni non necessari (art. 45). Il rischio è che il riconoscimento premi chi è più popolare; lo limitano il conto in ore e la validazione di chi fruisce.
+
+## Proposta 6 — Sottosuolo bene comune ed estrazione come eccezione
+
+**Testo e articolo:** Costituzione, articoli 3.1 e 14.2.
+
+**Problema.** L'articolo 3.1 elenca tra i Beni Comuni la terra, l'acqua, l'aria e le fonti energetiche, ma non il sottosuolo. L'articolo 14.2 vieta «ogni attività che provochi un danno irreversibile agli ecosistemi, alla biodiversità, al suolo, all'acqua o all'aria»: letto alla lettera vieta ogni nuova miniera, perché nel punto in cui si scava il danno è quasi sempre irreversibile. Ma pannelli, reti, attrezzi e macchine sono fatti di metalli. Oggi i testi non dicono né che si può estrarre né che non si può.
+
+**Testo proposto.** All'articolo 3.1, dopo «la terra,» è inserito:
+
+> il sottosuolo e le risorse minerarie,
+
+All'articolo 14.2 è aggiunto, in fine:
+
+> L'estrazione di risorse minerarie è ammessa soltanto in via eccezionale e temporanea, quando un fabbisogno essenziale non può essere coperto riducendo i consumi, riusando o riciclando, nei casi e con le garanzie stabiliti dai Codici. Resta vietata nei santuari ecologici e dovunque comprometterebbe in modo irreversibile le acque, il suolo vivo o la biodiversità oltre il sito di estrazione.
+
+**Ragione.** Un divieto assoluto sarebbe coerente, ma non regge nella fase in cui si costruiscono energia rinnovabile, reti e attrezzature: chi non estrae compra da chi estrae, spesso in condizioni peggiori. La proposta tiene il divieto come regola e ammette l'estrazione come ultima risorsa, per costruire una dotazione che poi dura e si ricicla.
+
+**Altri punti da allineare.** L'articolo 14.2 non fa parte del Nucleo Inviolabile (art. 37.4). L'aggiunta all'articolo 3.1 estende il regime dei Beni Comuni, che il Nucleo protegge: non lo riduce. La disciplina è nella proposta 7. Versione: Costituzione da V.29 a V.30.
+
+**Che cosa costa.** È la proposta più pesante delle otto, perché apre un'eccezione a un divieto ecologico. Senza la proposta 7, che ne fissa i limiti, non va accolta.
+
+## Proposta 7 — Materie prime, recupero ed estrazione
+
+**Testo e articolo:** Codice 10, nuovo art. 8-bis.
+
+**Problema.** Nessun Codice dice da dove vengono i metalli e i minerali, chi decide se aprire una cava o una miniera, chi ci lavora, a chi va il materiale e chi ripristina il sito.
+
+**Testo proposto.** Dopo l'articolo 8 è inserito:
+
+> **Art. 8-bis — Materie prime, recupero ed estrazione**
+>
+> 1. Il fabbisogno di materie prime è coperto nell’ordine seguente: riducendo il fabbisogno e allungando la durata dei beni; con il riuso e la riparazione; con il riciclo e il recupero da beni dismessi, discariche e scarti delle estrazioni passate; con l’estrazione, soltanto per ciò che resta scoperto.
+>
+> 2. Ogni Cerchio 2 tiene e aggiorna ogni anno l’inventario dei materiali recuperabili nel proprio territorio: edifici, veicoli e impianti dismessi, discariche, scarti di estrazioni passate e materiali provenienti dalla conversione prevista dall’articolo 16.2 della Costituzione.
+>
+> 3. I giacimenti sono Beni Comuni dell’intera Confederazione, affidati in custodia alla Comunità nel cui territorio si trovano. La custodia non dà diritto a rendita né a precedenza sul materiale estratto.
+>
+> 4. Un’estrazione può essere aperta soltanto se ricorrono congiuntamente tutte le condizioni seguenti:
+>
+> a) un Dossier ai sensi dell’articolo 33 della Costituzione documenta un fabbisogno essenziale per il Paniere, la salute, l’energia o la Rete, che non può essere coperto nei modi del comma 1;
+>
+> b) il sito non ricade in un santuario ecologico, in un’area umida, in un’area necessaria all’acqua potabile o nel suolo agricolo del Paniere;
+>
+> c) è approvato un piano di ripristino, le cui ore e i cui materiali sono contati in UCR insieme ai costi dell’estrazione;
+>
+> d) l’atto fissa la quantità massima e la durata;
+>
+> e) una STV stabilisce le tutele per le persone, le acque, l’aria e il suolo.
+>
+> 5. La decisione richiede cumulativamente il consenso dell’Assemblea della Comunità nel cui territorio si trova il sito e la deliberazione dell’Assemblea Generale dei Cerchi che useranno il materiale, secondo l’articolo 14 del Codice 3. Senza il consenso della Comunità ospitante non si procede. Il rifiuto non può comportare per quella Comunità alcuna conseguenza sfavorevole.
+>
+> 6. Il lavoro è svolto in primo luogo dalle macchine, secondo l’articolo 6-bis del Codice 7. Il lavoro umano che resta è volontario, a rotazione tra le Comunità dei Cerchi interessati, con la maggiorazione massima prevista dall’articolo 10 del Codice 1. Nessuno può esservi obbligato né assegnato per sorteggio.
+>
+> 7. Il materiale estratto entra nei Magazzini ed è distribuito secondo il fabbisogno documentato dei Cerchi. Si applica il divieto di Accumulo Estrattivo previsto dall’articolo 5 del Codice 15.
+>
+> 8. Raggiunta la quantità o la durata fissata, o venute meno le condizioni del comma 4, l’estrazione cessa e il sito è ripristinato. Quantità estratte, destinazioni e stato del ripristino sono pubblicati ogni anno. Ogni Comunità interessata può chiedere il riesame.
+>
+> 9. Finché le materie prime sono acquistate all’esterno, la dipendenza è iscritta nel Registro Dipendenze previsto dal Codice 15. Nella scelta dei fornitori contano le condizioni di chi lavora e i danni all’ambiente; il costo in UCR è calcolato sulle ore realmente lavorate, secondo l’Allegato Tecnico UCR.
+
+**Ragione.** Le regole seguono quattro idee. Si estrae solo dopo aver ridotto, riusato e riciclato. I minerali sono di tutti e chi vive sopra il giacimento non ne ricava rendita, ma nemmeno può essere sacrificato: senza il suo consenso non si scava. Il lavoro pericoloso spetta prima alle macchine e poi solo a volontari. Il ripristino si conta prima di cominciare, non dopo.
+
+**Altri punti da allineare.** Dipende dalla proposta 6: senza l'eccezione all'articolo 14.2 l'articolo 8-bis vale solo per recupero e riciclo (commi 1, 2, 3, 7 e 9). Il comma 6 rinvia all'articolo 6-bis del Codice 7, che è la proposta 8, e deroga all'assegnazione per sorteggio dei compiti sgradevoli (Cod. 1, art. 8, c. 3). Versione: Codice 10 da V1.3 a V1.4.
+
+**Che cosa costa.** L'inventario dei materiali recuperabili è lavoro nuovo per ogni Bacino. Il ripristino contato in anticipo rende l'estrazione più cara in ore: è voluto, perché oggi quel costo lo paga chi viene dopo.
+
+## Proposta 8 — Robot e macchine autonome
+
+**Testo e articolo:** Codice 7, nuovo art. 6-bis.
+
+**Problema.** La Costituzione regola l'IA (artt. 19–23) e il Codice 7 l'automazione dei compiti (art. 6), ma nessun testo nomina le macchine che si muovono e agiscono da sole tra le persone. Mancano l'arresto fisico, i limiti vicino alle persone, il divieto di armarle o di usarle per sorvegliare, e la regola su chi beneficia del tempo risparmiato.
+
+**Testo proposto.** Dopo l'articolo 6 è inserito:
+
+> **Art. 6-bis — Robot e macchine autonome**
+>
+> 1. Ai fini del presente Codice è robot ogni macchina che si muove o agisce nello spazio fisico senza il comando continuo di una persona. Ai robot si applicano l’articolo 6 e le disposizioni del presente articolo.
+>
+> 2. I robot sono mezzi di produzione e Beni Comuni ai sensi degli articoli 3.1 e 10.1 della Costituzione: non possono essere oggetto di proprietà privata né fonte di rendita. La Comunità ne possiede fisicamente l’hardware e dispone di una copia verificabile degli schemi e del codice, ai sensi dell’articolo 19.4 della Costituzione.
+>
+> 3. Ogni robot è dotato di un arresto fisico, indipendente dal software e raggiungibile da chiunque si trovi nelle vicinanze. Opera sotto la responsabilità di una persona abilitata, indicata nella STV, e non oltre il tempo massimo di funzionamento senza supervisione che la STV stabilisce.
+>
+> 4. Dove un robot opera vicino alle persone, la STV e la Scheda Sicurezza Generale prevista dal Codice 14 fissano i limiti di forza, di velocità e di distanza. Nel dubbio prevale la separazione fisica tra la macchina e le persone.
+>
+> 5. È vietato:
+>
+> a) armare un robot o impiegarlo per costringere, trattenere o colpire una persona, ai sensi dell’articolo 16 della Costituzione;
+>
+> b) impiegarlo per sorvegliare, identificare o seguire le persone; i sensori raccolgono soltanto i dati necessari alla funzione, secondo l’articolo 7;
+>
+> c) affidargli le attività escluse dall’articolo 6, comma 2; in tali attività una macchina può essere soltanto uno strumento azionato da una persona;
+>
+> d) far dipendere da un robot una funzione vitale senza una procedura manuale sostitutiva documentata e provata.
+>
+> 6. Hanno priorità di automazione i compiti pericolosi, usuranti o svolti in ambienti nocivi: in particolare gli scavi e il lavoro in miniera, la movimentazione di carichi pesanti, il lavoro in quota, il trattamento di sostanze nocive e i lavori agricoli più gravosi. Quando una macchina disponibile può svolgere in sicurezza un compito pericoloso, nessuna persona può essere obbligata a svolgerlo.
+>
+> 7. Prima di introdurre un robot il Consiglio competente confronta, in UCR, le ore necessarie a costruirlo, alimentarlo e mantenerlo con le ore di lavoro che fa risparmiare, secondo l’articolo 9 del Codice 3. Il tempo risparmiato riduce il fabbisogno di CBO di tutti, ai sensi dell’articolo 6 del Codice 1, e non può tradursi in un vantaggio per alcuni.
+>
+> 8. Le materie prime, l’energia e gli effetti ambientali dei robot e delle altre automazioni sono valutati nella STV secondo il Codice 2. L’automazione non giustifica un’estrazione di risorse superiore al fabbisogno.
+>
+> 9. Le dipendenze da componenti che la Confederazione non produce sono iscritte nel Registro Dipendenze previsto dal Codice 15.
+
+**Ragione.** I robot sono mezzi di produzione, quindi Beni Comuni: la proposta lo dice in modo esplicito e ne trae le conseguenze. Servono prima dove il lavoro è pericoloso o usurante. Il tempo che fanno risparmiare riduce le ore di tutti, non il numero di chi lavora. E una macchina che agisce nello spazio fisico deve potersi fermare con un gesto, da chiunque.
+
+**Altri punti da allineare.** Non modifica l'articolo 6, che continua a dire quando si può automatizzare e che cosa non si può automatizzare mai. Il comma 5, lettera a), applica ai robot il disarmo dell'articolo 16 della Costituzione. Versione: Codice 7 da V1.6 a V1.7, insieme alla proposta 3.
+
+**Che cosa costa.** Ogni robot richiede una STV, una persona responsabile e una procedura manuale sostitutiva: più documentazione e più formazione. I robot contengono metalli e componenti che la Confederazione non produce: dipendenze da registrare, e un motivo in più per le proposte 6 e 7.
 
 ## Che cosa succede dopo
 
