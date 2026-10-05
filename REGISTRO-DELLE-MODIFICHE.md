@@ -6,7 +6,11 @@ Da qui in avanti ogni modifica accolta sarà annotata in questa pagina con la da
 
 # Modifiche
 
-Nessuna dalla prima pubblicazione.
+## 5 ottobre 2026 — Costituzione, art. 6.5 (correzione materiale)
+
+«Nelle Comunità con meno di centocinquanta persone» diventa «Nelle Comunità con meno di centocinquanta persone aventi diritto di voto».
+
+Ragione: per la stessa soglia il Codice 3, art. 12-bis, comma 12, conta gli aventi diritto, la Costituzione contava le persone. Si è tenuta la misura del Codice, perché i Consigli sono composti da persone sorteggiate tra gli aventi diritto: è il loro numero a dire se una Comunità riesce a coprirli. La versione resta V.29.
 
 # Parametri da verificare
 

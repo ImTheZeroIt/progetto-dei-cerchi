@@ -6,7 +6,11 @@ From here on, every accepted change will be recorded on this page with its date,
 
 # Changes
 
-None since first publication.
+## 5 October 2026 — Constitution, Art. 6.5 (material correction)
+
+“In Communities with fewer than one hundred and fifty persons” becomes “In Communities with fewer than one hundred and fifty persons entitled to vote”.
+
+Reason: for the same threshold Code 3, Art. 12-bis, para. 12, counts those entitled to vote, while the Constitution counted persons. The measure of the Code has been kept, because the Councils are made up of persons drawn by lot from among those entitled to vote: it is their number that tells whether a Community can fill them. The version remains V.29.
 
 # Parameters to be confirmed
 
