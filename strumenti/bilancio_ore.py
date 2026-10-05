@@ -260,6 +260,16 @@ def stampa():
               % (nome, r[nome]["Cura: sanità"] / ore_persona, r[nome]["Apprendimento dei minori"] / ore_persona))
     print("  cinquecento UCR = %.0f euro = %.2f%% delle ore annue; 2.500 UCR = %.0f euro = %.2f%%"
           % (500 / r["ore_per_euro"], 100 * 500 / r["disponibili"], 2500 / r["ore_per_euro"], 100 * 2500 / r["disponibili"]))
+    print("\nLe soglie del Codice 3 (500 e 2.500 UCR) rispetto al lavoro annuo dello scenario A, secondo la dimensione")
+    per_abitante = tot_a / PERSONE
+    anno_contributore = tot_a / r["contributori"]
+    print("  lavoro annuo: %.0f ore per abitante; un contributore ne dà %.0f" % (per_abitante, anno_contributore))
+    for persone in (30, 150, 500):
+        lavoro = per_abitante * persone
+        bassa, alta = min(persone, 500), min(5 * persone, 2500)
+        print("  %3d persone: oggi 500 UCR = %4.1f%% e 2.500 = %4.1f%% del lavoro annuo; "
+              "con 1 e 5 UCR per membro: %d (%.1f%%) e %d (%.1f%%)"
+              % (persone, 100 * 500 / lavoro, 100 * 2500 / lavoro, bassa, 100 * bassa / lavoro, alta, 100 * alta / lavoro))
 
 
 def esempio_pane():

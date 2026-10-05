@@ -243,7 +243,7 @@ Ogni dieci per cento in meno vale 23 minuti a settimana per ciascuno.
 
 ## 6. Una conseguenza per le soglie del Codice 3
 
-L'articolo 7 del Codice 3 distingue le operazioni di valore basso (sotto 500 UCR), medio (da 500 a 2.500) e alto. Con il coefficiente proposto, 500 UCR corrispondono a circa 25.500 euro di acquisti e allo 0,7% delle ore annue di una Comunità di 150 persone; 2.500 UCR a circa 128.000 euro e al 3,4%. Per una Comunità piccola la soglia bassa potrebbe essere troppo alta: un acquisto da 20.000 euro sarebbe deciso da un Cerchio di Competenza. È un parametro da verificare.
+L'articolo 7 del Codice 3 distingue le operazioni di valore basso (sotto 500 UCR), medio (da 500 a 2.500) e alto. Con il coefficiente proposto, 500 UCR corrispondono a circa 25.500 euro di acquisti e allo 0,7% delle ore annue di una Comunità di 150 persone; 2.500 UCR a circa 128.000 euro e al 3,4%. Per una Comunità piccola la soglia bassa potrebbe essere troppo alta: un acquisto da 20.000 euro sarebbe deciso da un Cerchio di Competenza. La [proposta 11](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html) mette le due soglie in proporzione alla dimensione della Comunità: una e cinque UCR per ogni membro, con 500 e 2.500 come massimo.
 
 ## Come si corregge
 

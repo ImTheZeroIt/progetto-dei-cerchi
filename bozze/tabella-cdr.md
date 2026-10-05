@@ -170,7 +170,7 @@ Il Codice chiede di riesaminare tabella e tetto se più di un quinto dei CdR è 
 
 ## 9. Due punti da chiarire nei testi
 
-Non sono corretti qui: sono segnalazioni.
+Non sono corretti qui: sono diventati due [proposte di modifica](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html), la 9 e la 10.
 
 1. **Quando comincia la decrescenza.** L'articolo 44, comma 3, dice che i CdR conservano il valore per dodici mesi, poi perdono un quarto a trimestre e si estinguono «al termine del ventiquattresimo mese». Non dice se la prima riduzione avviene all'inizio o alla fine del primo trimestre. La bozza adotta l'unica lettura per cui l'estinzione cade al ventiquattresimo mese: la prima riduzione alla fine del quindicesimo.
 2. **Che cosa accade alla maggiorazione di chi è al tetto.** L'articolo 44, comma 2, dice che raggiunto il tetto le attività ulteriori non attribuiscono CdR. Vale anche per la maggiorazione dei compiti sgradevoli svolti nel CBO, che la persona non ha scelto? Il testo non distingue.

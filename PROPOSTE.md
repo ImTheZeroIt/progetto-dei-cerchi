@@ -2,7 +2,7 @@
 
 Questa pagina raccoglie le modifiche di sostanza proposte e non ancora decise. Nessuna è in vigore: i testi restano quelli pubblicati nel registro. Secondo le regole scritte in [Come contribuire](https://imthezeroit.github.io/progetto-dei-cerchi/contribuire.html), ogni proposta resta aperta alla discussione per almeno quattordici giorni prima della decisione.
 
-Le prime quattro proposte nascono dalla [bozza dell'Allegato del Paniere di Sufficienza](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-paniere.html): scrivendola sono emerse quattro lacune dei testi. La quinta riguarda il riconoscimento delle attività che la Costituzione esclude dal Contributo di Base. La sesta e la settima riguardano il sottosuolo e l'estrazione delle materie prime, che nessun testo oggi regola. L'ottava riguarda i robot.
+Le prime quattro proposte nascono dalla [bozza dell'Allegato del Paniere di Sufficienza](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-paniere.html): scrivendola sono emerse quattro lacune dei testi. La quinta riguarda il riconoscimento delle attività che la Costituzione esclude dal Contributo di Base. La sesta e la settima riguardano il sottosuolo e l'estrazione delle materie prime, che nessun testo oggi regola. L'ottava riguarda i robot. La nona e la decima chiariscono due punti del Contributo di Riconoscenza emersi scrivendo la [tabella pubblica del CdR](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-cdr.html). L'undicesima adatta le soglie economiche delle decisioni alla dimensione della Comunità.
 
 - **Aperte il:** 5 ottobre 2026.
 - **Decisione non prima del:** 19 ottobre 2026.
@@ -146,7 +146,7 @@ All'articolo 14.2 è aggiunto, in fine:
 
 **Altri punti da allineare.** L'articolo 14.2 non fa parte del Nucleo Inviolabile (art. 37.4). L'aggiunta all'articolo 3.1 estende il regime dei Beni Comuni, che il Nucleo protegge: non lo riduce. La disciplina è nella proposta 7. Versione: Costituzione da V.29 a V.30.
 
-**Che cosa costa.** È la proposta più pesante delle otto, perché apre un'eccezione a un divieto ecologico. Senza la proposta 7, che ne fissa i limiti, non va accolta.
+**Che cosa costa.** È la proposta più pesante di tutte, perché apre un'eccezione a un divieto ecologico. Senza la proposta 7, che ne fissa i limiti, non va accolta.
 
 ## Proposta 7 — Materie prime, recupero ed estrazione
 
@@ -233,6 +233,76 @@ All'articolo 14.2 è aggiunto, in fine:
 **Altri punti da allineare.** Non modifica l'articolo 6, che continua a dire quando si può automatizzare e che cosa non si può automatizzare mai. Il comma 5, lettera a), applica ai robot il disarmo dell'articolo 16 della Costituzione. Versione: Codice 7 da V1.6 a V1.7, insieme alla proposta 3.
 
 **Che cosa costa.** Ogni robot richiede una STV, una persona responsabile e una procedura manuale sostitutiva: più documentazione e più formazione. I robot contengono metalli e componenti che la Confederazione non produce: dipendenze da registrare, e un motivo in più per le proposte 6 e 7.
+
+## Proposta 9 — Decrescenza dei CdR: quando comincia e quali si impiegano per primi
+
+**Testo e articolo:** Codice 1, art. 44, c. 3.
+
+**Problema.** Il comma dice che i CdR conservano il valore per dodici mesi, poi «si riducono di un quarto del valore iniziale per ogni trimestre e si estinguono al termine del ventiquattresimo mese». Non dice se la riduzione avviene all'inizio o alla fine di ogni trimestre. Se avviene all'inizio, i CdR si estinguono al ventunesimo mese e non al ventiquattresimo: le due frasi si contraddicono. Inoltre nessun articolo dice quali CdR si impiegano per primi, e con la decrescenza la differenza conta.
+
+**Testo proposto.** Il comma 3 è sostituito dal seguente:
+
+> 3. I CdR non impiegati conservano il proprio valore per dodici mesi dalla maturazione. Successivamente si riducono di un quarto del valore iniziale al termine di ogni trimestre: valgono tre quarti dal termine del quindicesimo mese, la metà dal termine del diciottesimo, un quarto dal termine del ventunesimo, e si estinguono al termine del ventiquattresimo. Si impiegano per primi i CdR di maturazione più remota.
+
+**Ragione.** È l'unica lettura in cui le due frasi del comma stanno insieme, ed è quella già usata nella [tabella pubblica del CdR](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-cdr.html). Impiegare per primi i CdR più vecchi è la regola più favorevole alla persona: nessuno perde valore per l'ordine in cui il sistema li conta.
+
+**Altri punti da allineare.** Nessun rinvio cambia. La simulazione pubblicata usa già questa curva. Versione: Codice 1 da V1.5 a V1.6, insieme alle proposte 2, 5 e 10.
+
+**Che cosa costa.** Niente: chiarisce una regola, non la cambia.
+
+## Proposta 10 — La maggiorazione dei compiti sgradevoli per chi è al tetto
+
+**Testo e articolo:** Codice 1, art. 44, c. 2.
+
+**Problema.** Il comma dice che, raggiunto il tetto, «le attività ulteriori non attribuiscono CdR». Ma la maggiorazione dei compiti sgradevoli svolti dentro il Contributo di Base (art. 10, c. 3) non nasce da un'attività ulteriore: quei compiti sono assegnati per sorteggio (art. 8, c. 3). Il testo non dice che cosa accade a chi è al tetto e viene sorteggiato. Letto alla lettera, due persone fanno lo stesso turno di notte e una sola è riconosciuta.
+
+**Testo proposto.** Al comma 2 è aggiunto, in fine:
+
+> Le maggiorazioni maturate nell’ambito del CBO ai sensi dell’articolo 10, comma 3, sono attribuite anche a chi ha raggiunto il tetto: per la parte che lo supererebbe si estinguono, per pari valore, i CdR di maturazione più remota. Il saldo non supera in nessun caso il tetto.
+
+**Ragione.** Il tetto resta assoluto, come vuole la Costituzione (art. 8.2): nessuno accumula di più. Ma il riconoscimento di un compito sgradevole non scelto arriva a tutti nello stesso modo: chi è al tetto riceve CdR nuovi al posto dei più vecchi, che così durano di più. L'alternativa è confermare la lettura letterale e dirlo in modo espresso: è più semplice, ma tratta in modo diverso lo stesso lavoro.
+
+**Altri punti da allineare.** Dipende dalla proposta 9, che fissa l'ordine dei CdR. Non cambia la concentrazione misurata dall'articolo 46, comma 3, perché il saldo massimo resta lo stesso. Versione: Codice 1 da V1.5 a V1.6, insieme alle proposte 2, 5 e 9.
+
+**Che cosa costa.** Una regola in più nel registro personale dei CdR. Nessun effetto sul lavoro necessario.
+
+## Proposta 11 — Soglie economiche in proporzione alla dimensione della Comunità
+
+**Testo e articolo:** Codice 3, art. 7, c. 3 e nuovo c. 3-bis; art. 7-bis, c. 1.
+
+**Problema.** La matrice dell'articolo 7 usa due soglie fisse: 500 e 2.500 UCR, cioè 500 e 2.500 ore di lavoro. Ma una Comunità di Base va da trenta a cinquecento persone (Cost. 5.1), e la stessa soglia pesa in modo molto diverso. Nel [primo bilancio delle ore](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-ucr.html) una Comunità lavora circa 238 ore all'anno per abitante.
+
+| Persone | 500 UCR sono | 2.500 UCR sono |
+|---|---|---|
+| 500 | lo 0,4% del lavoro di un anno | il 2,1% |
+| 150 | l'1,4% | il 7% |
+| 30 | il 7% | il 35% |
+
+In una Comunità di trenta persone, un'operazione a rischio basso che impegna un terzo del lavoro di un anno può essere decisa senza Assemblea. In una di centocinquanta, un solo Cerchio di Competenza può impegnare più del contributo annuo di una persona (376 ore).
+
+**Testo proposto.** Nella matrice del comma 3 le intestazioni delle righe diventano:
+
+> **Basso: inferiore alla soglia bassa** — **Medio: dalla soglia bassa alla soglia alta inclusa** — **Alto: superiore alla soglia alta**
+
+Dopo il comma 3 è inserito:
+
+> 3-bis. La soglia bassa è pari a una UCR per ogni membro della Comunità di Base e non può superare 500 UCR. La soglia alta è pari a cinque UCR per ogni membro e non può superare 2.500 UCR. Il numero dei membri è quello del primo giorno dell’anno. L’Assemblea Generale calibra questi valori ai sensi dell’articolo 14, comma 2, lettera b); la calibrazione non può eliminare la proporzione con il numero dei membri.
+
+All'articolo 7-bis, comma 1, le parole «di valore inferiore a 500 UCR» diventano:
+
+> di valore basso
+
+**Ragione.** Un'ora di lavoro per ciascuno è una misura che ogni persona capisce e che vale in ogni Comunità: sotto quella soglia decide chi è competente, sopra le cinque ore per ciascuno decide l'Assemblea. Per la Comunità più grande, cinquecento persone, le soglie restano quelle di oggi; per le altre scendono in proporzione. Nessuna soglia sale.
+
+| Persone | Soglia bassa | Soglia alta | Sul lavoro di un anno |
+|---|---|---|---|
+| 30 | 30 UCR | 150 UCR | 0,4% e 2,1% |
+| 150 | 150 UCR | 750 UCR | 0,4% e 2,1% |
+| 500 | 500 UCR | 2.500 UCR | 0,4% e 2,1% |
+
+**Altri punti da allineare.** Le regole contro il frazionamento (art. 11) e sul calcolo del valore (art. 5) non cambiano. La matrice nomina soltanto organi del Cerchio 1: la proposta non tocca le decisioni dei Cerchi superiori. Versione: Codice 3 da V1.4 a V1.5.
+
+**Che cosa costa.** Nelle Comunità piccole più decisioni salgono di livello: più lavoro per il Consiglio Qualità e più punti all'ordine del giorno dell'Assemblea. Quante siano non è calcolato. Uno e cinque sono ipotesi di redazione, da calibrare sui primi dati reali.
 
 ## Che cosa succede dopo
 

@@ -150,10 +150,13 @@ LINGUE = {
                                  "riconosciuto. Il progetto non nasce da un’ideologia, ma dalla logica e dal buon "
                                  "senso. Non chiede di aderire a un’etichetta: chiede di essere giudicato sulle "
                                  "regole."),
-                ("Come è fatta", "Comunità di base da 30 a 500 persone, che decidono in assemblea e si federano in "
-                                 "livelli più ampi, fino al pianeta. Nessun livello comanda quello sotto. Gli "
-                                 "incarichi sono assegnati per sorteggio tra volontari, durano poco e non si "
-                                 "ripetono di seguito."),
+                ("Come è fatta", "Si parte dalla persona. Ognuno vive in un Nucleo di Cura (Cerchio 0): da solo, in "
+                                 "famiglia o con chi sceglie, fino a quindici persone. La Comunità non può "
+                                 "entrarvi né scioglierlo, se non per proteggere una persona. I Nuclei formano "
+                                 "Comunità di base da 30 a 500 persone, che decidono in assemblea: ognuno vota "
+                                 "per sé. Le Comunità si federano in cerchi più ampi, fino al pianeta, che "
+                                 "coordinano e non comandano. Gli incarichi si sorteggiano tra volontari, durano "
+                                 "poco e non si ripetono di seguito."),
                 ("Che cosa garantisce", "A ogni membro casa, cibo, acqua, energia, cure, istruzione e connessione: "
                                         "non sono il compenso del lavoro. I beni si prendono dai Magazzini comuni "
                                         "secondo il bisogno; il denaro è abolito. Terra, acqua, energia e mezzi di "
@@ -287,10 +290,13 @@ LINGUE = {
                                      "recognised. The project does not come from an ideology, but from logic and common "
                                      "sense. It does not ask anyone to sign up to a label: it asks to be judged on its "
                                      "rules."),
-                ("How it is built", "Base Communities of 30 to 500 people, which decide in assembly and federate into "
-                                    "wider levels, up to the planet. No level commands the one below. Roles are "
-                                    "assigned by lot among volunteers, last a short time and cannot be held twice "
-                                    "in a row."),
+                ("How it is built", "It starts from the person. Everyone lives in a Care Nucleus (Circle 0): alone, "
+                                    "with family or with whoever they choose, up to fifteen people. The Community "
+                                    "cannot enter it or dissolve it, except to protect a person. Nuclei form Base "
+                                    "Communities of 30 to 500 people, which decide in assembly: everyone votes for "
+                                    "themselves. Communities federate into wider circles, up to the planet, which "
+                                    "coordinate and do not command. Roles are assigned by lot among volunteers, "
+                                    "last a short time and cannot be held twice in a row."),
                 ("What it guarantees", "To every member a home, food, water, energy, health care, education and "
                                        "connectivity: these are not payment for work. Goods are taken from the "
                                        "Common Storehouses according to need; money is abolished. Land, water, "
@@ -424,10 +430,13 @@ LINGUE = {
                                    "por elección. Lo personal sigue siendo personal, y a quien contribuye más se le "
                                    "reconoce. El proyecto no nace de una ideología, sino de la lógica y del sentido "
                                    "común. No pide adherirse a una etiqueta: pide ser juzgado por sus reglas."),
-                ("Cómo está hecha", "Comunidades de base de 30 a 500 personas, que deciden en asamblea y se federan "
-                                    "en niveles más amplios, hasta el planeta. Ningún nivel manda sobre el de abajo. "
-                                    "Los cargos se asignan por sorteo entre voluntarios, duran poco y no se repiten "
-                                    "de forma consecutiva."),
+                ("Cómo está hecha", "Se parte de la persona. Cada cual vive en un Núcleo de Cuidado (Círculo 0): solo, "
+                                    "en familia o con quien elija, hasta quince personas. La Comunidad no puede "
+                                    "entrar en él ni disolverlo, salvo para proteger a una persona. Los Núcleos "
+                                    "forman Comunidades de base de 30 a 500 personas, que deciden en asamblea: cada "
+                                    "cual vota por sí mismo. Las Comunidades se federan en círculos más amplios, "
+                                    "hasta el planeta, que coordinan y no mandan. Los cargos se asignan por sorteo "
+                                    "entre voluntarios, duran poco y no se repiten de forma consecutiva."),
                 ("Qué garantiza", "A cada miembro vivienda, alimentos, agua, energía, atención sanitaria, educación "
                                   "y conexión: no son la retribución del trabajo. Los bienes se toman de los Almacenes "
                                   "comunes según la necesidad; el dinero queda abolido. Tierra, agua, energía y "
