@@ -283,6 +283,45 @@ def esempio_pane():
     print("  %-52s %.4f UCR = %.1f minuti" % ("totale", tot, tot * 60))
 
 
+COSTO_DEI_ROBOT = 0.2      # ipotesi: costruire, alimentare e mantenere le macchine costa un quinto delle ore risparmiate
+
+
+def automazione():
+    """Quanto del lavoro interno è automatizzabile e quanto può cambiare il conto (scenario A)."""
+    r = conto()
+    a = r["A"]
+    sett = lambda ore: ore / r["contributori"] / SETTIMANE
+    campo = sum(r["campo"].values())
+    macchine = {"Campo": campo, "Trasformazione del cibo": ORE_TRASFORMAZIONE, "Energia e acqua": a["Energia e acqua"],
+                "Manutenzione e costruzioni": a["Manutenzione"], "Logistica": a["Logistica"]}
+    persone = {"Pasti collettivi": r["pasti"],
+               "Cura: sanità, anziani, nido": a["Cura: sanità"] + a["Cura: anziani e persone non autosufficienti"] + a["Cura: nido"],
+               "Apprendimento": a["Apprendimento dei minori"]}
+    interno = sum(v for k, v in a.items() if k != "Funzioni civiche e documentazione")
+    print("\nAutomazione (scenario A)")
+    print("  Lavoro che le macchine possono alleggerire:")
+    for k, v in macchine.items():
+        print("    %-28s %6.0f ore" % (k, v))
+    tot_m = sum(macchine.values())
+    print("    %-28s %6.0f ore = %.0f%% del lavoro interno senza le funzioni civiche" % ("totale", tot_m, 100 * tot_m / interno))
+    print("  Lavoro tra persone, che non si automatizza:")
+    for k, v in persone.items():
+        print("    %-28s %6.0f ore" % (k, v))
+    tot_p = sum(persone.values())
+    print("    %-28s %6.0f ore = %.0f%%" % ("totale", tot_p, 100 * tot_p / interno))
+    totale = sum(a.values())
+    for quota in (0.25, 0.5, 0.75):
+        lordo = tot_m * quota / (1 - QUOTA_CIVICA)
+        netto = lordo * (1 - COSTO_DEI_ROBOT)
+        print("  se le macchine tolgono il %2.0f%% di quelle ore: da %.1f a %.1f ore a settimana (%.1f contando il costo delle macchine)"
+              % (100 * quota, sett(totale), sett(totale - lordo), sett(totale - netto)))
+    dieci = tot_m * 0.10 / (1 - QUOTA_CIVICA)
+    print("  ogni 10%% in meno vale %.0f minuti a settimana per contributore" % (sett(dieci) * 60))
+    print("  esempio: una macchina da 60.000 euro che dura 15 anni costa %.0f UCR l'anno (%.0f se fatta per metà dove il lavoro rende meno)"
+          % (60000 / 15 * r["ore_per_euro"], 60000 / 15 * r["ore_per_euro"] * 2))
+
+
 if __name__ == "__main__":
     stampa()
     esempio_pane()
+    automazione()

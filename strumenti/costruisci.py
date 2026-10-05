@@ -163,6 +163,10 @@ LINGUE = {
                                     "rinuncia alla proprietà privata dei mezzi di produzione, all’accumulo, alle "
                                     "armi e allo sfruttamento degli animali, macellazione compresa. Chi non ci sta "
                                     "può uscire in qualsiasi momento e chiedere di rientrare."),
+                ("E le macchine?", "Robot e automazioni sono mezzi di produzione comuni: non appartengono a nessuno. "
+                                   "Servono prima di tutto dove il lavoro è pericoloso o usurante. Il tempo che "
+                                   "liberano resta alla Comunità: tempo libero, apprendimento, cura. L’IA calcola e propone, ma non decide: ogni decisione resta alle persone, e "
+                                   "la cura delle persone non si automatizza."),
                 ("Che cosa non sappiamo", "Se funziona. Nessuna comunità l’ha ancora messa alla prova. Molte soglie e "
                                           "quantità sono ipotesi da verificare. Come ci si arrivi dal sistema "
                                           "attuale, e se regga su grande scala, è scritto ma mai provato. Per questo "
@@ -296,6 +300,11 @@ LINGUE = {
                                  "giving up private ownership of the means of production, accumulation, weapons "
                                  "and the exploitation of animals, slaughter included. Anyone who does not agree "
                                  "can leave at any time and ask to come back."),
+                ("And the machines?", "Robots and automation are common means of production: they belong to no one. They "
+                                      "are used first of all where work is dangerous or arduous. The time they free stays "
+                                      "with the Community: free time, learning, care. AI "
+                                      "calculates and proposes, but does not decide: every decision stays with people, and "
+                                      "the care of people is not automated."),
                 ("What we do not know", "Whether it works. No community has put it to the test yet. Many thresholds "
                                         "and quantities are hypotheses to be verified. How to get there from the "
                                         "present system, and whether it holds at large scale, is written but never "
@@ -428,6 +437,11 @@ LINGUE = {
                              "renuncia a la propiedad privada de los medios de producción, a la acumulación, a las "
                              "armas y a la explotación de los animales, incluido su sacrificio. Quien no esté de "
                              "acuerdo puede salir en cualquier momento y pedir volver."),
+                ("¿Y las máquinas?", "Robots y automatizaciones son medios de producción comunes: no pertenecen a nadie. "
+                                     "Sirven ante todo donde el trabajo es peligroso o penoso. El tiempo que liberan "
+                                     "queda en la Comunidad: tiempo libre, aprendizaje, cuidado. "
+                                     "La IA calcula y propone, pero no decide: toda decisión queda en manos de las "
+                                     "personas, y el cuidado de las personas no se automatiza."),
                 ("Qué no sabemos", "Si funciona. Ninguna comunidad la ha puesto a prueba todavía. Muchos umbrales y "
                                    "cantidades son hipótesis por verificar. Cómo se llega desde el sistema actual, y "
                                    "si resiste a gran escala, está escrito pero nunca se ha probado. Por eso todo es "

@@ -46,7 +46,7 @@ Il coefficiente è il rapporto tra le ore lavorate e il prodotto di un'economia.
 
 Un esempio di ore reali: in Ruanda la coltivazione del caffè richiede circa 251 giornate di lavoro per ettaro e rende in media 1,69 kg di ciliegie per pianta. Con 2.500 piante per ettaro, giornate di sette ore, sei chili di ciliegie per chilo di caffè verde e 1,19 chili di verde per chilo di tostato (ipotesi), un chilo di caffè tostato contiene circa 3 ore di lavoro di piantagione. Convertito con la media europea, lo stesso chilo ne conterebbe 0,3.
 
-**Che cosa fa il costo: lavoro, mezzi di produzione, trasporto.** Il costo reale di un bene ha tre parti: le ore di chi lo produce, la quota dei mezzi usati per produrlo (macchine, materiali, energia, ricondotti a ore) e il trasporto. Il coefficiente di un paese non misura la distanza: stima quante ore servono là, con i mezzi di produzione che là si usano. Il caffè contiene tre ore perché è raccolto a mano, con pochi mezzi; con attrezzi migliori ne conterrebbe meno, ovunque fosse coltivato. Il trasporto si conta a parte e pesa poco: nel maggio 2026 un container da Shanghai a Genova costava circa 4.100 dollari, cioè circa 20 centesimi per chilo di merce, meno di un centesimo di UCR.
+**Che cosa fa il costo: lavoro, mezzi di produzione, trasporto.** Il costo reale di un bene ha tre parti: le ore di chi lo produce, la quota dei mezzi usati per produrlo (macchine, materiali, energia, ricondotti a ore) e il trasporto. Il coefficiente di un paese non misura la distanza: stima quante ore servono là, con i mezzi di produzione che là si usano. Il caffè contiene tre ore perché è raccolto a mano, con pochi mezzi; con attrezzi migliori ne conterrebbe meno, ovunque fosse coltivato. Il trasporto si conta a parte e pesa poco: nel maggio 2026 un container da Shanghai a Genova costava circa 4.100 dollari, cioè circa 20 centesimi per chilo di merce con venti tonnellate di carico: meno di un centesimo di UCR.
 
 Sono conversioni indicative (art. 9, c. 6), da migliorare con dati di filiera.
 
@@ -193,7 +193,55 @@ Il Codice 1 prevede già che cosa accade se le ore non bastano: si riducono le a
 | Inventario dei manufatti triplicato | conto completo: 11,3 ore nello scenario A, 14,5 nello scenario B |
 | 48 settimane di lavoro all'anno invece di 52 | le ore disponibili scendono dell'8% |
 
-## 5. Una conseguenza per le soglie del Codice 3
+## 5. Robot e automazione
+
+Il conto del paragrafo 4 usa le macchine di oggi. Questo paragrafo dice come si conta un'automazione, dove serve di più e quanto può cambiare il risultato. Le regole in vigore sono nel Codice 7, articolo 6, che vale per ogni automazione. Regole specifiche per i robot sono una proposta aperta ([proposta 8](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html)): dove questo paragrafo la usa, lo dice.
+
+### 5.1 Come si conta
+
+Un robot è un mezzo di produzione, quindi entra nel conto come ogni altro: le ore servite a costruirlo, più energia e manutenzione, ripartite sugli anni in cui lavora. Conviene quando le ore che fa risparmiare sono più di quelle che costa. Il Codice 7 chiede già che il risparmio di tempo sia documentabile (art. 6, c. 1); la proposta 8 chiede di fare questo confronto prima di introdurre la macchina.
+
+Un esempio: una macchina da 60.000 euro che dura quindici anni costa 78 UCR l'anno, 157 se è prodotta per metà dove il lavoro rende meno. Con cinquanta ore di manutenzione sono tra 130 e 210 ore l'anno. Conviene se ne fa risparmiare di più.
+
+Il risparmio non va a chi possiede la macchina, perché nessuno la possiede: il tempo liberato resta alla Comunità, che decide come usarlo (Cod. 7, art. 6, c. 6). La proposta 8 aggiunge che riduce le ore di Contributo di Base di tutti.
+
+### 5.2 Dove serve, ambito per ambito
+
+| Ambito | Ore all'anno nello scenario A | Che cosa possono fare le macchine | Che cosa resta alle persone |
+|---|---|---|---|
+| Campi | 4.600 | Lavorazione del suolo, semina, irrigazione, diserbo meccanico. Cereali, legumi e girasole sono già quasi del tutto meccanizzati. | La parte più grande del lavoro di oggi: raccolta e cure di frutta secca, ortaggi e frutta. È qui che i robot cambierebbero di più il conto. |
+| Trasformazione del cibo | 1.800 | Mulino, frantoio, impasto, lavaggio, confezionamento | Controllo, ricette, pulizia degli impianti |
+| Miniere, scavi e materie prime | fuori dal conto interno: sta nei manufatti | Scavo, trasporto e frantumazione in ambienti pericolosi. È il primo posto da cui togliere le persone (Cod. 7, art. 6, c. 1; proposta 8). | Progetto, sorveglianza, manutenzione, bonifica. Prima dell'estrazione vengono riuso e riciclo: l'automazione non giustifica estrarre più del fabbisogno (proposte 7 e 8). |
+| Costruzioni e manutenzione | 4.430 | Scavi, movimentazione dei carichi, prefabbricazione, ispezioni in quota | Progetto, finiture, riparazioni su misura |
+| Logistica e Magazzino | 2.560 | Inventario, movimentazione, parte delle consegne | Consegna alle persone fragili, rapporto con chi ritira |
+| Energia e acqua | 3.350 | Misure, regolazione, allarmi: in gran parte è già così | Riparazioni, decisioni sulle priorità |
+| Documentazione | fino a 3.560 | L'IA prepara verbali, registri e calcoli | Ogni decisione: l'IA propone, non decide (Cost. 19.6) |
+| Cucina collettiva | 4.560 | Attrezzature migliori | Cucinare e servire, nell'ipotesi prudente di questo conto |
+| Cura, sanità, apprendimento, giustizia | 8.600 | Solo strumenti azionati da una persona: sollevatori, ausili, diagnostica | Tutto il resto. Il Codice vieta di automatizzare la cura, la mediazione, la validazione delle competenze e le decisioni di garanzia (Cod. 7, art. 6, c. 2). |
+
+**Le materie prime.** Una Comunità di 150 persone non scava miniere: metalli e minerali arrivano da fuori, dentro i manufatti. Oggi nessun testo regola l'estrazione. Due proposte aperte ([6 e 7](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html)) la ammettono solo come ultima risorsa, dopo riduzione, riuso e riciclo, con il consenso della Comunità ospitante e il ripristino contato prima di cominciare.
+
+### 5.3 Quanto può cambiare il conto
+
+Nello scenario A il lavoro che le macchine possono alleggerire (campi, trasformazione, energia e acqua, manutenzione, logistica) è circa 16.700 ore: poco più di metà del lavoro interno. Il lavoro tra persone (cucina, cura, apprendimento) è circa 13.200 ore, e il progetto sceglie di non automatizzarlo.
+
+| Se le macchine tolgono | Ore a settimana per contributore | Contando che le macchine costino un quinto di ciò che risparmiano (ipotesi) |
+|---|---|---|
+| nulla in più di oggi | 7,2 | 7,2 |
+| un quarto di quelle ore | 6,3 | 6,5 |
+| metà | 5,3 | 5,7 |
+| tre quarti | 4,4 | 5,0 |
+
+Ogni dieci per cento in meno vale 23 minuti a settimana per ciascuno.
+
+### 5.4 Prospettive
+
+1. **C'è un limite, ed è voluto.** Anche automatizzando tutto ciò che si può, resta il lavoro tra persone: tra tre e quattro ore a settimana. Il progetto non punta a zero ore: punta a liberare le persone dal lavoro pericoloso e ripetitivo.
+2. **Le macchine non sono gratis.** Costano ore, energia e materie prime. Il limite vero è ecologico prima che tecnico.
+3. **Chi ci guadagna è la differenza con oggi.** Oggi una macchina che sostituisce il lavoro toglie il reddito a qualcuno e lo dà a chi la possiede. Qui non toglie il Paniere a nessuno e riduce le ore di tutti.
+4. **Nessuna promessa.** Il conto di questa bozza regge con le macchine che esistono. Robot migliori lo migliorerebbero; il progetto non dipende da essi.
+
+## 6. Una conseguenza per le soglie del Codice 3
 
 L'articolo 7 del Codice 3 distingue le operazioni di valore basso (sotto 500 UCR), medio (da 500 a 2.500) e alto. Con il coefficiente proposto, 500 UCR corrispondono a circa 25.500 euro di acquisti e allo 0,7% delle ore annue di una Comunità di 150 persone; 2.500 UCR a circa 128.000 euro e al 3,4%. Per una Comunità piccola la soglia bassa potrebbe essere troppo alta: un acquisto da 20.000 euro sarebbe deciso da un Cerchio di Competenza. È un parametro da verificare.
 
