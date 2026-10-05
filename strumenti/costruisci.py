@@ -143,13 +143,11 @@ LINGUE = {
             minuto=[
                 ("Che cos’è", "Una proposta di organizzazione sociale scritta per intero: una Costituzione, 16 Codici "
                               "e 4 Allegati. Non è in vigore da nessuna parte."),
-                ("È comunismo?", "Non nel senso che la parola ha preso nella storia. Qui non ci sono Stato, partito "
-                                 "né potere centrale. Si entra per scelta e si esce quando si vuole. Ciò che è "
-                                 "personale resta personale, e chi contribuisce di più è riconosciuto. Dalle "
-                                 "tradizioni comuniste e anarchiche il progetto prende i beni comuni e l’essenziale "
-                                 "garantito a tutti. Dalla tradizione dei diritti prende l’inviolabilità della "
-                                 "persona e i limiti al potere. Dall’ecologia prende i limiti del pianeta. Non "
-                                 "chiede di aderire a un’etichetta: chiede di essere giudicato sulle regole."),
+                ("È comunismo?", "Qui non ci sono Stato, partito né potere centrale. Si entra per scelta e si esce per "
+                                 "scelta. Ciò che è personale resta personale, e chi contribuisce di più è "
+                                 "riconosciuto. Il progetto non nasce da un’ideologia, ma dalla logica e dal buon "
+                                 "senso. Non chiede di aderire a un’etichetta: chiede di essere giudicato sulle "
+                                 "regole."),
                 ("Come è fatta", "Comunità di base da 30 a 500 persone, che decidono in assemblea e si federano in "
                                  "livelli più ampi, fino al pianeta. Nessun livello comanda quello sotto. Gli "
                                  "incarichi sono assegnati per sorteggio tra volontari, durano poco e non si "
@@ -278,14 +276,11 @@ LINGUE = {
             minuto=[
                 ("What it is", "A proposal for organising society, written out in full: a Constitution, 16 Codes and "
                                "4 Annexes. It is not in force anywhere."),
-                ("Is it communism?", "Not in the sense the word has taken on in history. Here there is no State, "
-                                     "no party and no central power. People join by choice and leave when they "
-                                     "wish. What is personal stays personal, and those who contribute more are "
-                                     "recognised. From the communist and anarchist traditions the project takes "
-                                     "the commons and the guarantee of the essentials for all. From the tradition "
-                                     "of rights it takes the inviolability of the person and the limits on power. "
-                                     "From ecology it takes the limits of the planet. It does not ask anyone to "
-                                     "sign up to a label: it asks to be judged on its rules."),
+                ("Is it communism?", "Here there is no State, no party and no central power. People join by choice and "
+                                     "leave by choice. What is personal stays personal, and those who contribute more are "
+                                     "recognised. The project does not come from an ideology, but from logic and common "
+                                     "sense. It does not ask anyone to sign up to a label: it asks to be judged on its "
+                                     "rules."),
                 ("How it is built", "Base Communities of 30 to 500 people, which decide in assembly and federate into "
                                     "wider levels, up to the planet. No level commands the one below. Roles are "
                                     "assigned by lot among volunteers, last a short time and cannot be held twice "
@@ -414,14 +409,10 @@ LINGUE = {
             minuto=[
                 ("Qué es", "Una propuesta de organización social escrita por entero: una Constitución, 16 Códigos y "
                            "4 Anexos. No está en vigor en ninguna parte."),
-                ("¿Es comunismo?", "No en el sentido que la palabra ha adquirido en la historia. Aquí no hay Estado, "
-                                   "ni partido, ni poder central. Se entra por elección y se sale cuando se quiere. "
-                                   "Lo personal sigue siendo personal, y a quien contribuye más se le reconoce. De "
-                                   "las tradiciones comunista y anarquista el proyecto toma los bienes comunes y lo "
-                                   "esencial garantizado a todos. De la tradición de los derechos toma la "
-                                   "inviolabilidad de la persona y los límites al poder. De la ecología toma los "
-                                   "límites del planeta. No pide adherirse a una etiqueta: pide ser juzgado por "
-                                   "sus reglas."),
+                ("¿Es comunismo?", "Aquí no hay Estado, ni partido, ni poder central. Se entra por elección y se sale "
+                                   "por elección. Lo personal sigue siendo personal, y a quien contribuye más se le "
+                                   "reconoce. El proyecto no nace de una ideología, sino de la lógica y del sentido "
+                                   "común. No pide adherirse a una etiqueta: pide ser juzgado por sus reglas."),
                 ("Cómo está hecha", "Comunidades de base de 30 a 500 personas, que deciden en asamblea y se federan "
                                     "en niveles más amplios, hasta el planeta. Ningún nivel manda sobre el de abajo. "
                                     "Los cargos se asignan por sorteo entre voluntarios, duran poco y no se repiten "
