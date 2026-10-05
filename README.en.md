@@ -2,6 +2,8 @@
 
 *[Versione italiana](README.md)*
 
+**Website:** <https://imthezeroit.github.io/progetto-dei-cerchi/en/> — all the texts, laid out for reading, in Italian and in English. To see in one minute what this is about: [In one minute](https://imthezeroit.github.io/progetto-dei-cerchi/en/#minuto).
+
 An open proposal for an alternative to the way we organise collective life today.
 
 The project starts from the person, organises the collectivity and builds the tools so that neither has to dominate the other. It is written out in full, article by article, so that it can be read, criticised, verified and corrected.

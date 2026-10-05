@@ -2,6 +2,8 @@
 
 *[English version](README.en.md)*
 
+**Sito:** <https://imthezeroit.github.io/progetto-dei-cerchi/> — tutti i testi impaginati, in italiano e in inglese. Per capire in un minuto di che cosa si tratta: [In un minuto](https://imthezeroit.github.io/progetto-dei-cerchi/#minuto).
+
 Una proposta aperta di alternativa al modo in cui oggi organizziamo la vita collettiva.
 
 Il progetto parte dalla persona, organizza la collettività e costruisce gli strumenti perché nessuna delle due debba dominare l'altra. È scritto per intero, articolo per articolo, perché possa essere letto, criticato, verificato e corretto.
