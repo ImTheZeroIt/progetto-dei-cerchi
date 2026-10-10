@@ -6,6 +6,7 @@ Questa pagina raccoglie le modifiche di sostanza proposte e non ancora decise. N
 
 - **Versione 2 del:** 6 ottobre 2026.
 - **Decisione non prima del:** 20 ottobre 2026.
+- **Aggiunta del 10 ottobre 2026:** i testi degli allineamenti delle proposte 7 e 8, che prima erano solo annunciati. Non cambiano le proposte.
 - **Per discuterle:** le [segnalazioni aperte](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues?q=is%3Aissue%20state%3Aopen%20in%3Atitle%20%22Proposta%20di%20modifica%22) il cui titolo comincia con «Proposta di modifica», oppure [zerocirclesproject@gmail.com](mailto:zerocirclesproject@gmail.com).
 
 Le prime quattro proposte nascono dalla [bozza dell'Allegato del Paniere di Sufficienza](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-paniere.html). La quinta, la nona e la decima riguardano il Contributo di Riconoscenza. La sesta e la settima riguardano il sottosuolo e le materie prime. L'ottava riguarda i robot. L'undicesima riguarda le soglie economiche delle decisioni.
@@ -265,6 +266,12 @@ Nel Codice 15, all'articolo 12, dopo il comma 5 è inserito:
 
 **Altri punti da allineare.** Nel Codice 10: l'inventario va aggiunto ai compiti del Consiglio Habitat e Territorio (art. 3) e ai contenuti del Catasto (art. 7, c. 1), e il Consiglio Produzione va aggiunto a chi può consultarlo (art. 7, c. 2). Versioni: Codice 10 da V1.3 a V1.4, insieme alla proposta 6; Codice 15 da V1.3 a V1.4.
 
+**Testo degli allineamenti** (aggiunto il 10 ottobre 2026). Nel Codice 10, all'articolo 3, comma 3, dopo la lettera g) è aggiunta:
+
+> h) tiene l'inventario dei materiali recuperabili previsto dall'articolo 8-bis.
+
+All'articolo 7, comma 1, le parole «rifugi per impollinatori e infrastrutture idriche agricole» diventano «rifugi per impollinatori, infrastrutture idriche agricole, giacimenti e materiali recuperabili». All'articolo 7, comma 2, lettera b), dopo le parole «Agroecologico e Biodiversità» sono inserite le parole «e, per l'inventario dei materiali recuperabili, al Consiglio Produzione,».
+
 **Che cosa costa.** L'inventario annuale è lavoro nuovo per ogni Consiglio Habitat e Territorio: tempo amministrativo, non stimato. Si sovrappone in parte all'inventario dei suoli degradati (art. 5, c. 4) e può essere tenuto insieme.
 
 **Punti aperti.** Il comma 5-bis lascia una dipendenza senza termine certo: i metalli che il riciclo non copre continueranno a essere comprati fuori, e lo stesso articolo 12 chiede un termine. È una contraddizione reale tra il divieto di estrarre e l'obbligo di uscire dalle dipendenze: questa proposta la rende visibile, non la risolve.
@@ -316,6 +323,8 @@ Dopo l'articolo 6 è inserito:
 **Ragione.** Una macchina che agisce da sola nello spazio fisico deve potersi fermare senza passare dal software, restare lontana dalle persone nel dubbio, e non diventare mai uno strumento di forza o di controllo. I robot che lavorano per tutti sono di tutti, come ogni mezzo di produzione. Il tempo che liberano resta alla Comunità, che decide come usarlo: è la regola che il Codice ha già (art. 6, c. 6).
 
 **Altri punti da allineare.** Il comma 6 deroga, per i compiti a rischio, all'assegnazione dell'articolo 8, comma 3, del Codice 1, che va allineato con un rinvio. Versione: Codice 7 da V1.6 a V1.7, insieme alla proposta 3.
+
+**Testo dell'allineamento** (aggiunto il 10 ottobre 2026). Nel Codice 1, all'articolo 8, comma 3, le parole «I compiti sgradevoli, usuranti o notturni sono assegnati» diventano «Salvo quanto previsto dall'articolo 6-bis, comma 6, del Codice 7, i compiti sgradevoli, usuranti o notturni sono assegnati».
 
 **Che cosa costa.** Per ogni tipo di robot una Scheda Tecnica; per ogni attività una Scheda Sicurezza; per ogni macchina un confronto in ore certificato. È tempo amministrativo, non stimato, e il bilancio delle ore mette già le funzioni civiche al limite. I robot contengono metalli e componenti che la Confederazione non produce: dipendenze da registrare (Cod. 15, art. 12).
 
