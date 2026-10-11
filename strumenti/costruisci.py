@@ -151,34 +151,14 @@ LINGUE = {
             senza_conto="Non hai un account su GitHub? Scrivi a {mail}: va bene anche una riga.",
             h_minuto="In un minuto",
             minuto=[
-                ("Che cos’è", "Una proposta di organizzazione sociale scritta per intero: una Costituzione, 16 Codici "
-                              "e 4 Allegati. Non è in vigore da nessuna parte."),
-                ("È comunismo?", "Qui non ci sono Stato, partito né potere centrale. Si entra per scelta e si esce quando si vuole; chi vi cresce è chiamato a scegliere a diciotto anni. Ciò che è personale resta personale, e chi contribuisce di più è "
-                                 "riconosciuto. Il progetto non nasce da un’ideologia, ma dalla logica e dal buon "
-                                 "senso. Non chiede di aderire a un’etichetta: chiede di essere giudicato sulle "
-                                 "regole."),
-                ("Come è fatta", "Si parte dalla persona. Ognuno vive in un Nucleo di Cura (Cerchio 0): da solo, in "
-                                 "famiglia o con chi sceglie, fino a quindici persone. La Comunità non può "
-                                 "entrarvi né scioglierlo, se non per proteggere una persona. I Nuclei formano "
-                                 "Comunità di base da 30 a 500 persone, che decidono in assemblea: ognuno vota "
-                                 "per sé. Le Comunità si federano in cerchi più ampi, fino al pianeta, che "
-                                 "coordinano e non comandano. Gli incarichi si sorteggiano tra volontari, hanno durata limitata e non si ripetono di seguito."),
-                ("Che cosa garantisce", "A ogni membro casa, cibo, acqua, energia, cure, istruzione e connessione: "
-                                        "non sono il compenso del lavoro. I beni si prendono dai Magazzini comuni "
-                                        "secondo il bisogno. Tra i membri il denaro è abolito: resta solo in Casse comuni, per i rapporti con l’esterno. Terra, acqua, energia e mezzi di "
-                                        "produzione sono beni comuni, che non si comprano e non si vendono. Restano "
-                                        "personali la casa in uso e i propri oggetti."),
-                ("Che cosa chiede", "A ogni adulto che può, una quota a rotazione del lavoro necessario a tutti. E la "
-                                    "rinuncia alla proprietà privata dei mezzi di produzione, all’accumulo, alle "
-                                    "armi e allo sfruttamento degli animali, macellazione compresa. Chi non ci sta "
-                                    "può uscire in qualsiasi momento e chiedere di rientrare."),
-                ("E le macchine?", "Macchine e automazione sono beni comuni: non appartengono a nessuno. Servono prima di tutto dove il lavoro è ripetitivo, usurante o pericoloso. Il tempo che "
-                                   "liberano resta alla Comunità: tempo libero, apprendimento, cura. L’IA calcola e propone, ma non decide: ogni decisione resta alle persone, e "
-                                   "la cura delle persone non si automatizza."),
-                ("Che cosa non sappiamo", "Se funziona. Nessuna comunità l’ha ancora messa alla prova. Molte soglie e "
-                                          "quantità sono ipotesi da verificare. Come ci si arrivi dal sistema "
-                                          "attuale, e se regga su grande scala, è scritto ma mai provato. Per questo "
-                                          "tutto è pubblico e le regole si possono correggere."),
+                ("Che cos’è", "Una proposta per organizzare la vita in comune a partire dai bisogni delle persone. È scritta per intero, articolo per articolo: una Costituzione e i Codici che la mettono in pratica, con i loro allegati tecnici. Non è in vigore da nessuna parte."),
+                ("Perché", "Il sistema in cui viviamo produce molto, ma non trasforma in modo proporzionato quella ricchezza in sicurezza, tempo e capacità di scelta per le persone. Chi decide, chi beneficia e chi paga sono sempre più spesso persone diverse, e il presente si finanzia trasferendo costi sul futuro. Per questo correggere gli effetti non basta: bisogna cambiare le condizioni che li producono."),
+                ("Che cosa garantisce", "A ogni membro casa, cibo, acqua, energia, cure, istruzione e connessione. Non sono il compenso del lavoro: i beni si prendono dai Magazzini comuni secondo il bisogno, e tra i membri non circola denaro. Ciò che è personale resta personale."),
+                ("Che cosa chiede", "A ogni adulto che può, una parte del lavoro necessario a tutti, a rotazione: in media non più di quindici ore a settimana. E la rinuncia alla proprietà privata della terra e dei mezzi di produzione, all’accumulo, alle armi e allo sfruttamento degli animali. Chi non è d’accordo può uscire quando vuole."),
+                ("Chi decide", "Ognuno vive in un Nucleo di Cura (Cerchio 0), dove la Comunità non entra se non per proteggere qualcuno. I Nuclei formano Comunità di base, di norma da 30 a 500 persone, che decidono in assemblea: ognuno vota per sé. Le Comunità si federano in cerchi più ampi, che coordinano e non comandano. Gli incarichi si sorteggiano tra volontari e hanno durata limitata."),
+                ("E le macchine?", "Sono beni comuni. Fanno prima di tutto i lavori ripetitivi, usuranti o pericolosi, e il tempo che liberano resta alla Comunità. L’IA calcola e propone; decidono le persone."),
+                ("È comunismo?", "Non ci sono Stato, partito né potere centrale. Si entra per scelta e si esce quando si vuole; chi vi cresce sceglie a diciotto anni. Ciò che è personale resta personale, e chi contribuisce di più è riconosciuto. Il progetto non chiede di aderire a un’etichetta: chiede di essere giudicato sulle regole."),
+                ("Che cosa non sappiamo", "Se funziona: nessuna comunità l’ha ancora provata, e molti numeri sono ipotesi da verificare. Per questo tutto è pubblico e le regole si possono correggere."),
             ],
             h_percorso="Il percorso",
             guida_percorso="Quattro letture in sequenza: da dove veniamo, dove siamo, che cosa non funziona, "
@@ -288,35 +268,14 @@ LINGUE = {
             senza_conto="No GitHub account? Write to {mail}: even one line is fine.",
             h_minuto="In one minute",
             minuto=[
-                ("What it is", "A proposal for organising society, written out in full: a Constitution, 16 Codes and "
-                               "4 Annexes. It is not in force anywhere."),
-                ("Is it communism?", "Here there is no State, no party and no central power. People join by choice and can leave whenever they wish; those who grow up in it are called to choose at eighteen. What is personal stays personal, and those who contribute more are "
-                                     "recognised. The project does not come from an ideology, but from logic and common "
-                                     "sense. It does not ask anyone to sign up to a label: it asks to be judged on its "
-                                     "rules."),
-                ("How it is built", "It starts from the person. Everyone lives in a Care Nucleus (Circle 0): alone, "
-                                    "with family or with whoever they choose, up to fifteen people. The Community "
-                                    "cannot enter it or dissolve it, except to protect a person. Nuclei form Base "
-                                    "Communities of 30 to 500 people, which decide in assembly: everyone votes for "
-                                    "themselves. Communities federate into wider circles, up to the planet, which "
-                                    "coordinate and do not command. Roles are assigned by lot among volunteers, are of limited duration and cannot be held twice in a row."),
-                ("What it guarantees", "To every member a home, food, water, energy, health care, education and "
-                                       "connectivity: these are not payment for work. Goods are taken from the "
-                                       "Common Storehouses according to need. Among members money is abolished: it remains only in Common Funds, for dealings with the outside world. Land, water, "
-                                       "energy and the means of production are commons, which cannot be bought or "
-                                       "sold. The home one lives in and one’s own belongings remain personal."),
-                ("What it asks", "Of every adult who is able, a rotating share of the work everyone needs. And "
-                                 "giving up private ownership of the means of production, accumulation, weapons "
-                                 "and the exploitation of animals, slaughter included. Anyone who does not agree "
-                                 "can leave at any time and ask to come back."),
-                ("And the machines?", "Machines and automation are commons: they belong to no one. They are used first of all where work is repetitive, arduous or dangerous. The time they free stays "
-                                      "with the Community: free time, learning, care. AI "
-                                      "calculates and proposes, but does not decide: every decision stays with people, and "
-                                      "the care of people is not automated."),
-                ("What we do not know", "Whether it works. No community has put it to the test yet. Many thresholds "
-                                        "and quantities are hypotheses to be verified. How to get there from the "
-                                        "present system, and whether it holds at large scale, is written but never "
-                                        "tried. This is why everything is public and the rules can be corrected."),
+                ("What it is", "A proposal for organising life in common starting from people’s needs. It is written out in full, article by article: a Constitution and the Codes that put it into practice, with their technical annexes. It is not in force anywhere."),
+                ("Why", "The system we live in produces a great deal, but does not turn that wealth proportionately into security, time and capacity for choice for people. Those who decide, those who benefit and those who pay are more and more often different people, and the present is financed by transferring costs onto the future. That is why correcting the effects is not enough: the conditions that produce them must change."),
+                ("What it guarantees", "To every member a home, food, water, energy, health care, education and connectivity. These are not payment for work: goods are taken from the Common Storehouses according to need, and no money circulates among members. What is personal stays personal."),
+                ("What it asks", "Of every adult who is able, a rotating share of the work everyone needs: on average no more than fifteen hours a week. And giving up private ownership of land and of the means of production, accumulation, weapons and the exploitation of animals. Anyone who does not agree can leave whenever they wish."),
+                ("Who decides", "Everyone lives in a Care Nucleus (Circle 0), which the Community does not enter except to protect someone. Nuclei form Base Communities, as a rule of 30 to 500 people, which decide in assembly: everyone votes for themselves. Communities federate into wider circles, which coordinate and do not command. Roles are assigned by lot among volunteers and are of limited duration."),
+                ("And the machines?", "They are commons. They take on repetitive, arduous or dangerous work first, and the time they free stays with the Community. AI calculates and proposes; people decide."),
+                ("Is it communism?", "There is no State, no party and no central power. People join by choice and can leave whenever they wish; those who grow up in it choose at eighteen. What is personal stays personal, and those who contribute more are recognised. The project does not ask anyone to sign up to a label: it asks to be judged on its rules."),
+                ("What we do not know", "Whether it works: no community has tried it yet, and many numbers are hypotheses still to be checked. That is why everything is public and the rules can be corrected."),
             ],
             h_percorso="The path",
             guida_percorso="Four readings in sequence: where we come from, where we are, what does not work, "
@@ -426,34 +385,14 @@ LINGUE = {
             senza_conto="¿No tienes cuenta de GitHub? Escribe a {mail}: basta con una línea.",
             h_minuto="En un minuto",
             minuto=[
-                ("Qué es", "Una propuesta de organización social escrita por entero: una Constitución, 16 Códigos y "
-                           "4 Anexos. No está en vigor en ninguna parte."),
-                ("¿Es comunismo?", "Aquí no hay Estado, ni partido, ni poder central. Se entra por elección y se sale cuando se quiere; quien crece en ella está llamado a elegir a los dieciocho años. Lo personal sigue siendo personal, y a quien contribuye más se le "
-                                   "reconoce. El proyecto no nace de una ideología, sino de la lógica y del sentido "
-                                   "común. No pide adherirse a una etiqueta: pide ser juzgado por sus reglas."),
-                ("Cómo está hecha", "Se parte de la persona. Cada cual vive en un Núcleo de Cuidado (Círculo 0): solo, "
-                                    "en familia o con quien elija, hasta quince personas. La Comunidad no puede "
-                                    "entrar en él ni disolverlo, salvo para proteger a una persona. Los Núcleos "
-                                    "forman Comunidades de base de 30 a 500 personas, que deciden en asamblea: cada "
-                                    "cual vota por sí mismo. Las Comunidades se federan en círculos más amplios, "
-                                    "hasta el planeta, que coordinan y no mandan. Los cargos se asignan por sorteo entre voluntarios, tienen duración limitada y no se repiten de forma consecutiva."),
-                ("Qué garantiza", "A cada miembro vivienda, alimentos, agua, energía, atención sanitaria, educación "
-                                  "y conexión: no son la retribución del trabajo. Los bienes se toman de los Almacenes "
-                                  "comunes según la necesidad. Entre los miembros el dinero queda abolido: solo permanece en Cajas comunes, para las relaciones con el exterior. Tierra, agua, energía y "
-                                  "medios de producción son bienes comunes, que no se compran ni se venden. Siguen "
-                                  "siendo personales la vivienda en uso y los objetos propios."),
-                ("Qué pide", "A cada adulto que pueda, una parte por rotación del trabajo necesario para todos. Y la "
-                             "renuncia a la propiedad privada de los medios de producción, a la acumulación, a las "
-                             "armas y a la explotación de los animales, incluido su sacrificio. Quien no esté de "
-                             "acuerdo puede salir en cualquier momento y pedir volver."),
-                ("¿Y las máquinas?", "Máquinas y automatización son bienes comunes: no pertenecen a nadie. Sirven ante todo donde el trabajo es repetitivo, penoso o peligroso. El tiempo que liberan "
-                                     "queda en la Comunidad: tiempo libre, aprendizaje, cuidado. "
-                                     "La IA calcula y propone, pero no decide: toda decisión queda en manos de las "
-                                     "personas, y el cuidado de las personas no se automatiza."),
-                ("Qué no sabemos", "Si funciona. Ninguna comunidad la ha puesto a prueba todavía. Muchos umbrales y "
-                                   "cantidades son hipótesis por verificar. Cómo se llega desde el sistema actual, y "
-                                   "si resiste a gran escala, está escrito pero nunca se ha probado. Por eso todo es "
-                                   "público y las reglas se pueden corregir."),
+                ("Qué es", "Una propuesta para organizar la vida en común a partir de las necesidades de las personas. Está escrita por entero, artículo por artículo: una Constitución y los Códigos que la llevan a la práctica, con sus anexos técnicos. No está en vigor en ninguna parte."),
+                ("Por qué", "El sistema en el que vivimos produce mucho, pero no transforma de manera proporcionada esa riqueza en seguridad, tiempo y capacidad de elección para las personas. Quien decide, quien se beneficia y quien paga son cada vez más a menudo personas distintas, y el presente se financia trasladando costos al futuro. Por eso no basta con corregir los efectos: hay que cambiar las condiciones que los producen."),
+                ("Qué garantiza", "A cada miembro vivienda, alimentos, agua, energía, atención sanitaria, educación y conexión. No son la retribución del trabajo: los bienes se toman de los Almacenes comunes según la necesidad, y entre los miembros no circula dinero. Lo personal sigue siendo personal."),
+                ("Qué pide", "A cada adulto que pueda, una parte del trabajo necesario para todos, por rotación: en promedio no más de quince horas a la semana. Y la renuncia a la propiedad privada de la tierra y de los medios de producción, a la acumulación, a las armas y a la explotación de los animales. Quien no esté de acuerdo puede salir cuando quiera."),
+                ("Quién decide", "Cada cual vive en un Núcleo de Cuidado (Círculo 0), donde la Comunidad no entra salvo para proteger a alguien. Los Núcleos forman Comunidades de base, por norma de 30 a 500 personas, que deciden en asamblea: cada cual vota por sí mismo. Las Comunidades se federan en círculos más amplios, que coordinan y no mandan. Los cargos se asignan por sorteo entre voluntarios y tienen duración limitada."),
+                ("¿Y las máquinas?", "Son bienes comunes. Hacen ante todo los trabajos repetitivos, penosos o peligrosos, y el tiempo que liberan queda en la Comunidad. La IA calcula y propone; deciden las personas."),
+                ("¿Es comunismo?", "No hay Estado, ni partido, ni poder central. Se entra por elección y se sale cuando se quiere; quien crece en ella elige a los dieciocho años. Lo personal sigue siendo personal, y a quien contribuye más se le reconoce. El proyecto no pide adherirse a una etiqueta: pide ser juzgado por sus reglas."),
+                ("Qué no sabemos", "Si funciona: ninguna comunidad la ha probado todavía, y muchas cifras son hipótesis por verificar. Por eso todo es público y las reglas se pueden corregir."),
             ],
             h_percorso="El recorrido",
             guida_percorso="Cuatro lecturas en secuencia: de dónde venimos, dónde estamos, qué no funciona, "
@@ -487,6 +426,123 @@ LINGUE = {
                         "decisión se queda en el nivel más cercano que pueda tomarla.",
             did_ciclo="Cómo funciona una Comunidad: se parte de las necesidades, la Asamblea decide, el trabajo "
                       "necesario llena los Almacenes y cada cual accede según su necesidad.",
+        ),
+    ),
+    "fr": dict(
+        codice="fr", prefisso="fr/", nome_lingua="Français", regole_da="it",
+        nome="Projet des Cercles",
+        dir_percorso="parcours", dir_registro="registro", dir_scarica="fr/telechargements",
+        pag_modifiche="modifications.html", pag_contribuire="contribuer.html",
+        md_modifiche="", md_contribuire="CONTRIBUER.md",
+        licenza_url="https://creativecommons.org/licenses/by-sa/4.0/deed.fr",
+        licenza_percorso_url="https://creativecommons.org/licenses/by-nd/4.0/deed.fr",
+        livelli=[("Noyau de soin", "de 1 à 15 personnes", ["soin quotidien", "et hospitalité"]),
+                 ("Communauté de base", "30–500 personnes", ["décide en Assemblée,", "gère travail et Entrepôt"]),
+                 ("Bassin", "au moins 3 Communautés", ["logistique, hôpital,", "Tribunal de garantie"]),
+                 ("Biorégion", "plusieurs Bassins", ["chemins de fer, énergie,", "haute spécialisation"]),
+                 ("Cercle global", "l’humanité entière", ["règles communes,", "aucun gouvernement"])],
+        ciclo=[("Besoins", ["ce dont les personnes", "ont besoin"]),
+               ("Assemblée", ["toutes les personnes,", "une voix chacune"]),
+               ("Travail nécessaire", ["par rotation ; en moyenne", "pas plus de 15 heures", "par semaine"]),
+               ("Entrepôts communs", ["biens et services", "de tous"]),
+               ("Accès", ["à chacun", "selon son besoin"])],
+        frecce=["relevés", "décide", "produit", "donnent"],
+        maiuscole=["Confédération", "Cercles", "Code", "Annex", "Assemblée", "Réseau", "Entrepôts communs",
+                   "Contribution de base obligatoire"],
+        t=dict(
+            salta="Aller au contenu", sezioni="Sections", percorso="Parcours", registro="Règles",
+            contribuire="Contribuer", repository="Dépôt",
+            piede="La Constitution, les Codes et les Annexes sont publiés sous licence {lic} : chacun peut les "
+                  "copier, les modifier et les republier, en citant la source et en gardant la même licence. Les "
+                  "quatre textes du parcours sont publiés sous licence {licp} : ils peuvent être copiés et "
+                  "republiés en entier, en citant la source, mais pas modifiés.",
+            piede_registro="Ce texte est publié sous licence {lic} : chacun peut le copier, le modifier et le "
+                           "republier, en citant la source et en gardant la même licence.",
+            piede_percorso="Ce texte est publié sous licence {licp} : chacun peut le copier et le republier en "
+                           "entier, en citant la source, mais pas le modifier. Il peut être traduit dans d’autres "
+                           "langues, si la traduction est intégrale et fidèle ; pour l’abréger ou l’adapter, il faut "
+                           "l’accord des auteurs : voir <a href=\"{con}\">comment contribuer</a>.",
+            avviso="Ceci est une traduction de travail. Le texte de référence est l’italien.",
+            bozza="Brouillon en cours de vérification : ni adopté, ni mis à l’épreuve",
+            modifiche="Registre des modifications", come_contribuire="Comment contribuer",
+            capitolo="Chapitre {n} sur {tot} · {min} min de lecture",
+            continua="Suite · chapitre {n} sur {tot}",
+            fine="Le parcours s’arrête ici", leggi_regole="Lire les règles",
+            fine_testo="La Constitution, les seize Codes et les Annexes, avec toutes leurs versions. Pour l’instant "
+                       "en italien et en anglais.",
+            inizio="← Accueil", capitoli="Chapitres", scarica="Télécharger", indice="Sommaire",
+            indice_aria="Sommaire du texte",
+            allineamento="Versions des autres textes avec lesquels il est aligné",
+            reg_sotto="Tous les textes normatifs du projet, avec leur version. Chaque modification est notée et "
+                      "motivée dans le <a href=\"{mod}\">registre des modifications</a>.",
+            h_cost="Constitution", h_codici="Codes", h_allegati="Annexes techniques",
+            h_come="Comment ils sont organisés",
+            come="La Constitution fixe les principes et la structure générale. Les Codes transforment ces principes "
+                 "en règles opérationnelles. Les Annexes techniques développent des procédures, des critères et des "
+                 "spécifications. En cas de conflit, la Constitution prévaut.",
+            desc_reg="Constitution, Codes et Annexes du Projet des Cercles, avec toutes leurs versions.",
+            versione="version",
+            etichetta="Une proposition ouverte", domanda="Quelles alternatives avons-nous ?",
+            attacco="Le Projet des Cercles est une proposition d’alternative à la manière dont nous organisons "
+                    "aujourd’hui la vie collective. Il part de la personne, organise la collectivité et construit les "
+                    "outils pour qu’aucune des deux n’ait à dominer l’autre.",
+            comincia="Commencer par le parcours", vai_regole="Aller aux règles", prova_caso="Mettre un cas à l’épreuve",
+            h_prova="Mettez-la à l’épreuve",
+            guida_prova="Le projet a besoin de critiques plus que d’adhésions. Trois façons de commencer, chacune avec "
+                        "des signalements déjà ouverts (pour l’instant en italien ; vous pouvez écrire en français) :",
+            prova=[
+                ("caso", "Essayer un cas", "Prenez une situation concrète, un conflit ou une objection en Assemblée, "
+                                           "et soumettez-la aux procédures : où elles tiennent et où elles cèdent."),
+                ("dato", "Vérifier une donnée", "Beaucoup de seuils sont des propositions de départ : de 30 à 500 "
+                                                "personnes par Communauté, le quorum, 50 litres d’eau par jour. Il faut "
+                                                "des données qui les confirment ou les démentent."),
+                ("codice", "Relire un Code", "Si vous connaissez une matière, lisez le Code qui la traite et dites ce "
+                                             "qui est faux, ce qui manque, ce qui n’est pas applicable."),
+            ],
+            senza_conto="Pas de compte GitHub ? Écrivez à {mail} : une ligne suffit.",
+            h_minuto="En une minute",
+            minuto=[
+                ("Ce que c’est", "Une proposition pour organiser la vie en commun à partir des besoins des personnes. Elle est écrite dans son intégralité, article par article : une Constitution et les Codes qui la mettent en pratique, avec leurs annexes techniques. Elle n’est en vigueur nulle part."),
+                ("Pourquoi", "Le système dans lequel nous vivons produit beaucoup, mais il ne transforme pas de manière proportionnée cette richesse en sécurité, en temps et en capacité de choix pour les personnes. Ceux qui décident, ceux qui en profitent et ceux qui paient sont de plus en plus souvent des personnes différentes, et le présent est financé en transférant des coûts sur l’avenir. C’est pourquoi corriger les effets ne suffit pas : il faut changer les conditions qui les produisent."),
+                ("Ce qu’elle garantit", "À chaque membre, le logement, la nourriture, l’eau, l’énergie, les soins, l’instruction et la connexion. Ce n’est pas la rémunération du travail : les biens se prennent dans les Entrepôts communs selon le besoin, et entre les membres l’argent ne circule pas. Ce qui est personnel reste personnel."),
+                ("Ce qu’elle demande", "À chaque adulte qui le peut, une part du travail nécessaire à tous, par rotation : en moyenne pas plus de quinze heures par semaine. Et le renoncement à la propriété privée de la terre et des moyens de production, à l’accumulation, aux armes et à l’exploitation des animaux. Qui n’est pas d’accord peut sortir quand il veut."),
+                ("Qui décide", "Chacun vit dans un Noyau de soin (Cercle 0), où la Communauté n’entre que pour protéger quelqu’un. Les Noyaux forment des Communautés de base, en règle générale de 30 à 500 personnes, qui décident en assemblée : chacun vote pour soi. Les Communautés se fédèrent en cercles plus larges, qui coordonnent et ne commandent pas. Les charges sont tirées au sort parmi des volontaires et ont une durée limitée."),
+                ("Et les machines ?", "Ce sont des biens communs. Elles font d’abord les travaux répétitifs, usants ou dangereux, et le temps qu’elles libèrent reste à la Communauté. L’IA calcule et propose ; ce sont les personnes qui décident."),
+                ("Est-ce du communisme ?", "Il n’y a ni État, ni parti, ni pouvoir central. On y entre par choix et on en sort quand on veut ; qui y grandit choisit à dix-huit ans. Ce qui est personnel reste personnel, et qui contribue davantage est reconnu. Le projet ne demande pas d’adhérer à une étiquette : il demande à être jugé sur ses règles."),
+                ("Ce que nous ne savons pas", "Si cela fonctionne : aucune communauté ne l’a encore essayé, et beaucoup de chiffres sont des hypothèses à vérifier. C’est pourquoi tout est public et les règles peuvent être corrigées."),
+            ],
+            h_percorso="Le parcours",
+            guida_percorso="Quatre lectures à la suite : d’où nous venons, où nous en sommes, ce qui ne fonctionne pas, "
+                           "ce que nous proposons.",
+            h_regole="Les règles",
+            guida_regole="La proposition est écrite dans son intégralité, article par article, pour pouvoir être "
+                         "vérifiée et corrigée. Les règles sont pour l’instant en italien et en anglais.",
+            codici_allegati="{nc} Codes et {na} Annexes techniques", storico="historique",
+            parametri="Paramètres à vérifier", parametri_nota="brouillon de calibrage · en italien",
+            h_bozze="Brouillons et propositions (en italien)",
+            bozze_sotto="Brouillons des annexes techniques que les Codes citent et qui ne sont pas encore adoptées, "
+                        "et modifications de fond en discussion. Aucun n’est en vigueur.",
+            reg_parametri="Les nombres proposés, avec leur origine et la preuve qu’il faudrait pour les confirmer, "
+                          "sont dans le <a href=\"{par}\">registre des paramètres à vérifier</a> (pour l’instant en italien).",
+            h_aperto="Un projet ouvert", h_stato="État", h_licenza="Licence",
+            stato="Le projet en est à la phase d’écriture et de vérification. Les textes ne sont pas un modèle "
+                  "démontré : ils doivent être mis à l’épreuve, et corrigés là où ils échouent.",
+            licenza="Les règles sont libres : {lic}. Elles peuvent être copiées, modifiées et republiées, en citant "
+                    "la source et en gardant la même licence. Les quatre textes du parcours peuvent être copiés et "
+                    "republiés en entier, mais pas modifiés : {licp}. Les traduire est permis.",
+            contribuire_testo="Lire, critiquer, vérifier, corriger. Il faut des compétences diverses et des cas "
+                              "concrets pour mettre les règles à l’épreuve.",
+            desc_home="Une proposition ouverte d’alternative à la manière dont nous organisons la vie collective : "
+                      "le parcours, la Constitution, les Codes.",
+            figura="Des personnes disposées en cercle, toutes égales, avec d’autres communautés reliées autour",
+            si_uniscono="s’unissent en",
+            ritorno="de nouveaux besoins naissent, et le cycle recommence",
+            consigli="Conseils techniques et IA", consigli2="proposent et calculent, ne décident pas",
+            garanzia="Cercle de garantie", garanzia2="contrôle et reçoit les recours ; charges brèves, tirées au sort",
+            did_livelli="Les cinq niveaux, de la personne à la planète. Aucun niveau ne commande celui du dessous : "
+                        "chaque décision reste au niveau le plus proche qui peut la prendre.",
+            did_ciclo="Comment fonctionne une Communauté : on part des besoins, l’Assemblée décide, le travail "
+                      "nécessaire remplit les Entrepôts et chacun y accède selon son besoin.",
         ),
     ),
 }
@@ -533,6 +589,29 @@ def leggi(percorso):
         chiave, valore = riga.split(": ", 1)
         meta[chiave] = json.loads(valore)
     return meta, testo[m.end():].strip("\n")
+
+
+COMMA_AGG = re.compile(r"<p>(\d+-(?:bis|ter|quater|quinquies|sexies)\.)\s")
+LETTERA = re.compile(r"<p>[a-z]\) ")
+
+
+def commi_aggiunti(corpo):
+    """Nei Codici, i commi inseriti dopo (1-bis, 3-ter...) sono paragrafi fuori dalla lista numerata:
+    li allineo al testo dei commi e ne segno il numero come quello della lista. Le lettere che li
+    seguono restano allo stesso margine."""
+    pezzi = re.split(r"(?=<p>)", corpo)
+    fuori, dentro = [], False
+    for pezzo in pezzi:
+        m = COMMA_AGG.match(pezzo)
+        if m:
+            pezzo = '<p class="comma-agg"><span class="num-agg">%s</span> ' % m.group(1) + pezzo[m.end():]
+            dentro = True
+        elif dentro and LETTERA.match(pezzo):
+            pezzo = '<p class="comma-agg">' + pezzo[3:]
+        else:
+            dentro = False
+        fuori.append(pezzo)
+    return "".join(fuori)
 
 
 def pandoc(markdown, indice=False, etichetta="Indice"):
@@ -889,6 +968,8 @@ def costruisci_lingua(lingua, altre):
         cost = meta["gruppo"] == "costituzione"
         if cost:
             corpo = ricerca.ancore_commi(corpo)
+        else:
+            corpo = commi_aggiunti(corpo)
         articoli, commi = ricerca.ancore_articoli(corpo)
         ancore[meta["id"]] = dict(slug=meta["slug"], articoli=articoli, commi=commi, costituzione=cost)
         indicizza(meta["breve"], "%s/%s.html" % (dr, meta["slug"]), abbassa_titoli(testo), corpo, cost,

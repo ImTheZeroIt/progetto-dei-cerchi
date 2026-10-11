@@ -6,42 +6,49 @@ The answers say what the texts provide for, not what will happen: the project is
 
 ### What is the Circles Project?
 
-A proposal for organising society, written out in full: a Constitution, 16 Codes and 4 Annexes. It is not in force anywhere.
+A proposal for organising life in common starting from people's needs. It is written out in full, article by article: a Constitution and the Codes that put it into practice, with their technical annexes. It is not in force anywhere.
 
 Words: what is it, project, confederation, circles, proposal, summary, overview, in short, about
 Where: [The register of texts](register/index.html); Const. 0.1; Const. 0.2
 
+### Why this project?
+
+The system we live in produces a great deal, but does not turn that wealth proportionately into security, time and capacity for choice for people. Those who decide, those who benefit and those who pay are more and more often different people, and the present is financed by transferring costs onto the future. That is why correcting the effects is not enough: the conditions that produce them must change.
+
+Words: why, reason, purpose, aim, problem, system, crisis, inequality, future, what for
+Where: [The system against the individual](path/3-the-system-against-the-individual.html); [Analysis of the present](path/2-analysis-of-the-present.html)
+
 ### Is it communism?
 
-Here there is no State, no party and no central power. People join by choice and can leave whenever they wish; those who grow up in it are called to choose at eighteen. What is personal stays personal, and those who contribute more are recognised. The project does not come from an ideology, but from logic and common sense. It does not ask anyone to sign up to a label: it asks to be judged on its rules.
+There is no State, no party and no central power. People join by choice and can leave whenever they wish; those who grow up in it choose at eighteen. What is personal stays personal, and those who contribute more are recognised. The project does not ask anyone to sign up to a label: it asks to be judged on its rules.
 
 Words: communism, communist, socialism, anarchy, anarchist, ideology, left, right, politics, utopia, marxism, capitalism
 Where: Const. 0.2; Const. 38.1; Const. 4.8; Const. 26.4; Const. 10.3; Const. 8.1
 
 ### How is it built?
 
-It starts from the person. Everyone lives in a Care Nucleus (Circle 0): alone, with family or with whoever they choose, up to fifteen people. The Community cannot enter it or dissolve it, except to protect a person. Nuclei form Base Communities of 30 to 500 people, which decide in assembly: everyone votes for themselves. Communities federate into wider circles, up to the planet, which coordinate and do not command. Roles are assigned by lot among volunteers, are of limited duration and cannot be held twice in a row.
+Everyone lives in a Care Nucleus (Circle 0), which the Community does not enter except to protect someone. Nuclei form Base Communities, as a rule of 30 to 500 people, which decide in assembly: everyone votes for themselves. Communities federate into wider circles, which coordinate and do not command. Roles are assigned by lot among volunteers and are of limited duration.
 
 Words: structure, organisation, organization, circles, nucleus, family, community, levels, federation, how it works
 Where: Const. 5.1; Const. 4.2; Const. 4.3; Const. 6.5; Const. 4.4
 
 ### What does it guarantee?
 
-To every member a home, food, water, energy, health care, education and connectivity: these are not payment for work. Goods are taken from the Common Storehouses according to need. Among members money is abolished: it remains only in Common Funds, for dealings with the outside world. Land, water, energy and the means of production are commons, which cannot be bought or sold. The home one lives in and one's own belongings remain personal.
+To every member a home, food, water, energy, health care, education and connectivity. These are not payment for work: goods are taken from the Common Storehouses according to need, and no money circulates among members. What is personal stays personal.
 
 Words: rights, guarantees, income, free, needs, basket, sufficiency, minimum, subsistence, welfare, housing, food
 Where: Const. 1.2; Const. 1.3; Const. 3.1; Const. 3.4; Const. 3.5; Const. 3.5-bis; Const. 10.3
 
 ### What does it ask?
 
-Of every adult who is able, a rotating share of the work everyone needs. And giving up private ownership of the means of production, accumulation, weapons and the exploitation of animals, slaughter included. Anyone who does not agree can leave at any time and ask to come back.
+Of every adult who is able, a rotating share of the work everyone needs: on average no more than fifteen hours a week. And giving up private ownership of land and of the means of production, accumulation, weapons and the exploitation of animals. Anyone who does not agree can leave whenever they wish.
 
 Words: duties, obligations, give up, what must I do, conditions, rules, commitments, sacrifices
-Where: Const. 7.1; Const. 10.1; Const. 10.4; Const. 16.1; Const. 13.1; Const. 4.8
+Where: Const. 7.1; Code 1, art. 3, para. 2; Const. 3.1; Const. 10.1; Const. 10.4; Const. 16.1; Const. 13.1; Const. 4.8
 
 ### Does it work? Has it been tried?
 
-We do not know. No community has put it to the test yet. Many thresholds and quantities are hypotheses to be verified. How to get there from the present system, and whether it holds at large scale, is written but never tried. This is why everything is public and the rules can be corrected.
+Whether it works: no community has tried it yet, and many numbers are hypotheses still to be checked. That is why everything is public and the rules can be corrected.
 
 Words: does it work, tried, tested, experiments, examples, realistic, utopia, evidence, results, proven, exists
 Where: [Register of parameters to be verified, in Italian](../registro/parametri.html); [How to contribute](contributing.html)
@@ -143,7 +150,7 @@ Where: Const. 3.6; Const. 3.7; Const. 3.9; Code 1, art. 44, para. 5
 
 ### And the machines?
 
-Machines and automation are commons: they belong to no one. They are used first of all where work is repetitive, arduous or dangerous. The time they free stays with the Community: free time, learning, care. AI calculates and proposes, but does not decide: every decision stays with people, and the care of people is not automated.
+They are commons. They take on repetitive, arduous or dangerous work first, and the time they free stays with the Community. AI calculates and proposes; people decide.
 
 Words: robots, machines, automation, automate, unemployment, technology, factories
 Where: Const. 3.1; Code 7, art. 6; Code 7, art. 2, para. 6; Const. 19.6; [Proposal 8, robots, in Italian](../registro/proposte.html#proposta-8--robot-e-macchine-autonome)

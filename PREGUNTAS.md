@@ -6,42 +6,49 @@ Las respuestas dicen qué prevén los textos, no qué va a pasar: el proyecto no
 
 ### ¿Qué es el Proyecto de los Círculos?
 
-Una propuesta de organización social escrita por entero: una Constitución, 16 Códigos y 4 Anexos. No está en vigor en ninguna parte.
+Una propuesta para organizar la vida en común a partir de las necesidades de las personas. Está escrita por entero, artículo por artículo: una Constitución y los Códigos que la llevan a la práctica, con sus anexos técnicos. No está en vigor en ninguna parte.
 
 Palabras: qué es, proyecto, confederación, círculos, propuesta, resumen, síntesis, en breve, de qué trata
 Dónde: [El registro de los textos, en italiano](../registro/index.html); Const. 0.1; Const. 0.2
 
+### ¿Por qué este proyecto?
+
+El sistema en el que vivimos produce mucho, pero no transforma de manera proporcionada esa riqueza en seguridad, tiempo y capacidad de elección para las personas. Quien decide, quien se beneficia y quien paga son cada vez más a menudo personas distintas, y el presente se financia trasladando costos al futuro. Por eso no basta con corregir los efectos: hay que cambiar las condiciones que los producen.
+
+Palabras: por qué, motivo, propósito, razón, problema, sistema, crisis, desigualdad, futuro, para qué
+Dónde: [El sistema contra el individuo](recorrido/3-el-sistema-contra-el-individuo.html); [Análisis del presente](recorrido/2-analisis-del-presente.html)
+
 ### ¿Es comunismo?
 
-Aquí no hay Estado, ni partido, ni poder central. Se entra por elección y se sale cuando se quiere; quien crece en ella está llamado a elegir a los dieciocho años. Lo personal sigue siendo personal, y a quien contribuye más se le reconoce. El proyecto no nace de una ideología, sino de la lógica y del sentido común. No pide adherirse a una etiqueta: pide ser juzgado por sus reglas.
+No hay Estado, ni partido, ni poder central. Se entra por elección y se sale cuando se quiere; quien crece en ella elige a los dieciocho años. Lo personal sigue siendo personal, y a quien contribuye más se le reconoce. El proyecto no pide adherirse a una etiqueta: pide ser juzgado por sus reglas.
 
 Palabras: comunismo, comunista, socialismo, anarquía, anarquista, ideología, izquierda, derecha, política, utopía, marxismo, capitalismo
 Dónde: Const. 0.2; Const. 38.1; Const. 4.8; Const. 26.4; Const. 10.3; Const. 8.1
 
 ### ¿Cómo está hecha?
 
-Se parte de la persona. Cada cual vive en un Núcleo de Cuidado (Círculo 0): solo, en familia o con quien elija, hasta quince personas. La Comunidad no puede entrar en él ni disolverlo, salvo para proteger a una persona. Los Núcleos forman Comunidades de base de 30 a 500 personas, que deciden en asamblea: cada cual vota por sí mismo. Las Comunidades se federan en círculos más amplios, hasta el planeta, que coordinan y no mandan. Los cargos se asignan por sorteo entre voluntarios, tienen duración limitada y no se repiten de forma consecutiva.
+Cada cual vive en un Núcleo de Cuidado (Círculo 0), donde la Comunidad no entra salvo para proteger a alguien. Los Núcleos forman Comunidades de base, por norma de 30 a 500 personas, que deciden en asamblea: cada cual vota por sí mismo. Las Comunidades se federan en círculos más amplios, que coordinan y no mandan. Los cargos se asignan por sorteo entre voluntarios y tienen duración limitada.
 
 Palabras: estructura, organización, círculos, núcleo, familia, comunidad, niveles, federación, cómo funciona
 Dónde: Const. 5.1; Const. 4.2; Const. 4.3; Const. 6.5; Const. 4.4
 
 ### ¿Qué garantiza?
 
-A cada miembro vivienda, alimentos, agua, energía, atención sanitaria, educación y conexión: no son la retribución del trabajo. Los bienes se toman de los Almacenes comunes según la necesidad. Entre los miembros el dinero queda abolido: solo permanece en Cajas comunes, para las relaciones con el exterior. Tierra, agua, energía y medios de producción son bienes comunes, que no se compran ni se venden. Siguen siendo personales la vivienda en uso y los objetos propios.
+A cada miembro vivienda, alimentos, agua, energía, atención sanitaria, educación y conexión. No son la retribución del trabajo: los bienes se toman de los Almacenes comunes según la necesidad, y entre los miembros no circula dinero. Lo personal sigue siendo personal.
 
 Palabras: derechos, garantías, renta, gratis, necesidades, cesta, suficiencia, mínimo, subsistencia, bienestar, vivienda, comida
 Dónde: Const. 1.2; Const. 1.3; Const. 3.1; Const. 3.4; Const. 3.5; Const. 3.5-bis; Const. 10.3
 
 ### ¿Qué pide?
 
-A cada adulto que pueda, una parte por rotación del trabajo necesario para todos. Y la renuncia a la propiedad privada de los medios de producción, a la acumulación, a las armas y a la explotación de los animales, incluido su sacrificio. Quien no esté de acuerdo puede salir en cualquier momento y pedir volver.
+A cada adulto que pueda, una parte del trabajo necesario para todos, por rotación: en promedio no más de quince horas a la semana. Y la renuncia a la propiedad privada de la tierra y de los medios de producción, a la acumulación, a las armas y a la explotación de los animales. Quien no esté de acuerdo puede salir cuando quiera.
 
 Palabras: deberes, obligaciones, renuncias, qué tengo que hacer, condiciones, reglas, compromisos, sacrificios
-Dónde: Const. 7.1; Const. 10.1; Const. 10.4; Const. 16.1; Const. 13.1; Const. 4.8
+Dónde: Const. 7.1; Cód. 1, art. 3, ap. 2; Const. 3.1; Const. 10.1; Const. 10.4; Const. 16.1; Const. 13.1; Const. 4.8
 
 ### ¿Funciona? ¿Se ha probado?
 
-No lo sabemos. Ninguna comunidad la ha puesto a prueba todavía. Muchos umbrales y cantidades son hipótesis por verificar. Cómo se llega desde el sistema actual, y si resiste a gran escala, está escrito pero nunca se ha probado. Por eso todo es público y las reglas se pueden corregir.
+Si funciona: ninguna comunidad la ha probado todavía, y muchas cifras son hipótesis por verificar. Por eso todo es público y las reglas se pueden corregir.
 
 Palabras: funciona, probado, experimentado, experimentos, ejemplos, realista, utopía, pruebas, resultados, existe, demostrado
 Dónde: [Registro de parámetros por verificar, en italiano](../registro/parametri.html); [Cómo contribuir](contribuir.html)
@@ -143,7 +150,7 @@ Dónde: Const. 3.6; Const. 3.7; Const. 3.9; Cód. 1, art. 44, ap. 5
 
 ### ¿Y las máquinas?
 
-Máquinas y automatización son bienes comunes: no pertenecen a nadie. Sirven ante todo donde el trabajo es repetitivo, penoso o peligroso. El tiempo que liberan queda en la Comunidad: tiempo libre, aprendizaje, cuidado. La IA calcula y propone, pero no decide: toda decisión queda en manos de las personas, y el cuidado de las personas no se automatiza.
+Son bienes comunes. Hacen ante todo los trabajos repetitivos, penosos o peligrosos, y el tiempo que liberan queda en la Comunidad. La IA calcula y propone; deciden las personas.
 
 Palabras: robots, máquinas, automatización, automatizar, desempleo, paro, tecnología, fábricas
 Dónde: Const. 3.1; Cód. 7, art. 6; Cód. 7, art. 2, ap. 6; Const. 19.6; [Propuesta 8, robots, en italiano](../registro/proposte.html#proposta-8--robot-e-macchine-autonome)

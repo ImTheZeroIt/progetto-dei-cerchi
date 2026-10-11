@@ -1,6 +1,6 @@
 # Proyecto de los Círculos
 
-*[Versione italiana](README.md) · [English version](README.en.md)*
+*[Versione italiana](README.md) · [English version](README.en.md) · [Version française](README.fr.md)*
 
 **Sitio:** <https://imthezeroit.github.io/progetto-dei-cerchi/es/> — el recorrido en español. Para entender en un minuto de qué se trata: [En un minuto](https://imthezeroit.github.io/progetto-dei-cerchi/es/#minuto).
 
@@ -23,7 +23,7 @@ Cuatro lecturas en secuencia:
 
 ## Las reglas
 
-La Constitución, los 16 Códigos y los 4 Anexos técnicos están por ahora en [italiano](README.md) y en [inglés](README.en.md).
+La Constitución, los Códigos y los Anexos técnicos están por ahora en [italiano](README.md) y en [inglés](README.en.md).
 
 ## Contribuir
 

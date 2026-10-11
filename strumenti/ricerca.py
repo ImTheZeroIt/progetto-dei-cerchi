@@ -6,7 +6,7 @@ Questo modulo è usato da costruisci.py. Fa tre cose:
 
 1. divide ogni testo in unità (un articolo, un comma della Costituzione, una sezione) e ne ricava
    l'indice che la pagina «Trova una risposta» legge nel browser;
-2. legge le domande frequenti da un file Markdown (DOMANDE.md, QUESTIONS.md, PREGUNTAS.md) e controlla
+2. legge le domande frequenti da un file Markdown (DOMANDE.md, QUESTIONS.md, PREGUNTAS.md, REPONSES.md) e controlla
    che ogni richiamo a un articolo esista davvero: se un articolo non c'è, la costruzione si ferma;
 3. prepara la pagina.
 
@@ -86,6 +86,26 @@ LINGUE = {
         home_titolo="¿Tienes otra pregunta?", home_bottone="Encuentra una respuesta",
         descrizione="Preguntas frecuentes sobre el Proyecto de los Círculos y búsqueda en los textos.",
         comma="apartado",
+    ),
+    "fr": dict(
+        md="REPONSES.md", pagina="questions.html", voce="Questions",
+        sotto="Écrivez une question ou un mot. Vous trouvez une réponse brève, quand il y en a une, et les "
+              "passages qui en parlent.",
+        etichetta="Votre question", segnaposto="travail, logement, argent, partir…", cerca="Chercher",
+        nota="Ce n’est pas une intelligence artificielle : elle compare vos mots avec les textes et vous mène au "
+             "passage. La recherche se fait dans votre navigateur : aucune question n’est envoyée ni enregistrée. "
+             "Les règles (Constitution et Codes) sont pour l’instant en italien et en anglais.",
+        senza_script="Pour chercher, il faut JavaScript. Les questions les plus courantes sont de toute façon ci-dessous.",
+        frequenti="Questions fréquentes", dove="Où le lire\u202f",
+        h_risposta="Réponse brève", h_testi="Où les textes en parlent",
+        carico="Chargement des textes…",
+        nessuno="Aucun résultat pour ces mots. Essayez des mots plus simples ou un synonyme.",
+        nessuno_aiuto="Si la réponse manque, <a href=\"{con}\">dites-le</a> : c’est une lacune à signaler.",
+        risultati="{n} passages trouvés. Voici les plus pertinents.", un_risultato="Un passage trouvé.",
+        leggi="Lire dans le texte", altri="Afficher plus de résultats", tutte="Voir toutes les questions",
+        home_titolo="Une autre question ?", home_bottone="Trouver une réponse",
+        descrizione="Questions fréquentes sur le Projet des Cercles et recherche dans les textes.",
+        comma="alinéa",
     ),
 }
 
@@ -184,7 +204,7 @@ RICHIAMI = [
     (re.compile(r"^(?:Cost|Const)\.\s*(\d+\.\d+(?:-[a-z]+)?)$"), "cost"),
     (re.compile(r"^(?:Cod\.|Code|Cód\.)\s*(\d+),\s*art\.\s*(\d+(?:-[a-z]+)?)(?:,.*)?$"), "codice"),
     (re.compile(r"^Annex A,\s*art\.\s*(\d+(?:-[a-z]+)?)(?:,.*)?$"), "annex"),
-    (re.compile(r"^(?:All\.|Annex 16-|Anexo)\s*([ABC]),\s*art\.\s*(\d+(?:-[a-z]+)?)(?:,.*)?$"), "allegato"),
+    (re.compile(r"^(?:All\.|Annex 16-|Anexo|Annexe)\s*([ABC]),\s*art\.\s*(\d+(?:-[a-z]+)?)(?:,.*)?$"), "allegato"),
 ]
 
 
@@ -241,8 +261,8 @@ def leggi_domande(percorso, registro, base):
             for paragrafo in [p.strip() for p in resto.split("\n\n") if p.strip()]:
                 righe = []
                 for riga in paragrafo.split("\n"):
-                    m = re.match(r"^(Parole|Words|Palabras):\s*(.*)$", riga)
-                    n = re.match(r"^(Dove|Where|Dónde):\s*(.*)$", riga)
+                    m = re.match(r"^(Parole|Words|Palabras|Mots)\s*:\s*(.*)$", riga)
+                    n = re.match(r"^(Dove|Where|Dónde|Où)\s*:\s*(.*)$", riga)
                     if m:
                         parole = [p.strip() for p in m.group(2).split(",") if p.strip()]
                     elif n:

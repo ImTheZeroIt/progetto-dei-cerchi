@@ -6,42 +6,49 @@ Le risposte dicono che cosa prevedono i testi, non che cosa accadrà: il progett
 
 ### Che cos'è il Progetto dei Cerchi?
 
-Una proposta di organizzazione sociale scritta per intero: una Costituzione, 16 Codici e 4 Allegati. Non è in vigore da nessuna parte.
+Una proposta per organizzare la vita in comune a partire dai bisogni delle persone. È scritta per intero, articolo per articolo: una Costituzione e i Codici che la mettono in pratica, con i loro allegati tecnici. Non è in vigore da nessuna parte.
 
 Parole: cos'è, cosa è, progetto, confederazione, cerchi, proposta, di che cosa si tratta, riassunto, sintesi, in breve
 Dove: [Il registro dei testi](registro/index.html); Cost. 0.1; Cost. 0.2
 
+### Perché questo progetto?
+
+Il sistema in cui viviamo produce molto, ma non trasforma in modo proporzionato quella ricchezza in sicurezza, tempo e capacità di scelta per le persone. Chi decide, chi beneficia e chi paga sono sempre più spesso persone diverse, e il presente si finanzia trasferendo costi sul futuro. Per questo correggere gli effetti non basta: bisogna cambiare le condizioni che li producono.
+
+Parole: perché, motivo, scopo, ragione, problema, sistema, crisi, disuguaglianza, futuro, a che serve
+Dove: [Il sistema contro l'individuo](percorso/3-il-sistema-contro-l-individuo.html); [Analisi del presente](percorso/2-analisi-del-presente.html)
+
 ### È comunismo?
 
-Qui non ci sono Stato, partito né potere centrale. Si entra per scelta e si esce quando si vuole; chi vi cresce è chiamato a scegliere a diciotto anni. Ciò che è personale resta personale, e chi contribuisce di più è riconosciuto. Il progetto non nasce da un'ideologia, ma dalla logica e dal buon senso. Non chiede di aderire a un'etichetta: chiede di essere giudicato sulle regole.
+Non ci sono Stato, partito né potere centrale. Si entra per scelta e si esce quando si vuole; chi vi cresce sceglie a diciotto anni. Ciò che è personale resta personale, e chi contribuisce di più è riconosciuto. Il progetto non chiede di aderire a un'etichetta: chiede di essere giudicato sulle regole.
 
 Parole: comunismo, comunista, socialismo, anarchia, anarchico, ideologia, sinistra, destra, politica, utopia, marxismo, capitalismo
 Dove: Cost. 0.2; Cost. 38.1; Cost. 4.8; Cost. 26.4; Cost. 10.3; Cost. 8.1
 
 ### Come è fatta?
 
-Si parte dalla persona. Ognuno vive in un Nucleo di Cura (Cerchio 0): da solo, in famiglia o con chi sceglie, fino a quindici persone. La Comunità non può entrarvi né scioglierlo, se non per proteggere una persona. I Nuclei formano Comunità di base da 30 a 500 persone, che decidono in assemblea: ognuno vota per sé. Le Comunità si federano in cerchi più ampi, fino al pianeta, che coordinano e non comandano. Gli incarichi si sorteggiano tra volontari, hanno durata limitata e non si ripetono di seguito.
+Ognuno vive in un Nucleo di Cura (Cerchio 0), dove la Comunità non entra se non per proteggere qualcuno. I Nuclei formano Comunità di base, di norma da 30 a 500 persone, che decidono in assemblea: ognuno vota per sé. Le Comunità si federano in cerchi più ampi, che coordinano e non comandano. Gli incarichi si sorteggiano tra volontari e hanno durata limitata.
 
 Parole: struttura, organizzazione, cerchi, nucleo, famiglia, comunità, livelli, federazione, come funziona, com'è fatta
 Dove: Cost. 5.1; Cost. 4.2; Cost. 4.3; Cost. 6.5; Cost. 4.4
 
 ### Che cosa garantisce?
 
-A ogni membro casa, cibo, acqua, energia, cure, istruzione e connessione: non sono il compenso del lavoro. I beni si prendono dai Magazzini comuni secondo il bisogno. Tra i membri il denaro è abolito: resta solo in Casse comuni, per i rapporti con l'esterno. Terra, acqua, energia e mezzi di produzione sono beni comuni, che non si comprano e non si vendono. Restano personali la casa in uso e i propri oggetti.
+A ogni membro casa, cibo, acqua, energia, cure, istruzione e connessione. Non sono il compenso del lavoro: i beni si prendono dai Magazzini comuni secondo il bisogno, e tra i membri non circola denaro. Ciò che è personale resta personale.
 
 Parole: diritti, garanzie, reddito, gratis, bisogni, paniere, sufficienza, minimo, sussistenza, welfare, casa, cibo
 Dove: Cost. 1.2; Cost. 1.3; Cost. 3.1; Cost. 3.4; Cost. 3.5; Cost. 3.5-bis; Cost. 10.3
 
 ### Che cosa chiede?
 
-A ogni adulto che può, una quota a rotazione del lavoro necessario a tutti. E la rinuncia alla proprietà privata dei mezzi di produzione, all'accumulo, alle armi e allo sfruttamento degli animali, macellazione compresa. Chi non ci sta può uscire in qualsiasi momento e chiedere di rientrare.
+A ogni adulto che può, una parte del lavoro necessario a tutti, a rotazione: in media non più di quindici ore a settimana. E la rinuncia alla proprietà privata della terra e dei mezzi di produzione, all'accumulo, alle armi e allo sfruttamento degli animali. Chi non è d'accordo può uscire quando vuole.
 
 Parole: doveri, obblighi, rinunce, che cosa devo fare, condizioni, regole, impegni, sacrifici
-Dove: Cost. 7.1; Cost. 10.1; Cost. 10.4; Cost. 16.1; Cost. 13.1; Cost. 4.8
+Dove: Cost. 7.1; Cod. 1, art. 3, c. 2; Cost. 3.1; Cost. 10.1; Cost. 10.4; Cost. 16.1; Cost. 13.1; Cost. 4.8
 
 ### Funziona? È stato provato?
 
-Non lo sappiamo. Nessuna comunità l'ha ancora messa alla prova. Molte soglie e quantità sono ipotesi da verificare. Come ci si arrivi dal sistema attuale, e se regga su grande scala, è scritto ma mai provato. Per questo tutto è pubblico e le regole si possono correggere.
+Se funziona: nessuna comunità l'ha ancora provata, e molti numeri sono ipotesi da verificare. Per questo tutto è pubblico e le regole si possono correggere.
 
 Parole: funziona, provato, sperimentato, esperimenti, esempi, realistico, utopia, prove, risultati, esiste già, dimostrato
 Dove: [Registro dei parametri da verificare](registro/parametri.html); [Come contribuire](contribuire.html)
@@ -143,7 +150,7 @@ Dove: Cost. 3.6; Cost. 3.7; Cost. 3.9; Cod. 1, art. 44, c. 5
 
 ### E le macchine?
 
-Macchine e automazione sono beni comuni: non appartengono a nessuno. Servono prima di tutto dove il lavoro è ripetitivo, usurante o pericoloso. Il tempo che liberano resta alla Comunità: tempo libero, apprendimento, cura. L'IA calcola e propone, ma non decide: ogni decisione resta alle persone, e la cura delle persone non si automatizza.
+Sono beni comuni. Fanno prima di tutto i lavori ripetitivi, usuranti o pericolosi, e il tempo che liberano resta alla Comunità. L'IA calcola e propone; decidono le persone.
 
 Parole: robot, macchine, automazione, automatizzare, disoccupazione, tecnologia, lavoro delle macchine, fabbriche
 Dove: Cost. 3.1; Cod. 7, art. 6; Cod. 7, art. 2, c. 6; Cost. 19.6; [Proposta 8, robot](registro/proposte.html#proposta-8--robot-e-macchine-autonome)
