@@ -214,6 +214,8 @@ circle { fill: none; }
 .testo-norma ol { padding-left: 2rem; }
 .testo-norma ol > li::marker { font-family: var(--dati); font-size: 0.85em; color: var(--tenue); }
 .testo-norma ol > li > p + p { padding-left: 0.2rem; }
+.testo-norma p.comma-agg { padding-left: 2rem; }
+.testo-norma .num-agg { font-family: var(--dati); font-size: 0.85em; color: var(--tenue); }
 
 /* ---------- schermi stretti e stampa */
 @media (max-width: 60rem) {

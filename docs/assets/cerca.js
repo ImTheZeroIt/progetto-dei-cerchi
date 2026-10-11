@@ -17,7 +17,8 @@
   var VUOTE = {
     it: "a ad al allo alla ai agli alle anche c che chi ci come con cosa cos cui da dal dallo dalla dai dagli dalle de dei del dello della degli delle di dove e ed è era essere fa gli ha hanno ho i il in io l la le lei li lo loro lui ma mi mia mie miei mio ne nei nel nello nella negli nelle no noi non o per perché piu più posso puo può qual quale quali quando quanto quanta quante quanti quello quella questo questa se sei si sia sono su sua sue sul sullo sulla sui sugli sulle suo suoi ti tra tu tua tuo tuoi un una uno vi voi d succede esiste esistono devo deve qualcosa",
     en: "a an and are as at be but by can do does for from has have how i if in is it its me my no not of on or our so than that the their them then there these they this to up was we what when where which who why will with you your about any should would could am did",
-    es: "a al algo como con cual cuál cuando cuánto de del donde dónde e el ella ellos en es esta este esto hay la las lo los me mi mis no nos o para pero por porque qué que quien quién se si sí sin sobre son su sus te tu tus un una uno y ya puedo puede debo hace"
+    es: "a al algo como con cual cuál cuando cuánto de del donde dónde e el ella ellos en es esta este esto hay la las lo los me mi mis no nos o para pero por porque qué que quien quién se si sí sin sobre son su sus te tu tus un una uno y ya puedo puede debo hace",
+    fr: "a au aux avec ca ce ces cet cette comment d de des du dans donc elle elles en est et etre il ils je j l la le les leur leurs lui ma mais me mes moi mon ne n nous on ou par pas pour qu que qui quoi quel quelle quels quelles sa se ses si son sont sur ta te tes toi ton tu un une vos votre vous y peut puis puisje dois doit fait faut est-ce ya"
   };
   var SINONIMI = {
     it: {
@@ -49,11 +50,22 @@
     es: {
       dinero: "moneda", trabajo: "contribución", casa: "vivienda", cárcel: "contención", policía: "tutela", impuestos: "fiscales",
       escuela: "aprendizaje", médico: "salud", iglesia: "religión", carne: "animales", jefe: "coordinación", gobierno: "asamblea"
+    },
+    fr: {
+      argent: "monnaie caisse paiement", euro: "argent", salaire: "remuneration revenu cdr", paye: "remuneration", travail: "contribution cbo",
+      travailler: "contribution cbo", boulot: "travail contribution", maison: "logement habitation", loyer: "logement rente", prison: "confinement",
+      police: "protection civique corps", impots: "fiscales impots", impot: "fiscales", ecole: "apprentissage instruction", medecin: "sante soins",
+      hopital: "sante soins", eglise: "religion culte", dieu: "religion croyance", viande: "abattage animaux", chef: "coordination porte-parole",
+      gouvernement: "assemblee coordination", president: "porte-parole coordination", heritage: "succession mort", robot: "machines automatisation",
+      robots: "machines automatisation", enfants: "mineurs", vieux: "age exemption", retraite: "exemption age", partir: "sortir quitter",
+      quitter: "sortir", revenir: "retour readmission", vote: "assemblee deliberation", internet: "reseau connexion", telephone: "connexion reseau",
+      nourriture: "aliments panier", manger: "aliments panier", guerre: "defense armes desarmement", riches: "accumulation", entreprise: "propriete usage",
+      magasin: "entrepots", famille: "noyau cercle", ia: "intelligence artificielle", voiture: "mobilite vehicules"
     }
   };
 
   /* modi di dire che non portano informazione */
-  var MODI = { it: ["per forza", "in che modo", "che fine fa", "che fine fanno"], en: ["have to", "what about"], es: ["a la fuerza"] };
+  var MODI = { it: ["per forza", "in che modo", "che fine fa", "che fine fanno"], en: ["have to", "what about"], es: ["a la fuerza"], fr: ["est-ce que", "est ce que", "qu est-ce que", "qu est ce que"] };
 
   /* ---------- parole e radici */
   function semplice(s) {
@@ -66,7 +78,8 @@
     it: ["azione", "azioni", "amento", "amenti", "mente", "abile", "abili", "ibile", "ibili", "are", "ere", "ire", "ato", "ata", "ati", "ate",
          "uto", "uta", "uti", "ute", "ito", "ita", "iti", "ite", "ano", "ono", "ando", "endo"],
     en: ["ations", "ation", "ments", "ment", "ings", "ing", "ies", "ed", "es", "s"],
-    es: ["aciones", "ación", "acion", "mente", "ados", "adas", "idos", "idas", "ado", "ada", "ido", "ida", "ar", "er", "ir", "es", "s"]
+    es: ["aciones", "ación", "acion", "mente", "ados", "adas", "idos", "idas", "ado", "ada", "ido", "ida", "ar", "er", "ir", "es", "s"],
+    fr: ["issements", "issement", "ations", "ation", "ements", "ement", "ments", "ment", "euses", "euse", "eurs", "eur", "ives", "ive", "ifs", "ees", "ee", "es", "er", "ir", "e", "s"]
   };
   function radice(p) {
     var s = SUFFISSI[L] || [], i;
