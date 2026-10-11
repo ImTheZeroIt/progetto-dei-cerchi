@@ -93,8 +93,7 @@ LINGUE = {
               "passages qui en parlent.",
         etichetta="Votre question", segnaposto="travail, logement, argent, partir…", cerca="Chercher",
         nota="Ce n’est pas une intelligence artificielle : elle compare vos mots avec les textes et vous mène au "
-             "passage. La recherche se fait dans votre navigateur : aucune question n’est envoyée ni enregistrée. "
-             "Les règles (Constitution et Codes) sont pour l’instant en italien et en anglais.",
+             "passage. La recherche se fait dans votre navigateur : aucune question n’est envoyée ni enregistrée.",
         senza_script="Pour chercher, il faut JavaScript. Les questions les plus courantes sont de toute façon ci-dessous.",
         frequenti="Questions fréquentes", dove="Où le lire\u202f",
         h_risposta="Réponse brève", h_testi="Où les textes en parlent",

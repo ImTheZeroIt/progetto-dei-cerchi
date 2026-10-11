@@ -2,7 +2,7 @@
 
 *[English version](README.en.md) · [Versión española](README.es.md) · [Version française](README.fr.md)*
 
-**Sito:** <https://imthezeroit.github.io/progetto-dei-cerchi/> — tutti i testi impaginati, in italiano e in inglese; il percorso anche in spagnolo e in francese. Per capire in un minuto di che cosa si tratta: [In un minuto](https://imthezeroit.github.io/progetto-dei-cerchi/#minuto).
+**Sito:** <https://imthezeroit.github.io/progetto-dei-cerchi/> — tutti i testi impaginati, in italiano, in inglese e in francese; il percorso anche in spagnolo. Per capire in un minuto di che cosa si tratta: [In un minuto](https://imthezeroit.github.io/progetto-dei-cerchi/#minuto).
 
 Una proposta aperta di alternativa al modo in cui oggi organizziamo la vita collettiva.
 
@@ -59,7 +59,7 @@ Ogni modifica è annotata e motivata nel [registro delle modifiche](REGISTRO-DEL
 | `testi/it/registro/` | Costituzione, Codici e Allegati, in Markdown: sono la fonte di tutto il resto |
 | `testi/en/` | la traduzione inglese degli stessi testi |
 | `testi/es/` | la traduzione spagnola dei quattro testi del percorso |
-| `testi/fr/` | la traduzione francese dei quattro testi del percorso, con il suo glossario |
+| `testi/fr/` | la traduzione francese degli stessi testi, con il suo glossario |
 | `bozze/` | bozze di calibrazione degli allegati tecnici non ancora adottati |
 | `docs/` | il sito, generato dai testi, in italiano (`docs/`), in inglese (`docs/en/`), in spagnolo (`docs/es/`) e in francese (`docs/fr/`); contiene anche le versioni PDF e ODT da scaricare |
 | `strumenti/` | il programma che genera il sito, il suo foglio di stile e la ricerca nei testi (`ricerca.py`, `cerca.js`) |
@@ -74,7 +74,7 @@ Il sito non usa servizi esterni, non carica caratteri o programmi dalla rete e n
 
 ## Lingue
 
-Il testo che fa fede è quello italiano. Le versioni inglese, spagnola e francese sono traduzioni di lavoro: i termini usati sono fissati in [`testi/en/GLOSSARY.md`](testi/en/GLOSSARY.md), in [`testi/es/GLOSARIO.md`](testi/es/GLOSARIO.md) e in [`testi/fr/GLOSSAIRE.md`](testi/fr/GLOSSAIRE.md). Quelle spagnola e francese comprendono per ora i quattro testi del percorso; le regole sono in italiano e in inglese. Chi vuole rivederle o tradurre in altre lingue è benvenuto.
+Il testo che fa fede è quello italiano. Le versioni inglese, spagnola e francese sono traduzioni di lavoro: i termini usati sono fissati in [`testi/en/GLOSSARY.md`](testi/en/GLOSSARY.md), in [`testi/es/GLOSARIO.md`](testi/es/GLOSARIO.md) e in [`testi/fr/GLOSSAIRE.md`](testi/fr/GLOSSAIRE.md). Quella spagnola comprende per ora i quattro testi del percorso. Chi vuole rivederle o tradurre in altre lingue è benvenuto.
 
 ## Contribuire
 

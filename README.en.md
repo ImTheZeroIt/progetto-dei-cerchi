@@ -2,7 +2,7 @@
 
 *[Versione italiana](README.md) · [Versión española](README.es.md) · [Version française](README.fr.md)*
 
-**Website:** <https://imthezeroit.github.io/progetto-dei-cerchi/en/> — all the texts, laid out for reading, in Italian and in English; the path also in Spanish and French. To see in one minute what this is about: [In one minute](https://imthezeroit.github.io/progetto-dei-cerchi/en/#minuto).
+**Website:** <https://imthezeroit.github.io/progetto-dei-cerchi/en/> — all the texts, laid out for reading, in Italian, English and French; the path also in Spanish. To see in one minute what this is about: [In one minute](https://imthezeroit.github.io/progetto-dei-cerchi/en/#minuto).
 
 An open proposal for an alternative to the way we organise collective life today.
 
@@ -60,7 +60,7 @@ Every change is recorded and explained in the [change log](CHANGELOG.md). The pr
 | `testi/it/` | the Italian texts (authoritative), in Markdown |
 | `testi/en/` | the English translation and its glossary |
 | `testi/es/` | the Spanish translation of the four texts of the path, and its glossary |
-| `testi/fr/` | the French translation of the four texts of the path, and its glossary |
+| `testi/fr/` | the French translation of the same texts, and its glossary |
 | `docs/` | the website, generated from the texts: Italian in `docs/`, English in `docs/en/`, Spanish in `docs/es/`, French in `docs/fr/`, with PDF and ODT downloads |
 | `strumenti/` | the program that generates the website, its style sheet and the search over the texts (`ricerca.py`, `cerca.js`) |
 

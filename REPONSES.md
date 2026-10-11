@@ -1,6 +1,6 @@
 # Trouver une réponse
 
-Les réponses disent ce que prévoient les textes, et non ce qui arrivera : le projet n’est en vigueur nulle part et aucune communauté ne l’a encore essayé. Sous chaque réponse figurent les articles dont elle provient. Les règles sont pour l’instant en italien et en anglais : les liens mènent au texte italien.
+Les réponses disent ce que prévoient les textes, et non ce qui arrivera : le projet n’est en vigueur nulle part et aucune communauté ne l’a encore essayé. Sous chaque réponse figurent les articles dont elle provient. Les liens mènent à la traduction française des règles ; le texte qui fait foi est l’italien.
 
 ## En bref
 
@@ -9,7 +9,7 @@ Les réponses disent ce que prévoient les textes, et non ce qui arrivera : le
 Une proposition pour organiser la vie en commun à partir des besoins des personnes. Elle est écrite dans son intégralité, article par article : une Constitution et les Codes qui la mettent en pratique, avec leurs annexes techniques. Elle n’est en vigueur nulle part.
 
 Mots: qu’est-ce que c’est, c’est quoi, projet, confédération, cercles, proposition, de quoi s’agit-il, résumé, synthèse, en bref, présentation
-Où: [Le registre des textes, en italien](../registro/index.html); Const. 0.1; Const. 0.2
+Où: [Les règles](regles/index.html); Const. 0.1; Const. 0.2
 
 ### Pourquoi ce projet ?
 

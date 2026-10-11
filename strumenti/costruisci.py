@@ -431,9 +431,9 @@ LINGUE = {
     "fr": dict(
         codice="fr", prefisso="fr/", nome_lingua="Français", regole_da="it",
         nome="Projet des Cercles",
-        dir_percorso="parcours", dir_registro="registro", dir_scarica="fr/telechargements",
+        dir_percorso="parcours", dir_registro="regles", dir_scarica="fr/telechargements",
         pag_modifiche="modifications.html", pag_contribuire="contribuer.html",
-        md_modifiche="", md_contribuire="CONTRIBUER.md",
+        md_modifiche="MODIFICATIONS.md", md_contribuire="CONTRIBUER.md",
         licenza_url="https://creativecommons.org/licenses/by-sa/4.0/deed.fr",
         licenza_percorso_url="https://creativecommons.org/licenses/by-nd/4.0/deed.fr",
         livelli=[("Noyau de soin", "de 1 à 15 personnes", ["soin quotidien", "et hospitalité"]),
@@ -447,8 +447,8 @@ LINGUE = {
                ("Entrepôts communs", ["biens et services", "de tous"]),
                ("Accès", ["à chacun", "selon son besoin"])],
         frecce=["relevés", "décide", "produit", "donnent"],
-        maiuscole=["Confédération", "Cercles", "Code", "Annex", "Assemblée", "Réseau", "Entrepôts communs",
-                   "Contribution de base obligatoire"],
+        maiuscole=["Confédération", "Cercles", "Code", "Annexe", "Assemblée", "Réseau", "Entrepôts communs",
+                   "Contribution de base obligatoire", "Solde mondial", "Confédération"],
         t=dict(
             salta="Aller au contenu", sezioni="Sections", percorso="Parcours", registro="Règles",
             contribuire="Contribuer", repository="Dépôt",
@@ -468,8 +468,7 @@ LINGUE = {
             capitolo="Chapitre {n} sur {tot} · {min} min de lecture",
             continua="Suite · chapitre {n} sur {tot}",
             fine="Le parcours s’arrête ici", leggi_regole="Lire les règles",
-            fine_testo="La Constitution, les seize Codes et les Annexes, avec toutes leurs versions. Pour l’instant "
-                       "en italien et en anglais.",
+            fine_testo="La Constitution, les seize Codes et les Annexes, avec toutes leurs versions.",
             inizio="← Accueil", capitoli="Chapitres", scarica="Télécharger", indice="Sommaire",
             indice_aria="Sommaire du texte",
             allineamento="Versions des autres textes avec lesquels il est aligné",
@@ -516,7 +515,7 @@ LINGUE = {
                            "ce que nous proposons.",
             h_regole="Les règles",
             guida_regole="La proposition est écrite dans son intégralité, article par article, pour pouvoir être "
-                         "vérifiée et corrigée. Les règles sont pour l’instant en italien et en anglais.",
+                         "vérifiée et corrigée.",
             codici_allegati="{nc} Codes et {na} Annexes techniques", storico="historique",
             parametri="Paramètres à vérifier", parametri_nota="brouillon de calibrage · en italien",
             h_bozze="Brouillons et propositions (en italien)",
@@ -653,7 +652,7 @@ def titolo_leggibile(titolo, maiuscole):
     testo = " — ".join(parti)
     for parola in maiuscole:
         testo = re.sub(r"\b%s\b" % re.escape(parola.lower()), parola, testo)
-    testo = re.sub(r"\b(Allegato tecnico|Technical annex) ([abc])\b",
+    testo = re.sub(r"\b(Allegato tecnico|Technical annex|Annexe technique) ([abc])\b",
                    lambda m: m.group(1) + " " + m.group(2).upper(), testo, flags=re.I)
     testo = re.sub(r"c\.1-annex a", "C.1-Annex A", testo, flags=re.I)
     return testo[0].upper() + testo[1:]

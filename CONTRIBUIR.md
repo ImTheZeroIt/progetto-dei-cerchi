@@ -11,7 +11,7 @@ Las reglas (la Constitución, los Códigos y los Anexos) están por ahora en ita
 3. **Contradicciones y remisiones.** Un artículo que contradice a otro, una remisión que lleva al apartado equivocado, un término usado en dos sentidos.
 4. **Números.** Muchos parámetros son propuestas iniciales. El [registro de parámetros por verificar](https://imthezeroit.github.io/progetto-dei-cerchi/registro/parametri.html) (por ahora en italiano) dice de dónde viene cada uno y qué prueba haría falta. Son útiles los datos y las experiencias que los confirmen o los desmientan.
 5. **Claridad.** Frases oscuras, pasajes que un lector no experto no consigue seguir.
-6. **Traducción.** Las versiones inglesa, española y francesa son traducciones de trabajo; la española y la francesa comprenden por ahora solo el recorrido. Son bienvenidas las correcciones de hablantes nativos, mejor si tienen formación jurídica, y las traducciones de las reglas a otras lenguas. El texto de referencia es el italiano; los términos están fijados en `testi/es/GLOSARIO.md`, en `testi/en/GLOSSARY.md` y en `testi/fr/GLOSSAIRE.md`.
+6. **Traducción.** Las versiones inglesa, española y francesa son traducciones de trabajo; la española comprende por ahora solo el recorrido. Son bienvenidas las correcciones de hablantes nativos, mejor si tienen formación jurídica, y las traducciones de las reglas a otras lenguas. El texto de referencia es el italiano; los términos están fijados en `testi/es/GLOSARIO.md`, en `testi/en/GLOSSARY.md` y en `testi/fr/GLOSSAIRE.md`.
 
 ## Cómo abrir una incidencia
 

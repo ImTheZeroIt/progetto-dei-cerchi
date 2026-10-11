@@ -2,7 +2,7 @@
 
 *[Versione italiana](README.md) · [English version](README.en.md) · [Versión española](README.es.md)*
 
-**Site :** <https://imthezeroit.github.io/progetto-dei-cerchi/fr/> — le parcours en français. Pour comprendre en une minute de quoi il s’agit : [En une minute](https://imthezeroit.github.io/progetto-dei-cerchi/fr/#minuto).
+**Site :** <https://imthezeroit.github.io/progetto-dei-cerchi/fr/> — le parcours et les règles en français. Pour comprendre en une minute de quoi il s’agit : [En une minute](https://imthezeroit.github.io/progetto-dei-cerchi/fr/#minuto).
 
 Une proposition ouverte d’alternative à la manière dont nous organisons aujourd’hui la vie collective.
 
@@ -10,7 +10,7 @@ Le projet part de la personne, organise la collectivité et construit les outils
 
 **État :** phase d’écriture et de vérification. Les textes ne sont pas un modèle démontré : ils doivent être expérimentés, et corrigés là où ils échouent.
 
-**Traduction :** cette version française est une traduction de travail et comprend pour l’instant les quatre textes du parcours. Le texte qui fait foi est l’italien. Les termes sont fixés dans [`testi/fr/GLOSSAIRE.md`](testi/fr/GLOSSAIRE.md).
+**Traduction :** cette version française est une traduction de travail du parcours et des règles. Le texte qui fait foi est l’italien. Les termes sont fixés dans [`testi/fr/GLOSSAIRE.md`](testi/fr/GLOSSAIRE.md).
 
 ## Le parcours
 
@@ -23,7 +23,31 @@ Quatre lectures à la suite :
 
 ## Les règles
 
-La Constitution, les Codes et les Annexes techniques sont pour l’instant en [italien](README.md) et en [anglais](README.en.md).
+La Constitution, les Codes et les Annexes techniques. Chaque modification est notée dans le [registre des modifications](MODIFICATIONS.md).
+
+| Texte | Version |
+|---|---|
+| [Constitution](testi/fr/regles/constitution.md) | V.29 |
+| [Code 1 — Contribution de base et Entrepôts communs](testi/fr/regles/code-01.md) | V1.5 |
+| [Annexe A au Code 1 — Production matérielle et ateliers](testi/fr/regles/code-01-annexe-a.md) | V1.3 |
+| [Code 2 — Qualité et validation](testi/fr/regles/code-02.md) | V1.5 |
+| [Code 3 — Délibération, seuils et Assemblée](testi/fr/regles/code-03.md) | V1.4 |
+| [Code 4 — Justice réparatrice et garantie](testi/fr/regles/code-04.md) | V1.4 |
+| [Code 5 — Apprentissage et compétences](testi/fr/regles/code-05.md) | V1.3 |
+| [Code 6 — Santé](testi/fr/regles/code-06.md) | V1.5 |
+| [Code 7 — Automatisation et Réseau](testi/fr/regles/code-07.md) | V1.6 |
+| [Code 8 — Énergie et eau](testi/fr/regles/code-08.md) | V1.3 |
+| [Code 9 — Agroécologie et alimentation](testi/fr/regles/code-09.md) | V3.1 |
+| [Code 10 — Habitat et territoire](testi/fr/regles/code-10.md) | V1.3 |
+| [Code 11 — Logistique et mobilité de base](testi/fr/regles/code-11.md) | V1.3 |
+| [Code 12 — Soin communautaire](testi/fr/regles/code-12.md) | V1.3 |
+| [Code 13 — Biodiversité, sanctuaires et faune](testi/fr/regles/code-13.md) | V1.4 |
+| [Code 14 — Sécurité générale](testi/fr/regles/code-14.md) | V1.2 |
+| [Code 15 — Relations extérieures et Solde](testi/fr/regles/code-15.md) | V1.3 |
+| [Code 16 — Transition et lancement](testi/fr/regles/code-16.md) | V1.4 |
+| [Annexe A au Code 16 — Protocole de démarrage social](testi/fr/regles/code-16-annexe-a.md) | V1.3 |
+| [Annexe B au Code 16 — Manuel opérationnel de désengagement et de fédération](testi/fr/regles/code-16-annexe-b.md) | V1.5 |
+| [Annexe C au Code 16 — Charte opérationnelle de la première année](testi/fr/regles/code-16-annexe-c.md) | V1.0 |
 
 ## Contribuer
 
