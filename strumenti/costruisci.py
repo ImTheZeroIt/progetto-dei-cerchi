@@ -49,22 +49,55 @@ CONTATTO = "zerocirclesproject@gmail.com"
 SEGNALAZIONI = {"caso": "Caso di prova", "dato": "Parametro da confermare", "codice": "Verifica di competenza"}
 
 
-# Il registro dei parametri da verificare esiste, per ora, solo in italiano.
-PARAMETRI = dict(lingua="it", md="PARAMETRI.md", pagina="parametri.html")
+# Registro dei parametri da verificare, per lingua. Le lingue che non lo hanno rimandano a quello italiano.
+PARAMETRI = {
+    "it": dict(md="PARAMETRI.md", pagina="parametri.html"),
+    "en": dict(md="testi/en/drafts/parameters.md", pagina="parameters.html"),
+    "fr": dict(md="testi/fr/brouillons/parametres.md", pagina="parametres.html"),
+}
 
-# Bozze di calibrazione: allegati tecnici che i Codici citano e che non sono ancora adottati. Per ora solo in italiano.
-BOZZE = [
-    dict(md="bozze/allegato-paniere.md", pagina="bozza-paniere.html",
-         titolo="Allegato annuale del Paniere di Sufficienza", nota="bozza 0.1"),
-    dict(md="bozze/allegato-ucr.md", pagina="bozza-ucr.html",
-         titolo="Allegato UCR e primo bilancio delle ore", nota="bozza 0.1"),
-    dict(md="bozze/tabella-cdr.md", pagina="bozza-cdr.html",
-         titolo="Tabella pubblica del CdR", nota="bozza 0.1"),
-    dict(md="PROPOSTE.md", pagina="proposte.html",
-         titolo="Proposte di modifica aperte", nota="in discussione", classe=""),
-    dict(md="VERIFICA-PROPOSTE.md", pagina="verifica-proposte.html",
-         titolo="Verifica contraria delle proposte", nota="sulla versione 1", classe=""),
-]
+# Bozze e proposte: allegati tecnici che i Codici citano e che non sono ancora adottati, proposte di modifica.
+# Ogni voce ha una chiave comune a tutte le lingue (serve al cambio di lingua); le lingue senza traduzione
+# rimandano all'italiano.
+BOZZE = {
+    "it": [
+        dict(chiave="paniere", md="bozze/allegato-paniere.md", pagina="bozza-paniere.html",
+             titolo="Allegato annuale del Paniere di Sufficienza", nota="bozza 0.1"),
+        dict(chiave="ucr", md="bozze/allegato-ucr.md", pagina="bozza-ucr.html",
+             titolo="Allegato UCR e primo bilancio delle ore", nota="bozza 0.1"),
+        dict(chiave="cdr", md="bozze/tabella-cdr.md", pagina="bozza-cdr.html",
+             titolo="Tabella pubblica del CdR", nota="bozza 0.1"),
+        dict(chiave="proposte", md="PROPOSTE.md", pagina="proposte.html",
+             titolo="Proposte di modifica aperte", nota="in discussione", classe=""),
+        dict(chiave="verifica", md="VERIFICA-PROPOSTE.md", pagina="verifica-proposte.html",
+             titolo="Verifica contraria delle proposte", nota="sulla versione 1", classe=""),
+    ],
+    "en": [
+        dict(chiave="paniere", md="testi/en/drafts/draft-basket.md", pagina="draft-basket.html",
+             titolo="Annual Annex of the Sufficiency Basket", nota="draft 0.1"),
+        dict(chiave="ucr", md="testi/en/drafts/draft-ucr.md", pagina="draft-ucr.html",
+             titolo="UCR Annex and first balance of hours", nota="draft 0.1"),
+        dict(chiave="cdr", md="testi/en/drafts/draft-cdr.md", pagina="draft-cdr.html",
+             titolo="Public CdR table", nota="draft 0.1"),
+        dict(chiave="proposte", md="testi/en/drafts/proposals.md", pagina="proposals.html",
+             titolo="Open change proposals", nota="under discussion", classe=""),
+        dict(chiave="verifica", md="testi/en/drafts/proposals-review.md", pagina="proposals-review.html",
+             titolo="Adversarial review of the proposals", nota="on version 1", classe=""),
+    ],
+    "fr": [
+        dict(chiave="paniere", md="testi/fr/brouillons/brouillon-panier.md", pagina="brouillon-panier.html",
+             titolo="Annexe annuelle du Panier de suffisance", nota="brouillon 0.1"),
+        dict(chiave="ucr", md="testi/fr/brouillons/brouillon-ucr.md", pagina="brouillon-ucr.html",
+             titolo="Annexe UCR et premier bilan des heures", nota="brouillon 0.1"),
+        dict(chiave="cdr", md="testi/fr/brouillons/brouillon-cdr.md", pagina="brouillon-cdr.html",
+             titolo="Barème public de la CdR", nota="brouillon 0.1"),
+        dict(chiave="proposte", md="testi/fr/brouillons/propositions.md", pagina="propositions.html",
+             titolo="Propositions de modification ouvertes", nota="en discussion", classe=""),
+        dict(chiave="verifica", md="testi/fr/brouillons/verification-propositions.md",
+             pagina="verification-propositions.html",
+             titolo="Vérification contradictoire des propositions", nota="sur la version 1", classe=""),
+    ],
+}
 
 
 # Ancore degli articoli, per lingua: servono a controllare i richiami delle domande frequenti.
@@ -284,12 +317,12 @@ LINGUE = {
             guida_regole="The proposal is written out in full, article by article, so that it can be "
                          "verified and corrected.",
             codici_allegati="{nc} Codes and {na} Technical Annexes", storico="history",
-            parametri="Parameters to be verified", parametri_nota="calibration draft · in Italian",
-            h_bozze="Drafts and proposals (in Italian)",
+            parametri="Parameters to be verified", parametri_nota="calibration draft",
+            h_bozze="Drafts and proposals",
             bozze_sotto="Drafts of the technical annexes that the Codes refer to and that have not yet been "
                         "adopted, and substantive changes under discussion. None is in force.",
             reg_parametri="The proposed numbers, with their origin and the test each would need, are in the "
-                          "<a href=\"{par}\">register of parameters to be verified</a> (for now in Italian).",
+                          "<a href=\"{par}\">register of parameters to be verified</a>.",
             h_aperto="An open project", h_stato="Status", h_licenza="Licence",
             stato="The project is at the stage of writing and verification. The texts are not a proven "
                   "model: they must be tested, and corrected where they fail.",
@@ -517,12 +550,12 @@ LINGUE = {
             guida_regole="La proposition est écrite dans son intégralité, article par article, pour pouvoir être "
                          "vérifiée et corrigée.",
             codici_allegati="{nc} Codes et {na} Annexes techniques", storico="historique",
-            parametri="Paramètres à vérifier", parametri_nota="brouillon de calibrage · en italien",
-            h_bozze="Brouillons et propositions (en italien)",
+            parametri="Paramètres à vérifier", parametri_nota="brouillon de calibrage",
+            h_bozze="Brouillons et propositions",
             bozze_sotto="Brouillons des annexes techniques que les Codes citent et qui ne sont pas encore adoptées, "
                         "et modifications de fond en discussion. Aucun n’est en vigueur.",
             reg_parametri="Les nombres proposés, avec leur origine et la preuve qu’il faudrait pour les confirmer, "
-                          "sont dans le <a href=\"{par}\">registre des paramètres à vérifier</a> (pour l’instant en italien).",
+                          "sont dans le <a href=\"{par}\">registre des paramètres à vérifier</a>.",
             h_aperto="Un projet ouvert", h_stato="État", h_licenza="Licence",
             stato="Le projet en est à la phase d’écriture et de vérification. Les textes ne sont pas un modèle "
                   "démontré : ils doivent être mis à l’épreuve, et corrigés là où ils échouent.",
@@ -564,11 +597,16 @@ def lingua_regole(lingua):
     return lingua if ha_registro(lingua) else LINGUE[lingua["regole_da"]]
 
 
+def lingua_servizio(lingua):
+    """La lingua delle pagine di bozze e parametri: la propria, se tradotte, altrimenti l'italiano."""
+    return lingua if lingua["codice"] in PARAMETRI else LINGUE["it"]
+
+
 def url_parametri(lingua, profondita=0):
     """Indirizzo del registro dei parametri, visto da una pagina della lingua a una certa profondità."""
-    lp = LINGUE[PARAMETRI["lingua"]]
+    lp = lingua_servizio(lingua)
     su = "../" * (lingua["prefisso"].count("/") + profondita)
-    return "%s%s%s/%s" % (su, lp["prefisso"], lp["dir_registro"], PARAMETRI["pagina"])
+    return "%s%s%s/%s" % (su, lp["prefisso"], lp["dir_registro"], PARAMETRI[lp["codice"]]["pagina"])
 
 
 def dir_regole(lingua):
@@ -1009,7 +1047,8 @@ def costruisci_lingua(lingua, altre):
     bozze = '<h2>%s</h2>\n<p>%s</p>\n<ul class="testi">%s</ul>' % (
         t["h_bozze"], t["bozze_sotto"],
         "\n".join('<li><a href="%s/%s">%s</a><span class="versione">%s</span></li>'
-                  % (base_bozze, b["pagina"], html.escape(b["titolo"]), b["nota"]) for b in BOZZE))
+                  % (base_bozze, b["pagina"], html.escape(b["titolo"]), b["nota"])
+                  for b in BOZZE[lingua_servizio(lingua)["codice"]]))
 
     def elenco(gruppo):
         return "\n".join('<li><a href="%s.html">%s</a><span class="versione">%s</span></li>'
@@ -1045,12 +1084,23 @@ def costruisci_lingua(lingua, altre):
         (lingua["md_contribuire"], lingua["pag_contribuire"], t["come_contribuire"], 0, "contribuire",
          dict((a["codice"], "%s%s" % (a["prefisso"], a["pag_contribuire"])) for a in altre), ""),
     ]
-    if lingua["codice"] == PARAMETRI["lingua"]:
-        servizio.append((PARAMETRI["md"], "%s/%s" % (dr, PARAMETRI["pagina"]), t["parametri"], 1, "registro", {},
-                         " largo"))
-        for b in BOZZE:
-            servizio.append((b["md"], "%s/%s" % (dr, b["pagina"]), b["titolo"], 1, "registro", {},
-                             b.get("classe", " largo")))
+    if lingua["codice"] in PARAMETRI:
+        def gemelle_servizio(chiave):
+            esito = {}
+            for a in altre:
+                la = lingua_servizio(a)
+                if chiave == "parametri":
+                    pag = PARAMETRI[la["codice"]]["pagina"]
+                else:
+                    pag = next(b["pagina"] for b in BOZZE[la["codice"]] if b["chiave"] == chiave)
+                esito[a["codice"]] = "%s%s/%s" % (la["prefisso"], la["dir_registro"], pag)
+            return esito
+        par = PARAMETRI[lingua["codice"]]
+        servizio.append((par["md"], "%s/%s" % (dr, par["pagina"]), t["parametri"], 1, "registro",
+                         gemelle_servizio("parametri"), " largo"))
+        for b in BOZZE[lingua["codice"]]:
+            servizio.append((b["md"], "%s/%s" % (dr, b["pagina"]), b["titolo"], 1, "registro",
+                             gemelle_servizio(b["chiave"]), b.get("classe", " largo")))
     if proprie:
         servizio.append(
             (lingua["md_modifiche"], "%s/%s" % (dr, lingua["pag_modifiche"]), t["modifiche"], 1, "registro",

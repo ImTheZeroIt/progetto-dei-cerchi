@@ -51,7 +51,7 @@ Où: Const. 7.1; Code 1, art. 3, al. 2; Const. 3.1; Const. 10.1; Const. 10.4; Co
 Si cela fonctionne : aucune communauté ne l’a encore essayé, et beaucoup de chiffres sont des hypothèses à vérifier. C’est pourquoi tout est public et les règles peuvent être corrigées.
 
 Mots: ça marche, fonctionne, essayé, testé, expérimenté, expériences, exemples, réaliste, utopie, preuves, résultats, existe déjà, démontré
-Où: [Registre des paramètres à vérifier, en italien](../registro/parametri.html); [Comment contribuer](contribuer.html)
+Où: [Registre des paramètres à vérifier](regles/parametres.html); [Comment contribuer](contribuer.html)
 
 ## Décider
 
@@ -118,14 +118,14 @@ Où: Const. 3.5; Const. 3.4; Const. 3.5-bis; Code 1, art. 18
 La Contribution de reconnaissance (CdR) reconnaît le travail effectué en plus de la Contribution de base : une heure validée vaut un CdR. Pour les textes, le CdR n’est pas une monnaie : il ne se transmet pas à d’autres, ne s’hérite pas, a un plafond et diminue avec le temps. Il sert seulement à obtenir la priorité sur des biens et services non essentiels. Il ne peut ni acheter ni conditionner le logement, la nourriture et les soins.
 
 Mots: CdR, crédits, points, monnaie, prime, mérite, récompense, gagner plus, incitations, gratitude, épargner, économiser, richesse
-Où: Const. 8.1; Const. 8.2; Const. 3.5; Code 1, art. 43; Code 1, art. 44; [Tableau public du CdR, brouillon, en italien](../registro/bozza-cdr.html)
+Où: Const. 8.1; Const. 8.2; Const. 3.5; Code 1, art. 43; Code 1, art. 44; [Barème public de la CdR, brouillon](regles/brouillon-cdr.html)
 
 ### Que sont les UCR ?
 
 Les Unités de coût de reproduction (UCR) sont une unité de compte : elles mesurent le temps, les matériaux, l’énergie et le transport nécessaires pour refaire un bien ou fournir un service. Une UCR correspond à une heure de Contribution de base ordinaire. Ce ne sont ni un prix ni un moyen d’échange, et elles ne sont pas attribuées aux personnes. La méthode de calcul figure dans une annexe qui n’est aujourd’hui qu’un brouillon.
 
 Mots: UCR, coût, prix, valeur, unité de compte, combien ça coûte, comptabilité, heures de travail, calcul, mesure
-Où: Code 3, art. 9; [Annexe UCR, brouillon, en italien](../registro/bozza-ucr.html)
+Où: Code 3, art. 9; [Annexe UCR, brouillon](regles/brouillon-ucr.html)
 
 ### Puis-je garder ma maison et mes affaires ?
 
@@ -153,7 +153,7 @@ Où: Const. 3.6; Const. 3.7; Const. 3.9; Code 1, art. 44, al. 5
 Ce sont des biens communs. Elles font d’abord les travaux répétitifs, usants ou dangereux, et le temps qu’elles libèrent reste à la Communauté. L’IA calcule et propose ; ce sont les personnes qui décident.
 
 Mots: robots, machines, automatisation, automatiser, chômage, technologie, travail des machines, usines
-Où: Const. 3.1; Code 7, art. 6; Code 7, art. 2, al. 6; Const. 19.6; [Proposition 8, robots, en italien](../registro/proposte.html#proposta-8--robot-e-macchine-autonome)
+Où: Const. 3.1; Code 7, art. 6; Code 7, art. 2, al. 6; Const. 19.6; [Proposition 8, robots](regles/propositions.html#proposta-8--robot-e-macchine-autonome)
 
 ## Entrer et sortir
 
@@ -264,7 +264,7 @@ Où: Code 1, art. 19, al. 3; Code 1, art. 32; Const. 36.3; Const. 36.4
 Vous pouvez ouvrir un signalement sur GitHub ou écrire à zerocirclesproject@gmail.com : une ligne suffit. Indiquez le texte et l’article, le problème et, si vous en avez une, la modification que vous proposez. Les modifications de fond restent en discussion au moins quatorze jours ; aujourd’hui, ce sont ceux qui s’occupent du dépôt qui les évaluent, de façon publique et motivée. Les propositions qui contredisent le Noyau inviolable ne sont pas acceptées.
 
 Mots: contribuer, critiquer, proposer, signalement, participer, aider, GitHub, e-mail, courriel, mail, contact, corrections, traduire, retours, avis, écrire
-Où: [Comment contribuer](contribuer.html); [Propositions de modification ouvertes, en italien](../registro/proposte.html)
+Où: [Comment contribuer](contribuer.html); [Propositions de modification ouvertes](regles/propositions.html)
 
 ### Sous quelle licence les textes sont-ils publiés ? Puis-je les réutiliser ?
 

@@ -51,7 +51,7 @@ Where: Const. 7.1; Code 1, art. 3, para. 2; Const. 3.1; Const. 10.1; Const. 10.4
 Whether it works: no community has tried it yet, and many numbers are hypotheses still to be checked. That is why everything is public and the rules can be corrected.
 
 Words: does it work, tried, tested, experiments, examples, realistic, utopia, evidence, results, proven, exists
-Where: [Register of parameters to be verified, in Italian](../registro/parametri.html); [How to contribute](contributing.html)
+Where: [Register of parameters to be verified](register/parameters.html); [How to contribute](contributing.html)
 
 ## Deciding
 
@@ -118,14 +118,14 @@ Where: Const. 3.5; Const. 3.4; Const. 3.5-bis; Code 1, art. 18
 The Recognition Contribution (CdR) recognises work done beyond the Base Contribution: one validated hour is worth one CdR. For the texts it is not a currency: it cannot be passed on or inherited, it has a cap and it shrinks over time. It only gives priority over non-essential goods and services. It cannot buy or condition housing, food and care.
 
 Words: CdR, credits, points, currency, reward, merit, earn more, incentives, gratitude, savings, wealth
-Where: Const. 8.1; Const. 8.2; Const. 3.5; Code 1, art. 43; Code 1, art. 44; [Public CdR table, draft, in Italian](../registro/bozza-cdr.html)
+Where: Const. 8.1; Const. 8.2; Const. 3.5; Code 1, art. 43; Code 1, art. 44; [Public CdR table, draft](register/draft-cdr.html)
 
 ### What are UCR?
 
 Reproduction Cost Units (UCR) are a unit of account: they measure the time, materials, energy and transport needed to make a good again or to provide a service. One UCR corresponds to one hour of ordinary Base Contribution. They are not a price or a means of exchange, and they are not assigned to people. The method of calculation is in an annex that is still only a draft.
 
 Words: UCR, cost, price, value, unit of account, how much does it cost, accounting, hours of work, calculation, measure
-Where: Code 3, art. 9; [UCR Annex, draft, in Italian](../registro/bozza-ucr.html)
+Where: Code 3, art. 9; [UCR Annex, draft](register/draft-ucr.html)
 
 ### Can I keep my home and my belongings?
 
@@ -153,7 +153,7 @@ Where: Const. 3.6; Const. 3.7; Const. 3.9; Code 1, art. 44, para. 5
 They are commons. They take on repetitive, arduous or dangerous work first, and the time they free stays with the Community. AI calculates and proposes; people decide.
 
 Words: robots, machines, automation, automate, unemployment, technology, factories
-Where: Const. 3.1; Code 7, art. 6; Code 7, art. 2, para. 6; Const. 19.6; [Proposal 8, robots, in Italian](../registro/proposte.html#proposta-8--robot-e-macchine-autonome)
+Where: Const. 3.1; Code 7, art. 6; Code 7, art. 2, para. 6; Const. 19.6; [Proposal 8, robots](register/proposals.html#proposta-8--robot-e-macchine-autonome)
 
 ## Joining and leaving
 
@@ -264,7 +264,7 @@ Where: Code 1, art. 19, para. 3; Code 1, art. 32; Const. 36.3; Const. 36.4
 You can open an issue on GitHub or write to zerocirclesproject@gmail.com: one line is enough. Say which text and article, what the problem is and, if you have one, the change you propose. Changes of substance stay open for discussion for at least fourteen days; today they are assessed by whoever maintains the repository, publicly and with reasons. Proposals that contradict the Inviolable Core are not accepted.
 
 Words: contribute, criticise, criticize, propose, issue, take part, help, GitHub, email, contact, corrections, translate, feedback, write
-Where: [How to contribute](contributing.html); [Open change proposals, in Italian](../registro/proposte.html)
+Where: [How to contribute](contributing.html); [Open change proposals](register/proposals.html)
 
 ### Under which licence are the texts published? Can I reuse them?
 

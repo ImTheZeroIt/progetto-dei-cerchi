@@ -9,7 +9,7 @@ Les règles (la Constitution, les Codes et les Annexes) sont traduites en franç
 1. **Des cas concrets.** Les Codes 3 et 4 demandent que les règles soient éprouvées sur des cas réels avant d’être considérées comme définitives. Un cas est une situation décrite avec précision (un conflit, une pénurie d’eau, un refus, une objection en Assemblée) que l’on fait passer par les procédures, pour voir où elles tiennent et où elles ne tiennent pas.
 2. **Des vérifications par des spécialistes.** Qui connaît une matière peut contrôler le Code qui la concerne : ce qui est faux, ce qui manque, ce qui n’est pas applicable.
 3. **Des contradictions et des renvois.** Un article qui en contredit un autre, un renvoi qui mène au mauvais alinéa, un terme employé dans deux sens.
-4. **Des chiffres.** Beaucoup de paramètres sont des propositions initiales. Le [registre des paramètres à vérifier](https://imthezeroit.github.io/progetto-dei-cerchi/registro/parametri.html) (pour l’instant en italien) indique pour chacun d’où il vient et quelle preuve serait nécessaire. Les données et les expériences qui les confirment ou les démentent sont utiles.
+4. **Des chiffres.** Beaucoup de paramètres sont des propositions initiales. Le [registre des paramètres à vérifier](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/parametres.html) indique pour chacun d’où il vient et quelle preuve serait nécessaire. Les données et les expériences qui les confirment ou les démentent sont utiles.
 5. **De la clarté.** Des phrases obscures, des passages qu’un lecteur non spécialiste n’arrive pas à suivre.
 6. **De la traduction.** Les versions anglaise, espagnole et française sont des traductions de travail ; l’espagnole ne comprend pour l’instant que le parcours. Les corrections de locuteurs natifs sont bienvenues, de préférence avec une formation juridique, ainsi que les traductions des règles dans d’autres langues. Le texte qui fait foi est l’italien ; les termes sont fixés dans `testi/fr/GLOSSAIRE.md`, dans `testi/en/GLOSSARY.md` et dans `testi/es/GLOSARIO.md`.
 
@@ -54,7 +54,7 @@ Une proposition de modification des règles est acceptée quand elle respecte to
 Les délais dépendent du type de modification :
 
 - **Corrections matérielles** (coquilles, renvois erronés, termes non alignés) : elles sont acceptées immédiatement.
-- **Modifications de fond :** elles restent ouvertes à la discussion pendant au moins quatorze jours avant la décision. Celles qui sont en cours figurent, pour l’instant en italien, sur la page [Proposte di modifica aperte](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html).
+- **Modifications de fond :** elles restent ouvertes à la discussion pendant au moins quatorze jours avant la décision. Celles qui sont en cours figurent sur la page [Propositions de modification ouvertes](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html).
 
 Quand une proposition est rejetée, le motif est écrit dans le signalement, qui reste consultable. Une modification déjà acceptée peut être retirée si un cas d’essai montre qu’elle a dégradé le texte.
 
