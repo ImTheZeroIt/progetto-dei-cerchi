@@ -7,6 +7,7 @@ Questa pagina raccoglie le modifiche di sostanza proposte e non ancora decise. N
 - **Versione 2 del:** 6 ottobre 2026.
 - **Decisione non prima del:** 20 ottobre 2026.
 - **Aggiunta del 10 ottobre 2026:** i testi degli allineamenti delle proposte 7 e 8, che prima erano solo annunciati. Non cambiano le proposte.
+- **Versione 3 della proposta 2, del 12 ottobre 2026:** cambiano le misure dell'alloggio adeguato. Per questa sola proposta i quattordici giorni ripartono: la decisione non è prima del 26 ottobre 2026.
 - **Per discuterle:** le [segnalazioni aperte](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues?q=is%3Aissue%20state%3Aopen%20in%3Atitle%20%22Proposta%20di%20modifica%22) il cui titolo comincia con «Proposta di modifica», oppure [zerocirclesproject@gmail.com](mailto:zerocirclesproject@gmail.com).
 
 Le prime quattro proposte nascono dalla [bozza dell'Allegato del Paniere di Sufficienza](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-paniere.html). La quinta, la nona e la decima riguardano il Contributo di Riconoscenza. La sesta e la settima riguardano il sottosuolo e le materie prime. L'ottava riguarda i robot. L'undicesima riguarda le soglie economiche delle decisioni.
@@ -67,6 +68,8 @@ Nel Codice 1, all'articolo 32, dopo il comma 1 è inserito:
 
 **Che cosa cambia rispetto alla versione 1.** Ora dice che cosa vale come «adeguato» per le altre norme e fissa un termine per l'adeguamento. Aggiunti: uno spazio riservato minimo, lo spazio per i minori dai quattordici anni, il divieto di scendere sotto i primi valori, il rispetto del divieto di consumo di suolo, una regola per le prime fasi. Per la temperatura rinvia al Codice 8. Tolto il rinvio a un'«accoglienza d'urgenza» che i testi non prevedono.
 
+**Che cosa cambia nella versione 3 (12 ottobre 2026).** Quindici metri quadrati a persona davano a chi vive da solo o in coppia un alloggio troppo piccolo per viverci. Ora ogni alloggio ha almeno soggiorno, camera da letto e bagno, e la superficie minima dipende da quante persone ci vivono: trenta metri quadrati per una, quarantacinque per due, sessanta per tre. Lo spazio riservato sale da otto a nove metri quadrati.
+
 **Problema.** L'alloggio è un diritto costituzionale (Cost. 1.2, lett. a). Il Codice 1 parla di «alloggio adeguato» (art. 47, c. 3) senza dire che cosa lo rende tale.
 
 **Testo proposto.** Dopo l'articolo 47 è inserito:
@@ -85,7 +88,7 @@ Nel Codice 1, all'articolo 32, dopo il comma 1 è inserito:
 >
 > e) l'accessibilità necessaria alla persona, secondo il suo piano individuale di cura previsto dal Codice 12.
 >
-> 2. Gli standard quantitativi sono determinati dall'Assemblea su proposta congiunta del Consiglio di Magazzino e del Consiglio Energia e Acqua, con il parere del Consiglio Salute e del Consiglio Habitat e Territorio. In prima applicazione la superficie abitabile non è inferiore a quindici metri quadrati per persona, compresi gli spazi comuni del Cerchio 0, di cui almeno otto di spazio riservato per ogni persona indicata alla lettera a) del comma 1. Le determinazioni successive non possono scendere sotto i valori di prima applicazione senza il parere conforme del Consiglio Salute.
+> 2. Gli standard quantitativi sono determinati dall'Assemblea su proposta congiunta del Consiglio di Magazzino e del Consiglio Energia e Acqua, con il parere del Consiglio Salute e del Consiglio Habitat e Territorio. In prima applicazione ogni alloggio comprende almeno un soggiorno, una camera da letto separata e un bagno; il monolocale non è un alloggio adeguato. La superficie abitabile non è inferiore a trenta metri quadrati per una persona, quarantacinque per due e sessanta per tre; aumenta di quindici metri quadrati per ciascuna persona in più fino alla quinta e di dieci per ciascuna oltre la quinta. Ogni spazio riservato previsto dalla lettera a) del comma 1 non è inferiore a nove metri quadrati. Le determinazioni successive non possono scendere sotto i valori di prima applicazione senza il parere conforme del Consiglio Salute.
 >
 > 3. Gli standard del comma 2 non si applicano alle aree di sosta attrezzate previste dall'articolo 6-ter, comma 6, del Codice 11.
 >
@@ -95,13 +98,13 @@ Nel Codice 1, all'articolo 32, dopo il comma 1 è inserito:
 >
 > 6. L'adeguamento avviene nel rispetto degli articoli 2 e 5 del Codice 10: il riuso e il recupero degli edifici precedono ogni nuova edificazione. Fino all'attivazione dei Codici 8 e 12 si applicano le lettere a), b) e d) del comma 1 e la superficie del comma 2.
 
-**Ragione.** I quindici metri quadrati vengono dallo studio di Millward-Hopkins e altri (2020). Gli otto metri di spazio riservato e i trentasei mesi sono ipotesi di redazione, da discutere. Il comma 4 impedisce che uno standard pensato come garanzia diventi un motivo di sgombero; il comma 5 evita che le misure di protezione del Codice 4 restino ineseguibili dove manca un alloggio a norma.
+**Ragione.** La versione 2 usava quindici metri quadrati a persona, dallo studio di Millward-Hopkins e altri (2020): è un minimo pensato per tutta la popolazione mondiale, e per una o due persone sta sotto anche i minimi della norma italiana sull'abitabilità (DM 5 luglio 1975: ventotto metri quadrati per una persona, trentotto per due). La versione 3 parte da ciò che serve per viverci: un posto dove stare, uno dove dormire chiudendo la porta, un bagno. Le misure sono scelte di redazione, da discutere; oltre la quinta persona crescono più lentamente, perché cucina e soggiorno non si moltiplicano con le persone. I nove metri dello spazio riservato sono la camera singola minima della stessa norma. I trentasei mesi sono un'ipotesi di redazione. Il comma 4 impedisce che uno standard pensato come garanzia diventi un motivo di sgombero; il comma 5 evita che le misure di protezione del Codice 4 restino ineseguibili dove manca un alloggio a norma.
 
 **Altri punti da allineare.** Con il nuovo articolo, «alloggio adeguato» ha un contenuto nell'art. 47, c. 3, del Codice 1 e negli artt. 29 e 34 del Codice 4. La temperatura minima è materia del Codice 8, che oggi non fissa un valore: lo fissa la proposta 4. Versione: Codice 1 da V1.5 a V1.6, insieme alle altre proposte sul Codice 1 che saranno accolte.
 
-**Che cosa costa.** Nelle Comunità che partono da edifici esistenti, lavori di adeguamento e di isolamento, non ancora contati nel bilancio delle ore. Dove lo spazio manca e non si può costruire, la proroga del comma 4 non basta: va detto prima.
+**Che cosa costa.** Nelle Comunità che partono da edifici esistenti, lavori di adeguamento e di isolamento, non ancora contati nel bilancio delle ore. Dove lo spazio manca e non si può costruire, la proroga del comma 4 non basta: va detto prima. Con le nuove misure la superficie media sale da quindici a circa ventidue metri quadrati per persona, se i nuclei sono come quelli italiani di oggi (ipotesi): nella [bozza dell'Allegato UCR](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-ucr.html) i materiali per l'abitare passano da circa 550 a circa 740 ore l'anno per 150 persone, meno di un decimo d'ora a settimana per contributore.
 
-**Punti aperti.** Non è detto se gli standard valgono per le Case Ponte. Verificare la superficie richiede di entrare negli alloggi: va fatto senza violare l'inviolabilità del Cerchio 0 (Cost. 5.1).
+**Punti aperti.** Non è detto se gli standard valgono per le Case Ponte. Verificare la superficie richiede di entrare negli alloggi: va fatto senza violare l'inviolabilità del Cerchio 0 (Cost. 5.1). Non è detto come trattare gli edifici fatti solo di monolocali: unirli richiede lavori che il comma 4 lascia alla pianificazione.
 
 ## Proposta 3 — Connettività e materiali per apprendere
 

@@ -9,6 +9,7 @@ Cette page rassemble les modifications de fond proposées et pas encore décidé
 - **Version 2 du :** 6 octobre 2026.
 - **Décision pas avant le :** 20 octobre 2026.
 - **Ajout du 10 octobre 2026 :** les textes des alignements des propositions 7 et 8, qui n’étaient auparavant qu’annoncés. Ils ne changent pas les propositions.
+- **Version 3 de la proposition 2, du 12 octobre 2026 :** les mesures du logement adéquat changent. Pour cette seule proposition, les quatorze jours repartent : la décision n’intervient pas avant le 26 octobre 2026.
 - **Pour en discuter :** les [signalements ouverts](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues?q=is%3Aissue%20state%3Aopen%20in%3Atitle%20%22Proposta%20di%20modifica%22) dont le titre commence par « Proposta di modifica », ou [zerocirclesproject@gmail.com](mailto:zerocirclesproject@gmail.com).
 
 Les quatre premières propositions naissent du [brouillon de l’Annexe du Panier de suffisance](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/brouillon-panier.html). La cinquième, la neuvième et la dixième concernent la Contribution de reconnaissance. La sixième et la septième concernent le sous-sol et les matières premières. La huitième concerne les robots. La onzième concerne les seuils économiques des décisions.
@@ -69,6 +70,8 @@ Dans le Code 1, à l’article 32, après l’alinéa 1 est inséré :
 
 **Ce qui change par rapport à la version 1.** Elle dit désormais ce qui vaut comme « adéquat » pour les autres normes et fixe un délai pour la mise en conformité. Ajoutés : un espace privatif minimal, l’espace pour les mineurs à partir de quatorze ans, l’interdiction de descendre au-dessous des premières valeurs, le respect de l’interdiction de l’artificialisation des sols, une règle pour les premières phases. Pour la température, elle renvoie au Code 8. Supprimé le renvoi à un « accueil d’urgence » que les textes ne prévoient pas.
 
+**Ce qui change dans la version 3 (12 octobre 2026).** Quinze mètres carrés par personne donnaient à qui vit seul ou en couple un logement trop petit pour y vivre. Désormais, chaque logement a au moins un séjour, une chambre à coucher et une salle de bains, et la surface minimale dépend du nombre de personnes qui y vivent : trente mètres carrés pour une, quarante-cinq pour deux, soixante pour trois. L’espace privatif passe de huit à neuf mètres carrés.
+
 **Problème.** Le logement est un droit constitutionnel (Const. 1.2, lettre a). Le Code 1 parle de « logement adéquat » (art. 47, al. 3) sans dire ce qui le rend tel.
 
 **Texte proposé.** Après l’article 47 est inséré :
@@ -87,7 +90,7 @@ Dans le Code 1, à l’article 32, après l’alinéa 1 est inséré :
 >
 > e) l’accessibilité nécessaire à la personne, selon son plan individuel de soin prévu par le Code 12.
 >
-> 2. Les normes quantitatives sont déterminées par l’Assemblée sur proposition conjointe du Conseil des Entrepôts et du Conseil Énergie et Eau, avec l’avis du Conseil Santé et du Conseil Habitat et Territoire. En première application, la surface habitable n’est pas inférieure à quinze mètres carrés par personne, espaces communs du Cercle 0 compris, dont au moins huit d’espace privatif pour chaque personne visée à la lettre a) de l’alinéa 1. Les déterminations ultérieures ne peuvent pas descendre au-dessous des valeurs de première application sans l’avis conforme du Conseil Santé.
+> 2. Les normes quantitatives sont déterminées par l’Assemblée sur proposition conjointe du Conseil des Entrepôts et du Conseil Énergie et Eau, avec l’avis du Conseil Santé et du Conseil Habitat et Territoire. En première application, chaque logement comprend au moins un séjour, une chambre à coucher séparée et une salle de bains ; le studio n’est pas un logement adéquat. La surface habitable n’est pas inférieure à trente mètres carrés pour une personne, quarante-cinq pour deux et soixante pour trois ; elle augmente de quinze mètres carrés pour chaque personne supplémentaire jusqu’à la cinquième et de dix pour chaque personne au-delà de la cinquième. Chaque espace privatif prévu à la lettre a) de l’alinéa 1 n’est pas inférieur à neuf mètres carrés. Les déterminations ultérieures ne peuvent pas descendre au-dessous des valeurs de première application sans l’avis conforme du Conseil Santé.
 >
 > 3. Les normes de l’alinéa 2 ne s’appliquent pas aux aires d’accueil équipées prévues par l’article 6-ter, alinéa 6, du Code 11.
 >
@@ -97,13 +100,13 @@ Dans le Code 1, à l’article 32, après l’alinéa 1 est inséré :
 >
 > 6. La mise en conformité s’effectue dans le respect des articles 2 et 5 du Code 10 : le réemploi et la récupération des bâtiments précèdent toute nouvelle construction. Jusqu’à l’activation des Codes 8 et 12, les lettres a), b) et d) de l’alinéa 1 et la surface de l’alinéa 2 s’appliquent.
 
-**Raison.** Les quinze mètres carrés viennent de l’étude de Millward-Hopkins et al. (2020). Les huit mètres d’espace privatif et les trente-six mois sont des hypothèses de rédaction, à discuter. L’alinéa 4 empêche qu’une norme pensée comme une garantie devienne un motif d’expulsion ; l’alinéa 5 évite que les mesures de protection du Code 4 restent inexécutables là où il manque un logement conforme.
+**Raison.** La version 2 utilisait quinze mètres carrés par personne, d’après l’étude de Millward-Hopkins et al. (2020) : c’est un minimum pensé pour toute la population mondiale, et pour une ou deux personnes il se situe même au-dessous des minimums de la norme italienne sur l’habitabilité (décret ministériel du 5 juillet 1975 : vingt-huit mètres carrés pour une personne, trente-huit pour deux). La version 3 part de ce qu’il faut pour y vivre : un endroit où se tenir, un endroit où dormir en fermant la porte, une salle de bains. Les mesures sont des choix de rédaction, à discuter ; au-delà de la cinquième personne, elles croissent plus lentement, parce que la cuisine et le séjour ne se multiplient pas avec le nombre de personnes. Les neuf mètres de l’espace privatif sont la chambre individuelle minimale de la même norme. Les trente-six mois sont une hypothèse de rédaction. L’alinéa 4 empêche qu’une norme pensée comme une garantie devienne un motif d’expulsion ; l’alinéa 5 évite que les mesures de protection du Code 4 restent inexécutables là où il manque un logement conforme.
 
 **Autres points à aligner.** Avec le nouvel article, « logement adéquat » a un contenu à l’art. 47, al. 3, du Code 1 et aux art. 29 et 34 du Code 4. La température minimale relève du Code 8, qui aujourd’hui ne fixe aucune valeur : c’est la proposition 4 qui la fixe. Version : Code 1 de V1.5 à V1.6, avec les autres propositions sur le Code 1 qui seront acceptées.
 
-**Ce que cela coûte.** Dans les Communautés qui partent de bâtiments existants, des travaux de mise en conformité et d’isolation, pas encore comptés dans le bilan des heures. Là où l’espace manque et où l’on ne peut pas construire, la prorogation de l’alinéa 4 ne suffit pas : il faut le dire avant.
+**Ce que cela coûte.** Dans les Communautés qui partent de bâtiments existants, des travaux de mise en conformité et d’isolation, pas encore comptés dans le bilan des heures. Là où l’espace manque et où l’on ne peut pas construire, la prorogation de l’alinéa 4 ne suffit pas : il faut le dire avant. Avec les nouvelles mesures, la surface moyenne passe de quinze à environ vingt-deux mètres carrés par personne, si les foyers sont comme les foyers italiens d’aujourd’hui (hypothèse) : dans le [brouillon de l’Annexe UCR](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/brouillon-ucr.html), les matériaux pour l’habitat passent d’environ 550 à environ 740 heures par an pour 150 personnes, moins d’un dixième d’heure par semaine par contributeur.
 
-**Points ouverts.** Il n’est pas dit si les normes valent pour les Maisons-relais. Vérifier la surface oblige à entrer dans les logements : il faut le faire sans violer l’inviolabilité du Cercle 0 (Const. 5.1).
+**Points ouverts.** Il n’est pas dit si les normes valent pour les Maisons-relais. Vérifier la surface oblige à entrer dans les logements : il faut le faire sans violer l’inviolabilité du Cercle 0 (Const. 5.1). Il n’est pas dit comment traiter les bâtiments faits uniquement de studios : les réunir demande des travaux que l’alinéa 4 laisse à la planification.
 
 ## <span id="proposta-3--connettività-e-materiali-per-apprendere"></span>Proposition 3 — Connectivité et matériel pour apprendre
 

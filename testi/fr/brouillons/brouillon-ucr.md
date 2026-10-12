@@ -144,6 +144,8 @@ Cela fait 1,4 heure par semaine et par contributeur. L’inventaire est converti
 
 **Ce que vaut cet inventaire.** Les prix et les durées sont des hypothèses de rédaction, énumérées une par une dans le programme : elles doivent être remplacées par de vrais devis. Le résultat ne dépend cependant pas d’un prix erroné : même en triplant l’ensemble de l’inventaire, le calcul complet reste sous les quinze heures. À titre de comparaison, l’industrie manufacturière européenne d’aujourd’hui emploie pour 150 personnes environ 14 200 heures, industrie alimentaire exclue : l’inventaire sur les besoins en demande moins de la moitié.
 
+**Un logement plus grand.** Avec les mesures de la version 3 de la [proposition 2](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html), la surface moyenne passe à environ 22 m² par personne, si les foyers sont comme les foyers italiens d’aujourd’hui (hypothèse). Le poste Habiter passe de 550 à 740 heures par an et le total de 6 740 à 6 930 heures : toujours 1,4 heure par semaine par contributeur, 2,8 avec le facteur des biens importés. Les tableaux de ce brouillon restent calculés avec 15 m².
+
 ### 4.4 Le calcul complet
 
 | | A : essentiel | B : quatre services au niveau européen |

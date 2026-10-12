@@ -84,9 +84,9 @@ Seat: Const. 1.2, letter a). Housing is a right, but no Code sets its standard.
 
 | Item | Proposed level | Origin |
 |---|---|---|
-| Floor area | 15 m² per person, common spaces included | Millward-Hopkins et al. (2020) |
+| Floor area | at least a living room, a bedroom and a bathroom; 30 m² for one person, 45 for two, 60 for three, then 15 more per person up to the fifth and 10 beyond | Proposal 2, version 3: drafting choice. The previous version set 15 m² per person, from Millward-Hopkins et al. (2020) |
 | Indoor temperature | at least 18 °C in the cold season | WHO (2018) |
-| Privacy | a lockable space for each adult person or couple | Drafting choice |
+| Privacy | a lockable space of at least 9 m² for each person from fourteen years of age | Proposal 2, version 3; 9 m² is the minimum single bedroom of the Italian Ministerial Decree of 5 July 1975 |
 | Emergency minimum | 3.5 m² of covered space per person | Sphere standards. It applies only to emergency reception, not as a dwelling. |
 
 ## 5. Material Basket

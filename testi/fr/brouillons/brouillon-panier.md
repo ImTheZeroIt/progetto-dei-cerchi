@@ -84,9 +84,9 @@ Fondement : Const. 1.2, let. a). Le logement est un droit, mais aucun Code n�
 
 | Poste | Niveau proposé | Origine |
 |---|---|---|
-| Surface | 15 m² par personne, espaces communs compris | Millward-Hopkins et al. (2020) |
+| Surface | au moins un séjour, une chambre à coucher et une salle de bains ; 30 m² pour une personne, 45 pour deux, 60 pour trois, puis 15 de plus par personne jusqu’à la cinquième et 10 au-delà | Proposition 2, version 3 : choix de rédaction. La version précédente indiquait 15 m² par personne, d’après Millward-Hopkins et al. (2020) |
 | Température intérieure | au moins 18 °C pendant la saison froide | OMS (2018) |
-| Intimité | un espace fermable pour chaque personne adulte ou chaque couple | Choix de rédaction |
+| Intimité | un espace fermable d’au moins 9 m² pour chaque personne à partir de quatorze ans | Proposition 2, version 3 ; 9 m² est la chambre individuelle minimale du décret ministériel italien du 5 juillet 1975 |
 | Minimum en urgence | 3,5 m² couverts par personne | Normes Sphère. Valable uniquement pour l’accueil d’urgence, pas comme habitation. |
 
 ## 5. Panier matériel

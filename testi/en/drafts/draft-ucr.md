@@ -144,6 +144,8 @@ That is 1.4 hours a week per contributor. The inventory is converted with the Eu
 
 **What this inventory is worth.** Prices and lifetimes are drafting assumptions, listed one by one in the program: they are to be replaced with real quotations. The result, however, does not depend on a wrong price: even tripling the entire inventory the complete count stays below fifteen hours. For comparison, today’s European manufacturing employs about 14,200 hours for 150 persons, food industry excluded: the inventory on need asks for less than half of that.
 
+**A larger dwelling.** With the measurements of version 3 of [proposal 2](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals.html) the average floor area rises to about 22 m² per person, if households are like Italian ones today (assumption). The Housing item goes from 550 to 740 hours a year and the total from 6,740 to 6,930 hours: still 1.4 hours a week per contributor, 2.8 with the factor for imported goods. The tables of this draft remain calculated with 15 m².
+
 ### 4.4 The complete count
 
 | | A: essential | B: four services at European level |

@@ -9,6 +9,7 @@ This page collects the substantive changes that have been proposed and not yet d
 - **Version 2 of:** 6 October 2026.
 - **Decision not before:** 20 October 2026.
 - **Addition of 10 October 2026:** the texts of the alignments of proposals 7 and 8, which were previously only announced. They do not change the proposals.
+- **Version 3 of proposal 2, of 12 October 2026:** the measurements of adequate dwelling change. For this proposal alone the fourteen days start again: the decision is not before 26 October 2026.
 - **To discuss them:** the [open issues](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues?q=is%3Aissue%20state%3Aopen%20in%3Atitle%20%22Proposta%20di%20modifica%22) whose title begins with “Proposta di modifica”, or [zerocirclesproject@gmail.com](mailto:zerocirclesproject@gmail.com).
 
 The first four proposals arise from the [draft Annex on the Sufficiency Basket](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/draft-basket.html). The fifth, ninth and tenth concern the Recognition Contribution. The sixth and seventh concern the subsoil and raw materials. The eighth concerns robots. The eleventh concerns the economic thresholds for decisions.
@@ -69,6 +70,8 @@ In Code 1, in Article 32, after paragraph 1 the following is inserted:
 
 **What changes from version 1.** It now says what counts as “adequate” for the other rules and sets a time limit for upgrading. Added: a minimum private space, space for minors from fourteen years of age, the prohibition on falling below the first values, compliance with the prohibition on land take, a rule for the early phases. For temperature it refers to Code 8. Removed the reference to an “emergency accommodation” that the texts do not provide for.
 
+**What changes in version 3 (12 October 2026).** Fifteen square metres per person gave anyone living alone or as a couple a dwelling too small to live in. Now every dwelling has at least a living room, a bedroom and a bathroom, and the minimum floor area depends on how many people live in it: thirty square metres for one, forty-five for two, sixty for three. The private space rises from eight to nine square metres.
+
 **Problem.** Housing is a constitutional right (Const. 1.2, letter a). Code 1 speaks of “adequate dwelling” (Art. 47, para. 3) without saying what makes it so.
 
 **Proposed text.** After Article 47 the following is inserted:
@@ -87,7 +90,7 @@ In Code 1, in Article 32, after paragraph 1 the following is inserted:
 >
 > e) the accessibility the person needs, in accordance with his or her individual care plan provided for by Code 12.
 >
-> 2. The quantitative standards are determined by the Assembly on a joint proposal from the Storehouse Council and the Energy and Water Council, with the opinion of the Health Council and of the Habitat and Territory Council. On first application the habitable floor area is not less than fifteen square metres per person, including the common spaces of Circle 0, of which at least eight are private space for each person referred to in letter a) of paragraph 1. Subsequent determinations may not fall below the first-application values without the favourable opinion of the Health Council.
+> 2. The quantitative standards are determined by the Assembly on a joint proposal from the Storehouse Council and the Energy and Water Council, with the opinion of the Health Council and of the Habitat and Territory Council. On first application every dwelling comprises at least a living room, a separate bedroom and a bathroom; a studio flat is not an adequate dwelling. The habitable floor area is not less than thirty square metres for one person, forty-five for two and sixty for three; it increases by fifteen square metres for each additional person up to the fifth and by ten for each person beyond the fifth. Each private space provided for by letter a) of paragraph 1 is not less than nine square metres. Subsequent determinations may not fall below the first-application values without the favourable opinion of the Health Council.
 >
 > 3. The standards of paragraph 2 do not apply to the equipped stopping areas provided for by Article 6-ter, paragraph 6, of Code 11.
 >
@@ -97,13 +100,13 @@ In Code 1, in Article 32, after paragraph 1 the following is inserted:
 >
 > 6. Upgrading takes place in compliance with Articles 2 and 5 of Code 10: the reuse and recovery of buildings precede any new construction. Until Codes 8 and 12 are activated, letters a), b) and d) of paragraph 1 and the floor area of paragraph 2 apply.
 
-**Reason.** The fifteen square metres come from the study by Millward-Hopkins et al. (2020). The eight metres of private space and the thirty-six months are drafting assumptions, to be discussed. Paragraph 4 prevents a standard conceived as a guarantee from becoming a ground for eviction; paragraph 5 prevents the protective measures of Code 4 from remaining unenforceable where no compliant dwelling exists.
+**Reason.** Version 2 used fifteen square metres per person, from the study by Millward-Hopkins et al. (2020): it is a minimum conceived for the whole world population, and for one or two people it falls even below the minimums of the Italian rule on habitability (Ministerial Decree of 5 July 1975: twenty-eight square metres for one person, thirty-eight for two). Version 3 starts from what is needed to live there: a place to be, a place to sleep behind a closed door, a bathroom. The measurements are drafting choices, to be discussed; beyond the fifth person they grow more slowly, because kitchen and living room do not multiply with the number of people. The nine metres of private space are the minimum single bedroom of the same rule. The thirty-six months are a drafting assumption. Paragraph 4 prevents a standard conceived as a guarantee from becoming a ground for eviction; paragraph 5 prevents the protective measures of Code 4 from remaining unenforceable where no compliant dwelling exists.
 
 **Other points to align.** With the new Article, “adequate dwelling” acquires a content in Art. 47, para. 3, of Code 1 and in Arts. 29 and 34 of Code 4. Minimum temperature is a matter for Code 8, which today sets no value: proposal 4 sets it. Version: Code 1 from V1.5 to V1.6, together with the other proposals on Code 1 that are accepted.
 
-**What it costs.** In Communities that start from existing buildings, upgrading and insulation works, not yet counted in the balance of hours. Where space is lacking and building is not possible, the extension in paragraph 4 is not enough: this has to be said beforehand.
+**What it costs.** In Communities that start from existing buildings, upgrading and insulation works, not yet counted in the balance of hours. Where space is lacking and building is not possible, the extension in paragraph 4 is not enough: this has to be said beforehand. With the new measurements the average floor area rises from fifteen to about twenty-two square metres per person, if households are like Italian ones today (assumption): in the [draft UCR Annex](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/draft-ucr.html) the materials for housing go from about 550 to about 740 hours a year for 150 people, less than a tenth of an hour a week per contributor.
 
-**Open points.** It is not stated whether the standards apply to the Bridge Houses. Verifying the floor area requires entering dwellings: this has to be done without violating the inviolability of Circle 0 (Const. 5.1).
+**Open points.** It is not stated whether the standards apply to the Bridge Houses. Verifying the floor area requires entering dwellings: this has to be done without violating the inviolability of Circle 0 (Const. 5.1). It is not stated how to treat buildings made only of studio flats: joining them requires works that paragraph 4 leaves to planning.
 
 ## <span id="proposta-3--connettività-e-materiali-per-apprendere"></span>Proposal 3 — Connectivity and learning materials
 

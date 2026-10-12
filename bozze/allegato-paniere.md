@@ -82,9 +82,9 @@ Sede: Cost. 1.2, lett. a). L'alloggio è un diritto, ma nessun Codice ne fissa l
 
 | Voce | Livello proposto | Origine |
 |---|---|---|
-| Superficie | 15 m² per persona, spazi comuni compresi | Millward-Hopkins e altri (2020) |
+| Superficie | almeno soggiorno, camera da letto e bagno; 30 m² per una persona, 45 per due, 60 per tre, poi 15 in più per persona fino alla quinta e 10 oltre | Proposta 2, versione 3: scelta di redazione. La versione precedente indicava 15 m² per persona, da Millward-Hopkins e altri (2020) |
 | Temperatura interna | almeno 18 °C nella stagione fredda | OMS (2018) |
-| Riservatezza | uno spazio chiudibile per ogni persona adulta o coppia | Scelta di redazione |
+| Riservatezza | uno spazio chiudibile di almeno 9 m² per ogni persona dai quattordici anni | Proposta 2, versione 3; 9 m² è la camera singola minima del DM 5 luglio 1975 |
 | Minimo in emergenza | 3,5 m² coperti per persona | Standard Sphere. Vale solo per l'accoglienza d'urgenza, non come abitazione. |
 
 ## 5. Paniere Materiale

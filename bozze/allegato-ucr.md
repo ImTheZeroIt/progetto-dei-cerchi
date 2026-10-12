@@ -142,6 +142,8 @@ Sono 1,4 ore a settimana per contributore. L'inventario è convertito con la med
 
 **Quanto vale questo inventario.** Prezzi e durate sono ipotesi di redazione, elencate una per una nel programma: vanno sostituite con preventivi veri. Il risultato però non dipende da un prezzo sbagliato: anche triplicando l'intero inventario il conto completo resta sotto le quindici ore. Per confronto, la manifattura europea di oggi impiega per 150 persone circa 14.200 ore, industria alimentare esclusa: l'inventario sul bisogno ne chiede meno della metà.
 
+**Alloggio più grande.** Con le misure della versione 3 della [proposta 2](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html) la superficie media sale a circa 22 m² a persona, se i nuclei sono come quelli italiani di oggi (ipotesi). La voce Abitare passa da 550 a 740 ore l'anno e il totale da 6.740 a 6.930 ore: sempre 1,4 ore a settimana per contributore, 2,8 con il fattore dei beni importati. Le tabelle di questa bozza restano calcolate con 15 m².
+
 ### 4.4 Il conto completo
 
 | | A: essenziale | B: quattro servizi a livello europeo |
