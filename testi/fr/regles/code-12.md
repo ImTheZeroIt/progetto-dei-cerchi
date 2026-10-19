@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 12 — SOIN COMMUNAUTAIRE, FRAGILITÉS FONCTIONNELLES ET SANTÉ COMMUNAUTAIRE"
 breve: "Code 12 — Soin communautaire"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "codici"
 ordine: 12
 id: "codice-12"
 slug: "code-12"
-allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.4 ; Code 5 V1.4 ; Code 6 V1.5 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.4 ; Code 11 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
 ---
 
 ## Art. 1 — Objet, définitions et champ de compétence
@@ -236,9 +236,26 @@ allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5
 
 1.  En cas de violence, de négligence grave ou de préjudice au détriment d’un mineur ou d’une personne qui n’est pas en mesure de se protéger, le Conseil Soin active sans délai un parcours de protection, en application de l’article 26.3 de la Constitution. Le parcours comprend la mise en sécurité, l’écoute et, si nécessaire, l’accueil temporaire auprès de personnes de confiance ou dans un espace protégé.
 2.  Le fait est signalé au Cercle de garantie pour les procédures du Code 4. Les signalements dans le Réseau sont limités aux informations nécessaires à la protection. Pendant la transition, l’article 37 du Code 4 s’applique.
-3.  La séparation d’un mineur de son Cercle 0 n’est admise qu’à titre de mesure temporaire de protection et est soumise à la validation du Tribunal de garantie dans un délai de vingt-quatre heures, en application de l’article 34 du Code 4.
+3.  La séparation d’un mineur de son Cercle 0 n’est admise qu’à titre de mesure temporaire de protection, lorsque le mineur ne peut pas être mis en sécurité en restant dans le Cercle 0. Elle est ordonnée :
+
+    a) en présence d’un danger immédiat, en application de l’article 34, alinéa 1, du Code 4 ;
+
+    b) dans les autres cas de violence, de négligence grave ou de préjudice, par le Cercle de garantie sur proposition motivée du Conseil Soin, après avoir entendu le mineur et, sauf si cela l’expose à un danger, les personnes qui en ont la responsabilité de soin.
+
+La séparation est communiquée sans délai au Tribunal de garantie, qui la valide, la modifie ou la révoque dans un délai de vingt-quatre heures ; à défaut de validation, elle prend fin. Le mineur est accueilli, si possible, auprès de personnes de sa confiance. La validation indique qui prend, pendant la séparation, les décisions quotidiennes et donne le consentement aux soins en application de l’article 2-ter du Code 6. La séparation validée dure jusqu’à la décision de l’alinéa 3-bis et cesse avec elle. L’article 34, alinéa 3, du Code 4 ne s’applique pas.
+
+3-bis. Dans un délai de trente jours à compter de la validation, le Tribunal de garantie prend la décision stable sur la garde du mineur, après avoir entendu le mineur, assisté de la personne de confiance prévue par l’article 31.5 de la Constitution, les personnes qui en ont la responsabilité de soin, avec les garanties de l’article 25, alinéa 4, du Code 4, et le Conseil Soin. Le délai peut être prolongé une seule fois, d’au plus trente jours supplémentaires, par une décision motivée, lorsqu’un élément nécessaire ne peut pas être obtenu plus tôt, comme une évaluation sanitaire du mineur. À l’échéance, le Tribunal statue en l’état du dossier ; si la décision n’est pas adoptée, la séparation prend fin. Compte tenu de la volonté du mineur selon son âge et sa maturité, il ordonne :
+
+a) le retour dans le Cercle 0, le cas échéant avec un parcours de soutien ; ou
+
+b) uniquement lorsque le retour exposerait le mineur à une violence, à une négligence grave ou à un préjudice qu’un parcours de soutien ne peut pas éviter, la garde par des personnes qui assument la responsabilité de soin en application de l’article 24.3 de la Constitution, en indiquant si cette responsabilité reste partagée avec les personnes qui l’exerçaient ou est suspendue pour elles, et comment les relations avec elles sont maintenues, sauf si cela nuit au mineur.
+
+La décision est réexaminée par le Tribunal au moins tous les six mois et à tout moment à la demande du mineur ou des personnes qui avaient la responsabilité de soin. Elle peut faire l’objet du réexamen de l’article 35, alinéa 2, du Code 4. Le présent alinéa s’applique aussi à la décision sur le lieu et les personnes avec qui vivent les enfants mineurs de la personne qui cesse d’être membre en application de l’article 29, alinéa 6-bis, du Code 4 ; la décision est prise avant que la cessation ne prenne effet et ne requiert pas la séparation de l’alinéa 3. Dans ce cas, la cessation ne constitue pas à elle seule une violence, une négligence grave ou un préjudice au sens de la lettre b), et le Tribunal peut aussi décider que le mineur vive avec la personne sur la parcelle attribuée, avec le logement, le Panier et les services qui lui reviennent en tant que membre.
+
+3-ter. Pendant la transition, la séparation contre la volonté des personnes qui ont la responsabilité de soin et les décisions de l’alinéa 3-bis relèvent des autorités compétentes de l’État, en application de l’article 37 du Code 4. Le Conseil Soin signale le cas, soutient le mineur et collabore à son accueil.
+
 4.  Toute personne peut désigner à l’avance un représentant pour le cas où elle deviendrait incapable, y compris au moyen des directives anticipées prévues par l’article 8-bis du Code 6.
-5.  À défaut de désignation et en cas d’urgence, le Cercle de garantie nomme dans un délai de vingt-quatre heures un représentant temporaire, choisi dans l’ordre parmi les personnes du Cercle 0 indiquées par la personne, sa personne de confiance et une personne tirée au sort ayant une compétence L2 en matière de soin et exempte de conflit d’intérêts. La charge dure au plus trente jours et est renouvelable par décision motivée.
+5.  À défaut de désignation et en cas d’urgence, le Cercle de garantie nomme dans un délai de vingt-quatre heures un représentant temporaire, choisi dans l’ordre parmi les personnes du Cercle 0 indiquées par la personne, sa personne de confiance et une personne tirée au sort ayant une compétence L2 en matière de soin et exempte de conflit d’intérêts. La charge dure au plus trente jours et est renouvelable par décision motivée jusqu’à la nomination du représentant stable prévue par l’article 2-ter, alinéa 5, du Code 6, que le Cercle de garantie demande au Tribunal de garantie lorsque l’incapacité dure ou devrait durer plus de soixante jours.
 6.  Le représentant décide selon la volonté exprimée ou présumée de la personne et, à défaut, selon son intérêt supérieur. La charge prend fin lorsque la personne recouvre sa capacité.
 
 ## Art. 8 — Registre des dépendances du soin
@@ -283,7 +300,7 @@ allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5
 
     f) d’utiliser des données sur la fragilité fonctionnelle à des fins de profilage ou à des fins autres que la prise en charge et les finalités techniques expressément autorisées par le Code 7 ;
 
-    g) d’ordonner l’institutionnalisation forcée d’une personne, sauf placement temporaire strictement nécessaire face à un risque immédiat, adopté avec les garanties du Code 4. Les éventuels traitements sanitaires restent régis par le Code 6 et par les garanties correspondantes.
+    g) d’ordonner l’institutionnalisation forcée d’une personne, sauf placement temporaire strictement nécessaire face à un risque immédiat, adopté dans les conditions et avec les garanties de l’article 8, alinéas 4 à 10, du Code 6 ; pour les mineurs, l’article 7-bis, alinéa 3, s’applique. Les éventuels traitements sanitaires restent régis par le Code 6 et par les garanties correspondantes.
 
 2.  Les violations de l’alinéa 1 constituent des violations substantielles. La constatation, les mesures conservatoires, la suspension ou la désactivation de la fonction et les recours sont décidés conformément au Code 4. Le Conseil Soin documente les faits et active les procédures prévues, sans se substituer aux organes compétents pour la constatation ou pour l’application des recours.
 

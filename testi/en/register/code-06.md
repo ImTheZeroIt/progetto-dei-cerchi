@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 6 — ON HEALTH"
 breve: "Code 6 — Health"
-versione: "V1.5"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 6
 id: "codice-06"
 slug: "code-06"
-allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 V1.4; Code 5 V1.4; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.4; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
 ---
 
 ## PRELIMINARY TITLE — FUNDAMENTAL PRINCIPLES
@@ -38,7 +38,7 @@ allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 
 ### Art. 2 — Principles
 
 1.  **Prevention.** CBO, production, logistics and learning activities are organised so as to prevent harm to health before it occurs.
-2.  **Self-determination.** Every person decides on their own body and on their own course of care on the basis of free, informed and revocable consent, except for the exceptional measures provided for in Article 2-bis and within the limits laid down therein.
+2.  **Self-determination.** Every person decides on their own body and on their own course of care on the basis of free, informed and revocable consent. Article 2-ter applies to minors and to those who are unable to decide. The collective measures of Article 2-bis may limit tasks, activities and movements within the limits laid down therein, but never include an imposed health treatment. Article 8 remains applicable to a person temporarily incapable in acute crisis.
 3.  **No blame.** Illness, accident and frailty do not constitute fault and may not, in themselves, entail a reduction of the Sufficiency Basket, exclusion or sanction. The guarantees of Code 4 apply.
 4.  **Proximity.** Care is organised, as far as possible, in the person’s Circle, Storehouse and habitat. Recourse to hospital or centralised services is ordered when it is necessary in order to access Level 3 competences not available locally.
 5.  **Non-commodification of knowledge.** It is prohibited to patent life-saving knowledge and essential health knowledge or to place them behind a paywall. Rent deriving from the monopoly of health competences is prohibited, in accordance with Code 5, Article 8.
@@ -58,6 +58,46 @@ allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 3.  Collective measures are resolved upon by the General Assembly in accordance with the urgency procedure of Code 3. The resolution shall state its reasons and document necessity, proportionality, duration, less invasive alternatives and criteria for cessation. Coordination with Code 14 applies where matters of general safety or of interruption of activities are involved.
 
+3-bis. The collective measures may comprise exclusively:
+
+a) public information, recommendations and the free offer of tests, vaccinations, prophylaxis and PPE, which remain voluntary;
+
+b) the protection indicated by the resolution, from among vaccination, prophylaxis, tests and PPE, as a condition for performing the tasks and for attending the places at risk, on the conditions of paragraph 3-ter;
+
+c) the temporary suspension or reorganisation of collective activities, meetings, CBO shifts, non-essential mobility and non-urgent hospitality;
+
+d) the isolation of contagious persons and the quarantine of exposed persons, on the conditions of paragraph 3-quater;
+
+e) measures concerning contaminated environments, water, food and goods and, for zoonoses, the measures concerning animals permitted by Code 13.
+
+Only the tasks and places in which contagion may affect particularly exposed persons are at risk: wards and clinics, the care of frail persons pursuant to Code 12 and, where the risk concerns childhood, spaces for childhood and places of collective learning. No one may be excluded from the care they need or from assisting a hospitalised person for whose care they are responsible; in these cases alternative precautions are adopted.
+
+3-ter. No measure includes a health treatment, a sample, a test or a vaccination performed on the body of a person without the consent of that person or, for those who cannot decide for themselves, of the person who decides pursuant to Article 2-ter. Whoever refuses the protection indicated pursuant to paragraph 3-bis, letter b):
+
+a) may be excluded, for the duration of the measure, only from the tasks and places at risk;
+
+b) shall receive without delay another compatible task, counted in the CBO; if none is available, the temporary suspension of Article 11, paragraph 1, letter c), of Code 1 applies. A minor excluded from a collective space shall be ensured care and learning in another form;
+
+c) retains the Basket, housing, care, the vote, deliberative participation and the other rights, including during the measure;
+
+d) does not commit an offence; the refusal is not recorded or communicated beyond what is necessary to apply letter a).
+
+3-quater. Isolation and quarantine:
+
+a) take place in the person’s dwelling or, if the person prefers or the dwelling does not allow it, in a suitable space made available by Circle 1;
+
+b) last as long as the dossier of paragraph 2 indicates for the agent in question and in any case no more than fourteen days per person and per exposure; one extension, for no more than a further fourteen days, is permitted only if two persons with L3 competence certify that the person is still contagious or, for quarantine, that the incubation period indicated by the dossier has not ended. Beyond twenty-eight days the isolation of a person who is still contagious and does not consent to it may be ordered only by the Guarantee Tribunal, after hearing the person with the guarantees of Article 25, paragraph 4, of Code 4, on the certification of two independent L3 persons pursuant to paragraph 2, letter b), for periods not exceeding fourteen days and not beyond the duration of the collective measure; failing that, only paragraph 3-ter applies;
+
+c) if the person does not consent, are ordered individually by the Health Council by reasoned act, communicated without delay to the Guarantee Tribunal, which shall validate, modify or revoke them within twenty-four hours pursuant to Article 34, paragraph 2, of Code 4; in the absence of validation they cease. The same validation applies to the extension. Paragraph 3 of that Article does not apply;
+
+d) ensure for the person the delivery of the Basket, care, remote contact with loved ones, voting through the Network and the temporary suspension of the CBO provided for by Article 11, paragraph 1, letter c), of Code 1, except for the tasks that the person asks to perform remotely;
+
+e) are not enforced by force, except for the intervention of the Civic Protection Corps within the limits of Article 8-ter of Code 14; the validation of letter c) also applies for the purposes of paragraph 4 of that Article;
+
+f) during the transition, if the person does not consent, are ordered only by the health authorities of the State, pursuant to Article 37 of Code 4.
+
+3-quinquies. For the entire duration of the measure the proposing Health Council shall publish, at least every week, the dossier of paragraph 2, the aggregated and anonymous data on which the measure is based, their trend and the reasons for each renewal or cessation, in compliance with Article 11.
+
 4.  The measure:
 
     a) lasts no more than thirty days;
@@ -66,7 +106,7 @@ allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     c) is limited to what is strictly necessary and adopts the least invasive suitable measure;
 
-    d) is reviewed by the Guarantee Circle, at the request of any member, within seven days;
+    d) is reviewed by the Guarantee Circle, at the request of any member, within seven days; individually ordered isolation and quarantine instead follow the validation of paragraph 3-quater, letter c);
 
     e) is recorded with its reasons, duration and criteria for cessation, in compliance with confidentiality and with the access levels provided for by the Codes.
 
@@ -74,9 +114,23 @@ allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 6.  This Article governs public health measures addressed to the community as a whole. Article 8 governs individual health emergency interventions concerning a person in crisis. The two regimes have distinct subject matter, conditions and procedures and are not cumulative, unless both sets of conditions are documented.
 
-7.  Measures adopted pursuant to this Article may not produce permanent effects on access to the CBO, to the Basket, to deliberative participation or to the other rights. Any further effects require a separate procedure provided for by the competent Codes, together with the related guarantees.
+7.  Measures adopted pursuant to this Article may not reduce, not even while they apply, the Basket, housing, care, the vote and deliberative participation, nor produce permanent effects on access to the CBO or to the other rights. Any further effects require a separate procedure provided for by the competent Codes, together with the related guarantees.
 
 8.  When the measure ceases, the person’s previous legal position is restored. The records necessary to document, verify or audit the measure may be retained, with restricted access and in accordance with the confidentiality guarantees of Article 11.
+
+### Art. 2-ter — Consent of minors and of persons who cannot decide
+
+1.  From completion of the sixteenth year the person gives, refuses and revokes consent to their own care themselves, pursuant to Article 2, paragraph 2. If, before the eighteenth year, the person is unable to decide, paragraph 2 applies.
+
+2.  Until completion of the sixteenth year consent is given by those who hold responsibility for the care of the minor pursuant to Article 24.3 of the Constitution, after informing and hearing the minor in a manner suited to his or her age. The opinion of the minor carries increasing weight with age and maturity, pursuant to Article 26.2 of the Constitution. If there is more than one responsible person, they decide by agreement; for urgent care the consent of one of them suffices. Responsibility for care and the consent of this paragraph do not cease by reason only of the cessation of the member status of the responsible person pursuant to Article 29, paragraph 6-bis, of Code 4. If no one exercises responsibility for care, or no responsible person can be reached in good time, consent is given by the temporary representative appointed pursuant to Article 7-bis, paragraph 5, of Code 12, until the decision of the Guarantee Tribunal provided for by paragraph 3-bis of that Article.
+
+3.  In the event of disagreement between the minor and those who hold responsibility for his or her care, or between several responsible persons, or of a conflict of interest between them and the minor, the minor, each responsible person, the treating practitioner or the Care Council may apply to the Guarantee Tribunal. The Tribunal obtains the written opinion of a person with L3 health competence, independent and not involved in the care, drawn by lot from the list of Article 36, paragraph 1, letter b), of Code 4; it hears the minor, assisted by the trusted person provided for by Article 31.5 of the Constitution, and the responsible persons; it decides within seven days or, if the care cannot wait, within twenty-four hours, according to the interest of the minor and taking account of his or her opinion pursuant to paragraph 2. Where waiting would expose the minor to a danger to life or to serious and irreversible harm, the necessary care is provided immediately, pursuant to Article 28.2 of the Constitution, and the Tribunal is informed.
+
+4.  Vaccinations and prophylaxis of minors follow paragraphs 1 to 3 and are never mandatory. Refusal of a vaccination does not, by itself, constitute serious neglect or harm within the meaning of Article 7-bis of Code 12. During a measure under Article 2-bis a minor who does not have the protection indicated may be excluded only from the places at risk, on the conditions of paragraph 3-ter of that Article.
+
+5.  Where an adult person is unable to decide on their own care because of a condition that lasts, or is expected to last, more than sixty days, as established by two independent persons with L3 health competence, the Guarantee Tribunal shall appoint a stable representative, if the person has not designated one pursuant to Article 7-bis, paragraph 4, of Code 12. The representative is chosen in the order of Article 7-bis, paragraph 5, of Code 12 and decides in accordance with paragraph 6 of that Article. The person is informed and heard to the extent that they can express themselves. The appointment is reviewed by the Tribunal at least every twelve months and at any time at the request of the person, the trusted person, the representative or the Care Council; it ceases when the person recovers capacity. Paragraph 3 applies to disagreement or conflict of interest between the representative and the person. The representative may not consent to coercive measures, which are governed solely by Article 8.
+
+6.  During the transition this Article applies within the limits permitted by the law in force on the consent of minors and on the representation of incapable persons.
 
 ## CHAPTER I — ORGANISATION, SAFETY SHEETS AND PREVENTION
 
@@ -283,7 +337,7 @@ Code 4, Article 17, and Code 5, Article 9, apply. The second-instance Panel may 
 
     b) is carried out in the presence of two L3 persons, when immediately available;
 
-    c) is communicated without delay to the Guarantee Circle;
+    c) is communicated without delay to the Guarantee Tribunal for the validation of paragraph 7 and to the Guarantee Circle;
 
     d) is documented on the Network with regulated access;
 
@@ -291,13 +345,23 @@ Code 4, Article 17, and Code 5, Article 9, apply. The second-instance Panel may 
 
     f) ceases immediately when the conditions for it cease to exist.
 
-7.  Within twenty-four hours the Guarantee Circle verifies the procedural legitimacy, necessity and proportionality of the measure. It does not carry out a clinical assessment, which remains the responsibility of the L3 health persons.
+7.  Within twenty-four hours of the start of the measure the Guarantee Tribunal, pursuant to Article 27, paragraph 3, of Code 4, shall validate, modify or revoke it. It verifies the conditions of paragraph 4, necessity and proportionality on the basis of the documentation of the two L3 persons and, where possible, after hearing the person, their representative and the trusted person. It does not carry out a clinical assessment, which remains the responsibility of the L3 health persons. In the absence of validation within the time limit the measure ceases. If the Civic Protection Corps intervenes, the validation of this paragraph takes the place of that provided for by Article 8-ter, paragraph 4, of Code 14.
 
 8.  After the crisis, a voluntary course of care is offered to the person.
 
 9.  Punitive restraint, isolation used as a sanction and punitive sedation are always prohibited.
 
-10. Any coercive measure exceeding twenty-four hours requires a new resolution of the Assembly in accordance with Code 3, coordination with Code 14 and a review by the Guarantee Circle. The resolution may not derogate from fundamental rights or prolong a measure after the conditions for it have ceased to exist.
+10. The coercive measure:
+
+    a) is reassessed by the two L3 persons at least every twelve hours and, during physical restraint, at least every hour; every reassessment is documented;
+
+    b) after validation lasts no more than seventy-two hours and may be extended only by a new validation of the Guarantee Tribunal, requested before expiry on the basis of a new certification by two L3 persons, for periods not exceeding seventy-two hours; in the absence of a new validation before expiry the measure ceases;
+
+    c) may not exceed fourteen days in total. On expiry the measure ceases even if the risk persists; the continuous presence of trained persons, the relational and environmental making safe of paragraph 3 and the offer of care are ensured without interruption, and the person may remain voluntarily in the place of care. A new coercive measure is permitted only for a new acute episode, on the conditions of paragraph 4 certified by two L3 persons other than those who certified the previous measure, and with the validation of a Guarantee Tribunal in a different composition, which expressly verifies that it is not the continuation of the measure that has ceased. Within a period of ninety days coercive measures may not exceed twenty-eight days in total;
+
+    d) is revoked at any time by the Guarantee Tribunal, when the conditions for it cease to exist, at the request of the person, their representative or the trusted person; the request is decided within twenty-four hours.
+
+The representative may not consent to a coercive measure in place of the person: only this Article applies. During the transition no internal coercive measures are carried out; every intervention is limited to what is permitted by the law in force and the emergency services and the competent health authorities are alerted, pursuant to Article 37 of Code 4.
 
 11. It is prohibited to insert stigmatising labels in the Personal Portfolio.
 
@@ -378,7 +442,7 @@ Traditional use, on its own, does not constitute validation. Every validated pre
 
 7.  Experimentation on minors, on persons in acute crisis within the meaning of Article 8 or on persons temporarily lacking the capacity to give consent is prohibited, except in the exceptional case in which it is aimed at achieving a direct and specific benefit for the person themselves. In that case all of the following conditions must be met cumulatively:
 
-    a) consent of the representative designated in accordance with Article 7-bis of Code 12. The trusted person is not regarded as a representative, unless they have been formally designated for that function;
+    a) consent given in accordance with Article 2-ter: for a minor, by the minor if he or she has reached the age of sixteen, otherwise by those who hold responsibility for his or her care; for an incapable person, by the representative designated or appointed pursuant to Article 7-bis of Code 12 or Article 2-ter, paragraph 5. The trusted person is not regarded as a representative, unless they have been formally designated for that function;
 
     b) if the representative is not available, application of the urgent procedure provided for by Article 7-bis of Code 12 for a temporarily incapable person, including the urgent appointment of a representative by the competent body;
 
@@ -407,7 +471,7 @@ The absence of even one of the conditions prevents the experimentation from bein
 
     c) the Guarantee Circle may access the data necessary to decide an appeal, in accordance with a tracked procedure and with restricted access;
 
-    d) in the absence of consent, access by the Health Council is permitted only when it is necessary to give effect to a collective safety obligation validly resolved upon pursuant to Article 2-bis. Access is limited to the strictly necessary data, proportionate and temporary, is tracked and, when possible, communicated to the person concerned. Review by the Guarantee Circle within seven days is permitted.
+    d) in the absence of consent, access by the Health Council is permitted only when it is necessary to give effect to a collective measure validly resolved upon pursuant to Article 2-bis. Access is limited to the strictly necessary data, proportionate and temporary, is tracked and, when possible, communicated to the person concerned. Review by the Guarantee Circle within seven days is permitted.
 
 3.  The Knowledge Storehouse contains exclusively:
 
@@ -431,7 +495,7 @@ It does not contain individual health data.
 
     c) to request their erasure when they are no longer relevant or necessary;
 
-    d) to request the erasure or forgetting of past episodes, without prejudice to the collective safety obligations documented and validly resolved upon pursuant to Article 2-bis, limited to the strictly necessary information.
+    d) to request the erasure or forgetting of past episodes, without prejudice to the collective measures documented and validly resolved upon pursuant to Article 2-bis, limited to the strictly necessary information.
 
 6.  The erasure or rectification of personal data does not entail the erasure of information that has already been rendered irreversibly anonymous and used for statistics, epidemiological analyses or the updating of the STVs. Personal data are kept distinct from anonymous statistical data and it must not be possible to reconstruct them.
 

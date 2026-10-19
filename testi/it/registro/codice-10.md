@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 10 — HABITAT E TERRITORIO"
 breve: "Codice 10 — Habitat e territorio"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "codici"
 ordine: 10
 id: "codice-10"
 slug: "codice-10"
-allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.4; Codice 5 V1.4; Codice 6 V1.5; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
 ---
 
 ## Art. 1 — Oggetto, definizioni e natura giuridica
@@ -154,7 +154,9 @@ La deroga è deliberata dall’Assemblea su proposta del Consiglio Agroecologico
 
     g) boschi, aree umide e aree seminaturali;
 
-    h) rifugi per impollinatori, campi, banche semi e infrastrutture previste dai Codici 8 e 9.
+    h) rifugi per impollinatori, campi, banche semi e infrastrutture previste dai Codici 8 e 9;
+
+    i) porzioni affidate con Patto di Convivenza Autonoma e quota riservata ai sensi dell’articolo 4-bis.
 
 2.  La destinazione d’uso è deliberata dall’Assemblea su proposta del Consiglio Habitat e Territorio, con:
 
@@ -177,6 +179,44 @@ La deroga è deliberata dall’Assemblea su proposta del Consiglio Agroecologico
     e) l’Assemblea Generale approva la modifica a maggioranza qualificata.
 
 5.  La deliberazione indica localizzazione, estensione, durata, compensazioni, responsabili e modalità di verifica.
+
+## Art. 4-bis — Patto di Convivenza Autonoma
+
+1.  Il presente articolo attua gli articoli 4.9, lettera c), 4.9-bis, 4.9-ter e 7.3-bis della Costituzione. Il Patto di Convivenza Autonoma è stipulato tra la persona non confederata, o il suo nucleo, e il Cerchio 1. Per il Cerchio 1 lo stipula l’Assemblea, su proposta del Consiglio Habitat e Territorio e secondo l’articolo 4, comma 2, entro trenta giorni dalla richiesta. Il Patto non può essere rifiutato a chi ne accetta le condizioni, salvo l’insufficienza della capacità di carico documentata ai sensi del comma 4. Contro il rifiuto, contro l’atto del comma 4 e contro l’individuazione della porzione è ammesso ricorso ai sensi dell’articolo 9, comma 4.
+
+2.  Il Patto indica almeno:
+
+    a) la porzione di terra e, ove disponibile, l’abitazione affidate in custodia d’uso, con i confini registrati nel Catasto;
+
+    b) i vincoli ecologici: i divieti dell’articolo 9 del presente Codice, dell’articolo 9, comma 1, lettere a), g), h) e i), del Codice 9 e dell’articolo 10 del Codice 13, le fasce di rispetto e la connessione ecologica degli articoli 2 e 6;
+
+    c) il rispetto del disarmo previsto dall’articolo 16 della Costituzione;
+
+    d) l’accesso all’acqua potabile, ai sensi dell’articolo 4-bis del Codice 8, all’acqua necessaria alla porzione e alle cure d’emergenza salvavita;
+
+    e) l’assenza di prelievi ordinari dai Magazzini e le modalità dell’eventuale scambio di eccedenze reali, senza profitto e senza attribuzione di CdR;
+
+    f) per i minori del nucleo, l’accesso alle cure, all’apprendimento e alla protezione dei Codici 5, 6 e 12 alle stesse condizioni dei minori membri;
+
+    g) le modalità di verifica e di revisione.
+
+Alla persona che vive mediante Patto non si applicano il CBO né gli altri obblighi riservati ai membri; si applicano le condizioni del Patto e le regole che la Costituzione e i Codici rivolgono a chiunque si trovi nel territorio.
+
+3.  La porzione è registrata nella mappa territoriale nella categoria dell’articolo 4, comma 1, lettera i). Resta Bene Comune inalienabile e torna alla custodia del Cerchio al termine dell’uso. Il Patto non costituisce cessione del controllo ai sensi dell’articolo 9, comma 1, lettera f), del Codice 9.
+
+4.  La capacità di carico è documentata dal Consiglio Habitat e Territorio, con il parere obbligatorio del Consiglio Agroecologico e del Consiglio Energia e Acqua, in un atto pubblico che indica la terra e l’acqua necessarie all’autosufficienza della persona o del nucleo e quelle disponibili. Il Patto non può essere rifiutato per capacità di carico finché la quota del comma 5 non è interamente affidata.
+
+5.  Ogni Cerchio 1 riserva al Patto una quota di terra, registrata nella mappa, sufficiente all’autosufficienza di almeno una persona ogni cento residenti o frazione di cento. Finché non è affidata, la quota può essere usata dalla Comunità soltanto con occupazione reversibile ed è resa disponibile entro novanta giorni dalla stipula del Patto. L’obbligo è accettato con l’atto di adesione previsto dall’articolo 38.1 della Costituzione e non deriva da un potere di un Cerchio superiore.
+
+6.  Se il Patto è rifiutato per capacità di carico, il Cerchio 1 ne informa senza ritardo il Cerchio 2, che entro trenta giorni, tramite i propri portavoce e sulla base delle mappe, individua un Cerchio 1 con quota disponibile, tenendo conto delle preferenze della persona e della vicinanza. Il Cerchio 1 individuato stipula il Patto sulla propria quota ai sensi del comma 1. Se le quote del Cerchio 2 sono esaurite, il caso passa al Cerchio 3, con lo stesso obbligo e lo stesso termine. Quando il fabbisogno di un nucleo supera la quota di ciascun Cerchio 1, la porzione può essere formata con quote di Cerchi 1 confinanti; il Patto è stipulato dal Cerchio 1 che ne mette a disposizione la parte maggiore. Se nemmeno nel Cerchio 3 è disponibile una quota sufficiente, la porzione è assegnata sulla prima quota che si rende disponibile, secondo l’ordine delle richieste, e il Cerchio 1 la cui quota è interamente affidata la ricostituisce entro dodici mesi, nei limiti della capacità di carico.
+
+7.  Dalla richiesta del Patto fino alla consegna della porzione, la persona che ne accetta le condizioni esercita il diritto di residenza dell’articolo 4.9, lettera c), della Costituzione: non le si applica il limite di quattordici giorni dell’ospitalità temporanea. Il Cerchio 1 in cui si trova le assicura alloggio in una Casa Ponte o nell’area di sosta attrezzata, l’accesso al Paniere secondo il fabbisogno reale e il CBO in mobilità ove compatibile, secondo l’articolo 6-ter del Codice 11. L’accoglienza è provvisoria, è limitata al tempo necessario alla consegna e cessa con essa. Cessa inoltre se la persona rifiuta senza giustificazione la porzione individuata ai sensi dei commi 1 o 6 o revoca l’accettazione delle condizioni; si applica allora l’articolo 32-bis, comma 2, del Codice 4.
+
+8.  Il Patto è a tempo indeterminato. Cessa per recesso della persona, che è sempre possibile, per il suo ingresso o rientro nella Confederazione, per mancato uso della porzione protratto oltre dodici mesi senza giustificazione, accertato secondo il Codice 4, o per ricollocazione ai sensi dell’articolo 32-bis del Codice 4. La cessazione non impedisce di chiedere un nuovo Patto. La violazione delle condizioni è trattata secondo il Codice 4 e può dar luogo soltanto alla revisione prevista dall’articolo 32-bis del medesimo Codice.
+
+9.  Durante la transizione il Patto è stipulato nelle forme consentite dalla legge vigente e comprende l’accettazione del Capo V del Codice 4, ai sensi del suo articolo 37, comma 1. Finché non esiste un Bacino, la ricerca del comma 6 è svolta dal Cerchio pilota con gli altri Cerchi pilota e con gli enti affini disponibili; nel frattempo si applica il comma 7.
+
+10. Alla persona che cessa di essere membro ai sensi dell’articolo 7.3-bis della Costituzione la porzione è assegnata dal Tribunale di Garanzia, ai sensi dell’articolo 29, comma 6-bis, del Codice 4, sulla quota del comma 5. Il Consiglio Habitat e Territorio la individua e la registra nel Catasto. La porzione è assegnata senza abitazione, anche se un’abitazione è disponibile, e senza attrezzi o altri beni della Comunità; la persona può costruirvi un riparo con le proprie forze, nel rispetto dei vincoli del comma 2, lettera b). Si applicano il comma 2, lettere da b) a g), e i commi 3, 6 e 8; non si applica il comma 7, perché la persona resta membro fino alla consegna. Con la riammissione la porzione torna alla quota.
 
 ## Art. 5 — Consumo di suolo e rigenerazione
 
@@ -349,7 +389,9 @@ La deroga è deliberata dall’Assemblea su proposta del Consiglio Agroecologico
 
     d) le fasce di rispetto minime;
 
-    e) il nodo della Rete Agroecologica Federata.
+    e) il nodo della Rete Agroecologica Federata;
+
+    f) la quota riservata al Patto di Convivenza Autonoma prevista dall’articolo 4-bis, comma 5.
 
 4.  In caso di sovrapposizione documentata dei carichi transitori relativi ai Codici 8, 9 e 10, l’Assemblea può concedere una proroga motivata non superiore a sei mesi, accompagnata da un piano vincolante e da misure che garantiscano la continuità del Paniere.
 

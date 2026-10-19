@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 6 — DE LA SANTÉ"
 breve: "Code 6 — Santé"
-versione: "V1.5"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 6
 id: "codice-06"
 slug: "code-06"
-allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.4 ; Code 5 V1.4 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.4 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
 ---
 
 ## TITRE PRÉLIMINAIRE — PRINCIPES FONDAMENTAUX
@@ -38,7 +38,7 @@ allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5
 ### Art. 2 — Principes
 
 1.  **Prévention.** Les activités de CBO, de production, de logistique et d’apprentissage sont organisées de manière à prévenir les atteintes à la santé avant qu’elles ne surviennent.
-2.  **Autodétermination.** Chaque personne décide de son propre corps et de son propre parcours de soins sur la base d’un consentement libre, éclairé et révocable, sauf les mesures exceptionnelles prévues à l’article 2-bis et dans les limites qui y sont fixées.
+2.  **Autodétermination.** Chaque personne décide de son propre corps et de son propre parcours de soins sur la base d’un consentement libre, éclairé et révocable. Aux mineurs et aux personnes qui ne sont pas en mesure de décider s’applique l’article 2-ter. Les mesures collectives de l’article 2-bis peuvent limiter les tâches, les activités et les déplacements dans les limites qui y sont fixées, mais ne comprennent jamais un traitement sanitaire imposé. L’article 8 reste applicable à la personne temporairement incapable en crise aiguë.
 3.  **Non-culpabilisation.** La maladie, l’accident et la fragilité ne constituent pas une faute et ne peuvent entraîner, par eux-mêmes, ni réduction du Panier de suffisance, ni exclusion, ni sanction. Les garanties du Code 4 s’appliquent.
 4.  **Proximité.** Le soin est organisé, dans la mesure du possible, dans le Cercle, dans l’Entrepôt et dans l’habitat de la personne. Le recours à des services hospitaliers ou centralisés est décidé lorsqu’il est nécessaire pour accéder à des compétences de Niveau 3 non disponibles localement.
 5.  **Non-marchandisation du savoir.** Il est interdit de breveter ou de soumettre à un accès payant le savoir vital et la connaissance sanitaire essentielle. La rente découlant du monopole de compétences sanitaires est interdite, conformément au Code 5, article 8.
@@ -58,6 +58,46 @@ allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5
 
 3.  Les mesures collectives sont délibérées par l’Assemblée générale selon la procédure d’urgence du Code 3. La délibération est motivée et documente la nécessité, la proportionnalité, la durée, les alternatives moins intrusives et les critères de cessation. La coordination avec le Code 14 s’applique lorsque sont en jeu des aspects de sécurité générale ou d’interruption d’activités.
 
+3-bis. Les mesures collectives ne peuvent comprendre que :
+
+a) l’information du public, les recommandations et l’offre gratuite de tests, de vaccinations, de prophylaxies et d’EPI, qui restent volontaires ;
+
+b) la protection indiquée par la délibération, parmi la vaccination, la prophylaxie, les tests et les EPI, comme condition pour accomplir les tâches et pour fréquenter les lieux à risque, dans les conditions de l’alinéa 3-ter ;
+
+c) la suspension ou la réorganisation temporaire d’activités collectives, de réunions, de tours de service de CBO, de la mobilité non essentielle et de l’hospitalité non urgente ;
+
+d) l’isolement des personnes contagieuses et la quarantaine des personnes exposées, dans les conditions de l’alinéa 3-quater ;
+
+e) les mesures relatives aux milieux, à l’eau, aux aliments et aux biens contaminés et, pour les zoonoses, les mesures relatives aux animaux admises par le Code 13.
+
+Ne sont à risque que les tâches et les lieux où la contagion peut toucher des personnes particulièrement exposées : les services hospitaliers et les cabinets de soins, le soin des personnes fragiles au sens du Code 12 et, lorsque le risque concerne l’enfance, les espaces pour l’enfance et les lieux d’apprentissage collectif. Nul ne peut être exclu des soins dont il a besoin ni de l’assistance à une personne hospitalisée dont il a la responsabilité de soin ; dans ces cas, des précautions alternatives sont adoptées.
+
+3-ter. Aucune mesure ne comprend un traitement sanitaire, un prélèvement, un test ou une vaccination pratiqués sur le corps d’une personne sans son consentement ou, pour qui ne peut pas décider seul, sans celui de la personne qui décide en application de l’article 2-ter. Qui refuse la protection indiquée en application de l’alinéa 3-bis, lettre b) :
+
+a) peut être exclu, pour la durée de la mesure, uniquement des tâches et des lieux à risque ;
+
+b) reçoit sans délai une autre tâche compatible, comptée dans la CBO ; si aucune n’est disponible, la suspension temporaire de l’article 11, alinéa 1, lettre c), du Code 1 s’applique. Au mineur exclu d’un espace collectif sont assurés le soin et l’apprentissage sous une autre forme ;
+
+c) conserve le Panier, le logement, les soins, le vote, la participation délibérative et les autres droits, y compris pendant la mesure ;
+
+d) ne commet pas d’infraction ; le refus n’est ni annoté ni communiqué au-delà de ce qui est nécessaire pour appliquer la lettre a).
+
+3-quater. L’isolement et la quarantaine :
+
+a) se déroulent dans le logement de la personne ou, si elle le préfère ou si le logement ne le permet pas, dans un espace approprié mis à disposition par le Cercle 1 ;
+
+b) durent ce qu’indique le dossier de l’alinéa 2 pour l’agent en question et en tout cas pas plus de quatorze jours par personne et par exposition ; une prolongation, d’au plus quatorze jours supplémentaires, n’est admise que si deux personnes ayant une compétence L3 attestent que la personne est encore contagieuse ou, pour la quarantaine, que la période d’incubation indiquée par le dossier n’est pas terminée. Au-delà de vingt-huit jours, l’isolement de la personne encore contagieuse qui n’y consent pas ne peut être ordonné que par le Tribunal de garantie, après l’avoir entendue avec les garanties de l’article 25, alinéa 4, du Code 4, sur attestation de deux personnes L3 indépendantes au sens de l’alinéa 2, lettre b), pour des périodes ne dépassant pas quatorze jours et sans aller au-delà de la durée de la mesure collective ; à défaut, seul l’alinéa 3-ter s’applique ;
+
+c) si la personne n’y consent pas, sont ordonnés individuellement par le Conseil Santé par un acte motivé, communiqué sans délai au Tribunal de garantie, qui les valide, les modifie ou les révoque dans un délai de vingt-quatre heures en application de l’article 34, alinéa 2, du Code 4 ; à défaut de validation, ils prennent fin. La même validation s’applique à la prolongation. L’alinéa 3 du même article ne s’applique pas ;
+
+d) assurent à la personne la livraison du Panier, les soins, les contacts à distance avec ses proches, le vote par le Réseau et la suspension temporaire de la CBO prévue par l’article 11, alinéa 1, lettre c), du Code 1, sauf les tâches qu’elle demande à accomplir à distance ;
+
+e) ne sont pas imposés par la force, sauf l’intervention du Corps de protection civique dans les limites de l’article 8-ter du Code 14 ; la validation de la lettre c) vaut aussi aux fins de l’alinéa 4 de cet article ;
+
+f) pendant la transition, si la personne n’y consent pas, ne sont ordonnés que par les autorités sanitaires de l’État, en application de l’article 37 du Code 4.
+
+3-quinquies. Pendant toute la durée de la mesure, le Conseil Santé auteur de la proposition publie, au moins chaque semaine, le dossier de l’alinéa 2, les données agrégées et anonymes sur lesquelles se fonde la mesure, leur évolution et les raisons de chaque renouvellement ou cessation, dans le respect de l’article 11.
+
 4.  La mesure :
 
     a) dure au maximum trente jours ;
@@ -66,7 +106,7 @@ allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5
 
     c) est limitée au strict nécessaire et retient la mesure la moins intrusive appropriée ;
 
-    d) est réexaminée par le Cercle de garantie, à la demande de tout membre, dans un délai de sept jours ;
+    d) est réexaminée par le Cercle de garantie, à la demande de tout membre, dans un délai de sept jours ; l’isolement et la quarantaine ordonnés individuellement suivent en revanche la validation de l’alinéa 3-quater, lettre c) ;
 
     e) est enregistrée avec sa motivation, sa durée et ses critères de cessation, dans le respect de la confidentialité et des niveaux d’accès prévus par les Codes.
 
@@ -74,9 +114,23 @@ allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5
 
 6.  Le présent article régit des mesures de santé publique destinées à la collectivité. L’article 8 régit les interventions individuelles d’urgence sanitaire concernant une personne en crise. Les deux régimes ont un objet, des conditions et des procédures distincts et ne se cumulent pas, sauf si les deux situations sont documentées.
 
-7.  Les mesures adoptées en application du présent article ne peuvent pas produire d’effets permanents sur l’accès à la CBO, au Panier, à la participation délibérative ou aux autres droits. D’éventuels effets supplémentaires requièrent une procédure distincte prévue par les Codes compétents et les garanties correspondantes.
+7.  Les mesures adoptées en application du présent article ne peuvent pas réduire, même pendant leur application, le Panier, le logement, les soins, le vote et la participation délibérative, ni produire d’effets permanents sur l’accès à la CBO ou aux autres droits. D’éventuels effets supplémentaires requièrent une procédure distincte prévue par les Codes compétents et les garanties correspondantes.
 
 8.  À la cessation de la mesure, la situation juridique antérieure de la personne est rétablie. Les actes nécessaires pour documenter, vérifier ou soumettre la mesure à un audit peuvent être conservés, avec un accès limité et selon les garanties de confidentialité de l’article 11.
+
+### Art. 2-ter — Consentement des mineurs et des personnes qui ne peuvent pas décider
+
+1.  À partir de seize ans révolus, la personne donne, refuse et révoque elle-même son consentement à ses propres soins, en application de l’article 2, alinéa 2. Si, avant dix-huit ans, elle n’est pas en mesure de décider, l’alinéa 2 s’applique.
+
+2.  Jusqu’à seize ans révolus, le consentement est donné par les personnes qui ont la responsabilité de soin du mineur au sens de l’article 24.3 de la Constitution, après l’avoir informé et entendu d’une manière adaptée à son âge. L’avis du mineur a un poids croissant avec l’âge et la maturité, en application de l’article 26.2 de la Constitution. Si les personnes responsables sont plusieurs, elles décident d’un commun accord ; pour les soins urgents, le consentement de l’une d’elles suffit. La responsabilité de soin et le consentement du présent alinéa ne prennent pas fin du seul fait de la cessation du statut de membre de la personne responsable en application de l’article 29, alinéa 6-bis, du Code 4. Si personne n’exerce la responsabilité de soin, ou si aucune personne responsable ne peut être jointe en temps utile, le consentement est donné par le représentant temporaire nommé en application de l’article 7-bis, alinéa 5, du Code 12, jusqu’à la décision du Tribunal de garantie prévue par l’alinéa 3-bis du même article.
+
+3.  En cas de désaccord entre le mineur et les personnes qui en ont la responsabilité de soin, ou entre plusieurs personnes responsables, ou de conflit d’intérêts entre celles-ci et le mineur, peuvent saisir le Tribunal de garantie le mineur, chaque personne responsable, le soignant traitant ou le Conseil Soin. Le Tribunal recueille l’avis écrit d’une personne ayant une compétence sanitaire L3, indépendante et non impliquée dans les soins, tirée au sort sur la liste de l’article 36, alinéa 1, lettre b), du Code 4 ; il entend le mineur, assisté de la personne de confiance prévue par l’article 31.5 de la Constitution, et les personnes responsables ; il décide dans un délai de sept jours ou, si les soins ne peuvent pas attendre, de vingt-quatre heures, selon l’intérêt du mineur et en tenant compte de son avis conformément à l’alinéa 2. Lorsque l’attente exposerait le mineur à un danger pour sa vie ou à un dommage grave et irréversible, les soins nécessaires sont prodigués immédiatement, en application de l’article 28.2 de la Constitution, et le Tribunal en est informé.
+
+4.  Les vaccinations et les prophylaxies des mineurs suivent les alinéas 1 à 3 et ne sont jamais obligatoires. Le refus d’une vaccination ne constitue pas à lui seul une négligence grave ou un préjudice au sens de l’article 7-bis du Code 12. Pendant une mesure de l’article 2-bis, le mineur qui n’a pas la protection indiquée ne peut être exclu que des lieux à risque, dans les conditions de l’alinéa 3-ter de cet article.
+
+5.  Lorsqu’une personne adulte n’est pas en mesure de décider de ses propres soins en raison d’un état qui dure, ou dont on prévoit qu’il durera, plus de soixante jours, constaté par deux personnes indépendantes ayant une compétence sanitaire L3, le Tribunal de garantie nomme un représentant stable, si la personne n’en a pas désigné un en application de l’article 7-bis, alinéa 4, du Code 12. Le représentant est choisi selon l’ordre de l’article 7-bis, alinéa 5, du Code 12 et décide conformément à l’alinéa 6 du même article. La personne est informée et entendue dans la mesure où elle peut s’exprimer. La nomination est réexaminée par le Tribunal au moins tous les douze mois et à tout moment à la demande de la personne, de la personne de confiance, du représentant ou du Conseil Soin ; elle prend fin lorsque la personne recouvre sa capacité. Au désaccord ou au conflit d’intérêts entre le représentant et la personne s’applique l’alinéa 3. Le représentant ne peut pas consentir à des mesures coercitives, régies uniquement par l’article 8.
+
+6.  Pendant la transition, le présent article s’applique dans les limites permises par la loi en vigueur sur le consentement des mineurs et sur la représentation des personnes incapables.
 
 ## CHAPITRE I — ORGANISATION, FICHES DE SÉCURITÉ ET PRÉVENTION
 
@@ -283,7 +337,7 @@ Le Code 4, article 17, et le Code 5, article 9, s’appliquent. Le Collège de s
 
     b) est effectuée en présence de deux personnes L3, lorsqu’elles sont immédiatement disponibles ;
 
-    c) est communiquée sans délai au Cercle de garantie ;
+    c) est communiquée sans délai au Tribunal de garantie pour la validation de l’alinéa 7 et au Cercle de garantie ;
 
     d) est documentée sur le Réseau avec un accès réglementé ;
 
@@ -291,13 +345,23 @@ Le Code 4, article 17, et le Code 5, article 9, s’appliquent. Le Collège de s
 
     f) cesse immédiatement lorsque les conditions disparaissent.
 
-7.  Dans un délai de vingt-quatre heures, le Cercle de garantie vérifie la régularité procédurale, la nécessité et la proportionnalité de la mesure. Il ne procède pas à une évaluation clinique, qui reste de la compétence des personnes soignantes L3.
+7.  Dans un délai de vingt-quatre heures à compter du début de la mesure, le Tribunal de garantie, en application de l’article 27, alinéa 3, du Code 4, la valide, la modifie ou la révoque. Il vérifie les conditions de l’alinéa 4, la nécessité et la proportionnalité sur la base de la documentation des deux personnes L3 et, lorsque cela est possible, après avoir entendu la personne, son représentant et la personne de confiance. Il ne procède pas à une évaluation clinique, qui reste de la compétence des personnes soignantes L3. À défaut de validation dans le délai, la mesure prend fin. Si le Corps de protection civique intervient, la validation du présent alinéa tient lieu de celle prévue par l’article 8-ter, alinéa 4, du Code 14.
 
 8.  Après la crise, un parcours de soins volontaire est proposé à la personne.
 
 9.  La contention punitive, l’isolement utilisé comme sanction et la sédation punitive sont toujours interdits.
 
-10. Toute mesure coercitive dépassant vingt-quatre heures requiert une nouvelle délibération de l’Assemblée conformément au Code 3, la coordination avec le Code 14 et un réexamen par le Cercle de garantie. La délibération ne peut pas déroger aux droits fondamentaux ni prolonger une mesure après la disparition de ses conditions.
+10. La mesure coercitive :
+
+    a) est réévaluée par les deux personnes L3 au moins toutes les douze heures et, pendant la contention physique, au moins toutes les heures ; chaque réévaluation est documentée ;
+
+    b) après la validation, dure au plus soixante-douze heures et ne peut être prolongée que par une nouvelle validation du Tribunal de garantie, demandée avant l’échéance sur la base d’une nouvelle attestation de deux personnes L3, pour des périodes ne dépassant pas soixante-douze heures ; à défaut de nouvelle validation avant l’échéance, la mesure prend fin ;
+
+    c) ne peut pas dépasser quatorze jours au total. À l’échéance, la mesure prend fin même si le risque persiste ; sont assurés sans interruption la présence continue de personnes formées, la mise en sécurité relationnelle et environnementale de l’alinéa 3 et l’offre de soins, et la personne peut rester volontairement sur le lieu de soin. Une nouvelle mesure coercitive n’est admise que pour un nouvel épisode aigu, dans les conditions de l’alinéa 4 attestées par deux personnes L3 autres que celles qui ont attesté la mesure précédente, et avec la validation d’un Tribunal de garantie dans une autre composition, qui vérifie expressément qu’il ne s’agit pas de la poursuite de la mesure qui a pris fin. Sur une période de quatre-vingt-dix jours, les mesures coercitives ne peuvent pas dépasser vingt-huit jours au total ;
+
+    d) est révoquée à tout moment par le Tribunal de garantie, lorsque ses conditions disparaissent, à la demande de la personne, de son représentant ou de la personne de confiance ; la demande est tranchée dans un délai de vingt-quatre heures.
+
+Le représentant ne peut pas consentir à une mesure coercitive à la place de la personne : seul le présent article s’applique. Pendant la transition, aucune mesure coercitive interne n’est exécutée ; toute intervention est limitée à ce que permet la loi en vigueur et les services d’urgence et les autorités sanitaires compétentes sont alertés, en application de l’article 37 du Code 4.
 
 11. Il est interdit d’inscrire des étiquettes stigmatisantes dans le Portfolio personnel.
 
@@ -378,7 +442,7 @@ L’usage traditionnel, à lui seul, ne constitue pas une validation. Chaque pr�
 
 7.  L’expérimentation sur des mineurs, sur des personnes en crise aiguë au sens de l’article 8 ou sur des personnes temporairement privées de la capacité d’exprimer leur consentement est interdite, sauf dans le cas exceptionnel où elle vise à procurer un bénéfice direct et spécifique à la personne elle-même. Dans ce cas, toutes les conditions suivantes doivent être réunies cumulativement :
 
-    a) le consentement du représentant désigné conformément à l’article 7-bis du Code 12. La personne de confiance n’est pas considérée comme représentant, sauf si elle a été formellement désignée pour cette fonction ;
+    a) le consentement donné conformément à l’article 2-ter : pour le mineur, par lui-même s’il a seize ans révolus, sinon par les personnes qui en ont la responsabilité de soin ; pour la personne incapable, par le représentant désigné ou nommé en application de l’article 7-bis du Code 12 ou de l’article 2-ter, alinéa 5. La personne de confiance n’est pas considérée comme représentant, sauf si elle a été formellement désignée pour cette fonction ;
 
     b) si le représentant n’est pas disponible, l’application de la procédure d’urgence prévue à l’article 7-bis du Code 12 pour la personne temporairement incapable, y compris la nomination en urgence d’un représentant par l’organe compétent ;
 
@@ -407,7 +471,7 @@ L’absence d’une seule de ces conditions empêche le lancement de l’expéri
 
     c) le Cercle de garantie peut accéder aux données nécessaires pour statuer sur un recours, selon une procédure tracée et avec un accès limité ;
 
-    d) en l’absence de consentement, l’accès du Conseil Santé n’est admis que lorsqu’il est nécessaire pour exécuter une obligation de sécurité collective valablement délibérée en application de l’article 2-bis. L’accès est limité aux données strictement nécessaires, proportionné et temporaire ; il est tracé et, lorsque cela est possible, communiqué à la personne concernée. Le réexamen par le Cercle de garantie est admis dans un délai de sept jours.
+    d) en l’absence de consentement, l’accès du Conseil Santé n’est admis que lorsqu’il est nécessaire pour exécuter une mesure collective valablement délibérée en application de l’article 2-bis. L’accès est limité aux données strictement nécessaires, proportionné et temporaire ; il est tracé et, lorsque cela est possible, communiqué à la personne concernée. Le réexamen par le Cercle de garantie est admis dans un délai de sept jours.
 
 3.  L’Entrepôt du savoir contient exclusivement :
 
@@ -431,7 +495,7 @@ Il ne contient pas de données de santé individuelles.
 
     c) d’en demander l’effacement lorsqu’elles ne sont plus pertinentes ou nécessaires ;
 
-    d) de demander l’effacement ou l’oubli d’épisodes révolus, sauf les obligations de sécurité collective documentées et valablement délibérées en application de l’article 2-bis, dans la limite des informations strictement nécessaires.
+    d) de demander l’effacement ou l’oubli d’épisodes révolus, sauf les mesures collectives documentées et valablement délibérées en application de l’article 2-bis, dans la limite des informations strictement nécessaires.
 
 6.  L’effacement ou la rectification de la donnée personnelle n’entraîne pas l’effacement d’informations déjà rendues irréversiblement anonymes et utilisées pour des statistiques, des analyses épidémiologiques ou la mise à jour des STV. Les données personnelles sont tenues séparées des données statistiques anonymes et ne doivent pas pouvoir être reconstituées.
 

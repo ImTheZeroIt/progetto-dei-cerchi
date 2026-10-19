@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 12 — CURA DI COMUNITÀ, FRAGILITÀ FUNZIONALI E SALUTE DI COMUNITÀ"
 breve: "Codice 12 — Cura di comunità"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "codici"
 ordine: 12
 id: "codice-12"
 slug: "codice-12"
-allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.4; Codice 5 V1.4; Codice 6 V1.5; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.4; Codice 11 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
 ---
 
 ## Art. 1 — Oggetto, definizioni e ambito di competenza
@@ -236,9 +236,26 @@ allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; C
 
 1.  In caso di violenza, grave negligenza o pregiudizio a danno di un minore o di una persona che non è in grado di tutelarsi, il Consiglio Cura attiva senza ritardo un percorso di protezione, ai sensi dell’articolo 26.3 della Costituzione. Il percorso comprende la messa in sicurezza, l’ascolto e, se necessario, l’accoglienza temporanea presso persone di fiducia o in uno spazio protetto.
 2.  Il fatto è segnalato al Cerchio di Garanzia per le procedure del Codice 4. Le segnalazioni nella Rete sono limitate alle informazioni necessarie alla tutela. Durante la transizione si applica l’articolo 37 del Codice 4.
-3.  La separazione di un minore dal proprio Cerchio 0 è ammessa soltanto come misura temporanea di protezione ed è sottoposta alla convalida del Tribunale di Garanzia entro ventiquattro ore, ai sensi dell’articolo 34 del Codice 4.
+3.  La separazione di un minore dal proprio Cerchio 0 è ammessa soltanto come misura temporanea di protezione, quando il minore non può essere messo in sicurezza restando nel Cerchio 0. È disposta:
+
+    a) in presenza di un pericolo immediato, ai sensi dell’articolo 34, comma 1, del Codice 4;
+
+    b) negli altri casi di violenza, grave negligenza o pregiudizio, dal Cerchio di Garanzia su proposta motivata del Consiglio Cura, dopo aver ascoltato il minore e, salvo che ciò lo esponga a pericolo, le persone che ne hanno la responsabilità di cura.
+
+La separazione è comunicata senza ritardo al Tribunale di Garanzia, che la convalida, la modifica o la revoca entro ventiquattro ore; in mancanza di convalida cessa. Il minore è accolto, se possibile, presso persone di sua fiducia. La convalida indica chi prende, durante la separazione, le decisioni quotidiane e presta il consenso alle cure ai sensi dell’articolo 2-ter del Codice 6. La separazione convalidata dura fino alla decisione del comma 3-bis e cessa con essa. Non si applica l’articolo 34, comma 3, del Codice 4.
+
+3-bis. Entro trenta giorni dalla convalida il Tribunale di Garanzia prende la decisione stabile sull’affidamento, dopo aver ascoltato il minore, assistito dalla persona di fiducia prevista dall’articolo 31.5 della Costituzione, le persone che ne hanno la responsabilità di cura, con le garanzie dell’articolo 25, comma 4, del Codice 4, e il Consiglio Cura. Il termine è prorogabile una sola volta, per non più di altri trenta giorni, con decisione motivata, quando un elemento necessario non può essere acquisito prima, come una valutazione sanitaria del minore. Alla scadenza il Tribunale decide allo stato degli atti; se la decisione non è adottata, la separazione cessa. Tenendo conto della volontà del minore secondo l’età e la maturità, dispone:
+
+a) il rientro nel Cerchio 0, eventualmente con un percorso di sostegno; oppure
+
+b) soltanto quando il rientro esporrebbe il minore a violenza, grave negligenza o pregiudizio che un percorso di sostegno non può evitare, l’affidamento a persone che assumono la responsabilità di cura ai sensi dell’articolo 24.3 della Costituzione, indicando se essa resta condivisa con le persone che la esercitavano o è sospesa per loro, e come sono mantenuti i rapporti con loro, salvo che ciò nuoccia al minore.
+
+La decisione è riesaminata dal Tribunale almeno ogni sei mesi e in ogni momento su richiesta del minore o delle persone che avevano la responsabilità di cura. Contro di essa è ammesso il riesame dell’articolo 35, comma 2, del Codice 4. Il presente comma si applica anche alla decisione su dove e con chi vivono i figli minori della persona che cessa di essere membro ai sensi dell’articolo 29, comma 6-bis, del Codice 4; la decisione è presa prima che la cessazione produca effetti e non richiede la separazione del comma 3. In tal caso la cessazione non costituisce, da sola, violenza, grave negligenza o pregiudizio ai sensi della lettera b), e il Tribunale può disporre anche che il minore viva con la persona sulla porzione assegnata, con l’alloggio, il Paniere e i servizi che gli spettano come membro.
+
+3-ter. Durante la transizione la separazione contro la volontà di chi ha la responsabilità di cura e le decisioni del comma 3-bis spettano alle autorità dello Stato competenti, ai sensi dell’articolo 37 del Codice 4. Il Consiglio Cura segnala il caso, sostiene il minore e collabora alla sua accoglienza.
+
 4.  Ogni persona può designare in anticipo un rappresentante per il caso di incapacità, anche con il testamento biologico previsto dall’articolo 8-bis del Codice 6.
-5.  In mancanza di designazione e in caso di urgenza, il Cerchio di Garanzia nomina entro ventiquattro ore un rappresentante temporaneo, scelto nell’ordine tra le persone del Cerchio 0 indicate dalla persona, la sua persona di fiducia e una persona sorteggiata con competenza L2 nella cura, priva di conflitti di interesse. L’incarico dura non più di trenta giorni ed è rinnovabile con decisione motivata.
+5.  In mancanza di designazione e in caso di urgenza, il Cerchio di Garanzia nomina entro ventiquattro ore un rappresentante temporaneo, scelto nell’ordine tra le persone del Cerchio 0 indicate dalla persona, la sua persona di fiducia e una persona sorteggiata con competenza L2 nella cura, priva di conflitti di interesse. L’incarico dura non più di trenta giorni ed è rinnovabile con decisione motivata fino alla nomina del rappresentante stabile prevista dall’articolo 2-ter, comma 5, del Codice 6, che il Cerchio di Garanzia chiede al Tribunale di Garanzia quando l’incapacità dura o si prevede che duri oltre sessanta giorni.
 6.  Il rappresentante decide secondo la volontà espressa o presumibile della persona e, in mancanza, secondo il suo migliore interesse. L’incarico cessa quando la persona recupera la capacità.
 
 ## Art. 8 — Registro Dipendenze della cura
@@ -283,7 +300,7 @@ allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; C
 
     f) utilizzare dati sulla fragilità funzionale per profilazioni o finalità diverse dalla presa in carico e dalle finalità tecniche espressamente consentite dal Codice 7;
 
-    g) disporre l’istituzionalizzazione forzata di una persona, salvo una collocazione temporanea strettamente necessaria a fronte di un rischio immediato, adottata con le garanzie del Codice 4. Gli eventuali trattamenti sanitari restano disciplinati dal Codice 6 e dalle relative garanzie.
+    g) disporre l’istituzionalizzazione forzata di una persona, salvo una collocazione temporanea strettamente necessaria a fronte di un rischio immediato, adottata alle condizioni e con le garanzie dell’articolo 8, commi da 4 a 10, del Codice 6; per i minori si applica l’articolo 7-bis, comma 3. Gli eventuali trattamenti sanitari restano disciplinati dal Codice 6 e dalle relative garanzie.
 
 2.  Le violazioni del comma 1 costituiscono violazioni sostanziali. L’accertamento, le misure cautelari, la sospensione o la disattivazione della funzione e i rimedi sono adottati secondo il Codice 4. Il Consiglio Cura documenta i fatti e attiva le procedure previste, senza sostituirsi agli organi competenti per l’accertamento o per l’applicazione dei rimedi.
 

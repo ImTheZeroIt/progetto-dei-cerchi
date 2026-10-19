@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 14 — SICUREZZA GENERALE DELLE PERSONE, DELLE INFRASTRUTTURE E DELLE MANSIONI"
 breve: "Codice 14 — Sicurezza generale"
-versione: "V1.2"
+versione: "V1.3"
 gruppo: "codici"
 ordine: 14
 id: "codice-14"
 slug: "codice-14"
-allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.4; Codice 5 V1.4; Codice 6 V1.5; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.4; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 15 V1.4; Codice 16 V1.4."
 ---
 
 ## Art. 1 — Oggetto, definizioni e riparto delle competenze
@@ -216,8 +216,8 @@ allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; C
 
 1.  La dotazione è limitata a strumenti di protezione individuale, di neutralizzazione non lesiva, di soccorso tecnico e di comunicazione. Sono vietati le armi da fuoco, le armi da guerra e gli strumenti di tortura o di coercizione lesiva. La STV Tutela Civica elenca in modo tassativo gli strumenti ammessi ed è adottata con il parere obbligatorio del Consiglio Salute.
 2.  Gli interventi di contenimento si fondano su de-escalation, interposizione e immobilizzazione non lesiva e durano il tempo strettamente necessario a far cessare un pericolo attuale per l’incolumità delle persone. L’uso della forza oltre lo stretto necessario costituisce illecito di Grado 4.
-3.  Il Corpo non svolge indagini, non sorveglia e non raccoglie informazioni sulle persone. Non può entrare in un Cerchio 0, salvo che ciò sia necessario per un soccorso immediato in presenza di un pericolo per la vita.
-4.  Ogni limitazione della libertà di movimento di una persona è comunicata senza ritardo al Tribunale di Garanzia ed è sottoposta alla convalida entro ventiquattro ore prevista dall’articolo 34 del Codice 4.
+3.  Il Corpo non svolge indagini, non sorveglia e non raccoglie informazioni sulle persone. Non può entrare in un Cerchio 0, salvo che ciò sia strettamente necessario per prestare soccorso o per far cessare un pericolo attuale per la vita o per l’incolumità fisica o sessuale di una persona. L’ingresso è comunicato immediatamente al Tribunale di Garanzia ed è sottoposto alla convalida entro ventiquattro ore prevista dall’articolo 34, comma 2, del Codice 4. Fuori da questi casi il Corpo entra in un Cerchio 0 soltanto con autorizzazione motivata del Tribunale di Garanzia, per eseguire una misura di protezione disposta secondo il Codice 4 o il Codice 12, quando ciò è strettamente necessario alla tutela dei diritti inviolabili di una persona.
+4.  Ogni limitazione della libertà di movimento di una persona è comunicata senza ritardo al Tribunale di Garanzia ed è sottoposta alla convalida entro ventiquattro ore prevista dall’articolo 34 del Codice 4. Per le persone in crisi acuta e per l’isolamento e la quarantena sanitari vale la sola convalida prevista, rispettivamente, dall’articolo 8, comma 7, e dall’articolo 2-bis, comma 3-quater, del Codice 6. Resta ferma in ogni caso la revisione dell’attivazione prevista dall’articolo 8-quater, comma 2.
 5.  Per le persone in crisi acuta si applica il protocollo non coercitivo dell’articolo 8 del Codice 6. Per i minori e le persone fragili si applica il Codice 12.
 6.  In caso di aggressione esterna il Corpo coordina la difesa civile non violenta prevista dall’articolo 16.4 della Costituzione: interposizione, non collaborazione, protezione ed evacuazione delle persone. Resta vietato l’impiego di armi.
 

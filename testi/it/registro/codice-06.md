@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 6 — DELLA SALUTE"
 breve: "Codice 6 — Salute"
-versione: "V1.5"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 6
 id: "codice-06"
 slug: "codice-06"
-allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.4; Codice 5 V1.4; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.4; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
 ---
 
 ## TITOLO PRELIMINARE — PRINCIPI FONDAMENTALI
@@ -38,7 +38,7 @@ allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; C
 ### Art. 2 — Principi
 
 1.  **Prevenzione.** Le attività di CBO, produzione, logistica e apprendimento sono organizzate in modo da prevenire i danni alla salute prima che si verifichino.
-2.  **Autodeterminazione.** Ogni persona decide sul proprio corpo e sul proprio percorso di cura sulla base di un consenso libero, informato e revocabile, salvo le misure eccezionali previste dall’articolo 2-bis e nei limiti ivi stabiliti.
+2.  **Autodeterminazione.** Ogni persona decide sul proprio corpo e sul proprio percorso di cura sulla base di un consenso libero, informato e revocabile. Per i minori e per chi non è in grado di decidere si applica l’articolo 2-ter. Le misure collettive dell’articolo 2-bis possono limitare mansioni, attività e spostamenti nei limiti ivi stabiliti, ma non comprendono mai un trattamento sanitario imposto. Resta salvo l’articolo 8 per la persona temporaneamente incapace in crisi acuta.
 3.  **Non colpevolizzazione.** Malattia, infortunio e fragilità non costituiscono colpa e non possono comportare, per sé, riduzione del Paniere di Sufficienza, esclusione o sanzione. Si applicano le garanzie del Codice 4.
 4.  **Prossimità.** La cura è organizzata, per quanto possibile, nel Cerchio, nel Magazzino e nell’habitat della persona. Il ricorso a servizi ospedalieri o centralizzati è disposto quando sia necessario per accedere a competenze di Livello 3 non disponibili localmente.
 5.  **Non mercificazione del sapere.** È vietato brevettare o assoggettare a paywall il sapere salvavita e la conoscenza sanitaria essenziale. È vietata la rendita derivante dal monopolio di competenze sanitarie, secondo il Codice 5, articolo 8.
@@ -58,6 +58,46 @@ allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; C
 
 3.  Le misure collettive sono deliberate dall’Assemblea Generale secondo la procedura d’urgenza del Codice 3. La deliberazione è motivata e documenta necessità, proporzionalità, durata, alternative meno invasive e criteri di cessazione. Il coordinamento con il Codice 14 si applica quando siano coinvolti profili di sicurezza generale o di interruzione di attività.
 
+3-bis. Le misure collettive possono comprendere esclusivamente:
+
+a) l’informazione pubblica, le raccomandazioni e l’offerta gratuita di test, vaccinazioni, profilassi e DPI, che restano volontari;
+
+b) la protezione indicata dalla deliberazione, tra vaccinazione, profilassi, test e DPI, come condizione per svolgere le mansioni e per frequentare i luoghi a rischio, alle condizioni del comma 3-ter;
+
+c) la sospensione o la riorganizzazione temporanea di attività collettive, riunioni, turni di CBO, mobilità non essenziale e ospitalità non urgente;
+
+d) l’isolamento delle persone contagiose e la quarantena delle persone esposte, alle condizioni del comma 3-quater;
+
+e) le misure su ambienti, acqua, alimenti e beni contaminati e, per le zoonosi, le misure sugli animali ammesse dal Codice 13.
+
+Sono a rischio soltanto le mansioni e i luoghi in cui il contagio può colpire persone particolarmente esposte: i reparti e gli ambulatori, la cura delle persone fragili ai sensi del Codice 12 e, quando il rischio riguarda l’infanzia, gli spazi per l’infanzia e i luoghi di apprendimento collettivo. Nessuno può essere escluso dalle cure di cui ha bisogno né dall’assistenza a una persona ricoverata di cui ha la responsabilità di cura; in questi casi sono adottate precauzioni alternative.
+
+3-ter. Nessuna misura comprende un trattamento sanitario, un prelievo, un test o una vaccinazione eseguiti sul corpo di una persona senza il consenso suo o, per chi non può decidere da sé, di chi decide ai sensi dell’articolo 2-ter. Chi rifiuta la protezione indicata ai sensi del comma 3-bis, lettera b):
+
+a) può essere escluso, per la durata della misura, soltanto dalle mansioni e dai luoghi a rischio;
+
+b) riceve senza ritardo un’altra mansione compatibile, computata nel CBO; se non è disponibile, si applica la sospensione temporanea dell’articolo 11, comma 1, lettera c), del Codice 1. Al minore escluso da uno spazio collettivo sono assicurati la cura e l’apprendimento in altra forma;
+
+c) conserva il Paniere, l’alloggio, le cure, il voto, la partecipazione deliberativa e gli altri diritti, anche durante la misura;
+
+d) non commette illecito; il rifiuto non è annotato né comunicato oltre quanto necessario ad applicare la lettera a).
+
+3-quater. L’isolamento e la quarantena:
+
+a) si svolgono nell’alloggio della persona o, se essa lo preferisce o l’alloggio non lo consente, in uno spazio idoneo messo a disposizione dal Cerchio 1;
+
+b) durano quanto indica il dossier del comma 2 per l’agente in questione e comunque non più di quattordici giorni per persona e per esposizione; una proroga, per non più di altri quattordici giorni, è ammessa soltanto se due persone con competenza L3 attestano che la persona è ancora contagiosa o, per la quarantena, che il periodo di incubazione indicato dal dossier non è concluso. Oltre ventotto giorni l’isolamento della persona ancora contagiosa che non vi acconsente può essere disposto soltanto dal Tribunale di Garanzia, dopo averla ascoltata con le garanzie dell’articolo 25, comma 4, del Codice 4, su attestazione di due persone L3 indipendenti ai sensi del comma 2, lettera b), per periodi non superiori a quattordici giorni e non oltre la durata della misura collettiva; in mancanza si applica soltanto il comma 3-ter;
+
+c) se la persona non vi acconsente, sono disposti individualmente dal Consiglio Salute con atto motivato, comunicato senza ritardo al Tribunale di Garanzia, che li convalida, li modifica o li revoca entro ventiquattro ore ai sensi dell’articolo 34, comma 2, del Codice 4; in mancanza di convalida cessano. La stessa convalida si applica alla proroga. Non si applica il comma 3 del medesimo articolo;
+
+d) assicurano alla persona la consegna del Paniere, le cure, i contatti a distanza con le persone care, il voto tramite la Rete e la sospensione temporanea del CBO prevista dall’articolo 11, comma 1, lettera c), del Codice 1, salvo le mansioni che essa chiede di svolgere a distanza;
+
+e) non sono fatti rispettare con la forza, salvo l’intervento del Corpo di Tutela Civica nei limiti dell’articolo 8-ter del Codice 14; la convalida della lettera c) vale anche ai fini del comma 4 di quell’articolo;
+
+f) durante la transizione, se la persona non vi acconsente, sono disposti soltanto dalle autorità sanitarie dello Stato, ai sensi dell’articolo 37 del Codice 4.
+
+3-quinquies. Per tutta la durata della misura il Consiglio Salute proponente pubblica, almeno ogni settimana, il dossier del comma 2, i dati aggregati e anonimi su cui la misura si fonda, il loro andamento e le ragioni di ogni rinnovo o cessazione, nel rispetto dell’articolo 11.
+
 4.  La misura:
 
     a) dura al massimo trenta giorni;
@@ -66,7 +106,7 @@ allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; C
 
     c) è limitata a quanto strettamente necessario e adotta la misura meno invasiva idonea;
 
-    d) è riesaminata dal Cerchio di Garanzia, su richiesta di qualsiasi membro, entro sette giorni;
+    d) è riesaminata dal Cerchio di Garanzia, su richiesta di qualsiasi membro, entro sette giorni; l’isolamento e la quarantena disposti individualmente seguono invece la convalida del comma 3-quater, lettera c);
 
     e) è registrata con motivazione, durata e criteri di cessazione, nel rispetto della riservatezza e dei livelli di accesso previsti dai Codici.
 
@@ -74,9 +114,23 @@ allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; C
 
 6.  Il presente articolo disciplina misure di salute pubblica rivolte alla collettività. L’articolo 8 disciplina gli interventi individuali di emergenza sanitaria riguardanti una persona in crisi. I due regimi hanno oggetto, presupposti e procedure distinti e non si cumulano, salvo che siano documentate entrambe le condizioni.
 
-7.  Le misure adottate ai sensi del presente articolo non possono produrre effetti permanenti sull’accesso al CBO, al Paniere, alla partecipazione deliberativa o agli altri diritti. Eventuali effetti ulteriori richiedono una procedura autonoma prevista dai Codici competenti e le relative garanzie.
+7.  Le misure adottate ai sensi del presente articolo non possono ridurre, neppure durante la loro applicazione, il Paniere, l’alloggio, le cure, il voto e la partecipazione deliberativa, né produrre effetti permanenti sull’accesso al CBO o agli altri diritti. Eventuali effetti ulteriori richiedono una procedura autonoma prevista dai Codici competenti e le relative garanzie.
 
 8.  Alla cessazione della misura è ripristinata la posizione giuridica precedente della persona. Gli atti necessari a documentare, verificare o sottoporre ad audit la misura possono essere conservati, con accesso limitato e secondo le garanzie di riservatezza dell’articolo 11.
+
+### Art. 2-ter — Consenso dei minori e delle persone che non possono decidere
+
+1.  Dal compimento del sedicesimo anno la persona presta, rifiuta e revoca da sé il consenso alle proprie cure, ai sensi dell’articolo 2, comma 2. Se, prima del diciottesimo anno, non è in grado di decidere, si applica il comma 2.
+
+2.  Fino al compimento del sedicesimo anno il consenso è prestato da chi ha la responsabilità di cura del minore ai sensi dell’articolo 24.3 della Costituzione, dopo averlo informato e ascoltato in modo adatto all’età. Il parere del minore ha un peso crescente con l’età e la maturità, ai sensi dell’articolo 26.2 della Costituzione. Se le persone responsabili sono più d’una, decidono d’accordo; per le cure urgenti basta il consenso di una di esse. La responsabilità di cura e il consenso del presente comma non vengono meno per la sola cessazione dello status di membro della persona responsabile ai sensi dell’articolo 29, comma 6-bis, del Codice 4. Se nessuno esercita la responsabilità di cura, o nessuna persona responsabile è raggiungibile in tempo utile, il consenso è prestato dal rappresentante temporaneo nominato ai sensi dell’articolo 7-bis, comma 5, del Codice 12, fino alla decisione del Tribunale di Garanzia prevista dal comma 3-bis del medesimo articolo.
+
+3.  In caso di disaccordo tra il minore e chi ne ha la responsabilità di cura, o tra più persone responsabili, o di conflitto di interessi tra queste e il minore, possono rivolgersi al Tribunale di Garanzia il minore, ciascuna persona responsabile, il curante o il Consiglio Cura. Il Tribunale acquisisce il parere scritto di una persona con competenza sanitaria L3, indipendente e non coinvolta nella cura, sorteggiata dall’elenco dell’articolo 36, comma 1, lettera b), del Codice 4; ascolta il minore, assistito dalla persona di fiducia prevista dall’articolo 31.5 della Costituzione, e le persone responsabili; decide entro sette giorni o, se la cura non può attendere, entro ventiquattro ore, secondo l’interesse del minore e tenendo conto del suo parere ai sensi del comma 2. Quando l’attesa esporrebbe il minore a un pericolo per la vita o a un danno grave e irreversibile, le cure necessarie sono prestate subito, ai sensi dell’articolo 28.2 della Costituzione, e il Tribunale ne è informato.
+
+4.  Le vaccinazioni e le profilassi dei minori seguono i commi da 1 a 3 e non sono mai obbligatorie. Il rifiuto di una vaccinazione non costituisce, da solo, grave negligenza o pregiudizio ai sensi dell’articolo 7-bis del Codice 12. Durante una misura dell’articolo 2-bis il minore che non ha la protezione indicata può essere escluso soltanto dai luoghi a rischio, alle condizioni del comma 3-ter di quell’articolo.
+
+5.  Quando una persona adulta non è in grado di decidere sulle proprie cure per una condizione che dura, o che si prevede durerà, oltre sessanta giorni, accertata da due persone con competenza sanitaria L3 indipendenti, il Tribunale di Garanzia nomina un rappresentante stabile, se la persona non lo ha designato ai sensi dell’articolo 7-bis, comma 4, del Codice 12. Il rappresentante è scelto secondo l’ordine dell’articolo 7-bis, comma 5, del Codice 12 e decide secondo il comma 6 del medesimo articolo. La persona è informata e ascoltata nella misura in cui può esprimersi. La nomina è riesaminata dal Tribunale almeno ogni dodici mesi e in ogni momento su richiesta della persona, della persona di fiducia, del rappresentante o del Consiglio Cura; cessa quando la persona recupera la capacità. Al disaccordo o al conflitto di interessi tra il rappresentante e la persona si applica il comma 3. Il rappresentante non può acconsentire a misure coercitive, disciplinate soltanto dall’articolo 8.
+
+6.  Durante la transizione il presente articolo si applica nei limiti consentiti dalla legge vigente sul consenso dei minori e sulla rappresentanza delle persone incapaci.
 
 ## CAPO I — ORGANIZZAZIONE, SCHEDE DI SICUREZZA E PREVENZIONE
 
@@ -283,7 +337,7 @@ Si applicano il Codice 4, articolo 17, e il Codice 5, articolo 9. Il Collegio di
 
     b) è effettuato con presenza di due persone L3, quando immediatamente disponibili;
 
-    c) è comunicato senza ritardo al Cerchio di Garanzia;
+    c) è comunicato senza ritardo al Tribunale di Garanzia per la convalida del comma 7 e al Cerchio di Garanzia;
 
     d) è documentato in Rete con accesso regolato;
 
@@ -291,13 +345,23 @@ Si applicano il Codice 4, articolo 17, e il Codice 5, articolo 9. Il Collegio di
 
     f) cessa immediatamente quando vengono meno i presupposti.
 
-7.  Entro ventiquattro ore il Cerchio di Garanzia verifica la legittimità procedurale, la necessità e la proporzionalità della misura. Non svolge una valutazione clinica, che resta di competenza delle persone sanitarie L3.
+7.  Entro ventiquattro ore dall’inizio della misura il Tribunale di Garanzia, ai sensi dell’articolo 27, comma 3, del Codice 4, la convalida, la modifica o la revoca. Verifica i presupposti del comma 4, la necessità e la proporzionalità sulla base della documentazione delle due persone L3 e, quando possibile, dopo aver sentito la persona, il suo rappresentante e la persona di fiducia. Non svolge una valutazione clinica, che resta di competenza delle persone sanitarie L3. In mancanza di convalida nel termine la misura cessa. Se interviene il Corpo di Tutela Civica, la convalida del presente comma tiene luogo di quella prevista dall’articolo 8-ter, comma 4, del Codice 14.
 
 8.  Dopo la crisi è proposto alla persona un percorso di cura volontario.
 
 9.  Sono sempre vietati la contenzione punitiva, l’isolamento usato come sanzione e la sedazione punitiva.
 
-10. Qualsiasi misura coercitiva che superi ventiquattro ore richiede una nuova deliberazione dell’Assemblea secondo il Codice 3, il coordinamento con il Codice 14 e un riesame del Cerchio di Garanzia. La deliberazione non può derogare ai diritti fondamentali né prolungare una misura dopo la cessazione dei suoi presupposti.
+10. La misura coercitiva:
+
+    a) è rivalutata dalle due persone L3 almeno ogni dodici ore e, durante la contenzione fisica, almeno ogni ora; ogni rivalutazione è documentata;
+
+    b) dopo la convalida dura al massimo settantadue ore e può essere prorogata soltanto con una nuova convalida del Tribunale di Garanzia, chiesta prima della scadenza sulla base di una nuova attestazione di due persone L3, per periodi non superiori a settantadue ore; in mancanza di nuova convalida prima della scadenza la misura cessa;
+
+    c) non può superare complessivamente quattordici giorni. Alla scadenza la misura cessa anche se il rischio persiste; sono assicurati senza interruzione la presenza continuativa di persone formate, la messa in sicurezza relazionale e ambientale del comma 3 e l’offerta di cure, e la persona può restare volontariamente nel luogo di cura. Una nuova misura coercitiva è ammessa soltanto per un nuovo episodio acuto, alle condizioni del comma 4 attestate da due persone L3 diverse da quelle che hanno attestato la misura precedente, e con la convalida di un Tribunale di Garanzia in diversa composizione, che verifica espressamente che non si tratta della prosecuzione della misura cessata. Nell’arco di novanta giorni le misure coercitive non possono superare complessivamente ventotto giorni;
+
+    d) è revocata in ogni momento dal Tribunale di Garanzia, quando ne vengono meno i presupposti, su richiesta della persona, del suo rappresentante o della persona di fiducia; la richiesta è decisa entro ventiquattro ore.
+
+Il rappresentante non può acconsentire a una misura coercitiva in luogo della persona: si applica soltanto il presente articolo. Durante la transizione non sono eseguite misure coercitive interne; ogni intervento è limitato a quanto consentito dalla legge vigente e sono allertati i servizi di emergenza e le autorità sanitarie competenti, ai sensi dell’articolo 37 del Codice 4.
 
 11. È vietato inserire etichette stigmatizzanti nel Portfolio Personale.
 
@@ -378,7 +442,7 @@ L’uso tradizionale, da solo, non costituisce validazione. Ogni preparato valid
 
 7.  È vietata la sperimentazione su minori, persone in crisi acuta ai sensi dell’articolo 8 o persone temporaneamente prive della capacità di esprimere il consenso, salvo il caso eccezionale in cui sia diretta a conseguire un beneficio diretto e specifico per la persona stessa. In tale caso devono ricorrere cumulativamente tutte le condizioni seguenti:
 
-    a) consenso del rappresentante designato secondo l’articolo 7-bis del Codice 12. La persona di fiducia non è considerata rappresentante, salvo che sia stata formalmente designata a tale funzione;
+    a) consenso prestato secondo l’articolo 2-ter: per il minore, da lui stesso se ha compiuto sedici anni, altrimenti da chi ne ha la responsabilità di cura; per la persona incapace, dal rappresentante designato o nominato ai sensi dell’articolo 7-bis del Codice 12 o dell’articolo 2-ter, comma 5. La persona di fiducia non è considerata rappresentante, salvo che sia stata formalmente designata a tale funzione;
 
     b) se il rappresentante non è disponibile, applicazione della procedura urgente prevista dall’articolo 7-bis del Codice 12 per la persona temporaneamente incapace, inclusa la nomina urgente di un rappresentante da parte dell’organo competente;
 
@@ -407,7 +471,7 @@ La mancanza di una sola delle condizioni impedisce l’avvio della sperimentazio
 
     c) il Cerchio di Garanzia può accedere ai dati necessari per decidere un ricorso, secondo una procedura tracciata e con accesso limitato;
 
-    d) in assenza di consenso, l’accesso del Consiglio Salute è ammesso solo quando sia necessario a dare esecuzione a un obbligo di sicurezza collettiva validamente deliberato ai sensi dell’articolo 2-bis. L’accesso è limitato ai dati strettamente necessari, proporzionato e temporaneo, è tracciato e, quando possibile, comunicato alla persona interessata. È ammesso il riesame del Cerchio di Garanzia entro sette giorni.
+    d) in assenza di consenso, l’accesso del Consiglio Salute è ammesso solo quando sia necessario a dare esecuzione a una misura collettiva validamente deliberata ai sensi dell’articolo 2-bis. L’accesso è limitato ai dati strettamente necessari, proporzionato e temporaneo, è tracciato e, quando possibile, comunicato alla persona interessata. È ammesso il riesame del Cerchio di Garanzia entro sette giorni.
 
 3.  Il Magazzino del Sapere contiene esclusivamente:
 
@@ -431,7 +495,7 @@ Non contiene dati sanitari individuali.
 
     c) di chiederne la cancellazione quando non siano più pertinenti o necessari;
 
-    d) di chiedere la cancellazione o l’oblio di episodi superati, salvo gli obblighi di sicurezza collettiva documentati e validamente deliberati ai sensi dell’articolo 2-bis, limitatamente alle informazioni strettamente necessarie.
+    d) di chiedere la cancellazione o l’oblio di episodi superati, salvo le misure collettive documentate e validamente deliberate ai sensi dell’articolo 2-bis, limitatamente alle informazioni strettamente necessarie.
 
 6.  La cancellazione o rettifica del dato personale non comporta la cancellazione di informazioni già rese irreversibilmente anonime e utilizzate per statistiche, analisi epidemiologiche o aggiornamento delle STV. I dati personali sono tenuti distinti dai dati statistici anonimi e non devono poter essere ricostruiti.
 

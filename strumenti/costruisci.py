@@ -1265,7 +1265,7 @@ def costruisci():
         indirizzi = []
         for cartella, _, nomi in os.walk(SITO_DIR):
             for n in sorted(nomi):
-                if n.endswith(".html"):
+                if n.endswith(".html") and not n.startswith("google"):   # i file di verifica di Google non sono pagine
                     rel = os.path.relpath(os.path.join(cartella, n), SITO_DIR).replace(os.sep, "/")
                     indirizzi.append(SITO_URL + "/" + (rel[:-10] if rel.endswith("index.html") else rel))
         with open(os.path.join(SITO_DIR, "sitemap.xml"), "w", encoding="utf-8") as m:

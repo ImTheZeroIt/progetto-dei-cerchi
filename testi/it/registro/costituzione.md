@@ -1,7 +1,7 @@
 ---
 titolo: "COSTITUZIONE DELLA CONFEDERAZIONE DEI CERCHI"
 breve: "Costituzione"
-versione: "V.29"
+versione: "V.30"
 gruppo: "costituzione"
 ordine: 0
 id: "costituzione"
@@ -35,7 +35,7 @@ c) cure sanitarie, istruzione e connettività;
 
 d) un Nodo-IA personale.
 
-1.3. I diritti del comma 1.2 sono garantiti incondizionatamente a ogni membro, salvo quanto previsto dagli articoli 1.3-bis e 4.8. A chi non è membro si applica l’articolo 4.9. A chiunque si trovi nel territorio custodito da un Cerchio restano in ogni caso garantiti l’acqua potabile, le cure d’emergenza salvavita e la protezione dei minori.
+1.3. I diritti del comma 1.2 sono garantiti incondizionatamente a ogni membro, salvo quanto previsto dagli articoli 1.3-bis, 4.8 e 7.3-bis. A chi non è membro si applica l’articolo 4.9. A chiunque si trovi nel territorio custodito da un Cerchio restano in ogni caso garantiti l’acqua potabile, le cure d’emergenza salvavita e la protezione dei minori.
 
 1.3-bis. Per gli illeciti di Grado 5 o 6 che ledono gravemente l’incolumità fisica o sessuale, il Codice di Giustizia Riparativa può prevedere, in caso di recidiva accertata con sentenza definitiva del Tribunale di Garanzia, la decadenza dallo status di membro e l’applicazione del Contenimento ad Alta Sicurezza oppure dell’Allontanamento Definitivo dai Cerchi interessati. Il Contenimento non ha durata predeterminata, ma non è perpetuo: dura finché persiste un pericolo concreto e attuale, accertato mediante riesame periodico. L’Allontanamento Definitivo non priva la persona delle garanzie vitali dell’articolo 30.4 né della possibilità di vivere in un altro Cerchio disponibile ad accoglierla o mediante Patto di Convivenza Autonoma. Rientrano tra i fatti rilevanti, in particolare, la violenza sessuale, gli abusi sessuali su persone minori, l’omicidio volontario e la tortura. Restano sempre vietate la pena di morte, la tortura e ogni trattamento inumano o degradante. Presupposti, garanzie e procedure sono disciplinati esclusivamente dal Codice di Giustizia Riparativa, nel rispetto delle garanzie minime inderogabili previste dalla Costituzione. I casi e le misure previsti dal presente comma non possono essere estesi.
 
@@ -43,13 +43,13 @@ d) un Nodo-IA personale.
 
 2.1. Il lavoro non è merce: è un contributo alla vita comune.
 
-2.2. I diritti di cui all’articolo 1 sono incondizionati per il singolo. La loro garanzia materiale dipende dalla contribuzione collettiva, articolata nei seguenti istituti disciplinati dal Titolo III:
+2.2. I diritti di cui all’articolo 1 sono garantiti al singolo secondo l’articolo 1.3: non dipendono dalle ore svolte né dai CdR, e il rifiuto del CBO vi incide soltanto nel caso dell’articolo 7.3-bis. La loro garanzia materiale dipende dalla contribuzione collettiva, articolata nei seguenti istituti disciplinati dal Titolo III:
 
 a) il Contributo Base Obbligatorio (CBO), quale quota del lavoro socialmente necessario;
 
 b) il Contributo di Riconoscenza (CdR), quale riconoscimento del valore generato.
 
-2.3. La Confederazione si fonda sull’interdipendenza materiale: la produzione è organizzata collettivamente secondo le capacità disponibili e la fruizione è garantita in relazione ai bisogni reali. Se una comunità interrompe la produzione, la disponibilità materiale di beni o servizi può ridursi per tutti; i diritti inviolabili restano giuridicamente integri e le garanzie vitali devono essere preservate. Il CBO non è corrispettivo individuale dei diritti, ma espressione della corresponsabilità collettiva.
+2.3. La Confederazione si fonda sull’interdipendenza materiale: la produzione è organizzata collettivamente secondo le capacità disponibili e la fruizione è garantita in relazione ai bisogni reali. Se una comunità interrompe la produzione, la disponibilità materiale di beni o servizi può ridursi per tutti; i diritti inviolabili restano giuridicamente integri e le garanzie vitali devono essere preservate. Il CBO non è il prezzo dei singoli beni o servizi: nessuno li ottiene in cambio delle ore svolte e la fruizione resta commisurata ai bisogni reali. Il CBO è il contributo minimo che ogni persona adulta abile deve alla Comunità come condizione dell’appartenenza, ed è espressione della corresponsabilità collettiva. Il rifiuto persistente e ingiustificato del CBO può comportare la cessazione dello status di membro soltanto nel caso e con le garanzie dell’articolo 7.3-bis. La malattia, la disabilità, l’età, la gravidanza, l’obiezione di coscienza e gli altri impedimenti, esenzioni e giustificazioni riconosciuti dalla Costituzione e dai Codici non costituiscono mai rifiuto.
 
 ## Art. 3 — Regime dei beni
 
@@ -125,7 +125,7 @@ b) all’ospitalità temporanea ai sensi dell’articolo 12, per un massimo non 
 
 c) alla residenza stabile mediante un Patto di Convivenza Autonoma con il Cerchio 1 nel cui territorio risiede o con un altro Cerchio 1 disponibile. Il Patto è un diritto: non può essere rifiutato a chi ne accetta le condizioni. Se la capacità di carico del territorio, documentata, non lo consente, il Cerchio 2 individua senza ritardo un’altra collocazione.
 
-4.9-bis. Con il Patto di Convivenza Autonoma sono affidate alla persona o al suo nucleo, in custodia d’uso, una porzione di terra e, ove disponibile, un’abitazione sufficienti all’autosufficienza, nei limiti della capacità di carico. La porzione resta Bene Comune inalienabile ai sensi dell’articolo 3 e torna alla custodia del Cerchio al termine dell’uso. Il Patto stabilisce il rispetto dei vincoli ecologici, dello statuto degli animali e del disarmo di cui all’articolo 16, l’accesso all’acqua e alle cure d’emergenza, l’assenza di prelievi ordinari dai Magazzini e le modalità dell’eventuale scambio di eccedenze reali, senza profitto. Restano integri i diritti dei minori di cui all’articolo 26, compreso l’accesso alle cure e all’apprendimento.
+4.9-bis. Con il Patto di Convivenza Autonoma sono affidate alla persona o al suo nucleo, in custodia d’uso, una porzione di terra e, ove disponibile, un’abitazione sufficienti all’autosufficienza, nei limiti della capacità di carico. La porzione resta Bene Comune inalienabile ai sensi dell’articolo 3 e torna alla custodia del Cerchio al termine dell’uso. Il Patto stabilisce il rispetto dei vincoli ecologici, dello statuto degli animali e del disarmo di cui all’articolo 16, l’accesso all’acqua e alle cure d’emergenza, l’assenza di prelievi ordinari dai Magazzini e le modalità dell’eventuale scambio di eccedenze reali, senza profitto. Alla persona che ha cessato di essere membro ai sensi dell’articolo 7.3-bis, finché non è riammessa, la porzione è affidata con l’accesso all’acqua necessaria, senza abitazione, anche se disponibile, e senza attrezzi o altri beni della Comunità; la persona può costruirvi un riparo con le proprie forze. Restano integri i diritti dei minori di cui all’articolo 26, compreso l’accesso alle cure e all’apprendimento.
 
 4.9-ter. A chi risiede stabilmente senza Patto e senza contribuzione è offerto il Patto di Convivenza Autonoma. Solo se l’offerta è rifiutata in modo persistente, il Tribunale di Garanzia può disporre una procedura non violenta di allontanamento dall’abitato comune, con assegnazione d’ufficio di una porzione ai sensi del comma 4.9-bis. La persona non confederata non può invocare l’articolo 1.2 per ottenere accesso continuativo ai Magazzini.
 
@@ -197,7 +197,7 @@ Ulteriori Cerchi di Competenza possono essere istituiti sulla base di un Dossier
 
 ## Art. 7 — Contributo Base Obbligatorio
 
-7.1. Ogni persona adulta abile contribuisce, secondo capacità e inclinazione, al soddisfacimento dei bisogni collettivi attraverso il CBO. Il fabbisogno complessivo è determinato dai Cerchi in relazione ai bisogni reali. Il CBO non è il corrispettivo dei diritti inviolabili; contribuisce a renderne possibile la garanzia materiale.
+7.1. Ogni persona adulta abile contribuisce, secondo capacità e inclinazione, al soddisfacimento dei bisogni collettivi attraverso il CBO. Il fabbisogno complessivo è determinato dai Cerchi in relazione ai bisogni reali. Il CBO non è il prezzo dei beni e dei servizi che garantiscono i diritti inviolabili; contribuisce a renderne possibile la garanzia materiale ed è il contributo dovuto come condizione dell’appartenenza, ai sensi dell’articolo 2.3. Il rifiuto del CBO incide sullo status di membro soltanto nel caso e con le garanzie del comma 7.3-bis.
 
 7.2. Ogni persona adulta dedica un tempo limitato e a rotazione a compiti essenziali individuati dalla Comunità di Cerchio 1. Il CBO comprende, a titolo esemplificativo:
 
@@ -222,6 +222,8 @@ i) funzioni conferite per sorteggio di coordinamento, facilitazione, garanzia, t
 Sono escluse dal CBO le attività culturali, artistiche, spirituali, ludiche, affettive, di ricerca libera e contemplazione.
 
 7.3. Il rifiuto sistematico e ingiustificato del CBO da parte di una persona adulta abile è affrontato progressivamente dall’Assemblea di Chiarimento del Cerchio 1. Prima di ogni misura si valutano la rimodulazione delle mansioni e la mediazione, e la persona è informata del diritto al Patto di Convivenza Autonoma di cui all’articolo 4.9, lettera c). Se queste non hanno esito, possono essere sospesi il CdR e l’accesso alle risorse non essenziali, senza pregiudizio per le garanzie vitali dell’articolo 1.2. La persistenza del rifiuto per oltre sessanta giorni, in assenza di obiezione di coscienza valida, impedimento riconosciuto o altra giustificazione prevista dal Codice di Giustizia Riparativa, costituisce illecito di Grado 3 ai sensi dell’articolo 30.2.
+
+7.3-bis. In attuazione dell’articolo 2.3, se, concluso il Piano di Trasformazione disposto per l’illecito di Grado 3 previsto dal comma 7.3, compreso l’eventuale rinnovo, la persona adulta abile continua a rifiutare il CBO senza giustificazione, il Tribunale di Garanzia può dichiarare, con le garanzie dell’articolo 31.5 e dei Codici, la cessazione del suo status di membro. Non costituiscono mai rifiuto ingiustificato l’obiezione di coscienza dell’articolo 7.4, la malattia, la disabilità, l’età, la gravidanza e gli altri impedimenti, esenzioni e giustificazioni riconosciuti dai Codici. La cessazione è l’eccezione prevista per questo caso dall’articolo 1.3 e produce gli effetti dell’articolo 4.8; non è la decadenza dell’articolo 1.3-bis e non comporta alcuna delle misure dell’articolo 30.3. Alla persona è assegnata in custodia d’uso, con il Patto di Convivenza Autonoma nella forma prevista per questo caso dall’articolo 4.9-bis, una porzione di terra della quota riservata al Patto, con l’accesso all’acqua necessaria, senza abitazione e senza attrezzi o altri beni della Comunità; la persona conserva i Beni d’Uso Personale, l’acqua potabile, le cure d’emergenza salvavita e la protezione dei minori garantite a chiunque dall’ultimo periodo dell’articolo 1.3, e gli altri diritti dell’articolo 4.9 nei limiti dell’articolo 4.9-bis. Può chiedere in ogni momento la riammissione, riprendendo il CBO: la riammissione non può essere negata per il rifiuto passato. I figli minori conservano lo status di membro e tutti i diritti; il Tribunale di Garanzia decide nel loro interesse dove e con chi vivono, secondo il Codice della Cura. Presupposti e procedura sono disciplinati dal Codice di Giustizia Riparativa e non possono essere estesi ad altri casi, ai sensi dell’articolo 37.4, lettera a).
 
 7.4. È garantita l’obiezione di coscienza individuale rispetto a mansioni del CBO o del CTC incompatibili con le convinzioni etiche o spirituali della persona. In tal caso è assegnata un’attività equivalente.
 
@@ -557,7 +559,7 @@ a) l’Assemblea di Chiarimento del Cerchio 1, per gli illeciti di Grado 1 e 2;
 
 b) il Consiglio di Trasformazione, per gli illeciti di Grado 3;
 
-c) il Tribunale di Garanzia del Cerchio 2, per gli illeciti di Grado 4, 5 e 6 e per la revisione urgente entro ventiquattro ore;
+c) il Tribunale di Garanzia del Cerchio 2, per gli illeciti di Grado 4, 5 e 6, per la revisione urgente entro ventiquattro ore e per le altre funzioni di garanzia attribuite dai Codici;
 
 d) il Cerchio di Garanzia del Cerchio 1, per la facilitazione riparativa, la tutela delle garanzie procedurali e i ricorsi previsti dai Codici.
 
@@ -633,7 +635,7 @@ b) i due terzi dei votanti complessivi.
 
 37.4. **Nucleo Inviolabile.** Sono sottratti a qualsiasi procedura di revisione, anche con Doppia Maggioranza Lunga:
 
-a) le finalità di cui all’articolo 0 e i diritti inviolabili di cui all’articolo 1. Le eccezioni previste dagli articoli 1.3-bis, 18.7, 30.3 e 30.4 per la recidiva gravissima contro l’incolumità e per le misure di sicurezza a tutela della persona offesa o della comunità non possono essere estese a casi, misure o persone ulteriori;
+a) le finalità di cui all’articolo 0 e i diritti inviolabili di cui all’articolo 1. Le eccezioni previste dagli articoli 1.3-bis, 18.7, 30.3 e 30.4 per la recidiva gravissima contro l’incolumità e per le misure di sicurezza a tutela della persona offesa o della comunità, e quella prevista dall’articolo 7.3-bis per il rifiuto persistente e ingiustificato del CBO, non possono essere estese a casi, misure o persone ulteriori;
 
 b) i divieti di riconoscimento biometrico di massa, di profilazione biometrica e di IA centralizzata di cui agli articoli 18.2, 19.2, 20.2 e 23.1, salva l’eccezione dell’articolo 18.7;
 

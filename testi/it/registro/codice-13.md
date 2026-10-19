@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 13 — BIODIVERSITÀ, SANTUARI E FAUNA"
 breve: "Codice 13 — Biodiversità, santuari e fauna"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "codici"
 ordine: 13
 id: "codice-13"
 slug: "codice-13"
-allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.4; Codice 5 V1.4; Codice 6 V1.5; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.4; Codice 11 V1.3; Codice 12 V1.3; Codice 14 V1.2; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
 ---
 
 ## Art. 1 — Oggetto, definizioni e natura giuridica
@@ -231,7 +231,7 @@ allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; C
 
 9.  L’accumulo individuale di animali è ammesso soltanto entro la capacità di cura definita dalla Scheda Benessere Domestico. La valutazione considera almeno la specie e il numero degli animali, lo spazio disponibile, le condizioni sanitarie, il tempo a disposizione e la capacità effettiva di garantire il benessere di ciascun animale. Il superamento della capacità di cura costituisce violazione ai sensi dell’articolo 10.
 
-10. La sterilizzazione è raccomandata quando appropriata, ma non è imposta in via generale. Per i profili sanitari, zoonotici o di rischio collettivo si applicano le competenze, le procedure e le garanzie del Codice 6, compresi gli eventuali obblighi previsti dai suoi articoli 2 e 2-bis. Ogni misura deve rispettare criteri di proporzionalità e temporaneità, garantire l’informazione della persona interessata ed essere soggetta a riesame e alle garanzie previste.
+10. La sterilizzazione è raccomandata quando appropriata, ma non è imposta in via generale. Per i profili sanitari, zoonotici o di rischio collettivo si applicano le competenze, le procedure e le garanzie del Codice 6, comprese le misure collettive ammesse dal suo articolo 2-bis, comma 3-bis. Ogni misura deve rispettare criteri di proporzionalità e temporaneità, garantire l’informazione della persona interessata ed essere soggetta a riesame e alle garanzie previste.
 
 11. L’alimentazione degli animali domestici di prossimità può essere assicurata mediante risorse compatibili con il Paniere, scarti idonei o un fondo dedicato. Tali risorse non possono compromettere il Paniere umano dei livelli 1 e 2 e sono disciplinate dalla STV Paniere del Codice 9.
 

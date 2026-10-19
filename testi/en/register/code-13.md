@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 13 — BIODIVERSITY, SANCTUARIES AND FAUNA"
 breve: "Code 13 — Biodiversity, sanctuaries and fauna"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "codici"
 ordine: 13
 id: "codice-13"
 slug: "code-13"
-allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 V1.4; Code 5 V1.4; Code 6 V1.5; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.4; Code 11 V1.3; Code 12 V1.3; Code 14 V1.2; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
 ---
 
 ## Art. 1 — Subject matter, definitions and legal nature
@@ -231,7 +231,7 @@ allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 9.  The individual accumulation of animals is permitted only within the capacity for care defined by the Domestic Welfare Sheet. The assessment shall consider at least the species and number of the animals, the space available, the health conditions, the time available and the actual capacity to guarantee the welfare of each animal. Exceeding the capacity for care constitutes a violation pursuant to Article 10.
 
-10. Sterilisation is recommended where appropriate, but is not imposed as a general rule. As regards health, zoonotic or collective-risk aspects, the competences, procedures and guarantees of Code 6 shall apply, including any obligations provided for by its Articles 2 and 2-bis. Every measure shall comply with criteria of proportionality and temporariness, guarantee that the person concerned is informed and be subject to review and to the guarantees provided for.
+10. Sterilisation is recommended where appropriate, but is not imposed as a general rule. As regards health, zoonotic or collective-risk aspects, the competences, procedures and guarantees of Code 6 shall apply, including the collective measures permitted by its Article 2-bis, paragraph 3-bis. Every measure shall comply with criteria of proportionality and temporariness, guarantee that the person concerned is informed and be subject to review and to the guarantees provided for.
 
 11. The feeding of proximity companion animals may be ensured by means of resources compatible with the Basket, suitable scraps or a dedicated fund. Such resources may not compromise the human Basket of levels 1 and 2 and are governed by the Basket STV of Code 9.
 

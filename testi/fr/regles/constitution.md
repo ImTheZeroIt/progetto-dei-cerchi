@@ -1,7 +1,7 @@
 ---
 titolo: "CONSTITUTION DE LA CONFÉDÉRATION DES CERCLES"
 breve: "Constitution"
-versione: "V.29"
+versione: "V.30"
 gruppo: "costituzione"
 ordine: 0
 id: "costituzione"
@@ -35,7 +35,7 @@ c) les soins de santé, l’instruction et la connectivité ;
 
 d) un Nœud-IA personnel.
 
-1.3. Les droits de l’alinéa 1.2 sont garantis inconditionnellement à chaque membre, sauf ce que prévoient les articles 1.3-bis et 4.8. À qui n’est pas membre s’applique l’article 4.9. À quiconque se trouve sur le territoire sous la garde d’un Cercle restent garantis en tout cas l’eau potable, les soins d’urgence vitale et la protection des mineurs.
+1.3. Les droits de l’alinéa 1.2 sont garantis inconditionnellement à chaque membre, sauf ce que prévoient les articles 1.3-bis, 4.8 et 7.3-bis. À qui n’est pas membre s’applique l’article 4.9. À quiconque se trouve sur le territoire sous la garde d’un Cercle restent garantis en tout cas l’eau potable, les soins d’urgence vitale et la protection des mineurs.
 
 1.3-bis. Pour les infractions de Degré 5 ou 6 qui portent gravement atteinte à l’intégrité physique ou sexuelle, le Code de la justice réparatrice peut prévoir, en cas de récidive constatée par décision définitive du Tribunal de garantie, la déchéance du statut de membre et l’application du Confinement de haute sécurité ou de l’Éloignement définitif des Cercles concernés. Le Confinement n’a pas de durée prédéterminée, mais il n’est pas perpétuel : il dure tant que persiste un danger concret et actuel, constaté au moyen d’un réexamen périodique. L’Éloignement définitif ne prive pas la personne des garanties vitales de l’article 30.4 ni de la possibilité de vivre dans un autre Cercle disposé à l’accueillir ou au moyen d’un Pacte de cohabitation autonome. Relèvent notamment des faits pertinents les violences sexuelles, les abus sexuels sur mineurs, l’homicide volontaire et la torture. Restent toujours interdits la peine de mort, la torture et tout traitement inhumain ou dégradant. Les conditions, les garanties et les procédures sont régies exclusivement par le Code de la justice réparatrice, dans le respect des garanties minimales impératives prévues par la Constitution. Les cas et les mesures prévus par le présent alinéa ne peuvent pas être étendus.
 
@@ -43,13 +43,13 @@ d) un Nœud-IA personnel.
 
 2.1. Le travail n’est pas une marchandise : il est une contribution à la vie commune.
 
-2.2. Les droits visés à l’article 1 sont inconditionnels pour chaque personne. Leur garantie matérielle dépend de la contribution collective, organisée selon les institutions suivantes, régies par le Titre III :
+2.2. Les droits visés à l’article 1 sont garantis à chaque personne selon l’article 1.3 : ils ne dépendent ni des heures accomplies ni des CdR, et le refus de la CBO n’a d’incidence sur eux que dans le cas de l’article 7.3-bis. Leur garantie matérielle dépend de la contribution collective, organisée selon les institutions suivantes, régies par le Titre III :
 
 a) la Contribution de base obligatoire (CBO), en tant que part du travail socialement nécessaire ;
 
 b) la Contribution de reconnaissance (CdR), en tant que reconnaissance de la valeur générée.
 
-2.3. La Confédération se fonde sur l’interdépendance matérielle : la production est organisée collectivement selon les capacités disponibles et l’usage est garanti en fonction des besoins réels. Si une communauté interrompt la production, la disponibilité matérielle de biens ou de services peut diminuer pour tous ; les droits inviolables restent juridiquement intacts et les garanties vitales doivent être préservées. La CBO n’est pas la contrepartie individuelle des droits, mais l’expression de la coresponsabilité collective.
+2.3. La Confédération se fonde sur l’interdépendance matérielle : la production est organisée collectivement selon les capacités disponibles et l’usage est garanti en fonction des besoins réels. Si une communauté interrompt la production, la disponibilité matérielle de biens ou de services peut diminuer pour tous ; les droits inviolables restent juridiquement intacts et les garanties vitales doivent être préservées. La CBO n’est pas le prix des biens ou des services pris un à un : personne ne les obtient en échange des heures accomplies et l’usage reste proportionné aux besoins réels. La CBO est la contribution minimale que toute personne adulte apte doit à la Communauté comme condition de l’appartenance, et elle est l’expression de la coresponsabilité collective. Le refus persistant et injustifié de la CBO ne peut entraîner la cessation du statut de membre que dans le cas et avec les garanties de l’article 7.3-bis. La maladie, le handicap, l’âge, la grossesse, l’objection de conscience et les autres empêchements, exemptions et justifications reconnus par la Constitution et par les Codes ne constituent jamais un refus.
 
 ## Art. 3 — Régime des biens
 
@@ -125,7 +125,7 @@ b) à l’hospitalité temporaire en application de l’article 12, pour une dur
 
 c) à la résidence stable au moyen d’un Pacte de cohabitation autonome avec le Cercle 1 sur le territoire duquel elle réside ou avec un autre Cercle 1 disponible. Le Pacte est un droit : il ne peut pas être refusé à qui en accepte les conditions. Si la capacité de charge du territoire, documentée, ne le permet pas, le Cercle 2 détermine sans retard un autre lieu d’installation.
 
-4.9-bis. Par le Pacte de cohabitation autonome sont confiées à la personne ou à son foyer, en garde d’usage, une parcelle de terre et, lorsqu’elle est disponible, une habitation suffisantes pour l’autosuffisance, dans les limites de la capacité de charge. La parcelle reste un Bien commun inaliénable au sens de l’article 3 et retourne à la garde du Cercle à la fin de l’usage. Le Pacte prévoit le respect des contraintes écologiques, du statut des animaux et du désarmement visé à l’article 16, l’accès à l’eau et aux soins d’urgence, l’absence de prélèvements ordinaires dans les Entrepôts et les modalités de l’éventuel échange d’excédents réels, sans profit. Les droits des mineurs visés à l’article 26 restent intacts, y compris l’accès aux soins et à l’apprentissage.
+4.9-bis. Par le Pacte de cohabitation autonome sont confiées à la personne ou à son foyer, en garde d’usage, une parcelle de terre et, lorsqu’elle est disponible, une habitation suffisantes pour l’autosuffisance, dans les limites de la capacité de charge. La parcelle reste un Bien commun inaliénable au sens de l’article 3 et retourne à la garde du Cercle à la fin de l’usage. Le Pacte prévoit le respect des contraintes écologiques, du statut des animaux et du désarmement visé à l’article 16, l’accès à l’eau et aux soins d’urgence, l’absence de prélèvements ordinaires dans les Entrepôts et les modalités de l’éventuel échange d’excédents réels, sans profit. À la personne qui a cessé d’être membre en application de l’article 7.3-bis, tant qu’elle n’est pas réadmise, la parcelle est confiée avec l’accès à l’eau nécessaire, sans habitation, même si une habitation est disponible, et sans outils ni autres biens de la Communauté ; la personne peut y construire un abri par ses propres moyens. Les droits des mineurs visés à l’article 26 restent intacts, y compris l’accès aux soins et à l’apprentissage.
 
 4.9-ter. À qui réside de façon stable sans Pacte et sans contribution, le Pacte de cohabitation autonome est proposé. Ce n’est que si l’offre est refusée de manière persistante que le Tribunal de garantie peut ordonner une procédure non violente d’éloignement de l’habitat commun, avec attribution d’office d’une parcelle en application de l’alinéa 4.9-bis. La personne non confédérée ne peut pas invoquer l’article 1.2 pour obtenir un accès continu aux Entrepôts.
 
@@ -197,7 +197,7 @@ D’autres Cercles de compétence peuvent être institués sur la base d’un Do
 
 ## Art. 7 — Contribution de base obligatoire
 
-7.1. Toute personne adulte apte contribue, selon ses capacités et ses inclinations, à la satisfaction des besoins collectifs au moyen de la CBO. Les besoins globaux sont déterminés par les Cercles en fonction des besoins réels. La CBO n’est pas la contrepartie des droits inviolables ; elle contribue à en rendre possible la garantie matérielle.
+7.1. Toute personne adulte apte contribue, selon ses capacités et ses inclinations, à la satisfaction des besoins collectifs au moyen de la CBO. Les besoins globaux sont déterminés par les Cercles en fonction des besoins réels. La CBO n’est pas le prix des biens et des services qui garantissent les droits inviolables ; elle contribue à en rendre possible la garantie matérielle et constitue la contribution due comme condition de l’appartenance, en application de l’article 2.3. Le refus de la CBO n’a d’incidence sur le statut de membre que dans le cas et avec les garanties de l’alinéa 7.3-bis.
 
 7.2. Toute personne adulte consacre un temps limité et par rotation à des tâches essentielles définies par la Communauté de Cercle 1. La CBO comprend, à titre d’exemple :
 
@@ -222,6 +222,8 @@ i) les fonctions attribuées par tirage au sort de coordination, de facilitation
 Sont exclues de la CBO les activités culturelles, artistiques, spirituelles, ludiques, affectives, de recherche libre et de contemplation.
 
 7.3. Le refus systématique et injustifié de la CBO par une personne adulte apte est traité de manière progressive par l’Assemblée de clarification du Cercle 1. Avant toute mesure, on examine la réorganisation des tâches et la médiation, et la personne est informée de son droit au Pacte de cohabitation autonome visé à l’article 4.9, lettre c). Si celles-ci n’aboutissent pas, la CdR et l’accès aux ressources non essentielles peuvent être suspendus, sans préjudice des garanties vitales de l’article 1.2. La persistance du refus pendant plus de soixante jours, en l’absence d’objection de conscience valable, d’empêchement reconnu ou d’autre justification prévue par le Code de la justice réparatrice, constitue une infraction de Degré 3 au sens de l’article 30.2.
+
+7.3-bis. En application de l’article 2.3, si, une fois achevé le Plan de transformation ordonné pour l’infraction de Degré 3 prévue à l’alinéa 7.3, y compris son éventuel renouvellement, la personne adulte apte continue de refuser la CBO sans justification, le Tribunal de garantie peut déclarer, avec les garanties de l’article 31.5 et des Codes, la cessation de son statut de membre. Ne constituent jamais un refus injustifié l’objection de conscience de l’article 7.4, la maladie, le handicap, l’âge, la grossesse et les autres empêchements, exemptions et justifications reconnus par les Codes. La cessation est l’exception prévue pour ce cas par l’article 1.3 et produit les effets de l’article 4.8 ; elle n’est pas la déchéance de l’article 1.3-bis et n’entraîne aucune des mesures de l’article 30.3. Une parcelle de terre de la part réservée au Pacte, avec l’accès à l’eau nécessaire, sans habitation et sans outils ni autres biens de la Communauté, est confiée à la personne en garde d’usage, avec le Pacte de cohabitation autonome dans la forme prévue pour ce cas par l’article 4.9-bis ; la personne conserve les Biens d’usage personnel, l’eau potable, les soins d’urgence vitale et la protection des mineurs garantis à quiconque par la dernière phrase de l’article 1.3, ainsi que les autres droits de l’article 4.9 dans les limites de l’article 4.9-bis. Elle peut demander à tout moment sa réadmission en reprenant la CBO : la réadmission ne peut pas être refusée en raison du refus passé. Les enfants mineurs conservent le statut de membre et tous leurs droits ; le Tribunal de garantie décide dans leur intérêt où et avec qui ils vivent, conformément au Code du soin. Les conditions et la procédure sont régies par le Code de la justice réparatrice et ne peuvent pas être étendues à d’autres cas, en application de l’article 37.4, lettre a).
 
 7.4. L’objection de conscience individuelle est garantie à l’égard des tâches de la CBO ou du CTC incompatibles avec les convictions éthiques ou spirituelles de la personne. Dans ce cas, une activité équivalente est attribuée.
 
@@ -557,7 +559,7 @@ a) l’Assemblée de clarification du Cercle 1, pour les infractions de Degré 1
 
 b) le Conseil de transformation, pour les infractions de Degré 3 ;
 
-c) le Tribunal de garantie du Cercle 2, pour les infractions de Degré 4, 5 et 6 et pour la révision urgente dans un délai de vingt-quatre heures ;
+c) le Tribunal de garantie du Cercle 2, pour les infractions de Degré 4, 5 et 6, pour la révision urgente dans un délai de vingt-quatre heures et pour les autres fonctions de garantie attribuées par les Codes ;
 
 d) le Cercle de garantie du Cercle 1, pour la facilitation réparatrice, la protection des garanties procédurales et les recours prévus par les Codes.
 
@@ -633,7 +635,7 @@ b) les deux tiers de l’ensemble des votants.
 
 37.4. **Noyau inviolable.** Sont soustraits à toute procédure de révision, même à la Double majorité longue :
 
-a) les finalités visées à l’article 0 et les droits inviolables visés à l’article 1. Les exceptions prévues aux articles 1.3-bis, 18.7, 30.3 et 30.4 pour la récidive d’une extrême gravité contre l’intégrité physique et pour les mesures de sécurité destinées à protéger la personne lésée ou la communauté ne peuvent pas être étendues à d’autres cas, mesures ou personnes ;
+a) les finalités visées à l’article 0 et les droits inviolables visés à l’article 1. Les exceptions prévues aux articles 1.3-bis, 18.7, 30.3 et 30.4 pour la récidive d’une extrême gravité contre l’intégrité physique et pour les mesures de sécurité destinées à protéger la personne lésée ou la communauté, ainsi que celle prévue par l’article 7.3-bis pour le refus persistant et injustifié de la CBO, ne peuvent pas être étendues à d’autres cas, mesures ou personnes ;
 
 b) les interdictions de la reconnaissance biométrique de masse, du profilage biométrique et de l’IA centralisée visées aux articles 18.2, 19.2, 20.2 et 23.1, sans préjudice de l’exception de l’article 18.7 ;
 

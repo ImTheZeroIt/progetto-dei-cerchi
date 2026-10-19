@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 11 — DE LA LOGISTIQUE ET DE LA MOBILITÉ DE BASE"
 breve: "Code 11 — Logistique et mobilité de base"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "codici"
 ordine: 11
 id: "codice-11"
 slug: "code-11"
-allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.4 ; Code 5 V1.4 ; Code 6 V1.5 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.4 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
 ---
 
 ## Art. 1 — Objet et définitions
@@ -252,7 +252,7 @@ allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5
 1.  Chaque Cercle 1 affecte aux Maisons-relais de dix à quinze pour cent du parc de logements, en application de l’article 12.1 de la Constitution. Les Maisons-relais sont des Biens communs ; leur localisation suit le Code 10. La rotation volontaire dans leur gestion ne constitue pas une CBO supplémentaire.
 2.  Les Maisons-relais peuvent être réservées par l’intermédiaire du Réseau ou selon une procédure non numérique, en fonction de la disponibilité réelle.
 3.  L’hospitalité ne requiert pas de CdR lorsqu’elle est due au soin, à une urgence, à une réinstallation en application de l’article 49 du Code 1, au transit vers un autre Cercle, à la CBO en mobilité, aux fonctions attribuées par tirage au sort ou à l’apprentissage, ainsi que lorsqu’elle concerne des personnes non confédérées au sens de l’article 4.9 de la Constitution. L’hospitalité ordinaire non essentielle peut requérir le recours à la CdR conformément à l’article 45 du Code 1.
-4.  L’hospitalité entre membres a une durée ordinaire minimale de quatorze jours, sauf dans les cas de soin, d’urgence, de réinstallation ou de transit. L’hospitalité des personnes non confédérées ne dépasse pas quatorze jours et ne peut pas être prolongée.
+4.  L’hospitalité entre membres a une durée ordinaire minimale de quatorze jours, sauf dans les cas de soin, d’urgence, de réinstallation ou de transit. L’hospitalité des personnes non confédérées ne dépasse pas quatorze jours et ne peut pas être prolongée. Est réservé l’accueil des personnes qui attendent l’attribution de la parcelle du Pacte de cohabitation autonome, prévu par l’article 4-bis, alinéa 7, du Code 10.
 5.  Les hôtes ne dépassent pas ordinairement quinze pour cent des résidents, sauf en cas de soin, d’urgence, de réinstallation ou de transit.
 6.  L’épuisement des places en Maisons-relais ne peut pas empêcher l’entrée. La Communauté assure une aire d’accueil équipée et l’accès à l’Entrepôt selon les besoins réels.
 7.  La CBO en mobilité ne peut être demandée auprès de la Communauté d’accueil que si elle est compatible avec la situation de la personne, et elle est comptabilisée dans sa CBO.

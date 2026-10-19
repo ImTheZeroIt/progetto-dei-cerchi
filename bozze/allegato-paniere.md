@@ -7,7 +7,7 @@
 - **Quantità di pianificazione, non razione.** I numeri dicono quanto il Magazzino deve avere a disposizione per ogni persona. Il prelievo resta libero, gratuito e secondo il bisogno effettivo (Cod. 1, art. 18, c. 1, lett. a).
 - **Persona di riferimento:** un adulto. Per bambini, gravidanza, anziani e malattie le quantità sono adattate dal Consiglio Salute (Cod. 1, art. 18, c. 3).
 - **Origine:** una fonte esterna, quando c'è; altrimenti «scelta di redazione», cioè un numero fissato per poter fare i conti, senza un dato che lo sostenga.
-- **Modello da adattare.** Clima, suolo ed edifici cambiano le quantità. Ogni Comunità parte da qui e corregge.
+- **Modello da adattare.** Clima, suolo ed edifici cambiano le quantità. Ogni Comunità parte da qui e corregge. Le dotazioni «per Nucleo» vengono da uno studio che ragiona su famiglie di quattro persone (Millward-Hopkins e altri, 2020), mentre un Nucleo di Cura può averne fino a quindici (Cost. 5.1): per i Nuclei grandi vanno adattate.
 
 Il Paniere di Sufficienza è fatto di sette parti che i Codici già nominano: Alimentare, Acqua, Energia, Materiale, Salute, Cura, Logistico. A queste si aggiungono i diritti dell'articolo 1.2 della Costituzione che nessun Paniere quantifica ancora: alloggio, istruzione, connettività, Nodo-IA personale.
 
@@ -15,12 +15,12 @@ Il Paniere di Sufficienza è fatto di sette parti che i Codici già nominano: Al
 
 Sede: Cod. 9, art. 4. Il Paniere è garantito su base vegetale. I prodotti animali raccolti senza danno non sono programmati nel fabbisogno (Cod. 9, art. 6-bis, c. 4, lett. d).
 
-Punto di partenza è la dieta di riferimento della Commissione EAT-Lancet (2019), calcolata per 2.500 kcal al giorno. Quella dieta ammette che gli alimenti animali siano zero. Qui le loro calorie sono sostituite da cereali, legumi e frutta secca, restando dentro gli intervalli che la Commissione indica.
+Punto di partenza è la dieta di riferimento della Commissione EAT-Lancet (2019), calcolata per 2.500 kcal al giorno. Quella dieta ammette che gli alimenti animali siano zero. Qui le loro calorie sono sostituite da cereali, legumi e frutta secca, restando dentro gli intervalli che la Commissione indica. Nell'ottobre 2025 la Commissione ha pubblicato un nuovo rapporto, che aggiorna la dieta: questa tabella, fatta sul rapporto del 2019, va confrontata con il nuovo.
 
 | Voce | Per persona al giorno | Per persona all'anno | Dieta di riferimento | Origine |
 |---|---|---|---|---|
 | Cereali, di preferenza integrali (peso secco) | 275 g | 100 kg | 232 g | Adattamento di redazione |
-| Legumi (peso secco) | 100 g | 36,5 kg | 75 g (0–100) | Limite alto dell'intervallo |
+| Legumi (peso secco) | 100 g | 36,5 kg | 75 g (0–150) | Dentro l'intervallo: legumi secchi 50 g (0–100) più soia 25 g (0–50) |
 | Frutta secca e semi oleosi | 75 g | 27 kg | 50 g (0–75) | Limite alto dell'intervallo |
 | Ortaggi | 300 g | 110 kg | 300 g (200–600) | EAT-Lancet |
 | Frutta | 200 g | 73 kg | 200 g (100–300) | EAT-Lancet |
@@ -28,13 +28,13 @@ Punto di partenza è la dieta di riferimento della Commissione EAT-Lancet (2019)
 | Oli vegetali insaturi | 40 g | 14,6 kg | 40 g (20–80) | EAT-Lancet |
 | Zuccheri aggiunti | non oltre 31 g | non oltre 11 kg | 31 g | EAT-Lancet |
 | Sale iodato | non oltre 5 g | non oltre 1,8 kg | — | OMS |
-| Vitamina B12 (integratore) | 4 microgrammi | — | — | Società tedesca di nutrizione |
+| Vitamina B12 | fabbisogno di 4 microgrammi; la dose dell'integratore, più alta, la indica un nutrizionista | — | — | Società tedesca di nutrizione (fabbisogno) |
 
 Il totale è di circa 2.500 kcal al giorno. Per confronto: il valore minimo usato nelle emergenze da UNHCR e PAM è 2.100 kcal; lo studio di Millward-Hopkins sulla vita dignitosa usa 2.000–2.150 kcal come media di una popolazione intera, bambini compresi.
 
 **Tre avvertenze.**
 
-1. **La vitamina B12 non è facoltativa.** In una dieta senza alimenti animali va integrata sempre: la Società tedesca di nutrizione lo indica come necessario. È un bene che la Comunità all'inizio non sa produrre: va iscritto nel Registro Dipendenze del Codice 15.
+1. **La vitamina B12 non è facoltativa.** In una dieta senza alimenti animali va integrata sempre: la Società tedesca di nutrizione lo indica come necessario. I 4 microgrammi della tabella sono il fabbisogno giornaliero, non la dose dell'integratore: il corpo assorbe solo una piccola parte di ogni dose, e le dosi degli integratori sono di solito molto più alte. È un bene che la Comunità all'inizio non sa produrre: va iscritto nel Registro Dipendenze del Codice 15.
 2. **La tabella va verificata da chi si occupa di nutrizione.** In particolare per proteine, ferro, calcio, zinco, iodio, omega-3 e vitamina D, e per bambini, gravidanza e allattamento.
 3. **Gli alimenti per lo svezzamento e per le persone fragili** (Cod. 9, art. 4, c. 1) non sono quantificati qui: li definisce il Consiglio Salute.
 
@@ -54,7 +54,7 @@ Sede: Cod. 8, art. 4-bis.
 
 | Voce | Per persona al giorno | Per persona all'anno | Origine |
 |---|---|---|---|
-| Acqua potabile per bere, cucinare, igiene personale e domestica | almeno 50 litri | circa 18 m³ | Cod. 8, art. 4-bis, c. 3. Per l'OMS 50 litri sono un accesso intermedio, a basso rischio per la salute; 100 litri l'accesso ottimale. |
+| Acqua potabile per bere, cucinare, igiene personale e domestica | almeno 50 litri | circa 18 m³ | Cod. 8, art. 4-bis, c. 3. Per l'OMS (2020) 50 litri sono un accesso intermedio, a rischio medio per la salute; il rischio è basso solo con l'accesso ottimale, oltre 100 litri. I 50 litri sono un minimo garantito, non un obiettivo. |
 | di cui acqua calda | 20 litri | circa 7 m³ | Millward-Hopkins e altri (2020) |
 
 Una Comunità di 150 persone ha bisogno di almeno 7,5 m³ al giorno per gli usi delle persone. L'acqua per i servizi sanitari e di cura e quella agricola si contano a parte.
@@ -69,7 +69,7 @@ Sede: Cod. 8, art. 4. Il Codice elenca i servizi che la quota minima deve coprir
 | Cuocere i cibi | un piano di cottura per Nucleo | Millward-Hopkins e altri (2020) |
 | Acqua calda sanitaria | 20 litri per persona al giorno | Millward-Hopkins e altri (2020) |
 | Illuminazione di base | tutti i locali abitati, per le ore di buio in cui sono usati | Scelta di redazione |
-| Ricarica dei dispositivi essenziali | telefono, computer, Nodo-IA, ausili sanitari | Scelta di redazione |
+| Ricarica dei dispositivi essenziali | dispositivo personale di comunicazione, Nodo-IA, ausili sanitari | Scelta di redazione |
 | Riscaldamento minimo | almeno 18 °C nei locali abitati; di più per anziani, bambini e malati | OMS, linee guida su abitazioni e salute (2018) |
 | Raffrescamento | quanto serve a proteggere la salute nelle ondate di calore | Da definire con il Consiglio Salute |
 | Magazzino Salute e nodo Rete | continuità senza interruzioni | Cod. 8, art. 4, c. 1, lett. g |
@@ -114,9 +114,9 @@ Sede: Cod. 6, art. 10. Comprende i beni salvavita.
 | Voce | Riferimento proposto | Origine |
 |---|---|---|
 | Farmaci | la Lista modello dei farmaci essenziali dell'OMS, adattata dal Consiglio Salute | OMS, 24ª lista |
-| Personale | 4,45 tra medici, infermieri e ostetriche ogni 1.000 persone | OMS, strategia sul personale sanitario al 2030 |
+| Personale | 4,45 tra medici, infermieri e ostetriche ogni 1.000 persone | OMS, strategia sul personale sanitario al 2030: soglia minima per individuare i paesi con gravi carenze, non uno standard europeo |
 
-**Conseguenza.** Con quella soglia una Comunità di 150 persone non arriva a un operatore sanitario a tempo pieno. La sanità va organizzata nel Bacino: tre Comunità da 500 persone ne richiedono sei o sette. È coerente con l'ospedale di distretto che la Costituzione affida al Cerchio 2 (art. 5.1).
+**Conseguenza.** Con quella soglia una Comunità di 150 persone non arriva a un operatore sanitario a tempo pieno. La sanità va organizzata nel Bacino: tre Comunità da 500 persone ne richiedono sei o sette. È coerente con l'ospedale di distretto che la Costituzione affida al Cerchio 2 (art. 5.1). La soglia è un minimo pensato per i paesi più poveri: nei paesi europei la densità di operatori è molto più alta, e la sanità del Bacino ne richiederà di più.
 
 ## 7. Paniere Cura
 
@@ -139,15 +139,15 @@ Sede: Cod. 11, art. 4.
 
 ## 9. Istruzione, connettività e Nodo-IA
 
-Sede: Cost. 1.2, lett. c) e d). Per l'istruzione il Codice 5 fissa i contenuti, non i mezzi; per la connettività nessun Codice fissa quantità.
+Sede: Cost. 1.2, lett. c) e d); Cod. 5, art. 2, c. 4-bis; Cod. 7, art. 3, c. 9. Il Codice 5 mette nel Paniere i materiali, gli strumenti e gli spazi per l'alfabetizzazione e per la formazione alla sicurezza; il Codice 7 fissa la dotazione minima di connettività.
 
 | Voce | Livello proposto | Origine |
 |---|---|---|
 | Alfabetizzazione | garantita entro gli undici anni: lettura e scrittura, matematica di base e le altre competenze dell'articolo 29.4 della Costituzione | Cod. 5, art. 6, c. 8 |
 | Figure di riferimento | tre per ogni minore, a rotazione trimestrale | Cod. 5, art. 6, c. 7 |
 | Nodo-IA personale | uno per persona | Cost. 1.2, lett. d) |
-| Telefono | uno per persona sopra i dieci anni | Millward-Hopkins e altri (2020) |
-| Computer | uno per Nucleo | Millward-Hopkins e altri (2020) |
+| Dispositivo personale di comunicazione | uno per ogni persona che lo richieda dai dodici anni, distinto dal Nodo-IA; prima, con la partecipazione delle figure di riferimento | Cod. 7, art. 3, c. 9, lett. b); Millward-Hopkins e altri (2020) contano un telefono per persona sopra i dieci anni |
+| Accesso alla Rete | un punto di accesso in ogni alloggio che lo richieda; in ogni Cerchio 1 un punto di accesso assistito con dispositivi condivisi. Nessun computer per Nucleo: ogni persona ha già un Nodo-IA | Cod. 7, art. 3, c. 9, lett. a) e c) |
 | Spazi per la scuola | 10 m² per studente | Millward-Hopkins e altri (2020) |
 | Accesso senza strumenti digitali | sempre garantito a chi sceglie la disconnessione | Cod. 7, art. 5-bis, c. 8 |
 
@@ -187,16 +187,17 @@ L'Allegato si riesamina ogni anno. Chi ha un dato, un'esperienza o una critica p
 
 ## Fonti
 
-Pagine consultate il 5 ottobre 2026.
+Pagine consultate il 5 ottobre 2026; fonti originali aggiunte il 19 ottobre 2026.
 
-- [Commissione EAT-Lancet, dieta di riferimento (2019), nella sintesi di Wikipedia](https://en.wikipedia.org/wiki/Planetary_health_diet)
+- [Willett e altri, Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems, The Lancet (2019)](https://doi.org/10.1016/S0140-6736%2818%2931788-4)
+- [Rockström e altri, The EAT–Lancet Commission on healthy, sustainable, and just food systems, The Lancet (ottobre 2025)](https://doi.org/10.1016/S0140-6736%2825%2901201-2)
 - [OMS, scheda sull'alimentazione sana](https://www.who.int/news-room/fact-sheets/detail/healthy-diet)
-- [Società tedesca di nutrizione, vitamina B12 e dieta vegana (2019), nel resoconto di NutraIngredients](https://www.nutraingredients.com/Article/2019/02/20/German-Nutrition-Society-advises-vegans-to-supplement-diet-with-vitamin-B12/)
+- [Società tedesca di nutrizione, valori di riferimento D-A-CH per la vitamina B12: Ströhle e altri, Molecular Nutrition & Food Research (2019)](https://doi.org/10.1002/mnfr.201801178)
 - [UNHCR e PAM, fabbisogno energetico di riferimento nelle emergenze (1997)](https://www.unhcr.org/uk/sites/uk/files/legacy-pdf/3b9cbef7a.pdf)
-- [Peters e altri, Carrying capacity of U.S. agricultural land: Ten diet scenarios, Elementa (2016), nel resoconto di Ensia](https://ensia.com/notable/which-diet-makes-best-use-of-farmland-you-might-be-surprised/)
+- [Peters e altri, Carrying capacity of U.S. agricultural land: Ten diet scenarios, Elementa (2016)](https://doi.org/10.12952/journal.elementa.000116)
 - [OMS, Domestic water quantity, service level and health, seconda edizione (2020)](https://www.who.int/publications/i/item/9789240015241)
 - [Millward-Hopkins e altri, Providing decent living with minimum energy, Global Environmental Change (2020)](https://www.sciencedirect.com/science/article/pii/S0959378020307512)
 - [OMS, Housing and health guidelines (2018), raccomandazioni sulle basse temperature interne](https://www.ncbi.nlm.nih.gov/books/NBK535294/)
-- [Sphere, standard umanitari minimi su acqua e alloggio](https://www.spherestandards.org/wp-content/uploads/Sphere-in-Practice.pdf)
+- [Sphere, Manuale Sphere (2018), standard umanitari minimi su acqua e alloggio](https://spherestandards.org/wp-content/uploads/Sphere-Handbook-2018-EN.pdf)
 - [OMS, Liste modello dei farmaci essenziali](https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines/essential-medicines-lists)
-- [OMS, soglia di 4,45 operatori sanitari ogni 1.000 persone, nel resoconto di Frontline Health Workers Coalition](https://www.frontlinehealthworkers.org/blog/health-workers-unattended-resource)
+- [OMS, Global strategy on human resources for health: Workforce 2030 (2016), soglia di 4,45 operatori sanitari ogni 1.000 persone](https://www.who.int/publications/i/item/9789241511131)

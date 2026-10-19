@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 14 — GENERAL SAFETY OF PERSONS, INFRASTRUCTURE AND TASKS"
 breve: "Code 14 — General safety"
-versione: "V1.2"
+versione: "V1.3"
 gruppo: "codici"
 ordine: 14
 id: "codice-14"
 slug: "code-14"
-allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 V1.4; Code 5 V1.4; Code 6 V1.5; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.4; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 15 V1.4; Code 16 V1.4."
 ---
 
 ## Art. 1 — Subject matter, definitions and allocation of competences
@@ -216,8 +216,8 @@ allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 1.  The equipment is limited to instruments for personal protection, for non-injurious neutralisation, for technical rescue and for communication. Firearms, weapons of war and instruments of torture or of injurious coercion are prohibited. The Civic Protection STV shall list exhaustively the instruments permitted and shall be adopted with the mandatory opinion of the Health Council.
 2.  Containment interventions shall be based on de-escalation, interposition and non-injurious immobilisation and shall last for the time strictly necessary to bring to an end a present danger to the physical safety of persons. The use of force beyond what is strictly necessary constitutes a Grade 4 offence.
-3.  The Corps shall not carry out investigations, shall not conduct surveillance and shall not gather information on persons. It shall not enter a Circle 0, unless this is necessary for an immediate rescue in the presence of a danger to life.
-4.  Every restriction of a person’s freedom of movement shall be communicated without delay to the Guarantee Tribunal and shall be subject to the validation within twenty-four hours provided for in Article 34 of Code 4.
+3.  The Corps shall not carry out investigations, shall not conduct surveillance and shall not gather information on persons. It shall not enter a Circle 0, unless this is strictly necessary to provide rescue or to bring to an end a present danger to the life or to the physical or sexual integrity of a person. The entry shall be communicated immediately to the Guarantee Tribunal and shall be subject to the validation within twenty-four hours provided for by Article 34, paragraph 2, of Code 4. Outside these cases the Corps shall enter a Circle 0 only with the reasoned authorisation of the Guarantee Tribunal, in order to carry out a protection measure ordered in accordance with Code 4 or Code 12, where this is strictly necessary for the protection of the inviolable rights of a person.
+4.  Every restriction of a person’s freedom of movement shall be communicated without delay to the Guarantee Tribunal and shall be subject to the validation within twenty-four hours provided for in Article 34 of Code 4. For persons in acute crisis and for health isolation and quarantine, only the validation provided for, respectively, by Article 8, paragraph 7, and by Article 2-bis, paragraph 3-quater, of Code 6 applies. The review of the activation provided for by Article 8-quater, paragraph 2, remains unaffected in every case.
 5.  For persons in acute crisis the non-coercive protocol of Article 8 of Code 6 shall apply. For minors and frail persons Code 12 shall apply.
 6.  In the event of external aggression the Corps shall coordinate the non-violent civil defence provided for in Article 16.4 of the Constitution: interposition, non-cooperation, protection and evacuation of persons. The use of weapons remains prohibited.
 

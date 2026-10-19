@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 1 — ON THE MANDATORY BASE CONTRIBUTION AND THE SYSTEM OF COMMON STOREHOUSES"
 breve: "Code 1 — Base contribution and Common Storehouses"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 1
 id: "codice-01"
 slug: "code-01"
-allineamento: "Constitution V.29; Code 2 V1.5; Code 3 V1.5; Code 4 V1.4; Code 5 V1.4; Code 6 V1.5; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.4; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.30; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
 ---
 
 ## TITLE I — GENERAL PRINCIPLES
@@ -284,7 +284,7 @@ allineamento: "Constitution V.29; Code 2 V1.5; Code 3 V1.5; Code 4 V1.4; Code 5 
 
     c) storage of the commons and prevention of private accumulation and of waste.
 
-3.  Access to the necessary goods included in the Basket shall not be made conditional on the performance of the CBO or on the possession of CdR.
+3.  Access to the necessary goods included in the Basket shall not be made conditional on the performance of the CBO or on the possession of CdR. Paragraph 1, this paragraph, Article 18, paragraph 1, letter a), and the provisions of the Annexes and of the other Codes that exclude making the Basket subject to the CBO concern members and persons received in accordance with the Codes. A person who has ceased to be a member pursuant to Article 7.3-bis of the Constitution and Article 29, paragraph 6-bis, of Code 4 is entitled only to drinking water and life-saving emergency care as provided for by Articles 1.3 and 4.9 of the Constitution. The rights of their minor children remain intact.
 
 ### Art. 14 — Types and territorial organisation
 
@@ -357,7 +357,7 @@ allineamento: "Constitution V.29; Code 2 V1.5; Code 3 V1.5; Code 4 V1.4; Code 5 
 
 1.  The distribution of goods is regulated according to the following categories:
 
-    a) **necessary goods included in the Sufficiency Basket:** open access, free of charge and unconditional, according to actual need. Access shall not be made subject to the CBO or to CdR;
+    a) **necessary goods included in the Sufficiency Basket:** open access, free of charge and unconditional, according to actual need. Access shall not be made subject to the CBO or to CdR, except as provided for by Article 13, paragraph 3, for those who have ceased to be members pursuant to Article 7.3-bis of the Constitution;
 
     b) **non-necessary goods available in limited quantity:** access by booking or transparent waiting list; any use of CdR is governed by Article 45;
 
@@ -708,7 +708,7 @@ f) activities of worship, activities reserved to a part of the members and time 
 3.  Unused CdR retain their value for twelve months from accrual. From the completion of the twelfth month the value is reduced in proportion to time, by one twelfth of the initial value per month, until it is extinguished at the completion of the twenty-fourth month. Accrual coincides with the day on which the activity was performed. For the purposes of use and of the cap, each CdR counts for the value it has at that moment.
 4.  The parameters of paragraphs 2 and 3 are calibrated every year by the General Assembly. The calibration shall not eliminate the cap or the decay.
 5.  On the death of the person or on the cessation of member status, the CdR are extinguished.
-6.  During the suspension provided for by Article 7.3 of the Constitution, CdR may be neither accrued nor used.
+6.  During the suspension provided for by Article 7.3 of the Constitution, ordered pursuant to Article 29, paragraph 4-bis, of Code 4, CdR may be neither accrued nor used.
 
 ### Art. 45 — Use
 

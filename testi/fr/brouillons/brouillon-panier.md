@@ -9,7 +9,7 @@
 - **Des quantités de planification, pas une ration.** Les chiffres indiquent ce que l’Entrepôt doit avoir à disposition pour chaque personne. Le prélèvement reste libre, gratuit et conforme au besoin effectif (Code 1, art. 18, al. 1, let. a).
 - **Personne de référence :** un adulte. Pour les enfants, la grossesse, les personnes âgées et les maladies, les quantités sont adaptées par le Conseil Santé (Code 1, art. 18, al. 3).
 - **Origine :** une source externe, quand il y en a une ; sinon « choix de rédaction », c’est-à-dire un chiffre fixé pour pouvoir faire les comptes, sans donnée qui l’étaie.
-- **Un modèle à adapter.** Le climat, le sol et les bâtiments changent les quantités. Chaque Communauté part d’ici et corrige.
+- **Un modèle à adapter.** Le climat, le sol et les bâtiments changent les quantités. Chaque Communauté part d’ici et corrige. Les dotations « par Noyau » viennent d’une étude qui raisonne sur des ménages de quatre personnes (Millward-Hopkins et al., 2020), alors qu’un Noyau de soin peut en compter jusqu’à quinze (Const. 5.1) : pour les grands Noyaux, elles doivent être adaptées.
 
 Le Panier de suffisance se compose de sept parts que les Codes nomment déjà : alimentaire, eau, énergie, matériel, santé, soin, logistique. S’y ajoutent les droits de l’article 1.2 de la Constitution qu’aucun Panier ne quantifie encore : logement, instruction, connectivité, Nœud-IA personnel.
 
@@ -17,12 +17,12 @@ Le Panier de suffisance se compose de sept parts que les Codes nomment déjà 
 
 Fondement : Code 9, art. 4. Le Panier est garanti sur une base végétale. Les produits animaux récoltés sans dommage ne sont pas programmés dans les besoins (Code 9, art. 6-bis, al. 4, let. d).
 
-Le point de départ est le régime de référence de la Commission EAT-Lancet (2019), calculé pour 2 500 kcal par jour. Ce régime admet que les aliments d’origine animale soient à zéro. Ici, leurs calories sont remplacées par des céréales, des légumineuses et des fruits à coque, sans sortir des intervalles qu’indique la Commission.
+Le point de départ est le régime de référence de la Commission EAT-Lancet (2019), calculé pour 2 500 kcal par jour. Ce régime admet que les aliments d’origine animale soient à zéro. Ici, leurs calories sont remplacées par des céréales, des légumineuses et des fruits à coque, sans sortir des intervalles qu’indique la Commission. En octobre 2025, la Commission a publié un nouveau rapport, qui met à jour le régime : ce tableau, établi sur le rapport de 2019, doit être comparé avec le nouveau.
 
 | Poste | Par personne et par jour | Par personne et par an | Régime de référence | Origine |
 |---|---|---|---|---|
 | Céréales, de préférence complètes (poids sec) | 275 g | 100 kg | 232 g | Adaptation de rédaction |
-| Légumineuses (poids sec) | 100 g | 36,5 kg | 75 g (0–100) | Limite haute de l’intervalle |
+| Légumineuses (poids sec) | 100 g | 36,5 kg | 75 g (0–150) | Dans l’intervalle : légumineuses sèches 50 g (0–100) plus soja 25 g (0–50) |
 | Fruits à coque et graines oléagineuses | 75 g | 27 kg | 50 g (0–75) | Limite haute de l’intervalle |
 | Légumes | 300 g | 110 kg | 300 g (200–600) | EAT-Lancet |
 | Fruits | 200 g | 73 kg | 200 g (100–300) | EAT-Lancet |
@@ -30,13 +30,13 @@ Le point de départ est le régime de référence de la Commission EAT-Lancet (2
 | Huiles végétales insaturées | 40 g | 14,6 kg | 40 g (20–80) | EAT-Lancet |
 | Sucres ajoutés | 31 g au plus | 11 kg au plus | 31 g | EAT-Lancet |
 | Sel iodé | 5 g au plus | 1,8 kg au plus | — | OMS |
-| Vitamine B12 (complément) | 4 microgrammes | — | — | Société allemande de nutrition |
+| Vitamine B12 | besoin de 4 microgrammes ; la dose du complément, plus élevée, est indiquée par un nutritionniste | — | — | Société allemande de nutrition (besoin) |
 
 Le total est d’environ 2 500 kcal par jour. À titre de comparaison : la valeur minimale utilisée dans les situations d’urgence par le HCR et le PAM est de 2 100 kcal ; l’étude de Millward-Hopkins sur la vie décente retient 2 000–2 150 kcal comme moyenne d’une population entière, enfants compris.
 
 **Trois mises en garde.**
 
-1. **La vitamine B12 n’est pas facultative.** Dans un régime sans aliments d’origine animale, elle doit toujours être apportée en complément : la Société allemande de nutrition l’indique comme nécessaire. C’est un bien que la Communauté ne sait pas produire au début : il doit être inscrit au Registre des dépendances du Code 15.
+1. **La vitamine B12 n’est pas facultative.** Dans un régime sans aliments d’origine animale, elle doit toujours être apportée en complément : la Société allemande de nutrition l’indique comme nécessaire. Les 4 microgrammes du tableau sont le besoin journalier, pas la dose du complément : le corps n’absorbe qu’une petite partie de chaque dose, et les doses des compléments sont d’habitude bien plus élevées. C’est un bien que la Communauté ne sait pas produire au début : il doit être inscrit au Registre des dépendances du Code 15.
 2. **Le tableau doit être vérifié par des spécialistes de la nutrition.** En particulier pour les protéines, le fer, le calcium, le zinc, l’iode, les oméga-3 et la vitamine D, et pour les enfants, la grossesse et l’allaitement.
 3. **Les aliments pour le sevrage et pour les personnes fragiles** (Code 9, art. 4, al. 1) ne sont pas quantifiés ici : c’est le Conseil Santé qui les définit.
 
@@ -56,7 +56,7 @@ Fondement : Code 8, art. 4-bis.
 
 | Poste | Par personne et par jour | Par personne et par an | Origine |
 |---|---|---|---|
-| Eau potable pour boire, cuisiner, l’hygiène personnelle et domestique | au moins 50 litres | environ 18 m³ | Code 8, art. 4-bis, al. 3. Pour l’OMS, 50 litres correspondent à un accès intermédiaire, à faible risque pour la santé ; 100 litres à l’accès optimal. |
+| Eau potable pour boire, cuisiner, l’hygiène personnelle et domestique | au moins 50 litres | environ 18 m³ | Code 8, art. 4-bis, al. 3. Pour l’OMS (2020), 50 litres correspondent à un accès intermédiaire, à risque moyen pour la santé ; le risque n’est faible qu’avec l’accès optimal, au-delà de 100 litres. Les 50 litres sont un minimum garanti, pas un objectif. |
 | dont eau chaude | 20 litres | environ 7 m³ | Millward-Hopkins et al. (2020) |
 
 Une Communauté de 150 personnes a besoin d’au moins 7,5 m³ par jour pour les usages des personnes. L’eau des services sanitaires et de soin et l’eau agricole se comptent à part.
@@ -71,7 +71,7 @@ Fondement : Code 8, art. 4. Le Code énumère les services que la part minimal
 | Cuire les aliments | une plaque de cuisson par Noyau | Millward-Hopkins et al. (2020) |
 | Eau chaude sanitaire | 20 litres par personne et par jour | Millward-Hopkins et al. (2020) |
 | Éclairage de base | toutes les pièces habitées, pendant les heures d’obscurité où elles sont utilisées | Choix de rédaction |
-| Recharge des appareils essentiels | téléphone, ordinateur, Nœud-IA, aides techniques de santé | Choix de rédaction |
+| Recharge des appareils essentiels | dispositif personnel de communication, Nœud-IA, aides techniques de santé | Choix de rédaction |
 | Chauffage minimal | au moins 18 °C dans les pièces habitées ; davantage pour les personnes âgées, les enfants et les malades | OMS, lignes directrices sur le logement et la santé (2018) |
 | Rafraîchissement | ce qu’il faut pour protéger la santé pendant les vagues de chaleur | À définir avec le Conseil Santé |
 | Entrepôt Santé et nœud du Réseau | continuité sans interruption | Code 8, art. 4, al. 1, let. g |
@@ -116,9 +116,9 @@ Fondement : Code 6, art. 10. Il comprend les biens vitaux.
 | Poste | Référence proposée | Origine |
 |---|---|---|
 | Médicaments | la Liste modèle des médicaments essentiels de l’OMS, adaptée par le Conseil Santé | OMS, 24e liste |
-| Personnel | 4,45 médecins, infirmiers et sages-femmes pour 1 000 personnes | OMS, stratégie sur les personnels de santé à l’horizon 2030 |
+| Personnel | 4,45 médecins, infirmiers et sages-femmes pour 1 000 personnes | OMS, stratégie sur les personnels de santé à l’horizon 2030 : seuil minimal pour repérer les pays en grave pénurie, pas un standard européen |
 
-**Conséquence.** Avec ce seuil, une Communauté de 150 personnes n’atteint pas un soignant à plein temps. La santé doit être organisée dans le Bassin : trois Communautés de 500 personnes en requièrent six ou sept. C’est cohérent avec l’hôpital de district que la Constitution confie au Cercle 2 (art. 5.1).
+**Conséquence.** Avec ce seuil, une Communauté de 150 personnes n’atteint pas un soignant à plein temps. La santé doit être organisée dans le Bassin : trois Communautés de 500 personnes en requièrent six ou sept. C’est cohérent avec l’hôpital de district que la Constitution confie au Cercle 2 (art. 5.1). Le seuil est un minimum pensé pour les pays les plus pauvres : dans les pays européens, la densité de soignants est bien plus élevée, et la santé du Bassin en demandera davantage.
 
 ## 7. Panier soin
 
@@ -141,15 +141,15 @@ Fondement : Code 11, art. 4.
 
 ## 9. Instruction, connectivité et Nœud-IA
 
-Fondement : Const. 1.2, let. c) et d). Pour l’instruction, le Code 5 fixe les contenus, pas les moyens ; pour la connectivité, aucun Code ne fixe de quantités.
+Fondement : Const. 1.2, let. c) et d) ; Code 5, art. 2, al. 4-bis ; Code 7, art. 3, al. 9. Le Code 5 place dans le Panier le matériel, les outils et les espaces pour l’alphabétisation et pour la formation à la sécurité ; le Code 7 fixe la dotation minimale de connectivité.
 
 | Poste | Niveau proposé | Origine |
 |---|---|---|
 | Alphabétisation | garantie avant onze ans : lecture et écriture, mathématiques de base et les autres compétences de l’article 29.4 de la Constitution | Code 5, art. 6, al. 8 |
 | Figures de référence | trois pour chaque mineur, en rotation trimestrielle | Code 5, art. 6, al. 7 |
 | Nœud-IA personnel | un par personne | Const. 1.2, let. d) |
-| Téléphone | un par personne de plus de dix ans | Millward-Hopkins et al. (2020) |
-| Ordinateur | un par Noyau | Millward-Hopkins et al. (2020) |
+| Dispositif personnel de communication | un pour chaque personne qui le demande à partir de douze ans, distinct du Nœud-IA ; avant cet âge, avec la participation des figures de référence | Code 7, art. 3, al. 9, let. b) ; Millward-Hopkins et al. (2020) comptent un téléphone par personne de plus de dix ans |
+| Accès au Réseau | un point d’accès dans chaque logement qui le demande ; dans chaque Cercle 1, un point d’accès assisté doté de dispositifs partagés. Pas d’ordinateur par Noyau : chaque personne a déjà un Nœud-IA | Code 7, art. 3, al. 9, let. a) et c) |
 | Espaces pour l’école | 10 m² par élève | Millward-Hopkins et al. (2020) |
 | Accès sans outils numériques | toujours garanti à qui choisit la déconnexion | Code 7, art. 5-bis, al. 8 |
 
@@ -189,16 +189,17 @@ L’Annexe est réexaminée chaque année. Quiconque a une donnée, une expérie
 
 ## Sources
 
-Pages consultées le 5 octobre 2026.
+Pages consultées le 5 octobre 2026 ; sources originales ajoutées le 19 octobre 2026.
 
-- [Commission EAT-Lancet, régime de référence (2019), dans la synthèse de Wikipédia](https://en.wikipedia.org/wiki/Planetary_health_diet)
+- [Willett et al., Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems, The Lancet (2019)](https://doi.org/10.1016/S0140-6736%2818%2931788-4)
+- [Rockström et al., The EAT–Lancet Commission on healthy, sustainable, and just food systems, The Lancet (octobre 2025)](https://doi.org/10.1016/S0140-6736%2825%2901201-2)
 - [OMS, fiche sur l’alimentation saine](https://www.who.int/news-room/fact-sheets/detail/healthy-diet)
-- [Société allemande de nutrition, vitamine B12 et régime végan (2019), dans le compte rendu de NutraIngredients](https://www.nutraingredients.com/Article/2019/02/20/German-Nutrition-Society-advises-vegans-to-supplement-diet-with-vitamin-B12/)
+- [Société allemande de nutrition, valeurs de référence D-A-CH pour la vitamine B12 : Ströhle et al., Molecular Nutrition & Food Research (2019)](https://doi.org/10.1002/mnfr.201801178)
 - [HCR et PAM, besoins énergétiques de référence dans les situations d’urgence (1997)](https://www.unhcr.org/uk/sites/uk/files/legacy-pdf/3b9cbef7a.pdf)
-- [Peters et al., Carrying capacity of U.S. agricultural land: Ten diet scenarios, Elementa (2016), dans le compte rendu d’Ensia](https://ensia.com/notable/which-diet-makes-best-use-of-farmland-you-might-be-surprised/)
+- [Peters et al., Carrying capacity of U.S. agricultural land: Ten diet scenarios, Elementa (2016)](https://doi.org/10.12952/journal.elementa.000116)
 - [OMS, Domestic water quantity, service level and health, deuxième édition (2020)](https://www.who.int/publications/i/item/9789240015241)
 - [Millward-Hopkins et al., Providing decent living with minimum energy, Global Environmental Change (2020)](https://www.sciencedirect.com/science/article/pii/S0959378020307512)
 - [OMS, Housing and health guidelines (2018), recommandations sur les basses températures intérieures](https://www.ncbi.nlm.nih.gov/books/NBK535294/)
-- [Sphère, normes humanitaires minimales pour l’eau et l’abri](https://www.spherestandards.org/wp-content/uploads/Sphere-in-Practice.pdf)
+- [Sphère, Manuel Sphère (2018), normes humanitaires minimales pour l’eau et l’abri](https://spherestandards.org/wp-content/uploads/Sphere-Handbook-2018-EN.pdf)
 - [OMS, Listes modèles des médicaments essentiels](https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines/essential-medicines-lists)
-- [OMS, seuil de 4,45 soignants pour 1 000 personnes, dans le compte rendu de Frontline Health Workers Coalition](https://www.frontlinehealthworkers.org/blog/health-workers-unattended-resource)
+- [OMS, Global strategy on human resources for health: Workforce 2030 (2016), seuil de 4,45 soignants pour 1 000 personnes](https://www.who.int/publications/i/item/9789241511131)

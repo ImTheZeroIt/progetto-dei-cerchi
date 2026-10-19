@@ -2,7 +2,7 @@
 
 **Bozza di calibrazione 0.1, non adottata.** Il Codice 3 (art. 9) affida a un Allegato Tecnico il metodo per calcolare il costo di riproduzione di beni e servizi, misurato in Unità di Costo di Riproduzione (UCR). Quell'allegato non è mai stato scritto. Questa pagina ne propone una prima versione e la usa subito per la domanda da cui dipende tutto il sistema: quindici ore a settimana bastano?
 
-**La risposta, in breve.** Contato sul bisogno, il Paniere costa tra 7 e 10 ore a settimana di lavoro interno. I manufatti che servono, contati anch'essi sul bisogno (beni che durano, si riparano e si condividono), aggiungono da 1,4 a 2,7 ore. In tutto tra 9 e 13 ore: sotto il limite, con un margine di 2–6 ore. È un primo conto, pieno di ipotesi dichiarate. Lo studio indipendente più completo misura invece il modo di produrre di oggi e arriva, per un minimo realistico, a circa 27 ore. La differenza tra 13 e 27 è ciò che il progetto promette di eliminare: non è dimostrata, e solo una sperimentazione può confermarla.
+**La risposta, in breve.** Contato sul bisogno, il Paniere costa tra 7 e 10 ore a settimana di lavoro interno. I manufatti che servono, contati anch'essi sul bisogno (beni che durano, si riparano e si condividono), aggiungono da 1,4 a 2,7 ore. In tutto tra 9 e 13 ore: sotto il limite, con un margine di 2–6 ore. È un primo conto, pieno di ipotesi dichiarate. Lo studio indipendente più completo misura invece il modo di produrre di oggi: aggiungendo allo scenario minimo le voci che vi mancano, una stima degli autori porta a circa 27 ore. La differenza tra 13 e 27 è ciò che il progetto promette di eliminare: non è dimostrata, e solo una sperimentazione può confermarla.
 
 ## 1. Che cos'è la UCR
 
@@ -30,7 +30,7 @@ Il Codice elenca sette punti che l'Allegato deve disciplinare (art. 9, c. 4). La
 2. **Coefficiente del paese di produzione.** Se non sono note, il prezzo si moltiplica per le ore di lavoro per euro del paese in cui il bene è prodotto. Se è prodotto in più paesi, ogni parte del prezzo ha il suo coefficiente.
 3. **Media europea.** Se non si sa dove è prodotto, si usa il coefficiente dell'economia in cui la Comunità si trova, e il valore è certificato come «ipotizzato».
 
-Il coefficiente è il rapporto tra le ore lavorate e il prodotto di un'economia. Nell'Unione europea, nel 2024: 353,7 miliardi di ore per 18.043 miliardi di euro, cioè **0,0196 ore per euro**: 51 euro di prodotto contengono in media un'ora di lavoro. Per gli altri paesi la bozza lo ricava dal prodotto per abitante, ipotizzando le stesse ore lavorate per abitante dell'Unione europea.
+Il coefficiente è il rapporto tra le ore lavorate e il prodotto di un'economia. Nell'Unione europea, nel 2024: 353,7 miliardi di ore per 18.043 miliardi di euro, cioè **0,0196 ore per euro**: 51 euro di prodotto contengono in media un'ora di lavoro. Per gli altri paesi la bozza lo ricava dal prodotto per abitante, ipotizzando le stesse ore lavorate per abitante dell'Unione europea. Il coefficiente usa la produttività media del paese, mentre i beni esportati vengono di solito da settori più produttivi: le ore dei beni importati sono quindi probabilmente sovrastimate.
 
 | Paese di produzione | Ore per euro | Un'ora di lavoro ogni |
 |---|---|---|
@@ -92,10 +92,10 @@ Due scenari. Lo scenario A usa standard minimi. Lo scenario B dà a quattro voci
 
 | Categoria | A: essenziale | B: quattro servizi a livello europeo | Come è calcolata |
 |---|---|---|---|
-| Alimentazione | 10.960 | 10.960 | Campo 4.600 ore su 24 ettari; trasformazione 1.800 (ipotesi: mulino, forno per metà dei cereali, frantoio, conserve); un pasto collettivo al giorno per persona, 4.560 |
+| Alimentazione | 10.930 | 10.930 | Campo 4.570 ore su 24 ettari; trasformazione 1.800 (ipotesi: mulino, forno per metà dei cereali, frantoio, conserve); un pasto collettivo al giorno per persona, 4.560 |
 | Energia e acqua | 3.350 | 3.350 | Il doppio delle ore medie europee del settore, per la piccola scala (ipotesi) |
 | Cura: sanità | 1.080 | 6.850 | A: soglia OMS di 4,45 operatori ogni 1.000 persone. B: ore del settore sanitario nell'UE |
-| Cura: anziani e non autosufficienti | 2.610 | 4.510 | A: 5 addetti ogni 100 persone sopra i 65 anni (media OCSE). B: ore dell'assistenza sociale nell'UE, nido compreso |
+| Cura: anziani e non autosufficienti | 2.610 | 4.510 | A: 5 addetti ogni 100 persone sopra i 65 anni (media OCSE: conta persone, non ore, e comprende paesi dove gran parte della cura resta alle famiglie). B: ore dell'assistenza sociale nell'UE, nido compreso |
 | Cura: nido | 1.920 | compreso sopra | 40 ore a settimana per 48 settimane, un adulto ogni cinque bambini (ipotesi) |
 | Apprendimento | 3.020 | 6.780 | A: un adulto ogni 12,2 minori (media UE). B: ore di tutta l'istruzione nell'UE, università comprese |
 | Manutenzione e costruzioni | 4.430 | 8.850 | A: metà delle ore delle costruzioni nell'UE (ipotesi). B: tutte, nuove costruzioni comprese |
@@ -106,7 +106,7 @@ Due scenari. Lo scenario A usa standard minimi. Lo scenario B dà a quattro voci
 | Quota delle ore disponibili | 48% | 69% | |
 | Ore a settimana per contributore | **7,2** | **10,4** | |
 
-**Il campo, voce per voce.** Quantità della bozza del Paniere più il 15% per perdite e semente; rese italiane del 2024 ridotte di un quinto per la coltivazione senza chimica di sintesi; ore per ettaro dalle tabelle regionali italiane.
+**Il campo, voce per voce.** Quantità della bozza del Paniere più il 15% per perdite e semente; rese italiane del 2024 ridotte di un quinto per la coltivazione senza chimica di sintesi; ore per ettaro dalle tabelle regionali italiane, senza le ore in più che di solito richiede la coltivazione biologica (non applicate). Per gli ortaggi il conto usa 700 ore per ettaro, un valore prudente al limite alto delle tabelle; per il girasole 24, come la tabella del Lazio. La resa delle nocciole è quella del 2024, un anno di crisi per il raccolto italiano.
 
 | Coltura | Ettari | Ore all'anno |
 |---|---|---|
@@ -116,12 +116,12 @@ Due scenari. Lo scenario A usa standard minimi. Lo scenario B dà a quattro voci
 | Ortaggi | 0,7 | 510 |
 | Frutta | 1,0 | 540 |
 | Patate | 0,1 | 40 |
-| Olio (girasole) | 3,0 | 110 |
-| **Totale** | **24** | **4.600** |
+| Olio (girasole) | 3,0 | 70 |
+| **Totale** | **24** | **4.570** |
 
 I 24 ettari sono vicini ai 20 stimati nella bozza del Paniere con un altro metodo. La frutta secca da sola occupa più di un terzo della terra e più di metà delle ore di campo: 75 grammi al giorno sono una quantità costosa.
 
-Un controllo: per le stesse 150 persone l'Unione europea impiega oggi circa 14.100 ore tra agricoltura, industria alimentare e ristorazione. Le 10.960 ore del conto sono dello stesso ordine.
+Un controllo: per le stesse 150 persone l'Unione europea impiega oggi circa 14.100 ore tra agricoltura, industria alimentare e ristorazione. Le 10.930 ore del conto sono dello stesso ordine.
 
 ### 4.3 I manufatti, contati sul bisogno
 
@@ -138,7 +138,7 @@ Macchine, attrezzi, pannelli, materiali da costruzione, farmaci, tessuti, elettr
 | Apprendimento | Materiali e strumenti | 50 | 150 |
 | **Totale** | | **2.291** | **6.740** |
 
-Sono 1,4 ore a settimana per contributore. L'inventario è convertito con la media europea. Con la regola del paragrafo 2 un bene fatto per metà in Cina contiene circa il doppio delle ore: raddoppiando tutto l'inventario si arriva a 2,7 ore.
+Sono 1,4 ore a settimana per contributore. L'inventario è convertito con la media europea. Con la regola del paragrafo 2 un bene fatto per metà in Cina contiene circa il doppio delle ore: raddoppiando tutto l'inventario si arriva a 2,7 ore. Il fattore 2 è un'ipotesi del progetto, senza una fonte.
 
 **Quanto vale questo inventario.** Prezzi e durate sono ipotesi di redazione, elencate una per una nel programma: vanno sostituite con preventivi veri. Il risultato però non dipende da un prezzo sbagliato: anche triplicando l'intero inventario il conto completo resta sotto le quindici ore. Per confronto, la manifattura europea di oggi impiega per 150 persone circa 14.200 ore, industria alimentare esclusa: l'inventario sul bisogno ne chiede meno della metà.
 
@@ -157,7 +157,7 @@ In una Comunità che vive dentro un'economia esterna i manufatti sono pagati dal
 
 ### 4.5 Che cosa il conto non comprende
 
-1. **Il lavoro di casa nei Nuclei.** Oggi in Europa ogni persona dedica in media circa tre ore al giorno a casa e famiglia, di cui 30–50 minuti alla preparazione dei pasti. Il conto porta nel CBO solo un pasto collettivo al giorno, il nido, la lavanderia e la pulizia degli spazi comuni: 1,7 ore a settimana per contributore. Tutto il resto resta nei Nuclei e non è contato.
+1. **Il lavoro di casa nei Nuclei.** Secondo l'indagine europea sull'uso del tempo (dati raccolti tra il 2008 e il 2015), ogni persona dedica in media tra tre e quattro ore al giorno a casa e famiglia; i 30–50 minuti per la preparazione dei pasti sono una stima del progetto, non di quella fonte. Il conto porta nel CBO solo un pasto collettivo al giorno, il nido, la lavanderia e la pulizia degli spazi comuni: 1,7 ore a settimana per contributore. Tutto il resto resta nei Nuclei e non è contato.
 2. **Alcune voci non stimate:** riparazione degli attrezzi, formazione obbligatoria, tutela civica, tempo di trasmissione delle competenze.
 3. **L'avvio.** Costruire la Comunità costa più che mantenerla.
 4. **Ciò che il progetto elimina.** Commercio, pubblicità, finanza, assicurazioni: nel conto non ci sono, perché nel sistema dei Cerchi non esistono. È una scelta del progetto, non un dato.
@@ -167,17 +167,17 @@ In una Comunità che vive dentro un'economia esterna i manufatti sono pagati dal
 | Confronto | Dato | Che cosa dice |
 |---|---|---|
 | L'economia europea di oggi | 787 ore di lavoro pagato per abitante all'anno | Il limite di quindici ore mette a disposizione 493 ore per abitante: il 63% del lavoro pagato che l'Europa usa oggi. |
-| Uno studio indipendente (McElroy e O'Neill, 2025, sul Regno Unito) | Per i soli beni indispensabili: 17,5 ore a settimana. Aggiungendo ciò che gli autori ritengono necessario perché lo scenario sia realistico (governo, sicurezza, università, cura dei bambini, assicurazioni, manutenzione del capitale): 36,7. Per una «buona vita» ai livelli minimi chiesti dai residenti: 45,5. Consumi britannici di oggi: 64,7 | Riportate alla base di questo conto sono 12,7, 26,6, 32,9 e 46,9 ore di CBO a settimana: la conversione è nostra. Lo studio conta tutti i settori e il lavoro contenuto nelle importazioni, con il modo di produrre di oggi; non conta il lavoro di cura non pagato. |
-| Comunità reali a reddito condiviso (Stati Uniti) | Twin Oaks, circa 100 adulti: tra 36 e 45 ore a settimana secondo la fonte. East Wind, 75 persone: 35 ore. Acorn: 42 ore | Le quote sono per membro adulto e comprendono cucina, pulizie, cura dei bambini e il lavoro per il mercato che finanzia gli acquisti. Sono comunità piccole, poco meccanizzate e con pochi anziani: il confronto è indicativo. |
+| Uno studio indipendente (McElroy e O'Neill, 2025, sul Regno Unito) | Per i soli beni indispensabili: 17,5 ore a settimana. Aggiungendo le voci che secondo gli autori mancano a quello scenario (governo, sicurezza, università, cura dei bambini, assicurazioni, manutenzione del capitale): 36,7, una stima fatta in una frase della discussione, non uno scenario calcolato. Per una «buona vita» ai livelli minimi chiesti dai residenti: 45,5. Consumi britannici di oggi: 64,7 | Riportate alla base di questo conto sono 12,7, 26,6, 32,9 e 46,9 ore di CBO a settimana: la conversione è nostra. Con la base di calcolo dello studio (popolazione tra 15 e 64 anni, 46,6 settimane l'anno) le circa 13 ore di questo conto sarebbero circa 18. Lo studio conta tutti i settori e il lavoro contenuto nelle importazioni, con il modo di produrre di oggi; non conta il lavoro di cura non pagato. |
+| Comunità reali a reddito condiviso (Stati Uniti) | Twin Oaks, circa 100 adulti: tra 36 e 44 ore a settimana secondo la fonte (dato debole: Wikipedia cita un video, l'elenco delle comunità dà 40 e 42). East Wind, oggi tra 35 e 45 membri: 35 ore. Acorn: 42 ore | Le quote sono per membro adulto e comprendono cucina, pulizie, cura dei bambini e il lavoro per il mercato che finanzia gli acquisti: per confrontarle con il CBO bisogna sommarvi il lavoro di casa che resta nei Nuclei. Sono comunità piccole, poco meccanizzate e con pochi anziani: il confronto è indicativo. |
 
-**Da dove viene la differenza tra 13 e 27 ore.** Il conto di questa bozza e lo studio misurano due cose diverse. Lo studio misura il mondo com'è: nel suo scenario minimo il 29% delle ore è lavoro agricolo, in gran parte svolto dove un'ora di lavoro produce poco, e il 40–45% è servizi; le voci aggiunte per renderlo realistico pesano più di tutto il resto. Questo conto misura il sistema come il progetto lo disegna: agricoltura con rese e attrezzature europee, amministrazione limitata a un decimo delle ore, nessun commercio, nessuna finanza, nessuna assicurazione, beni che durano e si condividono. La differenza è quindi la scommessa del progetto, messa in numeri. Gli autori dello studio arrivano a una conclusione vicina: ridurre i consumi non basta, bisogna cambiare il modo di produrre.
+**Da dove viene la differenza tra 13 e 27 ore.** Il conto di questa bozza e lo studio misurano due cose diverse. Lo studio misura il mondo com'è: nel suo scenario minimo il 29% delle ore è lavoro agricolo (secondo un'ipotesi del progetto, che lo studio non verifica, in gran parte svolto dove un'ora di lavoro produce poco) e il 40–45% è servizi; le voci che gli autori aggiungono nella discussione pesano più di tutto il resto. Questo conto misura il sistema come il progetto lo disegna: agricoltura con rese e attrezzature europee, amministrazione limitata a un decimo delle ore, nessun commercio, nessuna finanza, nessuna assicurazione, beni che durano e si condividono. La differenza è quindi la scommessa del progetto, messa in numeri. Gli autori dello studio arrivano a una conclusione vicina: nessuno dei loro scenari è realistico, ridurre i consumi non basta, bisogna cambiare il modo di produrre.
 
 ### 4.7 Che cosa se ne ricava
 
 1. **Contato sul bisogno, il conto torna.** Tra 9 e 13 ore a settimana, tutto compreso, contro un limite di 15.
 2. **Il margine è di 2–6 ore, e l'incertezza è dello stesso ordine.** Molte voci sono ipotesi. Il conto regge anche triplicando i manufatti, ma non è una misura.
 3. **Il risultato vale per il sistema come è disegnato, non per il modo di produrre di oggi.** Con quello, la stima indipendente dà circa 27 ore. Le quindici ore dipendono da ciò che il progetto cambia: niente sprechi, niente intermediazione, beni durevoli, amministrazione leggera. Sono le cose da verificare per prime.
-4. **Tutto dipende da dove passa il confine tra CBO e Nucleo.** Se tutto il lavoro di casa di oggi entrasse nel CBO, da solo varrebbe 33 ore a settimana per contributore. I testi lasciano a ogni Comunità la scelta di che cosa rendere collettivo: è la decisione che pesa di più sul limite.
+4. **Tutto dipende da dove passa il confine tra CBO e Nucleo.** Se tutto il lavoro di casa di oggi entrasse nel CBO, da solo varrebbe circa 33 ore a settimana per contributore: un ordine di grandezza, calcolato con tre ore al giorno per tutte le 150 persone. I testi lasciano a ogni Comunità la scelta di che cosa rendere collettivo: è la decisione che pesa di più sul limite.
 5. **Sanità e istruzione non si reggono a 150 persone.** Lo scenario A chiede 0,7 operatori sanitari e 1,9 insegnanti a tempo pieno di oggi: numeri troppo piccoli per garantire un servizio. Vanno condivisi nel Bacino, come la Costituzione prevede per l'ospedale (art. 5.1).
 6. **Il limite è di ciascuno, non della somma.** Le ore specialistiche si dividono tra chi è abilitato (Cod. 1, art. 6, c. 3). A 780 ore l'anno a testa, la sanità a livello europeo chiede 9 persone abilitate su 95; quella minima, tra una e due. E il lavoro agricolo è stagionale: la raccolta della frutta secca si concentra in poche settimane, mentre il picco ammesso è di 25 ore per due settimane (Cod. 1, art. 6, c. 5).
 
@@ -190,8 +190,8 @@ Il Codice 1 prevede già che cosa accade se le ore non bastano: si riducono le a
 | Tre pasti collettivi al giorno invece di uno | +10.140 ore: lo scenario A passa da 7,2 a 9,3 ore a settimana di lavoro interno |
 | Nessun pasto collettivo | −5.070 ore: 6,2 ore a settimana |
 | Frutta secca dimezzata | circa −1.500 ore: 6,9 ore a settimana |
-| Cereali, legumi e girasole coltivati con 8 ore per ettaro, come nell'agricoltura meccanizzata tedesca | −640 ore: quasi tutto il lavoro di campo è in frutta secca, ortaggi e frutta |
-| Energia e acqua alla media europea, senza raddoppio | −1.860 ore: 6,9 ore a settimana |
+| Cereali, legumi e girasole coltivati con 8 ore per ettaro, come nell'agricoltura meccanizzata tedesca | −600 ore: quasi tutto il lavoro di campo è in frutta secca, ortaggi e frutta |
+| Energia e acqua alla media europea, senza raddoppio | −1.860 ore: 6,8 ore a settimana |
 | Inventario dei manufatti triplicato | conto completo: 11,3 ore nello scenario A, 14,5 nello scenario B |
 | 48 settimane di lavoro all'anno invece di 52 | le ore disponibili scendono dell'8% |
 
@@ -211,7 +211,7 @@ Il risparmio non va a chi possiede la macchina, perché nessuno la possiede: il 
 
 | Ambito | Ore all'anno nello scenario A | Che cosa possono fare le macchine | Che cosa resta alle persone |
 |---|---|---|---|
-| Campi | 4.600 | Lavorazione del suolo, semina, irrigazione, diserbo meccanico. Cereali, legumi e girasole sono già quasi del tutto meccanizzati. | La parte più grande del lavoro di oggi: raccolta e cure di frutta secca, ortaggi e frutta. È qui che i robot cambierebbero di più il conto. |
+| Campi | 4.570 | Lavorazione del suolo, semina, irrigazione, diserbo meccanico. Cereali, legumi e girasole sono già quasi del tutto meccanizzati. | La parte più grande del lavoro di oggi: raccolta e cure di frutta secca, ortaggi e frutta. È qui che i robot cambierebbero di più il conto. |
 | Trasformazione del cibo | 1.800 | Mulino, frantoio, impasto, lavaggio, confezionamento | Controllo, ricette, pulizia degli impianti |
 | Miniere, scavi e materie prime | fuori dal conto interno: sta nei manufatti | Scavo, trasporto e frantumazione in ambienti pericolosi. È il primo posto da cui togliere le persone (Cod. 7, art. 2, c. 6). | Progetto, sorveglianza, manutenzione, bonifica. Prima dell'estrazione vengono riuso e riciclo: oggi nessun testo ammette nuove estrazioni (Cost. 14.2). |
 | Costruzioni e manutenzione | 4.430 | Scavi, movimentazione dei carichi, prefabbricazione, ispezioni in quota | Progetto, finiture, riparazioni su misura |
@@ -221,7 +221,7 @@ Il risparmio non va a chi possiede la macchina, perché nessuno la possiede: il 
 | Cucina collettiva | 4.560 | Attrezzature migliori | Cucinare e servire, nell'ipotesi prudente di questo conto |
 | Cura, sanità, apprendimento, giustizia | 8.600 | Solo strumenti azionati da una persona: sollevatori, ausili, diagnostica | Tutto il resto. Il Codice vieta di automatizzare la cura, la mediazione, la validazione delle competenze e le decisioni di garanzia (Cod. 7, art. 6, c. 2). |
 
-**Le materie prime.** Una Comunità di 150 persone non scava miniere: metalli e minerali arrivano da fuori, dentro i manufatti. La Costituzione vieta ogni attività che provochi un danno irreversibile al suolo e alle acque (art. 14.2): letta alla lettera, vieta ogni nuova miniera. Due proposte aperte ([6 e 7](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html)) qualificano il sottosuolo come bene comune e chiedono a ogni Comunità un inventario di ciò che si può recuperare da edifici, veicoli e discariche. Se e quando ammettere l'estrazione resta una questione aperta.
+**Le materie prime.** Una Comunità di 150 persone non scava miniere: metalli e minerali arrivano da fuori, dentro i manufatti. La Costituzione vieta ogni attività che provochi un danno irreversibile al suolo e alle acque (art. 14.2): letta alla lettera, vieta ogni nuova miniera. Due modifiche accolte il 19 ottobre 2026 ([proposte 6 e 7](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html)) hanno qualificato il sottosuolo come bene comune e chiesto a ogni Comunità un inventario di ciò che si può recuperare da edifici, veicoli e discariche. Se e quando ammettere l'estrazione resta una questione aperta.
 
 ### 5.3 Quanto può cambiare il conto
 
@@ -255,10 +255,10 @@ Chi ha un dato migliore può cambiare l'ipotesi nel programma, rifare il conto e
 
 Pagine consultate il 5 ottobre 2026.
 
-- [Eurostat, struttura della popolazione per età, UE 2024](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Population_structure_and_ageing)
-- [Eurostat, ore lavorate e occupati per attività economica, UE 2024 (nama_10_a10_e)](https://ec.europa.eu/eurostat/databrowser/view/nama_10_a10_e/default/table)
+- [Eurostat, struttura della popolazione per età, UE 2024](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Population_structure_and_ageing); [tabelle per età (demo_pjanind)](https://ec.europa.eu/eurostat/databrowser/view/demo_pjanind/default/table) e [per anno di età (demo_pjan)](https://ec.europa.eu/eurostat/databrowser/view/demo_pjan/default/table)
+- [Eurostat, ore lavorate e occupati per attività economica, UE 2024 (nama_10_a10_e)](https://ec.europa.eu/eurostat/databrowser/view/nama_10_a10_e/default/table); [dettaglio in 64 settori (nama_10_a64_e)](https://ec.europa.eu/eurostat/databrowser/view/nama_10_a64_e/default/table)
 - [Eurostat, prodotto interno lordo, UE 2024 (nama_10_gdp)](https://ec.europa.eu/eurostat/databrowser/view/nama_10_gdp/default/table)
-- [Eurostat, uso del tempo: cura della casa e della famiglia](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=How_do_women_and_men_use_their_time_-_statistics)
+- [Eurostat, uso del tempo: cura della casa e della famiglia (dati 2008–2015)](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=How_do_women_and_men_use_their_time_-_statistics)
 - [Eurostat, alunni per insegnante nell'UE](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/edn-20251002-1)
 - [Regione Lazio, tabella dei fabbisogni di lavoro per ettaro e coltura (2008)](https://www.arsial.it/app/uploads/page/3-DGR_506_del_11_07_08.ETTARO-COLTURA.pdf)
 - [Regione Sardegna, fabbisogni di lavoro per ettaro (2019)](https://old.regione.sardegna.it/documenti/1_38_20190122142552.pdf)
@@ -271,9 +271,9 @@ Pagine consultate il 5 ottobre 2026.
 - [Ponisio e altri, divario di resa dell'agricoltura biologica, Proceedings of the Royal Society B (2015)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4286047)
 - [Botta e Valentini, resa in sgusciato delle nocciole (2017)](https://nocciolare.it/wp-content/uploads/2017/03/Presentazione-Botta-Valentini-Convegno-Agrion-marzo-2017.pdf)
 - [FAO, resa in olio dei semi di girasole](https://www.fao.org/3/a-al375e.pdf)
-- [School Nutrition Association, pasti per ora di lavoro nelle cucine collettive (2009)](https://schoolnutrition.org/journal/spring-2009-labor-productivity-standards-in-texas-school-foodservice-operations/)
+- [School Nutrition Association, pasti per ora di lavoro nelle cucine collettive: 10–18, e 16–20 nelle mense scolastiche (2009)](https://schoolnutrition.org/journal/spring-2009-labor-productivity-standards-in-texas-school-foodservice-operations/)
 - [OCSE, Health at a Glance 2021: addetti all'assistenza di lunga durata](https://oecd-ilibrary.org/social-issues-migration-health/health-at-a-glance-2021_c8078fff-en)
 - [OMS, soglia di 4,45 operatori sanitari ogni 1.000 persone (documento di lavoro, 2016)](https://www.intrahealth.org/sites/default/files/attachment-files/healthworkforcereq.pdf)
-- [TRSA, produttività delle lavanderie (2023)](https://www.trsa.org/magazine-article/a-case-study-on-identifying-kpis-benchmarking/)
-- [McElroy e O'Neill, The labour and resource use requirements of a good life for all (2025)](https://arxiv.org/abs/2411.06337)
-- [Twin Oaks, quota di lavoro (Wikipedia)](https://en.wikipedia.org/wiki/Twin_Oaks_Community,_Virginia); [scheda nell'elenco delle comunità intenzionali](https://www.ic.org/directory/twin-oaks/); [East Wind](https://www.eastwind.org/our-work); [Acorn](https://www.ic.org/directory/acorn-community-farm/)
+- [TRSA, produttività delle lavanderie (2023)](https://www.trsa.org/magazine-article/a-case-study-on-identifying-kpis-benchmarking/); [FMLink, Benchmarking laundry (2019): da 42 a 57 libbre, cioè 19–26 kg, per ora](https://www.fmlink.com/benchmarking-laundry/)
+- [McElroy e O'Neill, The labour and resource use requirements of a good life for all, Global Environmental Change 92, 103008 (2025)](https://doi.org/10.1016/j.gloenvcha.2025.103008); [versione preliminare](https://arxiv.org/abs/2411.06337)
+- [Twin Oaks, quota di lavoro (Wikipedia)](https://en.wikipedia.org/wiki/Twin_Oaks_Community,_Virginia); [scheda nell'elenco delle comunità intenzionali](https://www.ic.org/directory/twin-oaks/); [East Wind](https://www.eastwind.org/our-work), [membri](https://www.eastwind.org/life-at-eastwind); [Acorn](https://www.ic.org/directory/acorn-community-farm/)

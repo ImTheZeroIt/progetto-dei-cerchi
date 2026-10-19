@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 4 — DE LA JUSTICE RÉPARATRICE ET DE LA GARANTIE"
 breve: "Code 4 — Justice réparatrice et garantie"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "codici"
 ordine: 4
 id: "codice-04"
 slug: "code-04"
-allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 5 V1.4 ; Code 6 V1.5 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.4 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
 ---
 
 ## CHAPITRE I — DISPOSITIONS GÉNÉRALES, PRINCIPES ET DÉFINITIONS
@@ -371,7 +371,7 @@ La suspension est motivée, communiquée aux parties et soumise à un réexamen 
 
     c) l’exclusion définitive ou de catégorie par principe relève de l’Assemblée générale.
 
-6.  La déchéance d’une personne du statut de membre n’est admise que dans les cas prévus à l’article 1.3-bis de la Constitution et conformément au Chapitre V. Aucune mesure du présent article ne peut priver un membre des droits visés à l’article 1.2 de la Constitution.
+6.  La déchéance d’une personne du statut de membre n’est admise que dans les cas prévus à l’article 1.3-bis de la Constitution et conformément au Chapitre V. La cessation du statut pour refus persistant de la CBO, prévue par l’article 7.3-bis de la Constitution, est régie uniquement par l’article 29, alinéa 6-bis. Aucune mesure du présent article ne peut priver un membre des droits visés à l’article 1.2 de la Constitution.
 
 ### Art. 14 — Registre réparateur
 
@@ -547,7 +547,7 @@ Le Collège ne peut pas ordonner une exclusion définitive ou de catégorie, ré
 
 ### Art. 25 — Principes et garanties communs
 
-1.  Le présent Chapitre met en œuvre les articles 1.3-bis, 18.7, 30 et 31 de la Constitution. La procédure réparatrice des Chapitres II, III et IV demeure la voie ordinaire et prioritaire. Les organes du présent Chapitre interviennent lorsqu’elle n’est pas acceptée, n’aboutit pas à un accord ou n’est pas adaptée à la gravité du fait.
+1.  Le présent Chapitre met en œuvre les articles 1.3-bis, 7.3, 7.3-bis, 18.7, 30 et 31 de la Constitution. La procédure réparatrice des Chapitres II, III et IV demeure la voie ordinaire et prioritaire. Les organes du présent Chapitre interviennent lorsqu’elle n’est pas acceptée, n’aboutit pas à un accord ou n’est pas adaptée à la gravité du fait.
 
 2.  Nul ne peut faire l’objet d’une mesure pour un fait qui, au moment où il a été commis, n’était pas prévu comme infraction par la Constitution ou par les Codes. Les qualifications ne peuvent pas être étendues par analogie.
 
@@ -567,13 +567,13 @@ Le Collège ne peut pas ordonner une exclusion définitive ou de catégorie, ré
 
 5.  La personne lésée a droit à une protection immédiate, à l’écoute, à une personne de confiance, à l’information sur le déroulement de la procédure et à la réparation. Aucune rencontre avec la personne à laquelle le fait est attribué ne peut lui être imposée.
 
-6.  Aucune mesure ne peut avoir de finalité afflictive. Parmi les mesures appropriées, la moins restrictive est choisie. Aucune mesure ne peut supprimer les garanties vitales de l’article 30.4 de la Constitution.
+6.  Aucune mesure ne peut avoir de finalité afflictive. Parmi les mesures appropriées, la moins restrictive est choisie. Aucune mesure ne peut supprimer les garanties vitales de l’article 30.4 de la Constitution. Après la cessation du statut prévue par l’article 29, alinéa 6-bis, restent garantis à la personne les droits de la dernière phrase de l’article 1.3 et de l’article 4.9 de la Constitution ainsi que la parcelle attribuée en application de son article 7.3-bis.
 
 7.  Chaque organe peut être assisté par une IA de médiation exclusivement consultative. Aucune appréciation de responsabilité ou de dangerosité ne peut être formulée ou prévue par une IA.
 
 8.  Nul ne peut être jugé deux fois pour le même fait. L’article 23 s’applique.
 
-9.  Aux faits commis par des personnes âgées de moins de dix-huit ans s’appliquent exclusivement des mesures réparatrices, éducatives et de protection, définies avec le Conseil Soin et avec le Conseil des Compétences. Les articles 31, 32 et 33 ne s’appliquent pas.
+9.  Aux faits commis par des personnes âgées de moins de dix-huit ans s’appliquent exclusivement des mesures réparatrices, éducatives et de protection, définies avec le Conseil Soin et avec le Conseil des Compétences. L’article 30, alinéa 3, et les articles 31, 32 et 33 ne s’appliquent pas. Lorsqu’il existe un danger concret et actuel pour l’intégrité d’autrui que les autres mesures ne peuvent pas contenir, le Tribunal de garantie, par la décision définitive qui constate un fait de Degré 4, 5 ou 6, peut ordonner, à six voix sur sept, un accueil éducatif protégé : la personne réside auprès de personnes ou dans une communauté éducative désignées avec le Conseil Soin, ouvertes, sans périmètre protégé ni surveillance du Corps de protection civique, avec un projet éducatif, un tutorat quotidien et la continuité de l’apprentissage et des contacts avec ses proches. L’accueil dure au plus douze mois et est renouvelable une seule fois par une nouvelle décision ; il est réexaminé par le Tribunal au moins tous les trois mois et cesse lorsque le danger disparaît. Si la personne atteint dix-huit ans pendant l’accueil, celui-ci se poursuit dans la même limite de durée dans un lieu adapté à son âge.
 
 ### Art. 26 — Degrés d’infraction
 
@@ -599,10 +599,10 @@ Le Collège ne peut pas ordonner une exclusion définitive ou de catégorie, ré
 
 1.  Pour les infractions de Degré 1 et 2, l’Assemblée de clarification du Cercle 1 est compétente. Elle agit comme section de l’Assemblée composée de sept personnes tirées au sort pour chaque affaire parmi les membres étrangers aux faits et elle est assistée, sans droit de vote, par un facilitateur du Cercle de garantie.
 2.  Pour les infractions de Degré 3, le Conseil de transformation est compétent ; il est composé de cinq personnes tirées au sort pour chaque affaire : trois parmi les membres du Cercle 1 étrangers aux faits et deux parmi les membres d’autres Communautés du même Cercle 2.
-3.  Pour les infractions de Degré 4, 5 et 6 et pour la révision urgente dans un délai de vingt-quatre heures, le Tribunal de garantie du Cercle 2 est compétent ; il est composé de sept personnes tirées au sort pour chaque affaire sur la liste de l’article 36. Ses membres appartiennent à des Communautés différentes de celles de la personne à laquelle le fait est attribué et de la personne lésée ; au moins trois d’entre eux possèdent une formation juridique validée conformément au Code 5.
+3.  Pour les infractions de Degré 4, 5 et 6, pour la révision urgente dans un délai de vingt-quatre heures et pour les autres fonctions de garantie attribuées par les Codes, le Tribunal de garantie du Cercle 2 est compétent ; il est composé de sept personnes tirées au sort pour chaque affaire sur la liste de l’article 36. Ses membres appartiennent à des Communautés différentes de celles de la personne à laquelle le fait est attribué ou que la décision concerne et de la personne lésée ; au moins trois d’entre eux possèdent une formation juridique validée conformément au Code 5.
 4.  Les organes sont constitués pour chaque affaire et sont dissous avec la décision. Nul ne peut siéger dans plus de trois collèges sur une période de douze mois. Les règles d’abstention de l’article 15 s’appliquent.
 5.  Les décisions sont prises par consensus. À défaut, la majorité des deux tiers des membres est requise. Pour les mesures de l’article 30, alinéa 3, et de l’article 31, six voix sur sept sont nécessaires.
-6.  Le Cercle de garantie reçoit les signalements, facilite la procédure réparatrice, conduit l’instruction préliminaire et assure la garde des dossiers. Il ne constate pas la responsabilité et n’ordonne pas de mesures, sauf ce que prévoient les articles 9 et 34.
+6.  Le Cercle de garantie reçoit les signalements, facilite la procédure réparatrice, conduit l’instruction préliminaire et assure la garde des dossiers. Il ne constate pas la responsabilité et n’ordonne pas de mesures, sauf ce que prévoient les articles 9 et 34 du présent Code et l’article 7-bis, alinéa 3, lettre b), du Code 12.
 
 ### Art. 28 — Procédure
 
@@ -624,7 +624,7 @@ Le Collège ne peut pas ordonner une exclusion définitive ou de catégorie, ré
 
 ### Art. 29 — Mesures pour les Degrés 1 à 4
 
-1.  Pour les Degrés 1 et 2, seules les mesures de l’article 11 sont admises. Aucune limitation des droits n’est admise.
+1.  Pour les Degrés 1 et 2, seules les mesures de l’article 11 sont admises, sauf la suspension prévue par l’alinéa 4-bis pour le refus de la CBO. Aucune autre limitation des droits n’est admise.
 
 2.  Pour le Degré 3, le Conseil de transformation définit avec la personne un Plan de transformation d’une durée n’excédant pas douze mois, renouvelable une seule fois. Le Plan peut comprendre la réorganisation des tâches, le tutorat, la réparation du dommage et, seulement si nécessaire, la suspension de la CdR et de l’accès aux biens non essentiels ainsi que l’exclusion temporaire des tirages au sort pour les charges.
 
@@ -640,6 +640,22 @@ Le Collège ne peut pas ordonner une exclusion définitive ou de catégorie, ré
 
 4.  Avant toute mesure pour refus de la CBO, la personne est informée de son droit au Pacte de cohabitation autonome, en application de l’article 4.9 de la Constitution.
 
+4-bis. En application de l’article 7.3 de la Constitution, le refus de la CBO qui ne constitue pas encore une infraction de Degré 3 est traité comme suit :
+
+a) quiconque en a connaissance, y compris le Conseil des Entrepôts, le signale au Cercle de garantie en application de l’article 5. Le Cercle de garantie vérifie s’il existe une justification de l’alinéa 3 et, à défaut, transmet l’affaire à l’Assemblée de clarification, constituée en application de l’article 27, alinéa 1 ;
+
+b) l’Assemblée de clarification entend la personne, examine avec le Conseil des Entrepôts la réorganisation des tâches, propose une médiation facilitée par le Cercle de garantie et informe la personne par écrit en application de l’alinéa 4. Les soixante jours de l’article 7.3 de la Constitution courent à compter du jour de cette information ; les périodes pendant lesquelles existe une justification de l’alinéa 3 ne sont pas comptées ;
+
+c) si, au moins quatorze jours après l’information prévue à la lettre b), la réorganisation et la médiation n’ont pas abouti, l’Assemblée de clarification peut ordonner, par une décision motivée, la suspension de la CdR et de l’accès aux ressources non essentielles. Le Panier, le logement, les soins, l’apprentissage, le vote et les autres droits de l’article 1.2 de la Constitution restent intacts ;
+
+d) la suspension cesse de plein droit lorsque la personne reprend la CBO, ce que vérifie le Conseil des Entrepôts, ou lorsque survient une justification de l’alinéa 3. L’Assemblée de clarification la révoque, à la demande de la personne, lorsque ses conditions disparaissent ;
+
+e) à l’expiration des soixante jours, si le refus persiste, le Cercle de garantie transmet l’affaire au Conseil de transformation en application de l’article 28, alinéa 1, lettre b) ; à défaut, la suspension cesse. La suspension déjà ordonnée se poursuit jusqu’à la décision du Conseil de transformation et en tout cas au plus soixante jours à compter de la transmission ; après la décision, elle ne se poursuit que si le Plan de l’alinéa 2 le prévoit ;
+
+f) la suspension peut faire l’objet d’un recours devant le Collège de réexamen en application de l’article 35, alinéa 1. Le recours ne suspend pas la mesure, sauf décision contraire du Collège, et n’interrompt pas le délai de la lettre b).
+
+Par dérogation à l’article 27, alinéa 4, l’Assemblée de clarification reste constituée pour l’affaire jusqu’à la cessation de la suspension ou jusqu’à la transmission prévue à la lettre e). La suspension ne constate pas une infraction et n’est pas inscrite comme mesure pour infraction.
+
 5.  Pour le Degré 4, le Tribunal de garantie peut ordonner, en plus des mesures réparatrices :
 
     a) l’exclusion des tirages au sort pour les charges et pour les Conseils, pour une durée n’excédant pas trente-six mois ;
@@ -650,7 +666,27 @@ Le Collège ne peut pas ordonner une exclusion définitive ou de catégorie, ré
 
     d) la remise ou la désactivation des instruments utilisés pour commettre le fait.
 
-6.  Aucune mesure du présent article n’entraîne de confinement ni la perte du statut de membre.
+6.  Aucune mesure du présent article n’entraîne de confinement ni la perte du statut de membre. Fait seule exception la cessation du statut pour refus persistant de la CBO prévue par l’alinéa 6-bis, en application de l’article 7.3-bis de la Constitution.
+
+6-bis. En application de l’article 7.3-bis de la Constitution, le refus de la CBO qui persiste après le Degré 3 est traité comme suit :
+
+a) une fois achevé le Plan de transformation de l’alinéa 2, y compris son renouvellement s’il a été ordonné, le Conseil de transformation constate si le refus persiste sans justification. Ne constituent pas un refus les justifications de l’alinéa 3, les exemptions, réductions et suspensions de l’article 11 du Code 1, l’objection de conscience et les empêchements dus à la maladie, au handicap, à l’âge ou à la grossesse reconnus conformément aux Codes 6 et 12. En cas de doute, le refus n’est pas constaté ;
+
+b) si le refus persiste, le Cercle de garantie informe la personne par écrit des conséquences prévues par le présent alinéa, de son droit au Pacte de cohabitation autonome en application de l’alinéa 4 et de la possibilité de reprendre la CBO. Après trente jours sans reprise, il transmet l’affaire au Tribunal de garantie ;
+
+c) le Tribunal de garantie entend la personne avec les garanties de l’article 25, alinéa 4, vérifie les conditions des lettres a) et b) et peut déclarer, à six voix sur sept, la cessation du statut de membre. La décision peut faire l’objet du réexamen de l’article 35, alinéa 2. La décision prend effet lorsqu’elle est définitive et que la parcelle de la lettre e) a été remise ; jusque-là, la personne reste membre. La procédure s’éteint si la personne reprend la CBO avant que la décision ne prenne effet ;
+
+d) la cessation produit les effets de l’article 4.8 de la Constitution : la personne perd l’accès au Panier et aux Entrepôts communs, le logement commun, la CdR, les services confédérés, le vote et les charges. Elle conserve les Biens d’usage personnel, l’eau potable, les soins d’urgence vitale et les autres droits de l’article 4.9 de la Constitution ;
+
+e) par la même décision, le Tribunal confie à la personne en garde d’usage une parcelle de la part réservée au Pacte, en application de l’article 4-bis, alinéa 10, du Code 10, avec l’accès à l’eau nécessaire, sans habitation et sans outils ni autres biens de la Communauté. La personne peut y construire un abri par ses propres moyens, dans le respect des conditions écologiques de la parcelle. Le transfert a lieu sans usage de la force sur la personne, selon les modalités de l’article 32-bis, alinéa 2, lettre e) ;
+
+f) la personne peut demander à tout moment sa réadmission en application de l’article 4.8 de la Constitution, en reprenant la CBO. La réadmission ne peut pas être refusée en raison du refus passé et prend effet à compter de la demande ; la parcelle retourne à la part réservée. Un nouveau refus est traité de nouveau depuis le début selon l’alinéa 4-bis ;
+
+g) les enfants mineurs conservent le statut de membre et tous leurs droits. Le Tribunal décide dans leur intérêt, par la même décision ou par une décision distincte, où et avec qui ils vivent, en application de l’article 7-bis, alinéa 3-bis, du Code 12. S’ils vivent avec la personne, le logement, le Panier et les services qui leur reviennent sont assurés là où ils vivent. La cessation ne retire pas à elle seule la responsabilité de soin ni le consentement aux soins prévu par l’article 2-ter du Code 6, et ne constitue pas une négligence grave ou un préjudice au sens de l’article 7-bis du Code 12 ;
+
+h) le refus qui persiste après la cessation ne constitue pas une nouvelle infraction.
+
+Pendant la transition, la cessation consiste en l’exclusion du Cercle pilote en application de l’article 37, alinéa 4, et la parcelle n’est attribuée que dans les formes permises par la loi en vigueur, en application de l’article 4-bis, alinéa 9, du Code 10.
 
 ### Art. 30 — Degrés 5 et 6 : règle des deux chances
 
@@ -704,6 +740,36 @@ Le Collège ne peut pas ordonner une exclusion définitive ou de catégorie, ré
 6.  L’Éloignement définitif entraîne l’interdiction permanente de résider dans les Cercles où vivent la personne lésée et la communauté touchée, et d’y accéder. La personne est réinstallée dans un autre Cercle dont l’Assemblée, informée des faits, est disposée à l’accueillir, ou au moyen d’un Pacte de cohabitation autonome en application de l’article 4.9-bis de la Constitution. Les garanties de l’alinéa 2 demeurent.
 7.  L’interdiction territoriale peut être assortie du dispositif de l’article 33.
 
+### Art. 32-bis — Personnes qui vivent au moyen d’un Pacte et éloignement de l’habitat commun
+
+1.  À la personne qui vit au moyen d’un Pacte de cohabitation autonome, le présent Chapitre s’applique avec les adaptations suivantes :
+
+    a) ne s’appliquent pas les mesures qui supposent le statut de membre, y compris la déchéance de l’article 31, alinéa 2, la suspension de la CdR et l’exclusion des tirages au sort ;
+
+    b) à leur place, l’organe compétent peut ordonner la révision du Pacte : la modification de ses conditions ou, lorsque la protection des personnes l’exige, la localisation de la parcelle auprès d’un autre Cercle 1 conformément à l’article 4-bis, alinéa 6, du Code 10, informé des faits ;
+
+    c) l’éloignement protecteur des articles 29, alinéa 5, lettre c), et 30, alinéa 2, lettre b), et, uniquement lorsque sont réunies toutes les conditions de l’article 31, alinéa 1, l’Éloignement définitif s’exécutent par la révision de la lettre b) ;
+
+    d) la violation des conditions du Pacte est qualifiée conformément à l’article 26 et n’entraîne pas la cessation du Pacte.
+
+2.  L’éloignement prévu par l’article 4.9-ter de la Constitution se déroule comme suit :
+
+    a) le Cercle de garantie, sur signalement en application de l’article 5, constate que la personne réside de façon stable dans l’habitat commun sans être membre, sans Pacte et sans contribution, au-delà du délai de l’hospitalité de l’article 4.9, lettre b), de la Constitution et en dehors du cas de l’article 4-bis, alinéa 7, du Code 10 ;
+
+    b) le Cercle 1 propose le Pacte par écrit, avec l’indication de la parcelle identifiée en application de l’article 4-bis du Code 10, et informe la personne de son droit d’entrer ou de revenir dans la Confédération ; le Cercle de garantie propose une médiation ;
+
+    c) le refus est persistant lorsque la personne a refusé ou laissé sans réponse deux offres, la seconde présentée après la médiation et au moins trente jours après la première ;
+
+    d) le Cercle de garantie transmet alors l’affaire au Tribunal de garantie, qui entend la personne avec les garanties de l’article 25, alinéa 4, vérifie que la parcelle suffit à l’autosuffisance au sens de l’article 4.9-bis de la Constitution et peut ordonner l’éloignement de l’habitat commun avec l’attribution d’office de la parcelle ;
+
+    e) l’éloignement est exécuté sans usage de la force sur la personne et consiste en la cessation de l’accès ordinaire à l’habitat commun et en la mise à disposition de la parcelle et des moyens de transférer les biens d’usage personnel, conformément au Code 11 ;
+
+    f) restent garantis l’eau potable, les soins d’urgence vitale et la protection des mineurs, en application de l’article 1.3 de la Constitution, ainsi que les droits des mineurs du foyer prévus par l’article 4.9-bis de la Constitution ;
+
+    g) la personne peut à tout moment accepter le Pacte ou entrer dans la Confédération, et la procédure s’éteint. La décision peut faire l’objet du réexamen de l’article 35, alinéa 2.
+
+3.  Pendant la transition, l’article 37, alinéa 3, s’applique : l’éloignement de l’alinéa 2 n’est pas exécuté.
+
 ### Art. 33 — Dispositif de localisation
 
 1.  Le dispositif de localisation prévu à l’article 18.7 de la Constitution ne peut être ordonné que par une décision définitive du Tribunal de garantie pour un fait de Degré 5 ou 6, pour la protection directe de la personne lésée ou de la Communauté.
@@ -751,7 +817,8 @@ Le Collège ne peut pas ordonner une exclusion définitive ou de catégorie, ré
 
 ### Art. 37 — Régime transitoire et rapport avec l’ordre juridique en vigueur
 
-1.  Jusqu’à l’achèvement de la transition régie par le Code 16, et sur tout territoire où s’applique la juridiction d’un État, le présent Chapitre vaut comme ordre interne et volontaire entre les membres.
+1.  Jusqu’à l’achèvement de la transition régie par le Code 16, et sur tout territoire où s’applique la juridiction d’un État, le présent Chapitre vaut comme ordre interne et volontaire entre les membres et les personnes qui vivent au moyen d’un Pacte de cohabitation autonome, qui l’acceptent avec le Pacte.
 2.  Les faits qui constituent une infraction pénale selon l’ordre juridique en vigueur restent soumis à la juridiction de l’État. Nul ne peut être dissuadé de s’adresser aux autorités ; toute personne en danger est aidée à le faire. Les obligations de signalement et de dénonciation prévues par la loi sont respectées.
-3.  Pendant la transition, aucune mesure de confinement, d’éloignement contraint ou de localisation ne peut être exécutée. L’article 30, alinéa 3, et les articles 31, 32, 33 et 34 ne s’appliquent qu’aux mesures de protection non coercitives et aux effets sur l’appartenance au Cercle.
+3.  Pendant la transition, aucune mesure de confinement, d’éloignement contraint ou de localisation ne peut être exécutée. L’article 25, alinéa 9, pour l’accueil éducatif protégé, l’article 30, alinéa 3, et les articles 31, 32, 33 et 34 ne s’appliquent qu’aux mesures de protection non coercitives et aux effets sur l’appartenance au Cercle.
 4.  Pendant la transition, la déchéance du statut de membre consiste en l’exclusion du Cercle pilote, prononcée conformément aux statuts de l’entité et à la loi applicable.
+5.  Tant que les membres requis ne peuvent pas être tirés au sort dans le Bassin, les fonctions que les Codes attribuent au Tribunal de garantie, au Collège de réexamen et au Conseil de transformation sont exercées par un collège comptant le même nombre de membres, tiré au sort sur la liste publique des personnes formées d’autres Cercles pilotes ou d’entités apparentées qui ont accepté le présent Chapitre, tenue en application de l’article 36. Si la liste ne permet pas le tirage au sort dans le délai, le collège est tiré au sort parmi les membres du Cercle pilote étrangers aux faits, aux personnes concernées et à tout degré antérieur, sur le modèle de l’article 35, alinéa 2. Le collège formé uniquement de membres ne peut pas ordonner l’accueil éducatif protégé de l’article 25, alinéa 9, ni les mesures des articles 30, alinéa 3, 31 et 33. Si aucun collège ne peut être constitué dans le délai d’une validation, la mesure prend fin.

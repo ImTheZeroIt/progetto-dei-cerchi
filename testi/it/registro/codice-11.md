@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 11 — DELLA LOGISTICA E DELLA MOBILITÀ DI BASE"
 breve: "Codice 11 — Logistica e mobilità di base"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "codici"
 ordine: 11
 id: "codice-11"
 slug: "codice-11"
-allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.4; Codice 5 V1.4; Codice 6 V1.5; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.4; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
 ---
 
 ## Art. 1 — Oggetto e definizioni
@@ -252,7 +252,7 @@ allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; C
 1.  Ogni Cerchio 1 destina alle Case Ponte dal dieci al quindici per cento dell’abitato, ai sensi dell’articolo 12.1 della Costituzione. Le Case Ponte sono Beni Comuni; la loro localizzazione segue il Codice 10. La rotazione volontaria nella gestione non costituisce CBO aggiuntivo.
 2.  Le Case Ponte sono prenotabili tramite la Rete o con procedura non digitale, secondo la disponibilità reale.
 3.  L’ospitalità non richiede CdR quando è dovuta a cura, emergenza, ricollocazione ai sensi dell’articolo 49 del Codice 1, transito verso un altro Cerchio, CBO in mobilità, funzioni conferite per sorteggio o apprendimento, e quando riguarda persone non confederate ai sensi dell’articolo 4.9 della Costituzione. L’ospitalità ordinaria non essenziale può richiedere l’impiego di CdR secondo l’articolo 45 del Codice 1.
-4.  L’ospitalità tra membri ha durata ordinaria minima di quattordici giorni, salvo i casi di cura, emergenza, ricollocazione o transito. L’ospitalità delle persone non confederate non supera quattordici giorni e non è prorogabile.
+4.  L’ospitalità tra membri ha durata ordinaria minima di quattordici giorni, salvo i casi di cura, emergenza, ricollocazione o transito. L’ospitalità delle persone non confederate non supera quattordici giorni e non è prorogabile. Resta salva l’accoglienza di chi attende la collocazione del Patto di Convivenza Autonoma, prevista dall’articolo 4-bis, comma 7, del Codice 10.
 5.  Gli ospiti non superano ordinariamente il quindici per cento dei residenti, salvo cura, emergenza, ricollocazione o transito.
 6.  L’esaurimento delle Case Ponte non può impedire l’ingresso. La Comunità assicura un’area di sosta attrezzata e l’accesso al Magazzino secondo il fabbisogno reale.
 7.  Il CBO in mobilità può essere richiesto presso la Comunità ospitante solo se è compatibile con la condizione della persona ed è computato nel suo CBO.

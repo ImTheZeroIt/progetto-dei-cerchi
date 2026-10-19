@@ -9,7 +9,7 @@
 - **Planning quantities, not rations.** The figures say how much the Storehouse must have available for each person. Withdrawal remains free, without charge and according to actual need (Code 1, Art. 18, para. 1, letter a).
 - **Reference person:** one adult. For children, pregnancy, elderly people and illness the quantities are adapted by the Health Council (Code 1, Art. 18, para. 3).
 - **Origin:** an external source, where there is one; otherwise “drafting choice”, that is, a figure set in order to be able to do the sums, without data to support it.
-- **A model to adapt.** Climate, soil and buildings change the quantities. Each Community starts from here and corrects.
+- **A model to adapt.** Climate, soil and buildings change the quantities. Each Community starts from here and corrects. The provisions “per Nucleus” come from a study that reasons on households of four people (Millward-Hopkins et al., 2020), while a Care Nucleus can have up to fifteen (Const. 5.1): for large Nuclei they must be adapted.
 
 The Sufficiency Basket is made of seven parts that the Codes already name: Food, Water, Energy, Material, Health, Care, Logistics. To these are added the rights of Article 1.2 of the Constitution that no Basket yet quantifies: housing, education, connectivity, personal AI Node.
 
@@ -17,12 +17,12 @@ The Sufficiency Basket is made of seven parts that the Codes already name: Food,
 
 Seat: Code 9, Art. 4. The Basket is guaranteed on a plant basis. Animal products collected without harm are not planned into requirements (Code 9, Art. 6-bis, para. 4, letter d).
 
-The starting point is the reference diet of the EAT-Lancet Commission (2019), calculated for 2,500 kcal a day. That diet allows animal foods to be zero. Here their calories are replaced by cereals, legumes and nuts, staying within the ranges the Commission indicates.
+The starting point is the reference diet of the EAT-Lancet Commission (2019), calculated for 2,500 kcal a day. That diet allows animal foods to be zero. Here their calories are replaced by cereals, legumes and nuts, staying within the ranges the Commission indicates. In October 2025 the Commission published a new report, which updates the diet: this table, based on the 2019 report, must be compared with the new one.
 
 | Item | Per person per day | Per person per year | Reference diet | Origin |
 |---|---|---|---|---|
 | Cereals, preferably wholegrain (dry weight) | 275 g | 100 kg | 232 g | Drafting adaptation |
-| Legumes (dry weight) | 100 g | 36.5 kg | 75 g (0–100) | Upper limit of the range |
+| Legumes (dry weight) | 100 g | 36.5 kg | 75 g (0–150) | Within the range: dried legumes 50 g (0–100) plus soya 25 g (0–50) |
 | Nuts and oilseeds | 75 g | 27 kg | 50 g (0–75) | Upper limit of the range |
 | Vegetables | 300 g | 110 kg | 300 g (200–600) | EAT-Lancet |
 | Fruit | 200 g | 73 kg | 200 g (100–300) | EAT-Lancet |
@@ -30,13 +30,13 @@ The starting point is the reference diet of the EAT-Lancet Commission (2019), ca
 | Unsaturated vegetable oils | 40 g | 14.6 kg | 40 g (20–80) | EAT-Lancet |
 | Added sugars | no more than 31 g | no more than 11 kg | 31 g | EAT-Lancet |
 | Iodised salt | no more than 5 g | no more than 1.8 kg | — | WHO |
-| Vitamin B12 (supplement) | 4 micrograms | — | — | German Nutrition Society |
+| Vitamin B12 | requirement of 4 micrograms; the supplement dose, which is higher, is set by a nutritionist | — | — | German Nutrition Society (requirement) |
 
 The total is about 2,500 kcal a day. For comparison: the minimum value used in emergencies by UNHCR and WFP is 2,100 kcal; the Millward-Hopkins study on decent living uses 2,000–2,150 kcal as the average for a whole population, children included.
 
 **Three caveats.**
 
-1. **Vitamin B12 is not optional.** In a diet without animal foods it must always be supplemented: the German Nutrition Society states that this is necessary. It is a good that the Community cannot produce at the outset: it must be entered in the Dependency Register of Code 15.
+1. **Vitamin B12 is not optional.** In a diet without animal foods it must always be supplemented: the German Nutrition Society states that this is necessary. The 4 micrograms in the table are the daily requirement, not the supplement dose: the body absorbs only a small part of each dose, and supplement doses are usually much higher. It is a good that the Community cannot produce at the outset: it must be entered in the Dependency Register of Code 15.
 2. **The table must be checked by people who work in nutrition.** In particular for protein, iron, calcium, zinc, iodine, omega-3 and vitamin D, and for children, pregnancy and breastfeeding.
 3. **Foods for weaning and for frail persons** (Code 9, Art. 4, para. 1) are not quantified here: the Health Council defines them.
 
@@ -56,7 +56,7 @@ Seat: Code 8, Art. 4-bis.
 
 | Item | Per person per day | Per person per year | Origin |
 |---|---|---|---|
-| Drinking water for drinking, cooking, personal and domestic hygiene | at least 50 litres | about 18 m³ | Code 8, Art. 4-bis, para. 3. For the WHO 50 litres is intermediate access, at low risk to health; 100 litres is optimal access. |
+| Drinking water for drinking, cooking, personal and domestic hygiene | at least 50 litres | about 18 m³ | Code 8, Art. 4-bis, para. 3. For the WHO (2020) 50 litres is intermediate access, at medium risk to health; the risk is low only with optimal access, above 100 litres. The 50 litres are a guaranteed minimum, not a target. |
 | of which hot water | 20 litres | about 7 m³ | Millward-Hopkins et al. (2020) |
 
 A Community of 150 people needs at least 7.5 m³ a day for personal uses. Water for health and care services and agricultural water are counted separately.
@@ -71,7 +71,7 @@ Seat: Code 8, Art. 4. The Code lists the services that the minimum share must co
 | Cooking food | one hob per Nucleus | Millward-Hopkins et al. (2020) |
 | Domestic hot water | 20 litres per person per day | Millward-Hopkins et al. (2020) |
 | Basic lighting | all inhabited rooms, for the hours of darkness in which they are used | Drafting choice |
-| Recharging essential devices | telephone, computer, AI Node, health aids | Drafting choice |
+| Recharging essential devices | personal communication device, AI Node, health aids | Drafting choice |
 | Minimum heating | at least 18 °C in inhabited rooms; more for elderly people, children and the sick | WHO, Housing and health guidelines (2018) |
 | Cooling | as much as is needed to protect health in heatwaves | To be defined with the Health Council |
 | Health Storehouse and Network node | continuity without interruptions | Code 8, Art. 4, para. 1, letter g |
@@ -116,9 +116,9 @@ Seat: Code 6, Art. 10. It comprises life-saving goods.
 | Item | Proposed reference | Origin |
 |---|---|---|
 | Medicines | the WHO Model List of Essential Medicines, adapted by the Health Council | WHO, 24th list |
-| Staff | 4.45 doctors, nurses and midwives per 1,000 people | WHO, health workforce strategy to 2030 |
+| Staff | 4.45 doctors, nurses and midwives per 1,000 people | WHO, health workforce strategy to 2030: a minimum threshold for identifying countries with severe shortages, not a European standard |
 
-**Consequence.** With that threshold a Community of 150 people does not reach one full-time health worker. Health care must be organised in the Basin: three Communities of 500 people require six or seven. This is consistent with the district hospital that the Constitution entrusts to Circle 2 (Art. 5.1).
+**Consequence.** With that threshold a Community of 150 people does not reach one full-time health worker. Health care must be organised in the Basin: three Communities of 500 people require six or seven. This is consistent with the district hospital that the Constitution entrusts to Circle 2 (Art. 5.1). The threshold is a minimum designed for the poorest countries: in European countries the density of health workers is much higher, and health care in the Basin will need more.
 
 ## 7. Care Basket
 
@@ -141,15 +141,15 @@ Seat: Code 11, Art. 4.
 
 ## 9. Education, connectivity and AI Node
 
-Seat: Const. 1.2, letters c) and d). For education Code 5 sets the content, not the means; for connectivity no Code sets quantities.
+Seat: Const. 1.2, letters c) and d); Code 5, Art. 2, para. 4-bis; Code 7, Art. 3, para. 9. Code 5 places in the Basket the materials, tools and spaces for literacy and for safety training; Code 7 sets the minimum connectivity provision.
 
 | Item | Proposed level | Origin |
 |---|---|---|
 | Literacy | guaranteed by the age of eleven: reading and writing, basic mathematics and the other competences of Article 29.4 of the Constitution | Code 5, Art. 6, para. 8 |
 | Reference figures | three for each minor, rotating quarterly | Code 5, Art. 6, para. 7 |
 | Personal AI Node | one per person | Const. 1.2, letter d) |
-| Telephone | one per person over the age of ten | Millward-Hopkins et al. (2020) |
-| Computer | one per Nucleus | Millward-Hopkins et al. (2020) |
+| Personal communication device | one for every person who requests it from twelve years of age, distinct from the AI Node; before that age, with the participation of the reference figures | Code 7, Art. 3, para. 9, letter b); Millward-Hopkins et al. (2020) count one telephone per person over the age of ten |
+| Network access | an access point in every dwelling that requests it; in every Circle 1 an assisted access point with shared devices. No computer per Nucleus: every person already has an AI Node | Code 7, Art. 3, para. 9, letters a) and c) |
 | School space | 10 m² per student | Millward-Hopkins et al. (2020) |
 | Access without digital tools | always guaranteed to those who choose disconnection | Code 7, Art. 5-bis, para. 8 |
 
@@ -189,16 +189,17 @@ The Annex is reviewed every year. Anyone who has data, an experience or a critic
 
 ## Sources
 
-Pages consulted on 5 October 2026.
+Pages consulted on 5 October 2026; original sources added on 19 October 2026.
 
-- [EAT-Lancet Commission, reference diet (2019), in the Wikipedia summary](https://en.wikipedia.org/wiki/Planetary_health_diet)
+- [Willett et al., Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems, The Lancet (2019)](https://doi.org/10.1016/S0140-6736%2818%2931788-4)
+- [Rockström et al., The EAT–Lancet Commission on healthy, sustainable, and just food systems, The Lancet (October 2025)](https://doi.org/10.1016/S0140-6736%2825%2901201-2)
 - [WHO, fact sheet on healthy diet](https://www.who.int/news-room/fact-sheets/detail/healthy-diet)
-- [German Nutrition Society, vitamin B12 and vegan diet (2019), as reported by NutraIngredients](https://www.nutraingredients.com/Article/2019/02/20/German-Nutrition-Society-advises-vegans-to-supplement-diet-with-vitamin-B12/)
+- [German Nutrition Society, D-A-CH reference values for vitamin B12: Ströhle et al., Molecular Nutrition & Food Research (2019)](https://doi.org/10.1002/mnfr.201801178)
 - [UNHCR and WFP, reference energy requirement in emergencies (1997)](https://www.unhcr.org/uk/sites/uk/files/legacy-pdf/3b9cbef7a.pdf)
-- [Peters et al., Carrying capacity of U.S. agricultural land: Ten diet scenarios, Elementa (2016), as reported by Ensia](https://ensia.com/notable/which-diet-makes-best-use-of-farmland-you-might-be-surprised/)
+- [Peters et al., Carrying capacity of U.S. agricultural land: Ten diet scenarios, Elementa (2016)](https://doi.org/10.12952/journal.elementa.000116)
 - [WHO, Domestic water quantity, service level and health, second edition (2020)](https://www.who.int/publications/i/item/9789240015241)
 - [Millward-Hopkins et al., Providing decent living with minimum energy, Global Environmental Change (2020)](https://www.sciencedirect.com/science/article/pii/S0959378020307512)
 - [WHO, Housing and health guidelines (2018), recommendations on low indoor temperatures](https://www.ncbi.nlm.nih.gov/books/NBK535294/)
-- [Sphere, minimum humanitarian standards on water and shelter](https://www.spherestandards.org/wp-content/uploads/Sphere-in-Practice.pdf)
+- [Sphere, The Sphere Handbook (2018), minimum humanitarian standards on water and shelter](https://spherestandards.org/wp-content/uploads/Sphere-Handbook-2018-EN.pdf)
 - [WHO, Model Lists of Essential Medicines](https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines/essential-medicines-lists)
-- [WHO, threshold of 4.45 health workers per 1,000 people, as reported by Frontline Health Workers Coalition](https://www.frontlinehealthworkers.org/blog/health-workers-unattended-resource)
+- [WHO, Global strategy on human resources for health: Workforce 2030 (2016), threshold of 4.45 health workers per 1,000 people](https://www.who.int/publications/i/item/9789241511131)

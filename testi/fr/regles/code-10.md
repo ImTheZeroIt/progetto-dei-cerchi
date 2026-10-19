@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 10 — HABITAT ET TERRITOIRE"
 breve: "Code 10 — Habitat et territoire"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "codici"
 ordine: 10
 id: "codice-10"
 slug: "code-10"
-allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.4 ; Code 5 V1.4 ; Code 6 V1.5 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
 ---
 
 ## Art. 1 — Objet, définitions et nature juridique
@@ -154,7 +154,9 @@ La dérogation est délibérée par l’Assemblée sur proposition du Conseil ag
 
     g) les bois, les zones humides et les zones semi-naturelles ;
 
-    h) les refuges pour pollinisateurs, les champs, les banques de semences et les infrastructures prévues par les Codes 8 et 9.
+    h) les refuges pour pollinisateurs, les champs, les banques de semences et les infrastructures prévues par les Codes 8 et 9 ;
+
+    i) les parcelles confiées par un Pacte de cohabitation autonome et la part réservée en application de l’article 4-bis.
 
 2.  L’affectation des sols est délibérée par l’Assemblée sur proposition du Conseil Habitat et Territoire, avec :
 
@@ -177,6 +179,44 @@ La dérogation est délibérée par l’Assemblée sur proposition du Conseil ag
     e) l’Assemblée générale approuve la modification à la majorité qualifiée.
 
 5.  La délibération indique la localisation, l’étendue, la durée, les compensations, les responsables et les modalités de vérification.
+
+## Art. 4-bis — Pacte de cohabitation autonome
+
+1.  Le présent article met en œuvre les articles 4.9, lettre c), 4.9-bis, 4.9-ter et 7.3-bis de la Constitution. Le Pacte de cohabitation autonome est conclu entre la personne non confédérée, ou son foyer, et le Cercle 1. Pour le Cercle 1, il est conclu par l’Assemblée, sur proposition du Conseil Habitat et Territoire et conformément à l’article 4, alinéa 2, dans un délai de trente jours à compter de la demande. Le Pacte ne peut pas être refusé à qui en accepte les conditions, sauf insuffisance de la capacité de charge documentée en application de l’alinéa 4. Le refus, l’acte de l’alinéa 4 et l’identification de la parcelle peuvent faire l’objet d’un recours en application de l’article 9, alinéa 4.
+
+2.  Le Pacte indique au moins :
+
+    a) la parcelle de terre et, lorsqu’elle est disponible, l’habitation confiées en garde d’usage, avec les limites enregistrées dans le Cadastre ;
+
+    b) les contraintes écologiques : les interdictions de l’article 9 du présent Code, de l’article 9, alinéa 1, lettres a), g), h) et i), du Code 9 et de l’article 10 du Code 13, les zones tampons et la connexion écologique des articles 2 et 6 ;
+
+    c) le respect du désarmement prévu par l’article 16 de la Constitution ;
+
+    d) l’accès à l’eau potable, en application de l’article 4-bis du Code 8, à l’eau nécessaire à la parcelle et aux soins d’urgence vitale ;
+
+    e) l’absence de prélèvements ordinaires dans les Entrepôts et les modalités de l’éventuel échange d’excédents réels, sans profit et sans attribution de CdR ;
+
+    f) pour les mineurs du foyer, l’accès aux soins, à l’apprentissage et à la protection des Codes 5, 6 et 12 dans les mêmes conditions que les mineurs membres ;
+
+    g) les modalités de vérification et de révision.
+
+À la personne qui vit au moyen d’un Pacte ne s’appliquent ni la CBO ni les autres obligations réservées aux membres ; s’appliquent les conditions du Pacte et les règles que la Constitution et les Codes adressent à quiconque se trouve sur le territoire.
+
+3.  La parcelle est enregistrée dans la carte territoriale dans la catégorie de l’article 4, alinéa 1, lettre i). Elle reste un Bien commun inaliénable et retourne à la garde du Cercle à la fin de l’usage. Le Pacte ne constitue pas une cession du contrôle au sens de l’article 9, alinéa 1, lettre f), du Code 9.
+
+4.  La capacité de charge est documentée par le Conseil Habitat et Territoire, avec l’avis obligatoire du Conseil agroécologique et du Conseil Énergie et Eau, dans un acte public qui indique la terre et l’eau nécessaires à l’autosuffisance de la personne ou du foyer et celles qui sont disponibles. Le Pacte ne peut pas être refusé pour capacité de charge tant que la part de l’alinéa 5 n’est pas entièrement confiée.
+
+5.  Chaque Cercle 1 réserve au Pacte une part de terre, enregistrée dans la carte, suffisante pour l’autosuffisance d’au moins une personne pour cent résidents ou fraction de cent. Tant qu’elle n’est pas confiée, la part ne peut être utilisée par la Communauté que par occupation réversible et elle est rendue disponible dans un délai de quatre-vingt-dix jours à compter de la conclusion du Pacte. L’obligation est acceptée avec l’acte d’adhésion prévu par l’article 38.1 de la Constitution et ne découle pas d’un pouvoir d’un Cercle supérieur.
+
+6.  Si le Pacte est refusé pour capacité de charge, le Cercle 1 en informe sans délai le Cercle 2, qui, dans un délai de trente jours, par ses porte-parole et sur la base des cartes, identifie un Cercle 1 disposant d’une part disponible, en tenant compte des préférences de la personne et de la proximité. Le Cercle 1 identifié conclut le Pacte sur sa propre part en application de l’alinéa 1. Si les parts du Cercle 2 sont épuisées, l’affaire passe au Cercle 3, avec la même obligation et le même délai. Lorsque les besoins d’un foyer dépassent la part de chaque Cercle 1, la parcelle peut être formée de parts de Cercles 1 limitrophes ; le Pacte est conclu par le Cercle 1 qui en met à disposition la plus grande partie. Si même dans le Cercle 3 aucune part suffisante n’est disponible, la parcelle est attribuée sur la première part qui se libère, selon l’ordre des demandes, et le Cercle 1 dont la part est entièrement confiée la reconstitue dans un délai de douze mois, dans les limites de la capacité de charge.
+
+7.  De la demande du Pacte jusqu’à la remise de la parcelle, la personne qui en accepte les conditions exerce le droit de résidence de l’article 4.9, lettre c), de la Constitution : la limite de quatorze jours de l’hospitalité temporaire ne lui est pas applicable. Le Cercle 1 où elle se trouve lui assure un logement dans une Maison-relais ou dans l’aire d’accueil équipée, l’accès au Panier selon les besoins réels et la CBO en mobilité lorsqu’elle est compatible, conformément à l’article 6-ter du Code 11. L’accueil est provisoire, il est limité au temps nécessaire à la remise et cesse avec elle. Il cesse en outre si la personne refuse sans justification la parcelle identifiée en application des alinéas 1 ou 6 ou révoque son acceptation des conditions ; l’article 32-bis, alinéa 2, du Code 4 s’applique alors.
+
+8.  Le Pacte est à durée indéterminée. Il cesse par le retrait de la personne, toujours possible, par son entrée ou son retour dans la Confédération, par le non-usage de la parcelle prolongé au-delà de douze mois sans justification, constaté conformément au Code 4, ou par la relocalisation en application de l’article 32-bis du Code 4. La cessation n’empêche pas de demander un nouveau Pacte. La violation des conditions est traitée conformément au Code 4 et ne peut donner lieu qu’à la révision prévue par l’article 32-bis du même Code.
+
+9.  Pendant la transition, le Pacte est conclu dans les formes permises par la loi en vigueur et comprend l’acceptation du Chapitre V du Code 4, en application de son article 37, alinéa 1. Tant qu’il n’existe pas de Bassin, la recherche de l’alinéa 6 est menée par le Cercle pilote avec les autres Cercles pilotes et avec les entités apparentées disponibles ; entre-temps, l’alinéa 7 s’applique.
+
+10. À la personne qui cesse d’être membre en application de l’article 7.3-bis de la Constitution, la parcelle est attribuée par le Tribunal de garantie, en application de l’article 29, alinéa 6-bis, du Code 4, sur la part de l’alinéa 5. Le Conseil Habitat et Territoire l’identifie et l’enregistre dans le Cadastre. La parcelle est attribuée sans habitation, même si une habitation est disponible, et sans outils ni autres biens de la Communauté ; la personne peut y construire un abri par ses propres moyens, dans le respect des contraintes de l’alinéa 2, lettre b). S’appliquent l’alinéa 2, lettres b) à g), et les alinéas 3, 6 et 8 ; l’alinéa 7 ne s’applique pas, car la personne reste membre jusqu’à la remise. Avec la réadmission, la parcelle retourne à la part réservée.
 
 ## Art. 5 — Artificialisation des sols et régénération
 
@@ -349,7 +389,9 @@ Un Cadastre minimal provisoire est en outre activé.
 
     d) les zones tampons minimales ;
 
-    e) le nœud du Réseau agroécologique fédéré.
+    e) le nœud du Réseau agroécologique fédéré ;
+
+    f) la part réservée au Pacte de cohabitation autonome prévue par l’article 4-bis, alinéa 5.
 
 4.  En cas de chevauchement documenté des charges transitoires relatives aux Codes 8, 9 et 10, l’Assemblée peut accorder une prorogation motivée n’excédant pas six mois, accompagnée d’un plan contraignant et de mesures garantissant la continuité du Panier.
 

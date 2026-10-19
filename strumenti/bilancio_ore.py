@@ -42,28 +42,33 @@ PERDITE = 0.15           # ipotesi: perdite, scarti e semente
 DIVARIO_BIO = 0.20       # rese senza chimica di sintesi: -19,2% (Ponisio e altri, 2015)
 RESA = {                 # t/ha, Italia 2024 (FAO, da Our World in Data)
     "cereali": 3.66, "legumi": 2.08, "tuberi": 28.78, "ortaggi": 32.17, "frutta": 15.45,
-    "frutta secca": 1.33 * 0.47,     # nocciole in guscio per resa in sgusciato (46-48%)
+    "frutta secca": 1.33 * 0.47,     # nocciole in guscio per resa in sgusciato (46-48%); il 2024 è un anno di crisi
+                                     # del raccolto italiano: in un anno normale la resa in guscio è più alta
     "olio": 2.61 * 0.40,             # girasole per resa in olio (circa 40%)
 }
-ORE_ETTARO = {           # ore per ettaro all'anno: valori centrali delle tabelle regionali italiane
+ORE_ETTARO = {           # ore per ettaro all'anno, dalle tabelle regionali italiane (Lazio 2008, Sardegna 2019, Sicilia 2024).
+                         # Ortaggi 700: valore prudente, al limite alto (Sardegna 719, Sicilia 334-467). Girasole 24, come
+                         # nella tabella del Lazio. Non è applicato l'aumento per il biologico (+5% nella tabella siciliana).
     "cereali": 45, "legumi": 80, "tuberi": 300, "ortaggi": 700, "frutta": 530,
-    "frutta secca": 300, "olio": 35,
+    "frutta secca": 300, "olio": 24,
 }
 ORE_TRASFORMAZIONE = 1800    # ipotesi: mulino 230, forno 640 (metà dei cereali in pane), frantoio e conserve 930
 PASTI_AL_GIORNO = 1          # ipotesi: un pasto collettivo per persona al giorno
-PASTI_PER_ORA = 12           # cucine convenzionali piccole: da 8 a 18 pasti per ora di lavoro
+PASTI_PER_ORA = 12           # da 10 a 18 pasti per ora di lavoro, 16-20 nelle mense scolastiche (Sherrin e altri, 2009)
 
 # ------------------------------------------------------------------ altre voci
 FATTORE_PICCOLA_SCALA = 2    # ipotesi: energia e acqua costano il doppio delle ore della media UE
 SANITARI_PER_1000 = 4.45     # soglia OMS: medici, infermieri, ostetriche
-ADDETTI_CURA_PER_100_ANZIANI = 5     # media OCSE
+ADDETTI_CURA_PER_100_ANZIANI = 5     # media OCSE: conta persone, non ore, e comprende paesi dove gran parte della cura
+                                     # resta alle famiglie; con il livello scandinavo (12) la voce più che raddoppierebbe
 ANZIANI = 21.6               # % di popolazione con 65 anni o più
 ORE_NIDO = 40 * 48           # ipotesi: 40 ore a settimana per 48 settimane, un adulto ogni cinque bambini
 ALUNNI_PER_INSEGNANTE = 12.2 # UE, primaria e secondaria (Eurostat)
 QUOTA_MANUTENZIONE = 0.5     # ipotesi: metà delle ore delle costruzioni è manutenzione
 ORE_LOGISTICA = (6 + 1) * 365        # ipotesi: un turno di 6 ore al Magazzino e un'ora di consegne al giorno
 BUCATO_KG = 80               # per persona all'anno (Millward-Hopkins e altri, 2020)
-BUCATO_KG_ORA = 25           # lavanderie piccole: 19-26 kg per ora di lavoro
+BUCATO_KG_ORA = 25           # 19-26 kg per ora di lavoro (FMLink, «Benchmarking laundry», 2019: da 42 a 57 libbre);
+                             # TRSA 2023: da 25 a 36 kg
 ORE_PULIZIE = 2 * 365        # ipotesi: spazi comuni
 ORE_RETE = 8 * 52            # ipotesi
 ORE_SANTUARI = 10 * 52       # ipotesi: santuari animali e riparazione ambientale
@@ -107,7 +112,9 @@ MANUFATTI = [
     ("Mobilità e Rete", "collegamento alla rete esterna", 60, 1, 1),
     ("Apprendimento", "materiali e strumenti", 50, 1, 1),
 ]
-FATTORE_ORE_IMPORTATE = 2    # ipotesi: i beni prodotti dove il lavoro rende meno contengono il doppio delle ore
+FATTORE_ORE_IMPORTATE = 2    # ipotesi senza fonte: i beni prodotti dove il lavoro rende meno contengono il doppio delle ore.
+# Il coefficiente per paese (simula_cdr.py) usa la produttività media del paese, ma i beni esportati vengono di solito
+# da settori più produttivi: le ore dei beni importati sono quindi probabilmente sovrastimate.
 
 
 def conto():
@@ -224,10 +231,14 @@ def stampa():
           % sett0(1000 * r["ore_per_euro"] * PERSONE))
     print("  scenario B: %.0f%% delle ore lavorate oggi nell'UE per abitante"
           % (100 * sum(r["B"].values()) / PERSONE / r["ore_abitante_ue"]))
-    # stima indipendente: McElroy e O'Neill (2025), Regno Unito
+    # stima indipendente: McElroy e O'Neill (2025), Global Environmental Change 92, 103008, Regno Unito.
+    # Il 36,7 non è uno scenario calcolato: è una stima degli autori in una frase della discussione (lo scenario
+    # minimo più le voci che vi mancano). «Minimo realistico» è un'espressione del progetto: gli autori dicono che
+    # nessuno scenario è realistico. Con la base dello studio (15-64 anni, 46,6 settimane, 80%) le circa 13 ore
+    # del progetto (scenario B con il fattore 2) diventerebbero circa 18.
     print("\nStima indipendente (McElroy e O'Neill, 2025), riportata in ore di CBO")
     quota_15_64 = 0.638
-    for nome, ore in (("solo beni indispensabili", 17.5), ("minimo realistico secondo gli autori", 36.7),
+    for nome, ore in (("solo beni indispensabili", 17.5), ("minimo più servizi mancanti, stima degli autori", 36.7),
                       ("buona vita", 45.5), ("Regno Unito oggi", 64.7)):
         per_abitante = ore * 46.6 * 0.8 * quota_15_64
         print("  %s: %.0f ore per abitante all'anno = %.1f ore di CBO a settimana"
@@ -250,6 +261,8 @@ def stampa():
     disp48 = r["contributori"] * LIMITE_ORE * 48
     print("  48 settimane di lavoro invece di 52: ore disponibili %s; A %.0f%%, B %.0f%%"
           % (n(disp48), 100 * tot_a / disp48, 100 * sum(r["B"].values()) / disp48))
+    # 3 ore al giorno: il minimo della forbice 3-4 dell'indagine europea sull'uso del tempo (dati 2008-2015),
+    # applicato a tutte le 150 persone, bambini compresi: il risultato è un ordine di grandezza, non un dato
     tutto = 3 * 365 * PERSONE
     print("  tutto il lavoro di casa di oggi (3 ore al giorno a persona): %s ore = %.0f ore a settimana per contributore"
           % (n(tutto), sett(tutto)))

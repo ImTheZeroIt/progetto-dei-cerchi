@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 4 — DELLA GIUSTIZIA RIPARATIVA E DELLA GARANZIA"
 breve: "Codice 4 — Giustizia riparativa e garanzia"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "codici"
 ordine: 4
 id: "codice-04"
 slug: "codice-04"
-allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; Codice 5 V1.4; Codice 6 V1.5; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.4; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
 ---
 
 ## CAPO I — DISPOSIZIONI GENERALI, PRINCIPI E DEFINIZIONI
@@ -371,7 +371,7 @@ La sospensione è motivata, comunicata alle parti e sottoposta a riesame periodi
 
     c) l’esclusione definitiva o di categoria per principio compete all’Assemblea Generale.
 
-6.  La decadenza di una persona dallo status di membro è ammessa esclusivamente nei casi dell’articolo 1.3-bis della Costituzione e secondo il Capo V. Nessuna misura del presente articolo può privare un membro dei diritti dell’articolo 1.2 della Costituzione.
+6.  La decadenza di una persona dallo status di membro è ammessa esclusivamente nei casi dell’articolo 1.3-bis della Costituzione e secondo il Capo V. La cessazione dello status per rifiuto persistente del CBO, prevista dall’articolo 7.3-bis della Costituzione, è disciplinata soltanto dall’articolo 29, comma 6-bis. Nessuna misura del presente articolo può privare un membro dei diritti dell’articolo 1.2 della Costituzione.
 
 ### Art. 14 — Registro riparativo
 
@@ -547,7 +547,7 @@ Il Collegio non può disporre un’esclusione definitiva o di categoria, riserva
 
 ### Art. 25 — Principi e garanzie comuni
 
-1.  Il presente Capo attua gli articoli 1.3-bis, 18.7, 30 e 31 della Costituzione. La procedura riparativa dei Capi II, III e IV resta la via ordinaria e prioritaria. Gli organi del presente Capo intervengono quando essa non è accettata, non produce un accordo o non è adeguata alla gravità del fatto.
+1.  Il presente Capo attua gli articoli 1.3-bis, 7.3, 7.3-bis, 18.7, 30 e 31 della Costituzione. La procedura riparativa dei Capi II, III e IV resta la via ordinaria e prioritaria. Gli organi del presente Capo intervengono quando essa non è accettata, non produce un accordo o non è adeguata alla gravità del fatto.
 
 2.  Nessuno può essere sottoposto a una misura per un fatto che, al momento in cui è stato commesso, non era previsto come illecito dalla Costituzione o dai Codici. Le fattispecie non possono essere estese per analogia.
 
@@ -567,13 +567,13 @@ Il Collegio non può disporre un’esclusione definitiva o di categoria, riserva
 
 5.  La persona offesa ha diritto alla protezione immediata, all’ascolto, a una persona di fiducia, all’informazione sull’andamento della procedura e alla riparazione. Non può esserle imposto alcun incontro con la persona cui è attribuito il fatto.
 
-6.  Nessuna misura può avere finalità afflittiva. Tra le misure idonee è scelta la meno restrittiva. Nessuna misura può sopprimere le garanzie vitali dell’articolo 30.4 della Costituzione.
+6.  Nessuna misura può avere finalità afflittiva. Tra le misure idonee è scelta la meno restrittiva. Nessuna misura può sopprimere le garanzie vitali dell’articolo 30.4 della Costituzione. Dopo la cessazione dello status prevista dall’articolo 29, comma 6-bis, alla persona restano garantiti i diritti dell’ultimo periodo dell’articolo 1.3 e dell’articolo 4.9 della Costituzione e la porzione assegnata ai sensi del suo articolo 7.3-bis.
 
 7.  Ogni organo può essere assistito da un’IA di mediazione esclusivamente consultiva. Nessuna valutazione di responsabilità o di pericolosità può essere formulata o prevista da un’IA.
 
 8.  Nessuno può essere giudicato due volte per lo stesso fatto. Si applica l’articolo 23.
 
-9.  Ai fatti commessi da persone che non hanno compiuto diciotto anni si applicano esclusivamente misure riparative, educative e di protezione, definite con il Consiglio Cura e con il Consiglio delle Competenze. Non si applicano gli articoli 31, 32 e 33.
+9.  Ai fatti commessi da persone che non hanno compiuto diciotto anni si applicano esclusivamente misure riparative, educative e di protezione, definite con il Consiglio Cura e con il Consiglio delle Competenze. Non si applicano l’articolo 30, comma 3, e gli articoli 31, 32 e 33. Quando sussiste un pericolo concreto e attuale per l’incolumità altrui che le altre misure non possono contenere, il Tribunale di Garanzia, con la decisione definitiva che accerta un fatto di Grado 4, 5 o 6, può disporre, con sei voti su sette, un’accoglienza educativa protetta: la persona risiede presso persone o in una comunità educativa individuate con il Consiglio Cura, aperte, senza perimetro protetto né sorveglianza del Corpo di Tutela Civica, con un progetto educativo, un affiancamento quotidiano e la continuità dell’apprendimento e dei contatti con le persone care. L’accoglienza dura non più di dodici mesi ed è rinnovabile una sola volta con una nuova decisione; è riesaminata dal Tribunale almeno ogni tre mesi e cessa quando viene meno il pericolo. Se la persona compie diciotto anni durante l’accoglienza, questa prosegue entro la stessa durata in una collocazione adatta all’età.
 
 ### Art. 26 — Gradi di illecito
 
@@ -599,10 +599,10 @@ Il Collegio non può disporre un’esclusione definitiva o di categoria, riserva
 
 1.  Per gli illeciti di Grado 1 e 2 è competente l’Assemblea di Chiarimento del Cerchio 1. Essa opera come sezione dell’Assemblea composta da sette persone sorteggiate per ciascun caso tra i membri estranei ai fatti ed è assistita, senza diritto di voto, da un facilitatore del Cerchio di Garanzia.
 2.  Per gli illeciti di Grado 3 è competente il Consiglio di Trasformazione, composto da cinque persone sorteggiate per ciascun caso: tre tra i membri del Cerchio 1 estranei ai fatti e due tra i membri di altre Comunità del medesimo Cerchio 2.
-3.  Per gli illeciti di Grado 4, 5 e 6 e per la revisione urgente entro ventiquattro ore è competente il Tribunale di Garanzia del Cerchio 2, composto da sette persone sorteggiate per ciascun caso dall’elenco dell’articolo 36. I componenti appartengono a Comunità diverse da quelle della persona cui è attribuito il fatto e della persona offesa; almeno tre possiedono una formazione giuridica validata secondo il Codice 5.
+3.  Per gli illeciti di Grado 4, 5 e 6, per la revisione urgente entro ventiquattro ore e per le altre funzioni di garanzia attribuite dai Codici è competente il Tribunale di Garanzia del Cerchio 2, composto da sette persone sorteggiate per ciascun caso dall’elenco dell’articolo 36. I componenti appartengono a Comunità diverse da quelle della persona cui è attribuito il fatto o che è interessata dalla decisione e della persona offesa; almeno tre possiedono una formazione giuridica validata secondo il Codice 5.
 4.  Gli organi sono costituiti per il singolo caso e si sciolgono con la decisione. Nessuno può far parte di più di tre collegi nell’arco di dodici mesi. Si applicano le regole di astensione dell’articolo 15.
 5.  Le decisioni sono assunte per consenso. In mancanza, è richiesta la maggioranza dei due terzi dei componenti. Per le misure degli articoli 30, comma 3, e 31 sono necessari sei voti su sette.
-6.  Il Cerchio di Garanzia riceve le segnalazioni, facilita la procedura riparativa, cura l’istruttoria preliminare e custodisce i fascicoli. Non accerta la responsabilità e non dispone misure, salvo quanto previsto dagli articoli 9 e 34.
+6.  Il Cerchio di Garanzia riceve le segnalazioni, facilita la procedura riparativa, cura l’istruttoria preliminare e custodisce i fascicoli. Non accerta la responsabilità e non dispone misure, salvo quanto previsto dagli articoli 9 e 34 del presente Codice e dall’articolo 7-bis, comma 3, lettera b), del Codice 12.
 
 ### Art. 28 — Procedura
 
@@ -624,7 +624,7 @@ Il Collegio non può disporre un’esclusione definitiva o di categoria, riserva
 
 ### Art. 29 — Misure per i Gradi da 1 a 4
 
-1.  Per i Gradi 1 e 2 sono ammesse esclusivamente le misure dell’articolo 11. Non sono ammesse limitazioni dei diritti.
+1.  Per i Gradi 1 e 2 sono ammesse esclusivamente le misure dell’articolo 11, salvo la sospensione prevista dal comma 4-bis per il rifiuto del CBO. Non sono ammesse altre limitazioni dei diritti.
 
 2.  Per il Grado 3 il Consiglio di Trasformazione definisce con la persona un Piano di Trasformazione di durata non superiore a dodici mesi, rinnovabile una sola volta. Il Piano può comprendere la rimodulazione delle mansioni, l’affiancamento, la riparazione del danno e, solo se necessario, la sospensione del CdR e dell’accesso ai beni non essenziali e l’esclusione temporanea dai sorteggi per gli incarichi.
 
@@ -640,6 +640,22 @@ Il Collegio non può disporre un’esclusione definitiva o di categoria, riserva
 
 4.  Prima di ogni misura per il rifiuto del CBO la persona è informata del diritto al Patto di Convivenza Autonoma, ai sensi dell’articolo 4.9 della Costituzione.
 
+4-bis. In attuazione dell’articolo 7.3 della Costituzione, il rifiuto del CBO che non costituisce ancora illecito di Grado 3 è trattato come segue:
+
+a) chiunque ne abbia conoscenza, compreso il Consiglio di Magazzino, lo segnala al Cerchio di Garanzia ai sensi dell’articolo 5. Il Cerchio di Garanzia verifica se ricorre una giustificazione del comma 3 e, se non ricorre, trasmette il caso all’Assemblea di Chiarimento, costituita ai sensi dell’articolo 27, comma 1;
+
+b) l’Assemblea di Chiarimento ascolta la persona, valuta con il Consiglio di Magazzino la rimodulazione delle mansioni, propone una mediazione facilitata dal Cerchio di Garanzia e informa la persona per iscritto ai sensi del comma 4. I sessanta giorni dell’articolo 7.3 della Costituzione decorrono dal giorno di questa informazione; non si computano i periodi in cui ricorre una giustificazione del comma 3;
+
+c) se, decorsi almeno quattordici giorni dall’informazione della lettera b), la rimodulazione e la mediazione non hanno avuto esito, l’Assemblea di Chiarimento può disporre, con decisione motivata, la sospensione del CdR e dell’accesso alle risorse non essenziali. Restano integri il Paniere, l’alloggio, le cure, l’apprendimento, il voto e gli altri diritti dell’articolo 1.2 della Costituzione;
+
+d) la sospensione cessa di diritto quando la persona riprende il CBO, verificato dal Consiglio di Magazzino, o quando sopravviene una giustificazione del comma 3. L’Assemblea di Chiarimento la revoca, su richiesta della persona, quando ne vengono meno i presupposti;
+
+e) decorsi i sessanta giorni, se il rifiuto persiste il Cerchio di Garanzia trasmette il caso al Consiglio di Trasformazione ai sensi dell’articolo 28, comma 1, lettera b); altrimenti la sospensione cessa. La sospensione già disposta prosegue fino alla decisione del Consiglio di Trasformazione e comunque non oltre sessanta giorni dalla trasmissione; dopo la decisione prosegue soltanto se il Piano del comma 2 la prevede;
+
+f) contro la sospensione è ammesso ricorso al Collegio di Riesame ai sensi dell’articolo 35, comma 1. Il ricorso non sospende la misura, salvo diversa decisione del Collegio, e non interrompe il termine della lettera b).
+
+In deroga all’articolo 27, comma 4, l’Assemblea di Chiarimento resta costituita per il caso fino alla cessazione della sospensione o alla trasmissione della lettera e). La sospensione non accerta un illecito e non è iscritta come misura per illecito.
+
 5.  Per il Grado 4 il Tribunale di Garanzia può disporre, oltre alle misure riparative:
 
     a) l’esclusione dai sorteggi per gli incarichi e per i Consigli, per non più di trentasei mesi;
@@ -650,7 +666,27 @@ Il Collegio non può disporre un’esclusione definitiva o di categoria, riserva
 
     d) la consegna o la disattivazione degli strumenti impiegati per commettere il fatto.
 
-6.  Nessuna misura del presente articolo comporta contenimento o perdita dello status di membro.
+6.  Nessuna misura del presente articolo comporta contenimento o perdita dello status di membro. Fa eccezione soltanto la cessazione dello status per rifiuto persistente del CBO prevista dal comma 6-bis, in attuazione dell’articolo 7.3-bis della Costituzione.
+
+6-bis. In attuazione dell’articolo 7.3-bis della Costituzione, il rifiuto del CBO che persiste dopo il Grado 3 è trattato come segue:
+
+a) concluso il Piano di Trasformazione del comma 2, compreso il rinnovo se disposto, il Consiglio di Trasformazione accerta se il rifiuto persiste senza giustificazione. Non costituiscono rifiuto le giustificazioni del comma 3, le esenzioni, riduzioni e sospensioni dell’articolo 11 del Codice 1, l’obiezione di coscienza e gli impedimenti per malattia, disabilità, età o gravidanza riconosciuti secondo i Codici 6 e 12. In caso di dubbio il rifiuto non è accertato;
+
+b) se il rifiuto persiste, il Cerchio di Garanzia informa la persona per iscritto delle conseguenze previste dal presente comma, del diritto al Patto di Convivenza Autonoma ai sensi del comma 4 e della possibilità di riprendere il CBO. Decorsi trenta giorni senza ripresa, trasmette il caso al Tribunale di Garanzia;
+
+c) il Tribunale di Garanzia ascolta la persona con le garanzie dell’articolo 25, comma 4, verifica i presupposti delle lettere a) e b) e può dichiarare, con sei voti su sette, la cessazione dello status di membro. Contro la decisione è ammesso il riesame dell’articolo 35, comma 2. La decisione produce effetti quando è definitiva e la porzione della lettera e) è consegnata; fino ad allora la persona resta membro. La procedura si estingue se la persona riprende il CBO prima che la decisione produca effetti;
+
+d) la cessazione produce gli effetti dell’articolo 4.8 della Costituzione: la persona perde l’accesso al Paniere e ai Magazzini Comuni, l’alloggio comune, il CdR, i servizi confederati, il voto e gli incarichi. Conserva i Beni d’Uso Personale, l’acqua potabile, le cure d’emergenza salvavita e gli altri diritti dell’articolo 4.9 della Costituzione;
+
+e) con la stessa decisione il Tribunale assegna alla persona in custodia d’uso una porzione della quota riservata al Patto, ai sensi dell’articolo 4-bis, comma 10, del Codice 10, con l’accesso all’acqua necessaria, senza abitazione e senza attrezzi o altri beni della Comunità. La persona può costruirvi un riparo con le proprie forze, nel rispetto delle condizioni ecologiche della porzione. Il trasferimento si svolge senza uso della forza sulla persona, con le modalità dell’articolo 32-bis, comma 2, lettera e);
+
+f) la persona può chiedere in ogni momento la riammissione ai sensi dell’articolo 4.8 della Costituzione, riprendendo il CBO. La riammissione non può essere negata per il rifiuto passato e ha effetto dalla richiesta; la porzione torna alla quota. Un nuovo rifiuto è trattato da capo secondo il comma 4-bis;
+
+g) i figli minori conservano lo status di membro e tutti i diritti. Il Tribunale decide nel loro interesse, con la stessa decisione o con una decisione separata, dove e con chi vivono, ai sensi dell’articolo 7-bis, comma 3-bis, del Codice 12. Se vivono con la persona, l’alloggio, il Paniere e i servizi che spettano loro sono assicurati nel luogo in cui vivono. La cessazione non toglie, da sola, la responsabilità di cura né il consenso alle cure previsto dall’articolo 2-ter del Codice 6, e non costituisce grave negligenza o pregiudizio ai sensi dell’articolo 7-bis del Codice 12;
+
+h) il rifiuto che persiste dopo la cessazione non costituisce un nuovo illecito.
+
+Durante la transizione la cessazione consiste nell’esclusione dal Cerchio pilota ai sensi dell’articolo 37, comma 4, e la porzione è assegnata soltanto nelle forme consentite dalla legge vigente, ai sensi dell’articolo 4-bis, comma 9, del Codice 10.
 
 ### Art. 30 — Gradi 5 e 6: regola delle due possibilità
 
@@ -704,6 +740,36 @@ Il Collegio non può disporre un’esclusione definitiva o di categoria, riserva
 6.  L’Allontanamento Definitivo comporta il divieto permanente di risiedere e di accedere ai Cerchi in cui vivono la persona offesa e la comunità colpita. La persona è ricollocata in un altro Cerchio la cui Assemblea, informata dei fatti, sia disponibile ad accoglierla, oppure mediante Patto di Convivenza Autonoma ai sensi dell’articolo 4.9-bis della Costituzione. Restano ferme le garanzie del comma 2.
 7.  Il divieto territoriale può essere assistito dal dispositivo dell’articolo 33.
 
+### Art. 32-bis — Persone che vivono mediante Patto e allontanamento dall’abitato comune
+
+1.  Alla persona che vive mediante Patto di Convivenza Autonoma il presente Capo si applica con i seguenti adattamenti:
+
+    a) non si applicano le misure che presuppongono lo status di membro, compresi la decadenza dell’articolo 31, comma 2, la sospensione del CdR e l’esclusione dai sorteggi;
+
+    b) in loro luogo l’organo competente può disporre la revisione del Patto: la modifica delle sue condizioni o, quando la protezione delle persone lo richiede, la collocazione della porzione presso un altro Cerchio 1 secondo l’articolo 4-bis, comma 6, del Codice 10, informato dei fatti;
+
+    c) l’allontanamento protettivo degli articoli 29, comma 5, lettera c), e 30, comma 2, lettera b), e, soltanto quando ricorrono tutte le condizioni dell’articolo 31, comma 1, l’Allontanamento Definitivo si eseguono con la revisione della lettera b);
+
+    d) la violazione delle condizioni del Patto è qualificata secondo l’articolo 26 e non comporta la cessazione del Patto.
+
+2.  L’allontanamento previsto dall’articolo 4.9-ter della Costituzione si svolge come segue:
+
+    a) il Cerchio di Garanzia, su segnalazione ai sensi dell’articolo 5, accerta che la persona risiede stabilmente nell’abitato comune senza essere membro, senza Patto e senza contribuzione, oltre il termine dell’ospitalità dell’articolo 4.9, lettera b), della Costituzione e fuori dal caso dell’articolo 4-bis, comma 7, del Codice 10;
+
+    b) il Cerchio 1 offre per iscritto il Patto, con l’indicazione della porzione individuata ai sensi dell’articolo 4-bis del Codice 10, e informa la persona del diritto di entrare o rientrare nella Confederazione; il Cerchio di Garanzia propone una mediazione;
+
+    c) il rifiuto è persistente quando la persona ha rifiutato o lasciato senza risposta due offerte, la seconda presentata dopo la mediazione e almeno trenta giorni dopo la prima;
+
+    d) il Cerchio di Garanzia trasmette allora il caso al Tribunale di Garanzia, che ascolta la persona con le garanzie dell’articolo 25, comma 4, verifica che la porzione sia sufficiente all’autosufficienza ai sensi dell’articolo 4.9-bis della Costituzione e può disporre l’allontanamento dall’abitato comune con l’assegnazione d’ufficio della porzione;
+
+    e) l’allontanamento è eseguito senza uso della forza sulla persona e consiste nella cessazione dell’accesso ordinario all’abitato comune e nella messa a disposizione della porzione e dei mezzi per trasferire i beni d’uso personale, secondo il Codice 11;
+
+    f) restano garantiti l’acqua potabile, le cure d’emergenza salvavita e la protezione dei minori, ai sensi dell’articolo 1.3 della Costituzione, e i diritti dei minori del nucleo previsti dall’articolo 4.9-bis della Costituzione;
+
+    g) la persona può in ogni momento accettare il Patto o entrare nella Confederazione, e la procedura si estingue. Contro la decisione è ammesso il riesame dell’articolo 35, comma 2.
+
+3.  Durante la transizione si applica l’articolo 37, comma 3: l’allontanamento del comma 2 non è eseguito.
+
 ### Art. 33 — Dispositivo di localizzazione
 
 1.  Il dispositivo di localizzazione previsto dall’articolo 18.7 della Costituzione può essere disposto soltanto con decisione definitiva del Tribunale di Garanzia per un fatto di Grado 5 o 6, a tutela diretta della persona offesa o della Comunità.
@@ -751,7 +817,8 @@ Il Collegio non può disporre un’esclusione definitiva o di categoria, riserva
 
 ### Art. 37 — Regime transitorio e rapporto con l’ordinamento vigente
 
-1.  Fino al completamento della transizione disciplinata dal Codice 16, e in ogni territorio in cui si applica la giurisdizione di uno Stato, il presente Capo vale come ordinamento interno e volontario tra i membri.
+1.  Fino al completamento della transizione disciplinata dal Codice 16, e in ogni territorio in cui si applica la giurisdizione di uno Stato, il presente Capo vale come ordinamento interno e volontario tra i membri e le persone che vivono mediante Patto di Convivenza Autonoma, che lo accettano con il Patto.
 2.  I fatti che costituiscono reato secondo l’ordinamento vigente restano soggetti alla giurisdizione dello Stato. Nessuno può essere dissuaso dal rivolgersi alle autorità; chi è in pericolo è aiutato a farlo. Sono rispettati gli obblighi di segnalazione e di denuncia previsti dalla legge.
-3.  Durante la transizione non possono essere eseguite misure di contenimento, di allontanamento coattivo o di localizzazione. Gli articoli 30, comma 3, 31, 32, 33 e 34 si applicano soltanto per le misure di protezione non coercitive e per gli effetti sull’appartenenza al Cerchio.
+3.  Durante la transizione non possono essere eseguite misure di contenimento, di allontanamento coattivo o di localizzazione. L’articolo 25, comma 9, per l’accoglienza educativa protetta, e gli articoli 30, comma 3, 31, 32, 33 e 34 si applicano soltanto per le misure di protezione non coercitive e per gli effetti sull’appartenenza al Cerchio.
 4.  Durante la transizione la decadenza dallo status di membro consiste nell’esclusione dal Cerchio pilota, disposta secondo lo statuto dell’ente e la legge applicabile.
+5.  Finché nel Bacino non si possono sorteggiare i componenti richiesti, le funzioni che i Codici attribuiscono al Tribunale di Garanzia, al Collegio di Riesame e al Consiglio di Trasformazione sono esercitate da un collegio dello stesso numero di componenti, sorteggiato dall’elenco pubblico delle persone formate di altri Cerchi pilota o di enti affini che hanno accettato il presente Capo, tenuto ai sensi dell’articolo 36. Se l’elenco non consente il sorteggio nel termine, il collegio è sorteggiato tra i membri del Cerchio pilota estranei ai fatti, alle persone coinvolte e a ogni grado precedente, sul modello dell’articolo 35, comma 2. Il collegio formato soltanto da membri non può disporre l’accoglienza educativa protetta dell’articolo 25, comma 9, né le misure degli articoli 30, comma 3, 31 e 33. Se nessun collegio può essere costituito entro il termine di una convalida, la misura cessa.

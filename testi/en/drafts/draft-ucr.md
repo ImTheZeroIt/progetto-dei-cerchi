@@ -4,7 +4,7 @@
 
 **Calibration draft 0.1, not adopted.** Code 3 (Art. 9) entrusts to a Technical Annex the method for calculating the reproduction cost of goods and services, measured in Reproduction Cost Units (UCR). That annex has never been written. This page proposes a first version of it and uses it straight away for the question on which the whole system depends: are fifteen hours a week enough?
 
-**The answer, in brief.** Counted on need, the Basket costs between 7 and 10 hours a week of internal labour. The manufactured goods required, also counted on need (goods that last, are repaired and are shared), add 1.4 to 2.7 hours. In all, between 9 and 13 hours: below the limit, with a margin of 2–6 hours. It is a first count, full of declared assumptions. The most complete independent study instead measures today’s way of producing and arrives, for a realistic minimum, at about 27 hours. The difference between 13 and 27 is what the project promises to eliminate: it is not proven, and only an experiment can confirm it.
+**The answer, in brief.** Counted on need, the Basket costs between 7 and 10 hours a week of internal labour. The manufactured goods required, also counted on need (goods that last, are repaired and are shared), add 1.4 to 2.7 hours. In all, between 9 and 13 hours: below the limit, with a margin of 2–6 hours. It is a first count, full of declared assumptions. The most complete independent study instead measures today’s way of producing: adding to the minimum scenario the items it lacks, an estimate by the authors leads to about 27 hours. The difference between 13 and 27 is what the project promises to eliminate: it is not proven, and only an experiment can confirm it.
 
 ## 1. What the UCR is
 
@@ -32,7 +32,7 @@ The Code lists seven points that the Annex shall govern (Art. 9, para. 4). The d
 2. **Coefficient of the country of production.** If they are not known, the price is multiplied by the hours of labour per euro of the country in which the good is produced. If it is produced in several countries, each part of the price has its own coefficient.
 3. **European average.** If it is not known where it is produced, the coefficient of the economy in which the Community is located is used, and the value is certified as “assumed”.
 
-The coefficient is the ratio between the hours worked and the output of an economy. In the European Union, in 2024: 353.7 billion hours for 18,043 billion euros, that is **0.0196 hours per euro**: 51 euros of output contain on average one hour of labour. For other countries the draft derives it from output per inhabitant, assuming the same hours worked per inhabitant as in the European Union.
+The coefficient is the ratio between the hours worked and the output of an economy. In the European Union, in 2024: 353.7 billion hours for 18,043 billion euros, that is **0.0196 hours per euro**: 51 euros of output contain on average one hour of labour. For other countries the draft derives it from output per inhabitant, assuming the same hours worked per inhabitant as in the European Union. The coefficient uses the country’s average productivity, whereas exported goods usually come from more productive sectors: the hours in imported goods are therefore probably overestimated.
 
 | Country of production | Hours per euro | One hour of labour every |
 |---|---|---|
@@ -94,10 +94,10 @@ Two scenarios. Scenario A uses minimum standards. Scenario B gives four items (h
 
 | Category | A: essential | B: four services at European level | How it is calculated |
 |---|---|---|---|
-| Food | 10,960 | 10,960 | Field 4,600 hours on 24 hectares; processing 1,800 (assumption: mill, oven for half the cereals, oil mill, preserves); one collective meal a day per person, 4,560 |
+| Food | 10,930 | 10,930 | Field 4,570 hours on 24 hectares; processing 1,800 (assumption: mill, oven for half the cereals, oil mill, preserves); one collective meal a day per person, 4,560 |
 | Energy and water | 3,350 | 3,350 | Twice the European average hours of the sector, for the small scale (assumption) |
 | Care: health | 1,080 | 6,850 | A: WHO threshold of 4.45 workers per 1,000 persons. B: hours of the health sector in the EU |
-| Care: elderly and dependent persons | 2,610 | 4,510 | A: 5 workers per 100 persons over 65 (OECD average). B: hours of social care in the EU, nursery included |
+| Care: elderly and dependent persons | 2,610 | 4,510 | A: 5 workers per 100 persons over 65 (OECD average: it counts persons, not hours, and includes countries where most care is left to families). B: hours of social care in the EU, nursery included |
 | Care: nursery | 1,920 | included above | 40 hours a week for 48 weeks, one adult for every five children (assumption) |
 | Learning | 3,020 | 6,780 | A: one adult for every 12.2 minors (EU average). B: hours of all education in the EU, universities included |
 | Maintenance and construction | 4,430 | 8,850 | A: half the hours of construction in the EU (assumption). B: all of them, new construction included |
@@ -108,7 +108,7 @@ Two scenarios. Scenario A uses minimum standards. Scenario B gives four items (h
 | Share of hours available | 48% | 69% | |
 | Hours a week per contributor | **7.2** | **10.4** | |
 
-**The field, item by item.** Quantities from the Basket draft plus 15% for losses and seed; Italian 2024 yields reduced by a fifth for cultivation without synthetic chemicals; hours per hectare from Italian regional tables.
+**The field, item by item.** Quantities from the Basket draft plus 15% for losses and seed; Italian 2024 yields reduced by a fifth for cultivation without synthetic chemicals; hours per hectare from Italian regional tables, without the extra hours that organic cultivation usually requires (not applied). For vegetables the count uses 700 hours per hectare, a prudent value at the upper end of the tables; for sunflower 24, as in the Lazio table. The hazelnut yield is that of 2024, a crisis year for the Italian harvest.
 
 | Crop | Hectares | Hours a year |
 |---|---|---|
@@ -118,12 +118,12 @@ Two scenarios. Scenario A uses minimum standards. Scenario B gives four items (h
 | Vegetables | 0.7 | 510 |
 | Fruit | 1.0 | 540 |
 | Potatoes | 0.1 | 40 |
-| Oil (sunflower) | 3.0 | 110 |
-| **Total** | **24** | **4,600** |
+| Oil (sunflower) | 3.0 | 70 |
+| **Total** | **24** | **4,570** |
 
 The 24 hectares are close to the 20 estimated in the Basket draft with another method. Nuts alone occupy more than a third of the land and more than half of the field hours: 75 grams a day is a costly quantity.
 
-A check: for the same 150 persons the European Union today employs about 14,100 hours across agriculture, the food industry and catering. The 10,960 hours of the count are of the same order.
+A check: for the same 150 persons the European Union today employs about 14,100 hours across agriculture, the food industry and catering. The 10,930 hours of the count are of the same order.
 
 ### 4.3 Manufactured goods, counted on need
 
@@ -140,7 +140,7 @@ Machines, tools, panels, building materials, medicines, textiles, electronics: t
 | Learning | Materials and instruments | 50 | 150 |
 | **Total** | | **2,291** | **6,740** |
 
-That is 1.4 hours a week per contributor. The inventory is converted with the European average. With the rule of section 2 a good made half in China contains about twice the hours: doubling the whole inventory gives 2.7 hours.
+That is 1.4 hours a week per contributor. The inventory is converted with the European average. With the rule of section 2 a good made half in China contains about twice the hours: doubling the whole inventory gives 2.7 hours. The factor of 2 is an assumption of the project, without a source.
 
 **What this inventory is worth.** Prices and lifetimes are drafting assumptions, listed one by one in the program: they are to be replaced with real quotations. The result, however, does not depend on a wrong price: even tripling the entire inventory the complete count stays below fifteen hours. For comparison, today’s European manufacturing employs about 14,200 hours for 150 persons, food industry excluded: the inventory on need asks for less than half of that.
 
@@ -159,7 +159,7 @@ In a Community that lives within an external economy, manufactured goods are pai
 
 ### 4.5 What the count does not include
 
-1. **Housework in the Nuclei.** Today in Europe each person devotes on average about three hours a day to home and family, of which 30–50 minutes to preparing meals. The count brings into the CBO only one collective meal a day, the nursery, the laundry and the cleaning of common spaces: 1.7 hours a week per contributor. Everything else remains in the Nuclei and is not counted.
+1. **Housework in the Nuclei.** According to the European time-use survey (data collected between 2008 and 2015), each person devotes on average between three and four hours a day to home and family; the 30–50 minutes for preparing meals are an estimate of the project, not of that source. The count brings into the CBO only one collective meal a day, the nursery, the laundry and the cleaning of common spaces: 1.7 hours a week per contributor. Everything else remains in the Nuclei and is not counted.
 2. **Some items not estimated:** repair of tools, mandatory training, civic protection, time for passing on competences.
 3. **Start-up.** Building the Community costs more than maintaining it.
 4. **What the project eliminates.** Commerce, advertising, finance, insurance: they are not in the count, because in the system of Circles they do not exist. It is a choice of the project, not a datum.
@@ -169,17 +169,17 @@ In a Community that lives within an external economy, manufactured goods are pai
 | Comparison | Datum | What it says |
 |---|---|---|
 | Today’s European economy | 787 hours of paid labour per inhabitant a year | The fifteen-hour limit makes available 493 hours per inhabitant: 63% of the paid labour that Europe uses today. |
-| An independent study (McElroy and O’Neill, 2025, on the United Kingdom) | For indispensable goods alone: 17.5 hours a week. Adding what the authors consider necessary for the scenario to be realistic (government, security, universities, childcare, insurance, capital maintenance): 36.7. For a “good life” at the minimum levels asked for by residents: 45.5. Today’s British consumption: 64.7 | Brought to the basis of this count they are 12.7, 26.6, 32.9 and 46.9 hours of CBO a week: the conversion is ours. The study counts all sectors and the labour embodied in imports, with today’s way of producing; it does not count unpaid care work. |
-| Real income-sharing communities (United States) | Twin Oaks, about 100 adults: between 36 and 45 hours a week depending on the source. East Wind, 75 persons: 35 hours. Acorn: 42 hours | The quotas are per adult member and include cooking, cleaning, childcare and the work for the market that finances purchases. They are small communities, little mechanised and with few elderly people: the comparison is indicative. |
+| An independent study (McElroy and O’Neill, 2025, on the United Kingdom) | For indispensable goods alone: 17.5 hours a week. Adding the items that according to the authors that scenario lacks (government, security, universities, childcare, insurance, capital maintenance): 36.7, an estimate made in one sentence of the discussion, not a calculated scenario. For a “good life” at the minimum levels asked for by residents: 45.5. Today’s British consumption: 64.7 | Brought to the basis of this count they are 12.7, 26.6, 32.9 and 46.9 hours of CBO a week: the conversion is ours. On the study’s basis of calculation (population aged 15 to 64, 46.6 weeks a year) the roughly 13 hours of this count would be about 18. The study counts all sectors and the labour embodied in imports, with today’s way of producing; it does not count unpaid care work. |
+| Real income-sharing communities (United States) | Twin Oaks, about 100 adults: between 36 and 44 hours a week depending on the source (weak datum: Wikipedia cites a video, the communities directory gives 40 and 42). East Wind, today between 35 and 45 members: 35 hours. Acorn: 42 hours | The quotas are per adult member and include cooking, cleaning, childcare and the work for the market that finances purchases: to compare them with the CBO, the housework that remains in the Nuclei must be added to it. They are small communities, little mechanised and with few elderly people: the comparison is indicative. |
 
-**Where the difference between 13 and 27 hours comes from.** The count of this draft and the study measure two different things. The study measures the world as it is: in its minimum scenario 29% of the hours are agricultural labour, largely carried out where an hour of labour produces little, and 40–45% are services; the items added to make it realistic weigh more than all the rest. This count measures the system as the project designs it: agriculture with European yields and equipment, administration limited to one tenth of the hours, no commerce, no finance, no insurance, goods that last and are shared. The difference is therefore the project’s wager, put into numbers. The authors of the study reach a similar conclusion: reducing consumption is not enough, the way of producing has to change.
+**Where the difference between 13 and 27 hours comes from.** The count of this draft and the study measure two different things. The study measures the world as it is: in its minimum scenario 29% of the hours are agricultural labour (according to an assumption of the project, which the study does not verify, largely carried out where an hour of labour produces little) and 40–45% are services; the items that the authors add in the discussion weigh more than all the rest. This count measures the system as the project designs it: agriculture with European yields and equipment, administration limited to one tenth of the hours, no commerce, no finance, no insurance, goods that last and are shared. The difference is therefore the project’s wager, put into numbers. The authors of the study reach a similar conclusion: none of their scenarios is realistic, reducing consumption is not enough, the way of producing has to change.
 
 ### 4.7 What can be drawn from it
 
 1. **Counted on need, the count adds up.** Between 9 and 13 hours a week, everything included, against a limit of 15.
 2. **The margin is 2–6 hours, and the uncertainty is of the same order.** Many items are assumptions. The count holds even tripling the manufactured goods, but it is not a measurement.
 3. **The result holds for the system as it is designed, not for today’s way of producing.** With that, the independent estimate gives about 27 hours. The fifteen hours depend on what the project changes: no waste, no intermediation, durable goods, light administration. These are the things to verify first.
-4. **Everything depends on where the boundary between CBO and Nucleus lies.** If all of today’s housework entered the CBO, it alone would be worth 33 hours a week per contributor. The texts leave to each Community the choice of what to make collective: it is the decision that weighs most on the limit.
+4. **Everything depends on where the boundary between CBO and Nucleus lies.** If all of today’s housework entered the CBO, it alone would be worth about 33 hours a week per contributor: an order of magnitude, calculated with three hours a day for all 150 persons. The texts leave to each Community the choice of what to make collective: it is the decision that weighs most on the limit.
 5. **Health and education cannot be sustained with 150 persons.** Scenario A asks for 0.7 health workers and 1.9 teachers full-time by today’s standards: numbers too small to guarantee a service. They are to be shared within the Basin, as the Constitution provides for the hospital (Article 5.1).
 6. **The limit applies to each person, not to the sum.** Specialist hours are divided among those who are qualified (Code 1, Art. 6, para. 3). At 780 hours a year each, health care at European level requires 9 qualified persons out of 95; the minimum level, between one and two. And agricultural work is seasonal: the nut harvest is concentrated in a few weeks, while the permitted peak is 25 hours for two weeks (Code 1, Art. 6, para. 5).
 
@@ -192,8 +192,8 @@ Code 1 already provides for what happens if the hours are not enough: deferrable
 | Three collective meals a day instead of one | +10,140 hours: scenario A goes from 7.2 to 9.3 hours a week of internal labour |
 | No collective meal | −5,070 hours: 6.2 hours a week |
 | Nuts halved | about −1,500 hours: 6.9 hours a week |
-| Cereals, legumes and sunflower grown with 8 hours per hectare, as in German mechanised agriculture | −640 hours: almost all the field labour is in nuts, vegetables and fruit |
-| Energy and water at the European average, without doubling | −1,860 hours: 6.9 hours a week |
+| Cereals, legumes and sunflower grown with 8 hours per hectare, as in German mechanised agriculture | −600 hours: almost all the field labour is in nuts, vegetables and fruit |
+| Energy and water at the European average, without doubling | −1,860 hours: 6.8 hours a week |
 | Inventory of manufactured goods tripled | complete count: 11.3 hours in scenario A, 14.5 in scenario B |
 | 48 working weeks a year instead of 52 | the hours available fall by 8% |
 
@@ -213,7 +213,7 @@ The saving does not go to whoever owns the machine, because no one owns it: the 
 
 | Area | Hours a year in scenario A | What machines can do | What remains for persons |
 |---|---|---|---|
-| Fields | 4,600 | Soil tillage, sowing, irrigation, mechanical weeding. Cereals, legumes and sunflower are already almost entirely mechanised. | The largest part of today’s labour: harvesting and tending nuts, vegetables and fruit. This is where robots would change the count most. |
+| Fields | 4,570 | Soil tillage, sowing, irrigation, mechanical weeding. Cereals, legumes and sunflower are already almost entirely mechanised. | The largest part of today’s labour: harvesting and tending nuts, vegetables and fruit. This is where robots would change the count most. |
 | Food processing | 1,800 | Mill, oil mill, kneading, washing, packaging | Control, recipes, cleaning of the plants |
 | Mines, excavation and raw materials | outside the internal count: it lies in the manufactured goods | Excavation, transport and crushing in hazardous environments. It is the first place from which to remove persons (Code 7, Art. 2, para. 6). | Design, supervision, maintenance, remediation. Reuse and recycling come before extraction: today no text permits new extraction (Const. 14.2). |
 | Construction and maintenance | 4,430 | Excavation, handling of loads, prefabrication, inspections at height | Design, finishing, custom repairs |
@@ -223,7 +223,7 @@ The saving does not go to whoever owns the machine, because no one owns it: the 
 | Collective kitchen | 4,560 | Better equipment | Cooking and serving, in the prudent assumption of this count |
 | Care, health, learning, justice | 8,600 | Only tools operated by a person: hoists, aids, diagnostics | Everything else. The Code prohibits automating care, mediation, the validation of competences and guarantee decisions (Code 7, Art. 6, para. 2). |
 
-**Raw materials.** A Community of 150 persons does not dig mines: metals and minerals come from outside, inside the manufactured goods. The Constitution prohibits any activity that causes irreversible damage to soil and water (Article 14.2): read literally, it prohibits any new mine. Two open proposals ([6 and 7](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals.html)) qualify the subsoil as a common good and ask each Community for an inventory of what can be recovered from buildings, vehicles and landfills. Whether and when to permit extraction remains an open question.
+**Raw materials.** A Community of 150 persons does not dig mines: metals and minerals come from outside, inside the manufactured goods. The Constitution prohibits any activity that causes irreversible damage to soil and water (Article 14.2): read literally, it prohibits any new mine. Two changes accepted on 19 October 2026 ([proposals 6 and 7](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals.html)) qualified the subsoil as a common good and asked each Community for an inventory of what can be recovered from buildings, vehicles and landfills. Whether and when to permit extraction remains an open question.
 
 ### 5.3 How much the count can change
 
@@ -257,10 +257,10 @@ Anyone who has better data can change the assumption in the program, redo the co
 
 Pages consulted on 5 October 2026.
 
-- [Eurostat, population structure by age, EU 2024](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Population_structure_and_ageing)
-- [Eurostat, hours worked and employment by economic activity, EU 2024 (nama_10_a10_e)](https://ec.europa.eu/eurostat/databrowser/view/nama_10_a10_e/default/table)
+- [Eurostat, population structure by age, EU 2024](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Population_structure_and_ageing); [tables by age (demo_pjanind)](https://ec.europa.eu/eurostat/databrowser/view/demo_pjanind/default/table) and [by single year of age (demo_pjan)](https://ec.europa.eu/eurostat/databrowser/view/demo_pjan/default/table)
+- [Eurostat, hours worked and employment by economic activity, EU 2024 (nama_10_a10_e)](https://ec.europa.eu/eurostat/databrowser/view/nama_10_a10_e/default/table); [breakdown into 64 sectors (nama_10_a64_e)](https://ec.europa.eu/eurostat/databrowser/view/nama_10_a64_e/default/table)
 - [Eurostat, gross domestic product, EU 2024 (nama_10_gdp)](https://ec.europa.eu/eurostat/databrowser/view/nama_10_gdp/default/table)
-- [Eurostat, time use: household and family care](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=How_do_women_and_men_use_their_time_-_statistics)
+- [Eurostat, time use: household and family care (data 2008–2015)](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=How_do_women_and_men_use_their_time_-_statistics)
 - [Eurostat, pupils per teacher in the EU](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/edn-20251002-1)
 - [Lazio Region, table of labour requirements per hectare and crop (2008)](https://www.arsial.it/app/uploads/page/3-DGR_506_del_11_07_08.ETTARO-COLTURA.pdf)
 - [Sardinia Region, labour requirements per hectare (2019)](https://old.regione.sardegna.it/documenti/1_38_20190122142552.pdf)
@@ -273,9 +273,9 @@ Pages consulted on 5 October 2026.
 - [Ponisio et al., yield gap of organic agriculture, Proceedings of the Royal Society B (2015)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4286047)
 - [Botta and Valentini, shelled yield of hazelnuts (2017)](https://nocciolare.it/wp-content/uploads/2017/03/Presentazione-Botta-Valentini-Convegno-Agrion-marzo-2017.pdf)
 - [FAO, oil yield of sunflower seeds](https://www.fao.org/3/a-al375e.pdf)
-- [School Nutrition Association, meals per labour hour in collective kitchens (2009)](https://schoolnutrition.org/journal/spring-2009-labor-productivity-standards-in-texas-school-foodservice-operations/)
+- [School Nutrition Association, meals per labour hour in collective kitchens: 10–18, and 16–20 in school canteens (2009)](https://schoolnutrition.org/journal/spring-2009-labor-productivity-standards-in-texas-school-foodservice-operations/)
 - [OECD, Health at a Glance 2021: long-term care workers](https://oecd-ilibrary.org/social-issues-migration-health/health-at-a-glance-2021_c8078fff-en)
 - [WHO, threshold of 4.45 health workers per 1,000 persons (working paper, 2016)](https://www.intrahealth.org/sites/default/files/attachment-files/healthworkforcereq.pdf)
-- [TRSA, laundry productivity (2023)](https://www.trsa.org/magazine-article/a-case-study-on-identifying-kpis-benchmarking/)
-- [McElroy and O’Neill, The labour and resource use requirements of a good life for all (2025)](https://arxiv.org/abs/2411.06337)
-- [Twin Oaks, labour quota (Wikipedia)](https://en.wikipedia.org/wiki/Twin_Oaks_Community,_Virginia); [entry in the directory of intentional communities](https://www.ic.org/directory/twin-oaks/); [East Wind](https://www.eastwind.org/our-work); [Acorn](https://www.ic.org/directory/acorn-community-farm/)
+- [TRSA, laundry productivity (2023)](https://www.trsa.org/magazine-article/a-case-study-on-identifying-kpis-benchmarking/); [FMLink, Benchmarking laundry (2019): from 42 to 57 pounds, that is 19–26 kg, per hour](https://www.fmlink.com/benchmarking-laundry/)
+- [McElroy and O’Neill, The labour and resource use requirements of a good life for all, Global Environmental Change 92, 103008 (2025)](https://doi.org/10.1016/j.gloenvcha.2025.103008); [preprint](https://arxiv.org/abs/2411.06337)
+- [Twin Oaks, labour quota (Wikipedia)](https://en.wikipedia.org/wiki/Twin_Oaks_Community,_Virginia); [entry in the directory of intentional communities](https://www.ic.org/directory/twin-oaks/); [East Wind](https://www.eastwind.org/our-work), [members](https://www.eastwind.org/life-at-eastwind); [Acorn](https://www.ic.org/directory/acorn-community-farm/)

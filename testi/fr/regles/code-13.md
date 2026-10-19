@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 13 — BIODIVERSITÉ, SANCTUAIRES ET FAUNE"
 breve: "Code 13 — Biodiversité, sanctuaires et faune"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "codici"
 ordine: 13
 id: "codice-13"
 slug: "code-13"
-allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.4 ; Code 5 V1.4 ; Code 6 V1.5 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.4 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 14 V1.2 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
 ---
 
 ## Art. 1 — Objet, définitions et nature juridique
@@ -231,7 +231,7 @@ allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5
 
 9.  L’accumulation individuelle d’animaux n’est admise que dans les limites de la capacité de soin définie par la Fiche de bien-être domestique. L’évaluation prend en compte au moins l’espèce et le nombre des animaux, l’espace disponible, les conditions sanitaires, le temps disponible et la capacité effective de garantir le bien-être de chaque animal. Le dépassement de la capacité de soin constitue une violation au sens de l’article 10.
 
-10. La stérilisation est recommandée lorsqu’elle est appropriée, mais n’est pas imposée de manière générale. Pour les aspects sanitaires, zoonotiques ou de risque collectif, s’appliquent les compétences, les procédures et les garanties du Code 6, y compris les éventuelles obligations prévues par ses articles 2 et 2-bis. Toute mesure doit respecter des critères de proportionnalité et de caractère temporaire, garantir l’information de la personne concernée et être soumise à réexamen et aux garanties prévues.
+10. La stérilisation est recommandée lorsqu’elle est appropriée, mais n’est pas imposée de manière générale. Pour les aspects sanitaires, zoonotiques ou de risque collectif, s’appliquent les compétences, les procédures et les garanties du Code 6, y compris les mesures collectives admises par son article 2-bis, alinéa 3-bis. Toute mesure doit respecter des critères de proportionnalité et de caractère temporaire, garantir l’information de la personne concernée et être soumise à réexamen et aux garanties prévues.
 
 11. L’alimentation des animaux de compagnie de proximité peut être assurée au moyen de ressources compatibles avec le Panier, de déchets appropriés ou d’un fonds dédié. Ces ressources ne peuvent pas compromettre le Panier humain des niveaux 1 et 2 et sont régies par la STV Panier du Code 9.
 

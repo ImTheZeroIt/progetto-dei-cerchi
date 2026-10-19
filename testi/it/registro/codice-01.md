@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 1 — DEL CONTRIBUTO DI BASE OBBLIGATORIO E DEL SISTEMA DEI MAGAZZINI COMUNI"
 breve: "Codice 1 — Contributo di base e Magazzini comuni"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 1
 id: "codice-01"
 slug: "codice-01"
-allineamento: "Costituzione V.29; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.4; Codice 5 V1.4; Codice 6 V1.5; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.4; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.30; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
 ---
 
 ## TITOLO I — PRINCIPI GENERALI
@@ -284,7 +284,7 @@ allineamento: "Costituzione V.29; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.4; C
 
     c) conservazione dei beni comuni e prevenzione dell’accumulo privato e dello spreco.
 
-3.  L’accesso ai beni necessari inclusi nel Paniere non può essere condizionato allo svolgimento del CBO o al possesso di CdR.
+3.  L’accesso ai beni necessari inclusi nel Paniere non può essere condizionato allo svolgimento del CBO o al possesso di CdR. Il comma 1, il presente comma, l’articolo 18, comma 1, lettera a), e le disposizioni degli Allegati e degli altri Codici che escludono la subordinazione del Paniere al CBO riguardano i membri e le persone accolte secondo i Codici. Alla persona che ha cessato di essere membro ai sensi dell’articolo 7.3-bis della Costituzione e dell’articolo 29, comma 6-bis, del Codice 4 spettano soltanto l’acqua potabile e le cure d’emergenza salvavita previste dagli articoli 1.3 e 4.9 della Costituzione. Restano integri i diritti dei suoi figli minori.
 
 ### Art. 14 — Tipologie e articolazione territoriale
 
@@ -357,7 +357,7 @@ allineamento: "Costituzione V.29; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.4; C
 
 1.  La distribuzione dei beni è regolata secondo le seguenti categorie:
 
-    a) **beni necessari inclusi nel Paniere di Sufficienza:** accesso libero, gratuito e incondizionato, secondo il bisogno effettivo. L’accesso non può essere subordinato al CBO o ai CdR;
+    a) **beni necessari inclusi nel Paniere di Sufficienza:** accesso libero, gratuito e incondizionato, secondo il bisogno effettivo. L’accesso non può essere subordinato al CBO o ai CdR, salvo quanto previsto dall’articolo 13, comma 3, per chi ha cessato di essere membro ai sensi dell’articolo 7.3-bis della Costituzione;
 
     b) **beni non necessari e disponibili in quantità limitata:** accesso mediante prenotazione o lista d’attesa trasparente; l’eventuale impiego di CdR è disciplinato dall’articolo 45;
 
@@ -708,7 +708,7 @@ f) sono escluse le attività di culto, quelle riservate a una parte dei membri e
 3.  I CdR non impiegati conservano il proprio valore per dodici mesi dalla maturazione. Dal compimento del dodicesimo mese il valore si riduce in proporzione al tempo, di un dodicesimo del valore iniziale al mese, fino a estinguersi al compimento del ventiquattresimo. La maturazione coincide con il giorno in cui l’attività è stata svolta. Ai fini dell’impiego e del tetto ogni CdR conta per il valore che ha in quel momento.
 4.  I parametri dei commi 2 e 3 sono calibrati ogni anno dall’Assemblea Generale. La calibrazione non può eliminare il tetto né la decrescenza.
 5.  Alla morte della persona o alla cessazione dello status di membro i CdR si estinguono.
-6.  Durante la sospensione prevista dall’articolo 7.3 della Costituzione i CdR non possono essere maturati né impiegati.
+6.  Durante la sospensione prevista dall’articolo 7.3 della Costituzione, disposta ai sensi dell’articolo 29, comma 4-bis, del Codice 4, i CdR non possono essere maturati né impiegati.
 
 ### Art. 45 — Impiego
 

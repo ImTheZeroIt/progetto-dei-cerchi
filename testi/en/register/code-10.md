@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 10 — HABITAT AND TERRITORY"
 breve: "Code 10 — Habitat and territory"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "codici"
 ordine: 10
 id: "codice-10"
 slug: "code-10"
-allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 V1.4; Code 5 V1.4; Code 6 V1.5; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
 ---
 
 ## Art. 1 — Subject matter, definitions and legal nature
@@ -154,7 +154,9 @@ The derogation shall be resolved by the Assembly on a proposal from the Agroecol
 
     g) woodlands, wetlands and semi-natural areas;
 
-    h) pollinator refuges, fields, seed banks and infrastructure provided for by Codes 8 and 9.
+    h) pollinator refuges, fields, seed banks and infrastructure provided for by Codes 8 and 9;
+
+    i) portions entrusted by means of an Autonomous Coexistence Pact and the share reserved pursuant to Article 4-bis.
 
 2.  The intended use shall be resolved by the Assembly on a proposal from the Habitat and Territory Council, with:
 
@@ -177,6 +179,44 @@ The derogation shall be resolved by the Assembly on a proposal from the Agroecol
     e) the General Assembly approves the change by qualified majority.
 
 5.  The resolution shall indicate the location, extent, duration, compensations, persons responsible and means of verification.
+
+## Art. 4-bis — Autonomous Coexistence Pact
+
+1.  This Article implements Articles 4.9, letter c), 4.9-bis, 4.9-ter and 7.3-bis of the Constitution. The Autonomous Coexistence Pact is concluded between the non-confederated person, or their nucleus, and Circle 1. For Circle 1 it is concluded by the Assembly, on a proposal from the Habitat and Territory Council and in accordance with Article 4, paragraph 2, within thirty days of the request. The Pact may not be refused to anyone who accepts its conditions, except where the carrying capacity is insufficient as documented pursuant to paragraph 4. An appeal pursuant to Article 9, paragraph 4, may be brought against the refusal, against the act of paragraph 4 and against the identification of the portion.
+
+2.  The Pact shall indicate at least:
+
+    a) the portion of land and, where available, the dwelling entrusted in custody of use, with the boundaries recorded in the Land Register;
+
+    b) the ecological constraints: the prohibitions of Article 9 of this Code, of Article 9, paragraph 1, letters a), g), h) and i), of Code 9 and of Article 10 of Code 13, and the buffer zones and ecological connectivity of Articles 2 and 6;
+
+    c) compliance with the disarmament provided for by Article 16 of the Constitution;
+
+    d) access to drinking water, pursuant to Article 4-bis of Code 8, to the water necessary for the portion and to life-saving emergency care;
+
+    e) the absence of ordinary withdrawals from the Storehouses and the arrangements for any exchange of real surpluses, without profit and without attribution of CdR;
+
+    f) for the minors of the nucleus, access to care, to learning and to the protection of Codes 5, 6 and 12 on the same conditions as minor members;
+
+    g) the arrangements for verification and revision.
+
+The CBO and the other obligations reserved for members do not apply to a person living by means of a Pact; the conditions of the Pact and the rules that the Constitution and the Codes address to anyone who is in the territory apply.
+
+3.  The portion is recorded in the territorial map in the category of Article 4, paragraph 1, letter i). It remains an inalienable Common Good and returns to the custody of the Circle at the end of the use. The Pact does not constitute a transfer of control within the meaning of Article 9, paragraph 1, letter f), of Code 9.
+
+4.  The carrying capacity is documented by the Habitat and Territory Council, with the mandatory opinion of the Agroecological Council and of the Energy and Water Council, in a public act that indicates the land and water necessary for the self-sufficiency of the person or the nucleus and those available. The Pact may not be refused on grounds of carrying capacity until the share of paragraph 5 has been entirely entrusted.
+
+5.  Every Circle 1 shall reserve for the Pact a share of land, recorded in the map, sufficient for the self-sufficiency of at least one person for every hundred residents or fraction of a hundred. Until it is entrusted, the share may be used by the Community only by reversible occupation and shall be made available within ninety days of the conclusion of the Pact. The obligation is accepted with the act of accession provided for by Article 38.1 of the Constitution and does not derive from a power of a higher Circle.
+
+6.  If the Pact is refused on grounds of carrying capacity, Circle 1 shall inform without delay Circle 2, which within thirty days, through its spokespersons and on the basis of the maps, shall identify a Circle 1 with an available share, taking account of the preferences of the person and of proximity. The Circle 1 identified shall conclude the Pact on its own share pursuant to paragraph 1. If the shares of Circle 2 are exhausted, the case passes to Circle 3, with the same obligation and the same time limit. Where the requirement of a nucleus exceeds the share of each Circle 1, the portion may be formed from shares of neighbouring Circles 1; the Pact is concluded by the Circle 1 that makes the larger part of it available. If no sufficient share is available even in Circle 3, the portion is assigned on the first share that becomes available, in the order of the requests, and the Circle 1 whose share has been entirely entrusted shall reconstitute it within twelve months, within the limits of carrying capacity.
+
+7.  From the request for the Pact until the handover of the portion, the person who accepts its conditions exercises the right of residence of Article 4.9, letter c), of the Constitution: the fourteen-day limit of temporary hospitality does not apply to them. The Circle 1 in which they are shall ensure them housing in a Bridge House or in the equipped stopping area, access to the Basket according to actual requirements and CBO in mobility where compatible, in accordance with Article 6-ter of Code 11. The reception is provisional, is limited to the time necessary for the handover and ceases with it. It also ceases if the person refuses without justification the portion identified pursuant to paragraphs 1 or 6 or withdraws acceptance of the conditions; Article 32-bis, paragraph 2, of Code 4 then applies.
+
+8.  The Pact is of indefinite duration. It ceases upon withdrawal by the person, which is always possible, upon their entry into or return to the Confederation, upon non-use of the portion continued for more than twelve months without justification, as ascertained in accordance with Code 4, or upon relocation pursuant to Article 32-bis of Code 4. Cessation does not prevent a request for a new Pact. Violation of the conditions is dealt with in accordance with Code 4 and may give rise only to the revision provided for by Article 32-bis of that Code.
+
+9.  During the transition the Pact is concluded in the forms permitted by the law in force and includes acceptance of Chapter V of Code 4, pursuant to its Article 37, paragraph 1. Until a Basin exists, the search of paragraph 6 is carried out by the pilot Circle with the other pilot Circles and with the available kindred entities; in the meantime paragraph 7 applies.
+
+10. For a person who ceases to be a member pursuant to Article 7.3-bis of the Constitution, the portion is assigned by the Guarantee Tribunal, pursuant to Article 29, paragraph 6-bis, of Code 4, on the share of paragraph 5. The Habitat and Territory Council identifies it and records it in the Land Register. The portion is assigned without a dwelling, even if a dwelling is available, and without tools or other goods of the Community; the person may build a shelter on it by their own efforts, in compliance with the constraints of paragraph 2, letter b). Paragraph 2, letters b) to g), and paragraphs 3, 6 and 8 apply; paragraph 7 does not apply, because the person remains a member until the handover. Upon readmission the portion returns to the share.
 
 ## Art. 5 — Land take and regeneration
 
@@ -349,7 +389,9 @@ A provisional minimum Land Register shall also be activated.
 
     d) the minimum buffer zones;
 
-    e) the node of the Federated Agroecological Network.
+    e) the node of the Federated Agroecological Network;
+
+    f) the share reserved for the Autonomous Coexistence Pact provided for by Article 4-bis, paragraph 5.
 
 4.  In the event of a documented overlap of the transitional burdens relating to Codes 8, 9 and 10, the Assembly may grant a reasoned extension not exceeding six months, accompanied by a binding plan and by measures that guarantee the continuity of the Basket.
 

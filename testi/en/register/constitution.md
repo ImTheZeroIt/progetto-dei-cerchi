@@ -1,11 +1,12 @@
 ---
 titolo: "CONSTITUTION OF THE CONFEDERATION OF CIRCLES"
 breve: "Constitution"
-versione: "V.29"
+versione: "V.30"
 gruppo: "costituzione"
 ordine: 0
 id: "costituzione"
 slug: "constitution"
+natura: "supreme founding text of the Confederation of Circles"
 ---
 
 ## Art. 0 — Purposes
@@ -34,7 +35,7 @@ c) health care, education and connectivity;
 
 d) a personal AI Node.
 
-1.3. The rights in paragraph 1.2 are guaranteed unconditionally to every member, except as provided in Articles 1.3-bis and 4.8. Article 4.9 applies to those who are not members. Drinking water, life-saving emergency care and the protection of minors remain guaranteed in every case to anyone who is in the territory held in custody by a Circle.
+1.3. The rights in paragraph 1.2 are guaranteed unconditionally to every member, except as provided in Articles 1.3-bis, 4.8 and 7.3-bis. Article 4.9 applies to those who are not members. Drinking water, life-saving emergency care and the protection of minors remain guaranteed in every case to anyone who is in the territory held in custody by a Circle.
 
 1.3-bis. For offences of Grade 5 or 6 that seriously harm physical or sexual integrity, the Code of Restorative Justice may provide, in the event of recidivism established by a final judgment of the Guarantee Tribunal, for loss of member status and the application of High-Security Containment or of Definitive Removal from the Circles concerned. Containment has no predetermined duration, but it is not perpetual: it lasts for as long as a concrete and present danger persists, as established by periodic review. Definitive Removal does not deprive the person of the vital guarantees of Article 30.4 nor of the possibility of living in another Circle willing to receive them or by means of an Autonomous Coexistence Pact. The relevant acts include, in particular, sexual violence, sexual abuse of minors, intentional homicide and torture. The death penalty, torture and any inhuman or degrading treatment remain prohibited at all times. Preconditions, guarantees and procedures are governed exclusively by the Code of Restorative Justice, in compliance with the non-derogable minimum guarantees provided for by the Constitution. The cases and measures provided for in this paragraph may not be extended.
 
@@ -42,13 +43,13 @@ d) a personal AI Node.
 
 2.1. Labour is not a commodity: it is a contribution to common life.
 
-2.2. The rights referred to in Article 1 are unconditional for the individual. Their material guarantee depends on collective contribution, structured in the following institutions governed by Title III:
+2.2. The rights referred to in Article 1 are guaranteed to the individual in accordance with Article 1.3: they do not depend on the hours performed or on the CdR, and refusal of the CBO affects them only in the case of Article 7.3-bis. Their material guarantee depends on collective contribution, structured in the following institutions governed by Title III:
 
 a) the Mandatory Base Contribution (CBO), as a share of socially necessary labour;
 
 b) the Recognition Contribution (CdR), as recognition of the value generated.
 
-2.3. The Confederation is founded on material interdependence: production is organised collectively according to the capacities available and enjoyment is guaranteed in relation to real needs. If a community interrupts production, the material availability of goods or services may be reduced for everyone; the inviolable rights remain legally intact and the vital guarantees shall be preserved. The CBO is not individual consideration for the rights, but an expression of collective co-responsibility.
+2.3. The Confederation is founded on material interdependence: production is organised collectively according to the capacities available and enjoyment is guaranteed in relation to real needs. If a community interrupts production, the material availability of goods or services may be reduced for everyone; the inviolable rights remain legally intact and the vital guarantees shall be preserved. The CBO is not the price of individual goods or services: no one obtains them in exchange for the hours performed and enjoyment remains commensurate with real needs. The CBO is the minimum contribution that every able adult person owes to the Community as a condition of membership, and it is an expression of collective co-responsibility. Persistent and unjustified refusal of the CBO may entail the cessation of member status only in the case and with the guarantees of Article 7.3-bis. Illness, disability, age, pregnancy, conscientious objection and the other impediments, exemptions and justifications recognised by the Constitution and by the Codes never constitute refusal.
 
 ## Art. 3 — Regime of goods
 
@@ -124,7 +125,7 @@ b) to temporary hospitality pursuant to Article 12, for a non-extendable maximum
 
 c) to stable residence by means of an Autonomous Coexistence Pact with the Circle 1 in whose territory they reside or with another available Circle 1. The Pact is a right: it may not be refused to anyone who accepts its conditions. If the documented carrying capacity of the territory does not allow it, Circle 2 shall identify another placement without delay.
 
-4.9-bis. By the Autonomous Coexistence Pact, a portion of land and, where available, a dwelling sufficient for self-sufficiency are entrusted to the person or to their nucleus, in custody of use, within the limits of carrying capacity. The portion remains an inalienable Common Good pursuant to Article 3 and returns to the custody of the Circle at the end of the use. The Pact establishes compliance with the ecological constraints, with the status of animals and with the disarmament referred to in Article 16, access to water and to emergency care, the absence of ordinary withdrawals from the Storehouses and the arrangements for any exchange of real surpluses, without profit. The rights of minors referred to in Article 26, including access to care and to learning, remain intact.
+4.9-bis. By the Autonomous Coexistence Pact, a portion of land and, where available, a dwelling sufficient for self-sufficiency are entrusted to the person or to their nucleus, in custody of use, within the limits of carrying capacity. The portion remains an inalienable Common Good pursuant to Article 3 and returns to the custody of the Circle at the end of the use. The Pact establishes compliance with the ecological constraints, with the status of animals and with the disarmament referred to in Article 16, access to water and to emergency care, the absence of ordinary withdrawals from the Storehouses and the arrangements for any exchange of real surpluses, without profit. For a person who has ceased to be a member pursuant to Article 7.3-bis, until readmitted, the portion is entrusted with access to the necessary water, without a dwelling, even if one is available, and without tools or other goods of the Community; the person may build a shelter on it by their own efforts. The rights of minors referred to in Article 26, including access to care and to learning, remain intact.
 
 4.9-ter. Anyone who resides stably without a Pact and without contribution shall be offered the Autonomous Coexistence Pact. Only if the offer is persistently refused may the Guarantee Tribunal order a non-violent procedure of removal from the common settlement, with the assignment ex officio of a portion pursuant to paragraph 4.9-bis. The non-confederated person may not invoke Article 1.2 in order to obtain continuous access to the Storehouses.
 
@@ -196,7 +197,7 @@ Further Competence Circles may be established on the basis of a Dossier pursuant
 
 ## Art. 7 — Mandatory Base Contribution
 
-7.1. Every able adult person contributes, according to capacity and inclination, to the satisfaction of collective needs through the CBO. The total requirement is determined by the Circles in relation to real needs. The CBO is not the consideration for the inviolable rights; it contributes to making their material guarantee possible.
+7.1. Every able adult person contributes, according to capacity and inclination, to the satisfaction of collective needs through the CBO. The total requirement is determined by the Circles in relation to real needs. The CBO is not the price of the goods and services that guarantee the inviolable rights; it contributes to making their material guarantee possible and is the contribution owed as a condition of membership, pursuant to Article 2.3. Refusal of the CBO affects member status only in the case and with the guarantees of paragraph 7.3-bis.
 
 7.2. Every adult person devotes a limited time, by rotation, to essential tasks identified by the Community of Circle 1. The CBO includes, by way of example:
 
@@ -221,6 +222,8 @@ i) functions, conferred by sortition, of coordination, facilitation, guarantee, 
 Cultural, artistic, spiritual, recreational and affective activities, free research and contemplation are excluded from the CBO.
 
 7.3. The systematic and unjustified refusal of the CBO by an able adult person is addressed progressively by the Clarification Assembly of Circle 1. Before any measure, the readjustment of tasks and mediation shall be considered, and the person shall be informed of the right to the Autonomous Coexistence Pact referred to in Article 4.9, letter c). If these are unsuccessful, the CdR and access to non-essential resources may be suspended, without prejudice to the vital guarantees of Article 1.2. Persistence in the refusal for more than sixty days, in the absence of a valid conscientious objection, a recognised impediment or another justification provided for by the Code of Restorative Justice, constitutes a Grade 3 offence pursuant to Article 30.2.
+
+7.3-bis. In implementation of Article 2.3, if, once the Transformation Plan ordered for the Grade 3 offence provided for by paragraph 7.3 has been concluded, including any renewal, the able adult person continues to refuse the CBO without justification, the Guarantee Tribunal may declare, with the guarantees of Article 31.5 and of the Codes, the cessation of their member status. Conscientious objection under Article 7.4, illness, disability, age, pregnancy and the other impediments, exemptions and justifications recognised by the Codes never constitute unjustified refusal. The cessation is the exception provided for this case by Article 1.3 and produces the effects of Article 4.8; it is not the loss of member status of Article 1.3-bis and does not entail any of the measures of Article 30.3. A portion of land from the share reserved for the Pact, with access to the necessary water, without a dwelling and without tools or other goods of the Community, is assigned to the person in custody of use, with the Autonomous Coexistence Pact in the form provided for this case by Article 4.9-bis; the person retains the Personal-Use Goods, drinking water, life-saving emergency care and the protection of minors guaranteed to anyone by the last sentence of Article 1.3, and the other rights of Article 4.9 within the limits of Article 4.9-bis. The person may apply at any time for readmission, by resuming the CBO: readmission may not be refused on account of the past refusal. Minor children retain member status and all rights; the Guarantee Tribunal decides in their interest where and with whom they live, in accordance with the Code of Care. Preconditions and procedure are governed by the Code of Restorative Justice and may not be extended to other cases, pursuant to Article 37.4, letter a).
 
 7.4. Individual conscientious objection is guaranteed in respect of tasks of the CBO or of the CTC that are incompatible with the person’s ethical or spiritual convictions. In that case an equivalent activity is assigned.
 
@@ -556,7 +559,7 @@ a) the Clarification Assembly of Circle 1, for offences of Grade 1 and 2;
 
 b) the Transformation Council, for offences of Grade 3;
 
-c) the Guarantee Tribunal of Circle 2, for offences of Grade 4, 5 and 6 and for urgent review within twenty-four hours;
+c) the Guarantee Tribunal of Circle 2, for offences of Grade 4, 5 and 6, for urgent review within twenty-four hours and for the other guarantee functions assigned by the Codes;
 
 d) the Guarantee Circle of Circle 1, for restorative facilitation, the protection of procedural guarantees and the appeals provided for by the Codes.
 
@@ -632,7 +635,7 @@ b) two thirds of the total voters.
 
 37.4. **Inviolable Core.** The following are removed from any revision procedure, even with the Long Double Majority:
 
-a) the purposes referred to in Article 0 and the inviolable rights referred to in Article 1. The exceptions provided for in Articles 1.3-bis, 18.7, 30.3 and 30.4 for the most serious recidivism against personal safety and for the security measures protecting the injured person or the community may not be extended to further cases, measures or persons;
+a) the purposes referred to in Article 0 and the inviolable rights referred to in Article 1. The exceptions provided for in Articles 1.3-bis, 18.7, 30.3 and 30.4 for the most serious recidivism against personal safety and for the security measures protecting the injured person or the community, and the exception provided for by Article 7.3-bis for persistent and unjustified refusal of the CBO, may not be extended to further cases, measures or persons;
 
 b) the prohibitions of mass biometric recognition, of biometric profiling and of centralised AI referred to in Articles 18.2, 19.2, 20.2 and 23.1, without prejudice to the exception in Article 18.7;
 

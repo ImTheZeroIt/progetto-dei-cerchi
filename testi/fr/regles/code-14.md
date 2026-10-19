@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 14 — SÉCURITÉ GÉNÉRALE DES PERSONNES, DES INFRASTRUCTURES ET DES TÂCHES"
 breve: "Code 14 — Sécurité générale"
-versione: "V1.2"
+versione: "V1.3"
 gruppo: "codici"
 ordine: 14
 id: "codice-14"
 slug: "code-14"
-allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.4 ; Code 5 V1.4 ; Code 6 V1.5 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.4 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 15 V1.4 ; Code 16 V1.4."
 ---
 
 ## Art. 1 — Objet, définitions et répartition des compétences
@@ -216,8 +216,8 @@ allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5
 
 1.  La dotation est limitée à des instruments de protection individuelle, de neutralisation non lésionnelle, de secours technique et de communication. Sont interdits les armes à feu, les armes de guerre et les instruments de torture ou de coercition lésionnelle. La STV Protection civique énumère de manière limitative les instruments admis et est adoptée sur avis obligatoire du Conseil Santé.
 2.  Les interventions de contention reposent sur la désescalade, l’interposition et l’immobilisation non lésionnelle et durent le temps strictement nécessaire pour faire cesser un danger actuel pour l’intégrité physique des personnes. L’usage de la force au-delà du strict nécessaire constitue une infraction de Degré 4.
-3.  Le Corps ne mène pas d’enquêtes, n’exerce pas de surveillance et ne recueille pas d’informations sur les personnes. Il ne peut pas entrer dans un Cercle 0, sauf si cela est nécessaire à un secours immédiat en présence d’un danger pour la vie.
-4.  Toute limitation de la liberté de mouvement d’une personne est communiquée sans délai au Tribunal de garantie et est soumise à la validation dans un délai de vingt-quatre heures prévue par l’article 34 du Code 4.
+3.  Le Corps ne mène pas d’enquêtes, n’exerce pas de surveillance et ne recueille pas d’informations sur les personnes. Il ne peut pas entrer dans un Cercle 0, sauf si cela est strictement nécessaire pour porter secours ou pour faire cesser un danger actuel pour la vie ou pour l’intégrité physique ou sexuelle d’une personne. L’entrée est communiquée immédiatement au Tribunal de garantie et est soumise à la validation dans un délai de vingt-quatre heures prévue par l’article 34, alinéa 2, du Code 4. En dehors de ces cas, le Corps n’entre dans un Cercle 0 qu’avec l’autorisation motivée du Tribunal de garantie, pour exécuter une mesure de protection ordonnée conformément au Code 4 ou au Code 12, lorsque cela est strictement nécessaire à la protection des droits inviolables d’une personne.
+4.  Toute limitation de la liberté de mouvement d’une personne est communiquée sans délai au Tribunal de garantie et est soumise à la validation dans un délai de vingt-quatre heures prévue par l’article 34 du Code 4. Pour les personnes en crise aiguë et pour l’isolement et la quarantaine sanitaires, seule s’applique la validation prévue, respectivement, par l’article 8, alinéa 7, et par l’article 2-bis, alinéa 3-quater, du Code 6. La révision de l’activation prévue par l’article 8-quater, alinéa 2, reste en tout cas applicable.
 5.  Pour les personnes en crise aiguë, le protocole non coercitif de l’article 8 du Code 6 s’applique. Pour les mineurs et les personnes fragiles, le Code 12 s’applique.
 6.  En cas d’agression extérieure, le Corps coordonne la défense civile non violente prévue par l’article 16.4 de la Constitution : interposition, non-coopération, protection et évacuation des personnes. L’emploi d’armes reste interdit.
 

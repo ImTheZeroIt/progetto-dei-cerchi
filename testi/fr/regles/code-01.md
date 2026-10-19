@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 1 — DE LA CONTRIBUTION DE BASE OBLIGATOIRE ET DU SYSTÈME DES ENTREPÔTS COMMUNS"
 breve: "Code 1 — Contribution de base et Entrepôts communs"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 1
 id: "codice-01"
 slug: "code-01"
-allineamento: "Constitution V.29 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.4 ; Code 5 V1.4 ; Code 6 V1.5 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.4 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.30 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
 ---
 
 ## TITRE I — PRINCIPES GÉNÉRAUX
@@ -284,7 +284,7 @@ allineamento: "Constitution V.29 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.4
 
     c) conservation des biens communs et prévention de l’accumulation privée et du gaspillage.
 
-3.  L’accès aux biens nécessaires inclus dans le Panier ne peut pas être subordonné à l’accomplissement de la CBO ou à la détention de CdR.
+3.  L’accès aux biens nécessaires inclus dans le Panier ne peut pas être subordonné à l’accomplissement de la CBO ou à la détention de CdR. L’alinéa 1, le présent alinéa, l’article 18, alinéa 1, lettre a), et les dispositions des Annexes et des autres Codes qui excluent la subordination du Panier à la CBO concernent les membres et les personnes accueillies conformément aux Codes. À la personne qui a cessé d’être membre en application de l’article 7.3-bis de la Constitution et de l’article 29, alinéa 6-bis, du Code 4 ne reviennent que l’eau potable et les soins d’urgence vitale prévus par les articles 1.3 et 4.9 de la Constitution. Les droits de ses enfants mineurs restent intacts.
 
 ### Art. 14 — Types et organisation territoriale
 
@@ -357,7 +357,7 @@ allineamento: "Constitution V.29 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.4
 
 1.  La distribution des biens est réglée selon les catégories suivantes :
 
-    a) **biens nécessaires inclus dans le Panier de suffisance :** accès libre, gratuit et inconditionnel, selon le besoin effectif. L’accès ne peut pas être subordonné à la CBO ou aux CdR ;
+    a) **biens nécessaires inclus dans le Panier de suffisance :** accès libre, gratuit et inconditionnel, selon le besoin effectif. L’accès ne peut pas être subordonné à la CBO ou aux CdR, sauf ce que prévoit l’article 13, alinéa 3, pour qui a cessé d’être membre en application de l’article 7.3-bis de la Constitution ;
 
     b) **biens non nécessaires et disponibles en quantité limitée :** accès sur réservation ou au moyen d’une liste d’attente transparente ; l’utilisation éventuelle de CdR est régie par l’article 45 ;
 
@@ -708,7 +708,7 @@ f) sont exclus les activités de culte, celles qui sont réservées à une parti
 3.  Les CdR non utilisées conservent leur valeur pendant douze mois à compter de leur acquisition. À partir de la fin du douzième mois, la valeur diminue proportionnellement au temps, d’un douzième de la valeur initiale par mois, jusqu’à s’éteindre à la fin du vingt-quatrième. L’acquisition coïncide avec le jour où l’activité a été accomplie. Aux fins de l’utilisation et du plafond, chaque CdR compte pour la valeur qu’elle a à ce moment.
 4.  Les paramètres des alinéas 2 et 3 sont calibrés chaque année par l’Assemblée générale. Le calibrage ne peut supprimer ni le plafond ni la décroissance.
 5.  Au décès de la personne ou à la cessation du statut de membre, les CdR s’éteignent.
-6.  Pendant la suspension prévue par l’article 7.3 de la Constitution, les CdR ne peuvent être ni acquises ni utilisées.
+6.  Pendant la suspension prévue par l’article 7.3 de la Constitution, ordonnée en application de l’article 29, alinéa 4-bis, du Code 4, les CdR ne peuvent être ni acquises ni utilisées.
 
 ### Art. 45 — Utilisation
 

@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 11 — ON LOGISTICS AND BASIC MOBILITY"
 breve: "Code 11 — Logistics and basic mobility"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "codici"
 ordine: 11
 id: "codice-11"
 slug: "code-11"
-allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 V1.4; Code 5 V1.4; Code 6 V1.5; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.4; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
 ---
 
 ## Art. 1 — Subject matter and definitions
@@ -252,7 +252,7 @@ allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 
 1.  Each Circle 1 shall allocate to Bridge Houses from ten to fifteen per cent of its housing, pursuant to Article 12.1 of the Constitution. Bridge Houses are Commons; their location follows Code 10. Voluntary rotation in their management does not constitute additional CBO.
 2.  Bridge Houses may be booked through the Network or by a non-digital procedure, according to actual availability.
 3.  Hospitality does not require CdR where it is due to care, emergency, relocation pursuant to Article 49 of Code 1, transit towards another Circle, CBO in mobility, functions conferred by sortition or learning, and where it concerns non-confederated persons pursuant to Article 4.9 of the Constitution. Ordinary non-essential hospitality may require the use of CdR in accordance with Article 45 of Code 1.
-4.  Hospitality between members has an ordinary minimum duration of fourteen days, except in cases of care, emergency, relocation or transit. Hospitality for non-confederated persons shall not exceed fourteen days and may not be extended.
+4.  Hospitality between members has an ordinary minimum duration of fourteen days, except in cases of care, emergency, relocation or transit. Hospitality for non-confederated persons shall not exceed fourteen days and may not be extended. This is without prejudice to the reception of persons awaiting placement under the Autonomous Coexistence Pact, provided for by Article 4-bis, paragraph 7, of Code 10.
 5.  Guests shall not ordinarily exceed fifteen per cent of residents, except for care, emergency, relocation or transit.
 6.  The exhaustion of the Bridge Houses may not prevent entry. The Community shall ensure an equipped stopping area and access to the Storehouse according to actual requirements.
 7.  CBO in mobility may be requested at the host Community only if it is compatible with the person’s condition and is counted towards that person’s CBO.

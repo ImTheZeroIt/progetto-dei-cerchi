@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 12 — COMMUNITY CARE, FUNCTIONAL FRAILTIES AND COMMUNITY HEALTH"
 breve: "Code 12 — Community care"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "codici"
 ordine: 12
 id: "codice-12"
 slug: "code-12"
-allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 V1.4; Code 5 V1.4; Code 6 V1.5; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.4; Code 11 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
 ---
 
 ## Art. 1 — Subject matter, definitions and scope of competence
@@ -236,9 +236,26 @@ allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 1.  In the event of violence, serious neglect or harm to the detriment of a minor or of a person who is unable to protect himself or herself, the Care Council shall activate without delay a protection pathway, pursuant to Article 26.3 of the Constitution. The pathway comprises making safe, listening and, if necessary, temporary reception with trusted persons or in a protected space.
 2.  The fact shall be reported to the Guarantee Circle for the procedures of Code 4. Reports in the Network shall be limited to the information necessary for protection. During the transition Article 37 of Code 4 shall apply.
-3.  The separation of a minor from his or her Circle 0 is permitted only as a temporary protection measure and shall be subject to validation by the Guarantee Tribunal within twenty-four hours, pursuant to Article 34 of Code 4.
+3.  The separation of a minor from his or her Circle 0 is permitted only as a temporary protection measure, where the minor cannot be made safe while remaining in Circle 0. It is ordered:
+
+    a) in the presence of an immediate danger, pursuant to Article 34, paragraph 1, of Code 4;
+
+    b) in the other cases of violence, serious neglect or harm, by the Guarantee Circle on a reasoned proposal from the Care Council, after hearing the minor and, unless this exposes the minor to danger, the persons who hold responsibility for his or her care.
+
+The separation shall be communicated without delay to the Guarantee Tribunal, which shall validate, modify or revoke it within twenty-four hours; in the absence of validation it ceases. The minor is received, where possible, by persons he or she trusts. The validation shall indicate who, during the separation, takes everyday decisions and gives consent to care pursuant to Article 2-ter of Code 6. The validated separation lasts until the decision of paragraph 3-bis and ceases with it. Article 34, paragraph 3, of Code 4 does not apply.
+
+3-bis. Within thirty days of the validation the Guarantee Tribunal shall take the stable decision on custody of the minor, after hearing the minor, assisted by the trusted person provided for by Article 31.5 of the Constitution, the persons who hold responsibility for his or her care, with the guarantees of Article 25, paragraph 4, of Code 4, and the Care Council. The time limit may be extended once only, for no more than a further thirty days, by reasoned decision, where a necessary element cannot be obtained earlier, such as a health assessment of the minor. On expiry the Tribunal shall decide on the basis of the record; if the decision is not adopted, the separation ceases. Taking account of the will of the minor according to age and maturity, it shall order:
+
+a) the return to Circle 0, where appropriate with a support pathway; or
+
+b) only where the return would expose the minor to violence, serious neglect or harm that a support pathway cannot prevent, custody with persons who assume responsibility for care pursuant to Article 24.3 of the Constitution, indicating whether that responsibility remains shared with the persons who exercised it or is suspended for them, and how relations with them are maintained, unless this harms the minor.
+
+The decision shall be reviewed by the Tribunal at least every six months and at any time at the request of the minor or of the persons who held responsibility for care. Review under Article 35, paragraph 2, of Code 4 is permitted against it. This paragraph also applies to the decision on where and with whom the minor children of a person who ceases to be a member pursuant to Article 29, paragraph 6-bis, of Code 4 live; the decision is taken before the cessation takes effect and does not require the separation of paragraph 3. In that case the cessation does not, by itself, constitute violence, serious neglect or harm within the meaning of letter b), and the Tribunal may also order that the minor live with the person on the portion assigned, with the housing, the Basket and the services due to him or her as a member.
+
+3-ter. During the transition the separation against the will of those who hold responsibility for care and the decisions of paragraph 3-bis fall to the competent authorities of the State, pursuant to Article 37 of Code 4. The Care Council reports the case, supports the minor and cooperates in his or her reception.
+
 4.  Every person may designate in advance a representative for the event of incapacity, including by means of the living will provided for in Article 8-bis of Code 6.
-5.  In the absence of a designation and in the event of urgency, the Guarantee Circle shall appoint within twenty-four hours a temporary representative, chosen in the following order from among the persons of Circle 0 indicated by the person, his or her trusted person and a person drawn by lot with L2 competence in care, free of conflicts of interest. The office shall last no more than thirty days and shall be renewable by reasoned decision.
+5.  In the absence of a designation and in the event of urgency, the Guarantee Circle shall appoint within twenty-four hours a temporary representative, chosen in the following order from among the persons of Circle 0 indicated by the person, his or her trusted person and a person drawn by lot with L2 competence in care, free of conflicts of interest. The office shall last no more than thirty days and shall be renewable by reasoned decision until the appointment of the stable representative provided for by Article 2-ter, paragraph 5, of Code 6, which the Guarantee Circle shall request from the Guarantee Tribunal when the incapacity lasts or is expected to last more than sixty days.
 6.  The representative shall decide in accordance with the expressed or presumable will of the person and, failing that, in accordance with his or her best interests. The office shall cease when the person recovers capacity.
 
 ## Art. 8 — Care Dependency Register
@@ -283,7 +300,7 @@ allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     f) use data on functional frailty for profiling or for purposes other than the taking into care and the technical purposes expressly permitted by Code 7;
 
-    g) order the forced institutionalisation of a person, except for a temporary placement strictly necessary in the face of an immediate risk, adopted with the guarantees of Code 4. Any health treatments remain governed by Code 6 and by the related guarantees.
+    g) order the forced institutionalisation of a person, except for a temporary placement strictly necessary in the face of an immediate risk, adopted on the conditions and with the guarantees of Article 8, paragraphs 4 to 10, of Code 6; for minors Article 7-bis, paragraph 3, applies. Any health treatments remain governed by Code 6 and by the related guarantees.
 
 2.  Violations of paragraph 1 constitute substantial violations. The ascertainment, the precautionary measures, the suspension or deactivation of the function and the remedies shall be adopted in accordance with Code 4. The Care Council shall document the facts and activate the procedures provided for, without taking the place of the bodies competent for the ascertainment or for the application of the remedies.
 

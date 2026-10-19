@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 4 — ON RESTORATIVE JUSTICE AND GUARANTEE"
 breve: "Code 4 — Restorative justice and guarantee"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "codici"
 ordine: 4
 id: "codice-04"
 slug: "code-04"
-allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 5 V1.4; Code 6 V1.5; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.4; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
 ---
 
 ## CHAPTER I — GENERAL PROVISIONS, PRINCIPLES AND DEFINITIONS
@@ -371,7 +371,7 @@ The suspension shall be reasoned, communicated to the parties and subject to per
 
     c) definitive exclusion or category exclusion on principle falls to the General Assembly.
 
-6.  Loss of member status by a person is permitted exclusively in the cases of Article 1.3-bis of the Constitution and in accordance with Chapter V. No measure under this Article may deprive a member of the rights of Article 1.2 of the Constitution.
+6.  Loss of member status by a person is permitted exclusively in the cases of Article 1.3-bis of the Constitution and in accordance with Chapter V. The cessation of status for persistent refusal of the CBO, provided for by Article 7.3-bis of the Constitution, is governed solely by Article 29, paragraph 6-bis. No measure under this Article may deprive a member of the rights of Article 1.2 of the Constitution.
 
 ### Art. 14 — Restorative Register
 
@@ -547,7 +547,7 @@ The Panel may not order a definitive or category exclusion, which is reserved to
 
 ### Art. 25 — Common principles and guarantees
 
-1.  This Chapter implements Articles 1.3-bis, 18.7, 30 and 31 of the Constitution. The restorative procedure of Chapters II, III and IV remains the ordinary and priority route. The bodies of this Chapter intervene where it is not accepted, does not produce an agreement or is not adequate to the seriousness of the fact.
+1.  This Chapter implements Articles 1.3-bis, 7.3, 7.3-bis, 18.7, 30 and 31 of the Constitution. The restorative procedure of Chapters II, III and IV remains the ordinary and priority route. The bodies of this Chapter intervene where it is not accepted, does not produce an agreement or is not adequate to the seriousness of the fact.
 
 2.  No one may be subjected to a measure for a fact which, at the time it was committed, was not provided for as an offence by the Constitution or by the Codes. The definitions of offences may not be extended by analogy.
 
@@ -567,13 +567,13 @@ The Panel may not order a definitive or category exclusion, which is reserved to
 
 5.  The injured person has the right to immediate protection, to be heard, to a trusted person, to information on the progress of the procedure and to reparation. No meeting with the person to whom the fact is attributed may be imposed on the injured person.
 
-6.  No measure may have a punitive purpose. Among the suitable measures, the least restrictive shall be chosen. No measure may suppress the vital guarantees of Article 30.4 of the Constitution.
+6.  No measure may have a punitive purpose. Among the suitable measures, the least restrictive shall be chosen. No measure may suppress the vital guarantees of Article 30.4 of the Constitution. After the cessation of status provided for by Article 29, paragraph 6-bis, the rights of the last sentence of Article 1.3 and of Article 4.9 of the Constitution and the portion assigned pursuant to its Article 7.3-bis remain guaranteed to the person.
 
 7.  Each body may be assisted by an exclusively advisory mediation AI. No assessment of responsibility or of dangerousness may be formulated or predicted by an AI.
 
 8.  No one may be judged twice for the same fact. Article 23 shall apply.
 
-9.  To facts committed by persons who have not reached the age of eighteen, exclusively restorative, educational and protection measures shall apply, defined with the Care Council and with the Competences Council. Articles 31, 32 and 33 shall not apply.
+9.  To facts committed by persons who have not reached the age of eighteen, exclusively restorative, educational and protection measures shall apply, defined with the Care Council and with the Competences Council. Article 30, paragraph 3, and Articles 31, 32 and 33 shall not apply. Where there is a concrete and present danger to the safety of others that the other measures cannot contain, the Guarantee Tribunal, by the final decision ascertaining a fact of Grade 4, 5 or 6, may order, by six votes out of seven, protected educational reception: the person resides with persons or in an educational community identified with the Care Council, which are open, without a protected perimeter or surveillance by the Civic Protection Corps, with an educational project, daily mentoring and continuity of learning and of contact with loved ones. The reception lasts no more than twelve months and is renewable once only by a new decision; it is reviewed by the Tribunal at least every three months and ceases when the danger ceases to exist. If the person reaches the age of eighteen during the reception, it continues within the same duration in a placement suited to their age.
 
 ### Art. 26 — Grades of offence
 
@@ -599,10 +599,10 @@ The Panel may not order a definitive or category exclusion, which is reserved to
 
 1.  For offences of Grade 1 and 2, the Clarification Assembly of Circle 1 is competent. It operates as a section of the Assembly composed of seven persons drawn by lot for each case from among the members unconnected with the facts, and it is assisted, without the right to vote, by a facilitator of the Guarantee Circle.
 2.  For offences of Grade 3, the Transformation Council is competent, composed of five persons drawn by lot for each case: three from among the members of Circle 1 unconnected with the facts and two from among the members of other Communities of the same Circle 2.
-3.  For offences of Grade 4, 5 and 6 and for the urgent review within twenty-four hours, the Guarantee Tribunal of Circle 2 is competent, composed of seven persons drawn by lot for each case from the list of Article 36. The members belong to Communities other than those of the person to whom the fact is attributed and of the injured person; at least three hold legal training validated in accordance with Code 5.
+3.  For offences of Grade 4, 5 and 6, for the urgent review within twenty-four hours and for the other guarantee functions assigned by the Codes, the Guarantee Tribunal of Circle 2 is competent, composed of seven persons drawn by lot for each case from the list of Article 36. The members belong to Communities other than those of the person to whom the fact is attributed or who is concerned by the decision and of the injured person; at least three hold legal training validated in accordance with Code 5.
 4.  The bodies are constituted for the individual case and are dissolved upon the decision. No one may sit on more than three panels within a period of twelve months. The rules on abstention of Article 15 shall apply.
 5.  Decisions are taken by consensus. Failing that, a majority of two thirds of the members is required. For the measures of Article 30, paragraph 3, and Article 31, six votes out of seven are necessary.
-6.  The Guarantee Circle receives the reports, facilitates the restorative procedure, conducts the preliminary investigation and keeps custody of the case files. It does not ascertain responsibility and does not order measures, except as provided for by Articles 9 and 34.
+6.  The Guarantee Circle receives the reports, facilitates the restorative procedure, conducts the preliminary investigation and keeps custody of the case files. It does not ascertain responsibility and does not order measures, except as provided for by Articles 9 and 34 of this Code and by Article 7-bis, paragraph 3, letter b), of Code 12.
 
 ### Art. 28 — Procedure
 
@@ -624,7 +624,7 @@ The Panel may not order a definitive or category exclusion, which is reserved to
 
 ### Art. 29 — Measures for Grades 1 to 4
 
-1.  For Grades 1 and 2, exclusively the measures of Article 11 are permitted. Limitations of rights are not permitted.
+1.  For Grades 1 and 2, exclusively the measures of Article 11 are permitted, except for the suspension provided for by paragraph 4-bis for refusal of the CBO. No other limitations of rights are permitted.
 
 2.  For Grade 3, the Transformation Council shall define with the person a Transformation Plan of a duration not exceeding twelve months, renewable once only. The Plan may include the reshaping of tasks, mentoring, reparation of the harm and, only if necessary, the suspension of the CdR and of access to non-essential goods and temporary exclusion from the sortitions for offices.
 
@@ -640,6 +640,22 @@ The Panel may not order a definitive or category exclusion, which is reserved to
 
 4.  Before any measure for refusal of the CBO, the person shall be informed of the right to the Autonomous Coexistence Pact, pursuant to Article 4.9 of the Constitution.
 
+4-bis. In implementation of Article 7.3 of the Constitution, refusal of the CBO that does not yet constitute a Grade 3 offence shall be dealt with as follows:
+
+a) anyone who has knowledge of it, including the Storehouse Council, shall report it to the Guarantee Circle pursuant to Article 5. The Guarantee Circle shall verify whether a justification under paragraph 3 applies and, if none applies, shall refer the case to the Clarification Assembly, constituted pursuant to Article 27, paragraph 1;
+
+b) the Clarification Assembly shall hear the person, assess with the Storehouse Council the readjustment of tasks, propose a mediation facilitated by the Guarantee Circle and inform the person in writing pursuant to paragraph 4. The sixty days of Article 7.3 of the Constitution run from the day of this information; periods during which a justification under paragraph 3 applies shall not be counted;
+
+c) if, at least fourteen days after the information under letter b), the readjustment and the mediation have been unsuccessful, the Clarification Assembly may order, by reasoned decision, the suspension of the CdR and of access to non-essential resources. The Basket, housing, care, learning, the vote and the other rights of Article 1.2 of the Constitution remain intact;
+
+d) the suspension ceases by operation of law when the person resumes the CBO, as verified by the Storehouse Council, or when a justification under paragraph 3 arises. The Clarification Assembly shall revoke it, at the request of the person, when the conditions for it cease to exist;
+
+e) once the sixty days have elapsed, if the refusal persists the Guarantee Circle shall refer the case to the Transformation Council pursuant to Article 28, paragraph 1, letter b); otherwise the suspension ceases. A suspension already ordered continues until the decision of the Transformation Council and in any case for no more than sixty days from the referral; after the decision it continues only if the Plan of paragraph 2 provides for it;
+
+f) an appeal against the suspension may be brought before the Review Panel pursuant to Article 35, paragraph 1. The appeal does not suspend the measure, unless the Panel decides otherwise, and does not interrupt the time limit of letter b).
+
+By way of derogation from Article 27, paragraph 4, the Clarification Assembly remains constituted for the case until the suspension ceases or until the referral under letter e). The suspension does not ascertain an offence and is not recorded as a measure for an offence.
+
 5.  For Grade 4, the Guarantee Tribunal may order, in addition to the restorative measures:
 
     a) exclusion from the sortitions for offices and for the Councils, for no more than thirty-six months;
@@ -650,7 +666,27 @@ The Panel may not order a definitive or category exclusion, which is reserved to
 
     d) the handing over or deactivation of the instruments used to commit the fact.
 
-6.  No measure under this Article entails containment or loss of member status.
+6.  No measure under this Article entails containment or loss of member status. The sole exception is the cessation of status for persistent refusal of the CBO provided for by paragraph 6-bis, in implementation of Article 7.3-bis of the Constitution.
+
+6-bis. In implementation of Article 7.3-bis of the Constitution, refusal of the CBO that persists after Grade 3 shall be dealt with as follows:
+
+a) once the Transformation Plan of paragraph 2 has been concluded, including its renewal if ordered, the Transformation Council shall ascertain whether the refusal persists without justification. The justifications of paragraph 3, the exemptions, reductions and suspensions of Article 11 of Code 1, conscientious objection and the impediments due to illness, disability, age or pregnancy recognised in accordance with Codes 6 and 12 do not constitute refusal. In case of doubt the refusal is not ascertained;
+
+b) if the refusal persists, the Guarantee Circle shall inform the person in writing of the consequences provided for by this paragraph, of the right to the Autonomous Coexistence Pact pursuant to paragraph 4 and of the possibility of resuming the CBO. After thirty days without resumption, it shall refer the case to the Guarantee Tribunal;
+
+c) the Guarantee Tribunal shall hear the person with the guarantees of Article 25, paragraph 4, verify the preconditions of letters a) and b) and may declare, by six votes out of seven, the cessation of member status. Review under Article 35, paragraph 2, is permitted against the decision. The decision takes effect when it is final and the portion of letter e) has been handed over; until then the person remains a member. The procedure lapses if the person resumes the CBO before the decision takes effect;
+
+d) the cessation produces the effects of Article 4.8 of the Constitution: the person loses access to the Basket and to the Common Storehouses, common housing, the CdR, the confederated services, the vote and offices. The person retains the Personal-Use Goods, drinking water, life-saving emergency care and the other rights of Article 4.9 of the Constitution;
+
+e) by the same decision the Tribunal shall assign to the person in custody of use a portion of the share reserved for the Pact, pursuant to Article 4-bis, paragraph 10, of Code 10, with access to the necessary water, without a dwelling and without tools or other goods of the Community. The person may build a shelter on it by their own efforts, in compliance with the ecological conditions of the portion. The transfer takes place without the use of force on the person, in the manner provided for by Article 32-bis, paragraph 2, letter e);
+
+f) the person may apply at any time for readmission pursuant to Article 4.8 of the Constitution, by resuming the CBO. Readmission may not be refused on account of the past refusal and takes effect from the application; the portion returns to the share. A new refusal is dealt with afresh in accordance with paragraph 4-bis;
+
+g) minor children retain member status and all rights. The Tribunal decides in their interest, by the same decision or by a separate decision, where and with whom they live, pursuant to Article 7-bis, paragraph 3-bis, of Code 12. If they live with the person, the housing, the Basket and the services due to them are ensured in the place where they live. The cessation does not, by itself, remove the responsibility for care or the consent to care provided for by Article 2-ter of Code 6, and does not constitute serious neglect or harm within the meaning of Article 7-bis of Code 12;
+
+h) refusal that persists after the cessation does not constitute a new offence.
+
+During the transition the cessation consists in exclusion from the pilot Circle pursuant to Article 37, paragraph 4, and the portion is assigned only in the forms permitted by the law in force, pursuant to Article 4-bis, paragraph 9, of Code 10.
 
 ### Art. 30 — Grades 5 and 6: two-chances rule
 
@@ -704,6 +740,36 @@ The Panel may not order a definitive or category exclusion, which is reserved to
 6.  Definitive Removal entails a permanent prohibition on residing in and on entering the Circles in which the injured person and the affected community live. The person shall be relocated to another Circle whose Assembly, informed of the facts, is willing to receive that person, or by means of an Autonomous Coexistence Pact pursuant to Article 4.9-bis of the Constitution. The guarantees of paragraph 2 remain unaffected.
 7.  The territorial ban may be supported by the device of Article 33.
 
+### Art. 32-bis — Persons living by means of a Pact and removal from the common settlement
+
+1.  This Chapter applies to a person living by means of an Autonomous Coexistence Pact with the following adaptations:
+
+    a) the measures that presuppose member status do not apply, including the loss of member status of Article 31, paragraph 2, the suspension of the CdR and exclusion from sortitions;
+
+    b) in their place the competent body may order the revision of the Pact: the modification of its conditions or, where the protection of persons so requires, the placement of the portion with another Circle 1 in accordance with Article 4-bis, paragraph 6, of Code 10, informed of the facts;
+
+    c) the protective removal of Articles 29, paragraph 5, letter c), and 30, paragraph 2, letter b), and, only where all the conditions of Article 31, paragraph 1, are met, Definitive Removal are carried out by means of the revision of letter b);
+
+    d) violation of the conditions of the Pact is classified in accordance with Article 26 and does not entail the cessation of the Pact.
+
+2.  The removal provided for by Article 4.9-ter of the Constitution takes place as follows:
+
+    a) the Guarantee Circle, upon a report pursuant to Article 5, ascertains that the person resides stably in the common settlement without being a member, without a Pact and without contribution, beyond the time limit for hospitality of Article 4.9, letter b), of the Constitution and outside the case of Article 4-bis, paragraph 7, of Code 10;
+
+    b) Circle 1 shall offer the Pact in writing, indicating the portion identified pursuant to Article 4-bis of Code 10, and shall inform the person of the right to enter or re-enter the Confederation; the Guarantee Circle shall propose a mediation;
+
+    c) the refusal is persistent when the person has refused or left unanswered two offers, the second presented after the mediation and at least thirty days after the first;
+
+    d) the Guarantee Circle then refers the case to the Guarantee Tribunal, which hears the person with the guarantees of Article 25, paragraph 4, verifies that the portion is sufficient for self-sufficiency pursuant to Article 4.9-bis of the Constitution and may order removal from the common settlement with the assignment ex officio of the portion;
+
+    e) the removal is carried out without the use of force on the person and consists in the cessation of ordinary access to the common settlement and in making available the portion and the means to transfer the personal-use goods, in accordance with Code 11;
+
+    f) drinking water, life-saving emergency care and the protection of minors remain guaranteed, pursuant to Article 1.3 of the Constitution, as do the rights of the minors of the nucleus provided for by Article 4.9-bis of the Constitution;
+
+    g) the person may at any time accept the Pact or enter the Confederation, and the procedure lapses. Review under Article 35, paragraph 2, is permitted against the decision.
+
+3.  During the transition Article 37, paragraph 3, applies: the removal of paragraph 2 is not carried out.
+
 ### Art. 33 — Location device
 
 1.  The location device provided for by Article 18.7 of the Constitution may be ordered only by final decision of the Guarantee Tribunal for a fact of Grade 5 or 6, for the direct protection of the injured person or of the Community.
@@ -751,7 +817,8 @@ The Panel may not order a definitive or category exclusion, which is reserved to
 
 ### Art. 37 — Transitional regime and relationship with the legal order in force
 
-1.  Until the completion of the transition governed by Code 16, and in every territory in which the jurisdiction of a State applies, this Chapter has effect as an internal and voluntary legal order among the members.
+1.  Until the completion of the transition governed by Code 16, and in every territory in which the jurisdiction of a State applies, this Chapter has effect as an internal and voluntary legal order among the members and the persons living by means of an Autonomous Coexistence Pact, who accept it with the Pact.
 2.  Facts that constitute a criminal offence under the legal order in force remain subject to the jurisdiction of the State. No one may be dissuaded from turning to the authorities; anyone who is in danger shall be helped to do so. The obligations to report and to file a complaint provided for by law shall be complied with.
-3.  During the transition, measures of containment, of coercive removal or of location may not be enforced. Article 30, paragraph 3, and Articles 31, 32, 33 and 34 shall apply only in respect of the non-coercive protection measures and of the effects on membership of the Circle.
+3.  During the transition, measures of containment, of coercive removal or of location may not be enforced. Article 25, paragraph 9, as regards protected educational reception, and Article 30, paragraph 3, and Articles 31, 32, 33 and 34 shall apply only in respect of the non-coercive protection measures and of the effects on membership of the Circle.
 4.  During the transition, loss of member status consists in exclusion from the pilot Circle, ordered in accordance with the statute of the entity and the applicable law.
+5.  Until the members required can be drawn by lot in the Basin, the functions that the Codes assign to the Guarantee Tribunal, to the Review Panel and to the Transformation Council are exercised by a panel with the same number of members, drawn by lot from the public list of trained persons of other pilot Circles or of kindred entities that have accepted this Chapter, kept pursuant to Article 36. If the list does not allow the drawing by lot within the time limit, the panel is drawn by lot from among the members of the pilot Circle unconnected with the facts, with the persons involved and with every previous instance, on the model of Article 35, paragraph 2. A panel composed only of members may not order the protected educational reception of Article 25, paragraph 9, or the measures of Articles 30, paragraph 3, 31 and 33. If no panel can be constituted within the time limit for a validation, the measure ceases.
