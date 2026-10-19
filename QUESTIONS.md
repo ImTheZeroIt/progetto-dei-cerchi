@@ -87,17 +87,17 @@ Where: Const. 37.1; Const. 37.2; Const. 37.3; Const. 37.4; Const. 38.2
 
 ### Do I have to work? How many hours?
 
-Yes: the texts ask every adult who is able for a Mandatory Base Contribution (CBO), a share of the work everyone needs. The written limit is an average of fifteen hours a week, calculated over the quarter, and there is no minimum. The texts themselves provide for checking this limit against real data. A home, food and care are not payment for this work.
+Yes: the texts ask every adult who is able for a Mandatory Base Contribution (CBO), a share of the work everyone needs. The written limit is an average of fifteen hours a week, calculated over the quarter, and there is no minimum. The texts themselves provide for checking this limit against real data. A home, food and care are not payment for this work, but someone who refuses it for a long time without a recognised reason can lose member status.
 
 Words: compulsory work, working hours, how much work, shifts, obligation, CBO, base contribution, fifteen hours, working week, salary, job
-Where: Const. 7.1; Code 1, art. 3, para. 2; Code 1, art. 6; Code 1, art. 2, para. 9
+Where: Const. 7.1; Code 1, art. 3, para. 2; Code 1, art. 6; Code 1, art. 2, para. 9; Const. 7.3-bis
 
 ### What happens to someone who does not do their share of the work?
 
-The texts provide for gradual steps. First the tasks are changed and mediation is tried, and the person is informed of the right to an Autonomous Coexistence Pact. Then the Recognition Contribution (CdR) and non-essential goods can be suspended, but not housing, food, water and care. After sixty days of refusal without justification, a plan lasting up to twelve months is agreed with the person.
+The texts provide for gradual steps. First an assembly chosen by lot hears the person, tries changing the tasks and mediation, and informs the person of the right to an Autonomous Coexistence Pact. If after at least fourteen days that is not enough, the Recognition Contribution (CdR) and non-essential goods can be suspended, but not housing, food, water, care and the vote. After sixty days of refusal without justification, a plan lasting up to twelve months is agreed with the person. If the refusal continues even after the plan, a tribunal chosen by lot can declare that the person is no longer a member: they receive only a piece of land with water, without a house, keep drinking water and emergency care and can come back at any time by resuming the contribution. The children remain members with all their rights. Illness, disability, age, pregnancy and conscientious objection are never refusal.
 
-Words: does not work, refusal, slackers, free riders, punishment, sanctions, not contributing, lazy, expulsion, conscientious objection
-Where: Const. 7.3; Code 4, art. 29, para. 2; Code 4, art. 29, para. 3
+Words: does not work, refusal, slackers, free riders, punishment, sanctions, not contributing, lazy, expulsion, conscientious objection, losing membership, cessation, land
+Where: Const. 7.3; Code 4, art. 29, para. 4-bis; Code 4, art. 29, para. 2; Code 4, art. 29, para. 3; Const. 7.3-bis; Code 4, art. 29, para. 6-bis
 
 ### What do those who cannot work receive?
 
@@ -166,10 +166,10 @@ Where: Const. 4.8; Const. 5.2
 
 ### What about those who live in the territory but do not want to join?
 
-Nobody is obliged to join. Those who do not join can stay under an Autonomous Coexistence Pact: they receive in use a portion of land and, if there is one, a house to live autonomously, without ordinary withdrawals from the Common Storehouses. They must respect the ecological limits, the rules on animals and the ban on weapons. Someone who keeps refusing the Pact as well can be moved out of the common settlement, without violence, onto an assigned portion of land.
+Nobody is obliged to join. Those who do not join can stay under an Autonomous Coexistence Pact: they receive in use a portion of land and, if there is one, a house to live autonomously, without ordinary withdrawals from the Common Storehouses. They must respect the ecological limits, the rules on animals and the ban on weapons. The Pact cannot be refused to anyone who accepts its conditions: every Community sets aside land for at least one person for every hundred residents and, if there is no room, the neighbouring Communities look for it; while waiting the person is housed and receives what they need. Someone who keeps refusing the Pact as well can be moved out of the common settlement, without violence, onto an assigned portion of land.
 
 Words: not joining, non-members, outsiders, neighbours, those who disagree, obligation to join, coexistence pact, residents, guests, foreigners, dissent
-Where: Const. 38.1; Const. 4.9; Const. 4.9-bis; Const. 4.9-ter; Const. 1.3
+Where: Const. 38.1; Const. 4.9; Const. 4.9-bis; Const. 4.9-ter; Const. 1.3; Code 10, art. 4-bis; Code 4, art. 32-bis
 
 ### How does it start?
 
@@ -189,10 +189,10 @@ Where: Code 15, art. 15; Code 15, art. 17; Code 15, art. 19-bis, para. 3; Const.
 
 ### How are conflicts and crimes handled? Is there prison?
 
-The texts aim to repair the harm and protect people, not to punish. The ordinary way is a restorative procedure; if that is not enough, people chosen by lot and in rotation decide. The word "prison" does not appear, but for serious violence there is containment, which is a form of confinement: reviewed every six months, and in first application lasting up to five or ten years. During the transition these measures do not apply: for crimes the public authorities remain competent.
+The texts aim to repair the harm and protect people, not to punish. The ordinary way is a restorative procedure; if that is not enough, people chosen by lot and in rotation decide. The word "prison" does not appear, but for serious violence there is containment, which is a form of confinement: reviewed every six months, and in first application lasting up to five or ten years. For those under eighteen containment is excluded: at most an open educational placement, for up to a year. During the transition these measures do not apply: for crimes the public authorities remain competent.
 
 Words: prison, jail, crimes, justice, court, judges, penalties, violence, theft, disputes, life sentence
-Where: Const. 30.1; Const. 31.2; Const. 1.3-bis; Code 4, art. 30, para. 3; Annex 16-C, art. 7, para. 2
+Where: Const. 30.1; Const. 31.2; Const. 1.3-bis; Code 4, art. 30, para. 3; Code 4, art. 25, para. 9; Annex 16-C, art. 7, para. 2
 
 ### Are there police, an army, weapons?
 
@@ -238,10 +238,10 @@ Where: Const. 29.1; Const. 29.3; Const. 29.4; Code 5, art. 6
 
 ### How does health care work?
 
-For the texts health is a right, and it is neither a commodity nor a paid service. Three levels are provided for: a personal artificial intelligence with a preventive function, the carers of the Community and centres of high specialisation for wider territories. No treatment can be imposed without free and informed consent, except in strictly necessary emergencies. Life-saving emergency care is guaranteed to anyone.
+For the texts health is a right, and it is neither a commodity nor a paid service. Three levels are provided for: a personal artificial intelligence with a preventive function, the carers of the Community and centres of high specialisation for wider territories. No treatment can be imposed without free and informed consent, not even a vaccine during an epidemic: those who refuse can be kept away only from places at risk, and isolation and quarantine last no more than fourteen days, which can be extended once. From sixteen, people decide on their own care themselves. In a psychological crisis a coercive measure must be validated by a tribunal within twenty-four hours and does not exceed fourteen days. Life-saving emergency care is guaranteed to anyone.
 
-Words: health care, doctor, hospital, care, illness, medicines, health, emergency room, vaccines, mental health
-Where: Const. 28.1; Const. 28.2; Const. 1.3; Code 6, art. 1
+Words: health care, doctor, hospital, care, illness, medicines, health, emergency room, vaccines, mental health, epidemic, quarantine, consent
+Where: Const. 28.1; Const. 28.2; Const. 1.3; Code 6, art. 1; Code 6, art. 2-bis; Code 6, art. 2-ter; Code 6, art. 8
 
 ### How big is a Community, and how are Communities linked?
 

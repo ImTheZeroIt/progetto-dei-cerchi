@@ -87,17 +87,17 @@ Dove: Cost. 37.1; Cost. 37.2; Cost. 37.3; Cost. 37.4; Cost. 38.2
 
 ### Devo lavorare per forza? E quante ore?
 
-Sì: i testi chiedono a ogni adulto che può un Contributo di Base (CBO), cioè una parte del lavoro necessario a tutti. Il limite scritto è una media di quindici ore a settimana, calcolata sul trimestre, e non c'è un minimo. I testi stessi prevedono di verificare questo limite sui dati reali. Casa, cibo e cure non sono il compenso di questo lavoro.
+Sì: i testi chiedono a ogni adulto che può un Contributo di Base (CBO), cioè una parte del lavoro necessario a tutti. Il limite scritto è una media di quindici ore a settimana, calcolata sul trimestre, e non c'è un minimo. I testi stessi prevedono di verificare questo limite sui dati reali. Casa, cibo e cure non sono il compenso di questo lavoro, ma chi lo rifiuta a lungo senza un motivo riconosciuto può perdere lo status di membro.
 
 Parole: lavoro obbligatorio, ore di lavoro, orario, quanto si lavora, turni, obbligo, CBO, contributo di base, quindici ore, settimana lavorativa, stipendio, lavorare
-Dove: Cost. 7.1; Cod. 1, art. 3, c. 2; Cod. 1, art. 6; Cod. 1, art. 2, c. 9
+Dove: Cost. 7.1; Cod. 1, art. 3, c. 2; Cod. 1, art. 6; Cod. 1, art. 2, c. 9; Cost. 7.3-bis
 
 ### Che cosa succede a chi non fa la sua parte di lavoro?
 
-I testi prevedono passi graduali. Prima si prova a cambiare le mansioni e a mediare, e si informa la persona del diritto al Patto di Convivenza Autonoma. Poi si possono sospendere il Contributo di Riconoscenza (CdR) e i beni non essenziali, ma non casa, cibo, acqua e cure. Dopo sessanta giorni di rifiuto senza giustificazione si definisce con la persona un piano che dura fino a dodici mesi.
+I testi prevedono passi graduali. Prima un'assemblea sorteggiata ascolta la persona, prova a cambiare le mansioni e a mediare e la informa del diritto al Patto di Convivenza Autonoma. Se dopo almeno quattordici giorni non basta, si possono sospendere il Contributo di Riconoscenza (CdR) e i beni non essenziali, ma non casa, cibo, acqua, cure e voto. Dopo sessanta giorni di rifiuto senza giustificazione si definisce con la persona un piano che dura fino a dodici mesi. Se il rifiuto continua anche dopo il piano, un tribunale sorteggiato può dichiarare che la persona non è più membro: riceve solo un pezzo di terra con l'acqua, senza casa, conserva l'acqua potabile e le cure d'emergenza e può rientrare in qualsiasi momento riprendendo il contributo. I figli restano membri con tutti i diritti. Malattia, disabilità, età, gravidanza e obiezione di coscienza non sono mai un rifiuto.
 
-Parole: non lavora, rifiuto, fannulloni, scansafatiche, punizione, sanzioni, chi non contribuisce, furbi, approfittatori, espulsione, obiezione di coscienza, pigri
-Dove: Cost. 7.3; Cod. 4, art. 29, c. 2; Cod. 4, art. 29, c. 3
+Parole: non lavora, rifiuto, fannulloni, scansafatiche, punizione, sanzioni, chi non contribuisce, furbi, approfittatori, espulsione, obiezione di coscienza, pigri, perdere lo status, cessazione, terra
+Dove: Cost. 7.3; Cod. 4, art. 29, c. 4-bis; Cod. 4, art. 29, c. 2; Cod. 4, art. 29, c. 3; Cost. 7.3-bis; Cod. 4, art. 29, c. 6-bis
 
 ### Chi non può lavorare che cosa riceve?
 
@@ -166,10 +166,10 @@ Dove: Cost. 4.8; Cost. 5.2
 
 ### E chi vive nel territorio ma non vuole aderire?
 
-Nessuno è obbligato ad aderire. Chi non aderisce può restare con un Patto di Convivenza Autonoma: riceve in uso una porzione di terra e, se c'è, una casa per vivere in autonomia, senza prelievi ordinari dai Magazzini comuni. Deve rispettare i limiti ecologici, le regole sugli animali e il divieto di armi. Chi rifiuta a lungo anche il Patto può essere spostato dall'abitato comune, senza violenza, su una porzione di terra assegnata.
+Nessuno è obbligato ad aderire. Chi non aderisce può restare con un Patto di Convivenza Autonoma: riceve in uso una porzione di terra e, se c'è, una casa per vivere in autonomia, senza prelievi ordinari dai Magazzini comuni. Deve rispettare i limiti ecologici, le regole sugli animali e il divieto di armi. Il Patto non si può rifiutare a chi ne accetta le condizioni: ogni Comunità tiene da parte terra per almeno una persona ogni cento residenti e, se non c'è posto, lo cercano le Comunità vicine; nell'attesa la persona è ospitata e riceve il necessario. Chi rifiuta a lungo anche il Patto può essere spostato dall'abitato comune, senza violenza, su una porzione di terra assegnata.
 
 Parole: non aderire, non membri, esterni, vicini, chi non è d'accordo, obbligo di adesione, patto di convivenza, residenti, ospiti, stranieri, dissenso
-Dove: Cost. 38.1; Cost. 4.9; Cost. 4.9-bis; Cost. 4.9-ter; Cost. 1.3
+Dove: Cost. 38.1; Cost. 4.9; Cost. 4.9-bis; Cost. 4.9-ter; Cost. 1.3; Cod. 10, art. 4-bis; Cod. 4, art. 32-bis
 
 ### Come si comincia?
 
@@ -189,10 +189,10 @@ Dove: Cod. 15, art. 15; Cod. 15, art. 17; Cod. 15, art. 19-bis, c. 3; Cost. 3.5-
 
 ### Come si trattano i conflitti e i reati? Esiste il carcere?
 
-I testi puntano a riparare il danno e a proteggere le persone, non a punire. La via ordinaria è una procedura riparativa; se non basta, decidono persone sorteggiate a rotazione. La parola «carcere» non c'è, ma per la violenza grave è previsto un contenimento, che è una forma di reclusione: riesaminato ogni sei mesi, in prima applicazione fino a cinque o dieci anni. Durante la transizione queste misure non si applicano: per i reati restano competenti le autorità pubbliche.
+I testi puntano a riparare il danno e a proteggere le persone, non a punire. La via ordinaria è una procedura riparativa; se non basta, decidono persone sorteggiate a rotazione. La parola «carcere» non c'è, ma per la violenza grave è previsto un contenimento, che è una forma di reclusione: riesaminato ogni sei mesi, in prima applicazione fino a cinque o dieci anni. Per chi non ha diciotto anni il contenimento è escluso: al massimo un'accoglienza educativa aperta, fino a un anno. Durante la transizione queste misure non si applicano: per i reati restano competenti le autorità pubbliche.
 
 Parole: carcere, prigione, reati, crimini, giustizia, tribunale, giudici, pene, violenza, furto, liti, ergastolo, galera
-Dove: Cost. 30.1; Cost. 31.2; Cost. 1.3-bis; Cod. 4, art. 30, c. 3; All. C, art. 7, c. 2
+Dove: Cost. 30.1; Cost. 31.2; Cost. 1.3-bis; Cod. 4, art. 30, c. 3; Cod. 4, art. 25, c. 9; All. C, art. 7, c. 2
 
 ### Esistono polizia, esercito, armi?
 
@@ -238,10 +238,10 @@ Dove: Cost. 29.1; Cost. 29.3; Cost. 29.4; Cod. 5, art. 6
 
 ### Come funziona la sanità?
 
-Per i testi la salute è un diritto e non è una merce né una prestazione a pagamento. Sono previsti tre livelli: un'intelligenza artificiale personale con funzione di prevenzione, i curanti della Comunità e centri di alta specializzazione per territori più ampi. Nessun trattamento può essere imposto senza consenso libero e informato, salvo emergenze strettamente necessarie. Le cure d'emergenza salvavita sono garantite a chiunque.
+Per i testi la salute è un diritto e non è una merce né una prestazione a pagamento. Sono previsti tre livelli: un'intelligenza artificiale personale con funzione di prevenzione, i curanti della Comunità e centri di alta specializzazione per territori più ampi. Nessun trattamento può essere imposto senza consenso libero e informato, nemmeno un vaccino durante un'epidemia: chi rifiuta può essere tenuto lontano solo dai luoghi a rischio, e isolamento e quarantena durano al massimo quattordici giorni, prorogabili una volta. Dai sedici anni si decide da soli sulle proprie cure. Nella crisi psichica una misura coercitiva va convalidata da un tribunale entro ventiquattro ore e non supera quattordici giorni. Le cure d'emergenza salvavita sono garantite a chiunque.
 
-Parole: sanità, medico, ospedale, cure, malattia, farmaci, salute, dottore, pronto soccorso, vaccini, ticket, salute mentale
-Dove: Cost. 28.1; Cost. 28.2; Cost. 1.3; Cod. 6, art. 1
+Parole: sanità, medico, ospedale, cure, malattia, farmaci, salute, dottore, pronto soccorso, vaccini, ticket, salute mentale, epidemia, quarantena, consenso
+Dove: Cost. 28.1; Cost. 28.2; Cost. 1.3; Cod. 6, art. 1; Cod. 6, art. 2-bis; Cod. 6, art. 2-ter; Cod. 6, art. 8
 
 ### Quanto è grande una Comunità e come si collegano tra loro?
 

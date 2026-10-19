@@ -6,6 +6,74 @@ From here on, every accepted change will be recorded on this page with its date,
 
 # Changes
 
+## 19 October 2026 — Constitution, Arts. 1.3, 2.2, 2.3, 4.9-bis and 7.1, new Art. 7.3-bis, Art. 37.4, letter a); Code 4, Art. 13, para. 6; Art. 25, paras. 1 and 6; Art. 29, paras. 1 and 6, and new paras. 4-bis and 6-bis; Code 1, Art. 13, para. 3; Art. 18, para. 1, letter a); Art. 44, para. 6 (items C1 and C1-bis)
+
+Refusal of the CBO. Before Grade 3 the Clarification Assembly hears the person, considers other tasks, proposes a mediation and informs the person of the Autonomous Coexistence Pact; only if, after at least fourteen days, all this has had no result may it suspend the CdR and access to non-essential resources, for a limited time and with an appeal to the Review Panel, without touching the Basket, housing, care or the vote. If the refusal continues without justification even after the Grade 3 Transformation Plan, the Guarantee Tribunal may declare, by six votes out of seven, the cessation of member status: the person receives only a portion of land with water, without a dwelling and without goods of the Community, keeps drinking water and life-saving emergency care and may return at any time by resuming the CBO. The children remain members with all rights and the Tribunal decides with whom they live. Illness, disability, age, pregnancy and conscientious objection are never refusal.
+
+Change to the Inviolable Core (C1-bis). Articles 1.3, 2.2, 2.3, 4.9-bis and 37.4, letter a), of the Constitution belong to the Inviolable Core or are bound up with it: 1.3 names the new Article 7.3-bis among the exceptions to the guarantee of rights; 2.2 and 2.3 say that the CBO is not the price of individual goods, but the contribution owed as a condition of membership; 4.9-bis says that in this case the land is given without a dwelling; 37.4 a) prohibits extending the exception. Drinking water, life-saving emergency care and the protection of minors remain for anyone. The Core cannot be revised (Constitution 37.4 and 38.4): this is not a revision, but a rewriting of the text by the author before any accession, possible because the Constitution is not yet in force for any Community (Constitution 38.1). After the first accession it could no longer be done. Why: the author chose to change the Core openly instead of resting the cessation on an indirect reference to Article 4.8, which would have left the new Article 7.3-bis in conflict with the words of 1.3, of 2.3 (“the CBO is not individual consideration for the rights”) and of 4.9-bis.
+
+Reason: The Constitution allowed the CdR to be suspended before Grade 3, but Code 4 prohibited it and no text said who decides, how long the suspension lasts or how to appeal. The author also decided that persistent refusal after Grade 3 leads to the cessation of member status, with land and water only.
+
+Verification: [consistency review, item C1](https://imthezeroit.github.io/progetto-dei-cerchi/registro/verifica-coerenza.html#c1-sospensione-del-cdr-prima-del-grado-3).
+
+## 19 October 2026 — Code 10, new Art. 4-bis; Art. 4, para. 1, new letter i); Art. 10, para. 3, new letter f); Code 4, new Art. 32-bis and Art. 37, para. 1; Code 11, Art. 6-ter, para. 4 (item C2)
+
+Autonomous Coexistence Pact. The new Article 4-bis of Code 10 says who concludes the Pact, what it contains, how carrying capacity is documented and how to appeal. Every Circle 1 reserves for the Pact a share of land for at least one person for every hundred residents; if there is no room, Circle 2 and then Circle 3 look for it, and meanwhile the person is received even beyond fourteen days. The new Article 32-bis of Code 4 replaces, for those who live by means of the Pact, the measures reserved for members with the revision of the Pact, and sets out the non-violent procedure for removal from the common settlement provided for by Constitution 4.9-ter.
+
+Reason: The Pact is a right of the Inviolable Core, but no Code set out its content, body, land and procedures, and Code 4 applied loss of status to those who are not members.
+
+Verification: [consistency review, item C2](https://imthezeroit.github.io/progetto-dei-cerchi/registro/verifica-coerenza.html#c2-patto-di-convivenza-autonoma-e-persone-non-membri-manca-la-disciplina).
+
+## 19 October 2026 — Code 14, Art. 8-ter, para. 3; Code 12, Art. 7-bis, para. 3, and new paras. 3-bis and 3-ter; Code 4, Art. 27, para. 6 (item C3)
+
+Circle 0 and the protection of minors. The Civic Protection Corps may enter a Circle 0 also to stop physical or sexual violence in progress, with validation by the Guarantee Tribunal within twenty-four hours, or with a reasoned authorisation of the Tribunal. A minor may be separated from their Circle 0 even without an immediate danger, by decision of the Guarantee Circle on a proposal from the Care Council, validated within twenty-four hours. The Tribunal takes the stable decision on whom the minor lives with within thirty days, which may be extended once only by a further thirty, after hearing the minor, and reviews it at least every six months.
+
+Reason: The Corps could enter only where there was a danger to life, and after the separation was validated no text said who decides where the minor lives and for how long.
+
+Verification: [consistency review, item C3](https://imthezeroit.github.io/progetto-dei-cerchi/registro/verifica-coerenza.html#c3-cerchio-0-chi-può-entrare-e-chi-protegge-i-minori).
+
+## 19 October 2026 — Code 4, Art. 25, para. 9; Art. 37, para. 3 (item C4)
+
+Minors. A person who has not reached eighteen may never be placed in protective containment. If they are dangerous to others, the Guarantee Tribunal, by the final decision on a fact of Grade 4, 5 or 6 and by six votes out of seven, may order protected educational reception, open and without surveillance, for no more than twelve months, renewable once and reviewed at least every three months.
+
+Reason: Code 4 excluded Articles 31, 32 and 33 for minors, but not the protective containment of Article 30, paragraph 3.
+
+Verification: [consistency review, item C4](https://imthezeroit.github.io/progetto-dei-cerchi/registro/verifica-coerenza.html#c4-minorenni-il-contenimento-protettivo-non-è-escluso).
+
+## 19 October 2026 — Code 6, Art. 2, para. 2; Art. 2-bis, new paras. 3-bis, 3-ter, 3-quater and 3-quinquies, para. 4, letter d), and para. 7; Art. 11, para. 2, letter d), and para. 5, letter d); Code 13, Art. 7, para. 10; Code 14, Art. 8-ter, para. 4 (item C5)
+
+Epidemics. No treatment, test or vaccination may be performed on a person’s body without their consent. Those who refuse the protection indicated may be excluded only from the tasks and places at risk and receive another task; they keep the Basket, housing, care and the vote. Isolation and quarantine last no more than fourteen days, which may be extended once; if the person does not agree, the Guarantee Tribunal validates them within twenty-four hours. The list of permitted collective measures is closed.
+
+Reason: Code 6 made an exception to consent for the measures of Article 2-bis without saying which measures were permitted. The author decided that no health treatment may be imposed.
+
+Verification: [consistency review, item C5](https://imthezeroit.github.io/progetto-dei-cerchi/registro/verifica-coerenza.html#c5-epidemie-non-è-detto-se-un-trattamento-si-possa-imporre).
+
+## 19 October 2026 — Code 6, Art. 8, para. 6, letter c), and paras. 7 and 10; Code 12, Art. 9, para. 1, letter g) (item C6)
+
+Psychological crisis. Every coercive measure must be validated by the Guarantee Tribunal within twenty-four hours, otherwise it ceases; the Assembly no longer decides. It lasts no more than seventy-two hours at a time and fourteen days in all, is reassessed by the health persons at fixed intervals and may be revoked at any time on request. A new measure is possible only for a new episode, with other health persons and a Tribunal in a different composition, and never beyond twenty-eight days in ninety. The representative may not consent to a coercive measure.
+
+Reason: The review lay with the Guarantee Circle, beyond twenty-four hours a resolution of the Assembly was required and there was no maximum duration.
+
+Verification: [consistency review, item C6](https://imthezeroit.github.io/progetto-dei-cerchi/registro/verifica-coerenza.html#c6-coercizione-nella-crisi-psichica-controllo-debole-e-nessuna-durata-massima).
+
+## 19 October 2026 — Code 6, new Art. 2-ter; Art. 10, para. 7, letter a); Code 12, Art. 7-bis, para. 5 (item C7)
+
+Consent to care. From sixteen, people decide on their own care themselves; before that, those who hold responsibility for care decide, after hearing the minor, whose opinion weighs more with age. In the event of disagreement or conflict of interest the Guarantee Tribunal decides, with the opinion of an independent health person. Vaccinations of minors are never mandatory. For an adult who cannot decide for more than sixty days, the Tribunal appoints a stable representative, reviewed every year.
+
+Reason: For the ordinary care of minors no text said who gives consent, and the temporary representative of Code 12 was renewed every thirty days without limit.
+
+Verification: [consistency review, item C7](https://imthezeroit.github.io/progetto-dei-cerchi/registro/verifica-coerenza.html#c7-chi-dà-il-consenso-alle-cure-di-un-minore-o-di-una-persona-incapace-in-modo-permanente).
+
+## 19 October 2026 — Constitution, Art. 31.3, letter c); Code 4, Art. 27, para. 3; Art. 37, new para. 5
+
+Guarantee Tribunal. The Constitution assigns to it, besides offences of Grade 4, 5 and 6 and urgent review, “the other guarantee functions assigned by the Codes”, and Code 4 is aligned. In Phase 0, until the members can be drawn by lot in the Basin, the functions of the Tribunal, of the Review Panel and of the Transformation Council are performed by a panel drawn by lot from trained persons of other pilot Circles or of kindred entities or, failing that, from members unconnected with the facts, which may not order the most serious measures; if no panel is formed in time, the measure ceases.
+
+Reason: The changes of items C1–C7 give the Tribunal new tasks (custody of minors, consent to care, stable representative, validation of health measures, cessation of status) that Constitution 31.3 c) did not name, and in Phase 0 the Tribunal could not be formed. Article 31.3 is not part of the Inviolable Core.
+
+Verification: [consistency review, items C1–C7 and C9](https://imthezeroit.github.io/progetto-dei-cerchi/registro/verifica-coerenza.html#c9-giustizia-nella-fase-0-mancano-i-componenti-esterni).
+
+Versions: Constitution from V.29 to V.30, Code 1 from V1.6 to V1.7, Code 4 from V1.4 to V1.5, Code 6 from V1.5 to V1.6, Code 10 from V1.4 to V1.5, Code 11 from V1.3 to V1.4, Code 12 from V1.3 to V1.4, Code 13 from V1.4 to V1.5, Code 14 from V1.2 to V1.3. The changes to the Constitution count as the text of the first adoption (Constitution 38.1).
+
 ## 19 October 2026 — C.1-Annex A, Art. 4, paras. 1 and 3, and new para. 1-bis; Code 1, Art. 32, new para. 1-bis (proposal 1)
 
 Clothing and hygiene in the Material Basket. The accepted text is that of [proposal 1, version 2](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals.html#proposta-1--vestiario-e-igiene-nel-paniere-materiale).

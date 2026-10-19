@@ -2,7 +2,7 @@
 
 *Rapporto finale della verifica di coerenza del Progetto dei Cerchi, chiuso il 19 ottobre 2026. Testi controllati: Costituzione V.29 e i sedici Codici allineati, con i loro allegati. Le undici proposte aperte sono controllate a parte, nella sezione «Proposte aperte».*
 
-**Aggiornamento del 19 ottobre 2026.** Le correzioni alle proposte indicate nella sezione «Proposte aperte» (C71–C76) sono state fatte, e le undici proposte sono state accolte lo stesso giorno. Le altre voci restano da correggere: le correzioni si applicano direttamente e sono registrate nel [registro delle modifiche](https://imthezeroit.github.io/progetto-dei-cerchi/registro/modifiche.html).
+**Aggiornamento del 19 ottobre 2026.** Le correzioni alle proposte indicate nella sezione «Proposte aperte» (C71–C76) sono state fatte, e le undici proposte sono state accolte lo stesso giorno. Le sette voci di gravità alta (C1–C7) sono state risolte il 19 ottobre 2026, insieme alla parte della voce C9 che serviva a esse (organi di giustizia nella Fase 0, Cod. 4, art. 37.5) e a una modifica del Nucleo Inviolabile fatta prima di ogni adesione (Cost. 1.3, 2.2, 2.3, 4.9-bis e 37.4 a): testi, ragioni e versioni sono nelle voci del 19 ottobre del [registro delle modifiche](https://imthezeroit.github.io/progetto-dei-cerchi/registro/modifiche.html). Le altre voci restano da correggere: le correzioni si applicano direttamente e sono registrate nel [registro delle modifiche](https://imthezeroit.github.io/progetto-dei-cerchi/registro/modifiche.html).
 
 ## In breve
 

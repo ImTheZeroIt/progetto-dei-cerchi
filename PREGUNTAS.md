@@ -87,17 +87,17 @@ Dónde: Const. 37.1; Const. 37.2; Const. 37.3; Const. 37.4; Const. 38.2
 
 ### ¿Tengo que trabajar a la fuerza? ¿Cuántas horas?
 
-Sí: los textos piden a cada adulto que pueda una Contribución Básica Obligatoria (CBO), es decir, una parte del trabajo necesario para todos. El límite escrito es una media de quince horas a la semana, calculada por trimestre, y no hay mínimo. Los propios textos prevén verificar este límite con datos reales. Vivienda, comida y cuidados no son la retribución de este trabajo.
+Sí: los textos piden a cada adulto que pueda una Contribución Básica Obligatoria (CBO), es decir, una parte del trabajo necesario para todos. El límite escrito es una media de quince horas a la semana, calculada por trimestre, y no hay mínimo. Los propios textos prevén verificar este límite con datos reales. Vivienda, comida y cuidados no son la retribución de este trabajo, pero quien lo rechaza durante mucho tiempo sin un motivo reconocido puede perder la condición de miembro.
 
 Palabras: trabajo obligatorio, horas de trabajo, horario, cuánto se trabaja, turnos, obligación, CBO, contribución básica, quince horas, semana laboral, sueldo, trabajar
-Dónde: Const. 7.1; Cód. 1, art. 3, ap. 2; Cód. 1, art. 6; Cód. 1, art. 2, ap. 9
+Dónde: Const. 7.1; Cód. 1, art. 3, ap. 2; Cód. 1, art. 6; Cód. 1, art. 2, ap. 9; Const. 7.3-bis
 
 ### ¿Qué pasa con quien no hace su parte del trabajo?
 
-Los textos prevén pasos graduales. Primero se intenta cambiar las tareas y mediar, y se informa a la persona de su derecho al Pacto de Convivencia Autónoma. Después se pueden suspender la Contribución de Reconocimiento (CdR) y los bienes no esenciales, pero no la vivienda, la comida, el agua y los cuidados. Tras sesenta días de negativa sin justificación se acuerda con la persona un plan que dura hasta doce meses.
+Los textos prevén pasos graduales. Primero una asamblea sorteada escucha a la persona, intenta cambiar las tareas y mediar, y le informa de su derecho al Pacto de Convivencia Autónoma. Si tras al menos catorce días no basta, se pueden suspender la Contribución de Reconocimiento (CdR) y los bienes no esenciales, pero no la vivienda, la comida, el agua, los cuidados ni el voto. Tras sesenta días de negativa sin justificación se acuerda con la persona un plan que dura hasta doce meses. Si la negativa continúa también después del plan, un tribunal sorteado puede declarar que la persona ya no es miembro: recibe solo un trozo de tierra con agua, sin casa, conserva el agua potable y los cuidados de emergencia y puede volver en cualquier momento retomando la contribución. Los hijos siguen siendo miembros con todos sus derechos. La enfermedad, la discapacidad, la edad, el embarazo y la objeción de conciencia nunca son una negativa.
 
-Palabras: no trabaja, negativa, vagos, aprovechados, castigo, sanciones, quien no contribuye, expulsión, objeción de conciencia, perezosos
-Dónde: Const. 7.3; Cód. 4, art. 29, ap. 2; Cód. 4, art. 29, ap. 3
+Palabras: no trabaja, negativa, vagos, aprovechados, castigo, sanciones, quien no contribuye, expulsión, objeción de conciencia, perezosos, perder la condición de miembro, cese, tierra
+Dónde: Const. 7.3; Cód. 4, art. 29, ap. 4-bis; Cód. 4, art. 29, ap. 2; Cód. 4, art. 29, ap. 3; Const. 7.3-bis; Cód. 4, art. 29, ap. 6-bis
 
 ### ¿Qué recibe quien no puede trabajar?
 
@@ -166,10 +166,10 @@ Dónde: Const. 4.8; Const. 5.2
 
 ### ¿Y quien vive en el territorio pero no quiere adherirse?
 
-Nadie está obligado a adherirse. Quien no se adhiere puede quedarse con un Pacto de Convivencia Autónoma: recibe en uso una porción de tierra y, si la hay, una casa para vivir de forma autónoma, sin retirar bienes de forma ordinaria de los Almacenes comunes. Debe respetar los límites ecológicos, las reglas sobre los animales y la prohibición de armas. Quien rechaza durante mucho tiempo también el Pacto puede ser trasladado fuera del núcleo habitado común, sin violencia, a una porción de tierra asignada.
+Nadie está obligado a adherirse. Quien no se adhiere puede quedarse con un Pacto de Convivencia Autónoma: recibe en uso una porción de tierra y, si la hay, una casa para vivir de forma autónoma, sin retirar bienes de forma ordinaria de los Almacenes comunes. Debe respetar los límites ecológicos, las reglas sobre los animales y la prohibición de armas. El Pacto no se puede negar a quien acepta sus condiciones: cada Comunidad reserva tierra para al menos una persona por cada cien residentes y, si no hay sitio, lo buscan las Comunidades vecinas; mientras espera, la persona es alojada y recibe lo necesario. Quien rechaza durante mucho tiempo también el Pacto puede ser trasladado fuera del núcleo habitado común, sin violencia, a una porción de tierra asignada.
 
 Palabras: no adherirse, no miembros, externos, vecinos, quien no está de acuerdo, obligación de adhesión, pacto de convivencia, residentes, huéspedes, extranjeros, disenso
-Dónde: Const. 38.1; Const. 4.9; Const. 4.9-bis; Const. 4.9-ter; Const. 1.3
+Dónde: Const. 38.1; Const. 4.9; Const. 4.9-bis; Const. 4.9-ter; Const. 1.3; Cód. 10, art. 4-bis; Cód. 4, art. 32-bis
 
 ### ¿Cómo se empieza?
 
@@ -189,10 +189,10 @@ Dónde: Cód. 15, art. 15; Cód. 15, art. 17; Cód. 15, art. 19-bis, ap. 3; Cons
 
 ### ¿Cómo se tratan los conflictos y los delitos? ¿Existe la cárcel?
 
-Los textos buscan reparar el daño y proteger a las personas, no castigar. La vía ordinaria es un procedimiento reparador; si no basta, deciden personas sorteadas por rotación. La palabra «cárcel» no aparece, pero para la violencia grave se prevé una contención, que es una forma de reclusión: revisada cada seis meses y, en primera aplicación, de hasta cinco o diez años. Durante la transición estas medidas no se aplican: para los delitos siguen siendo competentes las autoridades públicas.
+Los textos buscan reparar el daño y proteger a las personas, no castigar. La vía ordinaria es un procedimiento reparador; si no basta, deciden personas sorteadas por rotación. La palabra «cárcel» no aparece, pero para la violencia grave se prevé una contención, que es una forma de reclusión: revisada cada seis meses y, en primera aplicación, de hasta cinco o diez años. Para quien no ha cumplido dieciocho años la contención está excluida: como mucho, una acogida educativa abierta, de hasta un año. Durante la transición estas medidas no se aplican: para los delitos siguen siendo competentes las autoridades públicas.
 
 Palabras: cárcel, prisión, delitos, crímenes, justicia, tribunal, jueces, penas, violencia, robo, peleas, cadena perpetua
-Dónde: Const. 30.1; Const. 31.2; Const. 1.3-bis; Cód. 4, art. 30, ap. 3; Anexo C, art. 7, ap. 2
+Dónde: Const. 30.1; Const. 31.2; Const. 1.3-bis; Cód. 4, art. 30, ap. 3; Cód. 4, art. 25, ap. 9; Anexo C, art. 7, ap. 2
 
 ### ¿Existen policía, ejército, armas?
 
@@ -238,10 +238,10 @@ Dónde: Const. 29.1; Const. 29.3; Const. 29.4; Cód. 5, art. 6
 
 ### ¿Cómo funciona la sanidad?
 
-Para los textos la salud es un derecho y no es una mercancía ni una prestación de pago. Se prevén tres niveles: una inteligencia artificial personal con función preventiva, los cuidadores de la Comunidad y centros de alta especialización para territorios más amplios. Ningún tratamiento puede imponerse sin consentimiento libre e informado, salvo emergencias estrictamente necesarias. Los cuidados de emergencia que salvan la vida están garantizados a cualquiera.
+Para los textos la salud es un derecho y no es una mercancía ni una prestación de pago. Se prevén tres niveles: una inteligencia artificial personal con función preventiva, los cuidadores de la Comunidad y centros de alta especialización para territorios más amplios. Ningún tratamiento puede imponerse sin consentimiento libre e informado, ni siquiera una vacuna durante una epidemia: a quien se niega solo se le puede mantener alejado de los lugares de riesgo, y el aislamiento y la cuarentena duran como máximo catorce días, prorrogables una vez. Desde los dieciséis años cada persona decide sola sobre sus propios cuidados. En una crisis psíquica, una medida coercitiva debe ser convalidada por un tribunal en veinticuatro horas y no supera los catorce días. Los cuidados de emergencia que salvan la vida están garantizados a cualquiera.
 
-Palabras: sanidad, médico, hospital, cuidados, enfermedad, medicamentos, salud, doctor, urgencias, vacunas, salud mental
-Dónde: Const. 28.1; Const. 28.2; Const. 1.3; Cód. 6, art. 1
+Palabras: sanidad, médico, hospital, cuidados, enfermedad, medicamentos, salud, doctor, urgencias, vacunas, salud mental, epidemia, cuarentena, consentimiento
+Dónde: Const. 28.1; Const. 28.2; Const. 1.3; Cód. 6, art. 1; Cód. 6, art. 2-bis; Cód. 6, art. 2-ter; Cód. 6, art. 8
 
 ### ¿Qué tamaño tiene una Comunidad y cómo se conectan entre sí?
 

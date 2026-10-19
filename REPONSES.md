@@ -87,17 +87,17 @@ Où: Const. 37.1; Const. 37.2; Const. 37.3; Const. 37.4; Const. 38.2
 
 ### Suis-je obligé de travailler ? Et combien d’heures ?
 
-Oui : les textes demandent à chaque adulte qui le peut une Contribution de base (CBO), c’est-à-dire une part du travail nécessaire à tous. La limite écrite est une moyenne de quinze heures par semaine, calculée sur le trimestre, et il n’y a pas de minimum. Les textes eux-mêmes prévoient de vérifier cette limite sur des données réelles. Le logement, la nourriture et les soins ne sont pas la rémunération de ce travail.
+Oui : les textes demandent à chaque adulte qui le peut une Contribution de base (CBO), c’est-à-dire une part du travail nécessaire à tous. La limite écrite est une moyenne de quinze heures par semaine, calculée sur le trimestre, et il n’y a pas de minimum. Les textes eux-mêmes prévoient de vérifier cette limite sur des données réelles. Le logement, la nourriture et les soins ne sont pas la rémunération de ce travail, mais qui le refuse longtemps sans motif reconnu peut perdre le statut de membre.
 
 Mots: travail obligatoire, heures de travail, horaires, temps de travail, combien on travaille, roulements, obligation, CBO, contribution de base, quinze heures, semaine de travail, salaire, travailler, boulot
-Où: Const. 7.1; Code 1, art. 3, al. 2; Code 1, art. 6; Code 1, art. 2, al. 9
+Où: Const. 7.1; Code 1, art. 3, al. 2; Code 1, art. 6; Code 1, art. 2, al. 9; Const. 7.3-bis
 
 ### Que se passe-t-il pour qui ne fait pas sa part de travail ?
 
-Les textes prévoient des étapes graduelles. On essaie d’abord de changer les tâches et de recourir à la médiation, et on informe la personne de son droit au Pacte de cohabitation autonome. Ensuite, on peut suspendre la Contribution de reconnaissance (CdR) et les biens non essentiels, mais pas le logement, la nourriture, l’eau et les soins. Après soixante jours de refus sans justification, on définit avec la personne un plan qui dure jusqu’à douze mois.
+Les textes prévoient des étapes graduelles. D’abord, une assemblée tirée au sort entend la personne, essaie de changer les tâches et de recourir à la médiation, et l’informe de son droit au Pacte de cohabitation autonome. Si, après au moins quatorze jours, cela ne suffit pas, on peut suspendre la Contribution de reconnaissance (CdR) et les biens non essentiels, mais pas le logement, la nourriture, l’eau, les soins ni le vote. Après soixante jours de refus sans justification, on définit avec la personne un plan qui dure jusqu’à douze mois. Si le refus continue même après le plan, un tribunal tiré au sort peut déclarer que la personne n’est plus membre : elle ne reçoit qu’un terrain avec l’eau, sans maison, conserve l’eau potable et les soins d’urgence et peut revenir à tout moment en reprenant la contribution. Les enfants restent membres avec tous leurs droits. La maladie, le handicap, l’âge, la grossesse et l’objection de conscience ne sont jamais un refus.
 
-Mots: ne travaille pas, refus, fainéants, tire-au-flanc, punition, sanctions, qui ne contribue pas, profiteurs, parasites, expulsion, objection de conscience, paresseux
-Où: Const. 7.3; Code 4, art. 29, al. 2; Code 4, art. 29, al. 3
+Mots: ne travaille pas, refus, fainéants, tire-au-flanc, punition, sanctions, qui ne contribue pas, profiteurs, parasites, expulsion, objection de conscience, paresseux, perdre le statut, cessation, terre
+Où: Const. 7.3; Code 4, art. 29, al. 4-bis; Code 4, art. 29, al. 2; Code 4, art. 29, al. 3; Const. 7.3-bis; Code 4, art. 29, al. 6-bis
 
 ### Que reçoit qui ne peut pas travailler ?
 
@@ -166,10 +166,10 @@ Où: Const. 4.8; Const. 5.2
 
 ### Et ceux qui vivent sur le territoire mais ne veulent pas adhérer ?
 
-Personne n’est obligé d’adhérer. Qui n’adhère pas peut rester avec un Pacte de cohabitation autonome : il reçoit en usage une parcelle de terre et, s’il y en a une, une maison pour vivre en autonomie, sans prélèvements ordinaires dans les Entrepôts communs. Il doit respecter les limites écologiques, les règles sur les animaux et l’interdiction des armes. Qui refuse longtemps même le Pacte peut être déplacé hors de la zone habitée commune, sans violence, sur une parcelle de terre attribuée.
+Personne n’est obligé d’adhérer. Qui n’adhère pas peut rester avec un Pacte de cohabitation autonome : il reçoit en usage une parcelle de terre et, s’il y en a une, une maison pour vivre en autonomie, sans prélèvements ordinaires dans les Entrepôts communs. Il doit respecter les limites écologiques, les règles sur les animaux et l’interdiction des armes. Le Pacte ne peut pas être refusé à qui en accepte les conditions : chaque Communauté réserve de la terre pour au moins une personne pour cent résidents et, s’il n’y a pas de place, les Communautés voisines la cherchent ; en attendant, la personne est hébergée et reçoit le nécessaire. Qui refuse longtemps même le Pacte peut être déplacé hors de la zone habitée commune, sans violence, sur une parcelle de terre attribuée.
 
 Mots: ne pas adhérer, non-membres, extérieurs, voisins, qui n’est pas d’accord, obligation d’adhésion, pacte de cohabitation, résidents, invités, étrangers, dissidence, désaccord
-Où: Const. 38.1; Const. 4.9; Const. 4.9-bis; Const. 4.9-ter; Const. 1.3
+Où: Const. 38.1; Const. 4.9; Const. 4.9-bis; Const. 4.9-ter; Const. 1.3; Code 10, art. 4-bis; Code 4, art. 32-bis
 
 ### Comment commence-t-on ?
 
@@ -189,10 +189,10 @@ Où: Code 15, art. 15; Code 15, art. 17; Code 15, art. 19-bis, al. 3; Const. 3.5
 
 ### Comment traite-t-on les conflits et les délits ? La prison existe-t-elle ?
 
-Les textes visent à réparer le tort et à protéger les personnes, pas à punir. La voie ordinaire est une procédure réparatrice ; si elle ne suffit pas, ce sont des personnes tirées au sort par rotation qui décident. Le mot « prison » n’y figure pas, mais pour la violence grave une mesure de confinement est prévue, qui est une forme de réclusion : réexaminée tous les six mois, en première application jusqu’à cinq ou dix ans. Pendant la transition, ces mesures ne s’appliquent pas : pour les infractions, les autorités publiques restent compétentes.
+Les textes visent à réparer le tort et à protéger les personnes, pas à punir. La voie ordinaire est une procédure réparatrice ; si elle ne suffit pas, ce sont des personnes tirées au sort par rotation qui décident. Le mot « prison » n’y figure pas, mais pour la violence grave une mesure de confinement est prévue, qui est une forme de réclusion : réexaminée tous les six mois, en première application jusqu’à cinq ou dix ans. Pour les moins de dix-huit ans, le confinement est exclu : au plus un accueil éducatif ouvert, jusqu’à un an. Pendant la transition, ces mesures ne s’appliquent pas : pour les infractions, les autorités publiques restent compétentes.
 
 Mots: prison, taule, délits, crimes, infractions, justice, tribunal, juges, peines, violence, vol, disputes, perpétuité
-Où: Const. 30.1; Const. 31.2; Const. 1.3-bis; Code 4, art. 30, al. 3; Annexe C, art. 7, al. 2
+Où: Const. 30.1; Const. 31.2; Const. 1.3-bis; Code 4, art. 30, al. 3; Code 4, art. 25, al. 9; Annexe C, art. 7, al. 2
 
 ### Existe-t-il une police, une armée, des armes ?
 
@@ -238,10 +238,10 @@ Où: Const. 29.1; Const. 29.3; Const. 29.4; Code 5, art. 6
 
 ### Comment fonctionne la santé ?
 
-Pour les textes, la santé est un droit et n’est ni une marchandise ni une prestation payante. Trois niveaux sont prévus : une intelligence artificielle personnelle à fonction de prévention, les soignants de la Communauté et des centres de haute spécialisation pour des territoires plus larges. Aucun traitement ne peut être imposé sans consentement libre et éclairé, sauf urgences strictement nécessaires. Les soins d’urgence vitaux sont garantis à quiconque.
+Pour les textes, la santé est un droit et n’est ni une marchandise ni une prestation payante. Trois niveaux sont prévus : une intelligence artificielle personnelle à fonction de prévention, les soignants de la Communauté et des centres de haute spécialisation pour des territoires plus larges. Aucun traitement ne peut être imposé sans consentement libre et éclairé, pas même un vaccin pendant une épidémie : qui refuse ne peut être tenu à l’écart que des lieux à risque, et l’isolement et la quarantaine durent au plus quatorze jours, prolongeables une fois. À partir de seize ans, on décide seul de ses propres soins. En cas de crise psychique, une mesure coercitive doit être validée par un tribunal dans un délai de vingt-quatre heures et ne dépasse pas quatorze jours. Les soins d’urgence vitaux sont garantis à quiconque.
 
-Mots: santé, système de santé, médecin, hôpital, soins, maladie, médicaments, docteur, urgences, vaccins, sécurité sociale, mutuelle, ticket modérateur, santé mentale
-Où: Const. 28.1; Const. 28.2; Const. 1.3; Code 6, art. 1
+Mots: santé, système de santé, médecin, hôpital, soins, maladie, médicaments, docteur, urgences, vaccins, sécurité sociale, mutuelle, ticket modérateur, santé mentale, épidémie, quarantaine, consentement
+Où: Const. 28.1; Const. 28.2; Const. 1.3; Code 6, art. 1; Code 6, art. 2-bis; Code 6, art. 2-ter; Code 6, art. 8
 
 ### Quelle est la taille d’une Communauté et comment les Communautés sont-elles reliées entre elles ?
 
