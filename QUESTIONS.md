@@ -153,7 +153,7 @@ Where: Const. 3.6; Const. 3.7; Const. 3.9; Code 1, art. 44, para. 5
 They are commons. They take on repetitive, arduous or dangerous work first, and the time they free stays with the Community. AI calculates and proposes; people decide.
 
 Words: robots, machines, automation, automate, unemployment, technology, factories
-Where: Const. 3.1; Code 7, art. 6; Code 7, art. 2, para. 6; Const. 19.6; [Proposal 8, robots](register/proposals.html#proposta-8--robot-e-macchine-autonome)
+Where: Const. 3.1; Code 7, art. 6; Code 7, art. 2, para. 6; Const. 19.6; Code 7, art. 6-bis
 
 ## Joining and leaving
 
@@ -261,10 +261,10 @@ Where: Code 1, art. 19, para. 3; Code 1, art. 32; Const. 36.3; Const. 36.4
 
 ### How can I criticise, propose a change or contribute?
 
-You can open an issue on GitHub or write to zerocirclesproject@gmail.com: one line is enough. Say which text and article, what the problem is and, if you have one, the change you propose. Changes of substance stay open for discussion for at least fourteen days; today they are assessed by whoever maintains the repository, publicly and with reasons. Proposals that contradict the Inviolable Core are not accepted.
+You can open an issue on GitHub or write to zerocirclesproject@gmail.com: one line is enough. Say which text and article, what the problem is and, if you have one, the change you propose. Today they are assessed by whoever maintains the repository, publicly and with reasons: a verified change is applied and recorded with its reason. Proposals that contradict the Inviolable Core are not accepted.
 
 Words: contribute, criticise, criticize, propose, issue, take part, help, GitHub, email, contact, corrections, translate, feedback, write
-Where: [How to contribute](contributing.html); [Open change proposals](register/proposals.html)
+Where: [How to contribute](contributing.html); [Archive of proposals](register/proposals.html)
 
 ### Under which licence are the texts published? Can I reuse them?
 

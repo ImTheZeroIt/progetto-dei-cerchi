@@ -68,9 +68,11 @@ BOZZE = {
         dict(chiave="cdr", md="bozze/tabella-cdr.md", pagina="bozza-cdr.html",
              titolo="Tabella pubblica del CdR", nota="bozza 0.1"),
         dict(chiave="proposte", md="PROPOSTE.md", pagina="proposte.html",
-             titolo="Proposte di modifica aperte", nota="in discussione", classe=""),
+             titolo="Proposte di modifica (archivio)", nota="accolte il 19 ottobre 2026", classe=""),
         dict(chiave="verifica", md="VERIFICA-PROPOSTE.md", pagina="verifica-proposte.html",
              titolo="Verifica contraria delle proposte", nota="sulla versione 1", classe=""),
+        dict(chiave="coerenza", md="VERIFICA-COERENZA.md", pagina="verifica-coerenza.html",
+             titolo="Verifica di coerenza delle regole", nota="19 ottobre 2026", classe=""),
     ],
     "en": [
         dict(chiave="paniere", md="testi/en/drafts/draft-basket.md", pagina="draft-basket.html",
@@ -80,7 +82,7 @@ BOZZE = {
         dict(chiave="cdr", md="testi/en/drafts/draft-cdr.md", pagina="draft-cdr.html",
              titolo="Public CdR table", nota="draft 0.1"),
         dict(chiave="proposte", md="testi/en/drafts/proposals.md", pagina="proposals.html",
-             titolo="Open change proposals", nota="under discussion", classe=""),
+             titolo="Change proposals (archive)", nota="accepted on 19 October 2026", classe=""),
         dict(chiave="verifica", md="testi/en/drafts/proposals-review.md", pagina="proposals-review.html",
              titolo="Adversarial review of the proposals", nota="on version 1", classe=""),
     ],
@@ -92,7 +94,7 @@ BOZZE = {
         dict(chiave="cdr", md="testi/fr/brouillons/brouillon-cdr.md", pagina="brouillon-cdr.html",
              titolo="Barème public de la CdR", nota="brouillon 0.1"),
         dict(chiave="proposte", md="testi/fr/brouillons/propositions.md", pagina="propositions.html",
-             titolo="Propositions de modification ouvertes", nota="en discussion", classe=""),
+             titolo="Propositions de modification (archives)", nota="acceptées le 19 octobre 2026", classe=""),
         dict(chiave="verifica", md="testi/fr/brouillons/verification-propositions.md",
              pagina="verification-propositions.html",
              titolo="Vérification contradictoire des propositions", nota="sur la version 1", classe=""),
@@ -1092,7 +1094,9 @@ def costruisci_lingua(lingua, altre):
                 if chiave == "parametri":
                     pag = PARAMETRI[la["codice"]]["pagina"]
                 else:
-                    pag = next(b["pagina"] for b in BOZZE[la["codice"]] if b["chiave"] == chiave)
+                    pag = next((b["pagina"] for b in BOZZE[la["codice"]] if b["chiave"] == chiave), None)
+                    if pag is None:
+                        continue
                 esito[a["codice"]] = "%s%s/%s" % (la["prefisso"], la["dir_registro"], pag)
             return esito
         par = PARAMETRI[lingua["codice"]]

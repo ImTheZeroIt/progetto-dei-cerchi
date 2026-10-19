@@ -1,14 +1,10 @@
-# Proposte di modifica aperte
+# Proposte di modifica (archivio)
 
-Questa pagina raccoglie le modifiche di sostanza proposte e non ancora decise. Nessuna è in vigore: i testi restano quelli pubblicati nel registro. Secondo le regole scritte in [Come contribuire](https://imthezeroit.github.io/progetto-dei-cerchi/contribuire.html), ogni proposta resta aperta alla discussione per almeno quattordici giorni prima della decisione.
+Questa pagina raccoglie le undici proposte di modifica pubblicate tra il 5 e il 19 ottobre 2026. **Sono state tutte accolte il 19 ottobre 2026** e il loro testo è ora nei Codici; le voci sono nel [registro delle modifiche](https://imthezeroit.github.io/progetto-dei-cerchi/registro/modifiche.html). La pagina resta come archivio, perché per ogni modifica spiega il problema, la ragione, il costo e i punti ancora aperti.
 
-**Questa è la versione 2.** La prima versione, del 5 ottobre 2026, è stata sottoposta a una [verifica contraria](https://imthezeroit.github.io/progetto-dei-cerchi/registro/verifica-proposte.html): letture indipendenti con il solo compito di trovare difetti. Nessuna delle undici proposte ha retto così com'era. Qui sono riscritte, e per ciascuna è detto che cosa è cambiato. Anche la riscrittura è stata riletta allo stesso modo: le obiezioni trovate sono state corrette, e quelle che restano sono indicate come punti aperti. Poiché i testi sono cambiati, i quattordici giorni ripartono.
+**Come cambiano ora le regole.** Dal 19 ottobre 2026 le modifiche non passano più per un periodo di discussione: quando una correzione è verificata viene applicata direttamente e registrata con la data, il testo e la ragione. Chiunque può segnalare un problema o proporre una modifica, come spiegato in [Come contribuire](https://imthezeroit.github.io/progetto-dei-cerchi/contribuire.html), e ogni modifica può essere ritirata se si dimostra sbagliata.
 
-- **Versione 2 del:** 6 ottobre 2026.
-- **Decisione non prima del:** 20 ottobre 2026.
-- **Aggiunta del 10 ottobre 2026:** i testi degli allineamenti delle proposte 7 e 8, che prima erano solo annunciati. Non cambiano le proposte.
-- **Versione 3 della proposta 2, del 12 ottobre 2026:** cambiano le misure dell'alloggio adeguato. Per questa sola proposta i quattordici giorni ripartono: la decisione non è prima del 26 ottobre 2026.
-- **Per discuterle:** le [segnalazioni aperte](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues?q=is%3Aissue%20state%3Aopen%20in%3Atitle%20%22Proposta%20di%20modifica%22) il cui titolo comincia con «Proposta di modifica», oppure [zerocirclesproject@gmail.com](mailto:zerocirclesproject@gmail.com).
+La prima versione delle proposte, del 5 ottobre 2026, era stata sottoposta a una [verifica contraria](https://imthezeroit.github.io/progetto-dei-cerchi/registro/verifica-proposte.html): nessuna aveva retto così com'era. La versione 2, del 6 ottobre, le ha riscritte. La proposta 2 è stata riscritta ancora il 12 e il 19 ottobre (versioni 3 e 4). L'ultima versione è stata controllata con la [verifica di coerenza](https://imthezeroit.github.io/progetto-dei-cerchi/registro/verifica-coerenza.html) del 19 ottobre.
 
 Le prime quattro proposte nascono dalla [bozza dell'Allegato del Paniere di Sufficienza](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-paniere.html). La quinta, la nona e la decima riguardano il Contributo di Riconoscenza. La sesta e la settima riguardano il sottosuolo e le materie prime. L'ottava riguarda i robot. L'undicesima riguarda le soglie economiche delle decisioni.
 
@@ -17,10 +13,12 @@ Le prime quattro proposte nascono dalla [bozza dell'Allegato del Paniere di Suff
 Tre cose che la prima versione non diceva.
 
 - **Ciò che entra nel Paniere sale di priorità.** Quando il tempo non basta, la distribuzione dei beni del Paniere viene prima della cura delle persone fragili e della manutenzione di acqua ed energia (Cod. 1, art. 32). Per questo la proposta 1 aggiunge a quell'articolo una regola: i beni del Paniere indicati come differibili vengono dopo. Vale per il vestiario, per i prodotti per l'igiene che non servono alla salute e per i dispositivi della proposta 3. Non vale per i due valori della proposta 4, acqua calda e riscaldamento, che restano nella quota minima.
-- **Un bene del Paniere comprato fuori è una dipendenza critica.** Richiede un Piano di Uscita con termine certo (Cod. 15, art. 12). I beni differibili non entrano però nei «livelli 1 e 2» su cui il Codice 16 misura l'autoproduzione del settanta per cento (art. 1, lett. f, e art. 4): non rallentano il passaggio di fase.
+- **Un bene del Paniere comprato fuori è una dipendenza critica.** Richiede un Piano di Uscita con termine certo (Cod. 15, art. 12). I beni differibili non entrano però nei «livelli 1 e 2» su cui il Codice 16 misura l'autoproduzione del settanta per cento (art. 1, lett. f, e art. 4): non rallentano i passaggi dalla Fase 0 alla Fase 1 e dalla Fase 1 alla Fase 2. Pesano invece sugli obiettivi della Fase 3 e sul passaggio alla Fase 4, che chiedono di superare la metà delle dipendenze critiche e un Piano di Uscita a termine certo per ciascuna di quelle rimaste (Cod. 16, art. 3, c. 4, lett. c, e art. 4, c. 4, lett. b).
 - **Il tempo amministrativo non è stimato.** Il Codice 3 (art. 12-bis, c. 13) chiede a ogni nuova regola di dire quanto tempo amministrativo richiede, e lo limita a un decimo del Contributo di Base. Nessuna proposta ha ancora questa stima: è indicato dove pesa di più.
 
 ## Proposta 1 — Vestiario e igiene nel Paniere Materiale
+
+**Esito:** accolta il 19 ottobre 2026; nessuna osservazione ricevuta. Il testo è stato inserito nei Codici (C.1-Annex A, art. 4, commi 1 e 3, e nuovo comma 1-bis; Codice 1, art. 32, nuovo comma 1-bis).
 
 **Testo e articolo:** C.1-Annex A, art. 4, commi 1 e 3, e nuovo comma 1-bis; Codice 1, art. 32, nuovo comma 1-bis.
 
@@ -64,11 +62,15 @@ Nel Codice 1, all'articolo 32, dopo il comma 1 è inserito:
 
 ## Proposta 2 — Standard dell'alloggio adeguato
 
+**Esito:** accolta il 19 ottobre 2026; nessuna osservazione ricevuta. Il testo è stato inserito nei Codici (Codice 1, nuovo art. 47-bis).
+
 **Testo e articolo:** Codice 1, nuovo art. 47-bis.
 
 **Che cosa cambia rispetto alla versione 1.** Ora dice che cosa vale come «adeguato» per le altre norme e fissa un termine per l'adeguamento. Aggiunti: uno spazio riservato minimo, lo spazio per i minori dai quattordici anni, il divieto di scendere sotto i primi valori, il rispetto del divieto di consumo di suolo, una regola per le prime fasi. Per la temperatura rinvia al Codice 8. Tolto il rinvio a un'«accoglienza d'urgenza» che i testi non prevedono.
 
 **Che cosa cambia nella versione 3 (12 ottobre 2026).** Quindici metri quadrati a persona davano a chi vive da solo o in coppia un alloggio troppo piccolo per viverci. Ora ogni alloggio ha almeno soggiorno, camera da letto e bagno, e la superficie minima dipende da quante persone ci vivono: trenta metri quadrati per una, quarantacinque per due, sessanta per tre. Lo spazio riservato sale da otto a nove metri quadrati.
+
+**Che cosa cambia nella versione 4 (19 ottobre 2026).** La verifica di coerenza del 19 ottobre ha trovato due difetti. La lettera d) del comma 1 ammetteva un bagno comune nel Cerchio 0, mentre il comma 2 chiedeva un bagno in ogni alloggio. E il comma 2 usava «adeguato» in un senso diverso dal comma 5. Ora i bagni si contano sulle persone: almeno uno ogni quattro, anche comuni tra gli alloggi dello stesso Cerchio 0, e oltre il primo bastano wc e lavabo. Il monolocale «non rispetta lo standard», invece di «non è adeguato». Nelle prime fasi valgono anche la composizione minima e il numero dei bagni.
 
 **Problema.** L'alloggio è un diritto costituzionale (Cost. 1.2, lett. a). Il Codice 1 parla di «alloggio adeguato» (art. 47, c. 3) senza dire che cosa lo rende tale.
 
@@ -88,7 +90,7 @@ Nel Codice 1, all'articolo 32, dopo il comma 1 è inserito:
 >
 > e) l'accessibilità necessaria alla persona, secondo il suo piano individuale di cura previsto dal Codice 12.
 >
-> 2. Gli standard quantitativi sono determinati dall'Assemblea su proposta congiunta del Consiglio di Magazzino e del Consiglio Energia e Acqua, con il parere del Consiglio Salute e del Consiglio Habitat e Territorio. In prima applicazione ogni alloggio comprende almeno un soggiorno, una camera da letto separata e un bagno; il monolocale non è un alloggio adeguato. La superficie abitabile non è inferiore a trenta metri quadrati per una persona, quarantacinque per due e sessanta per tre; aumenta di quindici metri quadrati per ciascuna persona in più fino alla quinta e di dieci per ciascuna oltre la quinta. Ogni spazio riservato previsto dalla lettera a) del comma 1 non è inferiore a nove metri quadrati. Le determinazioni successive non possono scendere sotto i valori di prima applicazione senza il parere conforme del Consiglio Salute.
+> 2. Gli standard quantitativi sono determinati dall'Assemblea su proposta congiunta del Consiglio di Magazzino e del Consiglio Energia e Acqua, con il parere del Consiglio Salute e del Consiglio Habitat e Territorio. In prima applicazione ogni alloggio comprende almeno un soggiorno e una camera da letto separata; il monolocale non rispetta lo standard. Ogni Cerchio 0 dispone di almeno un bagno ogni quattro persone o frazione; oltre il primo, i bagni possono essere servizi con wc e lavabo. I bagni possono essere comuni agli alloggi dello stesso Cerchio 0. Quando un Cerchio 0 abita più alloggi, la superficie si calcola sul numero totale delle sue persone. La superficie abitabile non è inferiore a trenta metri quadrati per una persona, quarantacinque per due e sessanta per tre; aumenta di quindici metri quadrati per ciascuna persona in più fino alla quinta e di dieci per ciascuna oltre la quinta. Ogni spazio riservato previsto dalla lettera a) del comma 1 non è inferiore a nove metri quadrati. Le determinazioni successive non possono scendere sotto i valori di prima applicazione senza il parere conforme del Consiglio Salute.
 >
 > 3. Gli standard del comma 2 non si applicano alle aree di sosta attrezzate previste dall'articolo 6-ter, comma 6, del Codice 11.
 >
@@ -96,17 +98,19 @@ Nel Codice 1, all'articolo 32, dopo il comma 1 è inserito:
 >
 > 5. Ai fini dell'articolo 47, comma 3, del presente Codice e degli articoli 29 e 34 del Codice 4 è adeguato l'alloggio che rispetta il comma 1. Se non ve n'è uno disponibile è assegnato il migliore disponibile, e il suo adeguamento ha la precedenza nella pianificazione.
 >
-> 6. L'adeguamento avviene nel rispetto degli articoli 2 e 5 del Codice 10: il riuso e il recupero degli edifici precedono ogni nuova edificazione. Fino all'attivazione dei Codici 8 e 12 si applicano le lettere a), b) e d) del comma 1 e la superficie del comma 2.
+> 6. L'adeguamento avviene nel rispetto degli articoli 2 e 5 del Codice 10: il riuso e il recupero degli edifici precedono ogni nuova edificazione. Fino all'attivazione dei Codici 8 e 12 si applicano le lettere a), b) e d) del comma 1 e, del comma 2, la superficie, la composizione minima e il numero dei bagni.
 
-**Ragione.** La versione 2 usava quindici metri quadrati a persona, dallo studio di Millward-Hopkins e altri (2020): è un minimo pensato per tutta la popolazione mondiale, e per una o due persone sta sotto anche i minimi della norma italiana sull'abitabilità (DM 5 luglio 1975: ventotto metri quadrati per una persona, trentotto per due). La versione 3 parte da ciò che serve per viverci: un posto dove stare, uno dove dormire chiudendo la porta, un bagno. Le misure sono scelte di redazione, da discutere; oltre la quinta persona crescono più lentamente, perché cucina e soggiorno non si moltiplicano con le persone. I nove metri dello spazio riservato sono la camera singola minima della stessa norma. I trentasei mesi sono un'ipotesi di redazione. Il comma 4 impedisce che uno standard pensato come garanzia diventi un motivo di sgombero; il comma 5 evita che le misure di protezione del Codice 4 restino ineseguibili dove manca un alloggio a norma.
+**Ragione.** La versione 2 usava quindici metri quadrati a persona, dallo studio di Millward-Hopkins e altri (2020): è un minimo pensato per tutta la popolazione mondiale, e per una o due persone sta sotto anche i minimi della norma italiana sull'abitabilità (DM 5 luglio 1975: ventotto metri quadrati per una persona, trentotto per due). La versione 3 parte da ciò che serve per viverci: un posto dove stare, uno dove dormire chiudendo la porta, un bagno. Le misure sono scelte di redazione, da discutere; oltre la quinta persona crescono più lentamente, perché cucina e soggiorno non si moltiplicano con le persone. I nove metri dello spazio riservato sono la camera singola minima della stessa norma. I trentasei mesi sono un'ipotesi di redazione. Il comma 4 impedisce che uno standard pensato come garanzia diventi un motivo di sgombero; il comma 5 evita che le misure di protezione del Codice 4 restino ineseguibili dove manca un alloggio a norma. Un bagno ogni quattro persone è lo standard di una casa familiare: oltre le quattro persone uno solo non basta nelle ore di punta. Per i bagni oltre il primo bastano wc e lavabo, perché la coda è per il wc più che per la doccia, e ogni bagno in più costa materiali, acqua e manutenzione.
 
 **Altri punti da allineare.** Con il nuovo articolo, «alloggio adeguato» ha un contenuto nell'art. 47, c. 3, del Codice 1 e negli artt. 29 e 34 del Codice 4. La temperatura minima è materia del Codice 8, che oggi non fissa un valore: lo fissa la proposta 4. Versione: Codice 1 da V1.5 a V1.6, insieme alle altre proposte sul Codice 1 che saranno accolte.
 
-**Che cosa costa.** Nelle Comunità che partono da edifici esistenti, lavori di adeguamento e di isolamento, non ancora contati nel bilancio delle ore. Dove lo spazio manca e non si può costruire, la proroga del comma 4 non basta: va detto prima. Con le nuove misure la superficie media sale da quindici a circa ventidue metri quadrati per persona, se i nuclei sono come quelli italiani di oggi (ipotesi): nella [bozza dell'Allegato UCR](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-ucr.html) i materiali per l'abitare passano da circa 550 a circa 740 ore l'anno per 150 persone, meno di un decimo d'ora a settimana per contributore.
+**Che cosa costa.** Nelle Comunità che partono da edifici esistenti, lavori di adeguamento e di isolamento, non ancora contati nel bilancio delle ore. Dove lo spazio manca e non si può costruire, la proroga del comma 4 non basta: va detto prima. Con le nuove misure la superficie media sale da quindici a circa ventidue metri quadrati per persona, se i nuclei sono come quelli italiani di oggi (ipotesi): nella [bozza dell'Allegato UCR](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-ucr.html) i materiali per l'abitare passano da circa 550 a circa 740 ore l'anno per 150 persone, meno di un decimo d'ora a settimana per contributore. I bagni in più per i Cerchi 0 dalla quinta persona sono lavori di impianto, non ancora contati.
 
 **Punti aperti.** Non è detto se gli standard valgono per le Case Ponte. Verificare la superficie richiede di entrare negli alloggi: va fatto senza violare l'inviolabilità del Cerchio 0 (Cost. 5.1). Non è detto come trattare gli edifici fatti solo di monolocali: unirli richiede lavori che il comma 4 lascia alla pianificazione.
 
 ## Proposta 3 — Connettività e materiali per apprendere
+
+**Esito:** accolta il 19 ottobre 2026; nessuna osservazione ricevuta. Il testo è stato inserito nei Codici (Codice 7, art. 3, nuovo comma 9; Codice 5, art. 2, nuovo comma 4-bis).
 
 **Testo e articolo:** Codice 7, art. 3, nuovo comma 9; Codice 5, art. 2, nuovo comma 4-bis.
 
@@ -140,6 +144,8 @@ Nel Codice 5, all'articolo 2, dopo il comma 4 è inserito:
 
 ## Proposta 4 — Valore di prima applicazione del Paniere Energia
 
+**Esito:** accolta il 19 ottobre 2026; nessuna osservazione ricevuta. Il testo è stato inserito nei Codici (Codice 8, art. 4, comma 4).
+
 **Testo e articolo:** Codice 8, art. 4, comma 4.
 
 **Che cosa cambia rispetto alla versione 1.** L'elenco dei servizi è stato tolto: ripeteva il comma 1 e ne dimenticava una parte (raffrescamento, Magazzino Salute, nodo della Rete), così da sembrare un passo indietro. Restano solo i due valori nuovi. La temperatura è fissata qui e non più nel Codice 1. È detto chi decide quando la mancanza dei diciotto gradi è un'emergenza.
@@ -148,7 +154,7 @@ Nel Codice 5, all'articolo 2, dopo il comma 4 è inserito:
 
 **Testo proposto.** Al comma 4 è aggiunto, in fine:
 
-> Fermi tutti i servizi del comma 1, in prima applicazione l'acqua calda sanitaria non è inferiore a venti litri per persona al giorno e il riscaldamento minimo invernale assicura nei locali abitati una temperatura non inferiore a diciotto gradi Celsius. Il Consiglio Salute può indicare un valore più alto per fasce di età. Costituisce emergenza ai sensi del comma 3 la temperatura che il Consiglio Salute indica come pericolosa per la salute. Si applica l'articolo 2, comma 2: la riduzione del fabbisogno precede l'aumento della produzione.
+> Fermi tutti i servizi del comma 1, in prima applicazione l'acqua calda sanitaria non è inferiore a venti litri per persona al giorno e il riscaldamento minimo invernale assicura nei locali abitati una temperatura non inferiore a diciotto gradi Celsius. Su proposta del Consiglio Salute, l'Assemblea può fissare un valore più alto per fasce di età. Costituisce emergenza ai sensi del comma 3 la temperatura che l'Assemblea, su proposta del Consiglio Salute, fissa come pericolosa per la salute; fino a quella deliberazione vale il valore indicato dal Consiglio Salute. Si applica l'articolo 2, comma 2: la riduzione del fabbisogno precede l'aumento della produzione.
 
 **Ragione.** I venti litri di acqua calda vengono dallo studio di Millward-Hopkins e altri (2020); i diciotto gradi dalle linee guida dell'OMS su abitazioni e salute (2018). I chilowattora dipendono dal clima e dall'edificio: restano da calcolare nella STV Paniere Energia (comma 6).
 
@@ -156,9 +162,11 @@ Nel Codice 5, all'articolo 2, dopo il comma 4 è inserito:
 
 **Che cosa costa.** Nei climi freddi è la voce più pesante: il riscaldamento. I due valori entrano nella quota minima, che il Codice 8 mette al primo livello di priorità (art. 2, c. 3) e chiede di garantire entro sei mesi (art. 10), ammettendo in via transitoria anche le fonti fossili per le funzioni vitali (art. 5, c. 3). Per questo il testo richiama l'isolamento prima della produzione. Dove gli edifici non reggono i diciotto gradi, sei mesi possono non bastare: va detto prima.
 
-**Punti aperti.** La temperatura «pericolosa per la salute» non ha un valore di prima applicazione: lo indica il Consiglio Salute.
+**Punti aperti.** La temperatura «pericolosa per la salute» non ha un valore di prima applicazione: lo propone il Consiglio Salute e lo fissa l'Assemblea; fino ad allora vale quello indicato dal Consiglio Salute.
 
 ## Proposta 5 — CdR per le attività culturali offerte alla Comunità
+
+**Esito:** accolta il 19 ottobre 2026; nessuna osservazione ricevuta. Il testo è stato inserito nei Codici (Codice 1, art. 43, nuovo comma 1-bis).
 
 **Testo e articolo:** Codice 1, art. 43, nuovo comma 1-bis.
 
@@ -174,7 +182,7 @@ Nel Codice 5, all'articolo 2, dopo il comma 4 è inserito:
 >
 > b) si contano le ore svolte in presenza e, per la preparazione, non più di altrettante;
 >
-> c) la validazione avviene ai sensi dell'articolo 9 della Costituzione, con chi ha assistito. Se è positiva, i CdR dipendono soltanto dalle ore. Se è negativa, non si applica la sospensione prevista dall'articolo 9, comma 4, del Codice 2;
+> c) la validazione avviene ai sensi dell'articolo 9.2 della Costituzione; chi fruisce è rappresentato da chi ha assistito. Se è positiva, i CdR dipendono soltanto dalle ore. Se è negativa, non si applica la sospensione prevista dall'articolo 9, comma 4, del Codice 2;
 >
 > d) non si applica il comma 3;
 >
@@ -188,11 +196,13 @@ Nel Codice 5, all'articolo 2, dopo il comma 4 è inserito:
 
 **Che cosa costa.** Ogni evento diventa una registrazione da proporre e validare: tempo amministrativo, non stimato. La [simulazione del tetto](https://imthezeroit.github.io/progetto-dei-cerchi/registro/bozza-cdr.html) assume che metà delle persone non maturi CdR: con questa proposta l'ipotesi va rivista. I CdR servono anche a richiamare volontari nei momenti di bisogno (Cod. 1, art. 6, c. 6): il limite annuo evita che attività gradevoli indeboliscano quel richiamo.
 
-**Punti aperti.** Il rapporto di uno a uno tra preparazione e presenza e i sessanta CdR sono ipotesi di redazione. Nessuno dei sedici Cerchi di Competenza riguarda le arti: resta da dire quale Consiglio propone l'attribuzione, e chi distingue un'attività culturale da una di culto.
+**Punti aperti.** Il rapporto di uno a uno tra preparazione e presenza e i sessanta CdR sono ipotesi di redazione. Nessuno dei sedici Cerchi di Competenza riguarda le arti: resta da dire quale Consiglio propone l'attribuzione, chi porta nella validazione la competenza pertinente e chi distingue un'attività culturale da una di culto.
 
 <span id="proposta-6--sottosuolo-bene-comune-ed-estrazione-come-eccezione"></span>
 
 ## Proposta 6 — Sottosuolo bene comune
+
+**Esito:** accolta il 19 ottobre 2026; nessuna osservazione ricevuta. Il testo è stato inserito nei Codici (Codice 10, art. 1, commi 1, 2 e 3; art. 9, comma 1, lettera a)).
 
 **Testo e articolo:** Codice 10, art. 1, commi 1, 2 e 3; art. 9, comma 1, lettera a).
 
@@ -233,6 +243,8 @@ All'articolo 9, comma 1, la lettera a) diventa:
 
 ## Proposta 7 — Materie prime: recupero e inventario
 
+**Esito:** accolta il 19 ottobre 2026; nessuna osservazione ricevuta. Il testo è stato inserito nei Codici (Codice 10, nuovo art. 8-bis e artt. 3 e 7; Codice 15, art. 12, nuovo comma 5-bis).
+
 **Testo e articolo:** Codice 10, nuovo art. 8-bis; Codice 15, art. 12, nuovo comma 5-bis.
 
 **Che cosa cambia rispetto alla versione 1.** La parte sull'estrazione è ritirata, insieme all'eccezione costituzionale della proposta 6. Resta ciò che vale comunque: l'inventario di ciò che si può recuperare, la custodia dei giacimenti, le garanzie per gli scavi di recupero. L'articolo dice in modo espresso che non autorizza nuove estrazioni. Le regole su riuso e acquisti non sono ripetute: esistono già nel Codice 2, nel Codice 15 e nell'Annex A. Il limite ai Piani di Uscita è scritto nel Codice 15, che è la sua sede.
@@ -257,13 +269,13 @@ All'articolo 9, comma 1, la lettera a) diventa:
 >
 > d) la deliberazione dell'Assemblea della Comunità nel cui territorio si trova il sito; se lo scavo può incidere su acque o corridoi ecologici comuni a più Comunità, delibera l'Assemblea Generale.
 >
-> 4. Lo scavo del comma 3 è vietato nei santuari ecologici e nelle aree candidate a diventarlo, nelle aree umide e nelle aree di infiltrazione strategica. Prima dell'attivazione dei Codici 13 e 14 non è ammesso. Restano fermi il presente Codice e il Codice 13.
+> 4. Lo scavo del comma 3 è vietato nei santuari ecologici e nelle aree candidate a diventarlo, nelle aree umide e nelle aree di infiltrazione strategica. Prima dell'attivazione dei Codici 13 e 14 non è ammesso. Lo scavo conforme al comma 3 è uso conforme a una Scheda vigente ai fini dell'articolo 6, comma 4, del Codice 16. Restano fermi il presente Codice e il Codice 13.
 >
 > 5. Il presente articolo non autorizza nuove estrazioni né l'ampliamento di quelle esistenti. Resta fermo l'articolo 14.2 della Costituzione.
 
 Nel Codice 15, all'articolo 12, dopo il comma 5 è inserito:
 
-> 5-bis. Per le materie prime il Piano di Uscita indica riduzione del fabbisogno, riuso, riciclo e recupero. Non può indicare nuove estrazioni.
+> 5-bis. Per le materie prime il Piano di Uscita indica riduzione del fabbisogno, riuso, riciclo e recupero. Non può indicare nuove estrazioni. Si applica il comma 5.
 
 **Ragione.** Prima di chiedersi se scavare, bisogna sapere che cosa c'è già in superficie: edifici dismessi, veicoli, discariche. È lavoro utile in ogni caso, e non tocca alcun divieto. Il comma 5-bis chiude una porta che la verifica ha trovato aperta: senza di esso, l'obbligo di uscire dalle dipendenze esterne spingerebbe verso la miniera.
 
@@ -277,9 +289,11 @@ All'articolo 7, comma 1, le parole «rifugi per impollinatori e infrastrutture i
 
 **Che cosa costa.** L'inventario annuale è lavoro nuovo per ogni Consiglio Habitat e Territorio: tempo amministrativo, non stimato. Si sovrappone in parte all'inventario dei suoli degradati (art. 5, c. 4) e può essere tenuto insieme.
 
-**Punti aperti.** Il comma 5-bis lascia una dipendenza senza termine certo: i metalli che il riciclo non copre continueranno a essere comprati fuori, e lo stesso articolo 12 chiede un termine. È una contraddizione reale tra il divieto di estrarre e l'obbligo di uscire dalle dipendenze: questa proposta la rende visibile, non la risolve.
+**Punti aperti.** Il comma 5-bis lascia una dipendenza senza termine certo: i metalli che il riciclo non copre continueranno a essere comprati fuori, e lo stesso articolo 12 chiede un termine. È una contraddizione reale tra il divieto di estrarre e l'obbligo di uscire dalle dipendenze: questa proposta la rende visibile, non la risolve. Il riesame motivato del comma 5 evita che la transizione resti bloccata, ma non dà un termine.
 
 ## Proposta 8 — Robot e macchine autonome
+
+**Esito:** accolta il 19 ottobre 2026; nessuna osservazione ricevuta. Il testo è stato inserito nei Codici (Codice 7, art. 1, comma 2, nuova lettera f), e nuovo art. 6-bis; Codice 1, art. 8, comma 3).
 
 **Testo e articolo:** Codice 7, art. 1, comma 2, nuova lettera f); nuovo art. 6-bis.
 
@@ -335,6 +349,8 @@ Dopo l'articolo 6 è inserito:
 
 ## Proposta 9 — Decrescenza dei CdR: quando comincia e quali si impiegano per primi
 
+**Esito:** accolta il 19 ottobre 2026; nessuna osservazione ricevuta. Il testo è stato inserito nei Codici (Codice 1, art. 44, comma 3; art. 45, commi 2 e 3).
+
 **Testo e articolo:** Codice 1, art. 44, comma 3; art. 45, commi 2 e 3.
 
 **Che cosa cambia rispetto alla versione 1.** La prima versione faceva scendere il valore tutto insieme alla fine di ogni trimestre e la presentava come «l'unica lettura» possibile. Non lo era: era la più generosa. Ora la riduzione è graduale, in proporzione al tempo. Aggiunte due regole che mancavano: quanto vale un CdR ridotto e che cosa si intende per maturazione. L'ordine di impiego è spostato nell'articolo sull'impiego.
@@ -365,6 +381,8 @@ All'articolo 45, comma 2, le parole «un CdR corrisponde a una UCR» diventano �
 
 ## Proposta 10 — La maggiorazione dei compiti sgradevoli per chi è al tetto
 
+**Esito:** accolta il 19 ottobre 2026; nessuna osservazione ricevuta. Il testo è stato inserito nei Codici (Codice 1, art. 44, comma 2).
+
 **Testo e articolo:** Codice 1, art. 44, comma 2.
 
 **Che cosa cambia rispetto alla versione 1.** La soluzione è rovesciata. La prima versione attribuiva la maggiorazione anche a chi era al tetto, estinguendo per pari valore i suoi CdR più vecchi. La verifica ha mostrato che non otteneva ciò che dichiarava: il saldo restava identico, il vantaggio era solo una durata più lunga dei CdR, i dati trimestrali si gonfiavano e la disparità si spostava altrove. Ora la proposta conferma la regola in vigore, la scrive in modo espresso e definisce come si misura il saldo.
@@ -382,6 +400,8 @@ All'articolo 45, comma 2, le parole «un CdR corrisponde a una UCR» diventano �
 **Che cosa costa.** Chi è al tetto e viene sorteggiato per un turno sgradevole non riceve la maggiorazione. È il prezzo di un tetto senza eccezioni, e va detto. Il sorteggio esclude per un trimestre chi ha svolto più ore sgradevoli (art. 8, c. 3), ma non chi è al tetto per altre attività. Chi usa i propri CdR torna sotto il tetto e ricomincia a maturarli.
 
 ## Proposta 11 — Soglie economiche in proporzione alla dimensione della Comunità
+
+**Esito:** accolta il 19 ottobre 2026; nessuna osservazione ricevuta. Il testo è stato inserito nei Codici (Codice 3, art. 7, comma 3 e nuovi commi 3-bis e 3-ter; art. 7-bis, comma 1; art. 21, comma 3).
 
 **Testo e articolo:** Codice 3, art. 7, comma 3 e nuovi commi 3-bis e 3-ter; art. 7-bis, comma 1.
 
@@ -405,7 +425,7 @@ Dopo il comma 3 sono inseriti:
 
 > 3-bis. La soglia bassa è pari a 100 UCR più una UCR per ogni persona che appartiene alla Comunità di Base, e non supera 500 UCR. La soglia alta è pari a 500 UCR più cinque UCR per ogni persona, e non supera 2.500 UCR. Si contano tutte le persone che appartengono alla Comunità all'inizio del trimestre, minori compresi; non si contano gli ospiti. Per una Comunità appena costituita vale il numero dell'atto di adesione. Per le operazioni comuni a più Comunità e per gli enti dei Cerchi superiori si sommano le persone delle Comunità interessate.
 >
-> 3-ter. L'Assemblea Generale calibra i valori del comma 3-bis ai sensi dell'articolo 14, comma 2, lettera b). La calibrazione non può eliminare la proporzione con il numero delle persone. Alle operazioni a rischio medio di valore non superiore a 2.500 UCR si applicano in ogni caso i commi 2 e 4 dell'articolo 7-ter. Nell'articolo 3, comma 2, del presente Codice e negli articoli 15 e 23 del Codice 2, «la soglia» è la soglia alta.
+> 3-ter. L'Assemblea Generale calibra i valori del comma 3-bis ai sensi dell'articolo 14, comma 2, lettera b). La calibrazione non può eliminare la proporzione con il numero delle persone. Alle operazioni a rischio medio di valore superiore alla soglia alta e non superiore a 2.500 UCR si applicano in ogni caso i commi 2 e 4 dell'articolo 7-ter. Nell'articolo 3, comma 2, del presente Codice e negli articoli 15 e 23 del Codice 2, «la soglia» è la soglia alta.
 
 All'articolo 7-bis, il comma 1 è sostituito dal seguente:
 

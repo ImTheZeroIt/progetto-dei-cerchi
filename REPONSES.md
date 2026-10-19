@@ -153,7 +153,7 @@ Où: Const. 3.6; Const. 3.7; Const. 3.9; Code 1, art. 44, al. 5
 Ce sont des biens communs. Elles font d’abord les travaux répétitifs, usants ou dangereux, et le temps qu’elles libèrent reste à la Communauté. L’IA calcule et propose ; ce sont les personnes qui décident.
 
 Mots: robots, machines, automatisation, automatiser, chômage, technologie, travail des machines, usines
-Où: Const. 3.1; Code 7, art. 6; Code 7, art. 2, al. 6; Const. 19.6; [Proposition 8, robots](regles/propositions.html#proposta-8--robot-e-macchine-autonome)
+Où: Const. 3.1; Code 7, art. 6; Code 7, art. 2, al. 6; Const. 19.6; Code 7, art. 6-bis
 
 ## Entrer et sortir
 
@@ -261,10 +261,10 @@ Où: Code 1, art. 19, al. 3; Code 1, art. 32; Const. 36.3; Const. 36.4
 
 ### Comment puis-je critiquer, proposer une modification ou contribuer ?
 
-Vous pouvez ouvrir un signalement sur GitHub ou écrire à zerocirclesproject@gmail.com : une ligne suffit. Indiquez le texte et l’article, le problème et, si vous en avez une, la modification que vous proposez. Les modifications de fond restent en discussion au moins quatorze jours ; aujourd’hui, ce sont ceux qui s’occupent du dépôt qui les évaluent, de façon publique et motivée. Les propositions qui contredisent le Noyau inviolable ne sont pas acceptées.
+Vous pouvez ouvrir un signalement sur GitHub ou écrire à zerocirclesproject@gmail.com : une ligne suffit. Indiquez le texte et l’article, le problème et, si vous en avez une, la modification que vous proposez. Aujourd’hui, ce sont ceux qui s’occupent du dépôt qui les évaluent, de façon publique et motivée : une modification vérifiée est appliquée et enregistrée avec sa raison. Les propositions qui contredisent le Noyau inviolable ne sont pas acceptées.
 
 Mots: contribuer, critiquer, proposer, signalement, participer, aider, GitHub, e-mail, courriel, mail, contact, corrections, traduire, retours, avis, écrire
-Où: [Comment contribuer](contribuer.html); [Propositions de modification ouvertes](regles/propositions.html)
+Où: [Comment contribuer](contribuer.html); [Archives des propositions](regles/propositions.html)
 
 ### Sous quelle licence les textes sont-ils publiés ? Puis-je les réutiliser ?
 

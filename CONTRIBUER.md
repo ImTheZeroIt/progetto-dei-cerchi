@@ -54,7 +54,7 @@ Une proposition de modification des règles est acceptée quand elle respecte to
 Les délais dépendent du type de modification :
 
 - **Corrections matérielles** (coquilles, renvois erronés, termes non alignés) : elles sont acceptées immédiatement.
-- **Modifications de fond :** elles restent ouvertes à la discussion pendant au moins quatorze jours avant la décision. Celles qui sont en cours figurent sur la page [Propositions de modification ouvertes](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html).
+- **Modifications de fond :** elles sont appliquées lorsqu’elles ont été vérifiées au regard des critères ci-dessus, en règle générale par une lecture contradictoire qui cherche à les démonter. Les propositions déjà décidées figurent dans les [archives des propositions](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html).
 
 Quand une proposition est rejetée, le motif est écrit dans le signalement, qui reste consultable. Une modification déjà acceptée peut être retirée si un cas d’essai montre qu’elle a dégradé le texte.
 

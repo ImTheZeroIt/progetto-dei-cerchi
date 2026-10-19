@@ -153,7 +153,7 @@ Dove: Cost. 3.6; Cost. 3.7; Cost. 3.9; Cod. 1, art. 44, c. 5
 Sono beni comuni. Fanno prima di tutto i lavori ripetitivi, usuranti o pericolosi, e il tempo che liberano resta alla Comunità. L'IA calcola e propone; decidono le persone.
 
 Parole: robot, macchine, automazione, automatizzare, disoccupazione, tecnologia, lavoro delle macchine, fabbriche
-Dove: Cost. 3.1; Cod. 7, art. 6; Cod. 7, art. 2, c. 6; Cost. 19.6; [Proposta 8, robot](registro/proposte.html#proposta-8--robot-e-macchine-autonome)
+Dove: Cost. 3.1; Cod. 7, art. 6; Cod. 7, art. 2, c. 6; Cost. 19.6; Cod. 7, art. 6-bis
 
 ## Entrare e uscire
 
@@ -261,10 +261,10 @@ Dove: Cod. 1, art. 19, c. 3; Cod. 1, art. 32; Cost. 36.3; Cost. 36.4
 
 ### Come posso criticare, proporre una modifica o contribuire?
 
-Puoi aprire una segnalazione su GitHub oppure scrivere a zerocirclesproject@gmail.com: va bene anche una riga. Indica il testo e l'articolo, il problema e, se ce l'hai, la modifica che proponi. Le modifiche di sostanza restano in discussione almeno quattordici giorni; oggi le valuta chi cura il repository, in modo pubblico e motivato. Non si accolgono proposte che contraddicono il Nucleo Inviolabile.
+Puoi aprire una segnalazione su GitHub oppure scrivere a zerocirclesproject@gmail.com: va bene anche una riga. Indica il testo e l'articolo, il problema e, se ce l'hai, la modifica che proponi. Oggi le valuta chi cura il repository, in modo pubblico e motivato: una modifica verificata si applica e viene registrata con la sua ragione. Non si accolgono proposte che contraddicono il Nucleo Inviolabile.
 
 Parole: contribuire, criticare, proporre, segnalazione, partecipare, aiutare, GitHub, email, contatti, correzioni, tradurre, feedback, scrivere
-Dove: [Come contribuire](contribuire.html); [Proposte di modifica aperte](registro/proposte.html)
+Dove: [Come contribuire](contribuire.html); [Archivio delle proposte](registro/proposte.html)
 
 ### Con quale licenza sono pubblicati i testi? Posso riusarli?
 

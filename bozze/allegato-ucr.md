@@ -142,7 +142,7 @@ Sono 1,4 ore a settimana per contributore. L'inventario è convertito con la med
 
 **Quanto vale questo inventario.** Prezzi e durate sono ipotesi di redazione, elencate una per una nel programma: vanno sostituite con preventivi veri. Il risultato però non dipende da un prezzo sbagliato: anche triplicando l'intero inventario il conto completo resta sotto le quindici ore. Per confronto, la manifattura europea di oggi impiega per 150 persone circa 14.200 ore, industria alimentare esclusa: l'inventario sul bisogno ne chiede meno della metà.
 
-**Alloggio più grande.** Con le misure della versione 3 della [proposta 2](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html) la superficie media sale a circa 22 m² a persona, se i nuclei sono come quelli italiani di oggi (ipotesi). La voce Abitare passa da 550 a 740 ore l'anno e il totale da 6.740 a 6.930 ore: sempre 1,4 ore a settimana per contributore, 2,8 con il fattore dei beni importati. Le tabelle di questa bozza restano calcolate con 15 m².
+**Alloggio più grande.** Con le misure del Codice 1, art. 47-bis ([proposta 2](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html), accolta il 19 ottobre 2026), la superficie media sale a circa 22 m² a persona, se i nuclei sono come quelli italiani di oggi (ipotesi). La voce Abitare passa da 550 a 740 ore l'anno e il totale da 6.740 a 6.930 ore: sempre 1,4 ore a settimana per contributore, 2,8 con il fattore dei beni importati. Le tabelle di questa bozza restano calcolate con 15 m².
 
 ### 4.4 Il conto completo
 
@@ -197,15 +197,15 @@ Il Codice 1 prevede già che cosa accade se le ore non bastano: si riducono le a
 
 ## 5. Robot e automazione
 
-Il conto del paragrafo 4 usa le macchine di oggi. Questo paragrafo dice come si conta un'automazione, dove serve di più e quanto può cambiare il risultato. Le regole in vigore sono nel Codice 7, articolo 6, che vale per ogni automazione. Regole specifiche per i robot sono una proposta aperta ([proposta 8](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html)): dove questo paragrafo la usa, lo dice.
+Il conto del paragrafo 4 usa le macchine di oggi. Questo paragrafo dice come si conta un'automazione, dove serve di più e quanto può cambiare il risultato. Le regole in vigore sono nel Codice 7, articolo 6, che vale per ogni automazione. Regole specifiche per i robot sono nel Codice 7, articolo 6-bis ([proposta 8](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html), accolta il 19 ottobre 2026).
 
 ### 5.1 Come si conta
 
-Un robot è un mezzo di produzione, quindi entra nel conto come ogni altro: le ore servite a costruirlo, più energia e manutenzione, ripartite sugli anni in cui lavora. Conviene quando le ore che fa risparmiare sono più di quelle che costa. Il Codice 7 chiede già che il risparmio di tempo sia documentabile (art. 6, c. 1); la proposta 8 chiede di fare questo confronto prima di introdurre la macchina.
+Un robot è un mezzo di produzione, quindi entra nel conto come ogni altro: le ore servite a costruirlo, più energia e manutenzione, ripartite sugli anni in cui lavora. Conviene quando le ore che fa risparmiare sono più di quelle che costa. Il Codice 7 chiede già che il risparmio di tempo sia documentabile (art. 6, c. 1); l'articolo 6-bis chiede di fare questo confronto prima di introdurre la macchina.
 
 Un esempio: una macchina da 60.000 euro che dura quindici anni costa 78 UCR l'anno, 157 se è prodotta per metà dove il lavoro rende meno. Con cinquanta ore di manutenzione sono tra 130 e 210 ore l'anno. Conviene se ne fa risparmiare di più.
 
-Il risparmio non va a chi possiede la macchina, perché nessuno la possiede: il tempo liberato resta alla Comunità, che decide come usarlo (Cod. 7, art. 6, c. 6). La proposta 8 conferma questa regola anche per i robot.
+Il risparmio non va a chi possiede la macchina, perché nessuno la possiede: il tempo liberato resta alla Comunità, che decide come usarlo (Cod. 7, art. 6, c. 6). L'articolo 6-bis del Codice 7 conferma questa regola anche per i robot.
 
 ### 5.2 Dove serve, ambito per ambito
 
@@ -245,7 +245,7 @@ Ogni dieci per cento in meno vale 23 minuti a settimana per ciascuno.
 
 ## 6. Una conseguenza per le soglie del Codice 3
 
-L'articolo 7 del Codice 3 distingue le operazioni di valore basso (sotto 500 UCR), medio (da 500 a 2.500) e alto. Con il coefficiente proposto, 500 UCR corrispondono a circa 25.500 euro di acquisti e allo 0,7% delle ore annue di una Comunità di 150 persone; 2.500 UCR a circa 128.000 euro e al 3,4%. Per una Comunità piccola la soglia bassa potrebbe essere troppo alta: un acquisto da 20.000 euro sarebbe deciso da un Cerchio di Competenza. La [proposta 11](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html) lega le due soglie alla dimensione della Comunità: 100 UCR più una per persona, e 500 più cinque per persona, con 500 e 2.500 come massimo.
+Fino al 19 ottobre 2026 l'articolo 7 del Codice 3 distingueva le operazioni di valore basso (sotto 500 UCR), medio (da 500 a 2.500) e alto. Con il coefficiente proposto, 500 UCR corrispondono a circa 25.500 euro di acquisti e allo 0,7% delle ore annue di una Comunità di 150 persone; 2.500 UCR a circa 128.000 euro e al 3,4%. Per una Comunità piccola la soglia bassa era troppo alta: un acquisto da 20.000 euro era deciso da un Cerchio di Competenza. La [proposta 11](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html), accolta il 19 ottobre 2026, ha legato le due soglie alla dimensione della Comunità: 100 UCR più una per persona, e 500 più cinque per persona, con 500 e 2.500 come massimo.
 
 ## Come si corregge
 

@@ -68,7 +68,7 @@ Sono scelte di redazione. Servono a evitare che il riconoscimento premi la popol
 | Tutto il quarto alla fine di ogni trimestre | 15 mesi | 24° mese | 2,8 |
 | Tutto il quarto all'inizio di ogni trimestre | 12 mesi | 21° mese | 3,4 |
 
-Solo la prima rispetta tutte e due le frasi del comma: dodici mesi di valore pieno ed estinzione al ventiquattresimo. È quella usata in questa bozza e proposta nella [proposta di modifica 9](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html). La prima versione di questa pagina usava la seconda, più generosa.
+Solo la prima rispetta tutte e due le frasi del comma: dodici mesi di valore pieno ed estinzione al ventiquattresimo. È quella usata in questa bozza e scritta nel Codice 1 con la [proposta di modifica 9](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html), accolta il 19 ottobre 2026. La prima versione di questa pagina usava la seconda, più generosa.
 
 | Mesi dalla maturazione | Valore rimasto |
 |---|---|
@@ -178,10 +178,10 @@ Il Codice chiede di riesaminare tabella e tetto se più di un quinto dei CdR è 
 
 ## 9. Due punti da chiarire nei testi
 
-Non sono corretti qui: sono diventati due [proposte di modifica](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html), la 9 e la 10.
+Non sono corretti qui: sono diventati due [proposte di modifica](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html), la 9 e la 10, accolte il 19 ottobre 2026.
 
-1. **Come scende il valore.** L'articolo 44, comma 3, dice che i CdR conservano il valore per dodici mesi, poi perdono un quarto a trimestre e si estinguono «al termine del ventiquattresimo mese». Non dice se il quarto si perde tutto insieme o un po' alla volta. La proposta 9 sceglie la riduzione graduale, in proporzione al tempo, la sola che rispetta entrambe le frasi, e aggiunge due regole che mancano: si impiegano per primi i CdR più vecchi, e ogni CdR conta per il valore che ha in quel momento.
-2. **Che cosa accade alla maggiorazione di chi è al tetto.** L'articolo 44, comma 2, dice che raggiunto il tetto le attività ulteriori non attribuiscono CdR. Vale anche per la maggiorazione dei compiti sgradevoli svolti nel CBO? Il testo non lo dice. La proposta 10 conferma che vale, e definisce come si misura il saldo.
+1. **Come scende il valore.** L'articolo 44, comma 3, dice che i CdR conservano il valore per dodici mesi, poi perdono un quarto a trimestre e si estinguono «al termine del ventiquattresimo mese». Non dice se il quarto si perde tutto insieme o un po' alla volta. La proposta 9 ha scelto la riduzione graduale, in proporzione al tempo, la sola che rispetta entrambe le frasi, e ha aggiunto due regole che mancavano: si impiegano per primi i CdR più vecchi, e ogni CdR conta per il valore che ha in quel momento.
+2. **Che cosa accade alla maggiorazione di chi è al tetto.** L'articolo 44, comma 2, dice che raggiunto il tetto le attività ulteriori non attribuiscono CdR. Vale anche per la maggiorazione dei compiti sgradevoli svolti nel CBO? Il testo non lo dice. La proposta 10 ha confermato che vale, e ha definito come si misura il saldo.
 
 ## Come si corregge
 

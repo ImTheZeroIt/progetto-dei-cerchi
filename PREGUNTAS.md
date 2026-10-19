@@ -153,7 +153,7 @@ Dónde: Const. 3.6; Const. 3.7; Const. 3.9; Cód. 1, art. 44, ap. 5
 Son bienes comunes. Hacen ante todo los trabajos repetitivos, penosos o peligrosos, y el tiempo que liberan queda en la Comunidad. La IA calcula y propone; deciden las personas.
 
 Palabras: robots, máquinas, automatización, automatizar, desempleo, paro, tecnología, fábricas
-Dónde: Const. 3.1; Cód. 7, art. 6; Cód. 7, art. 2, ap. 6; Const. 19.6; [Propuesta 8, robots, en italiano](../registro/proposte.html#proposta-8--robot-e-macchine-autonome)
+Dónde: Const. 3.1; Cód. 7, art. 6; Cód. 7, art. 2, ap. 6; Const. 19.6; Cód. 7, art. 6-bis
 
 ## Entrar y salir
 
@@ -261,10 +261,10 @@ Dónde: Cód. 1, art. 19, ap. 3; Cód. 1, art. 32; Const. 36.3; Const. 36.4
 
 ### ¿Cómo puedo criticar, proponer un cambio o contribuir?
 
-Puedes abrir una incidencia en GitHub o escribir a zerocirclesproject@gmail.com: basta una línea. Indica el texto y el artículo, el problema y, si la tienes, la modificación que propones. Los cambios de fondo quedan en discusión al menos catorce días; hoy los valora quien cuida el repositorio, de forma pública y motivada. No se aceptan propuestas que contradigan el Núcleo Inviolable.
+Puedes abrir una incidencia en GitHub o escribir a zerocirclesproject@gmail.com: basta una línea. Indica el texto y el artículo, el problema y, si la tienes, la modificación que propones. Hoy los valora quien cuida el repositorio, de forma pública y motivada: un cambio verificado se aplica y se registra con su razón. No se aceptan propuestas que contradigan el Núcleo Inviolable.
 
 Palabras: contribuir, criticar, proponer, incidencia, participar, ayudar, GitHub, correo, contacto, correcciones, traducir, comentarios, escribir
-Dónde: [Cómo contribuir](contribuir.html); [Propuestas de modificación abiertas, en italiano](../registro/proposte.html)
+Dónde: [Cómo contribuir](contribuir.html); [Archivo de las propuestas, en italiano](../registro/proposte.html)
 
 ### ¿Con qué licencia se publican los textos? ¿Puedo reutilizarlos?
 

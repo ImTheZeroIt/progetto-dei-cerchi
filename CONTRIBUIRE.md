@@ -36,7 +36,7 @@ L'articolo 37.4 della Costituzione definisce un Nucleo Inviolabile: i diritti de
 
 ## Come vengono decise le modifiche
 
-Finché nessuna Comunità applica i testi, le proposte sono valutate da chi cura il repository, in modo pubblico e motivato. Ogni modifica accolta entra nel registro delle modifiche con la sua ragione. Quando esisteranno Comunità che applicano i testi, varranno le procedure dell'articolo 38 della Costituzione.
+Finché nessuna Comunità applica i testi, le proposte sono valutate da chi cura il repository, in modo pubblico e motivato. Dal 19 ottobre 2026 non c'è più un periodo fisso di discussione: una modifica verificata secondo i criteri qui sotto si applica direttamente ed entra nel registro delle modifiche con la data, il testo e la ragione. Quando esisteranno Comunità che applicano i testi, varranno le procedure dell'articolo 38 della Costituzione.
 
 ## Con quali criteri
 
@@ -52,7 +52,7 @@ Una proposta di modifica alle regole viene accolta quando rispetta tutti questi 
 I tempi dipendono dal tipo di modifica:
 
 - **Correzioni materiali** (refusi, rinvii sbagliati, termini non allineati): si accolgono subito.
-- **Modifiche di sostanza:** restano aperte alla discussione per almeno quattordici giorni prima della decisione. Quelle in corso sono nella pagina [Proposte di modifica aperte](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html).
+- **Modifiche di sostanza:** si applicano quando sono state verificate sui criteri qui sopra, di norma con una lettura contraria che cerca di smontarle. Le proposte già decise sono nell'[archivio delle proposte](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html).
 
 Quando una proposta viene respinta, il motivo è scritto nella segnalazione, che resta consultabile. Una modifica già accolta può essere ritirata se un caso di prova mostra che ha peggiorato il testo.
 
