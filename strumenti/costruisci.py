@@ -42,6 +42,24 @@ REPOSITORY = "https://github.com/ImTheZeroIt/progetto-dei-cerchi"
 # Se compilato, ogni pagina indica l'immagine di anteprima che i social mostrano quando si condivide un link.
 SITO_URL = "https://imthezeroit.github.io/progetto-dei-cerchi"
 
+# Per i motori di ricerca: titolo della pagina iniziale e descrizione delle pagine delle regole, per lingua.
+TITOLO_HOME = {
+    "it": "Progetto dei Cerchi — Confederazione dei Cerchi: Costituzione e Codici",
+    "en": "The Circles Project — Confederation of Circles: Constitution and Codes",
+    "fr": "Projet des Cercles — Confédération des Cercles\u202f: Constitution et Codes",
+    "es": "Proyecto de los Círculos — Confederación de los Círculos",
+}
+DESC_REGOLA = {
+    "it": "{breve}: testo completo, versione {v}. Fa parte delle regole della Confederazione dei Cerchi, "
+          "una proposta aperta di società senza potere centrale.",
+    "en": "{breve}: full text, version {v}. Part of the rules of the Confederation of Circles, "
+          "an open proposal for a society without central power.",
+    "fr": "{breve}\u202f: texte intégral, version {v}. Fait partie des règles de la Confédération des Cercles, "
+          "une proposition ouverte de société sans pouvoir central.",
+    "es": "{breve}: texto completo, versión {v}. Forma parte de las reglas de la Confederación de los Círculos, "
+          "una propuesta abierta de sociedad sin poder central.",
+}
+
 # Indirizzo a cui scrivere per chi non ha un account sul repository.
 CONTATTO = "zerocirclesproject@gmail.com"
 
@@ -851,6 +869,12 @@ def pagina(lingua, titolo, descrizione, corpo, profondita, sezione="", gemelle=N
         attuale = ' aria-current="page"' if chiave == sezione else ""
         return '<a href="%s%s"%s>%s</a>' % (radice, indirizzo, attuale, nome)
 
+    # le lingue senza la pagina corrispondente rimandano alla loro pagina iniziale: non sono vere alternative
+    vere = {c: i for c, i in (gemelle or {}).items()}
+    if not all(i.endswith("index.html") for i in vere.values()):
+        vere = {c: i for c, i in vere.items() if not i.endswith("/index.html") or "/" in i.split("/", 1)[-1]}
+    alternative = "".join('\n<link rel="alternate" hreflang="%s" href="%s/%s">' % (c, SITO_URL, indirizzo)
+                          for c, indirizzo in vere.items()) if SITO_URL else ""
     cambio = "".join('<a class="lingua" href="%s%s" lang="%s" hreflang="%s">%s</a>'
                      % (base, indirizzo, c, c, LINGUE[c]["nome_lingua"]) for c, indirizzo in (gemelle or {}).items())
     deposito = (' · <a href="%s">%s</a>' % (html.escape(REPOSITORY), t["repository"])) if REPOSITORY else ""
@@ -867,7 +891,7 @@ def pagina(lingua, titolo, descrizione, corpo, profondita, sezione="", gemelle=N
 <title>%(titolo)s</title>
 <meta name="description" content="%(descrizione)s">
 <link rel="stylesheet" href="%(base)sassets/stile.css">
-<link rel="icon" href="%(base)sassets/icona.svg" type="image/svg+xml">%(anteprima)s
+<link rel="icon" href="%(base)sassets/icona.svg" type="image/svg+xml">%(anteprima)s%(alternative)s
 </head>
 <body>
 <a class="salta" href="#contenuto">%(salta)s</a>
@@ -891,7 +915,7 @@ def pagina(lingua, titolo, descrizione, corpo, profondita, sezione="", gemelle=N
                       '\n<meta property="og:image" content="%s/assets/copertina.png">'
                       '\n<meta name="twitter:card" content="summary_large_image">'
                       % (html.escape(titolo), html.escape(descrizione), SITO_URL)) if SITO_URL else "",
-           salta=t["salta"], sezioni=t["sezioni"], cambio=cambio, avviso=avviso,
+           salta=t["salta"], sezioni=t["sezioni"], cambio=cambio, avviso=avviso, alternative=alternative,
            piede=piede, reg=dir_regole(lingua), pmod=lingua_regole(lingua)["pag_modifiche"],
            pcon=lingua["pag_contribuire"], modifiche=t["modifiche"], come=t["come_contribuire"],
            deposito=deposito,
@@ -1041,7 +1065,7 @@ def costruisci_lingua(lingua, altre):
                      dettagli=dettagli, sommario=sommario, corpo=corpo)
         scrivi(lingua, "%s/%s.html" % (dr, meta["slug"]),
                pagina(lingua, "%s — %s" % (meta["breve"], nome),
-                      "%s, %s %s." % (meta["breve"], t["versione"], meta["versione"]),
+                      DESC_REGOLA.get(lingua["codice"], DESC_REGOLA["it"]).format(breve=meta["breve"], v=meta["versione"]),
                       contenuto, 1, "registro", gemelle(meta["id"])))
 
     # --- indice del registro
@@ -1221,7 +1245,7 @@ def costruisci_lingua(lingua, altre):
         h_licenza=t["h_licenza"], licenza=t["licenza"].format(lic=licenza, licp=licenza_p), contribuire=t["contribuire"],
         ctesto=t["contribuire_testo"], pcon=lingua["pag_contribuire"], come=t["come_contribuire"])
     scrivi(lingua, "index.html",
-           pagina(lingua, nome, t["desc_home"], contenuto, 0, "", gemelle()))
+           pagina(lingua, TITOLO_HOME.get(lingua["codice"], nome), t["desc_home"], contenuto, 0, "", gemelle()))
 
 
 def costruisci():
@@ -1237,6 +1261,17 @@ def costruisci():
     if os.path.exists(anteprima):
         shutil.copy(anteprima, os.path.join(SITO_DIR, "assets", "copertina.png"))
     open(os.path.join(SITO_DIR, ".nojekyll"), "w").close()
+    if SITO_URL:
+        indirizzi = []
+        for cartella, _, nomi in os.walk(SITO_DIR):
+            for n in sorted(nomi):
+                if n.endswith(".html"):
+                    rel = os.path.relpath(os.path.join(cartella, n), SITO_DIR).replace(os.sep, "/")
+                    indirizzi.append(SITO_URL + "/" + (rel[:-10] if rel.endswith("index.html") else rel))
+        with open(os.path.join(SITO_DIR, "sitemap.xml"), "w", encoding="utf-8") as m:
+            m.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
+            m.write("".join("  <url><loc>%s</loc></url>\n" % html.escape(u) for u in sorted(indirizzi)))
+            m.write("</urlset>\n")
     print("Sito costruito in", SITO_DIR, "— lingue:", ", ".join(presenti))
 
 
