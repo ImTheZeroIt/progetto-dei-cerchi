@@ -144,7 +144,7 @@ That is 1.4 hours a week per contributor. The inventory is converted with the Eu
 
 **What this inventory is worth.** Prices and lifetimes are drafting assumptions, listed one by one in the program: they are to be replaced with real quotations. The result, however, does not depend on a wrong price: even tripling the entire inventory the complete count stays below fifteen hours. For comparison, today’s European manufacturing employs about 14,200 hours for 150 persons, food industry excluded: the inventory on need asks for less than half of that.
 
-**A larger dwelling.** With the measurements of version 3 of [proposal 2](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals.html) the average floor area rises to about 22 m² per person, if households are like Italian ones today (assumption). The Housing item goes from 550 to 740 hours a year and the total from 6,740 to 6,930 hours: still 1.4 hours a week per contributor, 2.8 with the factor for imported goods. The tables of this draft remain calculated with 15 m².
+**A larger dwelling.** With the measurements of Code 1, Art. 47-bis ([proposal 2](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals.html), accepted on 19 October 2026), the average floor area rises to about 22 m² per person, if households are like Italian ones today (assumption). The Housing item goes from 550 to 740 hours a year and the total from 6,740 to 6,930 hours: still 1.4 hours a week per contributor, 2.8 with the factor for imported goods. The tables of this draft remain calculated with 15 m².
 
 ### 4.4 The complete count
 
@@ -199,15 +199,15 @@ Code 1 already provides for what happens if the hours are not enough: deferrable
 
 ## 5. Robots and automation
 
-The count in section 4 uses today’s machines. This section says how an automation is counted, where it is most needed and how much it can change the result. The rules in force are in Code 7, Article 6, which applies to every automation. Specific rules for robots are an open proposal ([proposal 8](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals.html)): where this section uses it, it says so.
+The count in section 4 uses today’s machines. This section says how an automation is counted, where it is most needed and how much it can change the result. The rules in force are in Code 7, Article 6, which applies to every automation. Specific rules for robots are in Code 7, Article 6-bis ([proposal 8](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals.html), accepted on 19 October 2026).
 
 ### 5.1 How it is counted
 
-A robot is a means of production, so it enters the count like any other: the hours required to build it, plus energy and maintenance, spread over the years in which it works. It is worthwhile when the hours it saves are more than those it costs. Code 7 already requires that the time saving be documentable (Art. 6, para. 1); proposal 8 asks for this comparison to be made before the machine is introduced.
+A robot is a means of production, so it enters the count like any other: the hours required to build it, plus energy and maintenance, spread over the years in which it works. It is worthwhile when the hours it saves are more than those it costs. Code 7 already requires that the time saving be documentable (Art. 6, para. 1); Article 6-bis asks for this comparison to be made before the machine is introduced.
 
 An example: a machine costing 60,000 euros that lasts fifteen years costs 78 UCR a year, 157 if it is produced half where labour yields less. With fifty hours of maintenance that is between 130 and 210 hours a year. It is worthwhile if it saves more than that.
 
-The saving does not go to whoever owns the machine, because no one owns it: the time freed remains with the Community, which decides how to use it (Code 7, Art. 6, para. 6). Proposal 8 confirms this rule for robots too.
+The saving does not go to whoever owns the machine, because no one owns it: the time freed remains with the Community, which decides how to use it (Code 7, Art. 6, para. 6). Article 6-bis of Code 7 confirms this rule for robots too.
 
 ### 5.2 Where it is needed, area by area
 
@@ -247,7 +247,7 @@ Every ten per cent less is worth 23 minutes a week for each person.
 
 ## 6. A consequence for the thresholds of Code 3
 
-Article 7 of Code 3 distinguishes operations of low value (below 500 UCR), medium value (from 500 to 2,500) and high value. With the proposed coefficient, 500 UCR correspond to about 25,500 euros of purchases and to 0.7% of the annual hours of a Community of 150 persons; 2,500 UCR to about 128,000 euros and to 3.4%. For a small Community the low threshold could be too high: a purchase of 20,000 euros would be decided by a Competence Circle. [Proposal 11](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals.html) links the two thresholds to the size of the Community: 100 UCR plus one per person, and 500 plus five per person, with 500 and 2,500 as the maximum.
+Until 19 October 2026 Article 7 of Code 3 distinguished operations of low value (below 500 UCR), medium value (from 500 to 2,500) and high value. With the proposed coefficient, 500 UCR correspond to about 25,500 euros of purchases and to 0.7% of the annual hours of a Community of 150 persons; 2,500 UCR to about 128,000 euros and to 3.4%. For a small Community the low threshold was too high: a purchase of 20,000 euros was decided by a Competence Circle. [Proposal 11](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals.html), accepted on 19 October 2026, linked the two thresholds to the size of the Community: 100 UCR plus one per person, and 500 plus five per person, with 500 and 2,500 as the maximum.
 
 ## How to correct it
 

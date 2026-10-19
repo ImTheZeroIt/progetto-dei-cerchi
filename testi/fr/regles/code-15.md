@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 15 — RELATIONS EXTÉRIEURES ET SOLDE MONDIAL"
 breve: "Code 15 — Relations extérieures et Solde"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "codici"
 ordine: 15
 id: "codice-15"
 slug: "code-15"
-allineamento: "Constitution V.29 ; Code 1 V1.5 ; Code 2 V1.5 ; Code 3 V1.4 ; Code 4 V1.4 ; Code 5 V1.3 ; Code 6 V1.5 ; Code 7 V1.6 ; Code 8 V1.3 ; C.1-Annex A V1.3 ; Code 9 V3.1 ; Code 10 V1.3 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 16 V1.4."
+allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.4 ; Code 5 V1.4 ; Code 6 V1.5 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.4 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 16 V1.4."
 ---
 
 ## TITRE PRÉLIMINAIRE — DISPOSITIONS GÉNÉRALES
@@ -245,6 +245,8 @@ allineamento: "Constitution V.29 ; Code 1 V1.5 ; Code 2 V1.5 ; Code 3 V1.4
 4.  La dépendance est critique lorsque son interruption compromettrait le Panier ou une fonction des niveaux 1 à 3 et qu’aucune alternative n’est disponible dans le seuil temporel défini par la STV applicable. La dépendance propriétaire critique absolue demeure interdite en application de l’article 5 du Code 2.
 
 5.  Chaque dépendance critique est assortie d’un Plan de sortie qui indique l’objectif vérifiable, le responsable, les ressources, les mesures intermédiaires et un délai final certain. Le Plan est approuvé par l’Assemblée sur proposition du Conseil compétent. Si la sortie n’est pas techniquement possible dans le délai, le Plan est réexaminé de manière motivée ; le réexamen ne peut pas se borner à proroger la dépendance.
+
+5-bis. Pour les matières premières, le Plan de sortie indique la réduction des besoins, le réemploi, le recyclage et la récupération. Il ne peut pas indiquer de nouvelles extractions. L’alinéa 5 s’applique.
 
 6.  Le Registre est publié sous forme agrégée. Les informations qui exposent des vulnérabilités des infrastructures sont accessibles conformément à l’article 15 du Code 3.
 

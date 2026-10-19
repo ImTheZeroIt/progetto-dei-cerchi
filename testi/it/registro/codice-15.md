@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 15 — RAPPORTI ESTERNI E SALDO MONDIALE"
 breve: "Codice 15 — Rapporti esterni e Saldo"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "codici"
 ordine: 15
 id: "codice-15"
 slug: "codice-15"
-allineamento: "Costituzione V.29; Codice 1 V1.5; Codice 2 V1.5; Codice 3 V1.4; Codice 4 V1.4; Codice 5 V1.3; Codice 6 V1.5; Codice 7 V1.6; Codice 8 V1.3; C.1-Annex A V1.3; Codice 9 V3.1; Codice 10 V1.3; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 16 V1.4."
+allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.4; Codice 5 V1.4; Codice 6 V1.5; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.4; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 16 V1.4."
 ---
 
 ## TITOLO PRELIMINARE — DISPOSIZIONI GENERALI
@@ -245,6 +245,8 @@ allineamento: "Costituzione V.29; Codice 1 V1.5; Codice 2 V1.5; Codice 3 V1.4; C
 4.  La dipendenza è critica quando la sua interruzione comprometterebbe il Paniere o una funzione dei livelli da 1 a 3 e non è disponibile un’alternativa entro la soglia temporale definita dalla STV applicabile. La dipendenza proprietaria critica assoluta resta vietata ai sensi dell’articolo 5 del Codice 2.
 
 5.  Ogni dipendenza critica è accompagnata da un Piano di Uscita che indica l’obiettivo verificabile, il responsabile, le risorse, le misure intermedie e un termine finale certo. Il Piano è approvato dall’Assemblea su proposta del Consiglio competente. Se l’uscita non è tecnicamente possibile entro il termine, il Piano è riesaminato con motivazione; il riesame non può limitarsi a prorogare la dipendenza.
+
+5-bis. Per le materie prime il Piano di Uscita indica riduzione del fabbisogno, riuso, riciclo e recupero. Non può indicare nuove estrazioni. Si applica il comma 5.
 
 6.  Il Registro è pubblicato in forma aggregata. Le informazioni che espongono vulnerabilità delle infrastrutture sono accessibili secondo l’articolo 15 del Codice 3.
 

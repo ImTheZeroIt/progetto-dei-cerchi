@@ -1,16 +1,12 @@
-# Propositions de modification ouvertes
+# Propositions de modification (archives)
 
 *Traduction de travail. Le texte de référence est l’italien.*
 
-Cette page rassemble les modifications de fond proposées et pas encore décidées. Aucune n’est en vigueur : les textes restent ceux qui sont publiés dans le registre. Selon les règles écrites dans [Comment contribuer](https://imthezeroit.github.io/progetto-dei-cerchi/fr/contribuer.html), chaque proposition reste ouverte à la discussion pendant au moins quatorze jours avant la décision.
+Cette page rassemble les onze propositions de modification publiées entre le 5 et le 19 octobre 2026. **Elles ont toutes été acceptées le 19 octobre 2026** et leur texte figure désormais dans les Codes ; les entrées sont dans le [registre des modifications](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/modifications.html). La page reste comme archive, parce que pour chaque modification elle explique le problème, la raison, le coût et les points encore ouverts.
 
-**Ceci est la version 2.** La première version, du 5 octobre 2026, a été soumise à une [vérification contradictoire](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/verification-propositions.html) : des lectures indépendantes ayant pour seule tâche de trouver des défauts. Aucune des onze propositions n’a tenu telle qu’elle était. Elles sont réécrites ici, et pour chacune il est dit ce qui a changé. La réécriture a elle aussi été relue de la même façon : les objections trouvées ont été corrigées, et celles qui restent sont indiquées comme points ouverts. Comme les textes ont changé, les quatorze jours repartent de zéro.
+**Comment les règles changent désormais.** Depuis le 19 octobre 2026, les modifications ne passent plus par une période de discussion : lorsqu’une correction a été vérifiée, elle est appliquée directement et enregistrée avec la date, le texte et la raison. Chacun peut signaler un problème ou proposer une modification, comme expliqué dans [Comment contribuer](https://imthezeroit.github.io/progetto-dei-cerchi/fr/contribuer.html), et toute modification peut être retirée si elle se révèle erronée.
 
-- **Version 2 du :** 6 octobre 2026.
-- **Décision pas avant le :** 20 octobre 2026.
-- **Ajout du 10 octobre 2026 :** les textes des alignements des propositions 7 et 8, qui n’étaient auparavant qu’annoncés. Ils ne changent pas les propositions.
-- **Version 3 de la proposition 2, du 12 octobre 2026 :** les mesures du logement adéquat changent. Pour cette seule proposition, les quatorze jours repartent : la décision n’intervient pas avant le 26 octobre 2026.
-- **Pour en discuter :** les [signalements ouverts](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues?q=is%3Aissue%20state%3Aopen%20in%3Atitle%20%22Proposta%20di%20modifica%22) dont le titre commence par « Proposta di modifica », ou [zerocirclesproject@gmail.com](mailto:zerocirclesproject@gmail.com).
+La première version des propositions, du 5 octobre 2026, avait été soumise à une [vérification contradictoire](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/verification-propositions.html) : aucune n’avait tenu telle qu’elle était. La version 2, du 6 octobre, les a réécrites. La proposition 2 a été réécrite encore les 12 et 19 octobre (versions 3 et 4). La dernière version a été contrôlée par la [vérification de cohérence](https://imthezeroit.github.io/progetto-dei-cerchi/registro/verifica-coerenza.html) du 19 octobre (en italien).
 
 Les quatre premières propositions naissent du [brouillon de l’Annexe du Panier de suffisance](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/brouillon-panier.html). La cinquième, la neuvième et la dixième concernent la Contribution de reconnaissance. La sixième et la septième concernent le sous-sol et les matières premières. La huitième concerne les robots. La onzième concerne les seuils économiques des décisions.
 
@@ -19,10 +15,12 @@ Les quatre premières propositions naissent du [brouillon de l’Annexe du Panie
 Trois choses que la première version ne disait pas.
 
 - **Ce qui entre dans le Panier monte en priorité.** Quand le temps ne suffit pas, la distribution des biens du Panier passe avant le soin des personnes fragiles et l’entretien de l’eau et de l’énergie (Code 1, art. 32). C’est pourquoi la proposition 1 ajoute à cet article une règle : les biens du Panier indiqués comme différables passent après. Cela vaut pour les vêtements, pour les produits d’hygiène qui ne servent pas à la santé et pour les dispositifs de la proposition 3. Cela ne vaut pas pour les deux valeurs de la proposition 4, eau chaude et chauffage, qui restent dans la part minimale.
-- **Un bien du Panier acheté à l’extérieur est une dépendance critique.** Il requiert un Plan de sortie avec un terme certain (Code 15, art. 12). Les biens différables n’entrent toutefois pas dans les « niveaux 1 et 2 » sur lesquels le Code 16 mesure l’autoproduction de soixante-dix pour cent (art. 1, lettre f, et art. 4) : ils ne ralentissent pas le passage de phase.
+- **Un bien du Panier acheté à l’extérieur est une dépendance critique.** Il requiert un Plan de sortie avec un terme certain (Code 15, art. 12). Les biens différables n’entrent toutefois pas dans les « niveaux 1 et 2 » sur lesquels le Code 16 mesure l’autoproduction de soixante-dix pour cent (art. 1, lettre f, et art. 4) : ils ne ralentissent pas les passages de la Phase 0 à la Phase 1 et de la Phase 1 à la Phase 2. Ils pèsent en revanche sur les objectifs de la Phase 3 et sur le passage à la Phase 4, qui demandent de surmonter la moitié des dépendances critiques et un Plan de sortie à terme certain pour chacune de celles qui restent (Code 16, art. 3, al. 4, lettre c, et art. 4, al. 4, lettre b).
 - **Le temps administratif n’est pas estimé.** Le Code 3 (art. 12-bis, al. 13) demande à chaque nouvelle règle de dire combien de temps administratif elle requiert, et le limite à un dixième de la Contribution de base. Aucune proposition n’a encore cette estimation : il est indiqué où il pèse le plus.
 
 ## <span id="proposta-1--vestiario-e-igiene-nel-paniere-materiale"></span>Proposition 1 — Vêtements et hygiène dans le Panier matériel
+
+**Résultat :** acceptée le 19 octobre 2026 ; aucune observation reçue. Le texte a été inséré dans les Codes (C.1-Annex A, art. 4, al. 1 et 3, et nouvel al. 1-bis ; Code 1, art. 32, nouvel al. 1-bis).
 
 **Texte et article :** C.1-Annex A, art. 4, alinéas 1 et 3, et nouvel alinéa 1-bis ; Code 1, art. 32, nouvel alinéa 1-bis.
 
@@ -66,11 +64,15 @@ Dans le Code 1, à l’article 32, après l’alinéa 1 est inséré :
 
 ## <span id="proposta-2--standard-dellalloggio-adeguato"></span>Proposition 2 — Normes du logement adéquat
 
+**Résultat :** acceptée le 19 octobre 2026 ; aucune observation reçue. Le texte a été inséré dans les Codes (Code 1, nouvel art. 47-bis).
+
 **Texte et article :** Code 1, nouvel art. 47-bis.
 
 **Ce qui change par rapport à la version 1.** Elle dit désormais ce qui vaut comme « adéquat » pour les autres normes et fixe un délai pour la mise en conformité. Ajoutés : un espace privatif minimal, l’espace pour les mineurs à partir de quatorze ans, l’interdiction de descendre au-dessous des premières valeurs, le respect de l’interdiction de l’artificialisation des sols, une règle pour les premières phases. Pour la température, elle renvoie au Code 8. Supprimé le renvoi à un « accueil d’urgence » que les textes ne prévoient pas.
 
 **Ce qui change dans la version 3 (12 octobre 2026).** Quinze mètres carrés par personne donnaient à qui vit seul ou en couple un logement trop petit pour y vivre. Désormais, chaque logement a au moins un séjour, une chambre à coucher et une salle de bains, et la surface minimale dépend du nombre de personnes qui y vivent : trente mètres carrés pour une, quarante-cinq pour deux, soixante pour trois. L’espace privatif passe de huit à neuf mètres carrés.
+
+**Ce qui change dans la version 4 (19 octobre 2026).** La vérification de cohérence du 19 octobre a trouvé deux défauts. La lettre d) de l’alinéa 1 admettait une salle de bains commune au sein du Cercle 0, alors que l’alinéa 2 demandait une salle de bains dans chaque logement. Et l’alinéa 2 employait « adéquat » dans un sens différent de l’alinéa 5. Désormais, les salles de bains se comptent sur les personnes : au moins une pour quatre, éventuellement commune aux logements du même Cercle 0, et au-delà de la première un WC et un lavabo suffisent. Le studio « ne respecte pas la norme », au lieu de « n’est pas adéquat ». Dans les premières phases s’appliquent aussi la composition minimale et le nombre de salles de bains.
 
 **Problème.** Le logement est un droit constitutionnel (Const. 1.2, lettre a). Le Code 1 parle de « logement adéquat » (art. 47, al. 3) sans dire ce qui le rend tel.
 
@@ -90,7 +92,7 @@ Dans le Code 1, à l’article 32, après l’alinéa 1 est inséré :
 >
 > e) l’accessibilité nécessaire à la personne, selon son plan individuel de soin prévu par le Code 12.
 >
-> 2. Les normes quantitatives sont déterminées par l’Assemblée sur proposition conjointe du Conseil des Entrepôts et du Conseil Énergie et Eau, avec l’avis du Conseil Santé et du Conseil Habitat et Territoire. En première application, chaque logement comprend au moins un séjour, une chambre à coucher séparée et une salle de bains ; le studio n’est pas un logement adéquat. La surface habitable n’est pas inférieure à trente mètres carrés pour une personne, quarante-cinq pour deux et soixante pour trois ; elle augmente de quinze mètres carrés pour chaque personne supplémentaire jusqu’à la cinquième et de dix pour chaque personne au-delà de la cinquième. Chaque espace privatif prévu à la lettre a) de l’alinéa 1 n’est pas inférieur à neuf mètres carrés. Les déterminations ultérieures ne peuvent pas descendre au-dessous des valeurs de première application sans l’avis conforme du Conseil Santé.
+> 2. Les normes quantitatives sont déterminées par l’Assemblée sur proposition conjointe du Conseil des Entrepôts et du Conseil Énergie et Eau, avec l’avis du Conseil Santé et du Conseil Habitat et Territoire. En première application, chaque logement comprend au moins un séjour et une chambre à coucher séparée ; le studio ne respecte pas la norme. Chaque Cercle 0 dispose d’au moins une salle de bains pour quatre personnes ou fraction de quatre ; au-delà de la première, les salles de bains peuvent être des sanitaires avec WC et lavabo. Les salles de bains peuvent être communes aux logements du même Cercle 0. Lorsqu’un Cercle 0 habite plusieurs logements, la surface se calcule sur le nombre total de ses personnes. La surface habitable n’est pas inférieure à trente mètres carrés pour une personne, quarante-cinq pour deux et soixante pour trois ; elle augmente de quinze mètres carrés pour chaque personne supplémentaire jusqu’à la cinquième et de dix pour chaque personne au-delà de la cinquième. Chaque espace privatif prévu à la lettre a) de l’alinéa 1 n’est pas inférieur à neuf mètres carrés. Les déterminations ultérieures ne peuvent pas descendre au-dessous des valeurs de première application sans l’avis conforme du Conseil Santé.
 >
 > 3. Les normes de l’alinéa 2 ne s’appliquent pas aux aires d’accueil équipées prévues par l’article 6-ter, alinéa 6, du Code 11.
 >
@@ -98,17 +100,19 @@ Dans le Code 1, à l’article 32, après l’alinéa 1 est inséré :
 >
 > 5. Aux fins de l’article 47, alinéa 3, du présent Code et des articles 29 et 34 du Code 4, est adéquat le logement qui respecte l’alinéa 1. S’il n’y en a aucun de disponible, le meilleur logement disponible est attribué, et sa mise en conformité a la priorité dans la planification.
 >
-> 6. La mise en conformité s’effectue dans le respect des articles 2 et 5 du Code 10 : le réemploi et la récupération des bâtiments précèdent toute nouvelle construction. Jusqu’à l’activation des Codes 8 et 12, les lettres a), b) et d) de l’alinéa 1 et la surface de l’alinéa 2 s’appliquent.
+> 6. La mise en conformité s’effectue dans le respect des articles 2 et 5 du Code 10 : le réemploi et la récupération des bâtiments précèdent toute nouvelle construction. Jusqu’à l’activation des Codes 8 et 12, les lettres a), b) et d) de l’alinéa 1 et, de l’alinéa 2, la surface, la composition minimale et le nombre de salles de bains s’appliquent.
 
-**Raison.** La version 2 utilisait quinze mètres carrés par personne, d’après l’étude de Millward-Hopkins et al. (2020) : c’est un minimum pensé pour toute la population mondiale, et pour une ou deux personnes il se situe même au-dessous des minimums de la norme italienne sur l’habitabilité (décret ministériel du 5 juillet 1975 : vingt-huit mètres carrés pour une personne, trente-huit pour deux). La version 3 part de ce qu’il faut pour y vivre : un endroit où se tenir, un endroit où dormir en fermant la porte, une salle de bains. Les mesures sont des choix de rédaction, à discuter ; au-delà de la cinquième personne, elles croissent plus lentement, parce que la cuisine et le séjour ne se multiplient pas avec le nombre de personnes. Les neuf mètres de l’espace privatif sont la chambre individuelle minimale de la même norme. Les trente-six mois sont une hypothèse de rédaction. L’alinéa 4 empêche qu’une norme pensée comme une garantie devienne un motif d’expulsion ; l’alinéa 5 évite que les mesures de protection du Code 4 restent inexécutables là où il manque un logement conforme.
+**Raison.** La version 2 utilisait quinze mètres carrés par personne, d’après l’étude de Millward-Hopkins et al. (2020) : c’est un minimum pensé pour toute la population mondiale, et pour une ou deux personnes il se situe même au-dessous des minimums de la norme italienne sur l’habitabilité (décret ministériel du 5 juillet 1975 : vingt-huit mètres carrés pour une personne, trente-huit pour deux). La version 3 part de ce qu’il faut pour y vivre : un endroit où se tenir, un endroit où dormir en fermant la porte, une salle de bains. Les mesures sont des choix de rédaction, à discuter ; au-delà de la cinquième personne, elles croissent plus lentement, parce que la cuisine et le séjour ne se multiplient pas avec le nombre de personnes. Les neuf mètres de l’espace privatif sont la chambre individuelle minimale de la même norme. Les trente-six mois sont une hypothèse de rédaction. L’alinéa 4 empêche qu’une norme pensée comme une garantie devienne un motif d’expulsion ; l’alinéa 5 évite que les mesures de protection du Code 4 restent inexécutables là où il manque un logement conforme. Une salle de bains pour quatre personnes est la norme d’une maison familiale : au-delà de quatre personnes, une seule ne suffit pas aux heures de pointe. Pour les salles de bains au-delà de la première, un WC et un lavabo suffisent, parce que la file d’attente concerne le WC plus que la douche, et chaque salle de bains supplémentaire coûte des matériaux, de l’eau et de l’entretien.
 
 **Autres points à aligner.** Avec le nouvel article, « logement adéquat » a un contenu à l’art. 47, al. 3, du Code 1 et aux art. 29 et 34 du Code 4. La température minimale relève du Code 8, qui aujourd’hui ne fixe aucune valeur : c’est la proposition 4 qui la fixe. Version : Code 1 de V1.5 à V1.6, avec les autres propositions sur le Code 1 qui seront acceptées.
 
-**Ce que cela coûte.** Dans les Communautés qui partent de bâtiments existants, des travaux de mise en conformité et d’isolation, pas encore comptés dans le bilan des heures. Là où l’espace manque et où l’on ne peut pas construire, la prorogation de l’alinéa 4 ne suffit pas : il faut le dire avant. Avec les nouvelles mesures, la surface moyenne passe de quinze à environ vingt-deux mètres carrés par personne, si les foyers sont comme les foyers italiens d’aujourd’hui (hypothèse) : dans le [brouillon de l’Annexe UCR](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/brouillon-ucr.html), les matériaux pour l’habitat passent d’environ 550 à environ 740 heures par an pour 150 personnes, moins d’un dixième d’heure par semaine par contributeur.
+**Ce que cela coûte.** Dans les Communautés qui partent de bâtiments existants, des travaux de mise en conformité et d’isolation, pas encore comptés dans le bilan des heures. Là où l’espace manque et où l’on ne peut pas construire, la prorogation de l’alinéa 4 ne suffit pas : il faut le dire avant. Avec les nouvelles mesures, la surface moyenne passe de quinze à environ vingt-deux mètres carrés par personne, si les foyers sont comme les foyers italiens d’aujourd’hui (hypothèse) : dans le [brouillon de l’Annexe UCR](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/brouillon-ucr.html), les matériaux pour l’habitat passent d’environ 550 à environ 740 heures par an pour 150 personnes, moins d’un dixième d’heure par semaine par contributeur. Les salles de bains supplémentaires pour les Cercles 0 à partir de la cinquième personne sont des travaux d’installation, pas encore comptés.
 
 **Points ouverts.** Il n’est pas dit si les normes valent pour les Maisons-relais. Vérifier la surface oblige à entrer dans les logements : il faut le faire sans violer l’inviolabilité du Cercle 0 (Const. 5.1). Il n’est pas dit comment traiter les bâtiments faits uniquement de studios : les réunir demande des travaux que l’alinéa 4 laisse à la planification.
 
 ## <span id="proposta-3--connettività-e-materiali-per-apprendere"></span>Proposition 3 — Connectivité et matériel pour apprendre
+
+**Résultat :** acceptée le 19 octobre 2026 ; aucune observation reçue. Le texte a été inséré dans les Codes (Code 7, art. 3, nouvel al. 9 ; Code 5, art. 2, nouvel al. 4-bis).
 
 **Texte et article :** Code 7, art. 3, nouvel alinéa 9 ; Code 5, art. 2, nouvel alinéa 4-bis.
 
@@ -142,6 +146,8 @@ Dans le Code 5, à l’article 2, après l’alinéa 4 est inséré :
 
 ## <span id="proposta-4--valore-di-prima-applicazione-del-paniere-energia"></span>Proposition 4 — Valeur de première application du Panier énergie
 
+**Résultat :** acceptée le 19 octobre 2026 ; aucune observation reçue. Le texte a été inséré dans les Codes (Code 8, art. 4, al. 4).
+
 **Texte et article :** Code 8, art. 4, alinéa 4.
 
 **Ce qui change par rapport à la version 1.** La liste des services a été supprimée : elle répétait l’alinéa 1 et en oubliait une partie (rafraîchissement, Entrepôt Santé, nœud du Réseau), au point de sembler un pas en arrière. Seules restent les deux valeurs nouvelles. La température est fixée ici et non plus dans le Code 1. Il est dit qui décide quand l’absence des dix-huit degrés est une urgence.
@@ -150,7 +156,7 @@ Dans le Code 5, à l’article 2, après l’alinéa 4 est inséré :
 
 **Texte proposé.** À l’alinéa 4 est ajouté, à la fin :
 
-> Sans préjudice de tous les services de l’alinéa 1, en première application, l’eau chaude sanitaire n’est pas inférieure à vingt litres par personne et par jour et le chauffage minimal en hiver assure dans les pièces habitées une température non inférieure à dix-huit degrés Celsius. Le Conseil Santé peut indiquer une valeur plus élevée pour des tranches d’âge. Constitue une urgence au sens de l’alinéa 3 la température que le Conseil Santé indique comme dangereuse pour la santé. L’article 2, alinéa 2, s’applique : la réduction des besoins précède l’augmentation de la production.
+> Sans préjudice de tous les services de l’alinéa 1, en première application, l’eau chaude sanitaire n’est pas inférieure à vingt litres par personne et par jour et le chauffage minimal en hiver assure dans les pièces habitées une température non inférieure à dix-huit degrés Celsius. Sur proposition du Conseil Santé, l’Assemblée peut fixer une valeur plus élevée pour des tranches d’âge. Constitue une urgence au sens de l’alinéa 3 la température que l’Assemblée, sur proposition du Conseil Santé, fixe comme dangereuse pour la santé ; jusqu’à cette délibération, la valeur indiquée par le Conseil Santé s’applique. L’article 2, alinéa 2, s’applique : la réduction des besoins précède l’augmentation de la production.
 
 **Raison.** Les vingt litres d’eau chaude viennent de l’étude de Millward-Hopkins et al. (2020) ; les dix-huit degrés, des lignes directrices de l’OMS sur le logement et la santé (2018). Les kilowattheures dépendent du climat et du bâtiment : ils restent à calculer dans la STV Panier énergie (alinéa 6).
 
@@ -158,9 +164,11 @@ Dans le Code 5, à l’article 2, après l’alinéa 4 est inséré :
 
 **Ce que cela coûte.** Dans les climats froids, c’est le poste le plus lourd : le chauffage. Les deux valeurs entrent dans la part minimale, que le Code 8 place au premier niveau de priorité (art. 2, al. 3) et demande de garantir dans un délai de six mois (art. 10), en admettant à titre transitoire même les sources fossiles pour les fonctions vitales (art. 5, al. 3). C’est pourquoi le texte rappelle l’isolation avant la production. Là où les bâtiments ne tiennent pas les dix-huit degrés, six mois peuvent ne pas suffire : il faut le dire avant.
 
-**Points ouverts.** La température « dangereuse pour la santé » n’a pas de valeur de première application : c’est le Conseil Santé qui l’indique.
+**Points ouverts.** La température « dangereuse pour la santé » n’a pas de valeur de première application : le Conseil Santé la propose et l’Assemblée la fixe ; d’ici là, la valeur indiquée par le Conseil Santé s’applique.
 
 ## <span id="proposta-5--cdr-per-le-attività-culturali-offerte-alla-comunità"></span>Proposition 5 — CdR pour les activités culturelles offertes à la Communauté
+
+**Résultat :** acceptée le 19 octobre 2026 ; aucune observation reçue. Le texte a été inséré dans les Codes (Code 1, art. 43, nouvel al. 1-bis).
 
 **Texte et article :** Code 1, art. 43, nouvel alinéa 1-bis.
 
@@ -176,7 +184,7 @@ Dans le Code 5, à l’article 2, après l’alinéa 4 est inséré :
 >
 > b) sont comptées les heures accomplies en présence et, pour la préparation, au plus autant d’heures ;
 >
-> c) la validation a lieu en application de l’article 9 de la Constitution, avec les personnes qui ont assisté. Si elle est positive, les CdR dépendent uniquement des heures. Si elle est négative, la suspension prévue par l’article 9, alinéa 4, du Code 2 ne s’applique pas ;
+> c) la validation a lieu en application de l’article 9.2 de la Constitution ; les personnes qui font usage du service sont représentées par celles qui ont assisté. Si elle est positive, les CdR dépendent uniquement des heures. Si elle est négative, la suspension prévue par l’article 9, alinéa 4, du Code 2 ne s’applique pas ;
 >
 > d) l’alinéa 3 ne s’applique pas ;
 >
@@ -190,11 +198,13 @@ Dans le Code 5, à l’article 2, après l’alinéa 4 est inséré :
 
 **Ce que cela coûte.** Chaque événement devient un enregistrement à proposer et à valider : du temps administratif, non estimé. La [simulation du plafond](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/brouillon-cdr.html) suppose que la moitié des personnes n’acquiert pas de CdR : avec cette proposition, l’hypothèse doit être revue. Les CdR servent aussi à rappeler des volontaires dans les moments de besoin (Code 1, art. 6, al. 6) : la limite annuelle évite que des activités agréables affaiblissent ce rappel.
 
-**Points ouverts.** Le rapport d’un pour un entre préparation et présence et les soixante CdR sont des hypothèses de rédaction. Aucun des seize Cercles de compétence ne concerne les arts : il reste à dire quel Conseil propose l’attribution, et qui distingue une activité culturelle d’une activité de culte.
+**Points ouverts.** Le rapport d’un pour un entre préparation et présence et les soixante CdR sont des hypothèses de rédaction. Aucun des seize Cercles de compétence ne concerne les arts : il reste à dire quel Conseil propose l’attribution, qui apporte à la validation la compétence pertinente et qui distingue une activité culturelle d’une activité de culte.
 
 <span id="proposta-6--sottosuolo-bene-comune-ed-estrazione-come-eccezione"></span>
 
 ## <span id="proposta-6--sottosuolo-bene-comune"></span>Proposition 6 — Le sous-sol, bien commun
+
+**Résultat :** acceptée le 19 octobre 2026 ; aucune observation reçue. Le texte a été inséré dans les Codes (Code 10, art. 1, al. 1, 2 et 3 ; art. 9, al. 1, lettre a)).
 
 **Texte et article :** Code 10, art. 1, alinéas 1, 2 et 3 ; art. 9, alinéa 1, lettre a).
 
@@ -235,6 +245,8 @@ Dans le Code 5, à l’article 2, après l’alinéa 4 est inséré :
 
 ## <span id="proposta-7--materie-prime-recupero-e-inventario"></span>Proposition 7 — Matières premières : récupération et inventaire
 
+**Résultat :** acceptée le 19 octobre 2026 ; aucune observation reçue. Le texte a été inséré dans les Codes (Code 10, nouvel art. 8-bis et art. 3 et 7 ; Code 15, art. 12, nouvel al. 5-bis).
+
 **Texte et article :** Code 10, nouvel art. 8-bis ; Code 15, art. 12, nouvel alinéa 5-bis.
 
 **Ce qui change par rapport à la version 1.** La partie sur l’extraction est retirée, avec l’exception constitutionnelle de la proposition 6. Reste ce qui vaut de toute façon : l’inventaire de ce que l’on peut récupérer, la garde des gisements, les garanties pour les excavations de récupération. L’article dit expressément qu’il n’autorise pas de nouvelles extractions. Les règles sur le réemploi et les achats ne sont pas répétées : elles existent déjà dans le Code 2, dans le Code 15 et dans l’Annex A. La limite aux Plans de sortie est écrite dans le Code 15, qui est sa place.
@@ -259,13 +271,13 @@ Dans le Code 5, à l’article 2, après l’alinéa 4 est inséré :
 >
 > d) la délibération de l’Assemblée de la Communauté sur le territoire de laquelle se trouve le site ; si l’excavation peut avoir une incidence sur des eaux ou des corridors écologiques communs à plusieurs Communautés, l’Assemblée générale délibère.
 >
-> 4. L’excavation de l’alinéa 3 est interdite dans les sanctuaires écologiques et dans les zones candidates à le devenir, dans les zones humides et dans les zones d’infiltration stratégique. Elle n’est pas admise avant l’activation des Codes 13 et 14. Le présent Code et le Code 13 demeurent applicables.
+> 4. L’excavation de l’alinéa 3 est interdite dans les sanctuaires écologiques et dans les zones candidates à le devenir, dans les zones humides et dans les zones d’infiltration stratégique. Elle n’est pas admise avant l’activation des Codes 13 et 14. L’excavation conforme à l’alinéa 3 est un usage conforme à une Fiche en vigueur aux fins de l’article 6, alinéa 4, du Code 16. Le présent Code et le Code 13 demeurent applicables.
 >
 > 5. Le présent article n’autorise ni de nouvelles extractions ni l’extension des extractions existantes. L’article 14.2 de la Constitution demeure applicable.
 
 Dans le Code 15, à l’article 12, après l’alinéa 5 est inséré :
 
-> 5-bis. Pour les matières premières, le Plan de sortie indique la réduction des besoins, le réemploi, le recyclage et la récupération. Il ne peut pas indiquer de nouvelles extractions.
+> 5-bis. Pour les matières premières, le Plan de sortie indique la réduction des besoins, le réemploi, le recyclage et la récupération. Il ne peut pas indiquer de nouvelles extractions. L’alinéa 5 s’applique.
 
 **Raison.** Avant de se demander s’il faut creuser, il faut savoir ce qu’il y a déjà en surface : bâtiments désaffectés, véhicules, décharges. C’est un travail utile dans tous les cas, et il ne touche aucune interdiction. L’alinéa 5-bis ferme une porte que la vérification a trouvée ouverte : sans lui, l’obligation de sortir des dépendances extérieures pousserait vers la mine.
 
@@ -279,9 +291,11 @@ Dans le Code 15, à l’article 12, après l’alinéa 5 est inséré :
 
 **Ce que cela coûte.** L’inventaire annuel est un travail nouveau pour chaque Conseil Habitat et Territoire : du temps administratif, non estimé. Il recoupe en partie l’inventaire des sols dégradés (art. 5, al. 4) et peut être tenu avec lui.
 
-**Points ouverts.** L’alinéa 5-bis laisse une dépendance sans terme certain : les métaux que le recyclage ne couvre pas continueront à être achetés à l’extérieur, et le même article 12 demande un terme. C’est une contradiction réelle entre l’interdiction d’extraire et l’obligation de sortir des dépendances : cette proposition la rend visible, elle ne la résout pas.
+**Points ouverts.** L’alinéa 5-bis laisse une dépendance sans terme certain : les métaux que le recyclage ne couvre pas continueront à être achetés à l’extérieur, et le même article 12 demande un terme. C’est une contradiction réelle entre l’interdiction d’extraire et l’obligation de sortir des dépendances : cette proposition la rend visible, elle ne la résout pas. Le réexamen motivé de l’alinéa 5 évite que la transition reste bloquée, mais ne donne pas de terme.
 
 ## <span id="proposta-8--robot-e-macchine-autonome"></span>Proposition 8 — Robots et machines autonomes
+
+**Résultat :** acceptée le 19 octobre 2026 ; aucune observation reçue. Le texte a été inséré dans les Codes (Code 7, art. 1, al. 2, nouvelle lettre f), et nouvel art. 6-bis ; Code 1, art. 8, al. 3).
 
 **Texte et article :** Code 7, art. 1, alinéa 2, nouvelle lettre f) ; nouvel art. 6-bis.
 
@@ -337,6 +351,8 @@ Après l’article 6 est inséré :
 
 ## <span id="proposta-9--decrescenza-dei-cdr-quando-comincia-e-quali-si-impiegano-per-primi"></span>Proposition 9 — Décroissance des CdR : quand elle commence et lesquelles s’utilisent en premier
 
+**Résultat :** acceptée le 19 octobre 2026 ; aucune observation reçue. Le texte a été inséré dans les Codes (Code 1, art. 44, al. 3 ; art. 45, al. 2 et 3).
+
 **Texte et article :** Code 1, art. 44, alinéa 3 ; art. 45, alinéas 2 et 3.
 
 **Ce qui change par rapport à la version 1.** La première version faisait baisser la valeur d’un seul coup à la fin de chaque trimestre et la présentait comme « la seule lecture » possible. Ce n’était pas le cas : c’était la plus généreuse. Désormais la réduction est progressive, proportionnelle au temps. Ajoutées deux règles qui manquaient : combien vaut une CdR réduite et ce que l’on entend par acquisition. L’ordre d’utilisation est déplacé dans l’article sur l’utilisation.
@@ -367,6 +383,8 @@ Seule la première respecte à la fois les douze mois et le vingt-quatrième. En
 
 ## <span id="proposta-10--la-maggiorazione-dei-compiti-sgradevoli-per-chi-è-al-tetto"></span>Proposition 10 — La majoration des tâches désagréables pour qui est au plafond
 
+**Résultat :** acceptée le 19 octobre 2026 ; aucune observation reçue. Le texte a été inséré dans les Codes (Code 1, art. 44, al. 2).
+
 **Texte et article :** Code 1, art. 44, alinéa 2.
 
 **Ce qui change par rapport à la version 1.** La solution est inversée. La première version attribuait la majoration aussi à qui était au plafond, en éteignant pour une valeur égale ses CdR les plus anciennes. La vérification a montré qu’elle n’obtenait pas ce qu’elle déclarait : le solde restait identique, l’avantage n’était qu’une durée plus longue des CdR, les données trimestrielles se gonflaient et la disparité se déplaçait ailleurs. Désormais la proposition confirme la règle en vigueur, l’écrit expressément et définit comment se mesure le solde.
@@ -384,6 +402,8 @@ Seule la première respecte à la fois les douze mois et le vingt-quatrième. En
 **Ce que cela coûte.** Qui est au plafond et est tiré au sort pour un tour désagréable ne reçoit pas la majoration. C’est le prix d’un plafond sans exceptions, et il faut le dire. Le tirage au sort exclut pendant un trimestre qui a accompli le plus d’heures désagréables (art. 8, al. 3), mais pas qui est au plafond pour d’autres activités. Qui utilise ses CdR repasse sous le plafond et recommence à en acquérir.
 
 ## <span id="proposta-11--soglie-economiche-in-proporzione-alla-dimensione-della-comunità"></span>Proposition 11 — Seuils économiques proportionnés à la taille de la Communauté
+
+**Résultat :** acceptée le 19 octobre 2026 ; aucune observation reçue. Le texte a été inséré dans les Codes (Code 3, art. 7, al. 3 et nouveaux al. 3-bis et 3-ter ; art. 7-bis, al. 1 ; art. 21, al. 3).
 
 **Texte et article :** Code 3, art. 7, alinéa 3 et nouveaux alinéas 3-bis et 3-ter ; art. 7-bis, alinéa 1.
 
@@ -407,7 +427,7 @@ Après l’alinéa 3 sont insérés :
 
 > 3-bis. Le seuil bas est égal à 100 UCR plus une UCR pour chaque personne qui appartient à la Communauté de base, et ne dépasse pas 500 UCR. Le seuil haut est égal à 500 UCR plus cinq UCR pour chaque personne, et ne dépasse pas 2 500 UCR. Sont comptées toutes les personnes qui appartiennent à la Communauté au début du trimestre, mineurs compris ; les personnes accueillies ne sont pas comptées. Pour une Communauté qui vient d’être constituée, le nombre de l’acte d’adhésion fait foi. Pour les opérations communes à plusieurs Communautés et pour les entités des Cercles supérieurs, les personnes des Communautés concernées sont additionnées.
 >
-> 3-ter. L’Assemblée générale calibre les valeurs de l’alinéa 3-bis en application de l’article 14, alinéa 2, lettre b). Le calibrage ne peut pas supprimer la proportion avec le nombre des personnes. Aux opérations à risque moyen d’une valeur ne dépassant pas 2 500 UCR s’appliquent en tout état de cause les alinéas 2 et 4 de l’article 7-ter. À l’article 3, alinéa 2, du présent Code et aux articles 15 et 23 du Code 2, « le seuil » désigne le seuil haut.
+> 3-ter. L’Assemblée générale calibre les valeurs de l’alinéa 3-bis en application de l’article 14, alinéa 2, lettre b). Le calibrage ne peut pas supprimer la proportion avec le nombre des personnes. Aux opérations à risque moyen d’une valeur supérieure au seuil haut et ne dépassant pas 2 500 UCR s’appliquent en tout état de cause les alinéas 2 et 4 de l’article 7-ter. À l’article 3, alinéa 2, du présent Code et aux articles 15 et 23 du Code 2, « le seuil » désigne le seuil haut.
 
 À l’article 7-bis, l’alinéa 1 est remplacé par le suivant :
 

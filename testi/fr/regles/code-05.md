@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 5 — DE L’APPRENTISSAGE ET DES COMPÉTENCES"
 breve: "Code 5 — Apprentissage et compétences"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "codici"
 ordine: 5
 id: "codice-05"
 slug: "code-05"
-allineamento: "Constitution V.29 ; Code 1 V1.5 ; Code 2 V1.5 ; Code 3 V1.4 ; Code 4 V1.4 ; Code 6 V1.5 ; Code 7 V1.6 ; Code 8 V1.3 ; C.1-Annex A V1.3 ; Code 9 V3.1 ; Code 10 V1.3 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.3 ; Code 16 V1.4."
+allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.4 ; Code 6 V1.5 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.4 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.4 ; Code 16 V1.4."
 ---
 
 ## TITRE PRÉLIMINAIRE — PRINCIPES FONDAMENTAUX
@@ -56,6 +56,8 @@ allineamento: "Constitution V.29 ; Code 1 V1.5 ; Code 2 V1.5 ; Code 3 V1.4
     c) en Liste C, lorsqu’elle est libre ou répond à un besoin temporaire.
 
 4.  Nul ne peut être exclu des parcours d’apprentissage en raison de son âge, de son genre, de son origine, de sa condition physique, de son parcours scolaire antérieur ou de la possession de diplômes formels. Le Cercle compétent a la responsabilité organisationnelle de rendre le parcours accessible.
+
+4-bis. Le matériel, les outils et les espaces nécessaires à l’alphabétisation prévue par l’article 6, alinéa 8, et à la formation nécessaire à la sécurité font partie du Panier de suffisance : l’accès ne peut pas être subordonné à la CBO ou aux CdR. Pour les autres parcours, le matériel est fourni selon la disponibilité des Entrepôts.
 
 5.  L’absence d’acquisition ou de validation d’une compétence ne peut pas entraîner de réduction du Panier de suffisance, d’exclusion de l’Assemblée, de sanction ni aucun autre préjudice étranger aux exigences effectives de sécurité et de compétence de la tâche.
 

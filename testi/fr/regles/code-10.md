@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 10 — HABITAT ET TERRITOIRE"
 breve: "Code 10 — Habitat et territoire"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "codici"
 ordine: 10
 id: "codice-10"
 slug: "code-10"
-allineamento: "Constitution V.29 ; Code 1 V1.5 ; Code 2 V1.5 ; Code 3 V1.4 ; Code 4 V1.4 ; Code 5 V1.3 ; Code 6 V1.5 ; Code 7 V1.6 ; Code 8 V1.3 ; C.1-Annex A V1.3 ; Code 9 V3.1 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.3 ; Code 16 V1.4."
+allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.4 ; Code 5 V1.4 ; Code 6 V1.5 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.4 ; Code 16 V1.4."
 ---
 
 ## Art. 1 — Objet, définitions et nature juridique
@@ -25,7 +25,9 @@ allineamento: "Constitution V.29 ; Code 1 V1.5 ; Code 2 V1.5 ; Code 3 V1.4
 
     f) le Cadastre territorial fédéré ;
 
-    g) le géoréférencement des infrastructures communes.
+    g) le géoréférencement des infrastructures communes ;
+
+    h) le sous-sol, les gisements et l’inventaire des matériaux récupérables.
 
 2.  Aux fins du présent Code, on entend par :
 
@@ -37,7 +39,11 @@ allineamento: "Constitution V.29 ; Code 1 V1.5 ; Code 2 V1.5 ; Code 3 V1.4
 
     d) **occupation irréversible :** une transformation du sol qui entraîne une imperméabilisation permanente, l’enlèvement de la couche fertile ou une perte de fonctionnalité qui ne peut être rétablie sans une intervention structurelle de régénération ;
 
-    e) **occupation réversible :** un usage temporaire du sol qui conserve intégralement la couche fertile et permet le rétablissement complet de la fonctionnalité définie par la STV Régénération dans un délai de vingt-quatre mois. Si le rétablissement n’intervient pas dans ce délai, l’occupation est classée comme artificialisation brute à compter de la date initiale de l’occupation.
+    e) **occupation réversible :** un usage temporaire du sol qui conserve intégralement la couche fertile et permet le rétablissement complet de la fonctionnalité définie par la STV Régénération dans un délai de vingt-quatre mois. Si le rétablissement n’intervient pas dans ce délai, l’occupation est classée comme artificialisation brute à compter de la date initiale de l’occupation ;
+
+    f) **ressources minérales :** les métaux, les minéraux et les roches à l’état naturel, dans le sous-sol ou affleurants, ainsi que ceux contenus dans les décharges et dans les dépôts de résidus d’extractions passées, tant qu’ils ne sont pas récupérés ; elles ne comprennent pas l’eau, régie par le Code 8 ;
+
+    g) **gisement :** une concentration de ressources minérales constatée et inscrite au Cadastre.
 
 3.  Sont des biens communs d’infrastructure inaliénables :
 
@@ -49,7 +55,9 @@ allineamento: "Constitution V.29 ; Code 1 V1.5 ; Code 2 V1.5 ; Code 3 V1.4
 
     d) les zones tampons pour la pollinisation et la santé ;
 
-    e) la banque territoriale semi-naturelle.
+    e) la banque territoriale semi-naturelle ;
+
+    f) le sous-sol et les ressources minérales. Cette qualification ne restreint pas le sens des mots « terre » et « sol » employés par la Constitution.
 
 4.  La qualification territoriale du sol est déterminée en fonction de sa fonction écologique et territoriale, telle qu’elle est enregistrée dans le Cadastre territorial fédéré. Elle ne dépend ni de l’usage antérieur du sol ni d’éventuelles prétentions de propriété individuelle.
 
@@ -102,7 +110,9 @@ La dérogation est délibérée par l’Assemblée sur proposition du Conseil ag
 
     f) alimente le Registre des dépendances du Code 15 pour les dépendances territoriales visées à l’article 8, alinéa 5 ;
 
-    g) coordonne son activité avec les Conseils Énergie et Eau du Code 8, agroécologique du Code 9, Biodiversité du Code 13 et Production du C.1-Annex A.
+    g) coordonne son activité avec les Conseils Énergie et Eau du Code 8, agroécologique du Code 9, Biodiversité du Code 13 et Production du C.1-Annex A ;
+
+    h) tient l’inventaire des matériaux récupérables prévu par l’article 8-bis.
 
 4.  Les actes du Conseil se distinguent en :
 
@@ -205,13 +215,13 @@ La dérogation est délibérée par l’Assemblée sur proposition du Conseil ag
 
 ## Art. 7 — Cadastre territorial fédéré et géoréférencement
 
-1.  Est institué le Cadastre territorial fédéré, qui comprend des inventaires et des informations sur les sols, les corridors écologiques, les zones tampons, les refuges pour pollinisateurs et les infrastructures hydrauliques agricoles. Les données publiques sont agrégées et ne permettent pas de profilage, conformément au Code 7, article 2.2.
+1.  Est institué le Cadastre territorial fédéré, qui comprend des inventaires et des informations sur les sols, les corridors écologiques, les zones tampons, les refuges pour pollinisateurs, les infrastructures hydrauliques agricoles, les gisements et les matériaux récupérables. Les données publiques sont agrégées et ne permettent pas de profilage, conformément au Code 7, article 2.2.
 
 2.  Le Cadastre prévoit les niveaux d’accès suivants :
 
     a) **niveau public :** carte agrégée avec un niveau de détail qui ne permet d’identifier ni des personnes, ni des refuges isolés ou des champs individuels, ni des infrastructures sensibles ;
 
-    b) **niveau technique :** données géoréférencées de précision, accessibles exclusivement aux Conseils Habitat et Territoire, agroécologique et Biodiversité pour des finalités techniques documentées de sécurité, de planification ou de vérification des zones tampons ;
+    b) **niveau technique :** données géoréférencées de précision, accessibles exclusivement aux Conseils Habitat et Territoire, agroécologique et Biodiversité et, pour l’inventaire des matériaux récupérables, au Conseil Production, pour des finalités techniques documentées de sécurité, de planification ou de vérification des zones tampons ;
 
     c) **interopérabilité fédérée :** échange des données nécessaires entre Cercles avec anonymisation et respect des autorisations.
 
@@ -239,11 +249,31 @@ La dérogation est délibérée par l’Assemblée sur proposition du Conseil ag
 
 5.  On entend par **dépendance territoriale** une dépendance critique à l’égard du sol fertile, des corridors écologiques, de l’accessibilité territoriale, d’infrastructures ou de localisations non substituables, nécessaire au maintien d’une fonction essentielle de niveau 1–3. Les dépendances territoriales sont enregistrées conformément au Code 15.
 
+## Art. 8-bis — Matières premières : récupération et inventaire
+
+1.  Le Conseil Habitat et Territoire tient dans le Cadastre, et met à jour chaque année, l’inventaire des matériaux récupérables présents sur le territoire : bâtiments, véhicules et installations désaffectés, décharges, résidus d’extractions passées et matériaux provenant de la conversion prévue par l’article 16.2 de la Constitution. L’inventaire est mis à la disposition du Conseil Production aux fins des articles 2 et 5 du C.1-Annex A.
+
+2.  Les gisements sont des Biens communs confiés à la garde de la Communauté sur le territoire de laquelle ils se trouvent. La garde ne donne pas droit à une rente.
+
+3.  L’excavation d’une décharge ou d’un dépôt de résidus d’extractions passées, pour en récupérer les matériaux, requiert conjointement, sans préjudice de la matrice de l’article 7 du Code 3 :
+
+    a) les avis obligatoires des Conseils Habitat et Territoire, Biodiversité, Énergie et Eau et Santé ;
+
+    b) une Fiche de sécurité générale en application du Code 14 ;
+
+    c) un plan de remise en état approuvé avant le début des travaux, dont les heures sont comptées avec celles de la récupération, et un plan pour la partie non récupérable conforme à l’article 14.5 de la Constitution ;
+
+    d) la délibération de l’Assemblée de la Communauté sur le territoire de laquelle se trouve le site ; si l’excavation peut avoir une incidence sur des eaux ou des corridors écologiques communs à plusieurs Communautés, l’Assemblée générale délibère.
+
+4.  L’excavation de l’alinéa 3 est interdite dans les sanctuaires écologiques et dans les zones candidates à le devenir, dans les zones humides et dans les zones d’infiltration stratégique. Elle n’est pas admise avant l’activation des Codes 13 et 14. L’excavation conforme à l’alinéa 3 est un usage conforme à une Fiche en vigueur aux fins de l’article 6, alinéa 4, du Code 16. Le présent Code et le Code 13 demeurent applicables.
+
+5.  Le présent article n’autorise ni de nouvelles extractions ni l’extension des extractions existantes. L’article 14.2 de la Constitution demeure applicable.
+
 ## Art. 9 — Interdictions et garanties
 
 1.  Il est interdit :
 
-    a) de générer une rente sur le sol fertile commun, sur les corridors écologiques ou sur les zones tampons ;
+    a) de générer une rente sur le sol fertile commun, sur le sous-sol, sur les ressources minérales, sur les corridors écologiques ou sur les zones tampons ;
 
     b) de produire une artificialisation nette de sol fertile sans compensation territoriale et écologique équivalente en application de l’article 4, alinéa 4, et de la STV Régénération ;
 

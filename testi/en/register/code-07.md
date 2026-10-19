@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 7 — ON AUTOMATION AND THE NETWORK"
 breve: "Code 7 — Automation and the Network"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 7
 id: "codice-07"
 slug: "code-07"
-allineamento: "Constitution V.29; Code 1 V1.5; Code 2 V1.5; Code 3 V1.4; Code 4 V1.4; Code 5 V1.3; Code 6 V1.5; Code 8 V1.3; C.1-Annex A V1.3; Code 9 V3.1; Code 10 V1.3; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.3; Code 16 V1.4."
+allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 V1.4; Code 5 V1.4; Code 6 V1.5; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.4; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.4; Code 16 V1.4."
 ---
 
 ## PRELIMINARY TITLE — FUNDAMENTAL PRINCIPLES
@@ -25,7 +25,9 @@ allineamento: "Constitution V.29; Code 1 V1.5; Code 2 V1.5; Code 3 V1.4; Code 4 
 
     d) **critical function:** means a function whose interruption, compromise or misuse may affect the safety of persons, rights, the Basket or the continuity of an essential service;
 
-    e) **vital function:** means a function whose interruption may give rise to an immediate risk to life, health or access to essential goods.
+    e) **vital function:** means a function whose interruption may give rise to an immediate risk to life, health or access to essential goods;
+
+    f) **robot:** means a machine that moves or manipulates objects in a space where persons are or may be present, choosing its trajectory or action by itself. Fixed-cycle appliances and protected fixed installations are not robots.
 
 3.  Automation is directed towards:
 
@@ -96,6 +98,16 @@ allineamento: "Constitution V.29; Code 1 V1.5; Code 2 V1.5; Code 3 V1.4; Code 4 
 7.  No paywall or proprietary authentication system may constitute a general condition for accessing the Network. Ordinary access takes place by means of the Circle’s fiduciary identity, with no obligation of an external state identity, except for specific interoperability obligations approved by a valid procedure.
 
 8.  The identity used to access the Network may not be used to profile, to attribute reputation or to monitor personal life, in accordance with Article 2.
+
+9.  **Minimum allocation.** The access to the Network provided for by paragraph 6 is part of the Sufficiency Basket and may not be made conditional on the CBO or on CdR. It comprises at least:
+
+    a) a Network access point in every dwelling that requests it or, where this is not technically possible, in Circle 0;
+
+    b) for every member who requests it from twelve years of age, a personal communication device, distinct from the Node of Article 5-bis; before that age, with the participation of the reference figures;
+
+    c) in every Circle 1, an assisted access point with shared devices.
+
+    Personal devices comply with Article 5 of Code 2; if no compliant device is available, access is ensured by letter c). For shared devices the residual dependency of Article 5, paragraph 2, letter b), of Code 2 is permitted, with a substitution plan. Devices are supplied and repaired through the Storehouses, with the support of the Network Council. The right to disconnection and the non-digital procedures of Article 5-bis, paragraphs 7 and 8, remain in force. The allocations are proposed by the Network Council and are included in the annual Technical Annex of Article 18, paragraph 2, of Code 1. The allocations of letters a) and b) are deferrable within the meaning of Article 32, paragraph 1-bis, of Code 1.
 
 ### Art. 4 — Network Council
 
@@ -282,6 +294,36 @@ vii. the maximum restoration time.
 
 5.  The initial classification and every modification of it are validated by a competent L3 person and recorded in the STV. Critical and vital automations are subject to independent audit in accordance with Article 8, paragraph 3.
 6.  The time freed by automation does not reduce access to the Basket and does not automatically entail an increase in the mandatory CBO. It may be allocated to free time, learning, care or deliberation in accordance with the decisions of the Community.
+
+### Art. 6-bis — Robots and autonomous machines
+
+1.  Article 6 and the provisions of this Article apply to robots.
+
+2.  Robots used in the CBO or in production for the Storehouses are means of production and Commons within the meaning of Article 10.1 of the Constitution: they may not be the object of private ownership or a source of rent. The Circle that has custody of them owns the hardware and holds the schematics and a verifiable copy of the code, pursuant to Articles 19.3 and 19.4 of the Constitution. Aids and devices for exclusively individual use remain personal-use goods within the meaning of Article 10.3 of the Constitution.
+
+3.  Every robot has a physical stop independent of the software, which brings it into a safe state. The stop is accessible in accordance with the General Safety Sheet of Code 14; anyone may activate it in the cases of Article 2, paragraph 6, of that Code. The robot operates under the supervision of a qualified person on shift.
+
+4.  The limits of force, speed and distance from persons are set by the Machinery STV of Code 14, after hearing the Network Council. In case of doubt, physical separation between the machine and persons prevails. Until Code 14 is activated, the stop and the limits are set in the Safety Sheet of Article 27 of Code 1.
+
+5.  It is prohibited:
+
+    a) to arm a machine or use it to coerce, restrain or strike a person, pursuant to Article 16 of the Constitution and Article 2, paragraph 6, of this Code;
+
+    b) to use it to monitor or profile persons, or to follow them without their consent. The recognition of the qualified operator, the anonymous detection of presence for safety purposes and the search for persons in danger remain permitted, by non-biometric means and within the limits of Article 18 of the Constitution. Article 8-quinquies of Code 14 and Article 33 of Code 4 remain in force;
+
+    c) to entrust to a robot the activities excluded by Article 6, paragraph 2; Article 1, paragraph 4, remains in force;
+
+    d) to make a vital function dependent on a robot without a documented and tested substitute manual procedure.
+
+    The prohibitions of letters a) and b) apply to every machine, including one controlled remotely.
+
+6.  Where a robot available in the Community can safely perform a task that Article 8, paragraph 1, of Code 1 classifies by risk, no person may be assigned to it, by any means, save for periodic tests of the manual procedure and cases of breakdown.
+
+7.  Before a robot is introduced, the hours needed to build it, power it, maintain it, train those who use it and dispose of it are compared, in UCR, with the hours of work it saves. The comparison is calculated in accordance with Articles 5 and 9 of Code 3 and certified by the Accounting Council. The time saved is allocated in accordance with Article 6, paragraph 6, and may not translate into an advantage for some.
+
+8.  The system that governs a robot is an automation within the meaning of Article 1, paragraph 2, letter a). If it uses an AI, the AI is local and limited in domain within the meaning of Article 19.5 of the Constitution and is validated by the Network Council. In no case does it adopt the decisions reserved to persons by Article 2, paragraph 8.
+
+9.  A robot that does not comply with paragraphs 3, 4 and 5 is suspended or deactivated pursuant to Article 9, paragraphs 2 and 3. The qualifications of Articles 16 and 18.6 of the Constitution remain in force. Robots already in use shall be brought into conformity within twelve months of the entry into force of this Article.
 
 ### Art. 7 — Data, tracking and minimisation
 

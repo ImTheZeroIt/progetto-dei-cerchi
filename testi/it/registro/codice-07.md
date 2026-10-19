@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 7 — DELL’AUTOMAZIONE E DELLA RETE"
 breve: "Codice 7 — Automazione e Rete"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 7
 id: "codice-07"
 slug: "codice-07"
-allineamento: "Costituzione V.29; Codice 1 V1.5; Codice 2 V1.5; Codice 3 V1.4; Codice 4 V1.4; Codice 5 V1.3; Codice 6 V1.5; Codice 8 V1.3; C.1-Annex A V1.3; Codice 9 V3.1; Codice 10 V1.3; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.3; Codice 16 V1.4."
+allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.4; Codice 5 V1.4; Codice 6 V1.5; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.4; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.4; Codice 16 V1.4."
 ---
 
 ## TITOLO PRELIMINARE — PRINCIPI FONDAMENTALI
@@ -25,7 +25,9 @@ allineamento: "Costituzione V.29; Codice 1 V1.5; Codice 2 V1.5; Codice 3 V1.4; C
 
     d) **funzione critica:** funzione la cui interruzione, compromissione o uso improprio può incidere sulla sicurezza delle persone, sui diritti, sul Paniere o sulla continuità di un servizio essenziale;
 
-    e) **funzione vitale:** funzione la cui interruzione può determinare un rischio immediato per la vita, la salute o l’accesso ai beni essenziali.
+    e) **funzione vitale:** funzione la cui interruzione può determinare un rischio immediato per la vita, la salute o l’accesso ai beni essenziali;
+
+    f) **robot:** macchina che si sposta o manipola oggetti in uno spazio in cui le persone sono o possono essere presenti, scegliendo da sé traiettoria o azione. Non sono robot gli apparecchi a ciclo fisso e gli impianti fissi protetti.
 
 3.  L’automazione è orientata a:
 
@@ -96,6 +98,16 @@ allineamento: "Costituzione V.29; Codice 1 V1.5; Codice 2 V1.5; Codice 3 V1.4; C
 7.  Nessun paywall o sistema di autenticazione proprietario può costituire una condizione generale per accedere alla Rete. L’accesso ordinario avviene tramite identità fiduciaria del Cerchio, senza obbligo di identità statale esterna, salvo specifici obblighi di interoperabilità approvati con procedura valida.
 
 8.  L’identità usata per accedere alla Rete non può essere impiegata per profilare, attribuire reputazione o monitorare la vita personale, secondo l’articolo 2.
+
+9.  **Dotazione minima.** L’accesso alla Rete previsto dal comma 6 è parte del Paniere di Sufficienza e non può essere subordinato al CBO o ai CdR. Comprende almeno:
+
+    a) un punto di accesso alla Rete in ogni alloggio che lo richieda o, dove non sia tecnicamente possibile, nel Cerchio 0;
+
+    b) per ogni membro che lo richieda dai dodici anni, un dispositivo personale di comunicazione, distinto dal Nodo dell’articolo 5-bis; prima, con la partecipazione delle figure di riferimento;
+
+    c) in ogni Cerchio 1, un punto di accesso assistito con dispositivi condivisi.
+
+    I dispositivi personali rispettano l’articolo 5 del Codice 2; se non è disponibile un dispositivo conforme, l’accesso è assicurato dalla lettera c). Per i dispositivi condivisi è ammessa la dipendenza residua dell’articolo 5, comma 2, lettera b), del Codice 2, con Piano di Sostituzione. I dispositivi sono forniti e riparati tramite i Magazzini, con il supporto del Consiglio Rete. Restano fermi il diritto alla disconnessione e le procedure non digitali dell’articolo 5-bis, commi 7 e 8. Le dotazioni sono proposte dal Consiglio Rete e confluiscono nell’Allegato Tecnico annuale dell’articolo 18, comma 2, del Codice 1. Le dotazioni delle lettere a) e b) sono differibili ai sensi dell’articolo 32, comma 1-bis, del Codice 1.
 
 ### Art. 4 — Consiglio Rete
 
@@ -282,6 +294,36 @@ vii. del tempo massimo di ripristino.
 
 5.  La classificazione iniziale e ogni sua modifica sono validate da una persona L3 competente e registrate nella STV. Le automazioni critiche e vitali sono sottoposte ad audit indipendente secondo l’articolo 8, comma 3.
 6.  Il tempo liberato dall’automazione non riduce l’accesso al Paniere e non comporta automaticamente un aumento del CBO obbligatorio. Può essere destinato al tempo libero, all’apprendimento, alla cura o alla deliberazione secondo le decisioni della Comunità.
+
+### Art. 6-bis — Robot e macchine autonome
+
+1.  Ai robot si applicano l’articolo 6 e le disposizioni del presente articolo.
+
+2.  I robot impiegati nel CBO o nella produzione per i Magazzini sono mezzi di produzione e Beni Comuni ai sensi dell’articolo 10.1 della Costituzione: non possono essere oggetto di proprietà privata né fonte di rendita. Il Cerchio che li custodisce ne possiede l’hardware e dispone degli schemi e di una copia verificabile del codice, ai sensi degli articoli 19.3 e 19.4 della Costituzione. Restano beni d’uso personale, ai sensi dell’articolo 10.3 della Costituzione, gli ausili e i dispositivi a uso esclusivamente individuale.
+
+3.  Ogni robot ha un arresto fisico indipendente dal software, che lo porta in uno stato sicuro. L’arresto è accessibile secondo la Scheda Sicurezza Generale del Codice 14; chiunque può azionarlo nei casi dell’articolo 2, comma 6, del medesimo Codice. Il robot opera sotto la supervisione di una persona abilitata in turno.
+
+4.  I limiti di forza, di velocità e di distanza dalle persone sono fissati dalla STV Macchine del Codice 14, sentito il Consiglio Rete. Nel dubbio prevale la separazione fisica tra la macchina e le persone. Fino all’attivazione del Codice 14, arresto e limiti sono fissati nella Scheda di Sicurezza dell’articolo 27 del Codice 1.
+
+5.  È vietato:
+
+    a) armare una macchina o impiegarla per costringere, trattenere o colpire una persona, ai sensi dell’articolo 16 della Costituzione e dell’articolo 2, comma 6, del presente Codice;
+
+    b) impiegarla per sorvegliare o profilare le persone, o per seguirle senza il loro consenso. Restano ammessi, con mezzi non biometrici e nei limiti dell’articolo 18 della Costituzione, il riconoscimento dell’operatore abilitato, la rilevazione anonima della presenza a fini di sicurezza e la ricerca di persone in pericolo. Restano fermi l’articolo 8-quinquies del Codice 14 e l’articolo 33 del Codice 4;
+
+    c) affidare a un robot le attività escluse dall’articolo 6, comma 2; resta fermo l’articolo 1, comma 4;
+
+    d) far dipendere da un robot una funzione vitale senza una procedura manuale sostitutiva documentata e provata.
+
+    I divieti delle lettere a) e b) valgono per ogni macchina, anche comandata a distanza.
+
+6.  Quando un robot disponibile nella Comunità può svolgere in sicurezza un compito che l’articolo 8, comma 1, del Codice 1 classifica per il rischio, nessuna persona può esservi assegnata, con qualsiasi modalità, salvi le prove periodiche della procedura manuale e i casi di guasto.
+
+7.  Prima di introdurre un robot sono confrontate, in UCR, le ore necessarie a costruirlo, alimentarlo, mantenerlo, formare chi lo usa e smaltirlo con le ore di lavoro che fa risparmiare. Il confronto è calcolato secondo gli articoli 5 e 9 del Codice 3 e certificato dal Consiglio Contabilità. Il tempo risparmiato è destinato secondo l’articolo 6, comma 6, e non può tradursi in un vantaggio per alcuni.
+
+8.  Il sistema che governa un robot è un’automazione ai sensi dell’articolo 1, comma 2, lettera a). Se impiega un’IA, questa è locale e a dominio limitato ai sensi dell’articolo 19.5 della Costituzione ed è validata dal Consiglio Rete. In nessun caso adotta le decisioni riservate alle persone dall’articolo 2, comma 8.
+
+9.  Il robot che non rispetta i commi 3, 4 e 5 è sospeso o disattivato ai sensi dell’articolo 9, commi 2 e 3. Restano ferme le qualificazioni degli articoli 16 e 18.6 della Costituzione. I robot già in uso si adeguano entro dodici mesi dall’entrata in vigore del presente articolo.
 
 ### Art. 7 — Dati, tracciamento e minimizzazione
 

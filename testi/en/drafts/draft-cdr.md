@@ -70,7 +70,7 @@ These are drafting choices. They serve to prevent recognition from rewarding pop
 | The whole quarter at the end of each quarter | 15 months | 24th month | 2.8 |
 | The whole quarter at the start of each quarter | 12 months | 21st month | 3.4 |
 
-Only the first respects both sentences of the paragraph: twelve months of full value and extinction at the twenty-fourth. It is the one used in this draft and put forward in [amendment proposal 9](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals.html). The first version of this page used the second, more generous one.
+Only the first respects both sentences of the paragraph: twelve months of full value and extinction at the twenty-fourth. It is the one used in this draft and written into Code 1 with [amendment proposal 9](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals.html), accepted on 19 October 2026. The first version of this page used the second, more generous one.
 
 | Months from accrual | Remaining value |
 |---|---|
@@ -180,10 +180,10 @@ The Code requires the table and the cap to be reviewed if more than one fifth of
 
 ## 9. Two points to be clarified in the texts
 
-They are not corrected here: they have become two [amendment proposals](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals.html), 9 and 10.
+They are not corrected here: they have become two [amendment proposals](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals.html), 9 and 10, accepted on 19 October 2026.
 
-1. **How the value declines.** Article 44, paragraph 3, says that CdR retain their value for twelve months, then lose one quarter per quarter and are extinguished “at the end of the twenty-fourth month”. It does not say whether the quarter is lost all at once or a little at a time. Proposal 9 chooses gradual reduction, in proportion to time, the only one that respects both sentences, and adds two missing rules: the oldest CdR are used first, and each CdR counts for the value it has at that moment.
-2. **What happens to the supplement of someone at the cap.** Article 44, paragraph 2, says that once the cap has been reached further activities do not give rise to CdR. Does this also apply to the supplement for unpleasant tasks performed within the CBO? The text does not say. Proposal 10 confirms that it does, and defines how the balance is measured.
+1. **How the value declines.** Article 44, paragraph 3, says that CdR retain their value for twelve months, then lose one quarter per quarter and are extinguished “at the end of the twenty-fourth month”. It does not say whether the quarter is lost all at once or a little at a time. Proposal 9 chose gradual reduction, in proportion to time, the only one that respects both sentences, and added two missing rules: the oldest CdR are used first, and each CdR counts for the value it has at that moment.
+2. **What happens to the supplement of someone at the cap.** Article 44, paragraph 2, says that once the cap has been reached further activities do not give rise to CdR. Does this also apply to the supplement for unpleasant tasks performed within the CBO? The text does not say. Proposal 10 confirmed that it does, and defined how the balance is measured.
 
 ## How to correct it
 

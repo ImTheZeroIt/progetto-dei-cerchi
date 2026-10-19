@@ -70,7 +70,7 @@ Ce sont des choix de rédaction. Ils servent à éviter que la reconnaissance r�
 | Tout le quart à la fin de chaque trimestre | 15 mois | 24e mois | 2,8 |
 | Tout le quart au début de chaque trimestre | 12 mois | 21e mois | 3,4 |
 
-Seule la première respecte les deux phrases de l’alinéa : douze mois de pleine valeur et extinction au vingt-quatrième. C’est celle qui est utilisée dans ce brouillon et proposée dans la [proposition de modification 9](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html). La première version de cette page utilisait la deuxième, plus généreuse.
+Seule la première respecte les deux phrases de l’alinéa : douze mois de pleine valeur et extinction au vingt-quatrième. C’est celle qui est utilisée dans ce brouillon et inscrite dans le Code 1 par la [proposition de modification 9](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html), acceptée le 19 octobre 2026. La première version de cette page utilisait la deuxième, plus généreuse.
 
 | Mois depuis l’acquisition | Valeur restante |
 |---|---|
@@ -180,10 +180,10 @@ Le Code demande de réexaminer le barème et le plafond si plus d’un cinquièm
 
 ## 9. Deux points à clarifier dans les textes
 
-Ils ne sont pas corrigés ici : ils sont devenus deux [propositions de modification](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html), la 9 et la 10.
+Ils ne sont pas corrigés ici : ils sont devenus deux [propositions de modification](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html), la 9 et la 10, acceptées le 19 octobre 2026.
 
-1. **Comment la valeur diminue.** L’article 44, alinéa 3, dit que les CdR conservent leur valeur pendant douze mois, puis perdent un quart par trimestre et s’éteignent « à la fin du vingt-quatrième mois ». Il ne dit pas si le quart est perdu en une seule fois ou peu à peu. La proposition 9 choisit la réduction progressive, proportionnelle au temps, la seule qui respecte les deux phrases, et ajoute deux règles qui manquent : les CdR les plus anciennes sont utilisées en premier, et chaque CdR compte pour la valeur qu’elle a à ce moment-là.
-2. **Ce qu’il advient de la majoration d’une personne qui a atteint le plafond.** L’article 44, alinéa 2, dit qu’une fois le plafond atteint, les activités supplémentaires ne donnent pas droit à des CdR. Cela vaut-il aussi pour la majoration des tâches désagréables accomplies dans la CBO ? Le texte ne le dit pas. La proposition 10 confirme que oui, et définit comment le solde est mesuré.
+1. **Comment la valeur diminue.** L’article 44, alinéa 3, dit que les CdR conservent leur valeur pendant douze mois, puis perdent un quart par trimestre et s’éteignent « à la fin du vingt-quatrième mois ». Il ne dit pas si le quart est perdu en une seule fois ou peu à peu. La proposition 9 a choisi la réduction progressive, proportionnelle au temps, la seule qui respecte les deux phrases, et a ajouté deux règles qui manquaient : les CdR les plus anciennes sont utilisées en premier, et chaque CdR compte pour la valeur qu’elle a à ce moment-là.
+2. **Ce qu’il advient de la majoration d’une personne qui a atteint le plafond.** L’article 44, alinéa 2, dit qu’une fois le plafond atteint, les activités supplémentaires ne donnent pas droit à des CdR. Cela vaut-il aussi pour la majoration des tâches désagréables accomplies dans la CBO ? Le texte ne le dit pas. La proposition 10 a confirmé que oui, et a défini comment le solde est mesuré.
 
 ## Comment corriger
 

@@ -1,12 +1,12 @@
 ---
 titolo: "C.1-ANNEX A — MATERIAL PRODUCTION AND WORKSHOPS"
 breve: "Annex A to Code 1 — Material production and workshops"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "allegati"
 ordine: 1.5
 id: "codice-01-annex-a"
 slug: "code-01-annex-a"
-allineamento: "Constitution V.29; Code 1 V1.5; Code 2 V1.5; Code 3 V1.4; Code 4 V1.4; Code 5 V1.3; Code 6 V1.5; Code 7 V1.6; Code 8 V1.3; Code 9 V3.1; Code 10 V1.3; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.3; Code 16 V1.4."
+allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 V1.4; Code 5 V1.4; Code 6 V1.5; Code 7 V1.7; Code 8 V1.4; Code 9 V3.1; Code 10 V1.4; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.4; Code 16 V1.4."
 ---
 
 ## Art. 1 — Subject matter, definitions and legal nature
@@ -127,11 +127,27 @@ allineamento: "Constitution V.29; Code 1 V1.5; Code 2 V1.5; Code 3 V1.4; Code 4 
 
     f) the components necessary for the maintenance of the functions of levels 1 and 2;
 
-    g) essential spare parts for the microgrid and for the Network node.
+    g) essential spare parts for the microgrid and for the Network node;
+
+    h) clothing and footwear suited to the climate and the season;
+
+    i) personal hygiene products, including menstrual products and those for early childhood and for incontinence.
+
+1-bis. The following rules apply to the goods of letters h) and i):
+
+a) by way of derogation from Article 1, paragraph 4, from delivery they are personal-use goods pursuant to Article 10.3 of the Constitution;
+
+b) Article 4 of Code 2 on the precedence of reuse and Articles 13.5 and 14.1 of the Constitution apply: washable or compostable products are preferred, and single-use products are permitted only under the conditions of Article 14.1;
+
+c) they are procured and distributed through the Textile and Housing Storehouse provided for by Article 14 of Code 1 and are included in the annual Technical Annex of Article 18, paragraph 2, of that Code;
+
+d) data on the withdrawal of the products of letter i) are neither published nor communicated in a form that identifies the person;
+
+e) they are deferrable within the meaning of Article 32, paragraph 1-bis, of Code 1, except for the products that the Health Council indicates as necessary for health; in the order of paragraph 5 they follow letter b).
 
 2.  Access to the Material Basket may not be made conditional on the CBO, on the possession of specific competences or on the presence of the person in a particular place, within the limits established by Code 1. The unavailability of a good necessary for a vital function activates the urgent priority procedure provided for by the competent Codes.
 
-3.  The minimum list of the Material Basket and the related stock thresholds are defined in an STV. The thresholds are expressed in days of autonomy and safety margin. The Assembly approves them on a proposal from the Production Council and obtains the opinion of the Health Council for PPE and for goods intended for frail persons.
+3.  The minimum list of the Material Basket and the related stock thresholds are defined in an STV. The thresholds are expressed in days of autonomy and safety margin; for the goods of letter h) of paragraph 1, as an allocation per person per year. The Assembly approves them on a proposal from the Production Council and obtains the opinion of the Health Council for PPE, for hygiene products and for goods intended for frail persons. For letters h) and i) of paragraph 1 the proposal lies with the Storehouse Council.
 
 4.  The list and the thresholds are reviewed at least once a year and whenever significant variations occur in the requirement, in availability or in safety conditions. The quantities and criteria are published, in compliance with safety needs.
 

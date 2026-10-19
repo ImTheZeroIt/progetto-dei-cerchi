@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 1 — DE LA CONTRIBUTION DE BASE OBLIGATOIRE ET DU SYSTÈME DES ENTREPÔTS COMMUNS"
 breve: "Code 1 — Contribution de base et Entrepôts communs"
-versione: "V1.5"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 1
 id: "codice-01"
 slug: "code-01"
-allineamento: "Constitution V.29 ; Code 2 V1.5 ; Code 3 V1.4 ; Code 4 V1.4 ; Code 5 V1.3 ; Code 6 V1.5 ; Code 7 V1.6 ; Code 8 V1.3 ; C.1-Annex A V1.3 ; Code 9 V3.1 ; Code 10 V1.3 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.3 ; Code 16 V1.4."
+allineamento: "Constitution V.29 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.4 ; Code 5 V1.4 ; Code 6 V1.5 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.4 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.4 ; Code 16 V1.4."
 ---
 
 ## TITRE I — PRINCIPES GÉNÉRAUX
@@ -178,7 +178,7 @@ allineamento: "Constitution V.29 ; Code 2 V1.5 ; Code 3 V1.4 ; Code 4 V1.4
 
 2.  Le travail effectué dans la plage nocturne est classé comme désagréable aux fins de l’allocation et de la reconnaissance prévues par le présent Code.
 
-3.  Les tâches désagréables, pénibles ou de nuit sont assignées selon l’ordre suivant :
+3.  Sans préjudice de l’article 6-bis, alinéa 6, du Code 7, les tâches désagréables, pénibles ou de nuit sont assignées selon l’ordre suivant :
 
     a) en premier lieu, elles peuvent être incluses dans un accord réparateur librement convenu en application du Code 4, dans le respect des garanties visées à l’alinéa 4 ;
 
@@ -541,6 +541,8 @@ La dérogation est motivée et enregistrée. Lorsqu’elle comporte un déplacem
 
     f) autres activités logistiques et activités différables.
 
+1-bis. Les biens du Panier que le Code ou l’Annexe qui les prévoit indique comme différables se placent après la lettre e) de l’alinéa 1.
+
 2.  La hiérarchie constitue un critère prépondérant pour résoudre les conflits de capacité, mais ne fonctionne pas comme un automatisme dispensé de l’évaluation des circonstances concrètes.
 
 3.  Une dérogation motivée est admise lorsqu’il est nécessaire de prévenir un dommage plus grave, immédiat et documenté, tel qu’une panne hydraulique qui compromet les Entrepôts, une interruption énergétique, un risque d’effondrement ou une rupture de la chaîne du froid. Dans ce cas :
@@ -679,6 +681,21 @@ La dérogation est motivée et enregistrée. Lorsqu’elle comporte un déplacem
 ### Art. 43 — Attribution
 
 1.  Donnent droit à des CdR les activités accomplies au-delà de la CBO qui produisent des biens pour les Entrepôts communs ou des services pour la Communauté, lorsque l’ouvrage, le bien ou le service est validé en application de l’article 9 de la Constitution et du Code 2.
+
+1-bis. Parmi les services pour la Communauté visés à l’alinéa 1 figurent les activités culturelles, artistiques et ludiques offertes en présence de la Communauté et ouvertes à tous ses membres, comme les spectacles, les concerts, les lectures et les fêtes. Les règles suivantes s’appliquent :
+
+a) acquiert des CdR la personne qui exécute ou conduit l’activité, et non celle qui y assiste ou y participe ;
+
+b) sont comptées les heures accomplies en présence et, pour la préparation, au plus autant d’heures ;
+
+c) la validation a lieu en application de l’article 9.2 de la Constitution ; les personnes qui font usage du service sont représentées par celles qui ont assisté. Si elle est positive, les CdR dépendent uniquement des heures. Si elle est négative, la suspension prévue par l’article 9, alinéa 4, du Code 2 ne s’applique pas ;
+
+d) l’alinéa 3 ne s’applique pas ;
+
+e) le barème public fixe une limite annuelle par personne ; en première application, soixante CdR ;
+
+f) sont exclus les activités de culte, celles qui sont réservées à une partie des membres et le temps déjà reconnu comme CBO en application de l’article 2, alinéa 3, du Code 5.
+
 2.  Une heure d’activité validée donne droit à une CdR. Les majorations de l’article 10 s’appliquent aux tâches désagréables, pénibles ou de nuit. Pour les déplacements visés à l’article 25, alinéa 5, le barème public fixe une majoration dans les mêmes limites.
 3.  Pour les ouvrages et les services d’une utilité commune particulière, l’Assemblée peut attribuer une reconnaissance d’utilité, motivée et publiée, dans la limite fixée par le barème public et en tout état de cause sans dépasser le nombre d’heures effectivement consacrées. L’évaluation prend en compte les principes de Soin, d’Autonomie, de Convivialité et de Sens visés à l’article 9.1 de la Constitution.
 4.  La CBO ordinaire et les fonctions civiques de la Liste D ne donnent pas droit à des CdR.
@@ -687,8 +704,8 @@ La dérogation est motivée et enregistrée. Lorsqu’elle comporte un déplacem
 ### Art. 44 — Registre, plafond et décroissance
 
 1.  Chaque personne dispose d’un registre personnel et confidentiel de ses CdR. Seules des données agrégées sont publiées.
-2.  Le solde personnel ne peut pas dépasser le plafond fixé par l’Assemblée générale en application de l’article 14 du Code 3. En première application, le plafond est de deux cent quarante CdR. Une fois le plafond atteint, les activités supplémentaires ne donnent pas droit à des CdR.
-3.  Les CdR non utilisées conservent leur valeur pendant douze mois à compter de leur acquisition. Elles diminuent ensuite d’un quart de leur valeur initiale par trimestre et s’éteignent à la fin du vingt-quatrième mois.
+2.  Le solde personnel ne peut pas dépasser le plafond fixé par l’Assemblée générale en application de l’article 14 du Code 3. En première application, le plafond est de deux cent quarante CdR. Le solde est la somme des valeurs actuelles des CdR non utilisées, vérifiée au moment de l’attribution. Les CdR sont attribuées jusqu’à concurrence du plafond ; au-delà, aucune autre n’est attribuée, y compris les majorations de l’article 10 et de l’article 43, alinéa 2.
+3.  Les CdR non utilisées conservent leur valeur pendant douze mois à compter de leur acquisition. À partir de la fin du douzième mois, la valeur diminue proportionnellement au temps, d’un douzième de la valeur initiale par mois, jusqu’à s’éteindre à la fin du vingt-quatrième. L’acquisition coïncide avec le jour où l’activité a été accomplie. Aux fins de l’utilisation et du plafond, chaque CdR compte pour la valeur qu’elle a à ce moment.
 4.  Les paramètres des alinéas 2 et 3 sont calibrés chaque année par l’Assemblée générale. Le calibrage ne peut supprimer ni le plafond ni la décroissance.
 5.  Au décès de la personne ou à la cessation du statut de membre, les CdR s’éteignent.
 6.  Pendant la suspension prévue par l’article 7.3 de la Constitution, les CdR ne peuvent être ni acquises ni utilisées.
@@ -703,9 +720,9 @@ La dérogation est motivée et enregistrée. Lorsqu’elle comporte un déplacem
 
     c) l’hébergement ordinaire dans les Maisons-relais, conformément au Code 11.
 
-2.  L’utilisation est proportionnée au coût de reproduction du bien ou du service, exprimé en UCR et publié dans le barème de l’article 46. Aux seules fins de l’utilisation, une CdR correspond à une UCR.
+2.  L’utilisation est proportionnée au coût de reproduction du bien ou du service, exprimé en UCR et publié dans le barème de l’article 46. Aux seules fins de l’utilisation, une CdR à pleine valeur correspond à une UCR.
 
-3.  Les CdR utilisées sont annulées et ne sont attribuées à personne.
+3.  Les CdR utilisées sont annulées et ne sont attribuées à personne. Les CdR dont l’acquisition est la plus ancienne sont utilisées en premier.
 
 4.  Les biens et les services non nécessaires restent accessibles même sans CdR, sur réservation ou au moyen d’une liste d’attente transparente. L’utilisation de CdR confère une priorité dans la limite d’une part de la disponibilité fixée par l’Assemblée, qui ne peut dépasser la moitié.
 
@@ -726,6 +743,30 @@ La dérogation est motivée et enregistrée. Lorsqu’elle comporte un déplacem
 2.  La propriété d’usage d’un logement, d’un atelier, d’un champ ou d’un outil collectif, en application de l’article 10.2 de la Constitution, est enregistrée auprès du Conseil des Entrepôts et, pour les aspects territoriaux, dans le Cadastre prévu par le Code 10. Elle se fonde sur l’usage effectif et continu.
 3.  La propriété d’usage cesse par renonciation, par défaut d’usage prolongé au-delà de douze mois sans justification ou par violation des limites de l’article 10.4 de la Constitution, constatée conformément au Code 4. Le logement principal ne peut pas être retiré sans l’attribution d’un autre logement adéquat.
 4.  L’interdiction de l’accumulation privée au-delà de sept jours des besoins du foyer, prévue par l’article 10.5 de la Constitution, concerne les biens prélevés dans les Entrepôts. Les nécessités motivées, notamment sanitaires, saisonnières ou d’isolement, sont réservées.
+
+### Art. 47-bis — Logement adéquat
+
+1.  Le logement prévu par l’article 1.2, lettre a), de la Constitution est adéquat lorsqu’il assure au moins :
+
+    a) un espace privatif pouvant être fermé pour chaque personne à partir de quatorze ans ; deux personnes ne le partagent que si toutes deux le demandent ;
+
+    b) une protection contre le froid, la chaleur et l’humidité suffisante pour ne pas nuire à la santé ;
+
+    c) l’accès au Panier eau et au Panier énergie prévus par le Code 8 ;
+
+    d) des espaces pour cuisiner et pour l’hygiène, propres ou partagés au sein du Cercle 0 ;
+
+    e) l’accessibilité nécessaire à la personne, selon son plan individuel de soin prévu par le Code 12.
+
+2.  Les normes quantitatives sont déterminées par l’Assemblée sur proposition conjointe du Conseil des Entrepôts et du Conseil Énergie et Eau, avec l’avis du Conseil Santé et du Conseil Habitat et Territoire. En première application, chaque logement comprend au moins un séjour et une chambre à coucher séparée ; le studio ne respecte pas la norme. Chaque Cercle 0 dispose d’au moins une salle de bains pour quatre personnes ou fraction de quatre ; au-delà de la première, les salles de bains peuvent être des sanitaires avec WC et lavabo. Les salles de bains peuvent être communes aux logements du même Cercle 0. Lorsqu’un Cercle 0 habite plusieurs logements, la surface se calcule sur le nombre total de ses personnes. La surface habitable n’est pas inférieure à trente mètres carrés pour une personne, quarante-cinq pour deux et soixante pour trois ; elle augmente de quinze mètres carrés pour chaque personne supplémentaire jusqu’à la cinquième et de dix pour chaque personne au-delà de la cinquième. Chaque espace privatif prévu à la lettre a) de l’alinéa 1 n’est pas inférieur à neuf mètres carrés. Les déterminations ultérieures ne peuvent pas descendre au-dessous des valeurs de première application sans l’avis conforme du Conseil Santé.
+
+3.  Les normes de l’alinéa 2 ne s’appliquent pas aux aires d’accueil équipées prévues par l’article 6-ter, alinéa 6, du Code 11.
+
+4.  Un logement qui ne respecte pas l’alinéa 1 ou les normes de l’alinéa 2 ne peut pas, pour ce motif, être retiré ni refusé. La Communauté inscrit sa mise en conformité dans la planification du logement, avec un délai qui ne dépasse pas trente-six mois, prorogeable une seule fois par délibération motivée de l’Assemblée. Un recours devant le Cercle de garantie est ouvert contre l’absence de mise en conformité. Pour la température, les articles 4 et 10 du Code 8 demeurent applicables.
+
+5.  Aux fins de l’article 47, alinéa 3, du présent Code et des articles 29 et 34 du Code 4, est adéquat le logement qui respecte l’alinéa 1. S’il n’y en a aucun de disponible, le meilleur logement disponible est attribué, et sa mise en conformité a la priorité dans la planification.
+
+6.  La mise en conformité s’effectue dans le respect des articles 2 et 5 du Code 10 : le réemploi et la récupération des bâtiments précèdent toute nouvelle construction. Jusqu’à l’activation des Codes 8 et 12, les lettres a), b) et d) de l’alinéa 1 et, de l’alinéa 2, la surface, la composition minimale et le nombre de salles de bains s’appliquent.
 
 ### Art. 48 — Succession dans les biens d’usage
 

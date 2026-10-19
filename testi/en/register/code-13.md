@@ -6,7 +6,7 @@ gruppo: "codici"
 ordine: 13
 id: "codice-13"
 slug: "code-13"
-allineamento: "Constitution V.29; Code 1 V1.5; Code 2 V1.5; Code 3 V1.4; Code 4 V1.4; Code 5 V1.3; Code 6 V1.5; Code 7 V1.6; Code 8 V1.3; C.1-Annex A V1.3; Code 9 V3.1; Code 10 V1.3; Code 11 V1.3; Code 12 V1.3; Code 14 V1.2; Code 15 V1.3; Code 16 V1.4."
+allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 V1.4; Code 5 V1.4; Code 6 V1.5; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.4; Code 11 V1.3; Code 12 V1.3; Code 14 V1.2; Code 15 V1.4; Code 16 V1.4."
 ---
 
 ## Art. 1 — Subject matter, definitions and legal nature

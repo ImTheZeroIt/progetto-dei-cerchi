@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 8 — ON ENERGY AND WATER"
 breve: "Code 8 — Energy and water"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "codici"
 ordine: 8
 id: "codice-08"
 slug: "code-08"
-allineamento: "Constitution V.29; Code 1 V1.5; Code 2 V1.5; Code 3 V1.4; Code 4 V1.4; Code 5 V1.3; Code 6 V1.5; Code 7 V1.6; C.1-Annex A V1.3; Code 9 V3.1; Code 10 V1.3; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.3; Code 16 V1.4."
+allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 V1.4; Code 5 V1.4; Code 6 V1.5; Code 7 V1.7; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.4; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.4; Code 16 V1.4."
 ---
 
 ## Art. 1 — Subject matter and legal nature
@@ -115,7 +115,7 @@ allineamento: "Constitution V.29; Code 1 V1.5; Code 2 V1.5; Code 3 V1.4; Code 4 
 
 3.  The unavailability of the minimum share necessary for a vital need constitutes a level 1 emergency.
 
-4.  The guaranteed minimum share is determined by the Assembly on a proposal from the Energy and Water Council and with the opinion of the Health Council for the aspects concerning frail persons.
+4.  The guaranteed minimum share is determined by the Assembly on a proposal from the Energy and Water Council and with the opinion of the Health Council for the aspects concerning frail persons. Without prejudice to all the services of paragraph 1, on first application domestic hot water is not less than twenty litres per person per day and minimum winter heating ensures in the inhabited rooms a temperature of not less than eighteen degrees Celsius. On a proposal from the Health Council, the Assembly may set a higher value for age groups. A temperature that the Assembly, on a proposal from the Health Council, sets as dangerous to health constitutes an emergency within the meaning of paragraph 3; until that resolution, the value indicated by the Health Council applies. Article 2, paragraph 2, applies: reducing the requirement precedes increasing production.
 
 5.  The determination shall consider at least:
 

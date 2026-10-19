@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 7 — DE L’AUTOMATISATION ET DU RÉSEAU"
 breve: "Code 7 — Automatisation et Réseau"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 7
 id: "codice-07"
 slug: "code-07"
-allineamento: "Constitution V.29 ; Code 1 V1.5 ; Code 2 V1.5 ; Code 3 V1.4 ; Code 4 V1.4 ; Code 5 V1.3 ; Code 6 V1.5 ; Code 8 V1.3 ; C.1-Annex A V1.3 ; Code 9 V3.1 ; Code 10 V1.3 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.3 ; Code 16 V1.4."
+allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.4 ; Code 5 V1.4 ; Code 6 V1.5 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.4 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.4 ; Code 16 V1.4."
 ---
 
 ## TITRE PRÉLIMINAIRE — PRINCIPES FONDAMENTAUX
@@ -25,7 +25,9 @@ allineamento: "Constitution V.29 ; Code 1 V1.5 ; Code 2 V1.5 ; Code 3 V1.4
 
     d) **fonction critique :** fonction dont l’interruption, la compromission ou l’usage abusif peut affecter la sécurité des personnes, les droits, le Panier ou la continuité d’un service essentiel ;
 
-    e) **fonction vitale :** fonction dont l’interruption peut entraîner un risque immédiat pour la vie, la santé ou l’accès aux biens essentiels.
+    e) **fonction vitale :** fonction dont l’interruption peut entraîner un risque immédiat pour la vie, la santé ou l’accès aux biens essentiels ;
+
+    f) **robot :** machine qui se déplace ou manipule des objets dans un espace où des personnes sont ou peuvent être présentes, en choisissant elle-même sa trajectoire ou son action. Ne sont pas des robots les appareils à cycle fixe et les installations fixes protégées.
 
 3.  L’automatisation vise à :
 
@@ -96,6 +98,16 @@ allineamento: "Constitution V.29 ; Code 1 V1.5 ; Code 2 V1.5 ; Code 3 V1.4
 7.  Aucun accès payant ni système d’authentification propriétaire ne peut constituer une condition générale d’accès au Réseau. L’accès ordinaire s’effectue au moyen de l’identité fiduciaire du Cercle, sans obligation d’identité étatique extérieure, sauf obligations spécifiques d’interopérabilité approuvées selon une procédure valable.
 
 8.  L’identité utilisée pour accéder au Réseau ne peut pas être employée pour profiler, attribuer une réputation ou surveiller la vie personnelle, conformément à l’article 2.
+
+9.  **Dotation minimale.** L’accès au Réseau prévu par l’alinéa 6 fait partie du Panier de suffisance et ne peut pas être subordonné à la CBO ou aux CdR. Il comprend au moins :
+
+    a) un point d’accès au Réseau dans chaque logement qui le demande ou, lorsque ce n’est pas techniquement possible, dans le Cercle 0 ;
+
+    b) pour chaque membre qui le demande à partir de douze ans, un dispositif personnel de communication, distinct du Nœud de l’article 5-bis ; avant cet âge, avec la participation des figures de référence ;
+
+    c) dans chaque Cercle 1, un point d’accès assisté doté de dispositifs partagés.
+
+    Les dispositifs personnels respectent l’article 5 du Code 2 ; si aucun dispositif conforme n’est disponible, l’accès est assuré par la lettre c). Pour les dispositifs partagés, la dépendance résiduelle de l’article 5, alinéa 2, lettre b), du Code 2 est admise, avec un Plan de substitution. Les dispositifs sont fournis et réparés par l’intermédiaire des Entrepôts, avec l’appui du Conseil Réseau. Le droit à la déconnexion et les procédures non numériques de l’article 5-bis, alinéas 7 et 8, demeurent applicables. Les dotations sont proposées par le Conseil Réseau et sont intégrées dans l’Annexe technique annuelle de l’article 18, alinéa 2, du Code 1. Les dotations des lettres a) et b) sont différables au sens de l’article 32, alinéa 1-bis, du Code 1.
 
 ### Art. 4 — Conseil Réseau
 
@@ -282,6 +294,36 @@ vii. du délai maximal de restauration.
 
 5.  La classification initiale et toute modification de celle-ci sont validées par une personne L3 compétente et enregistrées dans la STV. Les automatisations critiques et vitales sont soumises à un audit indépendant conformément à l’article 8, alinéa 3.
 6.  Le temps libéré par l’automatisation ne réduit pas l’accès au Panier et n’entraîne pas automatiquement une augmentation de la CBO obligatoire. Il peut être consacré au temps libre, à l’apprentissage, au soin ou à la délibération selon les décisions de la Communauté.
+
+### Art. 6-bis — Robots et machines autonomes
+
+1.  L’article 6 et les dispositions du présent article s’appliquent aux robots.
+
+2.  Les robots employés dans la CBO ou dans la production pour les Entrepôts sont des moyens de production et des Biens communs au sens de l’article 10.1 de la Constitution : ils ne peuvent faire l’objet d’aucune propriété privée ni être source de rente. Le Cercle qui en a la garde en possède le matériel et dispose des schémas et d’une copie vérifiable du code, en application des articles 19.3 et 19.4 de la Constitution. Les aides techniques et les dispositifs à usage exclusivement individuel restent des biens d’usage personnel au sens de l’article 10.3 de la Constitution.
+
+3.  Chaque robot dispose d’un arrêt physique indépendant du logiciel, qui le met dans un état sûr. L’arrêt est accessible conformément à la Fiche de sécurité générale du Code 14 ; toute personne peut l’actionner dans les cas de l’article 2, alinéa 6, du même Code. Le robot fonctionne sous la supervision d’une personne habilitée assurant son tour de service.
+
+4.  Les limites de force, de vitesse et de distance par rapport aux personnes sont fixées par la STV Machines du Code 14, après consultation du Conseil Réseau. En cas de doute, la séparation physique entre la machine et les personnes prévaut. Jusqu’à l’activation du Code 14, l’arrêt et les limites sont fixés dans la Fiche de sécurité de l’article 27 du Code 1.
+
+5.  Il est interdit :
+
+    a) d’armer une machine ou de l’employer pour contraindre, retenir ou frapper une personne, en application de l’article 16 de la Constitution et de l’article 2, alinéa 6, du présent Code ;
+
+    b) de l’employer pour surveiller ou profiler les personnes, ou pour les suivre sans leur consentement. Restent admis, par des moyens non biométriques et dans les limites de l’article 18 de la Constitution, la reconnaissance de l’opérateur habilité, la détection anonyme de la présence à des fins de sécurité et la recherche de personnes en danger. L’article 8-quinquies du Code 14 et l’article 33 du Code 4 demeurent applicables ;
+
+    c) de confier à un robot les activités exclues par l’article 6, alinéa 2 ; l’article 1, alinéa 4, demeure applicable ;
+
+    d) de faire dépendre d’un robot une fonction vitale sans une procédure manuelle de substitution documentée et éprouvée.
+
+    Les interdictions des lettres a) et b) valent pour toute machine, y compris commandée à distance.
+
+6.  Lorsqu’un robot disponible dans la Communauté peut accomplir en sécurité une tâche que l’article 8, alinéa 1, du Code 1 classe en raison du risque, aucune personne ne peut y être assignée, sous quelque modalité que ce soit, sauf pour les essais périodiques de la procédure manuelle et en cas de panne.
+
+7.  Avant d’introduire un robot, on compare, en UCR, les heures nécessaires pour le construire, l’alimenter, l’entretenir, former les personnes qui l’utilisent et l’éliminer avec les heures de travail qu’il permet d’économiser. La comparaison est calculée conformément aux articles 5 et 9 du Code 3 et certifiée par le Conseil Comptabilité. Le temps économisé est affecté conformément à l’article 6, alinéa 6, et ne peut pas se traduire par un avantage pour certains.
+
+8.  Le système qui gouverne un robot est une automatisation au sens de l’article 1, alinéa 2, lettre a). S’il emploie une IA, celle-ci est locale et à domaine limité au sens de l’article 19.5 de la Constitution et est validée par le Conseil Réseau. Elle n’adopte en aucun cas les décisions réservées aux personnes par l’article 2, alinéa 8.
+
+9.  Le robot qui ne respecte pas les alinéas 3, 4 et 5 est suspendu ou désactivé en application de l’article 9, alinéas 2 et 3. Les qualifications des articles 16 et 18.6 de la Constitution demeurent applicables. Les robots déjà en service sont mis en conformité dans un délai de douze mois à compter de l’entrée en vigueur du présent article.
 
 ### Art. 7 — Données, traçage et minimisation
 

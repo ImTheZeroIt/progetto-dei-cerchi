@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 8 — DE L’ÉNERGIE ET DE L’EAU"
 breve: "Code 8 — Énergie et eau"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "codici"
 ordine: 8
 id: "codice-08"
 slug: "code-08"
-allineamento: "Constitution V.29 ; Code 1 V1.5 ; Code 2 V1.5 ; Code 3 V1.4 ; Code 4 V1.4 ; Code 5 V1.3 ; Code 6 V1.5 ; Code 7 V1.6 ; C.1-Annex A V1.3 ; Code 9 V3.1 ; Code 10 V1.3 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.3 ; Code 16 V1.4."
+allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.4 ; Code 5 V1.4 ; Code 6 V1.5 ; Code 7 V1.7 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.4 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.4 ; Code 16 V1.4."
 ---
 
 ## Art. 1 — Objet et nature juridique
@@ -115,7 +115,7 @@ allineamento: "Constitution V.29 ; Code 1 V1.5 ; Code 2 V1.5 ; Code 3 V1.4
 
 3.  L’indisponibilité de la part minimale nécessaire à un besoin vital constitue une urgence de niveau 1.
 
-4.  La part minimale garantie est déterminée par l’Assemblée sur proposition du Conseil Énergie et Eau et avec l’avis du Conseil Santé pour les aspects concernant les personnes fragiles.
+4.  La part minimale garantie est déterminée par l’Assemblée sur proposition du Conseil Énergie et Eau et avec l’avis du Conseil Santé pour les aspects concernant les personnes fragiles. Sans préjudice de tous les services de l’alinéa 1, en première application, l’eau chaude sanitaire n’est pas inférieure à vingt litres par personne et par jour et le chauffage minimal en hiver assure dans les pièces habitées une température non inférieure à dix-huit degrés Celsius. Sur proposition du Conseil Santé, l’Assemblée peut fixer une valeur plus élevée pour des tranches d’âge. Constitue une urgence au sens de l’alinéa 3 la température que l’Assemblée, sur proposition du Conseil Santé, fixe comme dangereuse pour la santé ; jusqu’à cette délibération, la valeur indiquée par le Conseil Santé s’applique. L’article 2, alinéa 2, s’applique : la réduction des besoins précède l’augmentation de la production.
 
 5.  La détermination prend en compte au moins :
 

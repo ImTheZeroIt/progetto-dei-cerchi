@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 1 — DEL CONTRIBUTO DI BASE OBBLIGATORIO E DEL SISTEMA DEI MAGAZZINI COMUNI"
 breve: "Codice 1 — Contributo di base e Magazzini comuni"
-versione: "V1.5"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 1
 id: "codice-01"
 slug: "codice-01"
-allineamento: "Costituzione V.29; Codice 2 V1.5; Codice 3 V1.4; Codice 4 V1.4; Codice 5 V1.3; Codice 6 V1.5; Codice 7 V1.6; Codice 8 V1.3; C.1-Annex A V1.3; Codice 9 V3.1; Codice 10 V1.3; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.3; Codice 16 V1.4."
+allineamento: "Costituzione V.29; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.4; Codice 5 V1.4; Codice 6 V1.5; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.4; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.4; Codice 16 V1.4."
 ---
 
 ## TITOLO I — PRINCIPI GENERALI
@@ -178,7 +178,7 @@ allineamento: "Costituzione V.29; Codice 2 V1.5; Codice 3 V1.4; Codice 4 V1.4; C
 
 2.  Il lavoro svolto nella fascia notturna è classificato come sgradevole ai fini dell’allocazione e del riconoscimento previsti dal presente Codice.
 
-3.  I compiti sgradevoli, usuranti o notturni sono assegnati secondo il seguente ordine:
+3.  Salvo quanto previsto dall’articolo 6-bis, comma 6, del Codice 7, i compiti sgradevoli, usuranti o notturni sono assegnati secondo il seguente ordine:
 
     a) in primo luogo, possono essere inclusi in un accordo riparativo liberamente concordato ai sensi del Codice 4, nel rispetto delle garanzie di cui al comma 4;
 
@@ -541,6 +541,8 @@ La deroga è motivata e registrata. Quando comporta una trasferta, si applica la
 
     f) altre attività logistiche e attività differibili.
 
+1-bis. I beni del Paniere che il Codice o l’Allegato che li prevede indica come differibili si collocano dopo la lettera e) del comma 1.
+
 2.  La gerarchia costituisce un criterio prevalente per risolvere i conflitti di capacità, ma non opera come automatismo privo di valutazione delle circostanze concrete.
 
 3.  È ammessa una deroga motivata quando sia necessario prevenire un danno maggiore, immediato e documentato, come un guasto idrico che comprometta i Magazzini, un’interruzione energetica, un rischio di crollo o un’interruzione della catena del freddo. In tal caso:
@@ -679,6 +681,21 @@ La deroga è motivata e registrata. Quando comporta una trasferta, si applica la
 ### Art. 43 — Attribuzione
 
 1.  Danno diritto a CdR le attività ulteriori rispetto al CBO che producono beni per i Magazzini Comuni o servizi per la Comunità, quando l’opera, il bene o il servizio è validato ai sensi dell’articolo 9 della Costituzione e del Codice 2.
+
+1-bis. Tra i servizi per la Comunità del comma 1 rientrano le attività culturali, artistiche e ludiche offerte in presenza della Comunità e aperte a tutti i suoi membri, come spettacoli, concerti, letture e feste. Si applicano le regole seguenti:
+
+a) matura CdR chi esegue o conduce l’attività, non chi vi assiste o vi partecipa;
+
+b) si contano le ore svolte in presenza e, per la preparazione, non più di altrettante;
+
+c) la validazione avviene ai sensi dell’articolo 9.2 della Costituzione; chi fruisce è rappresentato da chi ha assistito. Se è positiva, i CdR dipendono soltanto dalle ore. Se è negativa, non si applica la sospensione prevista dall’articolo 9, comma 4, del Codice 2;
+
+d) non si applica il comma 3;
+
+e) la tabella pubblica fissa un limite annuo per persona; in prima applicazione, sessanta CdR;
+
+f) sono escluse le attività di culto, quelle riservate a una parte dei membri e il tempo già riconosciuto come CBO ai sensi dell’articolo 2, comma 3, del Codice 5.
+
 2.  Un’ora di attività validata attribuisce un CdR. Si applicano le maggiorazioni dell’articolo 10 per i compiti sgradevoli, usuranti o notturni. Per le trasferte dell’articolo 25, comma 5, la tabella pubblica stabilisce una maggiorazione entro i medesimi limiti.
 3.  Per le opere e i servizi di particolare utilità comune l’Assemblea può attribuire un riconoscimento di utilità, motivato e pubblicato, entro il limite stabilito dalla tabella pubblica e comunque non superiore al numero di ore effettivamente impiegate. La valutazione considera i principi di Cura, Autonomia, Convivialità e Senso di cui all’articolo 9.1 della Costituzione.
 4.  Non danno diritto a CdR il CBO ordinario e le funzioni civiche della Lista D.
@@ -687,8 +704,8 @@ La deroga è motivata e registrata. Quando comporta una trasferta, si applica la
 ### Art. 44 — Registro, tetto e decrescenza
 
 1.  Ogni persona dispone di un registro personale e riservato dei propri CdR. Sono pubblicati soltanto dati aggregati.
-2.  Il saldo personale non può superare il tetto stabilito dall’Assemblea Generale ai sensi dell’articolo 14 del Codice 3. In prima applicazione il tetto è di duecentoquaranta CdR. Raggiunto il tetto, le attività ulteriori non attribuiscono CdR.
-3.  I CdR non impiegati conservano il proprio valore per dodici mesi dalla maturazione. Successivamente si riducono di un quarto del valore iniziale per ogni trimestre e si estinguono al termine del ventiquattresimo mese.
+2.  Il saldo personale non può superare il tetto stabilito dall’Assemblea Generale ai sensi dell’articolo 14 del Codice 3. In prima applicazione il tetto è di duecentoquaranta CdR. Il saldo è la somma dei valori attuali dei CdR non impiegati, verificata al momento dell’attribuzione. I CdR sono attribuiti fino a concorrenza del tetto; oltre non ne sono attribuiti altri, comprese le maggiorazioni dell’articolo 10 e dell’articolo 43, comma 2.
+3.  I CdR non impiegati conservano il proprio valore per dodici mesi dalla maturazione. Dal compimento del dodicesimo mese il valore si riduce in proporzione al tempo, di un dodicesimo del valore iniziale al mese, fino a estinguersi al compimento del ventiquattresimo. La maturazione coincide con il giorno in cui l’attività è stata svolta. Ai fini dell’impiego e del tetto ogni CdR conta per il valore che ha in quel momento.
 4.  I parametri dei commi 2 e 3 sono calibrati ogni anno dall’Assemblea Generale. La calibrazione non può eliminare il tetto né la decrescenza.
 5.  Alla morte della persona o alla cessazione dello status di membro i CdR si estinguono.
 6.  Durante la sospensione prevista dall’articolo 7.3 della Costituzione i CdR non possono essere maturati né impiegati.
@@ -703,9 +720,9 @@ La deroga è motivata e registrata. Quando comporta una trasferta, si applica la
 
     c) l’ospitalità ordinaria nelle Case Ponte, secondo il Codice 11.
 
-2.  L’impiego è commisurato al costo di riproduzione del bene o del servizio, espresso in UCR e pubblicato nella tabella dell’articolo 46. Ai soli fini dell’impiego, un CdR corrisponde a una UCR.
+2.  L’impiego è commisurato al costo di riproduzione del bene o del servizio, espresso in UCR e pubblicato nella tabella dell’articolo 46. Ai soli fini dell’impiego, un CdR a valore pieno corrisponde a una UCR.
 
-3.  I CdR impiegati sono annullati e non sono attribuiti ad alcuno.
+3.  I CdR impiegati sono annullati e non sono attribuiti ad alcuno. Si impiegano per primi i CdR di maturazione più remota.
 
 4.  I beni e i servizi non necessari restano accessibili anche senza CdR, mediante prenotazione o lista d’attesa trasparente. L’impiego di CdR attribuisce una precedenza entro una quota della disponibilità stabilita dall’Assemblea, non superiore alla metà.
 
@@ -726,6 +743,30 @@ La deroga è motivata e registrata. Quando comporta una trasferta, si applica la
 2.  La proprietà d’uso di un’abitazione, di un laboratorio, di un campo o di uno strumento collettivo, ai sensi dell’articolo 10.2 della Costituzione, è registrata presso il Consiglio di Magazzino e, per i profili territoriali, nel Catasto previsto dal Codice 10. Si fonda sull’uso effettivo e continuativo.
 3.  La proprietà d’uso cessa per rinuncia, per mancato uso protratto oltre dodici mesi senza giustificazione o per violazione dei limiti dell’articolo 10.4 della Costituzione, accertata secondo il Codice 4. L’abitazione principale non può essere revocata senza l’assegnazione di un altro alloggio adeguato.
 4.  Il divieto di accumulo privato oltre sette giorni del fabbisogno familiare, previsto dall’articolo 10.5 della Costituzione, riguarda i beni prelevati dai Magazzini. Sono fatte salve le necessità motivate, in particolare sanitarie, stagionali o di isolamento.
+
+### Art. 47-bis — Alloggio adeguato
+
+1.  L’alloggio previsto dall’articolo 1.2, lettera a), della Costituzione è adeguato quando assicura almeno:
+
+    a) uno spazio riservato e chiudibile per ogni persona dai quattordici anni; due persone lo condividono soltanto se entrambe lo chiedono;
+
+    b) una protezione dal freddo, dal caldo e dall’umidità sufficiente a non nuocere alla salute;
+
+    c) l’accesso al Paniere Acqua e al Paniere Energia previsti dal Codice 8;
+
+    d) spazi per cucinare e per l’igiene, propri o condivisi nel Cerchio 0;
+
+    e) l’accessibilità necessaria alla persona, secondo il suo piano individuale di cura previsto dal Codice 12.
+
+2.  Gli standard quantitativi sono determinati dall’Assemblea su proposta congiunta del Consiglio di Magazzino e del Consiglio Energia e Acqua, con il parere del Consiglio Salute e del Consiglio Habitat e Territorio. In prima applicazione ogni alloggio comprende almeno un soggiorno e una camera da letto separata; il monolocale non rispetta lo standard. Ogni Cerchio 0 dispone di almeno un bagno ogni quattro persone o frazione; oltre il primo, i bagni possono essere servizi con wc e lavabo. I bagni possono essere comuni agli alloggi dello stesso Cerchio 0. Quando un Cerchio 0 abita più alloggi, la superficie si calcola sul numero totale delle sue persone. La superficie abitabile non è inferiore a trenta metri quadrati per una persona, quarantacinque per due e sessanta per tre; aumenta di quindici metri quadrati per ciascuna persona in più fino alla quinta e di dieci per ciascuna oltre la quinta. Ogni spazio riservato previsto dalla lettera a) del comma 1 non è inferiore a nove metri quadrati. Le determinazioni successive non possono scendere sotto i valori di prima applicazione senza il parere conforme del Consiglio Salute.
+
+3.  Gli standard del comma 2 non si applicano alle aree di sosta attrezzate previste dall’articolo 6-ter, comma 6, del Codice 11.
+
+4.  Un alloggio che non rispetta il comma 1 o gli standard del comma 2 non può per questo essere revocato né negato. La Comunità iscrive l’adeguamento nella pianificazione abitativa, con un termine non superiore a trentasei mesi, prorogabile una sola volta con deliberazione motivata dell’Assemblea. Contro il mancato adeguamento è ammesso ricorso al Cerchio di Garanzia. Per la temperatura restano fermi gli articoli 4 e 10 del Codice 8.
+
+5.  Ai fini dell’articolo 47, comma 3, del presente Codice e degli articoli 29 e 34 del Codice 4 è adeguato l’alloggio che rispetta il comma 1. Se non ve n’è uno disponibile è assegnato il migliore disponibile, e il suo adeguamento ha la precedenza nella pianificazione.
+
+6.  L’adeguamento avviene nel rispetto degli articoli 2 e 5 del Codice 10: il riuso e il recupero degli edifici precedono ogni nuova edificazione. Fino all’attivazione dei Codici 8 e 12 si applicano le lettere a), b) e d) del comma 1 e, del comma 2, la superficie, la composizione minima e il numero dei bagni.
 
 ### Art. 48 — Successione nei beni d’uso
 

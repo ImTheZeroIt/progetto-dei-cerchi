@@ -1,12 +1,12 @@
 ---
 titolo: "C.1-ANNEX A — PRODUZIONE MATERIALE E OFFICINE"
 breve: "Annex A al Codice 1 — Produzione materiale e officine"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "allegati"
 ordine: 1.5
 id: "codice-01-annex-a"
 slug: "codice-01-annex-a"
-allineamento: "Costituzione V.29; Codice 1 V1.5; Codice 2 V1.5; Codice 3 V1.4; Codice 4 V1.4; Codice 5 V1.3; Codice 6 V1.5; Codice 7 V1.6; Codice 8 V1.3; Codice 9 V3.1; Codice 10 V1.3; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.3; Codice 16 V1.4."
+allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.4; Codice 5 V1.4; Codice 6 V1.5; Codice 7 V1.7; Codice 8 V1.4; Codice 9 V3.1; Codice 10 V1.4; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.4; Codice 16 V1.4."
 ---
 
 ## Art. 1 — Oggetto, definizioni e natura giuridica
@@ -127,11 +127,27 @@ allineamento: "Costituzione V.29; Codice 1 V1.5; Codice 2 V1.5; Codice 3 V1.4; C
 
     f) i componenti necessari alla manutenzione delle funzioni dei livelli 1 e 2;
 
-    g) i ricambi essenziali per la microrete e per il nodo della Rete.
+    g) i ricambi essenziali per la microrete e per il nodo della Rete;
+
+    h) il vestiario e le calzature adeguati al clima e alla stagione;
+
+    i) i prodotti per l’igiene personale, compresi quelli mestruali, per la prima infanzia e per l’incontinenza.
+
+1-bis. Per i beni delle lettere h) e i) valgono le regole seguenti:
+
+a) in deroga all’articolo 1, comma 4, dalla consegna sono beni d’uso personale ai sensi dell’articolo 10.3 della Costituzione;
+
+b) si applicano l’articolo 4 del Codice 2 sulla precedenza del riuso e gli articoli 13.5 e 14.1 della Costituzione: sono preferiti i prodotti lavabili o compostabili, e i prodotti monouso sono ammessi soltanto alle condizioni dell’articolo 14.1;
+
+c) sono acquistati e distribuiti tramite il Magazzino Tessile e Abitativo previsto dall’articolo 14 del Codice 1 e confluiscono nell’Allegato Tecnico annuale dell’articolo 18, comma 2, del medesimo Codice;
+
+d) i dati sui prelievi dei prodotti della lettera i) non sono pubblicati né comunicati in forma che identifichi la persona;
+
+e) sono differibili ai sensi dell’articolo 32, comma 1-bis, del Codice 1, salvo i prodotti che il Consiglio Salute indica come necessari alla salute; nell’ordine del comma 5 seguono la lettera b).
 
 2.  L’accesso al Paniere Materiale non può essere subordinato al CBO, al possesso di specifiche competenze o alla presenza della persona in un particolare luogo, nei limiti stabiliti dal Codice 1. L’indisponibilità di un bene necessario a una funzione vitale attiva la procedura di priorità urgente prevista dai Codici competenti.
 
-3.  La lista minima del Paniere Materiale e le relative soglie di scorta sono definite in una STV. Le soglie sono espresse in giorni di autonomia e margine di sicurezza. L’Assemblea le approva su proposta del Consiglio Produzione e acquisisce il parere del Consiglio Salute per i DPI e per i beni destinati alle persone fragili.
+3.  La lista minima del Paniere Materiale e le relative soglie di scorta sono definite in una STV. Le soglie sono espresse in giorni di autonomia e margine di sicurezza; per i beni della lettera h) del comma 1, come dotazione per persona all’anno. L’Assemblea le approva su proposta del Consiglio Produzione e acquisisce il parere del Consiglio Salute per i DPI, per i prodotti per l’igiene e per i beni destinati alle persone fragili. Per le lettere h) e i) del comma 1 la proposta spetta al Consiglio di Magazzino.
 
 4.  La lista e le soglie sono riesaminate almeno una volta all’anno e ogni volta che intervengano variazioni rilevanti del fabbisogno, della disponibilità o delle condizioni di sicurezza. Le quantità e i criteri sono pubblicati, nel rispetto delle esigenze di sicurezza.
 

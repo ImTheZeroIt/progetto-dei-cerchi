@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 10 — HABITAT E TERRITORIO"
 breve: "Codice 10 — Habitat e territorio"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "codici"
 ordine: 10
 id: "codice-10"
 slug: "codice-10"
-allineamento: "Costituzione V.29; Codice 1 V1.5; Codice 2 V1.5; Codice 3 V1.4; Codice 4 V1.4; Codice 5 V1.3; Codice 6 V1.5; Codice 7 V1.6; Codice 8 V1.3; C.1-Annex A V1.3; Codice 9 V3.1; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.3; Codice 16 V1.4."
+allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.4; Codice 5 V1.4; Codice 6 V1.5; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.4; Codice 16 V1.4."
 ---
 
 ## Art. 1 — Oggetto, definizioni e natura giuridica
@@ -25,7 +25,9 @@ allineamento: "Costituzione V.29; Codice 1 V1.5; Codice 2 V1.5; Codice 3 V1.4; C
 
     f) il Catasto territoriale federato;
 
-    g) la georeferenziazione delle infrastrutture comuni.
+    g) la georeferenziazione delle infrastrutture comuni;
+
+    h) il sottosuolo, i giacimenti e l’inventario dei materiali recuperabili.
 
 2.  Ai fini del presente Codice si intende per:
 
@@ -37,7 +39,11 @@ allineamento: "Costituzione V.29; Codice 1 V1.5; Codice 2 V1.5; Codice 3 V1.4; C
 
     d) **occupazione irreversibile:** trasformazione del suolo che comporta impermeabilizzazione permanente, rimozione dello strato fertile o perdita di funzionalità non ripristinabile senza un intervento strutturale di rigenerazione;
 
-    e) **occupazione reversibile:** uso temporaneo del suolo che conserva integralmente lo strato fertile e consente il ripristino completo della funzionalità definita dalla STV Rigenerazione entro ventiquattro mesi. Se il ripristino non avviene entro tale termine, l’occupazione è classificata come consumo lordo a decorrere dalla data iniziale dell’occupazione.
+    e) **occupazione reversibile:** uso temporaneo del suolo che conserva integralmente lo strato fertile e consente il ripristino completo della funzionalità definita dalla STV Rigenerazione entro ventiquattro mesi. Se il ripristino non avviene entro tale termine, l’occupazione è classificata come consumo lordo a decorrere dalla data iniziale dell’occupazione;
+
+    f) **risorse minerarie:** i metalli, i minerali e le rocce allo stato naturale, nel sottosuolo o affioranti, e quelli contenuti in discariche e in depositi di scarti di estrazioni passate, finché non sono recuperati; non comprendono l’acqua, disciplinata dal Codice 8;
+
+    g) **giacimento:** concentrazione di risorse minerarie accertata e iscritta nel Catasto.
 
 3.  Sono beni comuni infrastrutturali inalienabili:
 
@@ -49,7 +55,9 @@ allineamento: "Costituzione V.29; Codice 1 V1.5; Codice 2 V1.5; Codice 3 V1.4; C
 
     d) le fasce di rispetto per l’impollinazione e la salute;
 
-    e) la banca territoriale seminaturale.
+    e) la banca territoriale seminaturale;
+
+    f) il sottosuolo e le risorse minerarie. La qualificazione non restringe il significato delle parole «terra» e «suolo» usate dalla Costituzione.
 
 4.  La qualificazione territoriale del suolo è determinata in base alla sua funzione ecologica e territoriale, come registrata nel Catasto territoriale federato. Essa non dipende dal precedente uso del suolo né da eventuali pretese di proprietà individuale.
 
@@ -102,7 +110,9 @@ La deroga è deliberata dall’Assemblea su proposta del Consiglio Agroecologico
 
     f) alimenta il Registro Dipendenze del Codice 15 per le dipendenze territoriali di cui all’articolo 8, comma 5;
 
-    g) coordina la propria attività con i Consigli Energia e Acqua del Codice 8, Agroecologico del Codice 9, Biodiversità del Codice 13 e Produzione del C.1-Annex A.
+    g) coordina la propria attività con i Consigli Energia e Acqua del Codice 8, Agroecologico del Codice 9, Biodiversità del Codice 13 e Produzione del C.1-Annex A;
+
+    h) tiene l’inventario dei materiali recuperabili previsto dall’articolo 8-bis.
 
 4.  Gli atti del Consiglio sono distinti in:
 
@@ -205,13 +215,13 @@ La deroga è deliberata dall’Assemblea su proposta del Consiglio Agroecologico
 
 ## Art. 7 — Catasto territoriale federato e georeferenziazione
 
-1.  È istituito il Catasto territoriale federato, che comprende inventari e informazioni su suoli, corridoi ecologici, fasce di rispetto, rifugi per impollinatori e infrastrutture idriche agricole. I dati pubblici sono aggregati e non profilanti, in conformità al Codice 7, articolo 2.2.
+1.  È istituito il Catasto territoriale federato, che comprende inventari e informazioni su suoli, corridoi ecologici, fasce di rispetto, rifugi per impollinatori, infrastrutture idriche agricole, giacimenti e materiali recuperabili. I dati pubblici sono aggregati e non profilanti, in conformità al Codice 7, articolo 2.2.
 
 2.  Il Catasto prevede i seguenti livelli di accesso:
 
     a) **livello pubblico:** mappa aggregata con un livello di dettaglio che non consenta di identificare persone, singoli rifugi o campi individuali o infrastrutture sensibili;
 
-    b) **livello tecnico:** dati georeferenziati di precisione, accessibili esclusivamente ai Consigli Habitat e Territorio, Agroecologico e Biodiversità per finalità tecniche documentate di sicurezza, pianificazione o verifica delle fasce;
+    b) **livello tecnico:** dati georeferenziati di precisione, accessibili esclusivamente ai Consigli Habitat e Territorio, Agroecologico e Biodiversità e, per l’inventario dei materiali recuperabili, al Consiglio Produzione, per finalità tecniche documentate di sicurezza, pianificazione o verifica delle fasce;
 
     c) **interoperabilità federata:** scambio dei dati necessari tra Cerchi con anonimizzazione e rispetto delle autorizzazioni.
 
@@ -239,11 +249,31 @@ La deroga è deliberata dall’Assemblea su proposta del Consiglio Agroecologico
 
 5.  Per **dipendenza territoriale** si intende una dipendenza critica da suolo fertile, corridoi ecologici, accessibilità territoriale, infrastrutture o localizzazioni non sostituibili, necessaria al mantenimento di una funzione essenziale di livello 1–3. Le dipendenze territoriali sono registrate secondo il Codice 15.
 
+## Art. 8-bis — Materie prime: recupero e inventario
+
+1.  Il Consiglio Habitat e Territorio tiene nel Catasto, e aggiorna ogni anno, l’inventario dei materiali recuperabili presenti nel territorio: edifici, veicoli e impianti dismessi, discariche, scarti di estrazioni passate e materiali provenienti dalla conversione prevista dall’articolo 16.2 della Costituzione. L’inventario è messo a disposizione del Consiglio Produzione ai fini degli articoli 2 e 5 del C.1-Annex A.
+
+2.  I giacimenti sono Beni Comuni affidati in custodia alla Comunità nel cui territorio si trovano. La custodia non dà diritto a rendita.
+
+3.  Lo scavo di una discarica o di un deposito di scarti di estrazioni passate, per recuperarne i materiali, richiede congiuntamente, ferma la matrice dell’articolo 7 del Codice 3:
+
+    a) i pareri obbligatori dei Consigli Habitat e Territorio, Biodiversità, Energia e Acqua e Salute;
+
+    b) una Scheda Sicurezza Generale ai sensi del Codice 14;
+
+    c) un piano di ripristino approvato prima dell’inizio, le cui ore sono contate insieme a quelle del recupero, e un piano per la parte non recuperabile conforme all’articolo 14.5 della Costituzione;
+
+    d) la deliberazione dell’Assemblea della Comunità nel cui territorio si trova il sito; se lo scavo può incidere su acque o corridoi ecologici comuni a più Comunità, delibera l’Assemblea Generale.
+
+4.  Lo scavo del comma 3 è vietato nei santuari ecologici e nelle aree candidate a diventarlo, nelle aree umide e nelle aree di infiltrazione strategica. Prima dell’attivazione dei Codici 13 e 14 non è ammesso. Lo scavo conforme al comma 3 è uso conforme a una Scheda vigente ai fini dell’articolo 6, comma 4, del Codice 16. Restano fermi il presente Codice e il Codice 13.
+
+5.  Il presente articolo non autorizza nuove estrazioni né l’ampliamento di quelle esistenti. Resta fermo l’articolo 14.2 della Costituzione.
+
 ## Art. 9 — Divieti e garanzie
 
 1.  È vietato:
 
-    a) generare rendita sul suolo fertile comune, sui corridoi ecologici o sulle fasce di rispetto;
+    a) generare rendita sul suolo fertile comune, sul sottosuolo, sulle risorse minerarie, sui corridoi ecologici o sulle fasce di rispetto;
 
     b) produrre consumo netto di suolo fertile senza compensazione territoriale ed ecologica equivalente ai sensi dell’articolo 4, comma 4, e della STV Rigenerazione;
 

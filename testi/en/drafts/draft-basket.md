@@ -176,7 +176,7 @@ This draft says what is needed. It does not yet say how much labour it costs. Th
 
 ## 12. Gaps in the texts found while writing the draft
 
-They are not corrected here. For each one there is an [open amendment proposal](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals.html), with the text of the new paragraphs: it remains under discussion at least until 20 October 2026.
+They are not corrected here. For each one there was an [amendment proposal](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals.html), accepted on 19 October 2026: the text is now in the Codes.
 
 1. **Clothing and hygiene products** do not appear in any Basket. The Material Basket names linen, not clothes.
 2. **Housing** is a constitutional right, but no Code sets its floor area, temperature or privacy.

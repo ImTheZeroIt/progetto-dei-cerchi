@@ -176,7 +176,7 @@ Ce brouillon dit ce qui est nécessaire. Il ne dit pas encore combien de travail
 
 ## 12. Lacunes des textes relevées en écrivant le brouillon
 
-Elles ne sont pas corrigées ici. Pour chacune, il existe une [proposition de modification ouverte](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html), avec le texte des nouveaux alinéas : elle reste en discussion au moins jusqu’au 20 octobre 2026.
+Elles ne sont pas corrigées ici. Pour chacune, il existait une [proposition de modification](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html), acceptée le 19 octobre 2026, avec le texte des nouveaux alinéas : ce texte figure désormais dans les Codes.
 
 1. **L’habillement et les produits d’hygiène** ne figurent dans aucun Panier. Le Panier matériel nomme le linge, pas les vêtements.
 2. **Le logement** est un droit constitutionnel, mais aucun Code n’en fixe la surface, la température ou l’intimité.

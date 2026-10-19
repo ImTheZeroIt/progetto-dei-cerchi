@@ -1,16 +1,12 @@
-# Open change proposals
+# Change proposals (archive)
 
 *Working translation. The Italian text is the authoritative one.*
 
-This page collects the substantive changes that have been proposed and not yet decided. None is in force: the texts remain those published in the register. Under the rules set out in [How to contribute](https://imthezeroit.github.io/progetto-dei-cerchi/en/contributing.html), every proposal remains open for discussion for at least fourteen days before the decision.
+This page collects the eleven change proposals published between 5 and 19 October 2026. **They were all accepted on 19 October 2026** and their text is now in the Codes; the entries are in the [register of changes](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/changes.html). The page remains as an archive, because for each change it explains the problem, the reason, the cost and the points still open.
 
-**This is version 2.** The first version, of 5 October 2026, was put through an [adversarial review](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals-review.html): independent readings whose only task was to find defects. None of the eleven proposals held up as it was. Here they are rewritten, and for each one it is stated what has changed. The rewrite was also read again in the same way: the objections found have been corrected, and those that remain are indicated as open points. Since the texts have changed, the fourteen days start again.
+**How the rules change now.** From 19 October 2026 changes no longer go through a period of discussion: when a correction has been verified it is applied directly and recorded with the date, the text and the reason. Anyone can report a problem or propose a change, as explained in [How to contribute](https://imthezeroit.github.io/progetto-dei-cerchi/en/contributing.html), and any change can be withdrawn if it proves wrong.
 
-- **Version 2 of:** 6 October 2026.
-- **Decision not before:** 20 October 2026.
-- **Addition of 10 October 2026:** the texts of the alignments of proposals 7 and 8, which were previously only announced. They do not change the proposals.
-- **Version 3 of proposal 2, of 12 October 2026:** the measurements of adequate dwelling change. For this proposal alone the fourteen days start again: the decision is not before 26 October 2026.
-- **To discuss them:** the [open issues](https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues?q=is%3Aissue%20state%3Aopen%20in%3Atitle%20%22Proposta%20di%20modifica%22) whose title begins with “Proposta di modifica”, or [zerocirclesproject@gmail.com](mailto:zerocirclesproject@gmail.com).
+The first version of the proposals, of 5 October 2026, had been put through an [adversarial review](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/proposals-review.html): none had held up as it was. Version 2, of 6 October, rewrote them. Proposal 2 was rewritten again on 12 and 19 October (versions 3 and 4). The final version was checked with the [coherence review](https://imthezeroit.github.io/progetto-dei-cerchi/registro/verifica-coerenza.html) of 19 October (in Italian).
 
 The first four proposals arise from the [draft Annex on the Sufficiency Basket](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/draft-basket.html). The fifth, ninth and tenth concern the Recognition Contribution. The sixth and seventh concern the subsoil and raw materials. The eighth concerns robots. The eleventh concerns the economic thresholds for decisions.
 
@@ -19,10 +15,12 @@ The first four proposals arise from the [draft Annex on the Sufficiency Basket](
 Three things that the first version did not say.
 
 - **What enters the Basket rises in priority.** When time is not enough, the distribution of the goods of the Basket comes before the care of frail persons and the maintenance of water and energy (Code 1, Art. 32). For this reason proposal 1 adds a rule to that Article: the goods of the Basket indicated as deferrable come after. It applies to clothing, to hygiene products that are not needed for health and to the devices of proposal 3. It does not apply to the two values of proposal 4, hot water and heating, which remain in the minimum share.
-- **A good of the Basket bought outside is a critical dependency.** It requires an Exit Plan with a definite time limit (Code 15, Art. 12). Deferrable goods do not, however, enter the “levels 1 and 2” on which Code 16 measures self-production of seventy per cent (Art. 1, letter f, and Art. 4): they do not slow down the change of phase.
+- **A good of the Basket bought outside is a critical dependency.** It requires an Exit Plan with a definite time limit (Code 15, Art. 12). Deferrable goods do not, however, enter the “levels 1 and 2” on which Code 16 measures self-production of seventy per cent (Art. 1, letter f, and Art. 4): they do not slow down the changes from Phase 0 to Phase 1 and from Phase 1 to Phase 2. They do, however, weigh on the objectives of Phase 3 and on the change to Phase 4, which require overcoming half of the critical dependencies and an Exit Plan with a definite time limit for each of those remaining (Code 16, Art. 3, para. 4, letter c, and Art. 4, para. 4, letter b).
 - **Administrative time is not estimated.** Code 3 (Art. 12-bis, para. 13) requires every new rule to state how much administrative time it requires, and limits it to one tenth of the Base Contribution. No proposal has this estimate yet: it is indicated where it weighs most.
 
 ## <span id="proposta-1--vestiario-e-igiene-nel-paniere-materiale"></span>Proposal 1 — Clothing and hygiene in the Material Basket
+
+**Outcome:** accepted on 19 October 2026; no comments received. The text has been inserted into the Codes (C.1-Annex A, Art. 4, paras. 1 and 3, and new para. 1-bis; Code 1, Art. 32, new para. 1-bis).
 
 **Text and article:** C.1-Annex A, Art. 4, paragraphs 1 and 3, and new paragraph 1-bis; Code 1, Art. 32, new paragraph 1-bis.
 
@@ -66,11 +64,15 @@ In Code 1, in Article 32, after paragraph 1 the following is inserted:
 
 ## <span id="proposta-2--standard-dellalloggio-adeguato"></span>Proposal 2 — Standard of adequate dwelling
 
+**Outcome:** accepted on 19 October 2026; no comments received. The text has been inserted into the Codes (Code 1, new Art. 47-bis).
+
 **Text and article:** Code 1, new Art. 47-bis.
 
 **What changes from version 1.** It now says what counts as “adequate” for the other rules and sets a time limit for upgrading. Added: a minimum private space, space for minors from fourteen years of age, the prohibition on falling below the first values, compliance with the prohibition on land take, a rule for the early phases. For temperature it refers to Code 8. Removed the reference to an “emergency accommodation” that the texts do not provide for.
 
 **What changes in version 3 (12 October 2026).** Fifteen square metres per person gave anyone living alone or as a couple a dwelling too small to live in. Now every dwelling has at least a living room, a bedroom and a bathroom, and the minimum floor area depends on how many people live in it: thirty square metres for one, forty-five for two, sixty for three. The private space rises from eight to nine square metres.
+
+**What changes in version 4 (19 October 2026).** The coherence review of 19 October found two defects. Letter d) of paragraph 1 allowed a shared bathroom within Circle 0, while paragraph 2 required a bathroom in every dwelling. And paragraph 2 used “adequate” in a sense different from paragraph 5. Now bathrooms are counted on persons: at least one for every four, which may be shared among the dwellings of the same Circle 0, and beyond the first a WC and washbasin are enough. A studio flat “does not meet the standard”, instead of “is not adequate”. In the first phases the minimum composition and the number of bathrooms also apply.
 
 **Problem.** Housing is a constitutional right (Const. 1.2, letter a). Code 1 speaks of “adequate dwelling” (Art. 47, para. 3) without saying what makes it so.
 
@@ -90,7 +92,7 @@ In Code 1, in Article 32, after paragraph 1 the following is inserted:
 >
 > e) the accessibility the person needs, in accordance with his or her individual care plan provided for by Code 12.
 >
-> 2. The quantitative standards are determined by the Assembly on a joint proposal from the Storehouse Council and the Energy and Water Council, with the opinion of the Health Council and of the Habitat and Territory Council. On first application every dwelling comprises at least a living room, a separate bedroom and a bathroom; a studio flat is not an adequate dwelling. The habitable floor area is not less than thirty square metres for one person, forty-five for two and sixty for three; it increases by fifteen square metres for each additional person up to the fifth and by ten for each person beyond the fifth. Each private space provided for by letter a) of paragraph 1 is not less than nine square metres. Subsequent determinations may not fall below the first-application values without the favourable opinion of the Health Council.
+> 2. The quantitative standards are determined by the Assembly on a joint proposal from the Storehouse Council and the Energy and Water Council, with the opinion of the Health Council and of the Habitat and Territory Council. On first application every dwelling comprises at least a living room and a separate bedroom; a studio flat does not meet the standard. Each Circle 0 has at least one bathroom for every four persons or fraction thereof; beyond the first, bathrooms may be facilities with a WC and washbasin. Bathrooms may be shared among the dwellings of the same Circle 0. When a Circle 0 lives in more than one dwelling, the floor area is calculated on the total number of its persons. The habitable floor area is not less than thirty square metres for one person, forty-five for two and sixty for three; it increases by fifteen square metres for each additional person up to the fifth and by ten for each person beyond the fifth. Each private space provided for by letter a) of paragraph 1 is not less than nine square metres. Subsequent determinations may not fall below the first-application values without the favourable opinion of the Health Council.
 >
 > 3. The standards of paragraph 2 do not apply to the equipped stopping areas provided for by Article 6-ter, paragraph 6, of Code 11.
 >
@@ -98,17 +100,19 @@ In Code 1, in Article 32, after paragraph 1 the following is inserted:
 >
 > 5. For the purposes of Article 47, paragraph 3, of this Code and of Articles 29 and 34 of Code 4, a dwelling that complies with paragraph 1 is adequate. If none is available, the best available dwelling is assigned, and its upgrading takes precedence in planning.
 >
-> 6. Upgrading takes place in compliance with Articles 2 and 5 of Code 10: the reuse and recovery of buildings precede any new construction. Until Codes 8 and 12 are activated, letters a), b) and d) of paragraph 1 and the floor area of paragraph 2 apply.
+> 6. Upgrading takes place in compliance with Articles 2 and 5 of Code 10: the reuse and recovery of buildings precede any new construction. Until Codes 8 and 12 are activated, letters a), b) and d) of paragraph 1 and, of paragraph 2, the floor area, the minimum composition and the number of bathrooms apply.
 
-**Reason.** Version 2 used fifteen square metres per person, from the study by Millward-Hopkins et al. (2020): it is a minimum conceived for the whole world population, and for one or two people it falls even below the minimums of the Italian rule on habitability (Ministerial Decree of 5 July 1975: twenty-eight square metres for one person, thirty-eight for two). Version 3 starts from what is needed to live there: a place to be, a place to sleep behind a closed door, a bathroom. The measurements are drafting choices, to be discussed; beyond the fifth person they grow more slowly, because kitchen and living room do not multiply with the number of people. The nine metres of private space are the minimum single bedroom of the same rule. The thirty-six months are a drafting assumption. Paragraph 4 prevents a standard conceived as a guarantee from becoming a ground for eviction; paragraph 5 prevents the protective measures of Code 4 from remaining unenforceable where no compliant dwelling exists.
+**Reason.** Version 2 used fifteen square metres per person, from the study by Millward-Hopkins et al. (2020): it is a minimum conceived for the whole world population, and for one or two people it falls even below the minimums of the Italian rule on habitability (Ministerial Decree of 5 July 1975: twenty-eight square metres for one person, thirty-eight for two). Version 3 starts from what is needed to live there: a place to be, a place to sleep behind a closed door, a bathroom. The measurements are drafting choices, to be discussed; beyond the fifth person they grow more slowly, because kitchen and living room do not multiply with the number of people. The nine metres of private space are the minimum single bedroom of the same rule. The thirty-six months are a drafting assumption. Paragraph 4 prevents a standard conceived as a guarantee from becoming a ground for eviction; paragraph 5 prevents the protective measures of Code 4 from remaining unenforceable where no compliant dwelling exists. One bathroom for every four persons is the standard of a family home: beyond four persons a single one is not enough at peak times. For bathrooms beyond the first, a WC and washbasin are enough, because the queue is for the WC more than for the shower, and each extra bathroom costs materials, water and maintenance.
 
 **Other points to align.** With the new Article, “adequate dwelling” acquires a content in Art. 47, para. 3, of Code 1 and in Arts. 29 and 34 of Code 4. Minimum temperature is a matter for Code 8, which today sets no value: proposal 4 sets it. Version: Code 1 from V1.5 to V1.6, together with the other proposals on Code 1 that are accepted.
 
-**What it costs.** In Communities that start from existing buildings, upgrading and insulation works, not yet counted in the balance of hours. Where space is lacking and building is not possible, the extension in paragraph 4 is not enough: this has to be said beforehand. With the new measurements the average floor area rises from fifteen to about twenty-two square metres per person, if households are like Italian ones today (assumption): in the [draft UCR Annex](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/draft-ucr.html) the materials for housing go from about 550 to about 740 hours a year for 150 people, less than a tenth of an hour a week per contributor.
+**What it costs.** In Communities that start from existing buildings, upgrading and insulation works, not yet counted in the balance of hours. Where space is lacking and building is not possible, the extension in paragraph 4 is not enough: this has to be said beforehand. With the new measurements the average floor area rises from fifteen to about twenty-two square metres per person, if households are like Italian ones today (assumption): in the [draft UCR Annex](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/draft-ucr.html) the materials for housing go from about 550 to about 740 hours a year for 150 people, less than a tenth of an hour a week per contributor. The extra bathrooms for Circles 0 from the fifth person on are plumbing works, not yet counted.
 
 **Open points.** It is not stated whether the standards apply to the Bridge Houses. Verifying the floor area requires entering dwellings: this has to be done without violating the inviolability of Circle 0 (Const. 5.1). It is not stated how to treat buildings made only of studio flats: joining them requires works that paragraph 4 leaves to planning.
 
 ## <span id="proposta-3--connettività-e-materiali-per-apprendere"></span>Proposal 3 — Connectivity and learning materials
+
+**Outcome:** accepted on 19 October 2026; no comments received. The text has been inserted into the Codes (Code 7, Art. 3, new para. 9; Code 5, Art. 2, new para. 4-bis).
 
 **Text and article:** Code 7, Art. 3, new paragraph 9; Code 5, Art. 2, new paragraph 4-bis.
 
@@ -142,6 +146,8 @@ In Code 5, in Article 2, after paragraph 4 the following is inserted:
 
 ## <span id="proposta-4--valore-di-prima-applicazione-del-paniere-energia"></span>Proposal 4 — First-application value of the Energy Basket
 
+**Outcome:** accepted on 19 October 2026; no comments received. The text has been inserted into the Codes (Code 8, Art. 4, para. 4).
+
 **Text and article:** Code 8, Art. 4, paragraph 4.
 
 **What changes from version 1.** The list of services has been removed: it repeated paragraph 1 and forgot part of it (cooling, Health Storehouse, Network node), so that it looked like a step backwards. Only the two new values remain. Temperature is set here and no longer in Code 1. It is stated who decides when the lack of eighteen degrees is an emergency.
@@ -150,7 +156,7 @@ In Code 5, in Article 2, after paragraph 4 the following is inserted:
 
 **Proposed text.** At the end of paragraph 4 the following is added:
 
-> Without prejudice to all the services of paragraph 1, on first application domestic hot water is not less than twenty litres per person per day and minimum winter heating ensures in the inhabited rooms a temperature of not less than eighteen degrees Celsius. The Health Council may indicate a higher value for age groups. A temperature that the Health Council indicates as dangerous to health constitutes an emergency within the meaning of paragraph 3. Article 2, paragraph 2, applies: reducing the requirement precedes increasing production.
+> Without prejudice to all the services of paragraph 1, on first application domestic hot water is not less than twenty litres per person per day and minimum winter heating ensures in the inhabited rooms a temperature of not less than eighteen degrees Celsius. On a proposal from the Health Council, the Assembly may set a higher value for age groups. A temperature that the Assembly, on a proposal from the Health Council, sets as dangerous to health constitutes an emergency within the meaning of paragraph 3; until that resolution, the value indicated by the Health Council applies. Article 2, paragraph 2, applies: reducing the requirement precedes increasing production.
 
 **Reason.** The twenty litres of hot water come from the study by Millward-Hopkins et al. (2020); the eighteen degrees from the WHO Housing and health guidelines (2018). The kilowatt-hours depend on the climate and the building: they remain to be calculated in the Energy Basket STV (paragraph 6).
 
@@ -158,9 +164,11 @@ In Code 5, in Article 2, after paragraph 4 the following is inserted:
 
 **What it costs.** In cold climates it is the heaviest item: heating. The two values enter the minimum share, which Code 8 places at the first level of priority (Art. 2, para. 3) and requires to be guaranteed within six months (Art. 10), admitting on a transitional basis even fossil sources for vital functions (Art. 5, para. 3). For this reason the text recalls insulation before production. Where buildings cannot hold eighteen degrees, six months may not be enough: this has to be said beforehand.
 
-**Open points.** The temperature “dangerous to health” has no first-application value: the Health Council indicates it.
+**Open points.** The temperature “dangerous to health” has no first-application value: the Health Council proposes it and the Assembly sets it; until then, the value indicated by the Health Council applies.
 
 ## <span id="proposta-5--cdr-per-le-attività-culturali-offerte-alla-comunità"></span>Proposal 5 — CdR for cultural activities offered to the Community
+
+**Outcome:** accepted on 19 October 2026; no comments received. The text has been inserted into the Codes (Code 1, Art. 43, new para. 1-bis).
 
 **Text and article:** Code 1, Art. 43, new paragraph 1-bis.
 
@@ -176,7 +184,7 @@ In Code 5, in Article 2, after paragraph 4 the following is inserted:
 >
 > b) the hours performed in presence are counted and, for preparation, no more than the same number again;
 >
-> c) validation takes place pursuant to Article 9 of the Constitution, with those who attended. If it is positive, the CdR depend solely on the hours. If it is negative, the suspension provided for by Article 9, paragraph 4, of Code 2 does not apply;
+> c) validation takes place pursuant to Article 9.2 of the Constitution; those who use the service are represented by those who attended. If it is positive, the CdR depend solely on the hours. If it is negative, the suspension provided for by Article 9, paragraph 4, of Code 2 does not apply;
 >
 > d) paragraph 3 does not apply;
 >
@@ -190,11 +198,13 @@ In Code 5, in Article 2, after paragraph 4 the following is inserted:
 
 **What it costs.** Every event becomes a record to be proposed and validated: administrative time, not estimated. The [simulation of the cap](https://imthezeroit.github.io/progetto-dei-cerchi/en/register/draft-cdr.html) assumes that half of the persons do not accrue CdR: with this proposal the assumption has to be revised. CdR also serve to call volunteers in times of need (Code 1, Art. 6, para. 6): the annual limit prevents pleasant activities from weakening that call.
 
-**Open points.** The one-to-one ratio between preparation and presence and the sixty CdR are drafting assumptions. None of the sixteen Competence Circles concerns the arts: it remains to be said which Council proposes the award, and who distinguishes a cultural activity from one of worship.
+**Open points.** The one-to-one ratio between preparation and presence and the sixty CdR are drafting assumptions. None of the sixteen Competence Circles concerns the arts: it remains to be said which Council proposes the award, who brings the relevant competence to the validation and who distinguishes a cultural activity from one of worship.
 
 <span id="proposta-6--sottosuolo-bene-comune-ed-estrazione-come-eccezione"></span>
 
 ## <span id="proposta-6--sottosuolo-bene-comune"></span>Proposal 6 — Subsoil as a common good
+
+**Outcome:** accepted on 19 October 2026; no comments received. The text has been inserted into the Codes (Code 10, Art. 1, paras. 1, 2 and 3; Art. 9, para. 1, letter a)).
 
 **Text and article:** Code 10, Art. 1, paragraphs 1, 2 and 3; Art. 9, paragraph 1, letter a).
 
@@ -235,6 +245,8 @@ In Article 9, paragraph 1, letter a) becomes:
 
 ## <span id="proposta-7--materie-prime-recupero-e-inventario"></span>Proposal 7 — Raw materials: recovery and inventory
 
+**Outcome:** accepted on 19 October 2026; no comments received. The text has been inserted into the Codes (Code 10, new Art. 8-bis and Arts. 3 and 7; Code 15, Art. 12, new para. 5-bis).
+
 **Text and article:** Code 10, new Art. 8-bis; Code 15, Art. 12, new paragraph 5-bis.
 
 **What changes from version 1.** The part on extraction is withdrawn, together with the constitutional exception of proposal 6. What remains is what applies in any case: the inventory of what can be recovered, the custody of deposits, the guarantees for recovery excavations. The Article states expressly that it does not authorise new extraction. The rules on reuse and purchases are not repeated: they already exist in Code 2, in Code 15 and in Annex A. The limit on Exit Plans is written in Code 15, which is where it belongs.
@@ -259,13 +271,13 @@ In Article 9, paragraph 1, letter a) becomes:
 >
 > d) the resolution of the Assembly of the Community in whose territory the site is located; if the excavation may affect waters or ecological corridors common to several Communities, the General Assembly decides.
 >
-> 4. The excavation of paragraph 3 is prohibited in ecological sanctuaries and in areas that are candidates to become such, in wetlands and in strategic infiltration areas. It is not permitted before Codes 13 and 14 are activated. This Code and Code 13 remain in force.
+> 4. The excavation of paragraph 3 is prohibited in ecological sanctuaries and in areas that are candidates to become such, in wetlands and in strategic infiltration areas. It is not permitted before Codes 13 and 14 are activated. Excavation in conformity with paragraph 3 is use in conformity with a Sheet in force for the purposes of Article 6, paragraph 4, of Code 16. This Code and Code 13 remain in force.
 >
 > 5. This Article does not authorise new extraction or the extension of existing extraction. Article 14.2 of the Constitution remains in force.
 
 In Code 15, in Article 12, after paragraph 5 the following is inserted:
 
-> 5-bis. For raw materials, the Exit Plan indicates reduction of the requirement, reuse, recycling and recovery. It may not indicate new extraction.
+> 5-bis. For raw materials, the Exit Plan indicates reduction of the requirement, reuse, recycling and recovery. It may not indicate new extraction. Paragraph 5 applies.
 
 **Reason.** Before asking whether to dig, one needs to know what is already on the surface: disused buildings, vehicles, landfills. It is useful work in any case, and it touches no prohibition. Paragraph 5-bis closes a door that the review found open: without it, the obligation to exit external dependencies would push towards the mine.
 
@@ -279,9 +291,11 @@ In Article 7, paragraph 1, the words “pollinator refuges and agricultural wate
 
 **What it costs.** The annual inventory is new work for every Habitat and Territory Council: administrative time, not estimated. It partly overlaps with the inventory of degraded soils (Art. 5, para. 4) and can be kept together with it.
 
-**Open points.** Paragraph 5-bis leaves a dependency without a definite time limit: the metals that recycling does not cover will continue to be bought outside, and the same Article 12 requires a time limit. It is a real contradiction between the prohibition on extracting and the obligation to exit dependencies: this proposal makes it visible, it does not resolve it.
+**Open points.** Paragraph 5-bis leaves a dependency without a definite time limit: the metals that recycling does not cover will continue to be bought outside, and the same Article 12 requires a time limit. It is a real contradiction between the prohibition on extracting and the obligation to exit dependencies: this proposal makes it visible, it does not resolve it. The reasoned review of paragraph 5 prevents the transition from being blocked, but it does not give a time limit.
 
 ## <span id="proposta-8--robot-e-macchine-autonome"></span>Proposal 8 — Robots and autonomous machines
+
+**Outcome:** accepted on 19 October 2026; no comments received. The text has been inserted into the Codes (Code 7, Art. 1, para. 2, new letter f), and new Art. 6-bis; Code 1, Art. 8, para. 3).
 
 **Text and article:** Code 7, Art. 1, paragraph 2, new letter f); new Art. 6-bis.
 
@@ -337,6 +351,8 @@ After Article 6 the following is inserted:
 
 ## <span id="proposta-9--decrescenza-dei-cdr-quando-comincia-e-quali-si-impiegano-per-primi"></span>Proposal 9 — Decay of the CdR: when it begins and which are used first
 
+**Outcome:** accepted on 19 October 2026; no comments received. The text has been inserted into the Codes (Code 1, Art. 44, para. 3; Art. 45, paras. 2 and 3).
+
 **Text and article:** Code 1, Art. 44, paragraph 3; Art. 45, paragraphs 2 and 3.
 
 **What changes from version 1.** The first version made the value fall all at once at the end of each quarter and presented it as “the only reading” possible. It was not: it was the most generous one. Now the reduction is gradual, in proportion to time. Added two rules that were missing: how much a reduced CdR is worth and what is meant by accrual. The order of use has been moved to the Article on use.
@@ -367,6 +383,8 @@ In Article 45, paragraph 2, the words “one CdR corresponds to one UCR” becom
 
 ## <span id="proposta-10--la-maggiorazione-dei-compiti-sgradevoli-per-chi-è-al-tetto"></span>Proposal 10 — The supplement for unpleasant tasks for those at the cap
 
+**Outcome:** accepted on 19 October 2026; no comments received. The text has been inserted into the Codes (Code 1, Art. 44, para. 2).
+
 **Text and article:** Code 1, Art. 44, paragraph 2.
 
 **What changes from version 1.** The solution is reversed. The first version awarded the supplement also to those at the cap, extinguishing their oldest CdR for an equal value. The review showed that it did not achieve what it claimed: the balance remained identical, the advantage was only a longer duration of the CdR, the quarterly data were inflated and the disparity moved elsewhere. Now the proposal confirms the rule in force, writes it expressly and defines how the balance is measured.
@@ -384,6 +402,8 @@ In Article 45, paragraph 2, the words “one CdR corresponds to one UCR” becom
 **What it costs.** Whoever is at the cap and is drawn by lot for an unpleasant shift does not receive the supplement. It is the price of a cap without exceptions, and it has to be said. The sortition excludes for one quarter whoever has performed the most unpleasant hours (Art. 8, para. 3), but not whoever is at the cap for other activities. Whoever uses their own CdR goes back below the cap and starts accruing them again.
 
 ## <span id="proposta-11--soglie-economiche-in-proporzione-alla-dimensione-della-comunità"></span>Proposal 11 — Economic thresholds in proportion to the size of the Community
+
+**Outcome:** accepted on 19 October 2026; no comments received. The text has been inserted into the Codes (Code 3, Art. 7, para. 3 and new paras. 3-bis and 3-ter; Art. 7-bis, para. 1; Art. 21, para. 3).
 
 **Text and article:** Code 3, Art. 7, paragraph 3 and new paragraphs 3-bis and 3-ter; Art. 7-bis, paragraph 1.
 
@@ -407,7 +427,7 @@ After paragraph 3 the following are inserted:
 
 > 3-bis. The low threshold is equal to 100 UCR plus one UCR for each person belonging to the Base Community, and does not exceed 500 UCR. The high threshold is equal to 500 UCR plus five UCR for each person, and does not exceed 2,500 UCR. All persons belonging to the Community at the beginning of the quarter are counted, minors included; guests are not counted. For a newly constituted Community the number in the act of accession applies. For operations common to several Communities and for the bodies of the higher Circles, the persons of the Communities concerned are added together.
 >
-> 3-ter. The General Assembly calibrates the values of paragraph 3-bis pursuant to Article 14, paragraph 2, letter b). The calibration may not eliminate the proportion to the number of persons. Paragraphs 2 and 4 of Article 7-ter apply in any event to medium-risk operations with a value not exceeding 2,500 UCR. In Article 3, paragraph 2, of this Code and in Articles 15 and 23 of Code 2, “the threshold” means the high threshold.
+> 3-ter. The General Assembly calibrates the values of paragraph 3-bis pursuant to Article 14, paragraph 2, letter b). The calibration may not eliminate the proportion to the number of persons. Paragraphs 2 and 4 of Article 7-ter apply in any event to medium-risk operations with a value above the high threshold and not exceeding 2,500 UCR. In Article 3, paragraph 2, of this Code and in Articles 15 and 23 of Code 2, “the threshold” means the high threshold.
 
 In Article 7-bis, paragraph 1 is replaced by the following:
 

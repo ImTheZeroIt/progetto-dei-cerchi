@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 3 — ON DELIBERATION, THRESHOLDS AND THE ASSEMBLY"
 breve: "Code 3 — Deliberation, thresholds and Assembly"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
 slug: "code-03"
-allineamento: "Constitution V.29; Code 1 V1.5; Code 2 V1.5; Code 4 V1.4; Code 5 V1.3; Code 6 V1.5; Code 7 V1.6; Code 8 V1.3; C.1-Annex A V1.3; Code 9 V3.1; Code 10 V1.3; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.3; Code 16 V1.4."
+allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 4 V1.4; Code 5 V1.4; Code 6 V1.5; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.4; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.4; Code 16 V1.4."
 ---
 
 ## CHAPTER I — DELIBERATIVE PRINCIPLES
@@ -209,16 +209,20 @@ b) Medium- or high-risk allocative decisions follow the reinforced, special or a
 |                                             |                                       |                                                |                                                                                      |
 |---------------------------------------------|---------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------------|
 | Value of the operation                      | Low risk                              | Medium risk                                    | High or critical risk                                                                |
-| **Low: below 500 UCR**                      | Competence Circle                     | Quality Council and Competence Circle          | Special procedure pursuant to Article 7-bis and decision of the Assembly of Circle 1 |
-| **Medium: from 500 to 2,500 UCR inclusive** | Quality Council and Competence Circle | Reinforced procedure pursuant to Article 7-ter | Assembly of Circle 1                                                                 |
-| **High: above 2,500 UCR**                   | Assembly of Circle 1                  | Assembly of Circle 1                           | Assembly of Circle 1 with special guarantees pursuant to Article 7-quater            |
+| **Low: below the low threshold** | Competence Circle                     | Quality Council and Competence Circle          | Special procedure pursuant to Article 7-bis and decision of the Assembly of Circle 1 |
+| **Medium: from the low threshold to the high threshold inclusive** | Quality Council and Competence Circle | Reinforced procedure pursuant to Article 7-ter | Assembly of Circle 1                                                                 |
+| **High: above the high threshold** | Assembly of Circle 1                  | Assembly of Circle 1                           | Assembly of Circle 1 with special guarantees pursuant to Article 7-quater            |
+
+3-bis. The low threshold is equal to 100 UCR plus one UCR for each person belonging to the Base Community, and does not exceed 500 UCR. The high threshold is equal to 500 UCR plus five UCR for each person, and does not exceed 2,500 UCR. All persons belonging to the Community at the beginning of the quarter are counted, minors included; guests are not counted. For a newly constituted Community the number in the act of accession applies. For operations common to several Communities and for the bodies of the higher Circles, the persons of the Communities concerned are added together.
+
+3-ter. The General Assembly calibrates the values of paragraph 3-bis pursuant to Article 14, paragraph 2, letter b). The calibration may not eliminate the proportion to the number of persons. Paragraphs 2 and 4 of Article 7-ter apply in any event to medium-risk operations with a value above the high threshold and not exceeding 2,500 UCR. In Article 3, paragraph 2, of this Code and in Articles 15 and 23 of Code 2, “the threshold” means the high threshold.
 
 4.  Any operational decision subsequent to approval is entrusted to the Competence Circle, provided that it does not modify the subject matter, the cost, the risk or the conditions of the approved decision.
 5.  If a modification of the operation affects a threshold or the risk class, the decision shall be submitted afresh to the deliberative level resulting from the updated matrix.
 
 ### Art. 7-bis — Special procedure
 
-1.  The special procedure applies to operations with a value below 500 UCR and high or critical risk.
+1.  The special procedure applies to operations of low value and high or critical risk. Paragraphs 2 to 5 apply in any event to high- or critical-risk operations with a value below 500 UCR.
 
 2.  The decision is taken by the Assembly of Circle 1, convened by ordinary procedure or, in the event of reasoned urgency, within forty-eight hours.
 
@@ -637,9 +641,9 @@ b) Medium- or high-risk allocative decisions follow the reinforced, special or a
 
 3.  The test cases shall include different combinations of economic threshold and risk class, including at least:
 
-    a) an operation below threshold and at low risk;
+    a) an operation of low value and at low risk;
 
-    b) an operation below threshold and at high or critical risk;
+    b) an operation of low value and at high or critical risk;
 
     c) an operation of medium value in UCR and medium risk;
 

@@ -6,7 +6,7 @@ gruppo: "codici"
 ordine: 4
 id: "codice-04"
 slug: "codice-04"
-allineamento: "Costituzione V.29; Codice 1 V1.5; Codice 2 V1.5; Codice 3 V1.4; Codice 5 V1.3; Codice 6 V1.5; Codice 7 V1.6; Codice 8 V1.3; C.1-Annex A V1.3; Codice 9 V3.1; Codice 10 V1.3; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.3; Codice 16 V1.4."
+allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 3 V1.5; Codice 5 V1.4; Codice 6 V1.5; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.4; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.4; Codice 16 V1.4."
 ---
 
 ## CAPO I — DISPOSIZIONI GENERALI, PRINCIPI E DEFINIZIONI

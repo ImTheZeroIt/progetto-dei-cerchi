@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 10 — HABITAT AND TERRITORY"
 breve: "Code 10 — Habitat and territory"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "codici"
 ordine: 10
 id: "codice-10"
 slug: "code-10"
-allineamento: "Constitution V.29; Code 1 V1.5; Code 2 V1.5; Code 3 V1.4; Code 4 V1.4; Code 5 V1.3; Code 6 V1.5; Code 7 V1.6; Code 8 V1.3; C.1-Annex A V1.3; Code 9 V3.1; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.3; Code 16 V1.4."
+allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 V1.4; Code 5 V1.4; Code 6 V1.5; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 15 V1.4; Code 16 V1.4."
 ---
 
 ## Art. 1 — Subject matter, definitions and legal nature
@@ -25,7 +25,9 @@ allineamento: "Constitution V.29; Code 1 V1.5; Code 2 V1.5; Code 3 V1.4; Code 4 
 
     f) the federated Land Register;
 
-    g) the georeferencing of common infrastructure.
+    g) the georeferencing of common infrastructure;
+
+    h) the subsoil, deposits and the inventory of recoverable materials.
 
 2.  For the purposes of this Code:
 
@@ -37,7 +39,11 @@ allineamento: "Constitution V.29; Code 1 V1.5; Code 2 V1.5; Code 3 V1.4; Code 4 
 
     d) **irreversible occupation:** means a transformation of land that entails permanent sealing, removal of the fertile layer or a loss of functionality that cannot be restored without a structural regeneration intervention;
 
-    e) **reversible occupation:** means a temporary use of land that preserves the fertile layer in full and allows the complete restoration of the functionality defined by the Regeneration STV within twenty-four months. If restoration does not take place within that time limit, the occupation shall be classified as gross land take with effect from the initial date of the occupation.
+    e) **reversible occupation:** means a temporary use of land that preserves the fertile layer in full and allows the complete restoration of the functionality defined by the Regeneration STV within twenty-four months. If restoration does not take place within that time limit, the occupation shall be classified as gross land take with effect from the initial date of the occupation;
+
+    f) **mineral resources:** means metals, minerals and rocks in their natural state, underground or outcropping, and those contained in landfills and in waste deposits from past extraction, until they are recovered; they do not include water, which is governed by Code 8;
+
+    g) **deposit:** means a concentration of mineral resources that has been ascertained and entered in the Land Register.
 
 3.  The following are inalienable infrastructural commons:
 
@@ -49,7 +55,9 @@ allineamento: "Constitution V.29; Code 1 V1.5; Code 2 V1.5; Code 3 V1.4; Code 4 
 
     d) the buffer zones for pollination and health;
 
-    e) the semi-natural territorial bank.
+    e) the semi-natural territorial bank;
+
+    f) the subsoil and mineral resources. This qualification does not restrict the meaning of the words “land” and “soil” used by the Constitution.
 
 4.  The territorial classification of land is determined on the basis of its ecological and territorial function, as recorded in the federated Land Register. It does not depend on the previous use of the land or on any claims of individual ownership.
 
@@ -102,7 +110,9 @@ The derogation shall be resolved by the Assembly on a proposal from the Agroecol
 
     f) feed the Dependency Register of Code 15 for the territorial dependencies referred to in Article 8, paragraph 5;
 
-    g) coordinate its activity with the Energy and Water Council of Code 8, the Agroecological Council of Code 9, the Biodiversity Council of Code 13 and the Production Council of C.1-Annex A.
+    g) coordinate its activity with the Energy and Water Council of Code 8, the Agroecological Council of Code 9, the Biodiversity Council of Code 13 and the Production Council of C.1-Annex A;
+
+    h) keep the inventory of recoverable materials provided for by Article 8-bis.
 
 4.  The acts of the Council are divided into:
 
@@ -205,13 +215,13 @@ The derogation shall be resolved by the Assembly on a proposal from the Agroecol
 
 ## Art. 7 — Federated Land Register and georeferencing
 
-1.  The federated Land Register is established, comprising inventories and information on land, ecological corridors, buffer zones, pollinator refuges and agricultural water infrastructure. Public data are aggregate and non-profiling, in conformity with Code 7, Article 2.2.
+1.  The federated Land Register is established, comprising inventories and information on land, ecological corridors, buffer zones, pollinator refuges, agricultural water infrastructure, deposits and recoverable materials. Public data are aggregate and non-profiling, in conformity with Code 7, Article 2.2.
 
 2.  The Land Register provides for the following access levels:
 
     a) **public level:** an aggregate map with a level of detail that does not allow the identification of persons, single refuges or individual fields or sensitive infrastructure;
 
-    b) **technical level:** precision georeferenced data, accessible exclusively to the Habitat and Territory, Agroecological and Biodiversity Councils for documented technical purposes of safety, planning or verification of the zones;
+    b) **technical level:** precision georeferenced data, accessible exclusively to the Habitat and Territory, Agroecological and Biodiversity Councils and, for the inventory of recoverable materials, to the Production Council, for documented technical purposes of safety, planning or verification of the zones;
 
     c) **federated interoperability:** exchange of the necessary data between Circles with anonymisation and compliance with authorisations.
 
@@ -239,11 +249,31 @@ The derogation shall be resolved by the Assembly on a proposal from the Agroecol
 
 5.  **Territorial dependency** means a critical dependency on fertile land, ecological corridors, territorial accessibility, infrastructure or locations that are not substitutable, necessary for the maintenance of an essential function of level 1–3. Territorial dependencies shall be recorded in accordance with Code 15.
 
+## Art. 8-bis — Raw materials: recovery and inventory
+
+1.  The Habitat and Territory Council keeps in the Land Register, and updates every year, the inventory of recoverable materials present in the territory: disused buildings, vehicles and installations, landfills, waste from past extraction and materials deriving from the conversion provided for by Article 16.2 of the Constitution. The inventory is made available to the Production Council for the purposes of Articles 2 and 5 of C.1-Annex A.
+
+2.  Deposits are Commons entrusted to the custody of the Community in whose territory they are located. Custody gives no entitlement to rent.
+
+3.  The excavation of a landfill or of a deposit of waste from past extraction, in order to recover its materials, requires jointly, without prejudice to the matrix of Article 7 of Code 3:
+
+    a) the mandatory opinions of the Habitat and Territory, Biodiversity, Energy and Water and Health Councils;
+
+    b) a General Safety Sheet pursuant to Code 14;
+
+    c) a restoration plan approved before the start, whose hours are counted together with those of the recovery, and a plan for the non-recoverable part in conformity with Article 14.5 of the Constitution;
+
+    d) the resolution of the Assembly of the Community in whose territory the site is located; if the excavation may affect waters or ecological corridors common to several Communities, the General Assembly decides.
+
+4.  The excavation of paragraph 3 is prohibited in ecological sanctuaries and in areas that are candidates to become such, in wetlands and in strategic infiltration areas. It is not permitted before Codes 13 and 14 are activated. Excavation in conformity with paragraph 3 is use in conformity with a Sheet in force for the purposes of Article 6, paragraph 4, of Code 16. This Code and Code 13 remain in force.
+
+5.  This Article does not authorise new extraction or the extension of existing extraction. Article 14.2 of the Constitution remains in force.
+
 ## Art. 9 — Prohibitions and guarantees
 
 1.  It is prohibited to:
 
-    a) generate rent from common fertile land, from ecological corridors or from buffer zones;
+    a) generate rent from common fertile land, from the subsoil, from mineral resources, from ecological corridors or from buffer zones;
 
     b) cause net take of fertile land without equivalent territorial and ecological compensation pursuant to Article 4, paragraph 4, and the Regeneration STV;
 

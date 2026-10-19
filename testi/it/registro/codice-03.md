@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 3 — DELLA DELIBERAZIONE, DELLE SOGLIE E DELL’ASSEMBLEA"
 breve: "Codice 3 — Deliberazione, soglie e Assemblea"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
 slug: "codice-03"
-allineamento: "Costituzione V.29; Codice 1 V1.5; Codice 2 V1.5; Codice 4 V1.4; Codice 5 V1.3; Codice 6 V1.5; Codice 7 V1.6; Codice 8 V1.3; C.1-Annex A V1.3; Codice 9 V3.1; Codice 10 V1.3; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.3; Codice 16 V1.4."
+allineamento: "Costituzione V.29; Codice 1 V1.6; Codice 2 V1.5; Codice 4 V1.4; Codice 5 V1.4; Codice 6 V1.5; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.4; Codice 11 V1.3; Codice 12 V1.3; Codice 13 V1.4; Codice 14 V1.2; Codice 15 V1.4; Codice 16 V1.4."
 ---
 
 ## CAPO I — PRINCIPI DELIBERATIVI
@@ -209,16 +209,20 @@ b) Le decisioni allocative a rischio medio o alto seguono la procedura rafforzat
 |                                       |                                           |                                                   |                                                                                          |
 |---------------------------------------|-------------------------------------------|---------------------------------------------------|------------------------------------------------------------------------------------------|
 | Valore dell’operazione                | Rischio basso                             | Rischio medio                                     | Rischio alto o critico                                                                   |
-| **Basso: inferiore a 500 UCR**        | Cerchio di Competenza                     | Consiglio Qualità e Cerchio di Competenza         | Procedura speciale ai sensi dell’articolo 7-bis e decisione dell’Assemblea del Cerchio 1 |
-| **Medio: da 500 a 2.500 UCR inclusi** | Consiglio Qualità e Cerchio di Competenza | Procedura rafforzata ai sensi dell’articolo 7-ter | Assemblea del Cerchio 1                                                                  |
-| **Alto: superiore a 2.500 UCR**       | Assemblea del Cerchio 1                   | Assemblea del Cerchio 1                           | Assemblea del Cerchio 1 con garanzie speciali ai sensi dell’articolo 7-quater            |
+| **Basso: inferiore alla soglia bassa** | Cerchio di Competenza                     | Consiglio Qualità e Cerchio di Competenza         | Procedura speciale ai sensi dell’articolo 7-bis e decisione dell’Assemblea del Cerchio 1 |
+| **Medio: dalla soglia bassa alla soglia alta inclusa** | Consiglio Qualità e Cerchio di Competenza | Procedura rafforzata ai sensi dell’articolo 7-ter | Assemblea del Cerchio 1                                                                  |
+| **Alto: superiore alla soglia alta** | Assemblea del Cerchio 1                   | Assemblea del Cerchio 1                           | Assemblea del Cerchio 1 con garanzie speciali ai sensi dell’articolo 7-quater            |
+
+3-bis. La soglia bassa è pari a 100 UCR più una UCR per ogni persona che appartiene alla Comunità di Base, e non supera 500 UCR. La soglia alta è pari a 500 UCR più cinque UCR per ogni persona, e non supera 2.500 UCR. Si contano tutte le persone che appartengono alla Comunità all’inizio del trimestre, minori compresi; non si contano gli ospiti. Per una Comunità appena costituita vale il numero dell’atto di adesione. Per le operazioni comuni a più Comunità e per gli enti dei Cerchi superiori si sommano le persone delle Comunità interessate.
+
+3-ter. L’Assemblea Generale calibra i valori del comma 3-bis ai sensi dell’articolo 14, comma 2, lettera b). La calibrazione non può eliminare la proporzione con il numero delle persone. Alle operazioni a rischio medio di valore superiore alla soglia alta e non superiore a 2.500 UCR si applicano in ogni caso i commi 2 e 4 dell’articolo 7-ter. Nell’articolo 3, comma 2, del presente Codice e negli articoli 15 e 23 del Codice 2, «la soglia» è la soglia alta.
 
 4.  L’eventuale decisione operativa successiva all’approvazione è affidata al Cerchio di Competenza, purché non modifichi l’oggetto, il costo, il rischio o le condizioni della decisione approvata.
 5.  Se una modifica dell’operazione incide su una soglia o sulla classe di rischio, la decisione è nuovamente sottoposta al livello deliberativo risultante dalla matrice aggiornata.
 
 ### Art. 7-bis — Procedura speciale
 
-1.  La procedura speciale si applica alle operazioni di valore inferiore a 500 UCR e rischio alto o critico.
+1.  La procedura speciale si applica alle operazioni di valore basso e rischio alto o critico. Alle operazioni a rischio alto o critico di valore inferiore a 500 UCR si applicano in ogni caso i commi da 2 a 5.
 
 2.  Decide l’Assemblea del Cerchio 1, convocata con procedura ordinaria o, in caso di urgenza motivata, entro quarantotto ore.
 
@@ -637,9 +641,9 @@ b) Le decisioni allocative a rischio medio o alto seguono la procedura rafforzat
 
 3.  I casi di verifica devono includere diverse combinazioni di soglia economica e classe di rischio, comprese almeno:
 
-    a) un’operazione sotto soglia e a rischio basso;
+    a) un’operazione di valore basso e a rischio basso;
 
-    b) un’operazione sotto soglia e a rischio alto o critico;
+    b) un’operazione di valore basso e a rischio alto o critico;
 
     c) un’operazione di valore medio in UCR e rischio medio;
 

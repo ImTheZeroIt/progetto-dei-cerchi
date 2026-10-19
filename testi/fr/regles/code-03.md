@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 3 — DE LA DÉLIBÉRATION, DES SEUILS ET DE L’ASSEMBLÉE"
 breve: "Code 3 — Délibération, seuils et Assemblée"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
 slug: "code-03"
-allineamento: "Constitution V.29 ; Code 1 V1.5 ; Code 2 V1.5 ; Code 4 V1.4 ; Code 5 V1.3 ; Code 6 V1.5 ; Code 7 V1.6 ; Code 8 V1.3 ; C.1-Annex A V1.3 ; Code 9 V3.1 ; Code 10 V1.3 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.3 ; Code 16 V1.4."
+allineamento: "Constitution V.29 ; Code 1 V1.6 ; Code 2 V1.5 ; Code 4 V1.4 ; Code 5 V1.4 ; Code 6 V1.5 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.4 ; Code 11 V1.3 ; Code 12 V1.3 ; Code 13 V1.4 ; Code 14 V1.2 ; Code 15 V1.4 ; Code 16 V1.4."
 ---
 
 ## CHAPITRE I — PRINCIPES DÉLIBÉRATIFS
@@ -209,16 +209,20 @@ b) Les décisions d’allocation à risque moyen ou élevé suivent la procédur
 |                                       |                                           |                                                   |                                                                                          |
 |---------------------------------------|-------------------------------------------|---------------------------------------------------|------------------------------------------------------------------------------------------|
 | Valeur de l’opération | Risque faible | Risque moyen | Risque élevé ou critique |
-| **Faible : moins de 500 UCR** | Cercle de compétence | Conseil Qualité et Cercle de compétence | Procédure spéciale en application de l’article 7-bis et décision de l’Assemblée du Cercle 1 |
-| **Moyenne : de 500 à 2 500 UCR inclus** | Conseil Qualité et Cercle de compétence | Procédure renforcée en application de l’article 7-ter | Assemblée du Cercle 1 |
-| **Élevée : plus de 2 500 UCR** | Assemblée du Cercle 1 | Assemblée du Cercle 1 | Assemblée du Cercle 1 avec garanties spéciales en application de l’article 7-quater |
+| **Faible : inférieure au seuil bas** | Cercle de compétence | Conseil Qualité et Cercle de compétence | Procédure spéciale en application de l’article 7-bis et décision de l’Assemblée du Cercle 1 |
+| **Moyenne : du seuil bas au seuil haut inclus** | Conseil Qualité et Cercle de compétence | Procédure renforcée en application de l’article 7-ter | Assemblée du Cercle 1 |
+| **Élevée : supérieure au seuil haut** | Assemblée du Cercle 1 | Assemblée du Cercle 1 | Assemblée du Cercle 1 avec garanties spéciales en application de l’article 7-quater |
+
+3-bis. Le seuil bas est égal à 100 UCR plus une UCR pour chaque personne qui appartient à la Communauté de base, et ne dépasse pas 500 UCR. Le seuil haut est égal à 500 UCR plus cinq UCR pour chaque personne, et ne dépasse pas 2 500 UCR. Sont comptées toutes les personnes qui appartiennent à la Communauté au début du trimestre, mineurs compris ; les personnes accueillies ne sont pas comptées. Pour une Communauté qui vient d’être constituée, le nombre de l’acte d’adhésion fait foi. Pour les opérations communes à plusieurs Communautés et pour les entités des Cercles supérieurs, les personnes des Communautés concernées sont additionnées.
+
+3-ter. L’Assemblée générale calibre les valeurs de l’alinéa 3-bis en application de l’article 14, alinéa 2, lettre b). Le calibrage ne peut pas supprimer la proportion avec le nombre des personnes. Aux opérations à risque moyen d’une valeur supérieure au seuil haut et ne dépassant pas 2 500 UCR s’appliquent en tout état de cause les alinéas 2 et 4 de l’article 7-ter. À l’article 3, alinéa 2, du présent Code et aux articles 15 et 23 du Code 2, « le seuil » désigne le seuil haut.
 
 4.  L’éventuelle décision opérationnelle postérieure à l’approbation est confiée au Cercle de compétence, à condition qu’elle ne modifie ni l’objet, ni le coût, ni le risque, ni les conditions de la décision approuvée.
 5.  Si une modification de l’opération a une incidence sur un seuil ou sur la classe de risque, la décision est de nouveau soumise au niveau délibératif résultant de la matrice mise à jour.
 
 ### Art. 7-bis — Procédure spéciale
 
-1.  La procédure spéciale s’applique aux opérations d’une valeur inférieure à 500 UCR et à risque élevé ou critique.
+1.  La procédure spéciale s’applique aux opérations de valeur faible et à risque élevé ou critique. Aux opérations à risque élevé ou critique d’une valeur inférieure à 500 UCR s’appliquent en tout état de cause les alinéas 2 à 5.
 
 2.  Décide l’Assemblée du Cercle 1, convoquée selon la procédure ordinaire ou, en cas d’urgence motivée, dans un délai de quarante-huit heures.
 
@@ -637,9 +641,9 @@ b) Les décisions d’allocation à risque moyen ou élevé suivent la procédur
 
 3.  Les cas de vérification doivent couvrir différentes combinaisons de seuil économique et de classe de risque, dont au moins :
 
-    a) une opération en dessous du seuil et à risque faible ;
+    a) une opération de valeur faible et à risque faible ;
 
-    b) une opération en dessous du seuil et à risque élevé ou critique ;
+    b) une opération de valeur faible et à risque élevé ou critique ;
 
     c) une opération de valeur moyenne en UCR et à risque moyen ;
 

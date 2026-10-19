@@ -144,7 +144,7 @@ Cela fait 1,4 heure par semaine et par contributeur. L’inventaire est converti
 
 **Ce que vaut cet inventaire.** Les prix et les durées sont des hypothèses de rédaction, énumérées une par une dans le programme : elles doivent être remplacées par de vrais devis. Le résultat ne dépend cependant pas d’un prix erroné : même en triplant l’ensemble de l’inventaire, le calcul complet reste sous les quinze heures. À titre de comparaison, l’industrie manufacturière européenne d’aujourd’hui emploie pour 150 personnes environ 14 200 heures, industrie alimentaire exclue : l’inventaire sur les besoins en demande moins de la moitié.
 
-**Un logement plus grand.** Avec les mesures de la version 3 de la [proposition 2](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html), la surface moyenne passe à environ 22 m² par personne, si les foyers sont comme les foyers italiens d’aujourd’hui (hypothèse). Le poste Habiter passe de 550 à 740 heures par an et le total de 6 740 à 6 930 heures : toujours 1,4 heure par semaine par contributeur, 2,8 avec le facteur des biens importés. Les tableaux de ce brouillon restent calculés avec 15 m².
+**Un logement plus grand.** Avec les mesures du Code 1, art. 47-bis ([proposition 2](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html), acceptée le 19 octobre 2026), la surface moyenne passe à environ 22 m² par personne, si les foyers sont comme les foyers italiens d’aujourd’hui (hypothèse). Le poste Habiter passe de 550 à 740 heures par an et le total de 6 740 à 6 930 heures : toujours 1,4 heure par semaine par contributeur, 2,8 avec le facteur des biens importés. Les tableaux de ce brouillon restent calculés avec 15 m².
 
 ### 4.4 Le calcul complet
 
@@ -199,15 +199,15 @@ Le Code 1 prévoit déjà ce qui se passe si les heures ne suffisent pas : on 
 
 ## 5. Robots et automatisation
 
-Le calcul du paragraphe 4 utilise les machines d’aujourd’hui. Ce paragraphe indique comment on compte une automatisation, où elle est le plus utile et dans quelle mesure elle peut changer le résultat. Les règles en vigueur figurent dans le Code 7, article 6, qui s’applique à toute automatisation. Des règles spécifiques aux robots font l’objet d’une proposition ouverte ([proposition 8](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html)) : lorsque ce paragraphe l’utilise, il le dit.
+Le calcul du paragraphe 4 utilise les machines d’aujourd’hui. Ce paragraphe indique comment on compte une automatisation, où elle est le plus utile et dans quelle mesure elle peut changer le résultat. Les règles en vigueur figurent dans le Code 7, article 6, qui s’applique à toute automatisation. Des règles spécifiques aux robots figurent dans le Code 7, article 6-bis ([proposition 8](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html), acceptée le 19 octobre 2026) : ce paragraphe en tient compte.
 
 ### 5.1 Comment on compte
 
-Un robot est un moyen de production ; il entre donc dans le calcul comme tout autre : les heures qui ont servi à le construire, plus l’énergie et l’entretien, réparties sur les années pendant lesquelles il travaille. Il est avantageux lorsque les heures qu’il fait économiser sont supérieures à celles qu’il coûte. Le Code 7 exige déjà que le gain de temps soit documentable (art. 6, al. 1) ; la proposition 8 demande de faire cette comparaison avant d’introduire la machine.
+Un robot est un moyen de production ; il entre donc dans le calcul comme tout autre : les heures qui ont servi à le construire, plus l’énergie et l’entretien, réparties sur les années pendant lesquelles il travaille. Il est avantageux lorsque les heures qu’il fait économiser sont supérieures à celles qu’il coûte. Le Code 7 exige déjà que le gain de temps soit documentable (art. 6, al. 1) ; l’article 6-bis demande de faire cette comparaison avant d’introduire la machine.
 
 Un exemple : une machine de 60 000 euros qui dure quinze ans coûte 78 UCR par an, 157 si elle est produite pour moitié là où le travail rend moins. Avec cinquante heures d’entretien, cela fait entre 130 et 210 heures par an. Elle est avantageuse si elle en fait économiser davantage.
 
-Le gain ne va pas à qui possède la machine, parce que personne ne la possède : le temps libéré reste à la Communauté, qui décide comment l’utiliser (Code 7, art. 6, al. 6). La proposition 8 confirme cette règle également pour les robots.
+Le gain ne va pas à qui possède la machine, parce que personne ne la possède : le temps libéré reste à la Communauté, qui décide comment l’utiliser (Code 7, art. 6, al. 6). L’article 6-bis du Code 7 confirme cette règle également pour les robots.
 
 ### 5.2 Où elle est utile, domaine par domaine
 
@@ -247,7 +247,7 @@ Chaque tranche de dix pour cent en moins vaut 23 minutes par semaine pour chacun
 
 ## 6. Une conséquence pour les seuils du Code 3
 
-L’article 7 du Code 3 distingue les opérations de valeur faible (moins de 500 UCR), moyenne (de 500 à 2 500) et élevée. Avec le coefficient proposé, 500 UCR correspondent à environ 25 500 euros d’achats et à 0,7 % des heures annuelles d’une Communauté de 150 personnes ; 2 500 UCR à environ 128 000 euros et à 3,4 %. Pour une petite Communauté, le seuil bas pourrait être trop élevé : un achat de 20 000 euros serait décidé par un Cercle de compétence. La [proposition 11](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html) lie les deux seuils à la taille de la Communauté : 100 UCR plus une par personne, et 500 plus cinq par personne, avec 500 et 2 500 comme maximum.
+Jusqu’au 19 octobre 2026, l’article 7 du Code 3 distinguait les opérations de valeur faible (moins de 500 UCR), moyenne (de 500 à 2 500) et élevée. Avec le coefficient proposé, 500 UCR correspondent à environ 25 500 euros d’achats et à 0,7 % des heures annuelles d’une Communauté de 150 personnes ; 2 500 UCR à environ 128 000 euros et à 3,4 %. Pour une petite Communauté, le seuil bas était trop élevé : un achat de 20 000 euros était décidé par un Cercle de compétence. La [proposition 11](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html), acceptée le 19 octobre 2026, a lié les deux seuils à la taille de la Communauté : 100 UCR plus une par personne, et 500 plus cinq par personne, avec 500 et 2 500 comme maximum.
 
 ## Comment le corriger
 

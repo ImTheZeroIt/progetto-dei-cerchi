@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 15 — EXTERNAL RELATIONS AND WORLD BALANCE"
 breve: "Code 15 — External relations and Balance"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "codici"
 ordine: 15
 id: "codice-15"
 slug: "code-15"
-allineamento: "Constitution V.29; Code 1 V1.5; Code 2 V1.5; Code 3 V1.4; Code 4 V1.4; Code 5 V1.3; Code 6 V1.5; Code 7 V1.6; Code 8 V1.3; C.1-Annex A V1.3; Code 9 V3.1; Code 10 V1.3; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 16 V1.4."
+allineamento: "Constitution V.29; Code 1 V1.6; Code 2 V1.5; Code 3 V1.5; Code 4 V1.4; Code 5 V1.4; Code 6 V1.5; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.4; Code 11 V1.3; Code 12 V1.3; Code 13 V1.4; Code 14 V1.2; Code 16 V1.4."
 ---
 
 ## PRELIMINARY TITLE — GENERAL PROVISIONS
@@ -245,6 +245,8 @@ allineamento: "Constitution V.29; Code 1 V1.5; Code 2 V1.5; Code 3 V1.4; Code 4 
 4.  A dependency is critical when its interruption would compromise the Basket or a function of levels 1 to 3 and no alternative is available within the time threshold defined by the applicable STV. Absolute critical proprietary dependency remains prohibited pursuant to Article 5 of Code 2.
 
 5.  Every critical dependency shall be accompanied by an Exit Plan indicating the verifiable objective, the person responsible, the resources, the intermediate measures and a definite final time limit. The Plan is approved by the Assembly on a proposal from the competent Council. If exit is not technically possible within the time limit, the Plan shall be reviewed with a statement of reasons; the review may not be limited to extending the dependency.
+
+5-bis. For raw materials, the Exit Plan indicates reduction of the requirement, reuse, recycling and recovery. It may not indicate new extraction. Paragraph 5 applies.
 
 6.  The Register shall be published in aggregate form. Information that exposes vulnerabilities of infrastructure is accessible in accordance with Article 15 of Code 3.
 
