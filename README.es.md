@@ -4,7 +4,7 @@
 
 **Sitio:** <https://imthezeroit.github.io/progetto-dei-cerchi/es/> — el recorrido en español. Para entender en un minuto de qué se trata: [En un minuto](https://imthezeroit.github.io/progetto-dei-cerchi/es/#minuto).
 
-Una propuesta abierta de alternativa al modo en que hoy organizamos la vida colectiva.
+Nacida del rechazo a las injusticias del mundo de hoy, una propuesta abierta de alternativa al modo en que organizamos la vida colectiva.
 
 El proyecto parte de la persona, organiza la colectividad y construye los instrumentos para que ninguna de las dos tenga que dominar a la otra. Está escrito por entero, artículo por artículo, para que pueda leerse, criticarse, verificarse y corregirse.
 

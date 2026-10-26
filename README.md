@@ -4,7 +4,7 @@
 
 **Sito:** <https://imthezeroit.github.io/progetto-dei-cerchi/> — tutti i testi impaginati, in italiano, in inglese e in francese; il percorso anche in spagnolo. Per capire in un minuto di che cosa si tratta: [In un minuto](https://imthezeroit.github.io/progetto-dei-cerchi/#minuto).
 
-Una proposta aperta di alternativa al modo in cui oggi organizziamo la vita collettiva.
+Nato dal rifiuto delle ingiustizie del mondo di oggi, una proposta aperta di alternativa al modo in cui organizziamo la vita collettiva.
 
 Il progetto parte dalla persona, organizza la collettività e costruisce gli strumenti perché nessuna delle due debba dominare l'altra. È scritto per intero, articolo per articolo, perché possa essere letto, criticato, verificato e corretto.
 
@@ -25,31 +25,31 @@ Poi vengono le regole.
 
 | Testo | Versione |
 |---|---|
-| [Costituzione](testi/it/registro/costituzione.md) | V.29 |
-| [Codice 1 — Contributo di base e Magazzini comuni](testi/it/registro/codice-01.md) | V1.5 |
-| [Annex A al Codice 1 — Produzione materiale e officine](testi/it/registro/codice-01-annex-a.md) | V1.3 |
-| [Codice 2 — Qualità e validazione](testi/it/registro/codice-02.md) | V1.5 |
-| [Codice 3 — Deliberazione, soglie e Assemblea](testi/it/registro/codice-03.md) | V1.4 |
-| [Codice 4 — Giustizia riparativa e garanzia](testi/it/registro/codice-04.md) | V1.4 |
-| [Codice 5 — Apprendimento e competenze](testi/it/registro/codice-05.md) | V1.3 |
-| [Codice 6 — Salute](testi/it/registro/codice-06.md) | V1.5 |
-| [Codice 7 — Automazione e Rete](testi/it/registro/codice-07.md) | V1.6 |
-| [Codice 8 — Energia e acqua](testi/it/registro/codice-08.md) | V1.3 |
-| [Codice 9 — Agroecologia e alimentazione](testi/it/registro/codice-09.md) | V3.1 |
-| [Codice 10 — Habitat e territorio](testi/it/registro/codice-10.md) | V1.3 |
-| [Codice 11 — Logistica e mobilità di base](testi/it/registro/codice-11.md) | V1.3 |
-| [Codice 12 — Cura di comunità](testi/it/registro/codice-12.md) | V1.3 |
-| [Codice 13 — Biodiversità, santuari e fauna](testi/it/registro/codice-13.md) | V1.4 |
-| [Codice 14 — Sicurezza generale](testi/it/registro/codice-14.md) | V1.2 |
-| [Codice 15 — Rapporti esterni e Saldo](testi/it/registro/codice-15.md) | V1.3 |
-| [Codice 16 — Transizione e avvio](testi/it/registro/codice-16.md) | V1.4 |
+| [Costituzione](testi/it/registro/costituzione.md) | V.34 |
+| [Codice 1 — Contributo di base e Magazzini comuni](testi/it/registro/codice-01.md) | V1.9 |
+| [Annex A al Codice 1 — Produzione materiale e officine](testi/it/registro/codice-01-annex-a.md) | V1.6 |
+| [Codice 2 — Qualità e validazione](testi/it/registro/codice-02.md) | V1.7 |
+| [Codice 3 — Deliberazione, soglie e Assemblea](testi/it/registro/codice-03.md) | V1.7 |
+| [Codice 4 — Giustizia riparativa e garanzia](testi/it/registro/codice-04.md) | V1.8 |
+| [Codice 5 — Apprendimento e competenze](testi/it/registro/codice-05.md) | V1.6 |
+| [Codice 6 — Salute](testi/it/registro/codice-06.md) | V1.8 |
+| [Codice 7 — Automazione e Rete](testi/it/registro/codice-07.md) | V1.9 |
+| [Codice 8 — Energia e acqua](testi/it/registro/codice-08.md) | V1.6 |
+| [Codice 9 — Agroecologia e alimentazione](testi/it/registro/codice-09.md) | V3.3 |
+| [Codice 10 — Habitat e territorio](testi/it/registro/codice-10.md) | V1.7 |
+| [Codice 11 — Logistica e mobilità di base](testi/it/registro/codice-11.md) | V1.5 |
+| [Codice 12 — Cura di comunità](testi/it/registro/codice-12.md) | V1.6 |
+| [Codice 13 — Biodiversità, santuari e fauna](testi/it/registro/codice-13.md) | V1.7 |
+| [Codice 14 — Sicurezza generale](testi/it/registro/codice-14.md) | V1.6 |
+| [Codice 15 — Rapporti esterni e Saldo](testi/it/registro/codice-15.md) | V1.8 |
+| [Codice 16 — Transizione e avvio](testi/it/registro/codice-16.md) | V1.8 |
 | [Allegato A al Codice 16 — Protocollo di avvio sociale](testi/it/registro/codice-16-allegato-a.md) | V1.3 |
-| [Allegato B al Codice 16 — Manuale operativo di disinserimento e federazione](testi/it/registro/codice-16-allegato-b.md) | V1.5 |
-| [Allegato C al Codice 16 — Carta operativa del primo anno](testi/it/registro/codice-16-allegato-c.md) | V1.0 |
+| [Allegato B al Codice 16 — Manuale operativo di disinserimento e federazione](testi/it/registro/codice-16-allegato-b.md) | V1.6 |
+| [Allegato C al Codice 16 — Carta operativa del primo anno](testi/it/registro/codice-16-allegato-c.md) | V1.2 |
 
 La Costituzione stabilisce i principi e la struttura generale. I Codici trasformano quei principi in regole operative. Gli Allegati tecnici sviluppano procedure, criteri e specifiche. In caso di conflitto prevale la Costituzione.
 
-Ogni modifica è annotata e motivata nel [registro delle modifiche](REGISTRO-DELLE-MODIFICHE.md). I numeri proposti, con la loro origine e la prova che servirebbe per confermarli, sono nel [registro dei parametri da verificare](PARAMETRI.md). Le bozze degli allegati tecnici che i Codici citano e che non sono ancora stati scritti sono nella cartella `bozze/`: per ora l'[Allegato annuale del Paniere di Sufficienza](bozze/allegato-paniere.md) l'[Allegato UCR con il primo bilancio delle ore](bozze/allegato-ucr.md), i cui conti si rifanno con `python3 strumenti/bilancio_ore.py`, e la [tabella pubblica del CdR](bozze/tabella-cdr.md), con la simulazione `python3 strumenti/simula_cdr.py`. Sono bozze di calibrazione, non adottate. Le modifiche di sostanza in discussione sono in [PROPOSTE.md](PROPOSTE.md). Le risposte alle domande più comuni, con il richiamo agli articoli, sono in [DOMANDE.md](DOMANDE.md): sul sito diventano la pagina [Trova una risposta](https://imthezeroit.github.io/progetto-dei-cerchi/domande.html), che cerca anche dentro i testi senza inviare nulla fuori dal browser. Lo storico di questo repository è l'archivio aperto, versionato e replicabile previsto dall'articolo 38.5 della Costituzione.
+Ogni modifica è annotata e motivata nel [registro delle modifiche](REGISTRO-DELLE-MODIFICHE.md). I numeri proposti, con la loro origine e la prova che servirebbe per confermarli, sono nel [registro dei parametri da verificare](PARAMETRI.md). Le bozze degli allegati tecnici che i Codici citano e che non sono ancora stati scritti sono nella cartella `bozze/`: per ora l'[Allegato annuale del Paniere di Sufficienza](bozze/allegato-paniere.md) l'[Allegato UCR con il primo bilancio delle ore](bozze/allegato-ucr.md), i cui conti si rifanno con `python3 strumenti/bilancio_ore.py`, e la [tabella pubblica del CdR](bozze/tabella-cdr.md), con la simulazione `python3 strumenti/simula_cdr.py`. Sono bozze di calibrazione, non adottate. Le proposte di modifica già accolte sono archiviate in [PROPOSTE.md](PROPOSTE.md); la verifica di coerenza di tutte le regole, con le correzioni fatte, è in [VERIFICA-COERENZA.md](VERIFICA-COERENZA.md). Le risposte alle domande più comuni, con il richiamo agli articoli, sono in [DOMANDE.md](DOMANDE.md): sul sito diventano la pagina [Trova una risposta](https://imthezeroit.github.io/progetto-dei-cerchi/domande.html), che cerca anche dentro i testi senza inviare nulla fuori dal browser. Lo storico di questo repository è l'archivio aperto, versionato e replicabile previsto dall'articolo 38.5 della Costituzione.
 
 ## Come è fatto questo repository
 
