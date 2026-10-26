@@ -185,8 +185,8 @@ LINGUE = {
             desc_reg="Costituzione, Codici e Allegati del Progetto dei Cerchi, con tutte le versioni.",
             versione="versione",
             etichetta="Una proposta aperta", domanda="Quali alternative abbiamo?",
-            attacco="Il Progetto dei Cerchi è una proposta di alternativa al modo in cui oggi organizziamo la "
-                    "vita collettiva. Comincia dalla persona, organizza la collettività e costruisce gli "
+            attacco="Il Progetto dei Cerchi nasce dal rifiuto delle ingiustizie del mondo di oggi, e propone un altro "
+                    "modo di vivere insieme. Comincia dalla persona, organizza la collettività e costruisce gli "
                     "strumenti perché nessuna delle due debba dominare l’altra.",
             comincia="Comincia dal percorso", vai_regole="Vai alle regole", prova_caso="Metti alla prova un caso",
             h_prova="Mettila alla prova",
@@ -204,8 +204,8 @@ LINGUE = {
             senza_conto="Non hai un account su GitHub? Scrivi a {mail}: va bene anche una riga.",
             h_minuto="In un minuto",
             minuto=[
+                ("Perché", "Perché il mondo di oggi è ingiusto, e non per caso. Sfrutta gli esseri umani e il pianeta. Gli Stati usano la violenza contro i propri cittadini e fanno la guerra ad altri popoli. Chi ha il potere resta quasi sempre impunito. Il sistema in cui viviamo produce molto, ma non trasforma quella ricchezza in sicurezza, tempo e libertà di scelta per le persone: chi decide, chi guadagna e chi paga sono sempre più spesso persone diverse, e il presente si paga scaricando i costi sul futuro. Queste ingiustizie non sono incidenti: le produce il modo in cui il sistema è costruito. Per questo correggere gli effetti non basta: bisogna cambiare le condizioni che le producono. È il motivo per cui questo progetto esiste."),
                 ("Che cos’è", "Una proposta per organizzare la vita in comune a partire dai bisogni delle persone. È scritta per intero, articolo per articolo: una Costituzione e i Codici che la mettono in pratica, con i loro allegati tecnici. Non è in vigore da nessuna parte."),
-                ("Perché", "Il sistema in cui viviamo produce molto, ma non trasforma in modo proporzionato quella ricchezza in sicurezza, tempo e capacità di scelta per le persone. Chi decide, chi beneficia e chi paga sono sempre più spesso persone diverse, e il presente si finanzia trasferendo costi sul futuro. Per questo correggere gli effetti non basta: bisogna cambiare le condizioni che li producono."),
                 ("Che cosa garantisce", "A ogni membro casa, cibo, acqua, energia, cure, istruzione e connessione. Non sono il compenso del lavoro: i beni si prendono dai Magazzini comuni secondo il bisogno, e tra i membri non circola denaro. Ciò che è personale resta personale."),
                 ("Che cosa chiede", "A ogni adulto che può, una parte del lavoro necessario a tutti, a rotazione: in media non più di quindici ore a settimana. E la rinuncia alla proprietà privata della terra e dei mezzi di produzione, all’accumulo, alle armi e allo sfruttamento degli animali. Chi non è d’accordo può uscire quando vuole."),
                 ("Chi decide", "Ognuno vive in un Nucleo di Cura (Cerchio 0), dove la Comunità non entra se non per proteggere qualcuno. I Nuclei formano Comunità di base, di norma da 30 a 500 persone, che decidono in assemblea: ognuno vota per sé. Le Comunità si federano in cerchi più ampi, che coordinano e non comandano. Gli incarichi si sorteggiano tra volontari e hanno durata limitata."),
@@ -234,7 +234,7 @@ LINGUE = {
                     "ripubblicare per intero, ma non modificare: {licp}. Tradurli è permesso.",
             contribuire_testo="Leggere, criticare, verificare, correggere. Servono competenze diverse e casi "
                               "concreti con cui mettere alla prova le regole.",
-            desc_home="Una proposta aperta di alternativa al modo in cui organizziamo la vita collettiva: "
+            desc_home="Nato dal rifiuto delle ingiustizie di oggi, una proposta aperta di alternativa al modo in cui organizziamo la vita collettiva: "
                       "il percorso, la Costituzione, i Codici.",
             figura="Persone disposte in cerchio, tutte uguali, con altre comunità collegate attorno",
             si_uniscono="si uniscono in",
@@ -302,8 +302,8 @@ LINGUE = {
             desc_reg="Constitution, Codes and Annexes of the Circles Project, with all their versions.",
             versione="version",
             etichetta="An open proposal", domanda="What alternatives do we have?",
-            attacco="The Circles Project is a proposal for an alternative to the way we organise collective "
-                    "life today. It starts from the person, organises the collectivity and builds the tools "
+            attacco="The Circles Project is born of a refusal of the injustices of today’s world, and proposes another "
+                    "way of living together. It starts from the person, organises the collectivity and builds the tools "
                     "so that neither has to dominate the other.",
             comincia="Start with the path", vai_regole="Go to the rules", prova_caso="Put a case to the test",
             h_prova="Put it to the test",
@@ -321,8 +321,8 @@ LINGUE = {
             senza_conto="No GitHub account? Write to {mail}: even one line is fine.",
             h_minuto="In one minute",
             minuto=[
+                ("Why", "Because today’s world is unjust, and not by chance. It exploits human beings and the planet. States use violence against their own citizens and wage war on other peoples. Those in power almost always go unpunished. The system we live in produces a great deal, but does not turn that wealth into security, time and freedom of choice for people: those who decide, those who profit and those who pay are more and more often different people, and the present is paid for by shifting the costs onto the future. These injustices are not accidents: they are produced by the way the system is built. That is why correcting the effects is not enough: the conditions that produce them must change. It is the reason this project exists."),
                 ("What it is", "A proposal for organising life in common starting from people’s needs. It is written out in full, article by article: a Constitution and the Codes that put it into practice, with their technical annexes. It is not in force anywhere."),
-                ("Why", "The system we live in produces a great deal, but does not turn that wealth proportionately into security, time and capacity for choice for people. Those who decide, those who benefit and those who pay are more and more often different people, and the present is financed by transferring costs onto the future. That is why correcting the effects is not enough: the conditions that produce them must change."),
                 ("What it guarantees", "To every member a home, food, water, energy, health care, education and connectivity. These are not payment for work: goods are taken from the Common Storehouses according to need, and no money circulates among members. What is personal stays personal."),
                 ("What it asks", "Of every adult who is able, a rotating share of the work everyone needs: on average no more than fifteen hours a week. And giving up private ownership of land and of the means of production, accumulation, weapons and the exploitation of animals. Anyone who does not agree can leave whenever they wish."),
                 ("Who decides", "Everyone lives in a Care Nucleus (Circle 0), which the Community does not enter except to protect someone. Nuclei form Base Communities, as a rule of 30 to 500 people, which decide in assembly: everyone votes for themselves. Communities federate into wider circles, which coordinate and do not command. Roles are assigned by lot among volunteers and are of limited duration."),
@@ -351,7 +351,7 @@ LINGUE = {
                     "republished in full, but not modified: {licp}. Translating them is permitted.",
             contribuire_testo="Read, criticise, verify, correct. Different skills are needed, and concrete "
                               "cases with which to put the rules to the test.",
-            desc_home="An open proposal for an alternative to the way we organise collective life: "
+            desc_home="Born of a refusal of today’s injustices, an open proposal for an alternative to the way we organise collective life: "
                       "the path, the Constitution, the Codes.",
             figura="People standing in a circle, all equal, with other communities linked around them",
             si_uniscono="join into",
@@ -419,8 +419,8 @@ LINGUE = {
             desc_reg="Constitución, Códigos y Anexos del Proyecto de los Círculos, con todas sus versiones.",
             versione="versión",
             etichetta="Una propuesta abierta", domanda="¿Qué alternativas tenemos?",
-            attacco="El Proyecto de los Círculos es una propuesta de alternativa al modo en que hoy organizamos "
-                    "la vida colectiva. Empieza por la persona, organiza la colectividad y construye los "
+            attacco="El Proyecto de los Círculos nace del rechazo a las injusticias del mundo de hoy, y propone otra "
+                    "manera de vivir juntos. Empieza por la persona, organiza la colectividad y construye los "
                     "instrumentos para que ninguna de las dos tenga que dominar a la otra.",
             comincia="Empieza por el recorrido", vai_regole="Ir a las reglas", prova_caso="Pon a prueba un caso",
             h_prova="Ponla a prueba",
@@ -438,8 +438,8 @@ LINGUE = {
             senza_conto="¿No tienes cuenta de GitHub? Escribe a {mail}: basta con una línea.",
             h_minuto="En un minuto",
             minuto=[
+                ("Por qué", "Porque el mundo de hoy es injusto, y no por casualidad. Explota a los seres humanos y al planeta. Los Estados usan la violencia contra sus propios ciudadanos y hacen la guerra a otros pueblos. Quien tiene el poder queda casi siempre impune. El sistema en el que vivimos produce mucho, pero no transforma esa riqueza en seguridad, tiempo y libertad de elección para las personas: quien decide, quien gana y quien paga son cada vez más a menudo personas distintas, y el presente se paga trasladando los costos al futuro. Estas injusticias no son accidentes: las produce el modo en que está construido el sistema. Por eso no basta con corregir los efectos: hay que cambiar las condiciones que las producen. Es la razón por la que existe este proyecto."),
                 ("Qué es", "Una propuesta para organizar la vida en común a partir de las necesidades de las personas. Está escrita por entero, artículo por artículo: una Constitución y los Códigos que la llevan a la práctica, con sus anexos técnicos. No está en vigor en ninguna parte."),
-                ("Por qué", "El sistema en el que vivimos produce mucho, pero no transforma de manera proporcionada esa riqueza en seguridad, tiempo y capacidad de elección para las personas. Quien decide, quien se beneficia y quien paga son cada vez más a menudo personas distintas, y el presente se financia trasladando costos al futuro. Por eso no basta con corregir los efectos: hay que cambiar las condiciones que los producen."),
                 ("Qué garantiza", "A cada miembro vivienda, alimentos, agua, energía, atención sanitaria, educación y conexión. No son la retribución del trabajo: los bienes se toman de los Almacenes comunes según la necesidad, y entre los miembros no circula dinero. Lo personal sigue siendo personal."),
                 ("Qué pide", "A cada adulto que pueda, una parte del trabajo necesario para todos, por rotación: en promedio no más de quince horas a la semana. Y la renuncia a la propiedad privada de la tierra y de los medios de producción, a la acumulación, a las armas y a la explotación de los animales. Quien no esté de acuerdo puede salir cuando quiera."),
                 ("Quién decide", "Cada cual vive en un Núcleo de Cuidado (Círculo 0), donde la Comunidad no entra salvo para proteger a alguien. Los Núcleos forman Comunidades de base, por norma de 30 a 500 personas, que deciden en asamblea: cada cual vota por sí mismo. Las Comunidades se federan en círculos más amplios, que coordinan y no mandan. Los cargos se asignan por sorteo entre voluntarios y tienen duración limitada."),
@@ -468,7 +468,7 @@ LINGUE = {
                     "volver a publicarse íntegros, pero no modificarse: {licp}. Traducirlos está permitido.",
             contribuire_testo="Leer, criticar, verificar, corregir. Hacen falta competencias distintas y casos "
                               "concretos con los que poner a prueba las reglas.",
-            desc_home="Una propuesta abierta de alternativa al modo en que organizamos la vida colectiva: "
+            desc_home="Nacida del rechazo a las injusticias de hoy, una propuesta abierta de alternativa al modo en que organizamos la vida colectiva: "
                       "el recorrido, la Constitución, los Códigos.",
             figura="Personas dispuestas en círculo, todas iguales, con otras comunidades conectadas alrededor",
             si_uniscono="se unen en",
@@ -535,8 +535,8 @@ LINGUE = {
             desc_reg="Constitution, Codes et Annexes du Projet des Cercles, avec toutes leurs versions.",
             versione="version",
             etichetta="Une proposition ouverte", domanda="Quelles alternatives avons-nous ?",
-            attacco="Le Projet des Cercles est une proposition d’alternative à la manière dont nous organisons "
-                    "aujourd’hui la vie collective. Il part de la personne, organise la collectivité et construit les "
+            attacco="Le Projet des Cercles naît du refus des injustices du monde d’aujourd’hui, et propose une autre "
+                    "manière de vivre ensemble. Il part de la personne, organise la collectivité et construit les "
                     "outils pour qu’aucune des deux n’ait à dominer l’autre.",
             comincia="Commencer par le parcours", vai_regole="Aller aux règles", prova_caso="Mettre un cas à l’épreuve",
             h_prova="Mettez-la à l’épreuve",
@@ -554,8 +554,8 @@ LINGUE = {
             senza_conto="Pas de compte GitHub ? Écrivez à {mail} : une ligne suffit.",
             h_minuto="En une minute",
             minuto=[
+                ("Pourquoi", "Parce que le monde d’aujourd’hui est injuste, et pas par hasard. Il exploite les êtres humains et la planète. Les États usent de la violence contre leurs propres citoyens et font la guerre à d’autres peuples. Ceux qui ont le pouvoir restent presque toujours impunis. Le système dans lequel nous vivons produit beaucoup, mais il ne transforme pas cette richesse en sécurité, en temps et en liberté de choix pour les personnes : ceux qui décident, ceux qui gagnent et ceux qui paient sont de plus en plus souvent des personnes différentes, et le présent se paie en reportant les coûts sur l’avenir. Ces injustices ne sont pas des accidents : elles sont produites par la manière dont le système est construit. C’est pourquoi corriger les effets ne suffit pas : il faut changer les conditions qui les produisent. C’est la raison pour laquelle ce projet existe."),
                 ("Ce que c’est", "Une proposition pour organiser la vie en commun à partir des besoins des personnes. Elle est écrite dans son intégralité, article par article : une Constitution et les Codes qui la mettent en pratique, avec leurs annexes techniques. Elle n’est en vigueur nulle part."),
-                ("Pourquoi", "Le système dans lequel nous vivons produit beaucoup, mais il ne transforme pas de manière proportionnée cette richesse en sécurité, en temps et en capacité de choix pour les personnes. Ceux qui décident, ceux qui en profitent et ceux qui paient sont de plus en plus souvent des personnes différentes, et le présent est financé en transférant des coûts sur l’avenir. C’est pourquoi corriger les effets ne suffit pas : il faut changer les conditions qui les produisent."),
                 ("Ce qu’elle garantit", "À chaque membre, le logement, la nourriture, l’eau, l’énergie, les soins, l’instruction et la connexion. Ce n’est pas la rémunération du travail : les biens se prennent dans les Entrepôts communs selon le besoin, et entre les membres l’argent ne circule pas. Ce qui est personnel reste personnel."),
                 ("Ce qu’elle demande", "À chaque adulte qui le peut, une part du travail nécessaire à tous, par rotation : en moyenne pas plus de quinze heures par semaine. Et le renoncement à la propriété privée de la terre et des moyens de production, à l’accumulation, aux armes et à l’exploitation des animaux. Qui n’est pas d’accord peut sortir quand il veut."),
                 ("Qui décide", "Chacun vit dans un Noyau de soin (Cercle 0), où la Communauté n’entre que pour protéger quelqu’un. Les Noyaux forment des Communautés de base, en règle générale de 30 à 500 personnes, qui décident en assemblée : chacun vote pour soi. Les Communautés se fédèrent en cercles plus larges, qui coordonnent et ne commandent pas. Les charges sont tirées au sort parmi des volontaires et ont une durée limitée."),
@@ -584,7 +584,7 @@ LINGUE = {
                     "republiés en entier, mais pas modifiés : {licp}. Les traduire est permis.",
             contribuire_testo="Lire, critiquer, vérifier, corriger. Il faut des compétences diverses et des cas "
                               "concrets pour mettre les règles à l’épreuve.",
-            desc_home="Une proposition ouverte d’alternative à la manière dont nous organisons la vie collective : "
+            desc_home="Née du refus des injustices d’aujourd’hui, une proposition ouverte d’alternative à la manière dont nous organisons la vie collective : "
                       "le parcours, la Constitution, les Codes.",
             figura="Des personnes disposées en cercle, toutes égales, avec d’autres communautés reliées autour",
             si_uniscono="s’unissent en",

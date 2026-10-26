@@ -1,12 +1,12 @@
 ---
 titolo: "C.1-ANNEX A — PRODUCTION MATÉRIELLE ET ATELIERS"
 breve: "Annexe A au Code 1 — Production matérielle et ateliers"
-versione: "V1.4"
+versione: "V1.6"
 gruppo: "allegati"
 ordine: 1.5
 id: "codice-01-annex-a"
 slug: "code-01-annexe-a"
-allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 15 V1.7 ; Code 16 V1.7."
 ---
 
 ## Art. 1 — Objet, définitions et nature juridique
@@ -57,19 +57,19 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 2.  **La réutilisation avant la production de neuf.** Avant de produire un bien neuf, le Conseil Production vérifie si les besoins peuvent être satisfaits par la réutilisation, la réparation ou l’adaptation. La production d’un objet neuf est admise lorsque la réutilisation n’est pas possible, n’est pas adaptée ou ne garantit pas la sécurité requise.
 
-3.  **Priorités d’usage.** Les priorités générales sont celles du Code 1, article 32. Dans le cadre des activités productives, la capacité et les matériaux sont ordonnés comme suit :
+3.  **Priorités d’usage.** Les priorités générales sont celles du Code 1, article 32. Dans le cadre des activités productives, la capacité et les matériaux sont ordonnés selon les niveaux suivants :
 
-    a) les biens du Panier matériel de niveau 1 et les EPI vitaux ;
+    a) niveau 1 : les biens du Panier matériel et les EPI vitaux ; les biens différables de l’article 4, alinéa 1-bis, lettre e), suivent la lettre b) ;
 
-    b) l’entretien des infrastructures critiques pour la santé, le réseau, l’énergie et l’Entrepôt Santé ;
+    b) niveau 2 : l’entretien des infrastructures critiques pour la santé, le réseau, l’énergie et l’Entrepôt Santé ;
 
-    c) les mesures de sécurité et les outils nécessaires à l’entretien ;
+    c) niveau 3 : les mesures de sécurité et les outils nécessaires à l’entretien ;
 
-    d) les biens et les outils pour la CBO de la Liste A ;
+    d) niveau 4 : les biens et les outils pour la CBO de la Liste A ;
 
-    e) toute autre demande motivée.
+    e) niveau 5 : toute autre demande motivée.
 
-    En cas de pénurie, la réduction des activités productives non essentielles procède progressivement du niveau 5 vers les niveaux prioritaires. La réduction est délibérée par l’Assemblée sur proposition du Conseil Production et ne peut pas compromettre les priorités supérieures définies par le Code 1.
+    En cas de pénurie, la réduction des activités productives non essentielles procède progressivement du niveau 5 vers le niveau 1. La réduction est délibérée par l’Assemblée sur proposition du Conseil Production et ne peut pas compromettre les priorités supérieures définies par le Code 1.
 
 4.  **Matériel libre et reproductibilité.** Tout objet ou composant fonctionnellement important et standardisé produit pour les niveaux 1–4 dispose d’une documentation suffisante pour permettre son étude, sa réparation, sa modification et sa reproduction. La documentation comprend, selon les besoins, les STV, les plans, la liste des matériaux et les procédures opérationnelles. Pour la petite quincaillerie non significative, la référence à une norme accessible et à une procédure de remplacement suffit. La reproductibilité doit en tout état de cause être garantie pour les biens des niveaux 1–4.
 
@@ -153,7 +153,7 @@ e) ils sont différables au sens de l’article 32, alinéa 1-bis, du Code 1, sa
 
 5.  Les demandes sont traitées dans l’ordre suivant, en cohérence avec le Code 1, article 32 :
 
-    a) les biens du Panier et les EPI vitaux ;
+    a) les biens du Panier matériel et les EPI vitaux ; les biens différables de l’alinéa 1-bis, lettre e), suivent la lettre b) ;
 
     b) l’entretien des infrastructures critiques ;
 
@@ -231,13 +231,13 @@ e) ils sont différables au sens de l’article 32, alinéa 1-bis, du Code 1, sa
 
     L’aménagement et l’utilisation respectent les Fiches de sécurité et les exigences du Code 14.
 
-2.  La Confédération assure l’accès effectif de chaque Cercle 1 à un Atelier avancé fédéré. La planification est définie par bassins territoriaux et tient compte de la population, des distances, du territoire et des capacités. À titre de critère ordinaire, il est prévu au moins un Atelier avancé pour trois ou quatre Cercles 1, sauf planification différente motivée.
+2.  La Confédération assure l’accès effectif de chaque Cercle 1 à un Atelier avancé fédéré. La planification est définie pour chaque Cercle 2 par son Assemblée générale, sur proposition du Conseil Production commun prévu à l’article 12-bis, alinéa 6-bis, du Code 3, et tient compte de la population, des distances, du territoire et des capacités. À titre de critère ordinaire, il est prévu au moins un Atelier avancé pour trois ou quatre Cercles 1 du Cercle 2, sauf planification différente motivée.
 
-3.  L’Atelier avancé peut comprendre la soudure, la forge légère, les machines-outils, l’électronique et les circuits imprimés, l’impression 3D de grand format, la découpe laser et la production d’EPI complexes, dans les limites des STV et des Fiches de sécurité applicables. L’utilisation des équipements est réservée aux personnes ayant la formation et l’habilitation requises. L’accès peut être réservé par les Cercles du bassin ; l’inventaire et la gestion sont fédérés.
+3.  L’Atelier avancé peut comprendre la soudure, la forge légère, les machines-outils, l’électronique et les circuits imprimés, l’impression 3D de grand format, la découpe laser et la production d’EPI complexes, dans les limites des STV et des Fiches de sécurité applicables. L’utilisation des équipements est réservée aux personnes ayant la formation et l’habilitation requises. L’accès peut être réservé par les Cercles 1 du Cercle 2 ; l’inventaire et la gestion sont fédérés.
 
 4.  Les Micro-postes diffus comprennent, à titre d’exemple, des armoires communes à outils, des bibliothèques d’outils, des imprimantes 3D de petite taille, des postes de couture et des centres de démontage et de réutilisation. Ils sont enregistrés auprès du Conseil Production et fonctionnent selon des STV et des Fiches de sécurité adaptées à leur activité.
 
-5.  La collecte de données n’est admise qu’à des fins de sécurité, de bilan matériel, d’entretien et de vérification du Panier. Les données sont agrégées par atelier ou par bassin. Le profilage comportemental individuel est interdit. Les durées de conservation et les accès sont réduits au minimum et définis dans les STV, conformément au Code 7, article 2.2.
+5.  La collecte de données n’est admise qu’à des fins de sécurité, de bilan matériel, d’entretien et de vérification du Panier. Les données sont agrégées par atelier, par Cercle 1 ou par Cercle 2. Le profilage comportemental individuel est interdit. Les durées de conservation et les accès sont réduits au minimum et définis dans les STV, conformément au Code 7, article 2.2.
 
 6.  Les stocks de matériaux sont dimensionnés en fonction du Panier et des besoins des niveaux 1–3 et ne peuvent pas être constitués à des fins spéculatives. Aucun Cercle ne peut être organisé de manière à dépendre structurellement d’un seul autre Cercle pour le Panier matériel.
 
@@ -327,7 +327,7 @@ e) ils sont différables au sens de l’article 32, alinéa 1-bis, du Code 1, sa
 
     c) garantit le Panier matériel minimal, y compris par la réutilisation, à condition qu’elle soit sûre et conforme.
 
-3.  Dans un délai de douze mois à compter de l’entrée en vigueur, chaque pôle productif active un Atelier avancé minimal, un inventaire fédéré et un nœud du Réseau des ateliers, en coordination avec la transition prévue par le Code 8. En cas de chevauchements documentés des charges transitoires des Codes 8 et 9, l’Assemblée peut accorder une prorogation motivée n’excédant pas six mois, avec un plan contraignant et la garantie de la continuité du Panier.
+3.  Dans un délai de douze mois à compter de l’entrée en vigueur, dans chaque Cercle 2, le Conseil Production commun prévu à l’article 12-bis, alinéa 6-bis, du Code 3 active au moins un Atelier avancé minimal selon l’article 6, alinéa 2, un inventaire fédéré et un nœud du Réseau des ateliers, en coordination avec la transition prévue par le Code 8. Si le Cercle 2 est constitué après l’entrée en vigueur, le délai court à compter de sa constitution. En cas de chevauchements documentés des charges transitoires des Codes 8 et 9, l’Assemblée générale du Cercle 2 peut accorder une prorogation motivée n’excédant pas six mois, avec un plan contraignant et la garantie de la continuité du Panier.
 
 4.  Dans un délai de vingt-quatre mois à compter de l’entrée en vigueur, un plan de sortie est adopté pour les dépendances matérielles critiques relatives au Panier et aux EPI, avec un terme final certain pour chaque dépendance.
 

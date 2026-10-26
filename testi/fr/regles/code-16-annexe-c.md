@@ -1,7 +1,7 @@
 ---
 titolo: "ANNEXE TECHNIQUE C AU CODE 16 — CHARTE OPÉRATIONNELLE DE LA PREMIÈRE ANNÉE"
 breve: "Annexe C au Code 16 — Charte opérationnelle de la première année"
-versione: "V1.0"
+versione: "V1.2"
 gruppo: "allegati"
 ordine: 16.3
 id: "codice-16-allegato-c"
@@ -54,12 +54,12 @@ Annexe technique adoptée en application de l’article 19 du Code 3 et visée a
 
 1.  On part des besoins : chaque trimestre, l’Assemblée approuve les besoins et le Bilan du travail prévus à l’article 2 du Code 1.
 2.  La CBO ne dépasse pas une moyenne de quinze heures hebdomadaires, conformément à l’article 3 du Code 1. Les tâches désagréables et pénibles tournent entre tous.
-3.  Si les heures nécessaires dépassent les heures disponibles, on réduit d’abord les activités qui peuvent être différées et on simplifie les formalités ; on n’augmente pas la limite.
+3.  Si les heures nécessaires dépassent les heures disponibles, on réduit d’abord les activités qui peuvent être différées et on simplifie les formalités ; on n’augmente pas la limite, sauf dans le cadre du Protocole de solidarité, en application de l’article 3, alinéa 3, du Code 1.
 4.  Le travail extérieur des personnes n’est pas de la CBO et reste libre, conformément à l’article 19 du Code 15.
 
 ## Art. 6 — Panier et Entrepôt
 
-1.  Les niveaux 1 et 2 de la hiérarchie de l’article 32 du Code 1 sont prioritaires : eau, nourriture, énergie de base, soins, logement.
+1.  Les urgences vitales et les besoins essentiels sont prioritaires : eau, nourriture, énergie de base, soins, logement. Dans les conflits de capacité, l’article 32 du Code 1 s’applique ; le Panier 1-2 est défini par l’alinéa 1-quinquies du même article.
 2.  L’inventaire de l’Entrepôt est public sous forme agrégée. Les biens du Panier sont distribués selon les besoins et ne font pas l’objet de ventes ou d’achats entre les membres.
 3.  Ce qui ne peut pas encore être produit est acheté à l’extérieur par la Caisse commune et inscrit comme une dépendance à réduire.
 

@@ -1,7 +1,7 @@
 ---
 titolo: "ALLEGATO TECNICO C AL CODICE 16 — CARTA OPERATIVA DEL PRIMO ANNO"
 breve: "Allegato C al Codice 16 — Carta operativa del primo anno"
-versione: "V1.0"
+versione: "V1.2"
 gruppo: "allegati"
 ordine: 16.3
 id: "codice-16-allegato-c"
@@ -54,12 +54,12 @@ Allegato tecnico adottato ai sensi dell’articolo 19 del Codice 3 e richiamato 
 
 1.  Si parte dai bisogni: ogni trimestre l’Assemblea approva il fabbisogno e il Bilancio del Lavoro previsti dall’articolo 2 del Codice 1.
 2.  Il CBO non supera una media di quindici ore settimanali, secondo l’articolo 3 del Codice 1. I compiti sgradevoli e usuranti ruotano tra tutti.
-3.  Se le ore necessarie superano quelle disponibili, prima si riducono le attività differibili e si semplificano gli adempimenti; non si aumenta il limite.
+3.  Se le ore necessarie superano quelle disponibili, prima si riducono le attività differibili e si semplificano gli adempimenti; non si aumenta il limite, salvo il Protocollo di Solidarietà, ai sensi dell’articolo 3, comma 3, del Codice 1.
 4.  Il lavoro esterno delle persone non è CBO e resta libero, secondo l’articolo 19 del Codice 15.
 
 ## Art. 6 — Paniere e Magazzino
 
-1.  Hanno priorità i livelli 1 e 2 della gerarchia dell’articolo 32 del Codice 1: acqua, cibo, energia di base, cure, alloggio.
+1.  Hanno priorità le emergenze vitali e i bisogni essenziali: acqua, cibo, energia di base, cure, alloggio. Nei conflitti di capacità si applica l’articolo 32 del Codice 1; il Paniere 1-2 è definito dal comma 1-quinquies del medesimo articolo.
 2.  L’inventario del Magazzino è pubblico in forma aggregata. I beni del Paniere sono distribuiti secondo il bisogno e non sono oggetto di compravendita tra i membri.
 3.  Ciò che non può ancora essere prodotto è acquistato all’esterno dalla Cassa comune ed è iscritto come dipendenza da ridurre.
 

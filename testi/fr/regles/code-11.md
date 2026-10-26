@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 11 — DE LA LOGISTIQUE ET DE LA MOBILITÉ DE BASE"
 breve: "Code 11 — Logistique et mobilité de base"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "codici"
 ordine: 11
 id: "codice-11"
 slug: "code-11"
-allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 15 V1.7 ; Code 16 V1.7."
 ---
 
 ## Art. 1 — Objet et définitions
@@ -45,7 +45,9 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     c) **Panier logistique :** l’ensemble des procédures permettant de livrer le Panier à domicile ou à un point d’échange accessible, selon des délais et des priorités établis ;
 
-    d) **STV Logistique :** fiche technique de validation relative à un véhicule, à un type de parcours, à une catégorie de charge ou à une procédure de livraison.
+    d) **STV Logistique :** Fiche technique de validation, au sens de l’article 3-bis du Code 2, relative à un véhicule, à un type de parcours, à une catégorie de charge ou à une procédure de livraison ;
+
+    e) **niveaux :** les niveaux 1 à 5 correspondent aux lettres a) à e) de l’article 2, alinéa 4. Les expressions « Panier de niveau 1–2 » et « prestations de niveau 1–2 » désignent la livraison du Panier 1-2 défini par l’article 32, alinéa 1-quinquies, du Code 1.
 
 ## Art. 2 — Principes
 
@@ -63,19 +65,19 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 3.  **Réemploi avant tout nouvel achat.** Avant d’acheter un véhicule ou un outil, on vérifie la disponibilité d’alternatives réutilisables, réparables ou adaptables dans le Cercle ou dans les Cercles voisins.
 
-4.  **Priorité du service.** Dans le respect de la hiérarchie de l’article 32 du Code 1, l’allocation logistique suit l’ordre suivant :
+4.  **Priorité du service.** Sans préjudice de l’article 32 du Code 1, l’allocation logistique suit l’ordre suivant :
 
     a) Panier, EPI et dotations de l’Entrepôt Santé destinés aux personnes fragiles au sens du Code 12 ;
 
-    b) pièces de rechange nécessaires à la continuité des infrastructures critiques pour le Réseau, l’énergie et la production ;
+    b) Panier destiné au reste de la population ;
 
-    c) Panier destiné au reste de la population ;
+    c) pièces de rechange nécessaires à la continuité des infrastructures critiques pour le Réseau, l’énergie et la production ;
 
     d) outils et matériaux pour la CBO de Liste A ;
 
     e) autres biens communs.
 
-5.  Les priorités visées à l’alinéa 4 se coordonnent avec les articles 18, 19 et 32 du Code 1 et avec les Codes 8 et 9.
+5.  Les priorités visées à l’alinéa 4 se coordonnent avec les articles 18, 19 et 32 du Code 1 et avec les Codes 8 et 9. En cas de conflit, l’article 32 du Code 1 prévaut. Les pièces de rechange de la lettre c) de l’alinéa 4 ne précèdent la livraison du Panier qu’avec la dérogation de l’article 32, alinéa 3, du Code 1.
 
 6.  **Transparence sans profilage.** Le Registre des livraisons contient des données agrégées par catégorie, par tranche horaire et par résultat, sans identifiants individuels. Il est géré dans le Réseau conformément au Code 7, article 2.2. Il est interdit de suivre les personnes à des fins autres que la garantie du service et la gestion technique des livraisons.
 
@@ -177,7 +179,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     d) d’un fournisseur unique dépourvu d’alternative praticable.
 
-7.  Une dérogation transitoire motivée, d’une durée n’excédant pas douze mois, est admise uniquement pour garantir la continuité du Panier et avec :
+7.  Une dérogation transitoire motivée, d’une durée n’excédant pas douze mois, est admise uniquement pour garantir la continuité du Panier, uniquement pour une dépendance que la STV classe comme résiduelle et surmontable en application de l’article 5, alinéa 2, lettre b), du Code 2, et avec :
 
     a) un Plan de sortie contraignant ;
 
@@ -258,6 +260,20 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 7.  La CBO en mobilité ne peut être demandée auprès de la Communauté d’accueil que si elle est compatible avec la situation de la personne, et elle est comptabilisée dans sa CBO.
 8.  Le Panier de l’hôte est assuré par l’Entrepôt de la Communauté d’accueil ; les différences sont compensées par l’intermédiaire du Solde prévu par le Code 15.
 9.  Le registre de l’hospitalité ne contient que des données agrégées et sans profilage, conformément au Code 7, article 2.2.
+
+## Art. 6-quater — Logistique fédérée des Cercles 2 et 3
+
+1.  Les moyens avancés partagés de l’article 6, alinéas 3 à 5, les caravanes et le cabotage à voile du Cercle 2 sont gérés par le Conseil Logistique commun du Cercle 2, constitué en application de l’article 12-bis, alinéa 6-bis, du Code 3. Le Conseil en assure la garde, l’entretien, les STV et les Fiches de sécurité, la réservation prévue par l’article 6, alinéa 5, et par l’article 6-bis, alinéa 4, ainsi que les registres des chargements et des entretiens.
+
+2.  Le temps d’utilisation des moyens de l’alinéa 1 est réparti entre les Communautés selon la règle délibérée par l’Assemblée générale du Cercle 2, sur proposition du Conseil Logistique commun et dans le respect des priorités de l’article 2, alinéa 4. Jusqu’à cette délibération, la règle suivante s’applique :
+
+    a) sont servies en premier, dans l’ordre d’enregistrement, les demandes relevant des priorités de l’article 2, alinéa 4, lettres a) et b), et les déplacements qui ne requièrent pas de CdR en application de l’article 6-bis, alinéa 4 ;
+
+    b) les autres demandes sont servies dans l’ordre d’enregistrement ; lorsqu’elles dépassent la disponibilité du mois, aucune Communauté n’obtient plus que la part proportionnelle au nombre de ses membres tant que restent des demandes d’autres Communautés.
+
+    L’application de la règle est un acte technique lié. Aucune répartition ne peut retirer à une Communauté l’accès effectif garanti par l’article 6, alinéa 3.
+
+3.  Le réseau ferroviaire du Cercle 3 et les transports prévus par l’article 10 du Code 15 suivent un protocole ferroviaire du Cercle 3, approuvé par son Assemblée générale comme Annexe technique en application de l’article 19 du Code 3 et mis en œuvre par le Conseil Logistique commun du Cercle 3, constitué en application du même alinéa 6-bis. Le recours à des transporteurs extérieurs est inscrit au Registre des dépendances.
 
 ## Art. 7 — Sécurité
 

@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 11 — DELLA LOGISTICA E DELLA MOBILITÀ DI BASE"
 breve: "Codice 11 — Logistica e mobilità di base"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "codici"
 ordine: 11
 id: "codice-11"
 slug: "codice-11"
-allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.7; Codice 16 V1.7."
 ---
 
 ## Art. 1 — Oggetto e definizioni
@@ -45,7 +45,9 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     c) **Paniere Logistico:** insieme delle procedure per consegnare il Paniere a domicilio o presso un punto di scambio accessibile, secondo tempi e priorità stabiliti;
 
-    d) **STV Logistica:** scheda tecnica di validazione relativa a un veicolo, a una tipologia di percorso, a una categoria di carico o a una procedura di consegna.
+    d) **STV Logistica:** Scheda Tecnica di Validazione, ai sensi dell’articolo 3-bis del Codice 2, relativa a un veicolo, a una tipologia di percorso, a una categoria di carico o a una procedura di consegna;
+
+    e) **livelli:** i livelli da 1 a 5 corrispondono alle lettere da a) a e) dell’articolo 2, comma 4. Le espressioni «Paniere di livello 1–2» e «prestazioni di livello 1–2» indicano la consegna del Paniere 1-2 definito dall’articolo 32, comma 1-quinquies, del Codice 1.
 
 ## Art. 2 — Principi
 
@@ -63,19 +65,19 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 3.  **Riuso prima del nuovo acquisto.** Prima di acquistare un veicolo o uno strumento, è verificata la disponibilità di alternative riutilizzabili, riparabili o adattabili nel Cerchio o nei Cerchi limitrofi.
 
-4.  **Priorità del servizio.** Nel rispetto della gerarchia dell’articolo 32 del Codice 1, l’allocazione logistica segue il seguente ordine:
+4.  **Priorità del servizio.** Fermo l’articolo 32 del Codice 1, l’allocazione logistica segue il seguente ordine:
 
     a) Paniere, DPI e dotazioni del Magazzino Salute destinati alle persone fragili ai sensi del Codice 12;
 
-    b) ricambi necessari alla continuità delle infrastrutture critiche per Rete, energia e produzione;
+    b) Paniere destinato al resto della popolazione;
 
-    c) Paniere destinato al resto della popolazione;
+    c) ricambi necessari alla continuità delle infrastrutture critiche per Rete, energia e produzione;
 
     d) strumenti e materiali per il CBO di Lista A;
 
     e) altri beni comuni.
 
-5.  Le priorità di cui al comma 4 si coordinano con gli articoli 18, 19 e 32 del Codice 1 e con i Codici 8 e 9.
+5.  Le priorità di cui al comma 4 si coordinano con gli articoli 18, 19 e 32 del Codice 1 e con i Codici 8 e 9. In caso di conflitto prevale l’articolo 32 del Codice 1. I ricambi della lettera c) del comma 4 precedono la consegna del Paniere soltanto con la deroga dell’articolo 32, comma 3, del Codice 1.
 
 6.  **Trasparenza non profilante.** Il Registro delle consegne contiene dati aggregati per categoria, fascia oraria ed esito, senza identificativi individuali. È gestito nella Rete secondo il Codice 7, articolo 2.2. È vietato tracciare le persone per finalità diverse dalla garanzia del servizio e dalla gestione tecnica delle consegne.
 
@@ -177,7 +179,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     d) da un fornitore unico privo di alternativa praticabile.
 
-7.  È ammessa una deroga transitoria motivata, di durata non superiore a dodici mesi, solo per garantire la continuità del Paniere e con:
+7.  È ammessa una deroga transitoria motivata, di durata non superiore a dodici mesi, solo per garantire la continuità del Paniere, solo per una dipendenza che la STV classifica come residua e superabile ai sensi dell’articolo 5, comma 2, lettera b), del Codice 2, e con:
 
     a) Piano di Uscita vincolante;
 
@@ -258,6 +260,20 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 7.  Il CBO in mobilità può essere richiesto presso la Comunità ospitante solo se è compatibile con la condizione della persona ed è computato nel suo CBO.
 8.  Il Paniere dell’ospite è assicurato dal Magazzino della Comunità ospitante; le differenze sono compensate tramite il Saldo previsto dal Codice 15.
 9.  Il registro dell’ospitalità contiene soltanto dati aggregati e non profilanti, secondo il Codice 7, articolo 2.2.
+
+## Art. 6-quater — Logistica federata dei Cerchi 2 e 3
+
+1.  I mezzi avanzati condivisi dell’articolo 6, commi 3–5, le carovane e il cabotaggio a vela del Cerchio 2 sono gestiti dal Consiglio Logistica condiviso del Cerchio 2, costituito ai sensi dell’articolo 12-bis, comma 6-bis, del Codice 3. Il Consiglio ne cura la custodia, la manutenzione, le STV e le Schede di Sicurezza, la prenotazione prevista dall’articolo 6, comma 5, e dall’articolo 6-bis, comma 4, e i registri dei carichi e delle manutenzioni.
+
+2.  Il tempo d’uso dei mezzi del comma 1 è ripartito tra le Comunità secondo la regola deliberata dall’Assemblea Generale del Cerchio 2, su proposta del Consiglio Logistica condiviso e nel rispetto delle priorità dell’articolo 2, comma 4. Fino alla deliberazione si applica la regola seguente:
+
+    a) sono servite per prime, nell’ordine di registrazione, le richieste delle priorità dell’articolo 2, comma 4, lettere a) e b), e gli spostamenti che non richiedono CdR ai sensi dell’articolo 6-bis, comma 4;
+
+    b) le altre richieste sono servite nell’ordine di registrazione; quando superano la disponibilità del mese, nessuna Comunità ottiene più della quota proporzionale al numero dei suoi membri finché restano richieste di altre Comunità.
+
+    L’applicazione della regola è un atto tecnico vincolato. Nessuna ripartizione può togliere a una Comunità l’accesso effettivo garantito dall’articolo 6, comma 3.
+
+3.  La rete ferroviaria del Cerchio 3 e i trasporti previsti dall’articolo 10 del Codice 15 seguono un protocollo ferroviario del Cerchio 3, approvato dalla sua Assemblea Generale come Allegato Tecnico ai sensi dell’articolo 19 del Codice 3 e attuato dal Consiglio Logistica condiviso del Cerchio 3, costituito ai sensi del medesimo comma 6-bis. Il ricorso a vettori esterni è iscritto nel Registro Dipendenze.
 
 ## Art. 7 — Sicurezza
 

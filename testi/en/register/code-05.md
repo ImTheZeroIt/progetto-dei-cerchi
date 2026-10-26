@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 5 — ON LEARNING AND COMPETENCES"
 breve: "Code 5 — Learning and competences"
-versione: "V1.4"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 5
 id: "codice-05"
 slug: "code-05"
-allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 15 V1.7; Code 16 V1.7."
 ---
 
 ## PRELIMINARY TITLE — FUNDAMENTAL PRINCIPLES
@@ -101,9 +101,11 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     a) **Level 1 — practical test:** self-description of the competence and an observable practical test before at least two competent persons. It applies to tasks of nil or low risk;
 
-    b) **Level 2 — peer validation:** confirmation by the competent practice Circle, on the basis of a practical test and of verification of the applicable STVs. It applies to tasks of medium risk;
+    b) **Level 2 — peer validation:** confirmation, on the basis of a practical test and of verification of the applicable STVs, by at least two persons validated at least at Level 2 in the same competence, including persons from other Communities, identified by the Competences Council; the Competences Council records the confirmation and decides on the change of level pursuant to Article 5, paragraph 3. It applies to tasks of medium risk;
 
     c) **Level 3 — qualified validation:** it applies to high-risk tasks. It includes, by way of example, competences in the fields of health, energy, structural building, the operation of vehicles, the use of plant protection products, critical Network systems and safety as governed by Code 14, as well as any other competence classified as high-risk in accordance with the STVs. Validation is carried out by the Competences Council on the basis of a documented test and of verification of the applicable STVs.
+
+2-bis. In the Codes, L1, L2 and L3 denote Levels 1, 2 and 3 of paragraph 2; training at level L1, L2 or L3 is the pathway leading to the corresponding validation. For the purposes of paragraph 2, the risk of a task carried out in an activity classified in accordance with Article 1, paragraph 3, of Code 14 is nil for class R0, low for class R1, medium for class R2 and high for class R3; R4 activities are suspended and shall not be carried out until the risk has been reduced. The training required by Code 14 for safety is in addition to the validation of the competence provided for by this Article and does not replace it.
 
 3.  The outcome of validation shall be recorded in the Personal Portfolio in descriptive form and shall indicate at least:
 
@@ -199,7 +201,7 @@ The outcome shall not be expressed as a numerical mark or ranking and does not c
 
 1.  Children’s learning takes place through participation in the life of the Circle, play, care, exploration and light and safe activities, in compliance with the rights of the minor and with Code 12.
 
-2.  Until the fourteenth year of age is completed, no mandatory CBO may be assigned. Voluntary participation in learning activities is permitted, provided that it is appropriate to the age, not dangerous and supervised.
+2.  No mandatory CBO may be assigned to minors, pursuant to paragraph 5. Until the fourteenth year of age is completed, only voluntary participation in learning activities is permitted, provided that it is appropriate to the age, not dangerous and supervised.
 
 3.  For minors until the fourteenth year is completed, the following are prohibited:
 
@@ -227,7 +229,9 @@ Assessment is descriptive and considers what the minor is able to do, what they 
 
 5.  The CBO of minors is always voluntary and revocable. Participation requires the informed consent of the minor and the involvement of the Care Council, in compliance with Codes 12 and 14.
 
-6.  From completion of the eighteenth year the ordinary rules shall apply, including the measures of exemption, reduction or suspension provided for by Code 1.
+6.  From completion of the eighteenth year the ordinary rules shall apply, including the measures of exemption, reduction or suspension provided for by Code 1. For a person who has grown up in the Confederation, the ordinary rules apply from the choice provided for by Article 26.4 of the Constitution or from the expiry of the related time limit; until then their CBO remains voluntary pursuant to paragraph 5, without the consent of the Care Council, and they retain the rights of a member.
+
+6-bis. In implementation of Article 26.4 of the Constitution, at least three months before the eighteenth birthday the Competences Council, with the Care Council, informs the person who has grown up in the Confederation in writing of the three possibilities, of the time limit, of the rights of Article 4.8 of the Constitution and of the support for starting an autonomous life, and organises at their request the period of acquaintance with other Communities and with external realities. The choice is declared in writing to the Assembly of Circle 1 or recorded in the personal AI Node; the person may review it at any time. The time limit does not run until the information has been given.
 
 7.  Every minor learner shall be accompanied by three reference figures on quarterly rotation, belonging to different Competence Circles and not belonging to the minor’s family or Circle 0, pursuant to Article 29.3 of the Constitution. The figures shall be identified by the Competences Council with the participation of the minor.
 

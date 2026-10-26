@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 5 — DE L’APPRENTISSAGE ET DES COMPÉTENCES"
 breve: "Code 5 — Apprentissage et compétences"
-versione: "V1.4"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 5
 id: "codice-05"
 slug: "code-05"
-allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 15 V1.7 ; Code 16 V1.7."
 ---
 
 ## TITRE PRÉLIMINAIRE — PRINCIPES FONDAMENTAUX
@@ -101,9 +101,11 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     a) **Niveau 1 — épreuve pratique :** autodescription de la compétence et épreuve pratique observable devant au moins deux personnes compétentes. Il s’applique aux tâches à risque nul ou faible ;
 
-    b) **Niveau 2 — validation par les pairs :** confirmation par le Cercle de pratique compétent, sur la base d’une épreuve pratique et de la vérification des STV applicables. Il s’applique aux tâches à risque moyen ;
+    b) **Niveau 2 — validation par les pairs :** confirmation, sur la base d’une épreuve pratique et de la vérification des STV applicables, par au moins deux personnes validées au moins au Niveau 2 dans la même compétence, y compris d’autres Communautés, désignées par le Conseil des Compétences ; le Conseil des Compétences enregistre la confirmation et décide du passage de niveau en application de l’article 5, alinéa 3. Il s’applique aux tâches à risque moyen ;
 
     c) **Niveau 3 — validation qualifiée :** il s’applique aux tâches à risque élevé. Il comprend, à titre d’exemple, les compétences dans les domaines de la santé, de l’énergie, de la construction structurelle, de la conduite de véhicules, de l’utilisation de produits phytopharmaceutiques, des systèmes critiques du Réseau et de la sécurité régie par le Code 14, ainsi que toute autre compétence classée à risque élevé selon les STV. La validation est effectuée par le Conseil des Compétences sur la base d’une épreuve documentée et de la vérification des STV applicables.
+
+2-bis. Dans les Codes, L1, L2 et L3 désignent les Niveaux 1, 2 et 3 de l’alinéa 2 ; la formation de niveau L1, L2 ou L3 est le parcours qui conduit à la validation correspondante. Aux fins de l’alinéa 2, le risque d’une tâche effectuée dans une activité classée selon l’article 1, alinéa 3, du Code 14 est nul pour la classe R0, faible pour la classe R1, moyen pour la classe R2 et élevé pour la classe R3 ; les activités R4 sont suspendues et ne sont pas exercées tant que le risque n’a pas été réduit. La formation exigée par le Code 14 pour la sécurité s’ajoute à la validation de la compétence prévue par le présent article et ne la remplace pas.
 
 3.  Le résultat de la validation est inscrit dans le Portfolio personnel sous forme descriptive et indique au moins :
 
@@ -199,7 +201,7 @@ Le résultat n’est pas exprimé sous forme de note chiffrée ou de classement 
 
 1.  L’apprentissage des enfants se fait par la participation à la vie du Cercle, le jeu, le soin, l’exploration et des activités légères et sûres, dans le respect des droits du mineur et du Code 12.
 
-2.  Jusqu’à l’âge de quatorze ans révolus, aucun CBO obligatoire ne peut être attribué. La participation volontaire à des activités d’apprentissage est permise, à condition qu’elle soit adaptée à l’âge, non dangereuse et supervisée.
+2.  Aucune CBO obligatoire ne peut être attribuée aux mineurs, au sens de l’alinéa 5. Jusqu’à l’âge de quatorze ans révolus, seule la participation volontaire à des activités d’apprentissage est permise, à condition qu’elle soit adaptée à l’âge, non dangereuse et supervisée.
 
 3.  Pour les mineurs jusqu’à l’âge de quatorze ans révolus, sont interdits :
 
@@ -227,7 +229,9 @@ L’évaluation est descriptive et prend en compte ce que le mineur sait faire, 
 
 5.  La CBO des mineurs est toujours volontaire et révocable. La participation requiert le consentement éclairé du mineur et l’implication du Conseil Soin, dans le respect des Codes 12 et 14.
 
-6.  À partir de l’âge de dix-huit ans révolus, les règles ordinaires s’appliquent, y compris les mesures d’exemption, de réduction ou de suspension prévues par le Code 1.
+6.  À partir de l’âge de dix-huit ans révolus, les règles ordinaires s’appliquent, y compris les mesures d’exemption, de réduction ou de suspension prévues par le Code 1. Pour la personne qui a grandi dans la Confédération, les règles ordinaires s’appliquent à partir du choix prévu par l’article 26.4 de la Constitution ou de l’expiration du délai correspondant ; jusque-là, sa CBO reste volontaire au sens de l’alinéa 5, sans le consentement du Conseil Soin, et elle conserve les droits de membre.
+
+6-bis. En application de l’article 26.4 de la Constitution, au moins trois mois avant le dix-huitième anniversaire, le Conseil des Compétences, avec le Conseil Soin, informe par écrit la personne qui a grandi dans la Confédération des trois possibilités, du délai, des droits de l’article 4.8 de la Constitution et du soutien au démarrage de la vie autonome, et organise à sa demande la période de découverte d’autres Communautés et de réalités extérieures. Le choix est déclaré par écrit à l’Assemblée du Cercle 1 ou enregistré dans le Nœud-IA personnel ; la personne peut le revoir à tout moment. Le délai ne court pas tant que l’information n’a pas été donnée.
 
 7.  Chaque apprenant mineur est accompagné par trois figures de référence en rotation trimestrielle, appartenant à des Cercles de compétence différents et n’appartenant ni à sa famille ni à son Cercle 0, en application de l’article 29.3 de la Constitution. Ces figures sont désignées par le Conseil des Compétences avec la participation du mineur.
 

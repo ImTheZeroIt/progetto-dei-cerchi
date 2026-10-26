@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 5 — DELL’APPRENDIMENTO E DELLE COMPETENZE"
 breve: "Codice 5 — Apprendimento e competenze"
-versione: "V1.4"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 5
 id: "codice-05"
 slug: "codice-05"
-allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.7; Codice 16 V1.7."
 ---
 
 ## TITOLO PRELIMINARE — PRINCIPI FONDAMENTALI
@@ -101,9 +101,11 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     a) **Livello 1 — prova pratica:** autodescrizione della competenza e prova pratica osservabile davanti ad almeno due persone competenti. Si applica ai compiti a rischio nullo o basso;
 
-    b) **Livello 2 — validazione tra pari:** conferma da parte del Cerchio di pratica competente, sulla base di una prova pratica e della verifica delle STV applicabili. Si applica ai compiti a rischio medio;
+    b) **Livello 2 — validazione tra pari:** conferma, sulla base di una prova pratica e della verifica delle STV applicabili, da parte di almeno due persone validate almeno al Livello 2 nella stessa competenza, anche di altre Comunità, individuate dal Consiglio delle Competenze; il Consiglio delle Competenze registra la conferma e decide il passaggio di livello ai sensi dell’articolo 5, comma 3. Si applica ai compiti a rischio medio;
 
     c) **Livello 3 — validazione qualificata:** si applica ai compiti ad alto rischio. Comprende, a titolo esemplificativo, competenze in ambito sanitario, energetico, edilizio strutturale, conduzione di mezzi, uso di fitofarmaci, sistemi critici di Rete e sicurezza disciplinata dal Codice 14, nonché ogni altra competenza classificata ad alto rischio secondo le STV. La validazione è svolta dal Consiglio delle Competenze sulla base di una prova documentata e della verifica delle STV applicabili.
+
+2-bis. Nei Codici, L1, L2 e L3 indicano i Livelli 1, 2 e 3 del comma 2; la formazione di livello L1, L2 o L3 è il percorso che conduce alla relativa validazione. Ai fini del comma 2, il rischio di un compito svolto in un’attività classificata secondo l’articolo 1, comma 3, del Codice 14 è nullo per la classe R0, basso per la classe R1, medio per la classe R2 e alto per la classe R3; le attività R4 sono sospese e non sono svolte finché il rischio non è ridotto. La formazione richiesta dal Codice 14 per la sicurezza si aggiunge alla validazione della competenza prevista dal presente articolo e non la sostituisce.
 
 3.  L’esito della validazione è registrato nel Portfolio Personale in forma descrittiva e indica almeno:
 
@@ -199,7 +201,7 @@ L’esito non è espresso come voto numerico o graduatoria e non costituisce un 
 
 1.  L’apprendimento dei bambini avviene attraverso la partecipazione alla vita del Cerchio, il gioco, la cura, l’esplorazione e attività leggere e sicure, nel rispetto dei diritti del minore e del Codice 12.
 
-2.  Fino al compimento del quattordicesimo anno di età non può essere assegnato CBO obbligatorio. È consentita la partecipazione volontaria ad attività di apprendimento, purché adeguata all’età, non pericolosa e supervisionata.
+2.  Ai minori non può essere assegnato CBO obbligatorio, ai sensi del comma 5. Fino al compimento del quattordicesimo anno di età è consentita soltanto la partecipazione volontaria ad attività di apprendimento, purché adeguata all’età, non pericolosa e supervisionata.
 
 3.  Per i minori fino al compimento del quattordicesimo anno sono vietati:
 
@@ -227,7 +229,9 @@ La valutazione è descrittiva e considera ciò che il minore sa fare, ciò che d
 
 5.  Il CBO dei minori è sempre volontario e revocabile. La partecipazione richiede il consenso informato del minore e il coinvolgimento del Consiglio Cura, nel rispetto dei Codici 12 e 14.
 
-6.  Dal compimento del diciottesimo anno si applicano le regole ordinarie, comprese le misure di esenzione, riduzione o sospensione previste dal Codice 1.
+6.  Dal compimento del diciottesimo anno si applicano le regole ordinarie, comprese le misure di esenzione, riduzione o sospensione previste dal Codice 1. Per la persona cresciuta nella Confederazione le regole ordinarie si applicano dalla scelta prevista dall’articolo 26.4 della Costituzione o dalla scadenza del relativo termine; fino ad allora il suo CBO resta volontario ai sensi del comma 5, senza il consenso del Consiglio Cura, ed essa conserva i diritti di membro.
+
+6-bis. In attuazione dell’articolo 26.4 della Costituzione, almeno tre mesi prima del diciottesimo compleanno il Consiglio delle Competenze, con il Consiglio Cura, informa per iscritto la persona cresciuta nella Confederazione delle tre possibilità, del termine, dei diritti dell’articolo 4.8 della Costituzione e del sostegno all’avvio della vita autonoma, e organizza su sua richiesta il periodo di conoscenza di altre Comunità e di realtà esterne. La scelta è dichiarata per iscritto all’Assemblea del Cerchio 1 o registrata nel Nodo-IA personale; la persona può rivederla in ogni momento. Il termine non decorre finché l’informazione non è stata data.
 
 7.  Ogni apprendente minore è affiancato da tre figure di riferimento a rotazione trimestrale, appartenenti a Cerchi di Competenza diversi e non appartenenti alla sua famiglia o al suo Cerchio 0, ai sensi dell’articolo 29.3 della Costituzione. Le figure sono individuate dal Consiglio delle Competenze con la partecipazione del minore.
 

@@ -1,23 +1,23 @@
 ---
 titolo: "CODE 14 — GENERAL SAFETY OF PERSONS, INFRASTRUCTURE AND TASKS"
 breve: "Code 14 — General safety"
-versione: "V1.3"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 14
 id: "codice-14"
 slug: "code-14"
-allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 15 V1.7; Code 16 V1.7."
 ---
 
 ## Art. 1 — Subject matter, definitions and allocation of competences
 
-1.  This Code governs prevention of and protection from the general risks affecting persons, infrastructure, equipment, machinery, tasks and shared living and working environments, within the limits of the competences expressly assigned to it. It also governs the Civic Protection Corps and the blind video surveillance provided for in Articles 17 and 18 of the Constitution.
+1.  This Code governs prevention of and protection from the general risks affecting persons, infrastructure, equipment, machinery, tasks and shared living and working environments, within the limits of the competences expressly assigned to it. It also governs the Civic Protection Corps and the blind video surveillance provided for in Articles 17 and 18 of the Constitution and the personal defence provided for in Article 17.9 of the Constitution.
 
 2.  For the purposes of this Code:
 
     a) **general safety** means prevention of and protection from mechanical risks, electrical risks, risks of fire, of structural failure, of work at height, of access to confined spaces, of handling, of the use of equipment and machinery, and from any other risk not expressly assigned to other Codes;
 
-    b) **Safety STV** means the binding technical specification that establishes the criteria, parameters, thresholds, assessment methods and minimum measures of general safety;
+    b) **Safety STV** means the Technical Validation Sheet, adopted in accordance with Article 3-bis of Code 2, that establishes the criteria, parameters, thresholds, assessment methods and minimum measures of general safety;
 
     c) **General Safety Sheet** means the operational technical document that applies the STVs to a specific activity, machine, item of equipment, worksite, environment or task;
 
@@ -72,7 +72,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 2.  The members of the Council shall be drawn by lot in accordance with Article 12-bis of Code 3, shall remain in office for one year and shall not be drawn by lot again for the same Council before twelve months have elapsed from the end of their term of office.
 
-3.  The Council shall operate with at least two thirds of its members present, rounded up. Resolutions shall be adopted by a simple majority of those present, unless this Code or an STV approved in accordance with the competent procedures requires a higher majority for the validation of critical Safety Sheets. Every meeting shall be minuted and the minutes shall be kept for twenty-four months.
+3.  The Council shall operate with at least two thirds of its members present, rounded up. Proposals and discretionary decisions shall be adopted in accordance with Article 12-bis, paragraph 9, of Code 3, by the consensus method and after publication for at least seventy-two hours. Bound technical acts, opinions and the validation of Safety Sheets shall be adopted by a simple majority of those present, unless this Code or an STV approved in accordance with the competent procedures requires a higher majority for the validation of critical Safety Sheets. Every meeting shall be minuted and the minutes shall be kept for twenty-four months.
 
 4.  In the event of unavailability, conflict of interest or coincidence between the supervisory role and direct operational responsibility for the activity, the member concerned shall declare his or her position and abstain. Replacement shall take place in accordance with Article 12-bis of Code 3. A person who validates a Safety Sheet shall not be the sole person operationally responsible for the activity subject to validation: in that case joint verification by a second, independent L2 or L3 member is required.
 
@@ -92,7 +92,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     g) coordinate its activity with the Health Council of Code 6, the Biodiversity Council of Code 13, the Habitat and Territory Council of Code 10, the Agroecological Council of Code 9 and the Care Council of Code 12.
 
-6.  The mandatory opinions of the Safety Council are binding exclusively as regards the general safety parameters assigned to this Code. They shall not modify or replace health, ecological, territorial or production parameters assigned to other Codes.
+6.  The mandatory opinions of the Safety Council, where negative, are binding pursuant to Article 8 of Code 3 exclusively as regards the general safety parameters assigned to this Code. They shall not modify or replace health, ecological, territorial or production parameters assigned to other Codes.
 
 ## Art. 4 — General Safety Sheets, PPE, collective protections and machinery
 
@@ -190,7 +190,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 ## Art. 8-bis — Civic Protection Corps
 
-1.  The Civic Protection Corps is the temporary, unarmed and non-violent civic function provided for in Article 17 of the Constitution. It is neither a police force nor a permanent body. It is activated by Circle 1 or, for supra-local functions, by Circle 2 and is answerable to the Circle that activated it.
+1.  The Civic Protection Corps is the temporary, unarmed and non-violent civic function provided for in Article 17 of the Constitution. It is neither a police force nor a permanent body. It is activated by Circle 1 or, for supra-local functions, by Circle 2 and is answerable to the Circle that activated it. Activation for scheduled interventions, including for a specified service or period, shall be resolved by the Assembly of Circle 1 or, for supra-local functions, by the General Assembly. In case of urgency, the intervention shall be initiated by the reference person on duty of paragraph 5 or, if that person cannot be reached in time, by a member on duty, at the call of anyone or on their own initiative, and shall be communicated without delay to the Circle; the review and validation of Article 8-quater, paragraph 2, count as ratification of the urgent activation.
 
 2.  The Corps shall perform, with rotation among its members, the following functions:
 
@@ -224,8 +224,8 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 ## Art. 8-quater — Recording, review and validation of interventions
 
 1.  Every intervention shall be recorded in full, with respect for the rights of the persons involved. The recordings shall be encrypted and processed in accordance with Code 7.
-2.  Every activation of the Corps shall be subject to review within twenty-four hours and to validation by two neighbouring Communities unconnected with the event, pursuant to Article 17.6 of the Constitution. Each Community shall designate three persons by sortition.
-3.  The recordings shall be published within forty-eight hours in an inspectable form. Data identifying injured persons, minors and uninvolved third parties shall be redacted.
+2.  Every activation of the Corps, including every intervention carried out under an activation for a service or a period, shall be subject to review within twenty-four hours and to validation by two neighbouring Communities unconnected with the event, pursuant to Article 17.6 of the Constitution. Each Community shall designate three persons by sortition. The review shall be carried out by the six persons so designated, who shall examine the recording of the intervention and hear the reference person on duty and, if they so request, the person subject to the intervention. The activation is validated if it is approved by the majority of the persons designated by each of the two Communities. If the review is not concluded within the time limit, the activation shall be deemed not validated pursuant to paragraph 4.
+3.  The recordings shall be published within forty-eight hours in an inspectable form. Data identifying the person subject to the intervention, injured persons, minors and uninvolved third parties shall be redacted. The full version is accessible only to the persons responsible for the review and validation of paragraph 2, to the Guarantee Tribunal and to the other bodies of Code 4 competent for the fact and, for the part concerning them, to the person subject to the intervention. Access to the full version is logged in accordance with Code 7.
 4.  Failure to validate shall cause the effects of the intervention to cease and shall be reported to the Guarantee Circle for the assessments under Code 4.
 5.  Every quarter an aggregate report shall be published on the interventions, on the use of force and on the outcomes of the validations.
 
@@ -237,6 +237,62 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 4.  Biometric recognition, audio surveillance, predictive analysis of behaviour and private video surveillance directed at public spaces or Commons remain prohibited.
 5.  Surveillance of the perimeter of the Containment Communities provided for in Article 32 of Code 4 shall be carried out by the Corps in accordance with this Code, without weapons and with recording of the interventions.
 6.  Until the completion of the transition, the Corps shall perform functions of rescue, civil protection and mediation. Every physical intervention on persons shall be limited to what is permitted by the law in force; for every serious danger the emergency services and the competent authorities shall be alerted. Article 37 of Code 4 shall apply.
+
+## Art. 8-sexies — Personal defence and help for persons under attack
+
+1.  In implementation of Article 17.9 of the Constitution, every person may defend themselves and other persons against an ongoing aggression against physical or sexual integrity, where the Civic Protection Corps is not present or cannot intervene in time. An aggression is ongoing also when it is imminent, that is when it is about to be carried out and the danger is concrete and immediate; the fear that it might happen is not enough. The aggression remains ongoing until it has ceased.
+
+2.  The following are permitted, choosing among those sufficient to protect the persons the least harmful:
+
+    a) getting away from the aggression and bringing the threatened persons to safety, including by moving them away from the place;
+
+    b) calling for help, raising the alarm and calling the Civic Protection Corps;
+
+    c) interposing oneself between the aggressor and the person attacked;
+
+    d) using the physical force strictly necessary and proportionate to bring the aggression to an end, without injuring beyond what is needed to end it;
+
+    e) holding the aggressor by means of non-injurious immobilisation, without compressing their neck or chest, until the danger has ceased or, if this happens earlier, until the Civic Protection Corps arrives.
+
+3.  The choice shall be assessed according to the circumstances as they appeared to the person who acted at the time of the fact. Getting away is not required where it would expose oneself or others to danger or would leave a person under attack without protection. Where the aggressor is a minor, a person in acute crisis or a person who is unable to understand what they are doing, bringing to safety and interposition shall be preferred and the force shall be commensurate also with their age and condition; when the Corps arrives, Article 8-ter, paragraph 5, and Article 8 of Code 6 shall apply.
+
+4.  The defence is unarmed, pursuant to Article 16 of the Constitution. The use of weapons or of instruments intended to strike or to injure is never permitted. Ordinary objects found on the spot may always be used for shielding oneself, without striking. To strike, they may be used only where the aggression endangers life, exposes a person to serious injury or is sexual violence, only to bring it to an end and to the extent strictly necessary. No one may carry instruments for the purpose of using them against persons. The Civic Protection STV may indicate non-injurious personal alarm and protection devices.
+
+5.  The following do not constitute defence and are classified in accordance with Article 26 of Code 4:
+
+    a) an attack against a person who has not begun an aggression and is not about to carry one out within the meaning of paragraph 1, including the use of force out of the mere fear of a future aggression;
+
+    b) revenge and punishment;
+
+    c) the use of force after the danger has ceased, without prejudice to the excusable error provided for by Article 26-bis, paragraph 2, of Code 4;
+
+    d) the use of force to correct, educate or discipline a person, to impose a decision on them or to prevent them from leaving a place or a Circle 0, from communicating or from seeking help, without prejudice to the holding of the aggressor provided for by paragraph 2, letter e);
+
+    e) the reaction to insults, provocations, refusals or disobedience that do not endanger physical or sexual integrity;
+
+    f) the use of force against a person who is in turn defending themselves within the limits of this Article.
+
+6.  A person who began the aggression may not invoke defence against force used within the limits of this Article to bring it to an end. They may invoke it only against a use of force which, beyond those limits, endangers their life or their physical or sexual integrity.
+
+7.  To protect property, including the Commons, only interposition, the making safe of the good or of the instrument where this is possible without force on the person, the alarm and the call to the Civic Protection Corps for the function of Protection of the Commons are permitted. The use of force on persons is not permitted. However, the ongoing destruction, contamination or putting out of service of a vital Common Good, such as a reservoir or a pipeline of drinking water, the power supply of life-saving care or a work that protects against floods or fires, constitutes an aggression against physical integrity within the meaning of paragraph 1 where it results in a concrete and immediate danger to the life or health of persons. In this case only interposition, physically moving the person away from the good and the holding of paragraph 2, letter e), are permitted, without striking. Demonstrative actions or acts of disobedience that do not give rise to such a danger do not fall within this case.
+
+8.  Animals are not property, pursuant to Article 13.1 of the Constitution. Every person may defend an animal against ongoing ill-treatment, that is against violence that injures it or makes it suffer, with the means of paragraph 2 and under the same rules of necessity and proportionality laid down for the defence of persons by paragraphs 2, 3, 4, 5 and 6. Force is permitted only to bring the ill-treatment to an end, not to prevent future ill-treatment, to remove the animal permanently from those who care for it or to punish. Disagreements on how to feed, care for, keep or train an animal do not justify the use of force: they shall be reported to the Biodiversity Council, which shall act pursuant to Article 7, paragraphs 2 and 3, of Code 13. Ill-treatment shall also be reported to the Biodiversity Council, pursuant to Article 10, paragraph 2, of Code 13. The defence of an animal does not allow entry into a Circle 0 without the consent of those who live there: the Civic Protection Corps shall be called.
+
+9.  A person who does not live there may enter a Circle 0 without the consent of those who live there only to bring to an end ongoing physical or sexual violence against a person, as an intervention strictly necessary for the protection of inviolable rights pursuant to Article 5.1, letter a), of the Constitution; a danger that is only imminent is not enough. The person who enters shall immediately notify the Civic Protection Corps, or have it notified by others, as soon as they can do so without leaving the person in danger, and shall leave as soon as the danger has ceased. The Corps shall transmit the notice without delay to the Guarantee Tribunal, which shall review the entry within twenty-four hours, as for the entry of the Corps provided for by Article 8-ter, paragraph 3, in accordance with Article 26-bis, paragraph 5, letter e), of Code 4. When the Corps arrives, Article 8-ter, paragraph 3, shall apply to the entry and presence of its members.
+
+10. After the fact, a person who has used force, has held a person or has entered a Circle 0:
+
+    a) shall provide or call for rescue for anyone who is injured, including the aggressor;
+
+    b) shall report the fact without delay to the Civic Protection Corps or to the Guarantee Circle, stating the place, the persons involved and the need for rescue. The Corps shall transmit the report to the Guarantee Circle and shall not carry out investigations, pursuant to Article 8-ter, paragraph 3. Where force has been used by or against a member of the Corps, the report shall be made to the Guarantee Circle.
+
+    The report does not oblige the person to make other statements about the fact; Article 25, paragraph 3, of Code 4 shall apply. Failure to report does not in itself constitute an offence or an admission, except for the notice of entry into a Circle 0 provided for by paragraph 9. The assessment follows Article 26-bis of Code 4.
+
+11. Containment carried out by the Civic Protection Corps within the limits of Article 8-ter does not constitute aggression, even when the person contained considers it unjust: no defence is permitted against it and the containment is challenged through the review and validation provided for by Article 8-quater and by Article 34 of Code 4. Where a member of the Corps uses force beyond the limits of Article 8-ter, paragraph 2, endangering the life or the physical or sexual integrity of a person, this Article applies: anyone may interpose themselves and defend the person, and the other members present are required to interpose themselves. Article 8-ter and Article 17.5 of the Constitution, not paragraphs 2 and 3 of Article 26-bis of Code 4, apply to members of the Corps who use force during their term of service.
+
+12. No one is required to use force or to expose themselves to danger, and no one may ask a minor to intervene with force. A person who witnesses an aggression and can do so without danger shall call the Civic Protection Corps or raise the alarm. Minors may defend themselves and defend other persons within the limits of this Article; Article 26-bis, paragraph 7, of Code 4 applies to the facts they commit.
+
+13. Until the completion of the transition, personal defence is governed by the law in force, pursuant to Article 38.6 of the Constitution, and Article 37 of Code 4 shall apply. Those who have joined undertake to remain within the limits of this Article even where the law in force would allow more, in particular not to use weapons. This Article does not entail the waiver of rights or guarantees under the law in force and may not prevent or delay recourse to the authorities: a person who is attacked or has used force shall call the emergency services and the competent authorities, in addition to making the report of paragraph 10. The holding of paragraph 2, letter e), and the entry of paragraph 9 are permitted only within the limits allowed by the law in force.
 
 ## Art. 9 — Prohibitions, violations and guarantees
 

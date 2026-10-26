@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 1 — DE LA CONTRIBUTION DE BASE OBLIGATOIRE ET DU SYSTÈME DES ENTREPÔTS COMMUNS"
 breve: "Code 1 — Contribution de base et Entrepôts communs"
-versione: "V1.7"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 1
 id: "codice-01"
 slug: "code-01"
-allineamento: "Constitution V.30 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.34 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 15 V1.7 ; Code 16 V1.7."
 ---
 
 ## TITRE I — PRINCIPES GÉNÉRAUX
@@ -71,17 +71,17 @@ allineamento: "Constitution V.30 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5
 
     d) l’écart entre heures nécessaires et heures disponibles ;
 
-    e) la part des heures consacrées aux fonctions civiques et à la documentation, qui ne dépasse pas la limite de l’article 12-bis, alinéa 13, du Code 3.
+    e) la part des heures consacrées aux fonctions de l’article 12-bis, alinéa 13, du Code 3, qui ne dépasse pas la limite qui y est prévue ; les heures de protection civique et les autres heures de la Liste D qui ne relèvent pas de ces fonctions sont indiquées à part.
 
 8.  Si les heures nécessaires dépassent les heures disponibles dans la limite de l’article 3, l’Assemblée procède dans l’ordre suivant :
 
-    a) elle réduit les activités différables selon la hiérarchie de l’article 32, en commençant par le dernier niveau ;
+    a) elle réduit les activités différables selon la hiérarchie de l’article 32, en commençant par la dernière priorité ;
 
     b) elle simplifie les obligations documentaires qui n’ont pas d’incidence sur la sécurité, selon le principe de proportionnalité du Code 2 ;
 
     c) elle fait appel au bénévolat de l’article 6, alinéa 6, au mutualisme entre Cercles de l’article 30 et au Pool prévu par le Code 15 ;
 
-    d) elle active le Protocole de solidarité dans les cas prévus par l’article 36 de la Constitution.
+    d) elle demande l’activation du Protocole de solidarité en application de l’article 36.2 de la Constitution.
 
 9.  L’écart qui persiste pendant deux trimestres consécutifs est signalé au Cercle 2. Les Bilans du travail constituent la base empirique pour vérifier la limite de l’article 3 et pour les propositions de révision en application des articles 37 et 38 de la Constitution ; pendant la transition, ils sont pris en compte aux fins des seuils du Code 16.
 
@@ -89,7 +89,7 @@ allineamento: "Constitution V.30 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5
 
 1.  La CBO constitue un devoir de solidarité matérielle. Elle n’instaure pas une relation de travail subordonné et ne constitue pas, en elle-même, une prestation patrimoniale.
 2.  La CBO ne peut pas dépasser une moyenne de quinze heures par semaine, calculée sur une base trimestrielle. Il ne peut être dérogé à cette limite par délibération ordinaire.
-3.  La dérogation à la limite visée à l’alinéa 2 n’est admise qu’après l’activation du Protocole de solidarité extraordinaire prévu par l’article 36 de la Constitution et dans le respect des conditions, garanties et durées qui s’y rapportent.
+3.  La dérogation à la limite visée à l’alinéa 2 n’est admise qu’après l’activation du Protocole de solidarité en application de l’article 36.2 de la Constitution et dans le respect des conditions, garanties et durées qui s’y rapportent.
 4.  Aucune disposition du présent Code ne peut être interprétée comme une autorisation à dépasser la limite visée à l’alinéa 2 en dehors des cas prévus à l’alinéa 3.
 
 ## CHAPITRE I — ALLOCATION DES BESOINS CONTRIBUTIFS OBLIGATOIRES
@@ -238,7 +238,9 @@ allineamento: "Constitution V.30 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5
 
     c) **suspension temporaire :** en cas de maladie, d’accident ou de maladie d’un enfant mineur, lorsque cette situation rend temporairement impossible ou non sûr l’accomplissement de la CBO. La situation est attestée par le Conseil Santé dans les limites des informations nécessaires ;
 
-    d) **remplacement solidaire :** prise en charge temporaire, par la Communauté, des heures non effectuées, conformément à l’alinéa 2.
+    d) **remplacement solidaire :** prise en charge temporaire, par la Communauté, des heures non effectuées, conformément à l’alinéa 2 ;
+
+    e) **réduction modulée :** réduction temporaire de la CBO, dans la mesure et pour la durée indiquées par le Conseil Santé ou par le Conseil Soin, pour grossesse, deuil, crise ou autre condition prévue par les Codes 6 et 12, y compris la réduction de l’article 8, alinéa 2, lettre d), du Code 6. Les heures non effectuées sont prises en charge conformément à l’alinéa 2 ; les alinéas 3 et 4 s’appliquent.
 
 2.  En cas de suspension temporaire, la Banque d’heures solidaire de Communauté intervient. Les heures non effectuées sont couvertes par la Communauté et ne créent pas de dette individuelle. Au retour, une restitution volontaire et convenue est admise, compatible avec la santé et avec la limite maximale visée à l’article 3. Tout mécanisme de sanction pour les heures couvertes par la Banque d’heures solidaire est interdit.
 
@@ -296,7 +298,7 @@ allineamento: "Constitution V.30 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5
 
     c) Entrepôt textile et habitat ;
 
-    d) Entrepôt de soin ;
+    d) Entrepôt Santé, régi par le Code 6 ;
 
     e) Entrepôt numérique.
 
@@ -309,6 +311,8 @@ allineamento: "Constitution V.30 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5
 ### Art. 15 — Propriété commune et destination des biens excédentaires ou obsolètes
 
 1.  Les biens appartenant aux Entrepôts sont des biens communs, indivis, inaliénables et insaisissables, conformément à la Constitution.
+
+1-bis. Lorsque le Solde prévu par le Code 15 est actif, les biens excédentaires qui constituent un Solde fédérable au sens de l’article 2 du Code 15 sont inscrits dans le Pool et affectés conformément au Code 15 ; le Cercle n’en choisit pas le destinataire. L’alinéa 2 s’applique aux biens excédentaires non fédérables, aux biens obsolètes, aux biens à risque de gaspillage non réaffectés dans le délai de l’article 6 du Code 15 et aux biens que l’organe compétent pour le Pool déclare non nécessaires au Pool.
 
 2.  Les biens excédentaires ou devenus obsolètes sont gérés selon l’ordre de priorité suivant :
 
@@ -363,7 +367,7 @@ allineamento: "Constitution V.30 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5
 
     c) **biens nécessaires temporairement rares :** distribution selon les règles visées à l’article 19.
 
-2.  Le contenu du Panier est défini dans l’Annexe technique annuelle, approuvée par l’Assemblée sur proposition conjointe du Conseil Santé et du Conseil des Entrepôts. La proposition est publiée et peut être contestée selon les procédures applicables.
+2.  Le contenu du Panier est défini dans l’Annexe technique annuelle, approuvée par l’Assemblée sur proposition conjointe du Conseil Santé et du Conseil des Entrepôts. La proposition réunit les listes établies par les Conseils sectoriels selon les Codes, y compris le Panier santé de l’article 6, alinéa 1, du Code 6 et le Panier matériel de l’article 4 du C.1-Annex A ; les listes ne prennent effet qu’avec l’approbation de l’Assemblée. La proposition est publiée et peut être contestée selon les procédures applicables.
 
 3.  Le présent Code régit les modalités d’accès et de distribution. La détermination des besoins sanitaires individuels relève du Conseil Santé, dans les limites des Codes 6 et 12.
 
@@ -466,7 +470,7 @@ allineamento: "Constitution V.30 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5
 
     d) une activité de formation spécialisée.
 
-La dérogation est motivée et enregistrée. Lorsqu’elle comporte un déplacement, la majoration en CdR prévue par l’article 43, alinéa 2, s’applique.
+La dérogation est motivée et enregistrée. Lorsqu’elle comporte un déplacement, le temps de trajet est compté comme heures de CBO et ne donne pas droit à des CdR ; pour les déplacements effectués au-delà de la CBO, l’article 43, alinéa 2, s’applique.
 
 6.  Le calcul des temps de trajet est effectué selon des critères standardisés définis dans l’Annexe technique Mobilité, approuvée par l’Assemblée.
 
@@ -510,7 +514,7 @@ La dérogation est motivée et enregistrée. Lorsqu’elle comporte un déplacem
 
     c) redistribution temporaire de la CBO générique selon des critères objectifs et dans le respect de la limite maximale ;
 
-    d) activation du Protocole de solidarité extraordinaire prévu par l’article 36 de la Constitution, lorsque la capacité ordinaire est insuffisante.
+    d) demande d’activation du Protocole de solidarité en application de l’article 36.2 de la Constitution, lorsque la capacité ordinaire est insuffisante.
 
 2.  L’ordre visé à l’alinéa 1 est l’ordre normal mais n’est pas impératif. Il est possible de sauter un ou plusieurs niveaux lorsqu’ils se révèlent manifestement inadaptés en raison de la nature, de l’urgence ou de la spécialisation requise. La dérogation est motivée et enregistrée.
 
@@ -543,6 +547,22 @@ La dérogation est motivée et enregistrée. Lorsqu’elle comporte un déplacem
 
 1-bis. Les biens du Panier que le Code ou l’Annexe qui les prévoit indique comme différables se placent après la lettre e) de l’alinéa 1.
 
+1-ter. Par dérogation à l’ordre de l’alinéa 1, le soin des personnes fragiles prévu par la lettre d) précède la gestion des biens périssables de la lettre c). Les aliments du Panier, même périssables, restent dans la lettre b) et, lorsque leur indisponibilité constitue une urgence vitale au sens de l’article 4, alinéa 3, du Code 9, dans la lettre a).
+
+1-quater. Les échelles de priorité des Codes sectoriels, numérotées en niveaux, ordonnent les activités et les usages internes au secteur et s’appliquent dans le respect de l’alinéa 1 et des alinéas 1-bis et 1-ter. Dans les conflits de capacité entre secteurs différents, et dans tout cas de contradiction, l’alinéa 1 et les alinéas 1-bis et 1-ter prévalent. Dans chaque échelle, le niveau 1 est le plus élevé : les niveaux dont le numéro est plus bas sont supérieurs et les réductions procèdent du dernier niveau vers le premier. Lorsqu’un Code indique un niveau sans autre précision, il s’agit du niveau de l’échelle du Code sectoriel compétent pour le bien ou pour la fonction. L’alinéa 1 est cité par lettres.
+
+1-quinquies. Dans les Codes, les expressions « niveaux 1 et 2 du Panier », « Panier de niveau 1–2 » et « Panier 1-2 » désignent :
+
+a) pour l’énergie, les usages des niveaux 1 et 2 de l’article 2, alinéa 3, du Code 8 ;
+
+b) pour les aliments, les destinations des niveaux 1 et 2 de l’article 2, alinéa 5, du Code 9 ;
+
+c) pour le soin, les prestations du Panier soin des niveaux 1 et 2 prévues par l’article 4, alinéa 1, du Code 12 ;
+
+d) pour les autres biens et services du Panier, y compris l’eau, la santé, le Panier matériel et la logistique, les biens et les services des lettres a) et b) de l’alinéa 1, à l’exclusion de ceux qui sont différables au sens de l’alinéa 1-bis.
+
+Les mêmes expressions ne désignent pas les Cercles.
+
 2.  La hiérarchie constitue un critère prépondérant pour résoudre les conflits de capacité, mais ne fonctionne pas comme un automatisme dispensé de l’évaluation des circonstances concrètes.
 
 3.  Une dérogation motivée est admise lorsqu’il est nécessaire de prévenir un dommage plus grave, immédiat et documenté, tel qu’une panne hydraulique qui compromet les Entrepôts, une interruption énergétique, un risque d’effondrement ou une rupture de la chaîne du froid. Dans ce cas :
@@ -557,7 +577,7 @@ La dérogation est motivée et enregistrée. Lorsqu’elle comporte un déplacem
 
     e) la dérogation est communiquée à la première Assemblée utile pour vérification et, si nécessaire, ratification.
 
-4.  Il ne peut être dérogé aux niveaux de priorité visés à l’alinéa 1, lettres a) et b), que dans les cas et selon la procédure de l’alinéa 3. Pour les niveaux suivants, des dérogations motivées sont admises sur la base d’une évaluation technique du Conseil des Entrepôts.
+4.  Il ne peut être dérogé aux priorités de l’alinéa 1, lettres a) et b), et à la priorité du soin prévue par l’alinéa 1-ter que dans les cas et selon la procédure de l’alinéa 3. Pour les lettres suivantes, des dérogations motivées sont admises sur la base d’une évaluation technique du Conseil des Entrepôts.
 
 ## CHAPITRE IV — INFRASTRUCTURES COMMUNES, ÉNERGIE ET RÉSEAU
 
@@ -696,7 +716,7 @@ e) le barème public fixe une limite annuelle par personne ; en première appl
 
 f) sont exclus les activités de culte, celles qui sont réservées à une partie des membres et le temps déjà reconnu comme CBO en application de l’article 2, alinéa 3, du Code 5.
 
-2.  Une heure d’activité validée donne droit à une CdR. Les majorations de l’article 10 s’appliquent aux tâches désagréables, pénibles ou de nuit. Pour les déplacements visés à l’article 25, alinéa 5, le barème public fixe une majoration dans les mêmes limites.
+2.  Une heure d’activité validée donne droit à une CdR. Les majorations de l’article 10 s’appliquent aux tâches désagréables, pénibles ou de nuit. Pour les déplacements effectués au-delà de la CBO, le barème public fixe une majoration dans les mêmes limites. Les déplacements effectués dans le cadre de la CBO, y compris ceux de l’article 25, alinéa 5, ne donnent pas droit à des CdR : le temps de trajet est compté comme heures de CBO.
 3.  Pour les ouvrages et les services d’une utilité commune particulière, l’Assemblée peut attribuer une reconnaissance d’utilité, motivée et publiée, dans la limite fixée par le barème public et en tout état de cause sans dépasser le nombre d’heures effectivement consacrées. L’évaluation prend en compte les principes de Soin, d’Autonomie, de Convivialité et de Sens visés à l’article 9.1 de la Constitution.
 4.  La CBO ordinaire et les fonctions civiques de la Liste D ne donnent pas droit à des CdR.
 5.  L’attribution est proposée par le Conseil des Entrepôts ou par le Conseil compétent, avec l’appui consultatif de l’IA de gestion, et est validée avec la participation des personnes qui bénéficient du bien ou du service, conformément à l’article 9.2 de la Constitution. L’attribution décidée exclusivement par une IA est interdite.
@@ -706,7 +726,7 @@ f) sont exclus les activités de culte, celles qui sont réservées à une parti
 1.  Chaque personne dispose d’un registre personnel et confidentiel de ses CdR. Seules des données agrégées sont publiées.
 2.  Le solde personnel ne peut pas dépasser le plafond fixé par l’Assemblée générale en application de l’article 14 du Code 3. En première application, le plafond est de deux cent quarante CdR. Le solde est la somme des valeurs actuelles des CdR non utilisées, vérifiée au moment de l’attribution. Les CdR sont attribuées jusqu’à concurrence du plafond ; au-delà, aucune autre n’est attribuée, y compris les majorations de l’article 10 et de l’article 43, alinéa 2.
 3.  Les CdR non utilisées conservent leur valeur pendant douze mois à compter de leur acquisition. À partir de la fin du douzième mois, la valeur diminue proportionnellement au temps, d’un douzième de la valeur initiale par mois, jusqu’à s’éteindre à la fin du vingt-quatrième. L’acquisition coïncide avec le jour où l’activité a été accomplie. Aux fins de l’utilisation et du plafond, chaque CdR compte pour la valeur qu’elle a à ce moment.
-4.  Les paramètres des alinéas 2 et 3 sont calibrés chaque année par l’Assemblée générale. Le calibrage ne peut supprimer ni le plafond ni la décroissance.
+4.  Les paramètres des alinéas 2 et 3 sont calibrés chaque année par l’Assemblée générale du Cercle 2, dans les limites éventuellement fixées par l’Assemblée générale du Cercle 3. Le calibrage ne peut supprimer ni le plafond ni la décroissance.
 5.  Au décès de la personne ou à la cessation du statut de membre, les CdR s’éteignent.
 6.  Pendant la suspension prévue par l’article 7.3 de la Constitution, ordonnée en application de l’article 29, alinéa 4-bis, du Code 4, les CdR ne peuvent être ni acquises ni utilisées.
 
@@ -741,7 +761,10 @@ f) sont exclus les activités de culte, celles qui sont réservées à une parti
 
 1.  Les biens d’usage personnel visés à l’article 10.3 de la Constitution ne sont pas comptabilisés dans les Entrepôts et ne peuvent pas être collectivisés. Les limites de l’article 10.4 de la Constitution s’appliquent.
 2.  La propriété d’usage d’un logement, d’un atelier, d’un champ ou d’un outil collectif, en application de l’article 10.2 de la Constitution, est enregistrée auprès du Conseil des Entrepôts et, pour les aspects territoriaux, dans le Cadastre prévu par le Code 10. Elle se fonde sur l’usage effectif et continu.
-3.  La propriété d’usage cesse par renonciation, par défaut d’usage prolongé au-delà de douze mois sans justification ou par violation des limites de l’article 10.4 de la Constitution, constatée conformément au Code 4. Le logement principal ne peut pas être retiré sans l’attribution d’un autre logement adéquat.
+3.  La propriété d’usage cesse par renonciation, par défaut d’usage prolongé au-delà de douze mois sans justification ou par violation des limites de l’article 10.4 de la Constitution, constatée conformément au Code 4. Le logement principal ne peut pas être retiré sans l’attribution d’un autre logement adéquat, sauf dans les cas de l’alinéa 3-bis.
+
+3-bis. La propriété d’usage du logement cesse en outre avec le transfert dans une autre Communauté en application de l’article 49, avec la déclaration de l’article 4.8 de la Constitution et avec la cessation du statut prévue par l’article 7.3-bis de la Constitution. La continuité du logement des personnes qui vivent dans le même Cercle 0 est sauvegardée, en application de l’article 3.7 de la Constitution. En cas de transfert, le logement est libéré à la fin de la dotation de Maison-relais de l’article 49, alinéa 3 ; en cas de déclaration de l’article 4.8, à la fin de l’hospitalité de l’article 4.9, lettre b), de la Constitution, sauf si la personne demande le Pacte de cohabitation autonome : elle reste alors dans le logement jusqu’à la remise de la parcelle, en application de l’article 4-bis, alinéa 7, du Code 10, et le logement peut lui être confié avec le Pacte en application de l’article 4.9-bis de la Constitution. Pour la personne qui reste sans Pacte, l’article 4.9-ter de la Constitution s’applique. Dans le cas de l’article 7.3-bis de la Constitution, l’article 29, alinéa 6-bis, du Code 4 s’applique.
+
 4.  L’interdiction de l’accumulation privée au-delà de sept jours des besoins du foyer, prévue par l’article 10.5 de la Constitution, concerne les biens prélevés dans les Entrepôts. Les nécessités motivées, notamment sanitaires, saisonnières ou d’isolement, sont réservées.
 
 ### Art. 47-bis — Logement adéquat
@@ -767,6 +790,40 @@ f) sont exclus les activités de culte, celles qui sont réservées à une parti
 5.  Aux fins de l’article 47, alinéa 3, du présent Code et des articles 29 et 34 du Code 4, est adéquat le logement qui respecte l’alinéa 1. S’il n’y en a aucun de disponible, le meilleur logement disponible est attribué, et sa mise en conformité a la priorité dans la planification.
 
 6.  La mise en conformité s’effectue dans le respect des articles 2 et 5 du Code 10 : le réemploi et la récupération des bâtiments précèdent toute nouvelle construction. Jusqu’à l’activation des Codes 8 et 12, les lettres a), b) et d) de l’alinéa 1 et, de l’alinéa 2, la surface, la composition minimale et le nombre de salles de bains s’appliquent.
+
+### Art. 47-ter — Planification et attribution des logements
+
+1.  La planification du logement prévue par l’article 3.7 de la Constitution est proposée par le Conseil des Entrepôts, par l’intermédiaire de l’Entrepôt textile et habitat, avec l’avis obligatoire du Conseil Habitat et Territoire et du Conseil Soin, et elle est approuvée par l’Assemblée du Cercle 1. Elle est mise à jour au moins une fois par an et comprend l’inventaire des logements d’usage et de leur adéquation au sens de l’article 47-bis, les logements libres, la liste d’attente et le programme des adaptations et des réhabilitations.
+
+2.  Le Conseil des Entrepôts attribue les logements par décision motivée, selon les besoins réels et dans l’ordre suivant :
+
+    a) les personnes et les Cercles 0 sans logement, ceux qui vivent dans un logement qui met la santé en danger et les personnes qui doivent quitter leur logement en raison d’une mesure de protection des Codes 4 ou 12 ;
+
+    b) le besoin évalué selon la composition du Cercle 0, l’accessibilité nécessaire et l’état de santé, ce dernier attesté par le Conseil Santé sans en indiquer le contenu ;
+
+    c) la proximité du Cercle 0, des lieux de soin et de la CBO de la personne ;
+
+    d) à besoin égal, l’ordre d’inscription sur la liste d’attente.
+
+    L’attribution ne peut pas dépendre des heures de CBO, des CdR ou des charges exercées.
+
+3.  La liste d’attente est publiée sous forme anonyme, avec un identifiant, la date d’inscription, le critère appliqué et le rang, conformément au Code 7, article 2.2. Les informations de santé ne sont pas rendues publiques.
+
+4.  Lorsque les logements ne suffisent pas :
+
+    a) personne ne reste sans abri : dans l’attente de l’attribution, le meilleur logement disponible au sens de l’article 47-bis, alinéa 5, ou une place dans une Maison-relais est attribué, sans la limite de durée de l’article 12.3 de la Constitution, et à défaut une aire d’accueil équipée en application de l’article 6-ter, alinéa 6, du Code 11 ;
+
+    b) la planification donne la priorité au réemploi et à la réhabilitation des bâtiments, en application des articles 2 et 5 du Code 10 ;
+
+    c) l’échange de logements entre Cercles 0 n’a lieu qu’avec le consentement des intéressés, sans préjudice de l’article 47, alinéas 3 et 3-bis ;
+
+    d) si la pénurie dure plus de six mois, le Cercle 1 en informe le Cercle 2, qui aide à rechercher d’autres solutions.
+
+5.  Un recours devant le Cercle de garantie en application de l’article 17 du Code 3 est ouvert contre l’attribution, le refus et le rang sur la liste d’attente. Le recours ne retire à personne le logement qu’il occupe déjà.
+
+6.  Aux fins de l’article 32, alinéa 1, lettre b), l’attribution d’un logement à qui n’en a pas et la réparation qui rend un logement habitable sont des biens du Panier. Les adaptations de l’article 47-bis, alinéa 4, qui ne concernent pas la santé sont différables au sens de l’article 32, alinéa 1-bis.
+
+7.  La Communauté de destination prévue par l’article 49, alinéa 4, attribue le logement conformément au présent article.
 
 ### Art. 48 — Succession dans les biens d’usage
 

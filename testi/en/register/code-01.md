@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 1 — ON THE MANDATORY BASE CONTRIBUTION AND THE SYSTEM OF COMMON STOREHOUSES"
 breve: "Code 1 — Base contribution and Common Storehouses"
-versione: "V1.7"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 1
 id: "codice-01"
 slug: "code-01"
-allineamento: "Constitution V.30; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.34; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 15 V1.7; Code 16 V1.7."
 ---
 
 ## TITLE I — GENERAL PRINCIPLES
@@ -71,17 +71,17 @@ allineamento: "Constitution V.30; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 
 
     d) the gap between hours needed and hours available;
 
-    e) the share of hours devoted to civic functions and to documentation, which shall not exceed the limit of Article 12-bis, paragraph 13, of Code 3.
+    e) the share of hours devoted to the functions of Article 12-bis, paragraph 13, of Code 3, which shall not exceed the limit laid down there; the hours of civic protection and the other hours of List D that do not fall within those functions are indicated separately.
 
 8.  If the hours needed exceed the hours available within the limit of Article 3, the Assembly shall proceed in the following order:
 
-    a) it shall reduce deferrable activities in accordance with the hierarchy of Article 32, starting from the last level;
+    a) it shall reduce deferrable activities in accordance with the hierarchy of Article 32, starting from the last priority;
 
     b) it shall simplify documentary formalities that do not affect safety, in accordance with the principle of proportionality of Code 2;
 
     c) it shall have recourse to the volunteering of Article 6, paragraph 6, to the mutualism between Circles of Article 30 and to the Pool provided for by Code 15;
 
-    d) it shall activate the Solidarity Protocol in the cases provided for by Article 36 of the Constitution.
+    d) it shall request the activation of the Solidarity Protocol pursuant to Article 36.2 of the Constitution.
 
 9.  A gap that persists for two consecutive quarters shall be reported to Circle 2. The Labour Balances constitute the empirical basis for verifying the limit of Article 3 and for proposals for revision pursuant to Articles 37 and 38 of the Constitution; during the transition they are relevant for the purposes of the thresholds of Code 16.
 
@@ -89,7 +89,7 @@ allineamento: "Constitution V.30; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 
 
 1.  The CBO constitutes a duty of material solidarity. It does not establish a relationship of subordinate employment and does not constitute, in itself, an obligation of a pecuniary nature.
 2.  The CBO shall not exceed an average of fifteen hours per week, calculated on a quarterly basis. The limit may not be derogated from by ordinary resolution.
-3.  Derogation from the limit referred to in paragraph 2 is permitted exclusively upon prior activation of the Extraordinary Solidarity Protocol provided for by Article 36 of the Constitution and in compliance with the related conditions, guarantees and durations.
+3.  Derogation from the limit referred to in paragraph 2 is permitted exclusively upon prior activation of the Solidarity Protocol pursuant to Article 36.2 of the Constitution and in compliance with the related conditions, guarantees and durations.
 4.  No provision of this Code may be interpreted as authorising the limit referred to in paragraph 2 to be exceeded outside the cases provided for in paragraph 3.
 
 ## CHAPTER I — ALLOCATION OF THE MANDATORY CONTRIBUTION REQUIREMENT
@@ -238,7 +238,9 @@ allineamento: "Constitution V.30; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 
 
     c) **temporary suspension:** in the event of illness, accident or illness of a minor child, where the condition makes the performance of the CBO temporarily impossible or unsafe. The condition shall be attested by the Health Council within the limits of the necessary information;
 
-    d) **solidarity substitution:** temporary coverage by the Community of the hours not performed, in accordance with paragraph 2.
+    d) **solidarity substitution:** temporary coverage by the Community of the hours not performed, in accordance with paragraph 2;
+
+    e) **modulated reduction:** temporary reduction of the CBO, to the extent and for the duration indicated by the Health Council or the Care Council, for pregnancy, bereavement, crisis or another condition provided for by Codes 6 and 12, including the reduction of Article 8, paragraph 2, letter d), of Code 6. The hours not performed are covered in accordance with paragraph 2; paragraphs 3 and 4 apply.
 
 2.  In the event of temporary suspension, the Community Solidarity Hours Bank operates. The hours not performed are covered by the Community and do not generate individual debt. On return, a voluntary and agreed repayment is permitted, compatible with health and with the maximum limit referred to in Article 3. Any sanctioning mechanism for the hours covered by the Solidarity Hours Bank is prohibited.
 
@@ -296,7 +298,7 @@ allineamento: "Constitution V.30; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 
 
     c) Textile and Housing Storehouse;
 
-    d) Care Storehouse;
+    d) Health Storehouse, governed by Code 6;
 
     e) Digital Storehouse.
 
@@ -309,6 +311,8 @@ allineamento: "Constitution V.30; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 
 ### Art. 15 — Common ownership and destination of surplus or obsolete goods
 
 1.  The goods belonging to the Storehouses are commons, undivided, inalienable and exempt from seizure, in accordance with the Constitution.
+
+1-bis. When the Balance provided for by Code 15 is active, surplus goods that constitute a Federable Balance within the meaning of Article 2 of Code 15 are entered in the Pool and allocated in accordance with Code 15; the Circle does not choose their recipient. Paragraph 2 applies to non-federable surplus goods, to obsolete goods, to goods at risk of waste not reassigned within the time limit of Article 6 of Code 15 and to goods that the body competent for the Pool declares not necessary to the Pool.
 
 2.  Surplus goods or goods that have become obsolete shall be managed in the following order of priority:
 
@@ -363,7 +367,7 @@ allineamento: "Constitution V.30; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 
 
     c) **necessary goods that are temporarily scarce:** distribution in accordance with the rules referred to in Article 19.
 
-2.  The content of the Basket is defined in the annual Technical Annex, approved by the Assembly on a joint proposal from the Health Council and the Storehouse Council. The proposal shall be published and may be contested in accordance with the applicable procedures.
+2.  The content of the Basket is defined in the annual Technical Annex, approved by the Assembly on a joint proposal from the Health Council and the Storehouse Council. The proposal brings together the lists prepared by the sectoral Councils in accordance with the Codes, including the Health Basket of Article 6, paragraph 1, of Code 6 and the Material Basket of Article 4 of C.1-Annex A; the lists take effect only upon approval by the Assembly. The proposal shall be published and may be contested in accordance with the applicable procedures.
 
 3.  This Code governs the arrangements for access and distribution. The determination of individual health needs falls to the Health Council, within the limits of Codes 6 and 12.
 
@@ -466,7 +470,7 @@ allineamento: "Constitution V.30; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 
 
     d) a specialist training activity.
 
-The derogation shall be reasoned and recorded. Where it entails a travel assignment, the supplement in CdR provided for by Article 43, paragraph 2, applies.
+The derogation shall be reasoned and recorded. Where it entails a travel assignment, the travel time is counted as hours of CBO and gives no entitlement to CdR; for travel assignments carried out beyond the CBO, Article 43, paragraph 2, applies.
 
 6.  The calculation of travel times is carried out in accordance with standardised criteria defined in the Mobility Technical Annex, approved by the Assembly.
 
@@ -510,7 +514,7 @@ The derogation shall be reasoned and recorded. Where it entails a travel assignm
 
     c) temporary redistribution of the generic CBO according to objective criteria and in compliance with the maximum limit;
 
-    d) activation of the Extraordinary Solidarity Protocol provided for by Article 36 of the Constitution, where ordinary capacity is insufficient.
+    d) request for the activation of the Solidarity Protocol pursuant to Article 36.2 of the Constitution, where ordinary capacity is insufficient.
 
 2.  The order referred to in paragraph 1 is the ordinary one but may be derogated from. One or more levels may be skipped where they prove manifestly inadequate in view of the nature, the urgency or the specialisation required. The derogation shall be reasoned and recorded.
 
@@ -543,6 +547,22 @@ The derogation shall be reasoned and recorded. Where it entails a travel assignm
 
 1-bis. The goods of the Basket that the Code or the Annex providing for them indicates as deferrable come after letter e) of paragraph 1.
 
+1-ter. By way of derogation from the order of paragraph 1, the care of frail persons provided for by letter d) precedes the management of the perishable goods of letter c). Basket food, including perishable food, remains in letter b) and, where its unavailability constitutes a vital emergency within the meaning of Article 4, paragraph 3, of Code 9, in letter a).
+
+1-quater. The priority scales of the sectoral Codes, numbered in levels, order the activities and uses internal to the sector and apply in compliance with paragraph 1 and with paragraphs 1-bis and 1-ter. In capacity conflicts between different sectors, and in every case of conflict, paragraph 1 and paragraphs 1-bis and 1-ter prevail. In every scale level 1 is the highest: the levels with a lower number are higher, and reductions proceed from the last level towards the first. Where a Code indicates a level without further specification, it means the level of the scale of the sectoral Code competent for the good or for the function. Paragraph 1 is referred to by letters.
+
+1-quinquies. In the Codes the expressions “levels 1 and 2 of the Basket”, “Basket of level 1–2” and “Basket 1-2” mean:
+
+a) for energy, the uses of levels 1 and 2 of Article 2, paragraph 3, of Code 8;
+
+b) for food, the destinations of levels 1 and 2 of Article 2, paragraph 5, of Code 9;
+
+c) for care, the services of the Care Basket of levels 1 and 2 provided for by Article 4, paragraph 1, of Code 12;
+
+d) for the other goods and services of the Basket, including water, health, the Material Basket and logistics, the goods and services of letters a) and b) of paragraph 1, excluding those that are deferrable within the meaning of paragraph 1-bis.
+
+The same expressions do not refer to the Circles.
+
 2.  The hierarchy constitutes a prevailing criterion for resolving conflicts of capacity, but it does not operate as an automatism devoid of any assessment of the concrete circumstances.
 
 3.  A reasoned derogation is permitted where it is necessary to prevent a greater, immediate and documented harm, such as a water failure that compromises the Storehouses, an energy outage, a risk of collapse or an interruption of the cold chain. In that case:
@@ -557,7 +577,7 @@ The derogation shall be reasoned and recorded. Where it entails a travel assignm
 
     e) the derogation shall be communicated to the first available Assembly for verification and, where necessary, ratification.
 
-4.  The priority levels referred to in paragraph 1, letters a) and b), may be derogated from only in the cases and in accordance with the procedure of paragraph 3. For the subsequent levels, reasoned derogations are permitted on the basis of a technical assessment by the Storehouse Council.
+4.  The priorities of paragraph 1, letters a) and b), and the precedence of care provided for by paragraph 1-ter may be derogated from only in the cases and in accordance with the procedure of paragraph 3. For the subsequent letters, reasoned derogations are permitted on the basis of a technical assessment by the Storehouse Council.
 
 ## CHAPTER IV — COMMON INFRASTRUCTURE, ENERGY AND NETWORK
 
@@ -696,7 +716,7 @@ e) the public table sets an annual limit per person; on first application, sixty
 
 f) activities of worship, activities reserved to a part of the members and time already recognised as CBO pursuant to Article 2, paragraph 3, of Code 5 are excluded.
 
-2.  One hour of validated activity gives rise to one CdR. The supplements of Article 10 apply for unpleasant, arduous or night tasks. For the travel assignments of Article 25, paragraph 5, the public table establishes a supplement within the same limits.
+2.  One hour of validated activity gives rise to one CdR. The supplements of Article 10 apply for unpleasant, arduous or night tasks. For travel assignments carried out beyond the CBO, the public table establishes a supplement within the same limits. Travel assignments carried out within the CBO, including those of Article 25, paragraph 5, give no entitlement to CdR: the travel time is counted as hours of CBO.
 3.  For works and services of particular common utility, the Assembly may award a utility recognition, reasoned and published, within the limit established by the public table and in any event not exceeding the number of hours actually spent. The assessment considers the principles of Care, Autonomy, Conviviality and Meaning referred to in Article 9.1 of the Constitution.
 4.  The ordinary CBO and the civic functions of List D do not give entitlement to CdR.
 5.  The award is proposed by the Storehouse Council or by the competent Council, with the advisory support of the Management AI, and is validated with the participation of those who benefit from the good or service, in accordance with Article 9.2 of the Constitution. An award made exclusively by an AI is prohibited.
@@ -706,7 +726,7 @@ f) activities of worship, activities reserved to a part of the members and time 
 1.  Each person has a personal and confidential register of his or her own CdR. Only aggregate data are published.
 2.  The personal balance shall not exceed the cap established by the General Assembly pursuant to Article 14 of Code 3. On first application the cap is two hundred and forty CdR. The balance is the sum of the current values of the unused CdR, verified at the moment of the award. CdR are awarded up to the cap; beyond it no further CdR are awarded, including the supplements of Article 10 and of Article 43, paragraph 2.
 3.  Unused CdR retain their value for twelve months from accrual. From the completion of the twelfth month the value is reduced in proportion to time, by one twelfth of the initial value per month, until it is extinguished at the completion of the twenty-fourth month. Accrual coincides with the day on which the activity was performed. For the purposes of use and of the cap, each CdR counts for the value it has at that moment.
-4.  The parameters of paragraphs 2 and 3 are calibrated every year by the General Assembly. The calibration shall not eliminate the cap or the decay.
+4.  The parameters of paragraphs 2 and 3 are calibrated every year by the General Assembly of Circle 2, within any limits set by the General Assembly of Circle 3. The calibration shall not eliminate the cap or the decay.
 5.  On the death of the person or on the cessation of member status, the CdR are extinguished.
 6.  During the suspension provided for by Article 7.3 of the Constitution, ordered pursuant to Article 29, paragraph 4-bis, of Code 4, CdR may be neither accrued nor used.
 
@@ -741,7 +761,10 @@ f) activities of worship, activities reserved to a part of the members and time 
 
 1.  The personal-use goods referred to in Article 10.3 of the Constitution are not counted in the Storehouses and shall not be collectivised. The limits of Article 10.4 of the Constitution apply.
 2.  Ownership of use of a dwelling, a craft workshop, a field or a collective tool, pursuant to Article 10.2 of the Constitution, is registered with the Storehouse Council and, as regards territorial aspects, in the Land Register provided for by Code 10. It is founded on actual and continuous use.
-3.  Ownership of use ceases by renunciation, by non-use continuing beyond twelve months without justification or by violation of the limits of Article 10.4 of the Constitution, established in accordance with Code 4. The main dwelling shall not be revoked without the assignment of another adequate dwelling.
+3.  Ownership of use ceases by renunciation, by non-use continuing beyond twelve months without justification or by violation of the limits of Article 10.4 of the Constitution, established in accordance with Code 4. The main dwelling shall not be revoked without the assignment of another adequate dwelling, except in the cases of paragraph 3-bis.
+
+3-bis. Ownership of use of the dwelling also ceases upon transfer to another Community pursuant to Article 49, upon the declaration of Article 4.8 of the Constitution and upon the termination of status provided for by Article 7.3-bis of the Constitution. The housing continuity of those living in the same Circle 0 is safeguarded, pursuant to Article 3.7 of the Constitution. In the case of transfer the dwelling is vacated at the end of the Bridge House allocation of Article 49, paragraph 3; in the case of the declaration of Article 4.8, at the end of the hospitality of Article 4.9, letter b), of the Constitution, unless the person requests the Autonomous Coexistence Pact: in that case they remain in the dwelling until the handover of the portion, pursuant to Article 4-bis, paragraph 7, of Code 10, and the dwelling may be entrusted to them with the Pact pursuant to Article 4.9-bis of the Constitution. For those who remain without a Pact, Article 4.9-ter of the Constitution applies. In the case of Article 7.3-bis of the Constitution, Article 29, paragraph 6-bis, of Code 4 applies.
+
 4.  The prohibition of private accumulation beyond seven days of the family requirement, provided for by Article 10.5 of the Constitution, concerns goods drawn from the Storehouses. This is without prejudice to reasoned needs, in particular those relating to health, season or isolation.
 
 ### Art. 47-bis — Adequate dwelling
@@ -767,6 +790,40 @@ f) activities of worship, activities reserved to a part of the members and time 
 5.  For the purposes of Article 47, paragraph 3, of this Code and of Articles 29 and 34 of Code 4, a dwelling that complies with paragraph 1 is adequate. If none is available, the best available dwelling is assigned, and its upgrading takes precedence in planning.
 
 6.  Upgrading takes place in compliance with Articles 2 and 5 of Code 10: the reuse and recovery of buildings precede any new construction. Until Codes 8 and 12 are activated, letters a), b) and d) of paragraph 1 and, of paragraph 2, the floor area, the minimum composition and the number of bathrooms apply.
+
+### Art. 47-ter — Housing planning and allocation
+
+1.  The housing planning provided for by Article 3.7 of the Constitution is proposed by the Storehouse Council, through the Textile and Housing Storehouse, with the mandatory opinion of the Habitat and Territory Council and of the Care Council, and is approved by the Assembly of Circle 1. It is updated at least once a year and includes the inventory of the dwellings in use and of their adequacy within the meaning of Article 47-bis, the vacant dwellings, the waiting list and the programme of adaptations and recoveries.
+
+2.  The Storehouse Council allocates dwellings by reasoned decision, according to real needs and in the following order:
+
+    a) persons and Circles 0 without a dwelling, those living in a dwelling that endangers health and persons who have to leave their dwelling because of a protection measure of Codes 4 or 12;
+
+    b) need assessed according to the composition of the Circle 0, the accessibility required and health conditions, the latter certified by the Health Council without stating their content;
+
+    c) proximity to the Circle 0, to places of care and to the person’s CBO;
+
+    d) where needs are equal, the order of registration on the waiting list.
+
+    Allocation may not depend on hours of CBO, on CdR or on the offices held.
+
+3.  The waiting list is published in anonymous form, with an identifier, the date of registration, the criterion applied and the position, in accordance with Code 7, Article 2.2. Health information is not made public.
+
+4.  Where dwellings are insufficient:
+
+    a) no one is left without shelter: pending allocation, the best available dwelling within the meaning of Article 47-bis, paragraph 5, or a place in a Bridge House is assigned, without the time limit of Article 12.3 of the Constitution, and failing that an equipped stopping area pursuant to Article 6-ter, paragraph 6, of Code 11;
+
+    b) planning gives precedence to the reuse and recovery of buildings, pursuant to Articles 2 and 5 of Code 10;
+
+    c) exchanges of dwellings between Circles 0 take place only with the consent of those concerned, without prejudice to Article 47, paragraphs 3 and 3-bis;
+
+    d) if the shortage lasts more than six months, Circle 1 informs Circle 2, which assists in the search for other placements.
+
+5.  An appeal to the Guarantee Circle pursuant to Article 17 of Code 3 is permitted against the allocation, the refusal and the position on the waiting list. The appeal does not take from anyone the dwelling they already occupy.
+
+6.  For the purposes of Article 32, paragraph 1, letter b), the allocation of a dwelling to a person who has none and the repair that makes a dwelling habitable are goods of the Basket. The adaptations of Article 47-bis, paragraph 4, that do not concern health are deferrable within the meaning of Article 32, paragraph 1-bis.
+
+7.  The destination Community provided for by Article 49, paragraph 4, allocates the dwelling in accordance with this Article.
 
 ### Art. 48 — Succession to goods of use
 

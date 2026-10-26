@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 10 — HABITAT AND TERRITORY"
 breve: "Code 10 — Habitat and territory"
-versione: "V1.5"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 10
 id: "codice-10"
 slug: "code-10"
-allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 15 V1.7; Code 16 V1.7."
 ---
 
 ## Art. 1 — Subject matter, definitions and legal nature
@@ -43,7 +43,9 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     f) **mineral resources:** means metals, minerals and rocks in their natural state, underground or outcropping, and those contained in landfills and in waste deposits from past extraction, until they are recovered; they do not include water, which is governed by Code 8;
 
-    g) **deposit:** means a concentration of mineral resources that has been ascertained and entered in the Land Register.
+    g) **deposit:** means a concentration of mineral resources that has been ascertained and entered in the Land Register;
+
+    h) **territorial Basin:** means the territory of the Circle 2 to which the Circle 1 concerned belongs. It does not coincide with the river basin, which for water is governed by Article 6-bis, paragraph 7, of Code 8.
 
 3.  The following are inalienable infrastructural commons:
 
@@ -79,11 +81,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 5.  The territorial prohibitions shall apply even where a treatment is otherwise contemplated by an STV, except for the derogations expressly provided for by Code 9 and by this Article.
 
-6.  A derogation from the prohibitions in the buffer zone is permitted only in the following cases:
-
-    a) plant health emergency provided for by Code 9, Article 2, paragraph 4, letter d);
-
-    b) rescue intervention on colonies provided for by Code 9, Article 6-bis, paragraph 5.
+6.  A derogation from the prohibitions in the buffer zone is permitted only in the event of an extreme plant health emergency provided for by Code 9, Article 2, paragraph 4, letter d), and only for the products permitted there. The prohibitions of letter b) of that paragraph may not be derogated from. A rescue intervention on colonies follows Article 6-bis, paragraph 5, letter c), of Code 9 and does not require a derogation.
 
 The derogation shall be resolved by the Assembly on a proposal from the Agroecological Council, after agreement with the Habitat and Territory Council and after obtaining the mandatory opinion of the Biodiversity Council. The decision shall indicate the duration, the tracking, the Exit Plan and the manner of recording in the node of the Federated Agroecological Network.
 
@@ -174,7 +172,7 @@ The derogation shall be resolved by the Assembly on a proposal from the Agroecol
 
     c) the compensation ensures, separately and cumulatively, the equivalence of the fertile function and that of the ecological function;
 
-    d) the binding opinion of the Agroecological Council has been obtained, which constitutes an express exception to the general rule of Article 3, paragraph 5;
+    d) the opinion of the Agroecological Council has been obtained on the loss of the fertile function and on the compensation of letter c); a negative opinion is binding for the protection of ecological limits, pursuant to Article 8 of Code 3, and constitutes an express exception to the general rule of Article 3, paragraph 5;
 
     e) the General Assembly approves the change by qualified majority.
 
@@ -281,7 +279,7 @@ The CBO and the other obligations reserved for members do not apply to a person 
 
     c) Code 9 governs the agricultural use of water and the determination of the requirement of the Basket.
 
-2.  The priorities in the event of water scarcity provided for by Article 10, paragraph 8, of Code 9 shall be implemented on the basis of the territorial map and by decision of the Energy and Water Council of Code 8, with the mandatory opinion of the Agroecological Council.
+2.  The priorities in the event of water scarcity provided for by Article 10, paragraph 8, of Code 9 shall be implemented on the basis of the territorial map and by decision of the Energy and Water Council of Code 8, with the mandatory opinion of the Agroecological Council. Where implementation reduces access to goods of the Basket, including the Water Basket, the decision belongs to the Assembly pursuant to Article 19, paragraph 3, of Code 1, on a proposal from the Energy and Water Council; in urgency the procedures of Code 3 apply. The reduction of the guaranteed minimum share follows Article 4-bis, paragraph 6, of Code 8.
 
 3.  Code 10 does not decide the functional allocation of water.
 

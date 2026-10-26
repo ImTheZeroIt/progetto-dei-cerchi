@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 2 — ON QUALITY AND VALIDATION"
 breve: "Code 2 — Quality and validation"
-versione: "V1.5"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 2
 id: "codice-02"
 slug: "code-02"
-allineamento: "Constitution V.30; Code 1 V1.7; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.34; Code 1 V1.9; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 15 V1.7; Code 16 V1.7."
 ---
 
 ## CHAPTER I — PRINCIPLES, CRITERIA AND ADMISSION
@@ -15,7 +15,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 3 V1.5; Code 4 V1.5; Code 5 
 
 1.  This Code governs the criteria and procedures by which goods and tools are assessed for the purposes of their admission to, retention in, suspension from or exclusion from the Common Storehouses provided for by Code 1.
 2.  Code 1 governs the requirement for, production, conservation, distribution and handling of goods. This Code establishes the quality criteria and the procedures for determining which goods may enter and remain in the common system.
-3.  Services provided by parties external to the Confederation are governed by Chapter III.
+3.  Services provided by parties external to the Confederation are governed by Chapter III. The STVs provided for by the Codes for objects other than goods are governed by Article 3-bis.
 4.  Quality assessment is carried out in relation to actual need and may not be used to introduce requirements unrelated to safety, suitability, durability, repairability or the other criteria provided for by this Code.
 5.  The Quality Council is the technical Council competent for the functions of this Code. It is composed of three to five persons drawn by lot in accordance with Article 12-bis of Code 3.
 
@@ -45,7 +45,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 3 V1.5; Code 4 V1.5; Code 5 
 
 1.  Every type or model of good intended for admission to the Central Storehouse shall be accompanied by a Technical Validation Sheet, hereinafter “STV”.
 
-2.  The STV is prepared by the Quality Council, with the contribution of the relevant Competence Circle and the opinion of the Health Council on the aspects within its competence. The opinions of the other competent Circles are obtained where the good presents safety, environmental, energy, territorial or digital aspects assigned to them.
+2.  The STV is prepared by the Quality Council, with the contribution of the relevant Competence Circle and the opinion of the Health Council on the aspects within its competence. The opinions of the other competent Circles are obtained where the good presents safety, environmental, energy, territorial or digital aspects assigned to them. The Storehouse Council gives an opinion on the logistics, storage and distribution of the good, pursuant to Article 9.2 of the Constitution.
 
 3.  The STV assesses the type or model of the good. It does not automatically certify each individual item or batch, the checking of which is governed by Article 6.
 
@@ -83,6 +83,22 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 3 V1.5; Code 4 V1.5; Code 5 
 
 8.  Documentary requirements are proportionate to the risk. For goods in common use presenting no risk or low risk, a simplified STV is sufficient, in accordance with the Quality Technical Annex.
 
+### Art. 3-bis — STVs for procedures, internal services, automations, systems and safety
+
+1.  The STVs that the Codes provide for objects other than the goods of Article 3, such as procedures, routes, internal services, Basket standards, automations, algorithms, systems and technical safety rules, are drawn up or proposed by the Council indicated by the sectoral Code and approved in accordance with Article 3, paragraph 2, letter c), and Article 7 of Code 3.
+
+2.  For the purposes of the matrix of Article 7 of Code 3:
+
+    a) the value is the cost in UCR of implementing and maintaining the STV over the following twenty-four months, certified by the Accounting Council pursuant to Article 9, paragraph 5, of Code 3;
+
+    b) the risk class is that of the activity, system or function governed, assessed pursuant to Article 6 of Code 3.
+
+3.  Where the matrix assigns the decision to the Competence Circle, whoever drew up or proposed the STV may not be its sole approver: the STV is approved together with the Quality Council or, if the Quality Council drew it up, together with the relevant Competence Circle. If the two Councils are merged in the same Council, approval requires the confirmation of at least two competent persons unconnected with the drafting.
+
+4.  Article 3, paragraphs 5 and 7, and Articles 13 and 16 apply in so far as compatible. The mandatory and binding opinions and the stricter bodies or procedures provided for by the sectoral Codes remain in force.
+
+5.  In the Codes the acronym “STV” means the Technical Validation Sheet.
+
 ### Art. 4 — Hierarchy of admission and reuse
 
 1.  As a general rule, the alternatives are assessed in the following order of preference:
@@ -117,7 +133,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 3 V1.5; Code 4 V1.5; Code 5 
 
     a) **absolute critical dependency:** it causes a total lock or an irreversible proprietary coupling, or makes offline use or community control impossible. It is prohibited and may not be admitted even on a temporary basis;
 
-    b) **residual and surmountable critical dependency:** it causes a partial limitation that can be removed by the Community by means of technically available tools, procedures or substitutions. The good may be admitted only temporarily pursuant to Article 4, paragraph 1, letter d), with a mandatory Substitution Plan.
+    b) **residual and surmountable critical dependency:** it causes a partial limitation that can be removed by the Community by means of technically available tools, procedures or substitutions. The good may be admitted only temporarily pursuant to Article 4, paragraph 1, letter d), with a mandatory Substitution Plan. Where the dependency concerns software or firmware whose source code is not available, admission is permitted within the limits of Article 19.4 of the Constitution and of Article 12, paragraph 5, and is never permitted for systems that propose or decide on rights, voting and Commons, including Management AIs, the algorithms of Article 2, paragraph 5, of Code 7, the personal AI and the consultation and voting systems of Article 34.4 of the Constitution.
 
 3.  The classification is recorded in the STV, on the basis of a preparatory inquiry by the Quality Council and the opinion of the Network Council. The assessment also considers the concrete possibility, the time and the costs of removing the dependency.
 
@@ -277,6 +293,8 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 3 V1.5; Code 4 V1.5; Code 5 
 
 4.  If the deadline passes without the dependency having been removed or the envisaged solution implemented, the good automatically passes to review for the purposes of suspension or exclusion. The review also considers any need to guarantee the continuity of an essential service.
 
+5.  The Substitution Plan of a good that depends on software or firmware whose source code is not available is published in full on the Network, pursuant to Article 19.4 of the Constitution. Only personal data and information whose disclosure would expose the security of the Network to risk may be omitted.
+
 ### Art. 13 — Temporal validity of the STV and audit
 
 1.  Every STV is subjected to an audit at least every twenty-four months, unless the STV sets a shorter time limit by reason of the criticality, the technology or the risks of the good.
@@ -335,6 +353,8 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 3 V1.5; Code 4 V1.5; Code 5 
 
     l) access to the challenge and appeal procedures.
 
+1-bis. In implementation of Article 9.2 of the Constitution, before the decision of paragraph 1, letter f), a verification of use proportionate to the risk takes place. The provisional STV is published and those who will use the good may submit observations for at least seventy-two hours or for the longer period set by the Quality Council. For goods that are not in common use with nil or low risk, the Quality Council also invites the persons who have declared an interest in using it to a trial or a discussion. Where the trial period of paragraph 1, letter g), is provided for, the observations of those who use the good during the trial are collected and assessed before the entry of paragraph 1, letter h). The decision gives an account of the observations received and of the opinion of the Storehouse Council provided for by Article 3, paragraph 2.
+
 2.  The provisional STV states which verifications are still in progress and the conditions of use applicable during the preparatory inquiry.
 
 3.  The trial period may not be used to distribute unsafe goods or to circumvent the binding opinion provided for by paragraph 1, letter d).
@@ -345,7 +365,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 3 V1.5; Code 4 V1.5; Code 5 
 
 1.  The final decision on admission is adopted as follows:
 
-    a) for goods below the economic threshold established by Code 3 and in common use, the Quality Council decides on the basis of the STV, stating its reasons;
+    a) for goods below the economic threshold established by Code 3, the Quality Council conducts the preparatory inquiry and formulates the proposal, and the body indicated by the matrix of Article 7 of Code 3, according to the value of the operation and the risk class, decides, stating its reasons and on the basis of the STV. For a good, the relevant Competence Circle is the Council competent for the sector in which the good is used or, if no Council is competent, the Storehouse Council;
 
     b) for goods above the threshold, for those with a high systemic impact or for those with a residual critical dependency pursuant to Article 5, paragraph 2, letter b), the Quality Council formulates a proposal and the Assembly of Circle 1 decides in accordance with Code 3.
 

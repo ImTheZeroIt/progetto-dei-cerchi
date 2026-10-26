@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 4 — DE LA JUSTICE RÉPARATRICE ET DE LA GARANTIE"
 breve: "Code 4 — Justice réparatrice et garantie"
-versione: "V1.5"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 4
 id: "codice-04"
 slug: "code-04"
-allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 15 V1.7 ; Code 16 V1.7."
 ---
 
 ## CHAPITRE I — DISPOSITIONS GÉNÉRALES, PRINCIPES ET DÉFINITIONS
@@ -89,7 +89,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     c) ne se substitue pas aux organes compétents ;
 
-    d) exerce exclusivement les fonctions de facilitation réparatrice, de contrôle procédural, d’adoption des mesures conservatoires qui lui sont attribuées et de vérification de l’exécution des accords, dans les limites fixées par la Constitution et par les Codes 2, 3 et 4.
+    d) exerce exclusivement les fonctions de facilitation réparatrice, de contrôle procédural, d’adoption des mesures conservatoires qui lui sont attribuées et de vérification de l’exécution des accords, ainsi que les autres fonctions que la Constitution et les Codes lui attribuent expressément, dans les limites fixées par la Constitution et par les Codes.
 
 3.  Le Cercle de garantie n’institue en son sein ni organes de second degré, ni assemblées élargies, ni juridictions permanentes. Le réexamen est confié au Collège externe régi par l’article 17.
 
@@ -101,11 +101,11 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     a) l’évaluation technique de conformité, l’adoption ou l’application des STV et des SVS et l’exclusion technique de biens ou de services relèvent du Conseil Qualité, conformément aux articles 15, 20 et 24 du Code 2 ;
 
-    b) les avis spécialisés en matière de santé, de sécurité et d’infrastructure numérique ou de souveraineté des données relèvent des Cercles compétents, conformément au Code 3, article 8, et au Code 2, article 20, lettre g) ;
+    b) les avis spécialisés en matière de santé, de sécurité, d’infrastructure numérique ou de souveraineté des données et de limites écologiques relèvent des Cercles compétents, conformément au Code 3, article 8, et au Code 2, article 20, lettre g) ;
 
     c) les délibérations allocatives, la détermination du niveau de décision, des quorums et des majorités relèvent de l’Assemblée du Cercle 1 ou de l’Assemblée générale, conformément aux articles 7, 7-bis, 7-ter, 7-quater, 12, 13 et 14 du Code 3 ;
 
-    d) le calcul et la certification des valeurs en UCR et la vérification anti-contournement relèvent du Conseil Comptabilité, conformément aux articles 9 et 11 du Code 3 et à l’article 40 du Code 1 ;
+    d) le calcul et la certification des valeurs en UCR et la vérification anti-contournement relèvent du Conseil Comptabilité, conformément aux articles 9 et 11 du Code 3 et aux articles 20, alinéa 6, et 40, alinéa 4, du Code 1 ;
 
     e) la protection procédurale, la facilitation réparatrice, l’adoption des mesures conservatoires qui lui sont attribuées et la qualification formelle des vices délibératifs conformément au Code 3 relèvent du Cercle de garantie.
 
@@ -373,6 +373,20 @@ La suspension est motivée, communiquée aux parties et soumise à un réexamen 
 
 6.  La déchéance d’une personne du statut de membre n’est admise que dans les cas prévus à l’article 1.3-bis de la Constitution et conformément au Chapitre V. La cessation du statut pour refus persistant de la CBO, prévue par l’article 7.3-bis de la Constitution, est régie uniquement par l’article 29, alinéa 6-bis. Aucune mesure du présent article ne peut priver un membre des droits visés à l’article 1.2 de la Constitution.
 
+### Art. 13-bis — Vérification de conformité et désactivation d’activités et de fonctions
+
+1.  Lorsque les Codes renvoient au présent Code pour la vérification de conformité, la suspension ou la désactivation d’une activité, d’une fonction ou d’une infrastructure non conforme, les règles suivantes s’appliquent, sans préjudice des dispositions plus spécifiques du Code sectoriel :
+
+    a) la vérification de conformité est une évaluation technique du Conseil compétent selon le Code sectoriel ; le Cercle de garantie ne l’effectue pas, en application de l’article 4, alinéa 2, lettre b) ;
+
+    b) si la mise en conformité est techniquement impossible, la désactivation est délibérée par l’Assemblée du Cercle 1 ou, pour les fonctions des Cercles 2 et 3, par l’Assemblée générale, sur proposition motivée du Conseil compétent, avec les procédures de l’article 7 du Code 3 lorsque la matrice les exige ;
+
+    c) la proposition est accompagnée d’un Plan de substitution assorti d’un terme final certain. Lorsque la fonction garantit des prestations des niveaux 1 et 2 du Panier, la désactivation ne prend effet qu’après l’activation de la fonction de substitution, sans préjudice des mesures urgentes de la lettre d) ;
+
+    d) la suspension nécessaire pour faire face à un risque grave et immédiat est adoptée selon le Code sectoriel et le Code 14 et elle est communiquée sans délai à l’Assemblée ;
+
+    e) les garanties, les mesures conservatoires et les recours du présent Code et de l’article 17 du Code 3 demeurent. Lorsque la non-conformité est imputable à une personne, la constatation des faits et les éventuelles mesures à son égard suivent les Chapitres II et V.
+
 ### Art. 14 — Registre réparateur
 
 1.  Le Cercle de garantie tient le Registre réparateur selon les niveaux de transparence prévus à l’article 15 du Code 3. Le Registre distingue :
@@ -547,7 +561,7 @@ Le Collège ne peut pas ordonner une exclusion définitive ou de catégorie, ré
 
 ### Art. 25 — Principes et garanties communs
 
-1.  Le présent Chapitre met en œuvre les articles 1.3-bis, 7.3, 7.3-bis, 18.7, 30 et 31 de la Constitution. La procédure réparatrice des Chapitres II, III et IV demeure la voie ordinaire et prioritaire. Les organes du présent Chapitre interviennent lorsqu’elle n’est pas acceptée, n’aboutit pas à un accord ou n’est pas adaptée à la gravité du fait.
+1.  Le présent Chapitre met en œuvre les articles 1.3-bis, 7.3, 7.3-bis, 17.9, 18.7, 30 et 31 de la Constitution. La procédure réparatrice des Chapitres II, III et IV demeure la voie ordinaire et prioritaire. Les organes du présent Chapitre interviennent lorsqu’elle n’est pas acceptée, n’aboutit pas à un accord ou n’est pas adaptée à la gravité du fait.
 
 2.  Nul ne peut faire l’objet d’une mesure pour un fait qui, au moment où il a été commis, n’était pas prévu comme infraction par la Constitution ou par les Codes. Les qualifications ne peuvent pas être étendues par analogie.
 
@@ -593,7 +607,45 @@ Le Collège ne peut pas ordonner une exclusion définitive ou de catégorie, ré
 
 2.  La qualification du degré relève de l’organe compétent, par une décision motivée. En cas de doute, le degré inférieur s’applique.
 
-3.  Les Codes peuvent qualifier des conduites déterminées dans les Degrés 1 à 4. Les qualifications des Degrés 5 et 6 sont exclusivement celles du présent article.
+3.  Les Codes peuvent qualifier des conduites déterminées dans les Degrés 1 à 4. Les qualifications des Degrés 5 et 6 sont exclusivement celles du présent article. L’usage de la force dans la défense personnelle est qualifié conformément à l’article 26-bis.
+
+### Art. 26-bis — Défense personnelle : absence d’infraction, excès et examen
+
+1.  Ne constituent pas une infraction l’usage de la force, l’interposition, la rétention et l’entrée dans un Cercle 0 accomplis dans les limites de l’article 17.9 de la Constitution et de l’article 8-sexies du Code 14.
+
+2.  Ne constituent pas une infraction l’excès, ni l’erreur sur l’existence, l’imminence, la durée ou la gravité de l’agression, dus à une peur, une panique ou un trouble excusables dans les circonstances concrètes. Le caractère excusable est apprécié selon les circonstances telles qu’elles apparaissaient à la personne au moment du fait, en tenant compte en particulier de la rapidité des événements, de la différence de force, de l’âge, de l’état physique et psychique de la personne et des violences qu’elle avait déjà subies de la part de l’agresseur. N’est pas excusable l’erreur de qui a recherché l’affrontement pour pouvoir employer la force, ni celle de qui a agi par simple crainte d’une agression future, sans danger concret et immédiat.
+
+3.  Hors le cas de l’alinéa 2, l’usage de la force au-delà du strict nécessaire, pendant une agression ou une maltraitance en cours et dans le but de la faire cesser, constitue une infraction de Degré 4, même lorsqu’il en est résulté des blessures graves ou la mort. Lorsque l’excès n’a causé aucune blessure ou seulement un dommage léger et réparable, il constitue une infraction de Degré 2.
+
+4.  L’usage de la force qui ne constitue pas une défense au sens de l’article 8-sexies, alinéa 5, du Code 14, y compris la force visant à tuer ou à blesser gravement lorsqu’elle n’était pas nécessaire pour faire cesser l’agression, est qualifié conformément à l’article 26, alinéa 1. L’agression subie est prise en compte dans le choix des mesures.
+
+5.  L’examen se déroule comme suit :
+
+    a) le Cercle de garantie reçoit la communication prévue par l’article 8-sexies, alinéa 10, du Code 14, ou le signalement au sens de l’article 5, ouvre le dossier, entend séparément les personnes concernées au sens de l’article 28, alinéa 2, et active la protection de qui en a besoin ;
+
+    b) le Cercle de garantie transmet sans délai l’affaire au Tribunal de garantie lorsque le fait a entraîné la mort ou des blessures graves ; lorsqu’il existe des éléments d’un excès non excusable ou d’un fait prévu par l’alinéa 4 ; lorsque la force a été employée entre des personnes qui appartiennent au même Cercle 0 ou qui y vivent ensemble, ou contre un mineur ou une personne qui n’est pas en mesure de se protéger ; lorsque la force a été employée par ou contre un membre du Corps de protection civique ; lorsque le demandent la personne contre laquelle la force a été employée, la personne défendue ou la personne qui a employé la force ;
+
+    c) dans les autres cas, le Cercle de garantie, si aucun élément d’infraction n’apparaît, le communique par une décision motivée aux personnes concernées au sens de l’article 5, alinéa 2, lettre b). La décision ne constate pas la responsabilité et n’empêche pas la demande de transmission de la lettre b) ;
+
+    d) le Tribunal de garantie constate si les limites de l’article 8-sexies du Code 14 ont été respectées, si l’alinéa 2 s’applique et, dans le cas contraire, le degré. Lorsqu’un doute raisonnable subsiste sur l’existence de la défense, la responsabilité pour l’usage de la force n’est pas constatée, au sens de l’article 25, alinéa 3. Lorsque plusieurs personnes invoquent la défense, le Tribunal constate qui a commencé l’agression ;
+
+    e) l’entrée dans un Cercle 0 prévue par l’article 8-sexies, alinéa 9, du Code 14 est communiquée dans tous les cas au Tribunal de garantie, qui vérifie dans un délai de vingt-quatre heures si elle a eu lieu dans les limites de cet alinéa et de l’article 5.1, lettre a), de la Constitution et ordonne, si nécessaire, la protection des personnes qui y vivent. L’entrée hors de ces limites est qualifiée conformément à l’article 26.
+
+6.  La défense invoquée n’empêche ni les mesures conservatoires de l’article 34, ni les parcours de protection de l’article 7-bis du Code 12 au bénéfice de chacune des personnes concernées, ni l’examen de l’agression initiale. Lorsque la force a été employée entre des personnes qui appartiennent au même Cercle 0 ou qui y vivent ensemble, le Cercle de garantie :
+
+    a) entend chaque personne séparément et hors de la présence de l’autre ;
+
+    b) offre à chacune, si elle le demande, la séparation et un logement provisoire au sens de l’article 34 ;
+
+    c) informe le Conseil Soin lorsque vivent dans le Cercle 0 des mineurs ou des personnes qui ne sont pas en mesure de se protéger ;
+
+    d) lorsque la défense est invoquée plus d’une fois dans le même Cercle 0 en l’espace de vingt-quatre mois, propose dans tous les cas un parcours de protection et en tient compte dans la transmission au Tribunal de garantie.
+
+7.  Aux faits commis par des personnes âgées de moins de dix-huit ans s’applique l’article 25, alinéa 9. Pour l’excès dans la défense, seules sont admises des mesures réparatrices, éducatives et de soutien, définies avec le Conseil Soin ; l’accueil éducatif protégé ne peut pas être ordonné. Le Conseil Soin offre un soutien au mineur qui s’est défendu ou a défendu d’autres personnes.
+
+8.  Même lorsque l’usage de la force ne constitue pas une infraction, la procédure réparatrice des Chapitres II, III et IV reste disponible, sur une base volontaire, pour toutes les personnes concernées. Qui s’est défendu dans les limites de l’article 8-sexies du Code 14 n’est pas tenu à réparation.
+
+9.  Pendant la transition, l’article 37 s’applique. L’appréciation prévue par le présent article n’a d’effet que dans l’ordre interne et ne remplace pas celle des autorités de l’État. La personne qui a employé la force est informée du droit à l’assistance juridique prévue par la loi en vigueur.
 
 ### Art. 27 — Organes compétents
 
@@ -602,7 +654,7 @@ Le Collège ne peut pas ordonner une exclusion définitive ou de catégorie, ré
 3.  Pour les infractions de Degré 4, 5 et 6, pour la révision urgente dans un délai de vingt-quatre heures et pour les autres fonctions de garantie attribuées par les Codes, le Tribunal de garantie du Cercle 2 est compétent ; il est composé de sept personnes tirées au sort pour chaque affaire sur la liste de l’article 36. Ses membres appartiennent à des Communautés différentes de celles de la personne à laquelle le fait est attribué ou que la décision concerne et de la personne lésée ; au moins trois d’entre eux possèdent une formation juridique validée conformément au Code 5.
 4.  Les organes sont constitués pour chaque affaire et sont dissous avec la décision. Nul ne peut siéger dans plus de trois collèges sur une période de douze mois. Les règles d’abstention de l’article 15 s’appliquent.
 5.  Les décisions sont prises par consensus. À défaut, la majorité des deux tiers des membres est requise. Pour les mesures de l’article 30, alinéa 3, et de l’article 31, six voix sur sept sont nécessaires.
-6.  Le Cercle de garantie reçoit les signalements, facilite la procédure réparatrice, conduit l’instruction préliminaire et assure la garde des dossiers. Il ne constate pas la responsabilité et n’ordonne pas de mesures, sauf ce que prévoient les articles 9 et 34 du présent Code et l’article 7-bis, alinéa 3, lettre b), du Code 12.
+6.  Le Cercle de garantie reçoit les signalements, facilite la procédure réparatrice, conduit l’instruction préliminaire et assure la garde des dossiers. Il ne constate pas la responsabilité et n’ordonne pas de mesures, sauf ce que prévoient les articles 9 et 34 du présent Code et l’article 7-bis, alinéa 3, lettre b), du Code 12. Il adopte en outre les autres actes que les Codes lui attribuent expressément, tels que la nomination du représentant temporaire de l’article 7-bis, alinéa 5, du Code 12, l’avis et l’autorisation de l’article 10, alinéas 6 et 7, du Code 6 et le réexamen de l’article 2-bis, alinéa 4, lettre d), du Code 6.
 
 ### Art. 28 — Procédure
 
@@ -636,7 +688,9 @@ Le Collège ne peut pas ordonner une exclusion définitive ou de catégorie, ré
 
     c) l’absence des conditions de sécurité, des EPI ou de la formation requis par les Codes 1 et 14 ;
 
-    d) l’existence d’un recours pendant à effet suspensif.
+    d) l’existence d’un recours pendant à effet suspensif ;
+
+    e) pour la personne qui a grandi dans la Confédération, la période qui précède le choix prévu par l’article 26.4 de la Constitution ou l’expiration du délai correspondant, au sens de l’article 6, alinéa 6, du Code 5.
 
 4.  Avant toute mesure pour refus de la CBO, la personne est informée de son droit au Pacte de cohabitation autonome, en application de l’article 4.9 de la Constitution.
 
@@ -706,7 +760,7 @@ Pendant la transition, la cessation consiste en l’exclusion du Cercle pilote e
 
     f) l’exclusion des tirages au sort pour les charges et pour les Conseils pendant la durée du parcours.
 
-3.  Lorsqu’il existe un danger concret et actuel pour l’intégrité physique d’autrui, qui ne peut pas être contenu par les mesures de l’alinéa 2, le Tribunal de garantie peut ordonner le confinement protecteur dans une Communauté d’accompagnement. Le confinement protecteur dure tant que le danger persiste, il est réexaminé au moins tous les six mois et, en première application, il ne peut pas dépasser au total cinq ans pour le Degré 5 et dix ans pour le Degré 6.
+3.  Lorsqu’il existe un danger concret et actuel pour l’intégrité physique d’autrui, qui ne peut pas être contenu par les mesures de l’alinéa 2, le Tribunal de garantie peut ordonner le confinement protecteur dans une Communauté d’accompagnement. La Communauté d’accompagnement est une Communauté ouverte, informée des faits et disposée à accueillir la personne, distincte de la Communauté de confinement de l’article 32 : elle n’a ni périmètre protégé ni surveillance du Corps de protection civique. La décision fixe l’obligation de séjourner dans la Communauté et un accompagnement quotidien, avec un parcours de transformation ; le Cercle de garantie de la Communauté d’accompagnement en vérifie le respect et fait rapport au Tribunal au moins tous les trois mois. La personne n’est pas retenue par la force ; son départ est communiqué sans délai au Tribunal de garantie, qui peut revoir les mesures dans les limites du présent article et de l’article 34. Le confinement protecteur dure tant que le danger persiste et il est réexaminé au moins tous les six mois. Sa durée totale ne peut pas dépasser cinq ans pour le Degré 5 et dix ans pour le Degré 6.
 
 4.  Pendant le confinement protecteur, la personne conserve le statut de membre et les garanties de l’article 32, alinéa 2.
 
@@ -787,7 +841,7 @@ Pendant la transition, la cessation consiste en l’exclusion du Cercle pilote e
 
 ### Art. 35 — Réexamen et caractère définitif
 
-1.  Les décisions de l’Assemblée de clarification et du Conseil de transformation peuvent faire l’objet d’un recours devant le Collège de réexamen de l’article 17, dans un délai de quatorze jours à compter de la communication.
+1.  Les décisions de l’Assemblée de clarification et du Conseil de transformation peuvent faire l’objet d’un recours devant le Collège de réexamen de l’article 17, dans un délai de quatorze jours à compter de la communication. Dans ces recours, le membre de l’article 17, alinéa 3, lettre b), est remplacé par une personne ayant une formation juridique validée selon le Code 5, tirée au sort sur la liste de l’article 36, alinéa 1, lettre a).
 2.  Les décisions du Tribunal de garantie peuvent faire l’objet, dans un délai de trente jours, d’un réexamen devant un second Tribunal de garantie, tiré au sort dans un autre Cercle 2. Tant qu’il n’existe qu’un seul Cercle 2, le second Tribunal est tiré au sort parmi des personnes différentes et appartenant à d’autres Communautés.
 3.  Si le réexamen est demandé uniquement par la personne destinataire de la mesure, celle-ci ne peut pas être aggravée.
 4.  La décision est définitive lorsque le réexamen n’a pas été demandé dans les délais ou lorsqu’elle a été confirmée, sauf ce que prévoit l’alinéa 6.
@@ -799,7 +853,7 @@ Pendant la transition, la cessation consiste en l’exclusion du Cercle pilote e
 1.  Les décisions définitives des organes prévus par le présent Chapitre et celles du Collège de réexamen sont publiées dans les Archives fédérées des décisions, avec les faits constatés, le degré, les mesures et la motivation.
 2.  La publication se fait sous forme anonymisée, pour la protection de la personne lésée, de la personne destinataire de la mesure et des mineurs. Lorsque, dans le contexte local, l’identification resterait possible, seul le principe appliqué est publié.
 3.  Les décisions ne constituent pas un précédent contraignant. L’organe qui statue sur une affaire analogue consulte les Archives et, s’il s’écarte de l’orientation dominante, en indique expressément les raisons.
-4.  Chaque année, le Cercle de garantie de chaque Cercle 2 publie une synthèse des orientations et des divergences relevées. La synthèse n’a pas de valeur normative ; elle peut fonder une proposition de modification des Codes.
+4.  Chaque année, l’un des Cercles de garantie des Communautés du Cercle 2, désigné par rotation en coordination avec les autres en application de l’article 36, alinéa 1, publie une synthèse des orientations et des divergences relevées. La synthèse n’a pas de valeur normative ; elle peut fonder une proposition de modification des Codes.
 
 ### Art. 36 — Listes fédérées et tirage au sort
 
@@ -811,7 +865,7 @@ Pendant la transition, la cessation consiste en l’exclusion du Cercle pilote e
 
 2.  Le tirage au sort est public et tracé conformément à l’article 15 du Code 3.
 
-3.  Ne peut être tiré au sort quiconque appartient au Cercle concerné ou y a exercé une activité au cours des vingt-quatre derniers mois, ni quiconque a un intérêt dans l’issue.
+3.  Ne peut être tiré au sort sur les listes de l’alinéa 1 quiconque appartient au Cercle 1 concerné, c’est-à-dire à celui de la personne à qui le fait est attribué ou qui est concernée par la décision, de la personne lésée ou de l’activité soumise à audit ou à avis, ou y a exercé une activité au cours des vingt-quatre derniers mois, ni quiconque a un intérêt dans l’issue. Le présent alinéa ne s’applique pas aux membres que les Codes font tirer au sort parmi les membres du Cercle 1 concerné, tels que ceux de l’article 27, alinéas 1 et 2.
 
 4.  Sauf disposition contraire des Codes, la charge d’audit ou d’avis ne dépasse pas trente jours. Le temps consacré est comptabilisé dans la CBO.
 
@@ -821,4 +875,5 @@ Pendant la transition, la cessation consiste en l’exclusion du Cercle pilote e
 2.  Les faits qui constituent une infraction pénale selon l’ordre juridique en vigueur restent soumis à la juridiction de l’État. Nul ne peut être dissuadé de s’adresser aux autorités ; toute personne en danger est aidée à le faire. Les obligations de signalement et de dénonciation prévues par la loi sont respectées.
 3.  Pendant la transition, aucune mesure de confinement, d’éloignement contraint ou de localisation ne peut être exécutée. L’article 25, alinéa 9, pour l’accueil éducatif protégé, l’article 30, alinéa 3, et les articles 31, 32, 33 et 34 ne s’appliquent qu’aux mesures de protection non coercitives et aux effets sur l’appartenance au Cercle.
 4.  Pendant la transition, la déchéance du statut de membre consiste en l’exclusion du Cercle pilote, prononcée conformément aux statuts de l’entité et à la loi applicable.
-5.  Tant que les membres requis ne peuvent pas être tirés au sort dans le Bassin, les fonctions que les Codes attribuent au Tribunal de garantie, au Collège de réexamen et au Conseil de transformation sont exercées par un collège comptant le même nombre de membres, tiré au sort sur la liste publique des personnes formées d’autres Cercles pilotes ou d’entités apparentées qui ont accepté le présent Chapitre, tenue en application de l’article 36. Si la liste ne permet pas le tirage au sort dans le délai, le collège est tiré au sort parmi les membres du Cercle pilote étrangers aux faits, aux personnes concernées et à tout degré antérieur, sur le modèle de l’article 35, alinéa 2. Le collège formé uniquement de membres ne peut pas ordonner l’accueil éducatif protégé de l’article 25, alinéa 9, ni les mesures des articles 30, alinéa 3, 31 et 33. Si aucun collège ne peut être constitué dans le délai d’une validation, la mesure prend fin.
+5.  Tant qu’aucun Bassin n’est constitué, ou que les membres requis ne peuvent pas être tirés au sort dans le Bassin, les fonctions que les Codes attribuent au Tribunal de garantie, y compris le second Tribunal de l’article 35, alinéa 2, au Collège de réexamen et au Conseil de transformation, ainsi que le remplacement du Cercle de garantie prévu par l’article 15, alinéa 3, sont exercées par un collège comptant le même nombre de membres, tiré au sort sur la liste publique des personnes formées d’autres Cercles pilotes ou d’entités apparentées qui ont accepté le présent Chapitre, tenue en application de l’article 36. Si la liste ne permet pas le tirage au sort dans le délai, le collège est tiré au sort, par dérogation aux articles 17, alinéa 3, 27, alinéas 2 et 3, et 36, alinéa 3, parmi les membres du Cercle pilote étrangers aux faits, aux personnes concernées et à tout degré antérieur, sur le modèle de l’article 35, alinéa 2. Le collège qui procède à un réexamen est composé de personnes différentes de celles qui ont décidé. Le collège formé uniquement de membres ne peut pas ordonner l’accueil éducatif protégé de l’article 25, alinéa 9, ni les mesures des articles 30, alinéa 3, 31 et 33. Si aucun collège ne peut être constitué dans le délai d’une validation, la mesure prend fin.
+6.  Après la clôture de la transition, sur tout territoire où s’applique la juridiction d’un État, continuent de s’appliquer les alinéas 2, 3 et 4 ainsi que les dispositions des Codes qui, pour la période de la transition, renvoient au présent article ou limitent les interventions sur les personnes à ce que permet la loi en vigueur, parmi lesquelles les articles 1, alinéa 4, 26-bis, alinéa 9, 29, alinéa 6-bis, dernière phrase, et 32-bis, alinéa 3, du présent Code, les articles 2-bis, alinéa 3-quater, lettre f), 2-ter, alinéa 6, et 8, alinéa 10, du Code 6, l’article 4-bis, alinéa 9, du Code 10, les articles 7-bis, alinéas 2 et 3-ter, et 7-ter, alinéa 9, du Code 12 et les articles 8-quinquies, alinéa 6, et 8-sexies, alinéa 13, du Code 14. Dans ces cas, les renvois au Cercle pilote s’entendent comme faits au Cercle 1.

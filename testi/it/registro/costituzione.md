@@ -1,7 +1,7 @@
 ---
 titolo: "COSTITUZIONE DELLA CONFEDERAZIONE DEI CERCHI"
 breve: "Costituzione"
-versione: "V.30"
+versione: "V.34"
 gruppo: "costituzione"
 ordine: 0
 id: "costituzione"
@@ -53,13 +53,13 @@ b) il Contributo di Riconoscenza (CdR), quale riconoscimento del valore generato
 
 ## Art. 3 — Regime dei beni
 
-3.1. Sono Beni Comuni inalienabili e non commerciabili, affidati in custodia ai Cerchi: la terra, l’acqua, l’aria, le fonti energetiche, i mezzi di produzione industriale, le infrastrutture di rete, la conoscenza, il codice genetico naturale, i Nodi-IA, i Magazzini e ogni altro bene qualificato come comune dalla Costituzione o dai Codici Federativi.
+3.1. Sono Beni Comuni inalienabili e non commerciabili, affidati in custodia ai Cerchi: la terra, l’acqua, l’aria, le fonti energetiche, i mezzi di produzione industriale, le infrastrutture di rete, la conoscenza, il codice genetico naturale, i Nodi-IA di Comunità e di Cerchio, i Magazzini e ogni altro bene qualificato come comune dalla Costituzione o dai Codici Federativi.
 
 3.2. Sui Beni Comuni è riconosciuto il diritto d’uso personale, familiare o comunitario. Ogni atto di compravendita, affitto o ipoteca di un Bene Comune è nullo.
 
-3.3. Sono Beni d’Uso Personale l’abitazione principale, gli effetti personali e gli strumenti di lavoro individuale garantiti a ciascuno. La loro disciplina segue l’articolo 10.
+3.3. Sono Beni d’Uso Personale l’abitazione principale, finché ne dura la proprietà d’uso ai sensi dell’articolo 10.2, gli effetti personali e gli strumenti di lavoro individuale garantiti a ciascuno. La loro disciplina segue l’articolo 10.
 
-3.4. Sono Beni di Consumo quelli gestiti tramite i Magazzini Comuni e riforniti dalla logistica federata e dai sistemi di IA-Logistica in base ai fabbisogni reali. Il prelievo è effettuato senza mediazione monetaria, secondo bisogno, disponibilità e capacità di carico, con il supporto consultivo dell’IA di Comunità previsto dall’articolo 10.5.
+3.4. Sono Beni di Consumo quelli gestiti tramite i Magazzini Comuni e riforniti dalla logistica federata, con il supporto delle IA di Comunità e di Cerchio, in base ai fabbisogni reali. Il prelievo è effettuato senza mediazione monetaria, secondo bisogno, disponibilità e capacità di carico, con il supporto consultivo dell’IA di Comunità previsto dall’articolo 10.5.
 
 3.5. Il denaro è abolito. Il CdR, denominato anche per consuetudine Credito di Gratitudine, è uno strumento personale di riconoscimento e consente accesso limitato a beni e servizi non essenziali. Non è moneta, non è illimitatamente accumulabile, trasferibile o ereditabile e non può essere utilizzato per acquistare o condizionare i diritti dell’articolo 1.2. La disciplina del CdR è contenuta nel Titolo III, articolo 8.
 
@@ -103,7 +103,7 @@ f) la violazione del presente articolo costituisce illecito di Grado 4 per usurp
 
 4.4-bis. Le funzioni tecniche dei Consigli di cui all’articolo 6.5 non sono funzioni di coordinamento ai sensi del comma 4.4, lettere a) e b), e seguono la durata e la rotazione stabilite dall’articolo 6.5. Restano applicabili le lettere c), d), e) ed f) del comma 4.4.
 
-4.5. Una comunità esterna che sottoscriva i principi inviolabili dei Titoli I e IV può chiedere l’adesione alla Confederazione. L’integrazione è subordinata alla verifica dei protocolli di interoperabilità tecnologica e logistica da parte del Cerchio Intermedio di riferimento. La verifica non può introdurre valutazioni politiche o ideologiche ulteriori rispetto ai requisiti costituzionali.
+4.5. Una comunità esterna che sottoscriva le regole fondamentali della Confederazione, cioè i Titoli I, IV, V e VII e il Nucleo Inviolabile dell’articolo 37.4, può chiedere l’adesione alla Confederazione in uno dei due modi seguenti: come Comunità associata, che conserva il proprio ordinamento interno, oppure adottando anche i Codici Federativi. Le altre regole della Costituzione e dei Codici che disciplinano la gestione interna, come il CBO, il CdR, i Magazzini, gli organi e le assemblee interni e la giustizia per i conflitti interni, sono strumenti a disposizione delle Comunità: la Comunità associata non è tenuta ad adottarli se rispetta le regole fondamentali e garantisce al confine con i Cerchi superiori l’equivalenza disciplinata dal Codice dei Rapporti Esterni. L’equivalenza comprende in ogni caso i diritti di ogni persona, con il ricorso agli organi comuni di garanzia, l’inventario e il Saldo nel formato comune, una quota di lavoro per le funzioni comuni contata per l’intera Comunità, persone nelle liste di sorteggio degli organi comuni, il voto individuale e segreto di ogni membro nelle Assemblee Generali e gli standard comuni dei beni scambiati. La Comunità associata può adottare in ogni momento singoli strumenti dei Codici e, quando usa uno strumento comune, ne segue le regole. Il Cerchio Intermedio di riferimento verifica soltanto i protocolli di interoperabilità tecnologica e logistica e, per la Comunità associata, l’equivalenza al confine. La verifica non può introdurre valutazioni politiche o ideologiche ulteriori rispetto ai requisiti costituzionali e non può chiedere cambiamenti della vita interna della comunità.
 
 4.6. Ogni Cerchio 1 conserva il diritto di recedere dalla Confederazione mediante deliberazione approvata con la maggioranza dei tre quarti degli aventi diritto al voto. La presente disposizione costituisce disciplina speciale rispetto all’articolo 35.1.
 
@@ -133,7 +133,7 @@ c) alla residenza stabile mediante un Patto di Convivenza Autonoma con il Cerchi
 
 5.1. La Confederazione si articola in Cerchi concentrici e sussidiari:
 
-a) **Cerchio 0 — Nucleo di Cura.** È l’unità originaria di cura di ogni persona ed è composta da una a quindici persone, in forma individuale, familiare, elettiva o di coabitazione. Svolge funzioni quotidiane di cura reciproca e ospitalità primaria. Ha diritto a un conto di Magazzino e a un Nodo-IA personale. Ogni componente esercita individualmente il voto di cui all’articolo 36.1, senza delega. Il Cerchio 0 individua un portavoce a rotazione per il solo coordinamento pratico e la comunicazione, senza delega di voto o poteri rappresentativi. Il Cerchio 0 è inviolabile: nessuno può entrarvi, registrarne le dinamiche, scioglierlo o condizionarne la composizione, salvo interventi strettamente necessari alla tutela di diritti inviolabili secondo il Titolo VIII. Ogni persona appartiene a un solo Cerchio 0. Le deliberazioni della Comunità di Base valutano il proprio impatto sul Cerchio 0. La parte di una deliberazione lesiva della sua inviolabilità è nulla;
+a) **Cerchio 0 — Nucleo di Cura.** È l’unità originaria di cura di ogni persona ed è composta da una a quindici persone, in forma individuale, familiare, elettiva o di coabitazione. Svolge funzioni quotidiane di cura reciproca e ospitalità primaria. Ha diritto a un conto di Magazzino e a un Nodo-IA personale per ciascun componente. Ogni componente esercita individualmente il voto di cui all’articolo 36.1, senza delega. Il Cerchio 0 individua un portavoce a rotazione per il solo coordinamento pratico e la comunicazione, senza delega di voto o poteri rappresentativi. Il Cerchio 0 è inviolabile: nessuno può entrarvi, registrarne le dinamiche, scioglierlo o condizionarne la composizione, salvo interventi strettamente necessari alla tutela di diritti inviolabili secondo il Titolo VIII. Ogni persona appartiene a un solo Cerchio 0. Le deliberazioni della Comunità di Base valutano il proprio impatto sul Cerchio 0. La parte di una deliberazione lesiva della sua inviolabilità è nulla;
 
 b) **Cerchio 1 — Comunità di Base.** È l’unità sovrana e gestisce il CBO, il Magazzino, i cicli locali, la giustizia di Grado 1 e 2, la salute e l’educazione di base. Dispone di un’IA di Comunità esclusivamente consultiva. Ha dimensione tale da consentire la deliberazione diretta di tutti i suoi membri: di norma non meno di trenta e non più di cinquecento persone. Oltre tale soglia la Comunità valuta, con Dossier ai sensi dell’articolo 33, la propria articolazione in più Comunità;
 
@@ -191,7 +191,7 @@ Ulteriori Cerchi di Competenza possono essere istituiti sulla base di un Dossier
 
 6.5. In ogni Cerchio 1 i Cerchi di Competenza operano attraverso Consigli tecnici disciplinati dai Codici. Quando la Comunità non dispone di persone idonee in numero sufficiente, più Consigli possono essere accorpati oppure costituiti in forma condivisa nel Cerchio 2. I componenti sono sorteggiati tra le persone idonee e disponibili, restano in carica un anno con rinnovo a scaglioni e non possono essere nuovamente sorteggiati nello stesso Consiglio prima di dodici mesi dalla fine del mandato. Ogni persona sorteggiata può rifiutare. L’Assemblea può revocare i componenti in qualsiasi momento. Nelle Comunità con meno di centocinquanta persone aventi diritto di voto i Consigli sono riuniti in non più di tre Consigli d’area, secondo il Codice della Deliberazione. Il tempo dedicato all’amministrazione non supera un decimo del CBO complessivo della Comunità.
 
-6.6. I Consigli non esercitano poteri di comando. Adottano atti tecnici in esecuzione di decisioni, specifiche e schede già approvate, formulano proposte e pareri e, nei soli casi previsti dai Codici a tutela della salute, della sicurezza e della sovranità dei dati, esprimono pareri vincolanti negativi. Il parere vincolante negativo impedisce l’adozione della decisione finché non ne sia rimossa la causa, è motivato ed è impugnabile dinanzi agli organi di garanzia; non attribuisce al Consiglio il potere di decidere in luogo dell’Assemblea.
+6.6. I Consigli non esercitano poteri di comando. Adottano atti tecnici in esecuzione di decisioni, specifiche e schede già approvate, formulano proposte e pareri e, nei soli casi previsti dai Codici a tutela della salute, della sicurezza, della sovranità dei dati e dei limiti ecologici, esprimono pareri vincolanti negativi. Sono limiti ecologici la capacità di carico degli ecosistemi e il divieto di danno irreversibile previsti dagli articoli 14.2 e 14.6, misurati con gli indicatori e le soglie del Codice Agroecologico e Alimentare, del Codice dell’Habitat e del Territorio e del Codice della Biodiversità. Il parere vincolante negativo impedisce l’adozione della decisione finché non ne sia rimossa la causa, è motivato ed è impugnabile dinanzi agli organi di garanzia; non attribuisce al Consiglio il potere di decidere in luogo dell’Assemblea.
 
 # TITOLO III — SISTEMA ECONOMICO, SCAMBIO E CONTRIBUZIONE
 
@@ -221,7 +221,7 @@ i) funzioni conferite per sorteggio di coordinamento, facilitazione, garanzia, t
 
 Sono escluse dal CBO le attività culturali, artistiche, spirituali, ludiche, affettive, di ricerca libera e contemplazione.
 
-7.3. Il rifiuto sistematico e ingiustificato del CBO da parte di una persona adulta abile è affrontato progressivamente dall’Assemblea di Chiarimento del Cerchio 1. Prima di ogni misura si valutano la rimodulazione delle mansioni e la mediazione, e la persona è informata del diritto al Patto di Convivenza Autonoma di cui all’articolo 4.9, lettera c). Se queste non hanno esito, possono essere sospesi il CdR e l’accesso alle risorse non essenziali, senza pregiudizio per le garanzie vitali dell’articolo 1.2. La persistenza del rifiuto per oltre sessanta giorni, in assenza di obiezione di coscienza valida, impedimento riconosciuto o altra giustificazione prevista dal Codice di Giustizia Riparativa, costituisce illecito di Grado 3 ai sensi dell’articolo 30.2.
+7.3. Il rifiuto sistematico e ingiustificato del CBO da parte di una persona adulta abile è affrontato progressivamente dall’Assemblea di Chiarimento del Cerchio 1. Prima di ogni misura si valutano la rimodulazione delle mansioni e la mediazione, e la persona è informata del diritto al Patto di Convivenza Autonoma di cui all’articolo 4.9, lettera c). Se queste non hanno esito, possono essere sospesi il CdR e l’accesso alle risorse non essenziali, senza pregiudizio per i diritti dell’articolo 1.2. La persistenza del rifiuto per oltre sessanta giorni, in assenza di obiezione di coscienza valida, impedimento riconosciuto o altra giustificazione prevista dal Codice di Giustizia Riparativa, costituisce illecito di Grado 3 ai sensi dell’articolo 30.2.
 
 7.3-bis. In attuazione dell’articolo 2.3, se, concluso il Piano di Trasformazione disposto per l’illecito di Grado 3 previsto dal comma 7.3, compreso l’eventuale rinnovo, la persona adulta abile continua a rifiutare il CBO senza giustificazione, il Tribunale di Garanzia può dichiarare, con le garanzie dell’articolo 31.5 e dei Codici, la cessazione del suo status di membro. Non costituiscono mai rifiuto ingiustificato l’obiezione di coscienza dell’articolo 7.4, la malattia, la disabilità, l’età, la gravidanza e gli altri impedimenti, esenzioni e giustificazioni riconosciuti dai Codici. La cessazione è l’eccezione prevista per questo caso dall’articolo 1.3 e produce gli effetti dell’articolo 4.8; non è la decadenza dell’articolo 1.3-bis e non comporta alcuna delle misure dell’articolo 30.3. Alla persona è assegnata in custodia d’uso, con il Patto di Convivenza Autonoma nella forma prevista per questo caso dall’articolo 4.9-bis, una porzione di terra della quota riservata al Patto, con l’accesso all’acqua necessaria, senza abitazione e senza attrezzi o altri beni della Comunità; la persona conserva i Beni d’Uso Personale, l’acqua potabile, le cure d’emergenza salvavita e la protezione dei minori garantite a chiunque dall’ultimo periodo dell’articolo 1.3, e gli altri diritti dell’articolo 4.9 nei limiti dell’articolo 4.9-bis. Può chiedere in ogni momento la riammissione, riprendendo il CBO: la riammissione non può essere negata per il rifiuto passato. I figli minori conservano lo status di membro e tutti i diritti; il Tribunale di Garanzia decide nel loro interesse dove e con chi vivono, secondo il Codice della Cura. Presupposti e procedura sono disciplinati dal Codice di Giustizia Riparativa e non possono essere estesi ad altri casi, ai sensi dell’articolo 37.4, lettera a).
 
@@ -233,7 +233,7 @@ Sono escluse dal CBO le attività culturali, artistiche, spirituali, ludiche, af
 
 8.1. Le attività ulteriori al CBO che producono beni per il Magazzino Comune o servizi per la Comunità danno diritto al CdR. Nell’ambito del CBO danno diritto al CdR soltanto le maggiorazioni riconosciute per i compiti sgradevoli, usuranti o notturni, secondo il Codice del Contributo e dei Magazzini.
 
-8.2. Il CdR è uno strumento di riconoscimento, non una moneta di accumulo. Non è scambiabile con diritti fondamentali né attribuisce proprietà sui Beni Comuni. È calcolato dal Cerchio tenendo conto del tempo, della gravosità e dell’utilità sociale validata; riconosce il contributo reso e non il possesso di titoli, competenze o incarichi. Il calcolo avviene con il supporto consultivo del Nodo-IA e validazione comunitaria ai sensi dell’articolo 9.1. Il CdR è soggetto a decrescenza programmata e a un tetto massimo personale; non è ereditabile né trasferibile. È utilizzabile esclusivamente per beni e servizi non essenziali, compresa l’ospitalità ordinaria nelle Case Ponte quando prevista dal Codice della Mobilità. Non può essere richiesto per accedere alle garanzie vitali.
+8.2. Il CdR è uno strumento di riconoscimento, non una moneta di accumulo. Non è scambiabile con diritti fondamentali né attribuisce proprietà sui Beni Comuni. È calcolato dal Cerchio tenendo conto del tempo, della gravosità e dell’utilità sociale validata; riconosce il contributo reso e non il possesso di titoli, competenze o incarichi. Il calcolo avviene con il supporto consultivo del Nodo-IA di Comunità e validazione comunitaria ai sensi dell’articolo 9.1. Il CdR è soggetto a decrescenza programmata e a un tetto massimo personale; non è ereditabile né trasferibile. È utilizzabile esclusivamente per beni e servizi non essenziali, compresa l’ospitalità ordinaria nelle Case Ponte quando prevista dal Codice della Mobilità. Non può essere richiesto per accedere alle garanzie vitali.
 
 8.3. La disciplina di dettaglio del CdR è contenuta nel Codice del Contributo e dei Magazzini. Il costo di riproduzione di beni e servizi è misurato separatamente in Unità di Costo di Riproduzione (UCR), disciplinate dal Codice della Deliberazione: le UCR sono unità di conto e non attribuiscono alcun credito personale.
 
@@ -341,7 +341,7 @@ d) priorità del benessere animale su ogni interesse umano.
 
 14.4. Ogni Comunità contribuisce alla bonifica, alla rigenerazione e alla riparazione dei danni industriali ed estrattivi pregressi, secondo le procedure applicabili e il principio di responsabilità collettiva per i danni storici.
 
-14.5. Il principio Rifiuti Zero costituisce un obbligo. Discarica e incenerimento sono vietati. Ogni scarto è destinato a recupero, riuso, riparazione, compostaggio o altro ciclo materiale compatibile. La tracciabilità è pubblica e verificabile tramite Magazzino e Nodo-IA.
+14.5. Il principio Rifiuti Zero costituisce un obbligo. Discarica e incenerimento sono vietati. Ogni scarto è destinato a recupero, riuso, riparazione, compostaggio o altro ciclo materiale compatibile. La tracciabilità è pubblica e verificabile tramite Magazzino e Nodo-IA di Comunità.
 
 14.6. La capacità di carico degli ecosistemi prevale su ogni piano economico. Nessun Cerchio può autorizzare una produzione che superi i limiti biofisici rilevati.
 
@@ -397,6 +397,8 @@ e) Soccorso Sanitario e Veterinario di Comunità.
 
 17.8. Composizione, formazione, dotazioni e procedure del Corpo di Tutela Civica sono disciplinate dal Codice della Sicurezza, nel rispetto del presente articolo e dell’articolo 18.
 
+17.9. Ogni persona può difendere sé stessa e altre persone da un’aggressione in corso o imminente contro l’incolumità fisica o sessuale, quando il pericolo è concreto e immediato e non soltanto temuto, anche se il Corpo di Tutela Civica non è presente. Con gli stessi limiti può difendere un animale da un maltrattamento in corso che lo ferisce o lo fa soffrire, ai sensi dell’articolo 13. La difesa è disarmata e segue i principi dell’articolo 16.4: consiste nel sottrarsi, nel mettere al sicuro le persone e gli animali, nell’interporsi e, quando ciò non basta, nell’uso della sola forza strettamente necessaria e proporzionata a far cessare l’aggressione o il maltrattamento. Gli oggetti trovati sul posto possono essere usati per ripararsi; per colpire, soltanto in pericolo per la vita, di lesioni gravi o di violenza sessuale. Sono esclusi in ogni caso le armi, l’attacco, la vendetta, la punizione, l’uso della forza dopo che il pericolo è cessato e l’uso della forza sulle persone a tutela di soli beni. La difesa entro questi limiti non costituisce illecito. L’ingresso in un Cerchio 0 senza il consenso di chi vi abita è ammesso soltanto nei limiti dell’articolo 5.1, lettera a). Il Codice della Sicurezza ne disciplina i limiti e la comunicazione del fatto; il Codice di Giustizia Riparativa disciplina l’accertamento e l’eccesso, tenendo conto dello spavento e del turbamento di chi si difende.
+
 ## Art. 18 — Videosorveglianza e divieto di controllo biometrico
 
 18.1. La sorveglianza non può essere utilizzata come forma di governo, controllo sociale o gestione preventiva del territorio.
@@ -423,7 +425,7 @@ e) Soccorso Sanitario e Veterinario di Comunità.
 
 19.3. Scoperte, farmaci, algoritmi, schemi hardware e modelli di IA sono di pubblico dominio, fatti salvi i dati personali e le informazioni la cui diffusione violerebbe diritti inviolabili. Nei settori qualificati come Beni Comuni, brevetti e codici chiusi sono nulli.
 
-19.4. Ogni Comunità possiede fisicamente l’hardware e una copia verificabile del codice sorgente di ogni sistema utilizzato. Sono vietati gli aggiornamenti black box.
+19.4. Ogni Comunità possiede fisicamente l’hardware e una copia verificabile del codice sorgente di ogni sistema utilizzato. Sono vietati gli aggiornamenti black box. I Codici possono ammettere, per un tempo limitato e con un Piano di Sostituzione pubblico, sistemi di cui non è disponibile il codice sorgente, esclusi quelli che propongono o decidono su diritti, voto e Beni Comuni.
 
 19.5. Sono ammesse IA locali, open source, ispezionabili e a dominio limitato. Quando operano offline, sono addestrate o adattate prioritariamente sui dati della Comunità di appartenenza. L’architettura non è piramidale e nessun modello locale può assumere unilateralmente il controllo delle IA di altri Cerchi. I dati personali restano nei Cerchi di origine, salvo consenso espresso o necessità prevista dalla Costituzione.
 
@@ -497,6 +499,8 @@ e) Soccorso Sanitario e Veterinario di Comunità.
 
 26.4. Entro dodici mesi dal compimento del diciottesimo anno, la persona cresciuta nella Confederazione sceglie espressamente se esserne membro, vivere mediante Patto di Convivenza Autonoma o lasciarla. La scelta è libera, informata e sempre rivedibile. È preceduta, se la persona lo desidera, da un periodo di conoscenza di altre Comunità e di realtà esterne. Qualunque sia la scelta, la Comunità assicura il sostegno materiale necessario all’avvio della vita autonoma. Fino alla scelta la persona conserva i diritti di membro e il regime di contribuzione previsto per i minori; decorso il termine senza una scelta espressa, la permanenza vale come adesione, fermo il diritto dell’articolo 4.8.
 
+26.5. Il diritto dell’articolo 4.8 spetta anche ai minori. Dal compimento del sedicesimo anno il minore lo esercita da sé; fino ad allora lo esercita per lui, soltanto nel suo interesse e dopo averlo informato e ascoltato, chi ne ha la responsabilità di cura, secondo il Codice della Cura. La dichiarazione che una persona rende per sé non si estende ai minori di cui ha la responsabilità di cura. Restano fermi gli articoli 1.3 e 4.9-bis.
+
 ## Art. 27 — Anziani e fine vita
 
 27.1. È garantito il diritto al domicilio, con supporto comunitario a turni incluso nel CBO.
@@ -517,7 +521,7 @@ e) Soccorso Sanitario e Veterinario di Comunità.
 
 29.2. L’intera Comunità è luogo di apprendimento: officine, campi, cucine, Magazzini, boschi e Nodi di calcolo.
 
-29.3. L’apprendimento si fonda su attività pratiche, affiancamento e gioco libero. Ogni apprendente è affiancato da tre figure di riferimento a rotazione trimestrale, appartenenti a Cerchi di Competenza diversi e non appartenenti alla stessa famiglia o allo stesso Cerchio 0.
+29.3. L’apprendimento si fonda su attività pratiche, affiancamento e gioco libero. Ogni apprendente minore è affiancato da tre figure di riferimento a rotazione trimestrale, appartenenti a Cerchi di Competenza diversi e non appartenenti alla stessa famiglia o allo stesso Cerchio 0.
 
 29.4. Entro l’undicesimo anno di età è garantita l’alfabetizzazione, comprendente almeno lettura e scrittura, matematica di base, uso delle IA locali, riparazione di un oggetto complesso, coltivazione di alimenti a ciclo completo, primo soccorso umano e animale e mediazione non violenta. La validazione avviene mediante dimostrazione pratica davanti al Cerchio 1 e non tramite esame esterno.
 
@@ -533,7 +537,7 @@ e) Soccorso Sanitario e Veterinario di Comunità.
 
 30.1. È abolita la pena punitiva fine a sé stessa. Nessuna sofferenza può essere inflitta senza finalità riparative, rieducative o di protezione. Le misure perseguono esclusivamente la riparazione, la rieducazione e la protezione immediata della persona offesa, della Comunità e dell’autore del fatto. Sono vietati trattamenti inumani, degradanti o afflittivi.
 
-30.2. Il sistema è articolato in sei gradi progressivi, ordinati in base all’intensità dell’intervento e del contenimento necessario, alla gravità del fatto, alla reiterazione e al pericolo concreto e attuale. Presupposti, fattispecie e modalità di esecuzione sono disciplinati dal Codice di Giustizia Riparativa nel rispetto di proporzionalità, sussidiarietà e diritti inviolabili dell’articolo 1.2. Nessuna misura può sopprimere le garanzie vitali, salvo quanto previsto dall’articolo 1.3-bis e dai commi successivi.
+30.2. Il sistema è articolato in sei gradi progressivi, ordinati in base all’intensità dell’intervento e del contenimento necessario, alla gravità del fatto, alla reiterazione e al pericolo concreto e attuale. Presupposti, fattispecie e modalità di esecuzione sono disciplinati dal Codice di Giustizia Riparativa nel rispetto di proporzionalità, sussidiarietà e diritti inviolabili dell’articolo 1.2. Nessuna misura può sopprimere le garanzie vitali dell’articolo 30.4. Soltanto le misure dell’articolo 1.3-bis possono ridurre i diritti dell’articolo 1.2 a tali garanzie, nei limiti dei commi 3 e 4. La cessazione dello status prevista dall’articolo 7.3-bis non è una misura del presente articolo.
 
 30.3. Per le fattispecie dell’articolo 1.3-bis possono essere applicate misure estreme di protezione: Contenimento ad Alta Sicurezza e Allontanamento Definitivo dai Cerchi interessati. Il Contenimento ad Alta Sicurezza consiste nella collocazione della persona in una Comunità di Contenimento con perimetro protetto, sotto la sorveglianza del Corpo di Tutela Civica e con mantenimento delle garanzie minime previste dal comma 4. L’Allontanamento Definitivo consiste nel divieto permanente di risiedere e di accedere ai Cerchi nei quali vivono la persona offesa e la comunità colpita, con ricollocazione in un altro Cerchio disponibile ad accogliere la persona o mediante Patto di Convivenza Autonoma. Regime, durata, regola delle due possibilità e riesame sono disciplinati dal Codice di Giustizia Riparativa.
 
@@ -561,7 +565,9 @@ b) il Consiglio di Trasformazione, per gli illeciti di Grado 3;
 
 c) il Tribunale di Garanzia del Cerchio 2, per gli illeciti di Grado 4, 5 e 6, per la revisione urgente entro ventiquattro ore e per le altre funzioni di garanzia attribuite dai Codici;
 
-d) il Cerchio di Garanzia del Cerchio 1, per la facilitazione riparativa, la tutela delle garanzie procedurali e i ricorsi previsti dai Codici.
+d) il Cerchio di Garanzia del Cerchio 1, per la facilitazione riparativa, la tutela delle garanzie procedurali e i ricorsi previsti dai Codici;
+
+e) il Collegio di Riesame, costituito per il singolo ricorso, per i ricorsi contro le decisioni degli organi delle lettere a) e b) e contro gli esiti della procedura riparativa facilitata dall’organo della lettera d).
 
 31.4. Ogni organo è assistito da un’IA di mediazione esclusivamente consultiva, priva di potere decisionale e soggetta al diritto inderogabile di override umano.
 
@@ -663,7 +669,7 @@ k) il presente comma.
 
 ## Art. 38 — Adozione, regime di fondazione e gradualità
 
-38.1. La Costituzione e i Codici Federativi entrano in vigore, per ciascuna Comunità di Base, con l’atto di adesione deliberato dalle persone che la costituiscono. L’adesione di ogni persona è individuale, volontaria e revocabile ai sensi dell’articolo 4.8.
+38.1. La Costituzione e i Codici Federativi entrano in vigore, per ciascuna Comunità di Base, con l’atto di adesione deliberato dalle persone che la costituiscono. Per la Comunità associata si applicano secondo l’articolo 4.5 e il Codice dei Rapporti Esterni. L’adesione di ogni persona è individuale, volontaria e revocabile ai sensi dell’articolo 4.8.
 
 38.2. Fino a quando non esistano almeno tre Cerchi Estesi, la revisione della Costituzione e l’approvazione e la modifica dei Codici Federativi seguono il regime di fondazione:
 

@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 9 — AGROÉCOLOGIQUE ET ALIMENTAIRE"
 breve: "Code 9 — Agroécologie et alimentation"
-versione: "V3.1"
+versione: "V3.3"
 gruppo: "codici"
 ordine: 9
 id: "codice-09"
 slug: "code-09"
-allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 15 V1.7 ; Code 16 V1.7."
 ---
 
 ## Art. 1 — Objet et nature juridique
@@ -103,7 +103,7 @@ La STV Phytosanitaire est une condition nécessaire à tout traitement. Les inte
 
     e) niveau 5 : autres usages.
 
-En cas de pénurie, les réductions sont appliquées progressivement du niveau 5 vers les niveaux supérieurs, dans le respect de l’article 32 du Code 1.
+En cas de pénurie, les réductions sont appliquées progressivement du niveau 5 vers les niveaux supérieurs, dans le respect de l’article 32 du Code 1. Pour l’eau en cas de pénurie, seul l’article 10, alinéa 8, s’applique : l’eau minimale nécessaire à la survie des animaux et des pollinisateurs a la même priorité que celle nécessaire aux cultures du niveau 1.
 
 6.  **Accès ouvert au savoir agroécologique.** Pour chaque variété du Panier, technique de production, recette de conservation et STV relative aux pollinisateurs pour les niveaux 1–4, une documentation complète et librement reproductible est mise à disposition, y compris la STV prévue par le Code 2. Il est interdit de breveter les semences du Panier et le savoir essentiel de conservation identifié par les STV.
 7.  **Transparence.** Chaque Cercle tient un inventaire des semences, une carte des sols agricoles, un inventaire des refuges pour pollinisateurs et un bilan alimentaire agrégé et sans profilage.
@@ -255,13 +255,13 @@ En cas de pénurie, les réductions sont appliquées progressivement du niveau 5
 
 3.  Le présent Code renvoie au Code 10 pour la carte territoriale et régit la fonction agricole à l’intérieur des zones affectées à cet usage.
 
-4.  La Confédération garantit une couverture fédérée minimale de compétences et d’infrastructures avancées, comprenant, selon les besoins, une banque de semences, une pépinière, un séchoir, un moulin et un pressoir à huile. La couverture assure à chaque Cercle 1 un accès effectif dans un bassin raisonnable, en règle générale un pour trois ou quatre Cercles, dimensionné en fonction de la population et du territoire.
+4.  La Confédération garantit une couverture fédérée minimale de compétences et d’infrastructures avancées, comprenant, selon les besoins, une banque de semences, une pépinière, un séchoir, un moulin et un pressoir à huile. La couverture assure à chaque Cercle 1 un accès effectif dans son propre Cercle 2, en règle générale avec une dotation pour trois ou quatre Cercles 1 qui le composent, dimensionnée en fonction de la population et du territoire.
 
 5.  L’accès aux infrastructures fédérées se fait sur réservation et est géré au moyen d’un inventaire commun.
 
 6.  Les microproductions diffuses, comme les potagers sur balcons ou toits, les potagers d’immeuble et les refuges pédagogiques pour pollinisateurs, sont enregistrées auprès du Conseil agroécologique et respectent la STV et la Fiche de sécurité applicables.
 
-7.  La mesure n’est admise qu’à des fins techniques de sécurité alimentaire, de bilan alimentaire, de fertilité du sol, de vérification du Panier et d’état des refuges pour pollinisateurs. Les données sont agrégées par Cercle ou par groupe.
+7.  La mesure n’est admise qu’à des fins techniques de sécurité alimentaire, de bilan alimentaire, de fertilité du sol, de vérification du Panier et d’état des refuges pour pollinisateurs. Les données sont agrégées par Cercle 1 ou par Cercle 2.
 
 8.  Le profilage individuel des comportements est interdit. S’appliquent le Code 7, article 2.2, et les règles correspondantes de minimisation et d’accès.
 
@@ -269,7 +269,7 @@ En cas de pénurie, les réductions sont appliquées progressivement du niveau 5
 
 1.  **Principe général.** Les animaux non humains sont des êtres sensibles, libres et protégés ; ils ne sont ni des marchandises ni des moyens de production, au sens de l’article 13 de la Constitution. Sont interdits l’élevage à des fins d’exploitation, l’abattage, la mise à mort et toute pratique causant douleur, peur ou privation. Seules sont admises la collaboration non exploitante de l’alinéa 3 et la récolte sans dommage des alinéas 4 et 5.
 
-2.  En cas de conflit d’interprétation entre la fonction agroalimentaire et le bien-être animal, les paramètres de bien-être établis par le Code 13 prévalent. Dans le doute, l’activité n’est pas autorisée.
+2.  En cas de conflit d’interprétation entre la fonction agroalimentaire et le bien-être animal, les paramètres de bien-être établis par le Code 13 prévalent. Dans le doute, l’activité n’est pas autorisée. La répartition de l’eau en cas de pénurie suit l’article 10, alinéa 8.
 
 3.  **Collaboration au travail.**
 
@@ -277,7 +277,7 @@ En cas de pénurie, les réductions sont appliquées progressivement du niveau 5
 
     b) La collaboration n’est admise que dans des activités compatibles avec l’espèce, le tempérament et l’état de chaque animal. Sont interdits les outils et les méthodes qui agissent par la douleur ou la peur. L’animal qui manifeste un refus, de la fatigue ou un malaise est libéré de l’activité.
 
-    c) La charge, le nombre maximal d’heures par jour et par semaine, l’âge minimal et maximal, les repos, les seuils climatiques et les signaux de malaise sont définis dans la STV Bien-être des animaux qui collaborent, conformément au Code 2. La STV est validée conjointement par le Conseil agroécologique et le Conseil Biodiversité, avec l’avis du Conseil Santé ; sur les paramètres de bien-être, l’avis du Conseil Biodiversité est contraignant.
+    c) La charge, le nombre maximal d’heures par jour et par semaine, l’âge minimal et maximal, les repos, les seuils climatiques et les signaux de malaise sont définis dans la STV Bien-être des animaux qui collaborent, conformément au Code 2. La STV est validée conjointement par le Conseil agroécologique et le Conseil Biodiversité, avec l’avis du Conseil Santé ; les paramètres de bien-être sont approuvés par le Conseil Biodiversité avec l’autorisation de l’article 13.3 de la Constitution, en application de l’article 3, alinéa 5, du Code 13.
 
     d) Chaque animal dispose d’une Fiche de bien-être individuelle, d’un registre des heures et d’un contrôle vétérinaire périodique. En l’absence d’une Fiche en vigueur, la collaboration est suspendue sans délai ; le soin de l’animal reste garanti.
 
@@ -297,7 +297,7 @@ En cas de pénurie, les réductions sont appliquées progressivement du niveau 5
 
     b) Sont interdits la mise à mort, le prélèvement entraînant douleur, peur, privation ou réduction de la durée de vie, la séparation d’avec la progéniture, la reproduction induite, la sélection visant la productivité et l’augmentation du nombre d’animaux à des fins de récolte.
 
-    c) Les conditions et les limites de chaque récolte sont définies dans la Fiche de bien-être et dans la STV applicable, avec l’avis contraignant du Conseil Biodiversité. Dans le doute, la récolte n’est pas autorisée.
+    c) Les conditions et les limites de chaque récolte sont définies dans la Fiche de bien-être et dans la STV applicable, approuvées par le Conseil Biodiversité en application de l’article 3, alinéa 5, du Code 13. Dans le doute, la récolte n’est pas autorisée.
 
     d) La récolte ne constitue pas un objectif de production et n’est pas programmée dans les besoins du Panier. Ce qui est récolté est apporté à l’Entrepôt et distribué, lorsqu’il est disponible, en priorité pour les besoins cliniques et les personnes fragiles.
 
@@ -311,7 +311,7 @@ En cas de pénurie, les réductions sont appliquées progressivement du niveau 5
 
     c) Sont interdits le nourrissement artificiel, sauf l’intervention de secours attestée par le Conseil Biodiversité pour le temps strictement nécessaire ; l’insémination artificielle et la suppression des reines ; le rognage des ailes ; la transhumance ; les acaricides de synthèse persistants ; les lignées soumises à brevet, licence ou stérilité technologique.
 
-    d) L’intervention sur les colonies est admise pour le secours, la protection sanitaire, la prévention des risques pour les personnes et la récolte en application de la lettre b), conformément à la STV Pollinisateurs. La STV est adoptée conformément au Code 2, avec l’avis contraignant du Conseil Biodiversité sur les paramètres de bien-être et avec l’avis obligatoire du Conseil Habitat et Territoire.
+    d) L’intervention sur les colonies est admise pour le secours, la protection sanitaire, la prévention des risques pour les personnes et la récolte en application de la lettre b), conformément à la STV Pollinisateurs. La STV est adoptée conformément au Code 2, avec l’approbation et l’avis du Conseil Biodiversité prévus par l’article 6, alinéa 6, du Code 13 et avec l’avis obligatoire du Conseil Habitat et Territoire.
 
     e) La STV Pollinisateurs définit la réserve nécessaire à la colonie, les distances, les zones tampons et le rayon de protection contre les traitements, en coordination avec le Code 10.
 
@@ -341,7 +341,7 @@ En cas de pénurie, les réductions sont appliquées progressivement du niveau 5
 
 1.  Aucune activité de transformation ou de conservation et aucune intervention auprès des refuges pour pollinisateurs ne peut être réalisée sans une Fiche de sécurité en vigueur. Pour la collaboration avec des animaux et pour les interventions sur les colonies, une Fiche de bien-être en vigueur conformément au Code 13 est également requise.
 2.  Le Conseil agroécologique valide les aspects techniques de sécurité de l’activité. Le Conseil Santé rend l’avis obligatoire sur les risques sanitaires, la conservation, les allergènes, la nutrition des personnes fragiles, les piqûres et les zoonoses. Le Conseil Biodiversité rend l’avis obligatoire sur les aspects de bien-être animal.
-3.  Les avis obligatoires ne transfèrent pas au Conseil consulté la compétence de validation technique de l’acte, qui reste au Conseil agroécologique, sauf pour la STV Bien-être des animaux qui collaborent et la STV Pollinisateurs prévues par l’article 6-bis, alinéa 3, lettre c), et alinéa 5, lettre d), pour lesquelles l’avis du Conseil Biodiversité est contraignant.
+3.  Les avis obligatoires ne transfèrent pas au Conseil consulté la compétence de validation technique de l’acte, qui reste au Conseil agroécologique, sauf pour la STV Bien-être des animaux qui collaborent et la STV Pollinisateurs prévues par l’article 6-bis, alinéa 3, lettre c), et alinéa 5, lettre d), pour lesquelles le Conseil Biodiversité approuve les paramètres de bien-être en application de l’article 3, alinéa 5, du Code 13.
 4.  Les EPI et les équipements pour la sécurité alimentaire et pour les interventions auprès des refuges pour pollinisateurs sont des biens communs, fournis gratuitement, entretenus et suivis par les Entrepôts compétents conformément aux Codes 1, 6 et 14. Leur absence entraîne la suspension de l’activité concernée.
 5.  La formation L1 en sécurité alimentaire et en protection des pollinisateurs est obligatoire pour accéder aux cuisines de transformation et aux ruches de garde. La L2 est requise pour la gestion des champs, la conservation avancée et les interventions de secours sur les colonies. La L3 est requise pour la conception agroécologique et la validation des STV.
 6.  Quiconque constate un risque immédiat pour la santé, le bien-être animal ou la survie d’une colonie peut interrompre l’activité, le signaler et ne peut subir aucun préjudice pour avoir agi de bonne foi. Les Codes 6 et 14 s’appliquent.
@@ -392,7 +392,7 @@ En cas de pénurie, les réductions sont appliquées progressivement du niveau 5
 
     f) de céder à un acteur extérieur à la Confédération le contrôle de la banque de semences, des champs du Panier ou des refuges pour pollinisateurs ;
 
-    g) d’utiliser des traitements interdits par l’article 2, alinéa 4, lettre b), sauf la dérogation temporaire prévue par la lettre d) du même alinéa ;
+    g) d’utiliser des traitements interdits par l’article 2, alinéa 4, lettre b), qui n’admettent aucune dérogation ; les produits de la lettre d) du même alinéa ne sont employés qu’à ses conditions ;
 
     h) de tuer ou de maltraiter des animaux, de les employer ou d’en récolter les produits en dehors des conditions de l’article 6-bis ;
 
@@ -474,17 +474,15 @@ En cas de pénurie, les réductions sont appliquées progressivement du niveau 5
 
 Les conditions de l’article 10 du Code 5 s’appliquent.
 
-8.  **Eau agricole.** Le captage, le stockage et la distribution destinés à l’agriculture sont coordonnés avec le Code 8 et avec le Code 10, qui régit les affectations territoriales. En cas de pénurie, les priorités d’usage sont :
+8.  **Eau agricole et eau en cas de pénurie.** Le captage, le stockage et la distribution destinés à l’agriculture sont coordonnés avec le Code 8 et avec le Code 10, qui régit les affectations territoriales. En cas de pénurie, l’eau disponible est répartie selon les priorités suivantes, qui valent pour tout usage de l’eau, y compris ceux régis par les Codes 8 et 13 :
 
-    a) l’eau potable à usage humain, conformément au Code 8 ;
+    a) l’eau potable à usage humain et pour les services de santé et de soin, dans la limite du quota minimal garanti par l’article 4-bis, alinéa 3, du Code 8 ;
 
-    b) l’eau nécessaire aux animaux et aux pollinisateurs ;
+    b) avec la même priorité, l’eau minimale nécessaire à la survie des animaux qui vivent avec la Communauté, y compris ceux accueillis dans les sanctuaires, et des pollinisateurs, et l’eau minimale nécessaire au maintien des cultures destinées au niveau 1 de l’article 2, alinéa 5 ; si l’eau ne suffit pas pour les deux, elle est répartie en proportion du besoin minimal de chacune ;
 
-    c) l’eau nécessaire au Panier végétal ;
+    c) tous les autres usages, qui sont réduits en premier.
 
-    d) les autres usages.
-
-Les priorités s’appliquent dans le respect de la hiérarchie de l’article 32 du Code 1 ; en cas de conflit, la hiérarchie du Code 1 prévaut.
+Le besoin minimal de la lettre b) est établi par le Conseil Énergie et Eau avec le Conseil agroécologique et le Conseil Biodiversité. Avant qu’un animal ne reste sans l’eau nécessaire à sa survie, le Conseil Biodiversité demande par le Pool du Code 15, comme besoin vital immédiat au sens de son article 8, alinéa 2, lettre a), l’eau manquante ou le transfert de l’animal dans une autre Communauté ou dans un sanctuaire qui dispose de l’eau nécessaire ; le transfert est nécessaire au bien-être au sens de l’article 4-bis, alinéa 2, du Code 13. Tant que le Solde prévu par le Code 15 n’est pas actif, le transfert est tenté directement avec une autre Communauté ou avec une entité extérieure apparentée, telle qu’un refuge ou un sanctuaire, par accord écrit. Pour prévenir la pénurie, le nombre des animaux gardés ou accueillis par la Communauté, y compris les sanctuaires, et des colonies de pollinisateurs gardées est planifié par le Conseil Biodiversité, avec le Conseil Énergie et Eau, en fonction de l’eau disponible les années sèches ; les animaux au-delà de ce nombre sont accueillis par l’intermédiaire d’autres Communautés ou de sanctuaires qui disposent de l’eau nécessaire. Aux fins de l’article 32 du Code 1, le captage et la distribution de l’eau des lettres a) et b) sont des urgences vitales de la lettre a) de son alinéa 1 et suivent l’ordre du présent alinéa.
 
 9.  **Fonctions existantes non conformes.** Les fonctions, les modes de gestion, les élevages et les ruchers déjà existants qui violent l’article 9 ou l’article 6-bis sont mis en conformité dans un délai de quatre-vingt-dix jours. Pour les élevages et les ruchers, la mise en conformité consiste en la cessation de toute pratique interdite par l’article 6-bis et en la vérification prévue par son alinéa 6. Si la mise en conformité d’une fonction n’est pas techniquement possible, la procédure de désactivation est engagée dans le même délai ; elle comprend :
 

@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 2 — DELLA QUALITÀ E DELLA VALIDAZIONE"
 breve: "Codice 2 — Qualità e validazione"
-versione: "V1.5"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 2
 id: "codice-02"
 slug: "codice-02"
-allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.7; Codice 16 V1.7."
 ---
 
 ## CAPO I — PRINCIPI, CRITERI E AMMISSIONE
@@ -15,7 +15,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 3 V1.5; Codice 4 V1.5; C
 
 1.  Il presente Codice disciplina i criteri e le procedure con cui beni e strumenti sono valutati ai fini della loro ammissione, permanenza, sospensione o esclusione dai Magazzini Comuni previsti dal Codice 1.
 2.  Il Codice 1 disciplina il fabbisogno, la produzione, la conservazione, la distribuzione e la movimentazione dei beni. Il presente Codice stabilisce i criteri di qualità e le procedure per determinare quali beni possano entrare e rimanere nel sistema comune.
-3.  I servizi forniti da soggetti esterni alla Confederazione sono disciplinati dal Capo III.
+3.  I servizi forniti da soggetti esterni alla Confederazione sono disciplinati dal Capo III. Le STV previste dai Codici per oggetti diversi dai beni sono disciplinate dall’articolo 3-bis.
 4.  La valutazione di qualità è svolta in funzione del bisogno effettivo e non può essere usata per introdurre requisiti estranei alla sicurezza, all’idoneità, alla durata, alla riparabilità o agli altri criteri previsti dal presente Codice.
 5.  Il Consiglio Qualità è il Consiglio tecnico competente per le funzioni del presente Codice. È composto da tre a cinque persone sorteggiate secondo l’articolo 12-bis del Codice 3.
 
@@ -45,7 +45,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 3 V1.5; Codice 4 V1.5; C
 
 1.  Ogni tipologia o modello di bene destinato all’ammissione nel Magazzino Centrale deve essere accompagnato da una Scheda Tecnica di Validazione, di seguito «STV».
 
-2.  La STV è istruita dal Consiglio Qualità, con il contributo del Cerchio di Competenza pertinente e il parere del Consiglio Salute sui profili di sua competenza. Sono acquisiti i pareri degli altri Cerchi competenti quando il bene presenta profili di sicurezza, ambientali, energetici, territoriali o digitali a essi attribuiti.
+2.  La STV è istruita dal Consiglio Qualità, con il contributo del Cerchio di Competenza pertinente e il parere del Consiglio Salute sui profili di sua competenza. Sono acquisiti i pareri degli altri Cerchi competenti quando il bene presenta profili di sicurezza, ambientali, energetici, territoriali o digitali a essi attribuiti. Il Consiglio di Magazzino rende parere sulla logistica, sulla conservazione e sulla distribuzione del bene, ai sensi dell’articolo 9.2 della Costituzione.
 
 3.  La STV valuta la tipologia o il modello del bene. Non certifica automaticamente ogni singolo esemplare o lotto, il cui controllo è disciplinato dall’articolo 6.
 
@@ -83,6 +83,22 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 3 V1.5; Codice 4 V1.5; C
 
 8.  Gli adempimenti documentali sono proporzionati al rischio. Per i beni di uso comune a rischio nullo o basso è sufficiente una STV semplificata, secondo l’Allegato Tecnico Qualità.
 
+### Art. 3-bis — STV di procedure, servizi interni, automazioni, sistemi e sicurezza
+
+1.  Le STV che i Codici prevedono per oggetti diversi dai beni dell’articolo 3, come procedure, percorsi, servizi interni, standard del Paniere, automazioni, algoritmi, sistemi e regole tecniche di sicurezza, sono redatte o proposte dal Consiglio indicato dal Codice di settore e approvate secondo l’articolo 3, comma 2, lettera c), e l’articolo 7 del Codice 3.
+
+2.  Ai fini della matrice dell’articolo 7 del Codice 3:
+
+    a) il valore è il costo in UCR dell’attuazione e della manutenzione della STV nei ventiquattro mesi successivi, certificato dal Consiglio Contabilità ai sensi dell’articolo 9, comma 5, del Codice 3;
+
+    b) la classe di rischio è quella dell’attività, del sistema o della funzione disciplinati, valutata ai sensi dell’articolo 6 del Codice 3.
+
+3.  Quando la matrice attribuisce la decisione al Cerchio di Competenza, chi ha redatto o proposto la STV non può esserne l’unico approvante: la STV è approvata insieme al Consiglio Qualità o, se l’ha redatta il Consiglio Qualità, insieme al Cerchio di Competenza pertinente. Se i due Consigli sono riuniti nello stesso Consiglio, l’approvazione richiede la conferma di almeno due persone competenti estranee alla redazione.
+
+4.  Si applicano, in quanto compatibili, l’articolo 3, commi 5 e 7, e gli articoli 13 e 16. Restano fermi i pareri obbligatori e vincolanti e gli organi o le procedure più rigorosi previsti dai Codici di settore.
+
+5.  Nei Codici la sigla «STV» indica la Scheda Tecnica di Validazione.
+
 ### Art. 4 — Gerarchia di ammissione e riuso
 
 1.  In via ordinaria, le alternative sono valutate secondo il seguente ordine di preferenza:
@@ -117,7 +133,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 3 V1.5; Codice 4 V1.5; C
 
     a) **dipendenza critica assoluta:** determina un blocco totale o un accoppiamento proprietario irreversibile, oppure rende impossibile l’uso offline o il controllo comunitario. È vietata e non può essere ammessa neppure in via temporanea;
 
-    b) **dipendenza critica residua e superabile:** determina una limitazione parziale che può essere rimossa dalla Comunità mediante strumenti, procedure o sostituzioni tecnicamente disponibili. Il bene può essere ammesso solo temporaneamente ai sensi dell’articolo 4, comma 1, lettera d), con Piano di Sostituzione obbligatorio.
+    b) **dipendenza critica residua e superabile:** determina una limitazione parziale che può essere rimossa dalla Comunità mediante strumenti, procedure o sostituzioni tecnicamente disponibili. Il bene può essere ammesso solo temporaneamente ai sensi dell’articolo 4, comma 1, lettera d), con Piano di Sostituzione obbligatorio. Quando la dipendenza riguarda un software o un firmware di cui non è disponibile il codice sorgente, l’ammissione è consentita nei limiti dell’articolo 19.4 della Costituzione e dell’articolo 12, comma 5, e non è mai consentita per i sistemi che propongono o decidono su diritti, voto e Beni Comuni, tra cui le IA Gestionali, gli algoritmi dell’articolo 2, comma 5, del Codice 7, l’IA personale e i sistemi di consultazione e di voto dell’articolo 34.4 della Costituzione.
 
 3.  La classificazione è riportata nella STV, sulla base di un’istruttoria del Consiglio Qualità e del parere del Consiglio Rete. La valutazione considera anche la possibilità concreta, i tempi e i costi della rimozione della dipendenza.
 
@@ -277,6 +293,8 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 3 V1.5; Codice 4 V1.5; C
 
 4.  Se la scadenza è superata senza che sia stata rimossa la dipendenza o attuata la soluzione prevista, il bene passa automaticamente a riesame ai fini della sospensione o esclusione. Il riesame considera anche l’eventuale necessità di garantire la continuità di un servizio essenziale.
 
+5.  Il Piano di Sostituzione di un bene che dipende da un software o da un firmware di cui non è disponibile il codice sorgente è pubblicato integralmente nella Rete, ai sensi dell’articolo 19.4 della Costituzione. Possono essere omessi soltanto i dati personali e le informazioni la cui diffusione esporrebbe a rischio la sicurezza della Rete.
+
 ### Art. 13 — Validità temporale della STV e audit
 
 1.  Ogni STV è sottoposta ad audit almeno ogni ventiquattro mesi, salvo che la STV stabilisca un termine inferiore in ragione della criticità, della tecnologia o dei rischi del bene.
@@ -335,6 +353,8 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 3 V1.5; Codice 4 V1.5; C
 
     l) accesso alle procedure di contestazione e ricorso.
 
+1-bis. In attuazione dell’articolo 9.2 della Costituzione, prima della decisione del comma 1, lettera f), si svolge una verifica d’uso proporzionata al rischio. La STV provvisoria è pubblicata e chi userà il bene può presentare osservazioni per almeno settantadue ore o per il termine più lungo stabilito dal Consiglio Qualità. Per i beni che non sono di uso comune a rischio nullo o basso, il Consiglio Qualità invita inoltre a una prova o a un confronto le persone che si sono dichiarate interessate a usarlo. Quando è previsto il periodo di prova del comma 1, lettera g), le osservazioni di chi usa il bene durante la prova sono raccolte e valutate prima dell’ingresso del comma 1, lettera h). La decisione dà conto delle osservazioni ricevute e del parere del Consiglio di Magazzino previsto dall’articolo 3, comma 2.
+
 2.  La STV provvisoria indica quali verifiche siano ancora in corso e le condizioni d’uso applicabili durante l’istruttoria.
 
 3.  Il periodo di prova non può essere utilizzato per distribuire beni non sicuri o per eludere il parere vincolante previsto dal comma 1, lettera d).
@@ -345,7 +365,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 3 V1.5; Codice 4 V1.5; C
 
 1.  La decisione finale sull’ammissione è adottata come segue:
 
-    a) per i beni sotto la soglia economica stabilita dal Codice 3 e di uso comune, decide il Consiglio Qualità sulla base della STV, con motivazione;
+    a) per i beni sotto la soglia economica stabilita dal Codice 3, il Consiglio Qualità istruisce e formula la proposta e decide, con motivazione e sulla base della STV, l’organo indicato dalla matrice dell’articolo 7 del Codice 3 secondo il valore dell’operazione e la classe di rischio. Per un bene, il Cerchio di Competenza pertinente è il Consiglio competente per il settore in cui il bene è usato o, se nessun Consiglio lo è, il Consiglio di Magazzino;
 
     b) per i beni sopra soglia, per quelli con impatto sistemico elevato o per quelli con dipendenza critica residua ai sensi dell’articolo 5, comma 2, lettera b), il Consiglio Qualità formula una proposta e decide l’Assemblea del Cerchio 1 secondo il Codice 3.
 

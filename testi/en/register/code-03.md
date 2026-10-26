@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 3 — ON DELIBERATION, THRESHOLDS AND THE ASSEMBLY"
 breve: "Code 3 — Deliberation, thresholds and Assembly"
-versione: "V1.5"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
 slug: "code-03"
-allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 15 V1.7; Code 16 V1.7."
 ---
 
 ## CHAPTER I — DELIBERATIVE PRINCIPLES
@@ -93,7 +93,7 @@ The operational decision lies with the relevant Competence Circle, within the li
 
 The deliberative level is determined in accordance with the matrix in Article 7, on the basis of the value of the operation in UCR and of the risk class.
 
-a) Low-risk allocative decisions below threshold are adopted by the Quality Council together with the relevant Competence Circle, in accordance with the procedures of Code 2.
+a) Low-risk allocative decisions below threshold are adopted by the body indicated by the matrix of Article 7: the relevant Competence Circle for those of low value and the Quality Council together with the Competence Circle for those of medium value, in accordance with the procedures of Code 2.
 
 b) Medium- or high-risk allocative decisions follow the reinforced, special or assembly procedure provided for in Article 7 and in Articles 7-bis, 7-ter and 7-quater.
 
@@ -249,7 +249,7 @@ b) Medium- or high-risk allocative decisions follow the reinforced, special or a
 ### Art. 7-ter — Reinforced procedure
 
 1.  The reinforced procedure applies to operations of medium value in UCR and medium risk.
-2.  The preparatory inquiry is carried out jointly by the Quality Council and the relevant Competence Circle. The binding opinion of the Health Council or of the Network Council shall be obtained where the subject matter of the operation falls within their respective competences.
+2.  The preparatory inquiry is carried out jointly by the Quality Council and the relevant Competence Circle. The opinion of the Councils of Article 8, paragraph 1, shall be obtained where the subject matter of the operation falls within their respective competences; a negative opinion has the effects of Article 8.
 3.  The decision shall be accompanied by the Allocation Report provided for in Article 10.
 4.  The operation shall be audited within twelve months of its start and thereafter in accordance with the level of risk and the conditions laid down in the decision.
 
@@ -259,7 +259,7 @@ b) Medium- or high-risk allocative decisions follow the reinforced, special or a
 
 2.  The decision lies with the Assembly of Circle 1 and is subject to:
 
-    a) the binding opinions of the Health and Network Councils, where relevant;
+    a) the opinions of the Councils of Article 8, paragraph 1, where relevant, with the effects of Article 8;
 
     b) the opinion of the Guarantee Circle on the procedural aspects;
 
@@ -277,9 +277,19 @@ b) Medium- or high-risk allocative decisions follow the reinforced, special or a
 
 ### Art. 8 — Binding negative opinion
 
-1.  A binding negative opinion of the Health Council or of the Network Council prevents the adoption of the decision until the cause that gave rise to the opinion has been removed, limited to the matters assigned to the Circle that issued it.
+1.  Binding negative opinions, pursuant to Article 6.6 of the Constitution, are issued only by:
 
-2.  A binding negative opinion may not be overcome by an assembly vote, not even by a qualified majority.
+    a) the Health Council, for the protection of health;
+
+    b) the Network Council, for the protection of the digital infrastructure and of data sovereignty;
+
+    c) the Safety Council, for the general safety parameters, within the limits of Article 3, paragraph 6, of Code 14;
+
+    d) the Agroecological Council and the Biodiversity Council, for the protection of ecological limits, solely in the cases of Article 4, paragraph 4, letter d), of Code 10 and of Article 3, paragraph 3, of Code 13.
+
+A binding negative opinion prevents the adoption of the decision until the cause that gave rise to the opinion has been removed, limited to the matters assigned to the Council that issued it. The authorisation of the Biodiversity Council provided for by Article 13.3 of the Constitution is not an opinion and follows Article 3, paragraph 5, of Code 13.
+
+2.  A binding negative opinion may not be overcome by an assembly vote, not even by a qualified majority, nor by the removal or replacement of the members of the Council that issued it. The opinion remains effective even after the replacement of the members; the Council in its new composition re-examines it only on the proposal resubmitted pursuant to paragraph 3.
 
 3.  The proposer may amend the proposal and resubmit it, attaching the evidence demonstrating that the cause of the negative opinion has been removed.
 
@@ -395,7 +405,7 @@ b) Medium- or high-risk allocative decisions follow the reinforced, special or a
 
 1.  The Assembly of Circle 1 is composed of all the persons who belong to the Base Community and have the right to vote pursuant to Article 36.1 of the Constitution. Each person votes individually. Delegation, purchase and exchange of votes are prohibited. The spokespersons of Circles 0 perform only functions of communication and practical coordination and do not dispose of the votes of others.
 
-2.  Participation takes place in person or through the federated Network, in accordance with Article 34.4 of the Constitution. The individual vote is anonymous. Reasoned objections shall be submitted in traceable form, so that they can be examined and answered.
+2.  Participation takes place in person or through the federated Network, in accordance with Article 34.4 of the Constitution and Article 7-bis of Code 7. The individual vote is anonymous. The reasoned objections of Article 4 shall be submitted in traceable form, so that they can be examined and answered; the signatures for the Objection of Article 13-bis follow paragraph 1 of that Article.
 
 3.  For the purposes of this Code:
 
@@ -419,7 +429,7 @@ b) Medium- or high-risk allocative decisions follow the reinforced, special or a
 
 1.  The Councils provided for in the Codes are the local branches of the Competence Circles, pursuant to Article 6.5 of the Constitution. In the Codes the expressions “relevant Competence Circle” and “competent Council” denote, in each Circle 1, the same technical body.
 
-2.  The technical Councils are: the Storehouse Council (Code 1), the Quality Council (Code 2), the Accounting Council (this Code), the Competences Council (Code 5), the Health Council (Code 6), the Network Council (Code 7), the Energy and Water Council (Code 8), the Production Council (C.1-Annex A), the Agroecological Council (Code 9), the Habitat and Territory Council (Code 10), the Logistics Council (Code 11), the Care Council (Code 12), the Biodiversity Council (Code 13) and the Safety Council (Code 14). The Guarantee Circle is governed by Code 4 and the Transition Council by Code 16.
+2.  The technical Councils are: the Storehouse Council (Code 1), the Quality Council (Code 2), the Accounting Council (this Code), the Competences Council (Code 5), the Health Council (Code 6), the Network Council (Code 7), the Energy and Water Council (Code 8), the Production Council (C.1-Annex A), the Agroecological Council (Code 9), the Habitat and Territory Council (Code 10), the Logistics Council (Code 11), the Care Council (Code 12), the Biodiversity Council (Code 13) and the Safety Council (Code 14). The Guarantee Circle is governed by Code 4 and the Transition Council by Code 16. The Storehouse Councils of Circles 2 and 3 are governed by Article 9-bis of Code 15.
 
 3.  Each Council is composed of the number of persons laid down by the Code that governs it or, failing that, of three to five persons, with the validated competences required in accordance with Code 5.
 
@@ -431,17 +441,29 @@ b) Medium- or high-risk allocative decisions follow the reinforced, special or a
 
     a) merge several kindred Councils into a single Council, without prejudice to the separation between those who investigate, those who decide and those who control;
 
-    b) establish the Council in a form shared with other Communities of the same Circle 2;
+    b) establish the Council in a form shared with other Communities of the same Circle 2, composed in accordance with paragraph 6-bis, letter a);
 
     c) make temporary use, solely for technical acts and opinions, of the Council of another Community.
+
+6-bis. **Shared Councils of Circles 2 and 3.** Where the Codes assign to a Council functions of Circle 2 or of Circle 3, those functions are exercised by a shared Council of the Circle, on the following conditions, except for the Storehouse Councils of Circles 2 and 3, governed by Article 9-bis of Code 15:
+
+a) the shared Council is composed of the number of persons provided for by paragraph 3, drawn by lot pursuant to paragraph 4 from among the members of the corresponding Councils of the Base Communities of the Circle and, if they are not sufficient, from among the other persons of those Communities who possess the required competence. No more than two members come from the same Base Community. Paragraphs 5, 8 and 11 and Article 16 apply; the office in the shared Council counts as membership of a Council for the purposes of paragraph 8;
+
+b) the shared Council adopts the bound technical acts of paragraph 9 and prepares the inquiry and the proposals for the General Assembly. Where a serious and immediate risk to persons, to the Basket or to the continuity of an essential service does not allow the General Assembly to be awaited, it may adopt the urgent decisions strictly necessary, reasoned and published without delay. The urgent decision ceases to have effect if it is not ratified by the General Assembly within thirty days; for that purpose the Assembly may be convened with the reduced notice of Article 14, paragraph 9;
+
+c) discretionary decisions, including those that distribute goods or services among the Communities according to criteria not already established and those that suspend, replace or deactivate a system or an infrastructure of the Circle, fall to the General Assembly pursuant to Article 14 and to Article 35.2 of the Constitution;
+
+d) the shared Council exercises no powers of command over the Base Communities or over their Councils and has no disciplinary powers. It does not constitute a permanent power: each member remains in office only for the term of paragraph 5 and the Assembly of the Community of origin may revoke them at any time by reasoned decision; the seat is filled by a new drawing by lot;
+
+e) the acts of the shared Council are published in accordance with Article 15 and may be challenged in accordance with Article 17.
 
 7.  The Accounting Council may not be merged with the Storehouse Council or with the Quality Council. The Guarantee Circle may not be merged with any Council.
 
 8.  No one may be a member at the same time of more than two Councils, or of a Council and of the Guarantee Circle. No more than two persons belonging to the same Circle 0 may serve on the same Council.
 
-9.  The Councils do not exercise powers of command, have no disciplinary powers and do not decide in place of the Assembly. They adopt bound technical acts in execution of decisions, STVs, SVSs and Sheets already approved; they formulate discretionary proposals and decisions in accordance with the consensus method of Article 4, after publication for at least seventy-two hours; they issue binding negative opinions solely in the cases of Article 8.
+9.  The Councils do not exercise powers of command, have no disciplinary powers and do not decide in place of the Assembly. They adopt bound technical acts in execution of decisions, STVs, SVSs and Sheets already approved; they formulate discretionary proposals and decisions in accordance with the consensus method of Article 4, after publication for at least seventy-two hours; they issue binding negative opinions solely in the cases of Article 8. The Biodiversity Council also issues the authorisations of Article 13.3 of the Constitution, in accordance with Article 3, paragraph 5, of Code 13.
 
-10. The Assembly may at any time remove one or more members by reasoned decision. Article 16 on conflict of interest applies.
+10. The Assembly may at any time remove one or more members by reasoned decision. Removal does not cancel the opinions already given, pursuant to Article 8, paragraph 2. Article 16 on conflict of interest applies.
 
 11. The time devoted to Council, guarantee and facilitation functions and to mandatory documentation is counted in the CBO pursuant to Article 7.2 of the Constitution and to Code 1. The office does not confer any right to CdR, privileges or preferential access to the commons.
 
@@ -489,12 +511,12 @@ b) Medium- or high-risk allocative decisions follow the reinforced, special or a
 
 ### Art. 13-bis — Conscientious or Ecological Sustainability Objection
 
-1.  A minority equal to at least ten per cent of the voters may raise, within seventy-two hours of the announcement of the outcome, a Conscientious or Ecological Sustainability Objection pursuant to Article 34.2 of the Constitution, indicating the contested part and the reasons.
+1.  A minority equal to at least ten per cent of the voters may raise, within seventy-two hours of the announcement of the outcome, a Conscientious or Ecological Sustainability Objection pursuant to Article 34.2 of the Constitution, indicating the contested part and the reasons. Any person entitled to vote in the Assembly that adopted the resolution may sign the Objection, even if they did not vote; the number of signatures required is calculated on the number of voters. Signatures are collected in accordance with Article 7-bis of Code 7: the register of those entitled to vote verifies only that each signatory is entitled to vote and signs only once, and only the text of the Objection and the number of valid signatures, without the names of the signatories, are communicated to the Assembly.
 2.  The objection does not constitute a veto. It suspends the effect of the contested part alone, unless the suspension would compromise an essential service or give rise to a serious and immediate risk; in that case the applicable Continuity Plan shall be implemented.
 3.  Within fourteen days the proposer and the competent body shall publish a reasoned reply and, where appropriate, an amended proposal. For the ecological aspects, the preparatory inquiry shall be supplemented by the competent Council.
-4.  The Assembly shall re-examine the contested part. Confirmation without amendments requires a majority of two thirds of the active participants and a statement of reasons that takes account of the grounds of the objection.
+4.  The Assembly shall re-examine the contested part. Confirmation without amendments requires a majority of two thirds of the active participants and a statement of reasons that takes account of the grounds of the objection. No new Objection on the same part may be raised against the confirmation.
 5.  Decisions that conflict with a mandatory rule, with a binding negative opinion or with the biophysical limits referred to in Article 14.6 of the Constitution may not be confirmed.
-6.  A person who has raised a conscientious objection may not be obliged to carry out the contested part personally. Article 7.4 of the Constitution applies.
+6.  A person who has raised a conscientious objection may not be obliged to carry out the contested part personally. Article 7.4 of the Constitution applies. Since signatures are anonymous, the person asserts this right by declaring it to the body that organises the implementation, without having to prove that they signed.
 
 ### Art. 14 — General Assembly
 
@@ -535,6 +557,18 @@ b) Medium- or high-risk allocative decisions follow the reinforced, special or a
 11. Initiatives with a global systemic impact follow Article 35.3 of the Constitution.
 
 12. The rules on decision, minute-taking and transparency apply in accordance with the Constitution and the relevant provisions of this Code.
+
+### Art. 14-bis — Constitution of the Extended Circle
+
+1.  The Extended Circle provided for by Article 5.1, letter d), of the Constitution brings together at least three contiguous and ecologically connected Circles 2 that have completed the transition pursuant to Code 16.
+
+2.  The minimum Federation is constituted as an Extended Circle by the resolution closing its transition, pursuant to Article 10 of Code 16. From that day the functions of Circle 3 are exercised by the Extended Circle.
+
+3.  Three or more Circles 2 that are not part of an Extended Circle may constitute one by resolution of the General Assembly of their Base Communities, adopted by the qualified majority of Article 14, paragraph 8, and with a Dossier documenting the requirements of paragraph 1. A Circle 2 that does not vote in favour is not part of it.
+
+4.  A Circle 2 that has completed the transition joins a contiguous Extended Circle by resolution of its own General Assembly. The Extended Circle verifies only the protocols of technological and logistical interoperability, pursuant to Article 4.5 of the Constitution and Article 21, paragraph 2, of Code 15.
+
+5.  For the purposes of Articles 37 and 38 of the Constitution, an Extended Circle exists from the date of the resolution of paragraph 2 or of paragraph 3, entered in the Register of Assembly Decisions. The Extended Circle resolves through the General Assembly and operates through the shared Councils of Article 12-bis, paragraph 6-bis; it has no other bodies.
 
 ### Art. 15 — Differentiated transparency
 
@@ -578,7 +612,10 @@ b) Medium- or high-risk allocative decisions follow the reinforced, special or a
 
 ### Art. 17 — Appeal and continuity of service
 
-1.  An appeal may be lodged with the Guarantee Circle within fourteen days of the communication of the decision.
+1.  An appeal may be lodged with the Guarantee Circle within fourteen days of the communication of the decision. If the Guarantee Circle has given an opinion or an authorisation on the contested decision, such as the opinion of Article 7-quater, paragraph 2, letter b), the appeal shall be decided by substitute members drawn by lot pursuant to Article 15, paragraph 3, of Code 4.
+
+1-bis. An appeal against the decisions of the General Assembly and of the bodies of Circles 2 and 3, including the shared Councils of Article 12-bis, paragraph 6-bis, shall be decided by three members drawn by lot from among the members of the Guarantee Circles of the Base Communities concerned, belonging to different Communities. The sortition is public and tracked pursuant to Article 15; Articles 15 and 37, paragraph 5, of Code 4 apply. The decision applies to all the Communities concerned.
+
 2.  The appeal does not automatically suspend the decision. The Guarantee Circle may order precautionary suspension where it establishes a serious risk, irreversible harm or a procedural breach capable of affecting the outcome.
 3.  If the decision concerns a critical service, including connectivity, digital services, infrastructural maintenance or specialist health services, the applicable Continuity Plan shall be implemented during the appeal.
 4.  Suspension is prohibited where it would cause greater harm than the defect complained of, unless continuation would entail a serious and immediate risk that cannot otherwise be contained.

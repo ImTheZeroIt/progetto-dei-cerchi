@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 13 — BIODIVERSITÉ, SANCTUAIRES ET FAUNE"
 breve: "Code 13 — Biodiversité, sanctuaires et faune"
-versione: "V1.5"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 13
 id: "codice-13"
 slug: "code-13"
-allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 14 V1.6 ; Code 15 V1.7 ; Code 16 V1.7."
 ---
 
 ## Art. 1 — Objet, définitions et nature juridique
@@ -72,7 +72,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     b) définit, dans les limites des compétences attribuées au présent Code, les indicateurs de biodiversité, de fonctionnalité biologique des corridors et de bien-être animal ;
 
-    c) élabore et met à jour la STV Biodiversité, la STV Sanctuaires d’accueil, la STV Bien-être des animaux qui collaborent, conjointe avec le Code 9, la STV Bien-être domestique et la STV Abeilles sauvages, et rend l’avis contraignant sur la STV Pollinisateurs du Code 9 ;
+    c) élabore et met à jour la STV Biodiversité, la STV Sanctuaires d’accueil, la STV Bien-être des animaux qui collaborent, conjointe avec le Code 9, la STV Bien-être domestique, la STV Abeilles sauvages et la STV Gestion de la faune, et intervient sur la STV Pollinisateurs du Code 9 en application de l’article 6, alinéa 6 ;
 
     d) rédige et met à jour les Fiches de bien-être ;
 
@@ -82,21 +82,21 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     g) assure la coordination technique avec le Conseil Habitat et Territoire du Code 10, le Conseil agroécologique du Code 9, le Conseil Santé du Code 6, le Conseil Énergie et Eau du Code 8 et le Conseil Soin du Code 12.
 
-3.  Les avis obligatoires du Conseil Biodiversité prévus par les Codes 9 et 10 ne sont contraignants que pour les indicateurs et les paramètres de biodiversité, de bien-être animal et de fonctionnalité biologique expressément attribués au présent Code. Ces avis ne déterminent ni la localisation, ni la géométrie, ni l’affectation, ni l’imposition d’une contrainte territoriale, qui restent de la compétence du Code 10.
+3.  Les avis obligatoires du Conseil Biodiversité prévus par les Codes 9 et 10 et par le présent Code, lorsqu’ils sont négatifs, sont contraignants pour la protection des limites écologiques, au sens de l’article 6.6 de la Constitution et de l’article 8 du Code 3, uniquement pour les indicateurs et les paramètres de biodiversité, de protection de la faune sauvage et de fonctionnalité biologique expressément attribués au présent Code. Les paramètres de bien-être des animaux qui cohabitent ou collaborent avec les personnes sont approuvés avec l’autorisation de l’alinéa 5. Ces avis ne déterminent ni la localisation, ni la géométrie, ni l’affectation, ni l’imposition d’une contrainte territoriale, qui restent de la compétence du Code 10.
 
 4.  Les actes techniques du Conseil Biodiversité sont adoptés en application des STV en vigueur. Les propositions discrétionnaires sont adoptées selon la méthode du consensus par absence d’objections motivées, en application du Code 3, après publication pendant au moins soixante-douze heures. La publication ne comprend pas les données dont la diffusion pourrait porter préjudice aux espèces ou aux sites protégés.
 
-5.  Le Conseil Biodiversité est l’échelon local des Cercles de compétence Biodiversité et Semences et Soin animal. Il vérifie et autorise la cohabitation et la collaboration non exploitantes en application des articles 13.3, 13.3-bis et 13.3-ter de la Constitution.
+5.  Le Conseil Biodiversité est l’échelon local des Cercles de compétence Biodiversité et Semences et Soin animal. Il vérifie et autorise la cohabitation et la collaboration non exploitantes en application des articles 13.3, 13.3-bis et 13.3-ter de la Constitution. L’autorisation comprend l’approbation des paramètres de bien-être des STV et des Fiches de bien-être prévues par le présent Code et par le Code 9 : sans l’approbation, la STV ou la Fiche n’est pas adoptée et l’activité n’est pas autorisée. L’approbation et le refus sont motivés et peuvent être contestés conformément à l’article 17 du Code 3 ; ce ne sont pas des avis au sens de l’article 8 du Code 3.
 
 ## Art. 4 — Sanctuaires écologiques
 
-1.  Chaque bassin fédéré composé de trois ou quatre Cercles 1 institue au moins un sanctuaire, selon la planification territoriale du Code 10. La planification privilégie les zones dégradées susceptibles de régénération ou les zones semi-naturelles de grande valeur écologique. L’institution a lieu :
+1.  Chaque Cercle 2 institue au moins un sanctuaire pour trois ou quatre Cercles 1 qui le composent, selon la planification territoriale du Code 10. La planification privilégie les zones dégradées susceptibles de régénération ou les zones semi-naturelles de grande valeur écologique. L’institution a lieu :
 
     a) sur proposition du Conseil Biodiversité ;
 
     b) après avis obligatoire du Conseil Habitat et Territoire ;
 
-    c) par délibération de l’Assemblée générale adoptée à la majorité qualifiée, selon les règles de la Constitution et du Code 3.
+    c) par délibération de l’Assemblée générale du Cercle 2 adoptée à la majorité qualifiée, selon les règles de la Constitution et du Code 3.
 
 2.  Le sanctuaire est destiné à la plus grande intégrité écologique compatible avec les caractéristiques de la zone et à la stabilité de sa fonction de protection. À l’intérieur du sanctuaire, il est interdit :
 
@@ -136,9 +136,9 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 2.  Chaque animal accueilli a droit à la vie et au soin et n’est pas transférable, sauf si le transfert est nécessaire à son bien-être et attesté par une compétence vétérinaire L3. Sont interdits l’abattage, la mise à mort par convenance, la cession à titre onéreux, l’emploi au travail et la reproduction à des fins d’usage.
 3.  Les animaux accueillis ne sont pas mis à la reproduction. Lorsque cela est nécessaire à leur bien-être et à la capacité de soin, la prévention des naissances s’effectue par les méthodes non lésionnelles définies par la STV Sanctuaires d’accueil.
 4.  Ce que l’animal produit spontanément ne peut être recueilli qu’aux conditions de l’article 13.3-ter de la Constitution. Cela ne peut pas constituer un objectif de production, être programmé dans le Panier ni justifier l’augmentation du nombre d’animaux.
-5.  Chaque bassin composé de trois ou quatre Cercles 1 garantit au moins un sanctuaire d’accueil, dimensionné en fonction des animaux recensés. Le soin des animaux accueillis relève de la CBO, en application de l’article 7.2 de la Constitution et du Code 1.
-6.  Une Fiche de bien-être est tenue pour chaque animal ou groupe. L’alimentation et les soins vétérinaires sont assurés sans compromettre les niveaux 1 et 2 du Panier humain.
-7.  L’euthanasie n’est admise qu’aux conditions de l’article 7, alinéa 12.
+5.  Chaque Cercle 2 garantit au moins un sanctuaire d’accueil pour trois ou quatre Cercles 1 qui le composent, dimensionné en fonction des animaux recensés. Le soin des animaux accueillis relève de la CBO, en application de l’article 7.2 de la Constitution et du Code 1.
+6.  Une Fiche de bien-être est tenue pour chaque animal ou groupe. L’alimentation et les soins vétérinaires sont assurés sans compromettre les niveaux 1 et 2 du Panier humain. En cas de pénurie d’eau, l’article 10, alinéa 8, du Code 9 s’applique.
+7.  L’euthanasie n’est admise qu’aux conditions de l’article 7, alinéa 12, dans la mesure où elles sont applicables. À la place de la Fiche de bien-être domestique s’applique la Fiche de bien-être de l’animal accueilli prévue à l’alinéa 6 ; à la place de la personne de confiance, sont informées les personnes qui soignent habituellement l’animal.
 8.  L’accès des personnes au sanctuaire d’accueil est autorisé pour le soin, l’apprentissage et la relation, dans le respect des Fiches de bien-être.
 
 ## Art. 5 — Corridors écologiques et zones tampons : paramètres biologiques
@@ -163,6 +163,22 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 4.  Tout plan ou toute intervention qui interrompt un corridor ou réduit une zone tampon est soumis à une évaluation des incidences écologiques limitée aux aspects de biodiversité, de bien-être animal et de fonctionnalité biologique attribués au présent Code. L’avis du Conseil Biodiversité est contraignant dans les limites établies par l’article 3, alinéa 3.
 
+## Art. 5-bis — Gestion de la faune sauvage et prélèvement non sanglant
+
+1.  En application de l’article 13.4 de la Constitution, la gestion de la faune sauvage nécessaire à la protection des écosystèmes, de la santé, des cultures ou de la sécurité des personnes s’effectue exclusivement par des méthodes non sanglantes, dans l’ordre suivant :
+
+    a) la prévention, la protection des cultures et des biens et la dissuasion non lésionnelle ;
+
+    b) les clôtures et les autres barrières qui ne blessent pas les animaux et n’interrompent pas les corridors écologiques ;
+
+    c) lorsque les mesures précédentes ne suffisent pas, la capture sans douleur ni lésion et le transfert dans des habitats adaptés, y compris les sanctuaires écologiques.
+
+2.  Sont interdits la mise à mort, la chasse, l’empoisonnement et tout moyen qui provoque une douleur, des lésions ou la mort de l’animal.
+
+3.  Les méthodes, les conditions et l’enregistrement des interventions sont définis par la STV Gestion de la faune. Chaque intervention de la lettre c) de l’alinéa 1 est décidée par le Conseil Biodiversité, en tant qu’échelon du Cercle de compétence Soin animal, avec l’avis obligatoire du Conseil agroécologique lorsqu’elle concerne des dommages aux cultures et du Conseil Santé lorsqu’elle concerne des risques sanitaires. Dans les sanctuaires, l’article 4, alinéa 3, s’applique également.
+
+4.  L’article 8, alinéa 6, demeure applicable en cas de risque grave et immédiat pour une personne ou un animal.
+
 ## Art. 6 — Abeilles sauvages et pollinisateurs sauvages
 
 1.  Les populations sauvages de pollinisateurs constituent des biens communs écologiques protégés par le présent Code. Les colonies hébergées dans les ruches de garde sont régies par l’article 6-bis du Code 9.
@@ -175,7 +191,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     b) de prélever du miel sur des colonies sauvages ;
 
-    c) d’utiliser des pesticides systémiques dans les zones territoriales où leur usage est interdit par le Code 10 ou par les STV pertinentes ;
+    c) d’utiliser des pesticides systémiques, interdits dans toute zone par le Code 9, article 2, alinéa 4, lettre b) ;
 
     d) d’exercer des activités incompatibles avec la conservation des habitats des pollinisateurs sauvages.
 
@@ -191,7 +207,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     d) les mesures de prévention, de confinement et de restauration.
 
-6.  Le Conseil Biodiversité rend l’avis contraignant sur la STV Pollinisateurs du Code 9 pour les paramètres de bien-être des colonies et de protection des populations sauvages et de la biodiversité.
+6.  Sur la STV Pollinisateurs du Code 9, le Conseil Biodiversité approuve les paramètres de bien-être des colonies, avec l’autorisation de l’article 3, alinéa 5, et rend l’avis obligatoire sur les paramètres de protection des populations sauvages et de la biodiversité ; l’avis négatif est contraignant dans les limites de l’article 3, alinéa 3.
 
 ## Art. 7 — Animaux qui collaborent, animaux d’assistance et animaux de compagnie de proximité
 
@@ -221,7 +237,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     c) l’abandon ;
 
-    d) la cession à titre onéreux, sauf le remboursement documenté des frais effectifs autorisés ;
+    d) la cession à titre onéreux. Entre membres, aucun remboursement n’est dû : l’alimentation et le soin de l’animal sont assurés selon les alinéas 4 et 11. Dans les rapports avec des acteurs extérieurs, le remboursement documenté des frais effectifs de soin de l’animal n’est admis que par l’intermédiaire de la Caisse commune, en application de l’article 17 du Code 15 ;
 
     e) toute gestion incompatible avec les paramètres de bien-être établis par la Fiche de bien-être domestique.
 
@@ -231,9 +247,9 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 9.  L’accumulation individuelle d’animaux n’est admise que dans les limites de la capacité de soin définie par la Fiche de bien-être domestique. L’évaluation prend en compte au moins l’espèce et le nombre des animaux, l’espace disponible, les conditions sanitaires, le temps disponible et la capacité effective de garantir le bien-être de chaque animal. Le dépassement de la capacité de soin constitue une violation au sens de l’article 10.
 
-10. La stérilisation est recommandée lorsqu’elle est appropriée, mais n’est pas imposée de manière générale. Pour les aspects sanitaires, zoonotiques ou de risque collectif, s’appliquent les compétences, les procédures et les garanties du Code 6, y compris les mesures collectives admises par son article 2-bis, alinéa 3-bis. Toute mesure doit respecter des critères de proportionnalité et de caractère temporaire, garantir l’information de la personne concernée et être soumise à réexamen et aux garanties prévues.
+10. Ne constitue pas une manipulation reproductive au sens des articles 13.2 et 13.3, lettre c), de la Constitution la prévention non lésionnelle des naissances de l’animal de compagnie de proximité, y compris la stérilisation, pratiquée ou prescrite par une compétence vétérinaire lorsqu’elle est nécessaire au bien-être de l’animal ou lorsque le soin d’autres petits ne pourrait pas être garanti selon l’alinéa 9. Elle est décidée par le foyer de cohabitation avec la compétence vétérinaire, inscrite dans la Fiche de bien-être domestique et n’est pas imposée de manière générale. Pour les animaux accueillis dans les sanctuaires, l’article 4-bis, alinéa 3, s’applique. Pour les aspects sanitaires, zoonotiques ou de risque collectif, s’appliquent les compétences, les procédures et les garanties du Code 6, y compris les mesures collectives admises par son article 2-bis, alinéa 3-bis. Toute mesure doit respecter des critères de proportionnalité et de caractère temporaire, garantir l’information de la personne concernée et être soumise à réexamen et aux garanties prévues.
 
-11. L’alimentation des animaux de compagnie de proximité peut être assurée au moyen de ressources compatibles avec le Panier, de déchets appropriés ou d’un fonds dédié. Ces ressources ne peuvent pas compromettre le Panier humain des niveaux 1 et 2 et sont régies par la STV Panier du Code 9.
+11. L’alimentation des animaux de compagnie de proximité peut être assurée au moyen de ressources compatibles avec le Panier, de déchets appropriés ou d’un fonds dédié. Ces ressources ne peuvent pas compromettre le Panier humain des niveaux 1 et 2 et sont régies par la STV Panier du Code 9. En cas de pénurie d’eau, l’article 10, alinéa 8, du Code 9 s’applique.
 
 12. L’euthanasie par simple convenance est interdite. Elle n’est admise qu’en présence d’une souffrance irréversible attestée par deux compétences L3, dont au moins une vétérinaire, dans le respect des compétences sanitaires du Code 6 et de la Fiche de bien-être domestique. L’intervention est documentée et tracée ; la personne de confiance est informée, sauf impossibilité motivée ou urgence incompatible avec un avertissement préalable.
 
@@ -339,7 +355,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     b) la STV Biodiversité minimale ;
 
-    c) la STV Sanctuaires d’accueil, la STV Bien-être des animaux qui collaborent, conjointe avec le Code 9, et, dans chaque bassin, au moins un sanctuaire d’accueil ;
+    c) la STV Sanctuaires d’accueil, la STV Bien-être des animaux qui collaborent, conjointe avec le Code 9, et, dans chaque Cercle 2, les sanctuaires d’accueil prévus à l’article 4-bis, alinéa 5 ;
 
     d) la STV Bien-être domestique ;
 

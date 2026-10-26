@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 6 — DELLA SALUTE"
 breve: "Codice 6 — Salute"
-versione: "V1.6"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 6
 id: "codice-06"
 slug: "codice-06"
-allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.7; Codice 16 V1.7."
 ---
 
 ## TITOLO PRELIMINARE — PRINCIPI FONDAMENTALI
@@ -106,7 +106,7 @@ f) durante la transizione, se la persona non vi acconsente, sono disposti soltan
 
     c) è limitata a quanto strettamente necessario e adotta la misura meno invasiva idonea;
 
-    d) è riesaminata dal Cerchio di Garanzia, su richiesta di qualsiasi membro, entro sette giorni; l’isolamento e la quarantena disposti individualmente seguono invece la convalida del comma 3-quater, lettera c);
+    d) è riesaminata, su richiesta di qualsiasi membro, entro sette giorni, dai componenti dei Cerchi di Garanzia sorteggiati ai sensi dell’articolo 17, comma 1-bis, del Codice 3; l’isolamento e la quarantena disposti individualmente seguono invece la convalida del comma 3-quater, lettera c);
 
     e) è registrata con motivazione, durata e criteri di cessazione, nel rispetto della riservatezza e dei livelli di accesso previsti dai Codici.
 
@@ -257,7 +257,7 @@ Si applicano il Codice 4, articolo 17, e il Codice 5, articolo 9. Il Collegio di
 
 ### Art. 6 — Cura primaria e Magazzino Salute
 
-1.  Ogni Magazzino dispone di un Magazzino Salute e di un Paniere Salute minimo, definiti dal Consiglio Salute federato secondo le competenze dei Codici. Il Paniere comprende almeno:
+1.  Ogni Magazzino dispone di un Magazzino Salute e di un Paniere Salute minimo. La lista del Paniere Salute e la dotazione minima del Magazzino Salute sono proposte dai Consigli Salute in coordinamento federato, come articolazioni del Cerchio di Competenza Medicina e Salute, mediante STV adottata ai sensi dell’articolo 3-bis del Codice 2, e sono approvate dall’Assemblea con l’Allegato Tecnico previsto dall’articolo 18, comma 2, del Codice 1. Il Paniere comprende almeno:
 
     a) farmaci essenziali salvavita;
 
@@ -288,8 +288,8 @@ Si applicano il Codice 4, articolo 17, e il Codice 5, articolo 9. Il Collegio di
 ### Art. 7 — Fragilità, interdipendenza e cura
 
 1.  Anziani, bambini, persone con disabilità, persone con malattie croniche, persone in gravidanza o nel periodo successivo al parto, persone in lutto o in situazione di crisi hanno diritto a una tutela rafforzata e, quando necessario, alla modulazione del CBO ai sensi dell’articolo 11 del Codice 1 e del Codice 12.
-2.  La cura delle persone fragili rientra nel CBO di Lista A ed è collocata al livello 4 della gerarchia di priorità dell’articolo 32 del Codice 1.
-3.  Le attività di cura non possono essere differite per carenza logistica, salvo che debbano essere gestite emergenze vitali di livello 1 o 2. La decisione di differimento è motivata e deve prevedere, ove possibile, una misura sostitutiva.
+2.  La cura delle persone fragili rientra nel CBO di Lista A. Nella gerarchia dell’articolo 32 del Codice 1 le prestazioni del Paniere Cura dei livelli 1 e 2 seguono la lettera b) del comma 1 e il Codice 12; le altre attività di cura seguono la lettera d) e precedono la gestione dei beni deperibili, ai sensi del comma 1-ter del medesimo articolo.
+3.  Le attività di cura non possono essere differite per carenza logistica né per la gestione dei beni deperibili, salvo che lo richiedano le priorità dell’articolo 32, comma 1, lettere a) e b), del Codice 1, compresa la distribuzione degli alimenti del Paniere. La decisione di differimento è motivata e deve prevedere, ove possibile, una misura sostitutiva.
 4.  Ogni Piano CBO include una quota di cura e affiancamento. La cura non è considerata un’attività residuale da svolgere solo dopo aver soddisfatto gli altri fabbisogni.
 5.  La modulazione del CBO non comporta riduzione del Paniere di Sufficienza né annotazioni pregiudizievoli.
 
@@ -402,7 +402,7 @@ Il rappresentante non può acconsentire a una misura coercitiva in luogo della p
 
 4.  La persona infortunata ha diritto alla cura, al mantenimento del Paniere e, durante la convalescenza, alla proposta di un CBO alternativo adattato, quando compatibile con la sua condizione.
 
-5.  Il Consiglio Salute federato svolge almeno trimestralmente un’analisi aggregata degli infortuni e dei quasi-infortuni per proporre l’aggiornamento delle STV del Codice 2 e delle Schede di Sicurezza.
+5.  I Consigli Salute, in coordinamento federato come articolazioni del Cerchio di Competenza Medicina e Salute, svolgono almeno trimestralmente un’analisi aggregata degli infortuni e dei quasi-infortuni per proporre l’aggiornamento delle STV del Codice 2 e delle Schede di Sicurezza.
 
 6.  Il ciclo di prevenzione comprende: registrazione dell’evento, analisi delle cause, aggiornamento delle misure, revisione delle STV e prevenzione di eventi futuri.
 

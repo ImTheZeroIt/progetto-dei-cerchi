@@ -1,7 +1,7 @@
 ---
 titolo: "ALLEGATO TECNICO B AL CODICE 16 — MANUALE OPERATIVO DI DISINSERIMENTO E FEDERAZIONE"
 breve: "Allegato B al Codice 16 — Manuale operativo di disinserimento e federazione"
-versione: "V1.5"
+versione: "V1.6"
 gruppo: "allegati"
 ordine: 16.2
 id: "codice-16-allegato-b"
@@ -149,7 +149,7 @@ Allegato tecnico adottato ai sensi dell’articolo 19 del Codice 3. Il presente 
 
 6.  Gli obblighi fiscali sono adempiuti integralmente. Eventuali donazioni o destinazioni di quote detraibili o deducibili a enti del Terzo Settore o beni comuni sono volontarie e sono effettuate tramite professionisti competenti secondo il Codice 15 e le norme applicabili.
 
-7.  Durante il modulo sono attivati, secondo il Codice 16 e i Codici di settore:
+7.  Durante il modulo sono attivati, ciascuno nella fase in cui l’articolo 3 del Codice 16 lo prevede e secondo i Codici di settore:
 
     a) il Catasto Biodiversità minimo provvisorio;
 
@@ -165,7 +165,7 @@ Allegato tecnico adottato ai sensi dell’articolo 19 del Codice 3. Il presente 
 
 **Durata operativa minima indicativa:** da trecentosessantacinque a settecentotrenta giorni, subordinata alle fasi istituzionali del Codice 16.
 
-1.  Il percorso di federazione richiede:
+1.  Il percorso di federazione richiede, ciascuno nella fase in cui l’articolo 3 del Codice 16 lo prevede:
 
     a) l’aggregazione di almeno tre Bacini;
 
@@ -223,7 +223,7 @@ Allegato tecnico adottato ai sensi dell’articolo 19 del Codice 3. Il presente 
 
 3.  Il riavvio richiede la certificazione della rimozione della causa da parte degli organi competenti:
 
-    a) per la condizione di cui al comma 1, lettera b), il Consiglio di riferimento per la cura;
+    a) per la condizione di cui al comma 1, lettera b), il Consiglio di riferimento per la cura, con la nuova verifica prevista dall’articolo 4, comma 6, lettera c), dell’Allegato A, secondo la procedura di quel comma, che è l’unica applicabile a questa condizione;
 
     b) per la condizione di cui al comma 1, lettera c), il Consiglio Sicurezza;
 
@@ -233,6 +233,6 @@ Allegato tecnico adottato ai sensi dell’articolo 19 del Codice 3. Il presente 
 
 4.  Al riavvio sono nuovamente verificate le condizioni della Fase 0 pertinenti alla causa della sospensione. Restano validi gli esiti precedenti che non sono interessati dalla causa.
 
-5.  Il riavvio è deliberato dall’Assemblea Generale, previo parere obbligatorio dei Consigli competenti, e pubblicato secondo l’articolo 15 del Codice 3.
+5.  Il riavvio è deliberato dall’Assemblea Generale, previo parere obbligatorio dei Consigli competenti, e pubblicato secondo l’articolo 15 del Codice 3. Quando la sospensione per la condizione del comma 1, lettera b), riguarda soltanto la proposta di passaggio di fase, la proposta riprende con l’esito positivo della nuova verifica del comma 3, lettera a), senza una deliberazione separata di riavvio.
 
-6.  La sospensione non costituisce fallimento: attesta esclusivamente il mancato superamento temporaneo della soglia pertinente prevista dall’articolo 4 del Codice 16.
+6.  La sospensione non costituisce fallimento. Nei casi del comma 1, lettere a), b) e c), attesta esclusivamente il mancato superamento temporaneo della soglia pertinente prevista dall’articolo 4 del Codice 16. Nel caso del comma 1, lettera d), riguarda soltanto le iniziative del presente Allegato, per le quali manca il requisito dell’articolo 2, comma 1, lettera b), e non incide sulle soglie dell’articolo 4 del Codice 16.

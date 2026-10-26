@@ -1,7 +1,7 @@
 ---
 titolo: "TECHNICAL ANNEX C TO CODE 16 — FIRST-YEAR OPERATING CHARTER"
 breve: "Annex C to Code 16 — First-year operating charter"
-versione: "V1.0"
+versione: "V1.2"
 gruppo: "allegati"
 ordine: 16.3
 id: "codice-16-allegato-c"
@@ -53,12 +53,12 @@ Technical annex adopted pursuant to Article 19 of Code 3 and referred to in Arti
 
 1.  The starting point is needs: every quarter the Assembly approves the requirement and the Labour Balance provided for by Article 2 of Code 1.
 2.  The CBO shall not exceed an average of fifteen hours per week, in accordance with Article 3 of Code 1. Unpleasant and arduous tasks rotate among all.
-3.  If the hours needed exceed those available, first the deferrable activities are reduced and the formalities are simplified; the limit is not increased.
+3.  If the hours needed exceed those available, first the deferrable activities are reduced and the formalities are simplified; the limit is not increased, except under the Solidarity Protocol, pursuant to Article 3, paragraph 3, of Code 1.
 4.  People’s external work is not CBO and remains free, in accordance with Article 19 of Code 15.
 
 ## Art. 6 — Basket and Storehouse
 
-1.  Levels 1 and 2 of the hierarchy of Article 32 of Code 1 have priority: water, food, basic energy, health care, housing.
+1.  Vital emergencies and essential needs have priority: water, food, basic energy, health care, housing. In capacity conflicts Article 32 of Code 1 applies; Basket 1-2 is defined by paragraph 1-quinquies of that Article.
 2.  The inventory of the Storehouse is public in aggregate form. The goods of the Basket are distributed according to need and are not bought and sold among members.
 3.  What cannot yet be produced is purchased externally by the Common Fund and is entered as a dependency to be reduced.
 

@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 12 — COMMUNITY CARE, FUNCTIONAL FRAILTIES AND COMMUNITY HEALTH"
 breve: "Code 12 — Community care"
-versione: "V1.4"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 12
 id: "codice-12"
 slug: "code-12"
-allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 13 V1.7; Code 14 V1.6; Code 15 V1.7; Code 16 V1.7."
 ---
 
 ## Art. 1 — Subject matter, definitions and scope of competence
@@ -27,7 +27,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     f) **Care Safety Sheet** means the operational document that identifies the risks connected with a specific care activity and establishes the preventive measures, the competences required, the interruption procedures and the arrangements for substitution in the event of unavailability of an essential resource;
 
-    g) **Care STV** means the binding technical specification, adopted in accordance with Code 2, that defines the standards, minimum quantities, procedures and operating arrangements of the services governed by this Code.
+    g) **Care STV** means the Technical Validation Sheet, adopted in accordance with Article 3-bis of Code 2, that defines the standards, minimum quantities, procedures and operating arrangements of the services governed by this Code.
 
 3.  The following are inalienable infrastructural commons:
 
@@ -72,7 +72,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 1.  **Universality.** Every person has the right to the essential services of the Care Basket corresponding to levels 1 and 2, without being made subject to individual contribution to the CBO and in accordance with the guarantees provided for by Code 1.
 2.  **Autonomy of functional frailty.** Functional frailty constitutes a condition relevant for the purposes of community care, distinct from clinical diagnosis. Its ascertainment does not, in itself, require a health assessment. Clinical acts remain governed by Code 6.
 3.  **Proximity and continuity.** Essential care shall be organised, as far as possible, within Circle 1. Services that require competences or facilities not available locally shall be guaranteed through the federated network referred to in Article 6.
-4.  **Priority and scarcity.** The general priorities of the Basket are those established by Code 1, Article 32. In the event of insufficient care time, the reduction shall concern first the activities of a higher level, starting from level 5, in compliance with the hierarchy of Code 1 and without prejudice to the essential services of the lower levels. Within the applicable priorities, decisions shall take account of urgency, of the severity of the need and of the risk of interruption of care.
+4.  **Priority and scarcity.** The general priorities of the Basket are those established by Code 1, Article 32. In the event of insufficient care time, the reduction shall concern first the activities of the last level of the sequence of Article 4, paragraph 7, and shall proceed towards the higher levels, in compliance with the hierarchy of Code 1 and without prejudice to the essential services of levels 1 and 2. Within the applicable priorities, decisions shall take account of urgency, of the severity of the need and of the risk of interruption of care.
 5.  **Non-accumulation and non-monetisability.** Essential care time shall not be monetisable, nor shall it be individually accumulable to such an extent as to take availability away from the other persons entitled. Any technical limit on accumulation shall be defined by means of an STV, on the basis of the actual capacity of the service and with public criteria.
 6.  **Transparency and confidentiality.** The inventories of spaces and equipment, as well as the balances of care time, shall be published in aggregate and non-identifying form. The individual data necessary for the taking into care shall be processed exclusively for that purpose, in accordance with Code 7, Article 2.2.
 7.  **Reversibility and review.** Where the frailty is temporary, the individual care plan shall provide, if appropriate, for a pathway of support for autonomy and a time limit or condition for review. The review shall not result in the automatic interruption of essential services in the absence of a new assessment.
@@ -160,17 +160,17 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 6.  The minimum list of the services of the Care Basket shall be approved by the Assembly on a proposal from the Care Council. The mandatory opinion of the Health Council is required, limited to the health aspects. The list, the standards and the procedures shall be published in the Care Basket STV.
 
-7.  The operational priorities shall apply in compliance with Code 1, Article 32, and in accordance with the following sequence, to be assessed in relation to urgency and individual need:
+7.  The operational priorities shall apply in compliance with Code 1, Article 32, and in accordance with the following sequence of levels, to be assessed in relation to urgency and individual need:
 
-    a) survival, essential hygiene and protected rest;
+    a) level 1: survival, essential hygiene and protected rest;
 
-    b) care of children from zero to three years of age and support for persons of advanced old age who are not self-sufficient;
+    b) level 2: care of children from zero to three years of age and support for persons of advanced old age who are not self-sufficient;
 
-    c) convalescence and the period following childbirth;
+    c) level 3: convalescence and the period following childbirth;
 
-    d) support for the maintenance or recovery of autonomy;
+    d) level 4: support for the maintenance or recovery of autonomy;
 
-    e) further care services.
+    e) level 5: further care services.
 
 ## Art. 5 — Services, care time and coordination with the other Codes
 
@@ -210,7 +210,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 1.  Each Circle 1 shall activate and maintain the care spaces necessary, directly or through network agreements. The spaces shall be accessible, may be divided into functional areas and shall have up-to-date Safety Sheets for the activities actually carried out.
 2.  The intended use and the siting of the spaces are governed by Code 10. Code 12 governs the care function performed within them, without modifying the territorial designation or the constraints within the competence of Code 10.
-3.  The Confederation shall ensure at least one federated facility with advanced competences for each Basin composed of three or four Circles 1. Planning shall identify the size of the Basin, the services available and the arrangements for access. The facilities shall guarantee, according to need, competences in social paediatrics, support for complex disability and temporary emergency spaces.
+3.  The Confederation shall ensure in every Circle 2 at least one federated facility with advanced competences for every three or four Circles 1 of which it is composed. Planning, resolved by the General Assembly of Circle 2, shall identify the services available and the arrangements for access. The facilities shall guarantee, according to need, competences in social paediatrics, support for complex disability and temporary emergency spaces.
 4.  Access to the federated facilities shall take place in accordance with criteria that are public, non-discriminatory and compatible with the urgency of the need. The inventory of resources shall be shared among the Circles concerned and updated in the manner established by the STV.
 5.  The measurement of services is limited to the data necessary for safety, the planning of care time and the verification of the Care Basket. Any individual data necessary for the taking into care shall remain confidential; public indicators shall be aggregate and non-profiling. Individual behavioural profiling not necessary for the purposes of this Code is prohibited, in conformity with Code 7, Article 2.2.
 
@@ -257,6 +257,40 @@ The decision shall be reviewed by the Tribunal at least every six months and at 
 4.  Every person may designate in advance a representative for the event of incapacity, including by means of the living will provided for in Article 8-bis of Code 6.
 5.  In the absence of a designation and in the event of urgency, the Guarantee Circle shall appoint within twenty-four hours a temporary representative, chosen in the following order from among the persons of Circle 0 indicated by the person, his or her trusted person and a person drawn by lot with L2 competence in care, free of conflicts of interest. The office shall last no more than thirty days and shall be renewable by reasoned decision until the appointment of the stable representative provided for by Article 2-ter, paragraph 5, of Code 6, which the Guarantee Circle shall request from the Guarantee Tribunal when the incapacity lasts or is expected to last more than sixty days.
 6.  The representative shall decide in accordance with the expressed or presumable will of the person and, failing that, in accordance with his or her best interests. The office shall cease when the person recovers capacity.
+
+## Art. 7-ter — Choice of residence and departure of minors from the Confederation
+
+1.  In implementation of Article 26.2 of the Constitution, a minor who has completed the fourteenth year and has reached autonomy may choose to live in a Circle 0 other than that of the persons who hold responsibility for his or her care, in the same or in another Community, with the consent of those who live there, or in accommodation allocated pursuant to Article 47-ter of Code 1. The choice does not change member status or the rights of Article 26 of the Constitution. The minor may at any time return to live with the persons who hold responsibility for his or her care.
+
+2.  Autonomy is assessed jointly by the Care Council and the Competences Council, at the request of the minor. Within thirty days of the request they shall hear the minor, assisted, if he or she so wishes, by the trusted person provided for by Article 31.5 of the Constitution, the persons who hold responsibility for his or her care and those who would receive the minor, and shall verify:
+
+    a) that the choice is free, stable and not determined by pressure from other persons;
+
+    b) that the minor is able to provide for his or her daily life with the support available;
+
+    c) that the new placement is safe and ensures housing, the Basket, care, learning and relations with the persons dear to the minor.
+
+The decision shall state reasons and indicate who takes everyday decisions and how relations with the persons who hold responsibility for care are maintained, unless this harms the minor. Responsibility for care and consent to care provided for by Article 2-ter of Code 6 remain with those who exercise them, except for a decision of the Guarantee Tribunal pursuant to Article 7-bis, paragraph 3-bis.
+
+3.  The choice of residence and the opposition of the persons who hold responsibility for care do not, by themselves, constitute violence, serious neglect or harm within the meaning of Article 7-bis. If the request reveals violence, serious neglect or harm, the Care Council shall activate the protection pathway of Article 7-bis, which prevails over the procedure of this Article.
+
+4.  Against the decision of paragraph 2, or if it is not taken within the time limit, the minor and each person who holds responsibility for his or her care may appeal within fourteen days to the Guarantee Tribunal, which shall decide within thirty days with the guarantees of Article 7-bis, paragraph 3-bis, taking account of the will of the minor according to age and maturity. Review under Article 35, paragraph 2, of Code 4 is permitted against the decision of the Tribunal.
+
+5.  From completion of the sixteenth year the minor may personally make the declaration of Article 4.8 of the Constitution, pursuant to Article 26.5 of the Constitution. The declaration is preceded by an interview with the Care Council, in which the minor may be assisted by the trusted person; the Council informs the minor of the effects of Article 4.8, of the rights retained pursuant to paragraph 8, of the Autonomous Coexistence Pact and of readmission, and verifies with the minor where and with whom he or she will live. The interview takes place within fourteen days of the request; if the time limit expires without an interview, the declaration may be made in any case. The persons who hold responsibility for care are informed, unless this exposes the minor to danger. If, before the eighteenth year, the minor is not able to decide, paragraph 6 applies.
+
+6.  Until completion of the sixteenth year the declaration of Article 4.8 of the Constitution for the minor is made by the person who holds responsibility for his or her care, solely in the interest of the minor, after informing and hearing the minor in a manner suited to his or her age; the opinion of the minor carries increasing weight with age and maturity, pursuant to Article 26.2 of the Constitution. If there is more than one responsible person, they decide by agreement. The declaration that a person makes for himself or herself does not extend to the minors for whom he or she holds responsibility for care.
+
+7.  Within fourteen days of the declaration of paragraph 5 or of paragraph 6, the minor, each person who holds responsibility for his or her care or the Care Council may apply to the Guarantee Tribunal. The Tribunal shall hear the minor, assisted by the trusted person, and the responsible persons and shall decide within thirty days:
+
+    a) for the declaration of paragraph 5, it verifies only that it is free and informed and that the minor is able to decide, without assessing its appropriateness; the application does not suspend its effects;
+
+    b) for the declaration of paragraph 6, it decides in the interest of the minor, taking account of his or her opinion; until the decision the declaration has no effect for the minor. If the minor remains a member, the Tribunal also decides where and with whom he or she lives, pursuant to Article 7-bis, paragraph 3-bis.
+
+Review under Article 35, paragraph 2, of Code 4 is permitted against the decision.
+
+8.  A minor who is no longer a member retains in any case drinking water, life-saving emergency care and the protection of minors guaranteed by Article 1.3 of the Constitution, the rights of Article 26 of the Constitution referred to in Article 4.9-bis, including access to care and learning, and the other rights of Article 4.9. The minor may continue to live in his or her own Circle 0, with the consent of those who live there, and may apply at any time for readmission pursuant to Article 4.8 of the Constitution.
+
+9.  During the transition this Article applies within the limits permitted by the law in force on responsibility for care and on the participation of minors in organisations, pursuant to Article 37 of Code 4. The choice of residence against the will of those who hold responsibility for care and the decisions of the Tribunal provided for by paragraphs 4 and 7 fall to the competent authorities of the State; the Care Council supports the minor.
 
 ## Art. 8 — Care Dependency Register
 

@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 9 — AGROECOLOGICO E ALIMENTARE"
 breve: "Codice 9 — Agroecologia e alimentazione"
-versione: "V3.1"
+versione: "V3.3"
 gruppo: "codici"
 ordine: 9
 id: "codice-09"
 slug: "codice-09"
-allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.7; Codice 16 V1.7."
 ---
 
 ## Art. 1 — Oggetto e natura giuridica
@@ -103,7 +103,7 @@ La STV Fitosanitaria è condizione necessaria per ogni trattamento. I divieti de
 
     e) livello 5: altri usi.
 
-In caso di scarsità, le riduzioni sono applicate progressivamente dal livello 5 ai livelli superiori, nel rispetto dell’articolo 32 del Codice 1.
+In caso di scarsità, le riduzioni sono applicate progressivamente dal livello 5 ai livelli superiori, nel rispetto dell’articolo 32 del Codice 1. Per l’acqua in caso di scarsità si applica soltanto l’articolo 10, comma 8: l’acqua minima necessaria alla sopravvivenza degli animali e degli impollinatori ha la stessa priorità di quella necessaria alle colture del livello 1.
 
 6.  **Accesso aperto al sapere agroecologico.** Per ogni varietà del Paniere, tecnica produttiva, ricetta di conservazione e STV relativa agli impollinatori per i livelli 1–4 è resa disponibile documentazione completa e liberamente riproducibile, compresa la STV prevista dal Codice 2. È vietato brevettare i semi del Paniere e il sapere essenziale di conservazione individuato dalle STV.
 7.  **Trasparenza.** Ogni Cerchio mantiene un inventario dei semi, una mappa dei suoli agricoli, un inventario dei rifugi per impollinatori e un bilancio alimentare aggregato e non profilante.
@@ -255,13 +255,13 @@ In caso di scarsità, le riduzioni sono applicate progressivamente dal livello 5
 
 3.  Il presente Codice rinvia al Codice 10 per la mappa territoriale e disciplina la funzione agricola all’interno delle aree destinate a tale uso.
 
-4.  La Confederazione garantisce una copertura federata minima di competenze e infrastrutture avanzate, comprendente, secondo il fabbisogno, banca dei semi, vivaio, essiccatoio, molino e frantoio. La copertura assicura a ogni Cerchio 1 un accesso effettivo entro un bacino ragionevole, di norma ogni tre o quattro Cerchi, dimensionato in base alla popolazione e al territorio.
+4.  La Confederazione garantisce una copertura federata minima di competenze e infrastrutture avanzate, comprendente, secondo il fabbisogno, banca dei semi, vivaio, essiccatoio, molino e frantoio. La copertura assicura a ogni Cerchio 1 un accesso effettivo nel proprio Cerchio 2, di norma con una dotazione ogni tre o quattro Cerchi 1 che lo compongono, dimensionata in base alla popolazione e al territorio.
 
 5.  L’accesso alle infrastrutture federate è prenotabile e gestito mediante inventario comune.
 
 6.  Le microproduzioni diffuse, come orti su balconi o tetti, orti condominiali e rifugi didattici per impollinatori, sono registrate presso il Consiglio Agroecologico e rispettano la STV e la Scheda di Sicurezza applicabili.
 
-7.  La misurazione è ammessa solo per finalità tecniche di sicurezza alimentare, bilancio alimentare, fertilità del suolo, verifica del Paniere e stato dei rifugi per impollinatori. I dati sono aggregati per Cerchio o cluster.
+7.  La misurazione è ammessa solo per finalità tecniche di sicurezza alimentare, bilancio alimentare, fertilità del suolo, verifica del Paniere e stato dei rifugi per impollinatori. I dati sono aggregati per Cerchio 1 o per Cerchio 2.
 
 8.  È vietata la profilazione individuale dei comportamenti. Si applicano il Codice 7, articolo 2.2, e le relative regole di minimizzazione e accesso.
 
@@ -269,7 +269,7 @@ In caso di scarsità, le riduzioni sono applicate progressivamente dal livello 5
 
 1.  **Principio generale.** Gli animali non umani sono esseri senzienti, liberi e tutelati; non sono merci né mezzi di produzione, ai sensi dell’articolo 13 della Costituzione. Sono vietati l’allevamento a fini di sfruttamento, la macellazione, l’uccisione e ogni pratica che arrechi dolore, paura o privazione. Sono ammesse soltanto la collaborazione non sfruttante del comma 3 e la raccolta senza danno dei commi 4 e 5.
 
-2.  In caso di conflitto interpretativo tra la funzione agroalimentare e il benessere animale prevalgono i parametri di benessere stabiliti dal Codice 13. Nel dubbio l’attività non è consentita.
+2.  In caso di conflitto interpretativo tra la funzione agroalimentare e il benessere animale prevalgono i parametri di benessere stabiliti dal Codice 13. Nel dubbio l’attività non è consentita. La ripartizione dell’acqua in caso di scarsità segue l’articolo 10, comma 8.
 
 3.  **Collaborazione nel lavoro.**
 
@@ -277,7 +277,7 @@ In caso di scarsità, le riduzioni sono applicate progressivamente dal livello 5
 
     b) La collaborazione è ammessa solo in attività compatibili con la specie, l’indole e la condizione del singolo animale. Sono vietati gli strumenti e i metodi che agiscono mediante dolore o paura. L’animale che manifesta rifiuto, affaticamento o disagio è lasciato libero dall’attività.
 
-    c) Il carico, le ore massime giornaliere e settimanali, l’età minima e massima, i riposi, le soglie climatiche e i segnali di disagio sono definiti nella STV Benessere degli Animali che Collaborano, secondo il Codice 2. La STV è validata congiuntamente dal Consiglio Agroecologico e dal Consiglio Biodiversità, con il parere del Consiglio Salute; sui parametri di benessere il parere del Consiglio Biodiversità è vincolante.
+    c) Il carico, le ore massime giornaliere e settimanali, l’età minima e massima, i riposi, le soglie climatiche e i segnali di disagio sono definiti nella STV Benessere degli Animali che Collaborano, secondo il Codice 2. La STV è validata congiuntamente dal Consiglio Agroecologico e dal Consiglio Biodiversità, con il parere del Consiglio Salute; i parametri di benessere sono approvati dal Consiglio Biodiversità con l’autorizzazione dell’articolo 13.3 della Costituzione, ai sensi dell’articolo 3, comma 5, del Codice 13.
 
     d) Ogni animale dispone di una Scheda Benessere individuale, di un registro delle ore e di una verifica veterinaria periodica. In assenza di una Scheda vigente la collaborazione è sospesa senza ritardo; la cura dell’animale resta garantita.
 
@@ -297,7 +297,7 @@ In caso di scarsità, le riduzioni sono applicate progressivamente dal livello 5
 
     b) Sono vietati l’uccisione, il prelievo che comporti dolore, paura, privazione o riduzione della durata della vita, la separazione dalla prole, la riproduzione indotta, la selezione finalizzata alla produttività e l’aumento del numero degli animali a fini di raccolta.
 
-    c) Le condizioni e i limiti di ogni raccolta sono definiti nella Scheda Benessere e nella STV applicabile, con il parere vincolante del Consiglio Biodiversità. Nel dubbio la raccolta non è consentita.
+    c) Le condizioni e i limiti di ogni raccolta sono definiti nella Scheda Benessere e nella STV applicabile, approvate dal Consiglio Biodiversità ai sensi dell’articolo 3, comma 5, del Codice 13. Nel dubbio la raccolta non è consentita.
 
     d) La raccolta non costituisce un obiettivo produttivo e non è programmata nel fabbisogno del Paniere. Ciò che è raccolto è conferito al Magazzino e distribuito, quando disponibile, con priorità alle esigenze cliniche e alle persone fragili.
 
@@ -311,7 +311,7 @@ In caso di scarsità, le riduzioni sono applicate progressivamente dal livello 5
 
     c) Sono vietati la nutrizione artificiale, salvo l’intervento di soccorso attestato dal Consiglio Biodiversità per il tempo strettamente necessario; l’inseminazione artificiale e la soppressione delle regine; il taglio delle ali; il nomadismo; gli acaricidi di sintesi persistenti; le linee soggette a brevetto, licenza o sterilità tecnologica.
 
-    d) L’intervento sulle colonie è ammesso per soccorso, tutela sanitaria, prevenzione di rischi per le persone e raccolta ai sensi della lettera b), secondo la STV Impollinatori. La STV è adottata secondo il Codice 2, con il parere vincolante del Consiglio Biodiversità sui parametri di benessere e con il parere obbligatorio del Consiglio Habitat e Territorio.
+    d) L’intervento sulle colonie è ammesso per soccorso, tutela sanitaria, prevenzione di rischi per le persone e raccolta ai sensi della lettera b), secondo la STV Impollinatori. La STV è adottata secondo il Codice 2, con l’approvazione e il parere del Consiglio Biodiversità previsti dall’articolo 6, comma 6, del Codice 13 e con il parere obbligatorio del Consiglio Habitat e Territorio.
 
     e) La STV Impollinatori definisce la scorta necessaria alla colonia, le distanze, le fasce di rispetto e il raggio di tutela dai trattamenti, in coordinamento con il Codice 10.
 
@@ -341,7 +341,7 @@ In caso di scarsità, le riduzioni sono applicate progressivamente dal livello 5
 
 1.  Nessuna attività di trasformazione o conservazione e nessun intervento presso i rifugi per impollinatori può essere svolto senza una Scheda di Sicurezza vigente. Per la collaborazione con animali e per gli interventi sulle colonie è richiesta anche una Scheda Benessere vigente secondo il Codice 13.
 2.  Il Consiglio Agroecologico valida gli aspetti tecnici di sicurezza dell’attività. Il Consiglio Salute esprime il parere obbligatorio sui rischi sanitari, sulla conservazione, sugli allergeni, sulla nutrizione delle persone fragili, sulle punture e sulle zoonosi. Il Consiglio Biodiversità esprime il parere obbligatorio sui profili di benessere animale.
-3.  I pareri obbligatori non trasferiscono al Consiglio consultato la competenza sulla validazione tecnica dell’atto, che resta al Consiglio Agroecologico, salvo la STV Benessere degli Animali che Collaborano e la STV Impollinatori previste dall’articolo 6-bis, comma 3, lettera c), e comma 5, lettera d), per le quali il parere del Consiglio Biodiversità è vincolante.
+3.  I pareri obbligatori non trasferiscono al Consiglio consultato la competenza sulla validazione tecnica dell’atto, che resta al Consiglio Agroecologico, salvo la STV Benessere degli Animali che Collaborano e la STV Impollinatori previste dall’articolo 6-bis, comma 3, lettera c), e comma 5, lettera d), per le quali il Consiglio Biodiversità approva i parametri di benessere ai sensi dell’articolo 3, comma 5, del Codice 13.
 4.  DPI e attrezzature per la sicurezza alimentare e per gli interventi presso i rifugi per impollinatori sono beni comuni, forniti gratuitamente, manutenuti e tracciati dai Magazzini competenti secondo i Codici 1, 6 e 14. La loro assenza comporta la sospensione dell’attività interessata.
 5.  La formazione L1 in sicurezza alimentare e tutela degli impollinatori è obbligatoria per accedere alle cucine di trasformazione e alle arnie di custodia. La L2 è richiesta per la gestione dei campi, della conservazione avanzata e degli interventi di soccorso sulle colonie. La L3 è richiesta per la progettazione agroecologica e la validazione delle STV.
 6.  Chi rileva un rischio immediato per la salute, il benessere animale o la sopravvivenza di una colonia può interrompere l’attività, segnalarlo e non può subire pregiudizio per aver agito in buona fede. Si applicano i Codici 6 e 14.
@@ -392,7 +392,7 @@ In caso di scarsità, le riduzioni sono applicate progressivamente dal livello 5
 
     f) cedere a un soggetto esterno alla Confederazione il controllo della banca dei semi, dei campi del Paniere o dei rifugi per impollinatori;
 
-    g) utilizzare trattamenti vietati dall’articolo 2, comma 4, lettera b), salvo la deroga temporanea prevista dalla lettera d) del medesimo comma;
+    g) utilizzare trattamenti vietati dall’articolo 2, comma 4, lettera b), che non ammettono deroga; i prodotti della lettera d) del medesimo comma sono impiegati soltanto alle sue condizioni;
 
     h) uccidere o maltrattare animali, impiegarli o raccoglierne i prodotti fuori dalle condizioni dell’articolo 6-bis;
 
@@ -474,17 +474,15 @@ In caso di scarsità, le riduzioni sono applicate progressivamente dal livello 5
 
 Si applicano le condizioni dell’articolo 10 del Codice 5.
 
-8.  **Acqua agricola.** La captazione, lo stoccaggio e la distribuzione destinati all’agricoltura sono coordinati con il Codice 8 e con il Codice 10, che disciplina le destinazioni territoriali. In caso di scarsità, le priorità d’uso sono:
+8.  **Acqua agricola e acqua in caso di scarsità.** La captazione, lo stoccaggio e la distribuzione destinati all’agricoltura sono coordinati con il Codice 8 e con il Codice 10, che disciplina le destinazioni territoriali. In caso di scarsità l’acqua disponibile è ripartita secondo le priorità seguenti, che valgono per ogni uso dell’acqua, compresi quelli disciplinati dai Codici 8 e 13:
 
-    a) acqua potabile per uso umano, secondo il Codice 8;
+    a) acqua potabile per uso umano e per i servizi sanitari e di cura, nella quota minima garantita dall’articolo 4-bis, comma 3, del Codice 8;
 
-    b) acqua necessaria agli animali e agli impollinatori;
+    b) con pari priorità, l’acqua minima necessaria alla sopravvivenza degli animali che vivono con la Comunità, compresi quelli accolti nei santuari, e degli impollinatori, e l’acqua minima necessaria a mantenere le colture destinate al livello 1 dell’articolo 2, comma 5; se l’acqua non basta per entrambe, è ripartita in proporzione al fabbisogno minimo di ciascuna;
 
-    c) acqua necessaria al Paniere vegetale;
+    c) tutti gli altri usi, che sono ridotti per primi.
 
-    d) altri usi.
-
-Le priorità si applicano nel rispetto della gerarchia dell’articolo 32 del Codice 1; in caso di conflitto prevale la gerarchia del Codice 1.
+Il fabbisogno minimo della lettera b) è accertato dal Consiglio Energia e Acqua con il Consiglio Agroecologico e il Consiglio Biodiversità. Prima che un animale resti senza l’acqua necessaria alla sopravvivenza, il Consiglio Biodiversità chiede tramite il Pool del Codice 15, come bisogno vitale immediato ai sensi del suo articolo 8, comma 2, lettera a), l’acqua mancante o il trasferimento dell’animale in un’altra Comunità o in un santuario che dispone dell’acqua necessaria; il trasferimento è necessario al benessere ai sensi dell’articolo 4-bis, comma 2, del Codice 13. Finché il Saldo previsto dal Codice 15 non è attivo, il trasferimento è tentato direttamente con un’altra Comunità o con un ente esterno affine, come un rifugio o un santuario, con accordo scritto. Per prevenire la scarsità, il numero degli animali custoditi o accolti dalla Comunità, compresi i santuari, e delle colonie di impollinatori custodite è pianificato dal Consiglio Biodiversità, con il Consiglio Energia e Acqua, in base all’acqua disponibile negli anni secchi; gli animali che superano tale numero sono accolti tramite altre Comunità o santuari che dispongono dell’acqua necessaria. Ai fini dell’articolo 32 del Codice 1, la captazione e la distribuzione dell’acqua delle lettere a) e b) sono emergenze vitali della lettera a) del suo comma 1 e seguono l’ordine del presente comma.
 
 9.  **Funzioni esistenti non conformi.** Le funzioni, le modalità di gestione, gli allevamenti e gli apiari già esistenti che violano l’articolo 9 o l’articolo 6-bis sono portati a conformità entro novanta giorni. Per gli allevamenti e gli apiari la conformità consiste nella cessazione di ogni pratica vietata dall’articolo 6-bis e nella verifica prevista dal suo comma 6. Se l’adeguamento di una funzione non è tecnicamente possibile, entro lo stesso termine è avviata la procedura di disattivazione, che comprende:
 

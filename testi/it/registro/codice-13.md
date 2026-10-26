@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 13 — BIODIVERSITÀ, SANTUARI E FAUNA"
 breve: "Codice 13 — Biodiversità, santuari e fauna"
-versione: "V1.5"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 13
 id: "codice-13"
 slug: "codice-13"
-allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 14 V1.6; Codice 15 V1.7; Codice 16 V1.7."
 ---
 
 ## Art. 1 — Oggetto, definizioni e natura giuridica
@@ -72,7 +72,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     b) definisce, entro le competenze attribuite al presente Codice, gli indicatori di biodiversità, funzionalità biologica dei corridoi e benessere animale;
 
-    c) elabora e aggiorna la STV Biodiversità, la STV Santuari di Accoglienza, la STV Benessere degli Animali che Collaborano congiunta con il Codice 9, la STV Benessere Domestico e la STV Api Selvatiche ed esprime il parere vincolante sulla STV Impollinatori del Codice 9;
+    c) elabora e aggiorna la STV Biodiversità, la STV Santuari di Accoglienza, la STV Benessere degli Animali che Collaborano congiunta con il Codice 9, la STV Benessere Domestico, la STV Api Selvatiche e la STV Gestione della Fauna e interviene sulla STV Impollinatori del Codice 9 ai sensi dell’articolo 6, comma 6;
 
     d) redige e aggiorna le Schede Benessere;
 
@@ -82,21 +82,21 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     g) assicura il coordinamento tecnico con il Consiglio Habitat e Territorio del Codice 10, il Consiglio Agroecologico del Codice 9, il Consiglio Salute del Codice 6, il Consiglio Energia e Acqua del Codice 8 e il Consiglio Cura del Codice 12.
 
-3.  I pareri obbligatori del Consiglio Biodiversità previsti dai Codici 9 e 10 sono vincolanti esclusivamente per gli indicatori e i parametri di biodiversità, benessere animale e funzionalità biologica attribuiti espressamente al presente Codice. Tali pareri non determinano la localizzazione, la geometria, la destinazione d’uso o l’imposizione di un vincolo territoriale, che restano di competenza del Codice 10.
+3.  I pareri obbligatori del Consiglio Biodiversità previsti dai Codici 9 e 10 e dal presente Codice, quando negativi, sono vincolanti a tutela dei limiti ecologici, ai sensi dell’articolo 6.6 della Costituzione e dell’articolo 8 del Codice 3, esclusivamente per gli indicatori e i parametri di biodiversità, di tutela della fauna selvatica e di funzionalità biologica attribuiti espressamente al presente Codice. I parametri di benessere degli animali che convivono o collaborano con le persone sono approvati con l’autorizzazione del comma 5. Tali pareri non determinano la localizzazione, la geometria, la destinazione d’uso o l’imposizione di un vincolo territoriale, che restano di competenza del Codice 10.
 
 4.  Gli atti tecnici del Consiglio Biodiversità sono adottati in attuazione delle STV vigenti. Le proposte discrezionali sono assunte secondo il metodo del consenso per assenza di obiezioni motivate, ai sensi del Codice 3, previa pubblicazione per almeno settantadue ore. La pubblicazione non comprende dati la cui diffusione possa arrecare pregiudizio alle specie o ai siti tutelati.
 
-5.  Il Consiglio Biodiversità è l’articolazione locale dei Cerchi di Competenza Biodiversità e Sementi e Cura Animale. Verifica e autorizza la convivenza e la collaborazione non sfruttanti ai sensi degli articoli 13.3, 13.3-bis e 13.3-ter della Costituzione.
+5.  Il Consiglio Biodiversità è l’articolazione locale dei Cerchi di Competenza Biodiversità e Sementi e Cura Animale. Verifica e autorizza la convivenza e la collaborazione non sfruttanti ai sensi degli articoli 13.3, 13.3-bis e 13.3-ter della Costituzione. L’autorizzazione comprende l’approvazione dei parametri di benessere delle STV e delle Schede Benessere previste dal presente Codice e dal Codice 9: senza l’approvazione la STV o la Scheda non è adottata e l’attività non è autorizzata. L’approvazione e il diniego sono motivati e sono impugnabili secondo l’articolo 17 del Codice 3; non sono pareri ai sensi dell’articolo 8 del Codice 3.
 
 ## Art. 4 — Santuari ecologici
 
-1.  Ogni bacino federato composto da tre o quattro Cerchi 1 istituisce almeno un santuario, secondo la pianificazione territoriale del Codice 10. La pianificazione privilegia aree degradate suscettibili di rigenerazione o aree seminaturali di elevato valore ecologico. L’istituzione avviene:
+1.  Ogni Cerchio 2 istituisce almeno un santuario ogni tre o quattro Cerchi 1 che lo compongono, secondo la pianificazione territoriale del Codice 10. La pianificazione privilegia aree degradate suscettibili di rigenerazione o aree seminaturali di elevato valore ecologico. L’istituzione avviene:
 
     a) su proposta del Consiglio Biodiversità;
 
     b) previo parere obbligatorio del Consiglio Habitat e Territorio;
 
-    c) con deliberazione dell’Assemblea Generale adottata a maggioranza qualificata, secondo le regole della Costituzione e del Codice 3.
+    c) con deliberazione dell’Assemblea Generale del Cerchio 2 adottata a maggioranza qualificata, secondo le regole della Costituzione e del Codice 3.
 
 2.  Il santuario è destinato alla massima integrità ecologica compatibile con le caratteristiche dell’area e alla stabilità della relativa funzione di tutela. Al suo interno è vietato:
 
@@ -136,9 +136,9 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 2.  Ogni animale accolto ha diritto alla vita e alla cura e non è trasferibile, salvo che il trasferimento sia necessario al suo benessere e attestato da una competenza veterinaria L3. Sono vietati la macellazione, la soppressione per convenienza, la cessione a titolo oneroso, l’impiego nel lavoro e la riproduzione a fini d’uso.
 3.  Gli animali accolti non sono fatti riprodurre. Quando è necessario al loro benessere e alla capacità di cura, la prevenzione delle nascite avviene con i metodi non lesivi definiti dalla STV Santuari di Accoglienza.
 4.  Ciò che l’animale produce spontaneamente può essere raccolto solo alle condizioni dell’articolo 13.3-ter della Costituzione. Non può costituire un obiettivo produttivo, essere programmato nel Paniere né giustificare l’aumento del numero degli animali.
-5.  Ogni bacino composto da tre o quattro Cerchi 1 garantisce almeno un santuario di accoglienza, dimensionato sugli animali censiti. La cura degli animali accolti rientra nel CBO, ai sensi dell’articolo 7.2 della Costituzione e del Codice 1.
-6.  Per ciascun animale o gruppo è tenuta una Scheda Benessere. L’alimentazione e le cure veterinarie sono assicurate senza compromettere i livelli 1 e 2 del Paniere umano.
-7.  L’eutanasia è ammessa esclusivamente alle condizioni dell’articolo 7, comma 12.
+5.  Ogni Cerchio 2 garantisce almeno un santuario di accoglienza ogni tre o quattro Cerchi 1 che lo compongono, dimensionato sugli animali censiti. La cura degli animali accolti rientra nel CBO, ai sensi dell’articolo 7.2 della Costituzione e del Codice 1.
+6.  Per ciascun animale o gruppo è tenuta una Scheda Benessere. L’alimentazione e le cure veterinarie sono assicurate senza compromettere i livelli 1 e 2 del Paniere umano. In caso di scarsità d’acqua si applica l’articolo 10, comma 8, del Codice 9.
+7.  L’eutanasia è ammessa esclusivamente alle condizioni dell’articolo 7, comma 12, in quanto applicabili. In luogo della Scheda Benessere Domestico si applica la Scheda Benessere dell’animale accolto prevista dal comma 6; in luogo della persona di fiducia sono informate le persone che curano abitualmente l’animale.
 8.  L’accesso delle persone al santuario di accoglienza è consentito per la cura, l’apprendimento e la relazione, nel rispetto delle Schede Benessere.
 
 ## Art. 5 — Corridoi ecologici e fasce di rispetto: parametri biologici
@@ -163,6 +163,22 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 4.  Ogni piano o intervento che interrompa un corridoio o riduca una fascia di rispetto è sottoposto a valutazione di incidenza ecologica limitatamente ai profili di biodiversità, benessere animale e funzionalità biologica attribuiti al presente Codice. Il parere del Consiglio Biodiversità è vincolante nei limiti stabiliti dall’articolo 3, comma 3.
 
+## Art. 5-bis — Gestione della fauna selvatica e prelievo non cruento
+
+1.  In attuazione dell’articolo 13.4 della Costituzione, la gestione della fauna selvatica necessaria alla tutela degli ecosistemi, della salute, delle colture o della sicurezza delle persone si attua esclusivamente con metodi non cruenti, nell’ordine seguente:
+
+    a) prevenzione, protezione delle colture e dei beni e dissuasione non lesiva;
+
+    b) recinzioni e altre barriere che non feriscono gli animali e non interrompono i corridoi ecologici;
+
+    c) quando le misure precedenti non sono sufficienti, cattura senza dolore né lesioni e trasferimento in habitat idonei, compresi i santuari ecologici.
+
+2.  Sono vietati l’uccisione, la caccia, l’avvelenamento e ogni mezzo che provochi dolore, lesioni o la morte dell’animale.
+
+3.  I metodi, le condizioni e la registrazione degli interventi sono definiti dalla STV Gestione della Fauna. Ogni intervento della lettera c) del comma 1 è deciso dal Consiglio Biodiversità, come articolazione del Cerchio di Competenza Cura Animale, con il parere obbligatorio del Consiglio Agroecologico quando riguarda danni alle colture e del Consiglio Salute quando riguarda rischi sanitari. Nei santuari si applica anche l’articolo 4, comma 3.
+
+4.  Resta fermo l’articolo 8, comma 6, per il rischio grave e immediato per una persona o un animale.
+
 ## Art. 6 — Api selvatiche e impollinatori selvatici
 
 1.  Le popolazioni selvatiche di impollinatori costituiscono beni comuni ecologici tutelati dal presente Codice. Le colonie ospitate nelle arnie di custodia sono disciplinate dall’articolo 6-bis del Codice 9.
@@ -175,7 +191,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     b) prelevare miele da colonie selvatiche;
 
-    c) utilizzare pesticidi sistemici nelle fasce territoriali in cui l’uso è vietato dal Codice 10 o dalle pertinenti STV;
+    c) utilizzare pesticidi sistemici, vietati in ogni area dal Codice 9, articolo 2, comma 4, lettera b);
 
     d) svolgere attività incompatibili con la conservazione degli habitat degli impollinatori selvatici.
 
@@ -191,7 +207,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     d) le misure di prevenzione, contenimento e ripristino.
 
-6.  Il Consiglio Biodiversità esprime il parere vincolante sulla STV Impollinatori del Codice 9 per i parametri di benessere delle colonie e di tutela delle popolazioni selvatiche e della biodiversità.
+6.  Sulla STV Impollinatori del Codice 9 il Consiglio Biodiversità approva i parametri di benessere delle colonie, con l’autorizzazione dell’articolo 3, comma 5, ed esprime il parere obbligatorio sui parametri di tutela delle popolazioni selvatiche e della biodiversità; il parere negativo è vincolante nei limiti dell’articolo 3, comma 3.
 
 ## Art. 7 — Animali che collaborano, animali di assistenza e animali domestici di prossimità
 
@@ -221,7 +237,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     c) l’abbandono;
 
-    d) la cessione a titolo oneroso, salvo il rimborso documentato delle spese vive consentite;
+    d) la cessione a titolo oneroso. Tra i membri non è dovuto alcun rimborso: l’alimentazione e la cura dell’animale sono assicurate secondo i commi 4 e 11. Nei rapporti con soggetti esterni il rimborso documentato delle spese vive di cura dell’animale è ammesso soltanto tramite la Cassa comune, ai sensi dell’articolo 17 del Codice 15;
 
     e) ogni gestione incompatibile con i parametri di benessere stabiliti dalla Scheda Benessere Domestico.
 
@@ -231,9 +247,9 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 9.  L’accumulo individuale di animali è ammesso soltanto entro la capacità di cura definita dalla Scheda Benessere Domestico. La valutazione considera almeno la specie e il numero degli animali, lo spazio disponibile, le condizioni sanitarie, il tempo a disposizione e la capacità effettiva di garantire il benessere di ciascun animale. Il superamento della capacità di cura costituisce violazione ai sensi dell’articolo 10.
 
-10. La sterilizzazione è raccomandata quando appropriata, ma non è imposta in via generale. Per i profili sanitari, zoonotici o di rischio collettivo si applicano le competenze, le procedure e le garanzie del Codice 6, comprese le misure collettive ammesse dal suo articolo 2-bis, comma 3-bis. Ogni misura deve rispettare criteri di proporzionalità e temporaneità, garantire l’informazione della persona interessata ed essere soggetta a riesame e alle garanzie previste.
+10. Non costituisce manipolazione riproduttiva ai sensi degli articoli 13.2 e 13.3, lettera c), della Costituzione la prevenzione non lesiva delle nascite dell’animale domestico di prossimità, compresa la sterilizzazione, eseguita o prescritta da una competenza veterinaria quando è necessaria al benessere dell’animale o quando la cura di altri nati non potrebbe essere garantita secondo il comma 9. La decide il nucleo di convivenza con la competenza veterinaria, è registrata nella Scheda Benessere Domestico e non è imposta in via generale. Per gli animali accolti nei santuari si applica l’articolo 4-bis, comma 3. Per i profili sanitari, zoonotici o di rischio collettivo si applicano le competenze, le procedure e le garanzie del Codice 6, comprese le misure collettive ammesse dal suo articolo 2-bis, comma 3-bis. Ogni misura deve rispettare criteri di proporzionalità e temporaneità, garantire l’informazione della persona interessata ed essere soggetta a riesame e alle garanzie previste.
 
-11. L’alimentazione degli animali domestici di prossimità può essere assicurata mediante risorse compatibili con il Paniere, scarti idonei o un fondo dedicato. Tali risorse non possono compromettere il Paniere umano dei livelli 1 e 2 e sono disciplinate dalla STV Paniere del Codice 9.
+11. L’alimentazione degli animali domestici di prossimità può essere assicurata mediante risorse compatibili con il Paniere, scarti idonei o un fondo dedicato. Tali risorse non possono compromettere il Paniere umano dei livelli 1 e 2 e sono disciplinate dalla STV Paniere del Codice 9. In caso di scarsità d’acqua si applica l’articolo 10, comma 8, del Codice 9.
 
 12. L’eutanasia per mera convenienza è vietata. Essa è ammessa esclusivamente in presenza di sofferenza irreversibile attestata da due competenze L3, di cui almeno una veterinaria, nel rispetto delle competenze sanitarie del Codice 6 e della Scheda Benessere Domestico. L’intervento è documentato e tracciato; la persona di fiducia è informata, salvo impossibilità motivata o urgenza incompatibile con il previo avviso.
 
@@ -339,7 +355,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     b) la STV Biodiversità minima;
 
-    c) la STV Santuari di Accoglienza, la STV Benessere degli Animali che Collaborano congiunta con il Codice 9 e, in ogni bacino, almeno un santuario di accoglienza;
+    c) la STV Santuari di Accoglienza, la STV Benessere degli Animali che Collaborano congiunta con il Codice 9 e, in ogni Cerchio 2, i santuari di accoglienza previsti dall’articolo 4-bis, comma 5;
 
     d) la STV Benessere Domestico;
 

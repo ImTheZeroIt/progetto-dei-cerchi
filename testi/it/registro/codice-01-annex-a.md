@@ -1,12 +1,12 @@
 ---
 titolo: "C.1-ANNEX A — PRODUZIONE MATERIALE E OFFICINE"
 breve: "Annex A al Codice 1 — Produzione materiale e officine"
-versione: "V1.4"
+versione: "V1.6"
 gruppo: "allegati"
 ordine: 1.5
 id: "codice-01-annex-a"
 slug: "codice-01-annex-a"
-allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.7; Codice 16 V1.7."
 ---
 
 ## Art. 1 — Oggetto, definizioni e natura giuridica
@@ -57,19 +57,19 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 2.  **Riuso prima della produzione di nuovo.** Prima di produrre un nuovo bene, il Consiglio Produzione verifica se il fabbisogno possa essere soddisfatto mediante riuso, riparazione o adattamento. La produzione di un nuovo oggetto è ammessa quando il riuso non è possibile, non è adeguato o non garantisce la sicurezza richiesta.
 
-3.  **Priorità d’uso.** Le priorità generali sono quelle del Codice 1, articolo 32. Nell’ambito delle attività produttive, la capacità e i materiali sono ordinati come segue:
+3.  **Priorità d’uso.** Le priorità generali sono quelle del Codice 1, articolo 32. Nell’ambito delle attività produttive, la capacità e i materiali sono ordinati nei livelli seguenti:
 
-    a) beni del Paniere Materiale di livello 1 e DPI salvavita;
+    a) livello 1: beni del Paniere Materiale e DPI salvavita; i beni differibili dell’articolo 4, comma 1-bis, lettera e), seguono la lettera b);
 
-    b) manutenzione delle infrastrutture critiche per salute, rete, energia e Magazzino Salute;
+    b) livello 2: manutenzione delle infrastrutture critiche per salute, rete, energia e Magazzino Salute;
 
-    c) misure di sicurezza e strumenti necessari alla manutenzione;
+    c) livello 3: misure di sicurezza e strumenti necessari alla manutenzione;
 
-    d) beni e strumenti per il CBO della Lista A;
+    d) livello 4: beni e strumenti per il CBO della Lista A;
 
-    e) ogni altra richiesta motivata.
+    e) livello 5: ogni altra richiesta motivata.
 
-    In caso di scarsità, la riduzione delle attività produttive non essenziali procede progressivamente dal livello 5 verso i livelli prioritari. La riduzione è deliberata dall’Assemblea su proposta del Consiglio Produzione e non può compromettere le priorità superiori definite dal Codice 1.
+    In caso di scarsità, la riduzione delle attività produttive non essenziali procede progressivamente dal livello 5 verso il livello 1. La riduzione è deliberata dall’Assemblea su proposta del Consiglio Produzione e non può compromettere le priorità superiori definite dal Codice 1.
 
 4.  **Open hardware e riproducibilità.** Ogni oggetto o componente funzionalmente rilevante e standardizzato prodotto per i livelli 1–4 dispone di documentazione sufficiente a consentirne lo studio, la riparazione, la modifica e la riproduzione. La documentazione comprende, secondo necessità, STV, disegni, lista dei materiali e procedure operative. Per la minuteria non rilevante è sufficiente il riferimento a uno standard accessibile e a una procedura di sostituzione. La riproducibilità deve comunque essere garantita per i beni dei livelli 1–4.
 
@@ -153,7 +153,7 @@ e) sono differibili ai sensi dell’articolo 32, comma 1-bis, del Codice 1, salv
 
 5.  Le richieste sono evase secondo il seguente ordine, in coerenza con il Codice 1, articolo 32:
 
-    a) beni del Paniere e DPI salvavita;
+    a) beni del Paniere Materiale e DPI salvavita; i beni differibili del comma 1-bis, lettera e), seguono la lettera b);
 
     b) manutenzione delle infrastrutture critiche;
 
@@ -231,13 +231,13 @@ e) sono differibili ai sensi dell’articolo 32, comma 1-bis, del Codice 1, salv
 
     L’allestimento e l’uso rispettano le Schede Sicurezza e i requisiti del Codice 14.
 
-2.  La Confederazione assicura l’accesso effettivo di ogni Cerchio 1 a un’Officina Avanzata Federata. La pianificazione è definita per bacini territoriali e considera popolazione, distanze, territorio e capacità. Come criterio ordinario, è prevista almeno un’Officina Avanzata ogni tre o quattro Cerchi 1, salvo motivata diversa pianificazione.
+2.  La Confederazione assicura l’accesso effettivo di ogni Cerchio 1 a un’Officina Avanzata Federata. La pianificazione è definita per ciascun Cerchio 2 dalla sua Assemblea Generale, su proposta del Consiglio Produzione condiviso previsto dall’articolo 12-bis, comma 6-bis, del Codice 3, e considera popolazione, distanze, territorio e capacità. Come criterio ordinario, è prevista almeno un’Officina Avanzata ogni tre o quattro Cerchi 1 del Cerchio 2, salvo motivata diversa pianificazione.
 
-3.  L’Officina Avanzata può comprendere saldatura, forgiatura leggera, macchine utensili, elettronica e circuiti stampati, stampa 3D di grande formato, taglio laser e produzione di DPI complessi, nei limiti delle STV e delle Schede Sicurezza applicabili. L’uso delle attrezzature è riservato a persone con formazione e abilitazione richieste. L’accesso è prenotabile dai Cerchi del bacino; l’inventario e la gestione sono federati.
+3.  L’Officina Avanzata può comprendere saldatura, forgiatura leggera, macchine utensili, elettronica e circuiti stampati, stampa 3D di grande formato, taglio laser e produzione di DPI complessi, nei limiti delle STV e delle Schede Sicurezza applicabili. L’uso delle attrezzature è riservato a persone con formazione e abilitazione richieste. L’accesso è prenotabile dai Cerchi 1 del Cerchio 2; l’inventario e la gestione sono federati.
 
 4.  Le Micro-postazioni Diffuse comprendono, a titolo esemplificativo, armadi comuni di attrezzi, biblioteche di utensili, stampanti 3D di piccole dimensioni, postazioni di cucito e centri di smontaggio e riuso. Sono registrate presso il Consiglio Produzione e operano secondo STV e Schede Sicurezza adeguate alla loro attività.
 
-5.  La raccolta di dati è ammessa esclusivamente per la sicurezza, il bilancio materiale, la manutenzione e la verifica del Paniere. I dati sono aggregati per officina o per bacino. È vietata la profilazione individuale comportamentale. Tempi di conservazione e accessi sono minimizzati e definiti nelle STV, in conformità al Codice 7, articolo 2.2.
+5.  La raccolta di dati è ammessa esclusivamente per la sicurezza, il bilancio materiale, la manutenzione e la verifica del Paniere. I dati sono aggregati per officina, per Cerchio 1 o per Cerchio 2. È vietata la profilazione individuale comportamentale. Tempi di conservazione e accessi sono minimizzati e definiti nelle STV, in conformità al Codice 7, articolo 2.2.
 
 6.  Le scorte di materiali sono dimensionate in relazione al Paniere e alle esigenze dei livelli 1–3 e non possono essere costituite a fini speculativi. Nessun Cerchio può essere organizzato in modo da dipendere strutturalmente da un singolo altro Cerchio per il Paniere Materiale.
 
@@ -327,7 +327,7 @@ e) sono differibili ai sensi dell’articolo 32, comma 1-bis, del Codice 1, salv
 
     c) garantisce il Paniere Materiale minimo, anche mediante riuso, purché sicuro e conforme.
 
-3.  Entro dodici mesi dall’entrata in vigore, ogni cluster produttivo attiva un’Officina Avanzata minima, un inventario federato e un nodo della Rete delle officine, in coordinamento con la transizione prevista dal Codice 8. Per sovrapposizioni documentate dei carichi transitori dei Codici 8 e 9, l’Assemblea può concedere una proroga motivata non superiore a sei mesi, con piano vincolante e garanzia della continuità del Paniere.
+3.  Entro dodici mesi dall’entrata in vigore, in ogni Cerchio 2 il Consiglio Produzione condiviso previsto dall’articolo 12-bis, comma 6-bis, del Codice 3 attiva almeno un’Officina Avanzata minima secondo l’articolo 6, comma 2, un inventario federato e un nodo della Rete delle officine, in coordinamento con la transizione prevista dal Codice 8. Se il Cerchio 2 si costituisce dopo l’entrata in vigore, il termine decorre dalla sua costituzione. Per sovrapposizioni documentate dei carichi transitori dei Codici 8 e 9, l’Assemblea Generale del Cerchio 2 può concedere una proroga motivata non superiore a sei mesi, con piano vincolante e garanzia della continuità del Paniere.
 
 4.  Entro ventiquattro mesi dall’entrata in vigore è adottato un piano di uscita per le dipendenze materiali critiche relative al Paniere e ai DPI, con un termine finale certo per ciascuna dipendenza.
 

@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 3 — DELLA DELIBERAZIONE, DELLE SOGLIE E DELL’ASSEMBLEA"
 breve: "Codice 3 — Deliberazione, soglie e Assemblea"
-versione: "V1.5"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
 slug: "codice-03"
-allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.7; Codice 16 V1.7."
 ---
 
 ## CAPO I — PRINCIPI DELIBERATIVI
@@ -93,7 +93,7 @@ La decisione operativa spetta al Cerchio di Competenza pertinente, entro i limit
 
 Il livello deliberativo è determinato secondo la matrice dell’articolo 7, sulla base del valore dell’operazione in UCR e della classe di rischio.
 
-a) Le decisioni allocative a basso rischio e sotto soglia sono adottate dal Consiglio Qualità insieme al Cerchio di Competenza pertinente, secondo le procedure del Codice 2.
+a) Le decisioni allocative a basso rischio e sotto soglia sono adottate dall’organo indicato dalla matrice dell’articolo 7: il Cerchio di Competenza pertinente per quelle di valore basso e il Consiglio Qualità insieme al Cerchio di Competenza per quelle di valore medio, secondo le procedure del Codice 2.
 
 b) Le decisioni allocative a rischio medio o alto seguono la procedura rafforzata, speciale o assembleare prevista dall’articolo 7 e dagli articoli 7-bis, 7-ter e 7-quater.
 
@@ -249,7 +249,7 @@ b) Le decisioni allocative a rischio medio o alto seguono la procedura rafforzat
 ### Art. 7-ter — Procedura rafforzata
 
 1.  La procedura rafforzata si applica alle operazioni di valore medio in UCR e rischio medio.
-2.  L’istruttoria è svolta congiuntamente dal Consiglio Qualità e dal Cerchio di Competenza pertinente. È acquisito il parere vincolante del Consiglio Salute o del Consiglio Rete quando l’oggetto dell’operazione rientra nelle rispettive competenze.
+2.  L’istruttoria è svolta congiuntamente dal Consiglio Qualità e dal Cerchio di Competenza pertinente. È acquisito il parere dei Consigli dell’articolo 8, comma 1, quando l’oggetto dell’operazione rientra nelle rispettive competenze; il parere negativo produce gli effetti dell’articolo 8.
 3.  La decisione è accompagnata dalla Relazione Allocativa prevista dall’articolo 10.
 4.  L’operazione è sottoposta ad audit entro dodici mesi dall’avvio e successivamente secondo il livello di rischio e le condizioni stabilite nella decisione.
 
@@ -259,7 +259,7 @@ b) Le decisioni allocative a rischio medio o alto seguono la procedura rafforzat
 
 2.  La decisione spetta all’Assemblea del Cerchio 1 ed è subordinata:
 
-    a) ai pareri vincolanti dei Consigli Salute e Rete, quando pertinenti;
+    a) ai pareri dei Consigli dell’articolo 8, comma 1, quando pertinenti, con gli effetti dell’articolo 8;
 
     b) al parere del Cerchio di Garanzia sui profili procedurali;
 
@@ -277,9 +277,19 @@ b) Le decisioni allocative a rischio medio o alto seguono la procedura rafforzat
 
 ### Art. 8 — Parere vincolante negativo
 
-1.  Il parere vincolante negativo del Consiglio Salute o del Consiglio Rete impedisce l’adozione della decisione finché non sia rimossa la causa che ha determinato il parere, limitatamente alle materie attribuite al Cerchio che lo ha emesso.
+1.  Esprimono pareri vincolanti negativi, ai sensi dell’articolo 6.6 della Costituzione, soltanto:
 
-2.  Il parere vincolante negativo non può essere superato mediante voto assembleare, neppure a maggioranza qualificata.
+    a) il Consiglio Salute, a tutela della salute;
+
+    b) il Consiglio Rete, a tutela dell’infrastruttura digitale e della sovranità dei dati;
+
+    c) il Consiglio Sicurezza, per i parametri di sicurezza generale, nei limiti dell’articolo 3, comma 6, del Codice 14;
+
+    d) il Consiglio Agroecologico e il Consiglio Biodiversità, a tutela dei limiti ecologici, nei soli casi dell’articolo 4, comma 4, lettera d), del Codice 10 e dell’articolo 3, comma 3, del Codice 13.
+
+Il parere vincolante negativo impedisce l’adozione della decisione finché non sia rimossa la causa che ha determinato il parere, limitatamente alle materie attribuite al Consiglio che lo ha emesso. L’autorizzazione del Consiglio Biodiversità prevista dall’articolo 13.3 della Costituzione non è un parere e segue l’articolo 3, comma 5, del Codice 13.
+
+2.  Il parere vincolante negativo non può essere superato mediante voto assembleare, neppure a maggioranza qualificata, né mediante la revoca o la sostituzione dei componenti del Consiglio che lo ha emesso. Il parere resta efficace anche dopo la sostituzione dei componenti; il Consiglio nella nuova composizione lo riesamina soltanto sulla proposta ripresentata ai sensi del comma 3.
 
 3.  Il proponente può modificare la proposta e ripresentarla, allegando le evidenze che dimostrano la rimozione della causa del parere negativo.
 
@@ -395,7 +405,7 @@ b) Le decisioni allocative a rischio medio o alto seguono la procedura rafforzat
 
 1.  L’Assemblea del Cerchio 1 è composta da tutte le persone che appartengono alla Comunità di Base e hanno diritto di voto ai sensi dell’articolo 36.1 della Costituzione. Ogni persona vota individualmente. Sono vietati la delega, l’acquisto e lo scambio del voto. I portavoce dei Cerchi 0 svolgono soltanto funzioni di comunicazione e coordinamento pratico e non dispongono del voto altrui.
 
-2.  La partecipazione avviene in presenza o tramite la Rete federata, secondo l’articolo 34.4 della Costituzione. Il voto individuale è anonimo. Le obiezioni motivate sono presentate in forma tracciata, per consentirne l’esame e la risposta.
+2.  La partecipazione avviene in presenza o tramite la Rete federata, secondo l’articolo 34.4 della Costituzione e l’articolo 7-bis del Codice 7. Il voto individuale è anonimo. Le obiezioni motivate dell’articolo 4 sono presentate in forma tracciata, per consentirne l’esame e la risposta; le firme dell’Obiezione dell’articolo 13-bis seguono il comma 1 di tale articolo.
 
 3.  Ai fini del presente Codice:
 
@@ -419,7 +429,7 @@ b) Le decisioni allocative a rischio medio o alto seguono la procedura rafforzat
 
 1.  I Consigli previsti dai Codici sono le articolazioni locali dei Cerchi di Competenza, ai sensi dell’articolo 6.5 della Costituzione. Nei Codici le espressioni «Cerchio di Competenza pertinente» e «Consiglio competente» indicano, in ciascun Cerchio 1, il medesimo organo tecnico.
 
-2.  Sono Consigli tecnici: il Consiglio di Magazzino (Codice 1), il Consiglio Qualità (Codice 2), il Consiglio Contabilità (presente Codice), il Consiglio delle Competenze (Codice 5), il Consiglio Salute (Codice 6), il Consiglio Rete (Codice 7), il Consiglio Energia e Acqua (Codice 8), il Consiglio Produzione (C.1-Annex A), il Consiglio Agroecologico (Codice 9), il Consiglio Habitat e Territorio (Codice 10), il Consiglio Logistica (Codice 11), il Consiglio Cura (Codice 12), il Consiglio Biodiversità (Codice 13) e il Consiglio Sicurezza (Codice 14). Il Cerchio di Garanzia è disciplinato dal Codice 4 e il Consiglio Transizione dal Codice 16.
+2.  Sono Consigli tecnici: il Consiglio di Magazzino (Codice 1), il Consiglio Qualità (Codice 2), il Consiglio Contabilità (presente Codice), il Consiglio delle Competenze (Codice 5), il Consiglio Salute (Codice 6), il Consiglio Rete (Codice 7), il Consiglio Energia e Acqua (Codice 8), il Consiglio Produzione (C.1-Annex A), il Consiglio Agroecologico (Codice 9), il Consiglio Habitat e Territorio (Codice 10), il Consiglio Logistica (Codice 11), il Consiglio Cura (Codice 12), il Consiglio Biodiversità (Codice 13) e il Consiglio Sicurezza (Codice 14). Il Cerchio di Garanzia è disciplinato dal Codice 4 e il Consiglio Transizione dal Codice 16. I Consigli di Magazzino dei Cerchi 2 e 3 sono disciplinati dall’articolo 9-bis del Codice 15.
 
 3.  Ogni Consiglio è composto dal numero di persone stabilito dal Codice che lo disciplina o, in mancanza, da tre a cinque persone, con le competenze validate richieste secondo il Codice 5.
 
@@ -431,17 +441,29 @@ b) Le decisioni allocative a rischio medio o alto seguono la procedura rafforzat
 
     a) accorpare più Consigli affini in un unico Consiglio, ferma la separazione tra chi istruisce, chi decide e chi controlla;
 
-    b) costituire il Consiglio in forma condivisa con altre Comunità del medesimo Cerchio 2;
+    b) costituire il Consiglio in forma condivisa con altre Comunità del medesimo Cerchio 2, composto secondo il comma 6-bis, lettera a);
 
     c) avvalersi temporaneamente, per i soli atti tecnici e pareri, del Consiglio di un’altra Comunità.
+
+6-bis. **Consigli condivisi dei Cerchi 2 e 3.** Quando i Codici attribuiscono a un Consiglio funzioni del Cerchio 2 o del Cerchio 3, esse sono esercitate da un Consiglio condiviso del Cerchio, alle condizioni seguenti, salvo i Consigli di Magazzino dei Cerchi 2 e 3, disciplinati dall’articolo 9-bis del Codice 15:
+
+a) il Consiglio condiviso è composto dal numero di persone previsto dal comma 3, sorteggiate ai sensi del comma 4 tra i componenti dei Consigli omologhi delle Comunità di Base del Cerchio e, se non sono sufficienti, tra le altre persone di quelle Comunità che possiedono la competenza richiesta. Non più di due componenti provengono dalla stessa Comunità di Base. Si applicano i commi 5, 8 e 11 e l’articolo 16; l’incarico nel Consiglio condiviso conta come appartenenza a un Consiglio ai fini del comma 8;
+
+b) il Consiglio condiviso adotta gli atti tecnici vincolati del comma 9 e cura l’istruttoria e le proposte per l’Assemblea Generale. Quando un rischio grave e immediato per le persone, per il Paniere o per la continuità di un servizio essenziale non consente di attendere l’Assemblea Generale, può adottare le decisioni urgenti strettamente necessarie, motivate e pubblicate senza ritardo. La decisione urgente cessa di avere effetto se non è ratificata dall’Assemblea Generale entro trenta giorni; a tal fine l’Assemblea può essere convocata con il preavviso ridotto dell’articolo 14, comma 9;
+
+c) le decisioni discrezionali, comprese quelle che ripartiscono beni o servizi tra le Comunità secondo criteri non già fissati e quelle che sospendono, sostituiscono o disattivano un sistema o un’infrastruttura del Cerchio, spettano all’Assemblea Generale ai sensi dell’articolo 14 e dell’articolo 35.2 della Costituzione;
+
+d) il Consiglio condiviso non esercita poteri di comando sulle Comunità di Base né sui loro Consigli e non dispone di poteri disciplinari. Non costituisce un potere permanente: ogni componente resta in carica per il solo mandato del comma 5 e l’Assemblea della Comunità di provenienza può revocarlo in qualsiasi momento con decisione motivata; il posto è coperto con un nuovo sorteggio;
+
+e) gli atti del Consiglio condiviso sono pubblicati secondo l’articolo 15 e sono impugnabili secondo l’articolo 17.
 
 7.  Il Consiglio Contabilità non può essere accorpato al Consiglio di Magazzino né al Consiglio Qualità. Il Cerchio di Garanzia non può essere accorpato ad alcun Consiglio.
 
 8.  Nessuno può far parte contemporaneamente di più di due Consigli, né di un Consiglio e del Cerchio di Garanzia. Nello stesso Consiglio non possono operare più di due persone appartenenti allo stesso Cerchio 0.
 
-9.  I Consigli non esercitano poteri di comando, non dispongono di poteri disciplinari e non decidono in luogo dell’Assemblea. Adottano atti tecnici vincolati in esecuzione di decisioni, STV, SVS e Schede già approvate; formulano proposte e decisioni discrezionali secondo il metodo del consenso dell’articolo 4, previa pubblicazione per almeno settantadue ore; esprimono pareri vincolanti negativi nei soli casi dell’articolo 8.
+9.  I Consigli non esercitano poteri di comando, non dispongono di poteri disciplinari e non decidono in luogo dell’Assemblea. Adottano atti tecnici vincolati in esecuzione di decisioni, STV, SVS e Schede già approvate; formulano proposte e decisioni discrezionali secondo il metodo del consenso dell’articolo 4, previa pubblicazione per almeno settantadue ore; esprimono pareri vincolanti negativi nei soli casi dell’articolo 8. Il Consiglio Biodiversità rilascia inoltre le autorizzazioni dell’articolo 13.3 della Costituzione, secondo l’articolo 3, comma 5, del Codice 13.
 
-10. L’Assemblea può revocare in qualsiasi momento uno o più componenti con decisione motivata. Si applica l’articolo 16 sul conflitto di interessi.
+10. L’Assemblea può revocare in qualsiasi momento uno o più componenti con decisione motivata. La revoca non fa venire meno i pareri già resi, ai sensi dell’articolo 8, comma 2. Si applica l’articolo 16 sul conflitto di interessi.
 
 11. Il tempo dedicato alle funzioni di Consiglio, di garanzia e di facilitazione e alla documentazione obbligatoria è computato nel CBO ai sensi dell’articolo 7.2 della Costituzione e del Codice 1. L’incarico non dà diritto a CdR, privilegi o accesso preferenziale ai beni comuni.
 
@@ -489,12 +511,12 @@ b) Le decisioni allocative a rischio medio o alto seguono la procedura rafforzat
 
 ### Art. 13-bis — Obiezione di Coscienza o di Sostenibilità Ecologica
 
-1.  Una minoranza pari ad almeno il dieci per cento dei votanti può sollevare, entro settantadue ore dalla proclamazione dell’esito, un’Obiezione di Coscienza o di Sostenibilità Ecologica ai sensi dell’articolo 34.2 della Costituzione, indicando la parte contestata e le ragioni.
+1.  Una minoranza pari ad almeno il dieci per cento dei votanti può sollevare, entro settantadue ore dalla proclamazione dell’esito, un’Obiezione di Coscienza o di Sostenibilità Ecologica ai sensi dell’articolo 34.2 della Costituzione, indicando la parte contestata e le ragioni. Può firmare l’Obiezione ogni persona che ha diritto di voto nell’Assemblea che ha deliberato, anche se non ha votato; il numero delle firme richieste è calcolato sul numero dei votanti. Le firme sono raccolte secondo l’articolo 7-bis del Codice 7: il registro degli aventi diritto verifica soltanto che ogni firmatario abbia diritto di voto e firmi una sola volta, e all’Assemblea sono comunicati soltanto il testo dell’Obiezione e il numero delle firme valide, senza i nomi dei firmatari.
 2.  L’obiezione non costituisce veto. Sospende l’efficacia della sola parte contestata, salvo che la sospensione comprometta un servizio essenziale o determini un rischio grave e immediato; in tal caso è attuato il Piano di Continuità applicabile.
 3.  Entro quattordici giorni il proponente e l’organo competente pubblicano una risposta motivata e, se del caso, una proposta modificata. Per i profili ecologici l’istruttoria è integrata dal Consiglio competente.
-4.  L’Assemblea riesamina la parte contestata. La conferma senza modifiche richiede la maggioranza dei due terzi dei partecipanti attivi e una motivazione che dia conto delle ragioni dell’obiezione.
+4.  L’Assemblea riesamina la parte contestata. La conferma senza modifiche richiede la maggioranza dei due terzi dei partecipanti attivi e una motivazione che dia conto delle ragioni dell’obiezione. Contro la conferma non può essere sollevata una nuova Obiezione sulla stessa parte.
 5.  Non possono essere confermate decisioni in contrasto con una norma imperativa, con un parere vincolante negativo o con i limiti biofisici di cui all’articolo 14.6 della Costituzione.
-6.  Chi ha sollevato un’obiezione di coscienza non può essere obbligato a eseguire personalmente la parte contestata. Si applica l’articolo 7.4 della Costituzione.
+6.  Chi ha sollevato un’obiezione di coscienza non può essere obbligato a eseguire personalmente la parte contestata. Si applica l’articolo 7.4 della Costituzione. Poiché le firme sono anonime, la persona fa valere questo diritto dichiarandolo all’organo che organizza l’esecuzione, senza dover provare di aver firmato.
 
 ### Art. 14 — Assemblea Generale
 
@@ -535,6 +557,18 @@ b) Le decisioni allocative a rischio medio o alto seguono la procedura rafforzat
 11. Le iniziative con impatto sistemico globale seguono l’articolo 35.3 della Costituzione.
 
 12. Le regole di decisione, verbalizzazione e trasparenza si applicano secondo la Costituzione e le disposizioni pertinenti del presente Codice.
+
+### Art. 14-bis — Costituzione del Cerchio Esteso
+
+1.  Il Cerchio Esteso previsto dall’articolo 5.1, lettera d), della Costituzione riunisce almeno tre Cerchi 2 contigui ed ecologicamente connessi che hanno concluso la transizione ai sensi del Codice 16.
+
+2.  La Federazione minima è costituita in Cerchio Esteso con la deliberazione di chiusura della sua transizione, ai sensi dell’articolo 10 del Codice 16. Da quel giorno le funzioni del Cerchio 3 sono esercitate dal Cerchio Esteso.
+
+3.  Tre o più Cerchi 2 che non fanno parte di un Cerchio Esteso possono costituirne uno con deliberazione dell’Assemblea Generale delle loro Comunità di Base, adottata con la maggioranza qualificata dell’articolo 14, comma 8, e con Dossier che documenta i requisiti del comma 1. Un Cerchio 2 che non vota a favore non ne fa parte.
+
+4.  Un Cerchio 2 che ha concluso la transizione entra in un Cerchio Esteso contiguo con deliberazione della propria Assemblea Generale. Il Cerchio Esteso verifica soltanto i protocolli di interoperabilità tecnologica e logistica, ai sensi dell’articolo 4.5 della Costituzione e dell’articolo 21, comma 2, del Codice 15.
+
+5.  Ai fini degli articoli 37 e 38 della Costituzione, un Cerchio Esteso esiste dalla data della deliberazione del comma 2 o del comma 3, iscritta nel Registro delle Decisioni Assembleari. Il Cerchio Esteso delibera tramite l’Assemblea Generale e opera tramite i Consigli condivisi dell’articolo 12-bis, comma 6-bis; non ha altri organi.
 
 ### Art. 15 — Trasparenza differenziata
 
@@ -578,7 +612,10 @@ b) Le decisioni allocative a rischio medio o alto seguono la procedura rafforzat
 
 ### Art. 17 — Ricorso e continuità del servizio
 
-1.  È ammesso ricorso al Cerchio di Garanzia entro quattordici giorni dalla comunicazione della decisione.
+1.  È ammesso ricorso al Cerchio di Garanzia entro quattordici giorni dalla comunicazione della decisione. Se il Cerchio di Garanzia ha reso sulla decisione impugnata un parere o un’autorizzazione, come il parere dell’articolo 7-quater, comma 2, lettera b), il ricorso è deciso da componenti sostituti sorteggiati ai sensi dell’articolo 15, comma 3, del Codice 4.
+
+1-bis. Il ricorso contro le decisioni dell’Assemblea Generale e degli organi dei Cerchi 2 e 3, compresi i Consigli condivisi dell’articolo 12-bis, comma 6-bis, è deciso da tre componenti sorteggiati tra i componenti dei Cerchi di Garanzia delle Comunità di Base interessate, appartenenti a Comunità diverse. Il sorteggio è pubblico e tracciato ai sensi dell’articolo 15; si applicano gli articoli 15 e 37, comma 5, del Codice 4. La decisione vale per tutte le Comunità interessate.
+
 2.  Il ricorso non sospende automaticamente la decisione. Il Cerchio di Garanzia può disporre la sospensione cautelare quando accerti un rischio grave, un pregiudizio irreversibile o una violazione procedurale che possa incidere sull’esito.
 3.  Se la decisione riguarda un servizio critico, tra cui connettività, servizi digitali, manutenzione infrastrutturale o servizi sanitari specialistici, durante il ricorso è attuato il Piano di Continuità applicabile.
 4.  La sospensione è vietata quando provocherebbe un danno maggiore del vizio contestato, salvo che la prosecuzione comporti un rischio grave e immediato non altrimenti contenibile.

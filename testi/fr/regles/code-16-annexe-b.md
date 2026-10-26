@@ -1,7 +1,7 @@
 ---
 titolo: "ANNEXE TECHNIQUE B AU CODE 16 — MANUEL OPÉRATIONNEL DE DÉSENGAGEMENT ET DE FÉDÉRATION"
 breve: "Annexe B au Code 16 — Manuel opérationnel de désengagement et de fédération"
-versione: "V1.5"
+versione: "V1.6"
 gruppo: "allegati"
 ordine: 16.2
 id: "codice-16-allegato-b"
@@ -149,7 +149,7 @@ Annexe technique adoptée en application de l’article 19 du Code 3. La présen
 
 6.  Les obligations fiscales sont intégralement remplies. Les éventuels dons ou affectations de parts déductibles à des organismes du tiers secteur ou à des biens communs sont volontaires et sont effectués par l’intermédiaire de professionnels compétents conformément au Code 15 et aux normes applicables.
 
-7.  Pendant le module sont activés, conformément au Code 16 et aux Codes sectoriels :
+7.  Pendant le module sont activés, chacun dans la phase où l’article 3 du Code 16 le prévoit et conformément aux Codes sectoriels :
 
     a) le Cadastre de la biodiversité minimal provisoire ;
 
@@ -165,7 +165,7 @@ Annexe technique adoptée en application de l’article 19 du Code 3. La présen
 
 **Durée opérationnelle minimale indicative :** de trois cent soixante-cinq à sept cent trente jours, subordonnée aux phases institutionnelles du Code 16.
 
-1.  Le parcours de fédération requiert :
+1.  Le parcours de fédération requiert, chacun dans la phase où l’article 3 du Code 16 le prévoit :
 
     a) l’agrégation d’au moins trois Bassins ;
 
@@ -223,7 +223,7 @@ Annexe technique adoptée en application de l’article 19 du Code 3. La présen
 
 3.  Le redémarrage requiert la certification de la levée de la cause par les organes compétents :
 
-    a) pour la condition visée à l’alinéa 1, lettre b), le Conseil de référence pour le soin ;
+    a) pour la condition visée à l’alinéa 1, lettre b), le Conseil de référence pour le soin, avec la nouvelle vérification prévue à l’article 4, alinéa 6, lettre c), de l’Annexe A, selon la procédure de cet alinéa, qui est la seule applicable à cette condition ;
 
     b) pour la condition visée à l’alinéa 1, lettre c), le Conseil Sécurité ;
 
@@ -233,6 +233,6 @@ Annexe technique adoptée en application de l’article 19 du Code 3. La présen
 
 4.  Lors du redémarrage, les conditions de la Phase 0 pertinentes au regard de la cause de la suspension sont vérifiées de nouveau. Les résultats antérieurs qui ne sont pas affectés par la cause restent valables.
 
-5.  Le redémarrage est délibéré par l’Assemblée générale, après avis obligatoire des Conseils compétents, et publié conformément à l’article 15 du Code 3.
+5.  Le redémarrage est délibéré par l’Assemblée générale, après avis obligatoire des Conseils compétents, et publié conformément à l’article 15 du Code 3. Lorsque la suspension pour la condition de l’alinéa 1, lettre b), ne concerne que la proposition de passage de phase, la proposition reprend avec le résultat positif de la nouvelle vérification de l’alinéa 3, lettre a), sans délibération distincte de redémarrage.
 
-6.  La suspension ne constitue pas un échec : elle atteste uniquement que le seuil pertinent prévu à l’article 4 du Code 16 n’a temporairement pas été franchi.
+6.  La suspension ne constitue pas un échec. Dans les cas de l’alinéa 1, lettres a), b) et c), elle atteste uniquement que le seuil pertinent prévu à l’article 4 du Code 16 n’a temporairement pas été franchi. Dans le cas de l’alinéa 1, lettre d), elle ne concerne que les initiatives de la présente Annexe, pour lesquelles fait défaut la condition de l’article 2, alinéa 1, lettre b), et n’a pas d’incidence sur les seuils de l’article 4 du Code 16.

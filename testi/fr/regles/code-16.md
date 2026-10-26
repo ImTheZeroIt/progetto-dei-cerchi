@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 16 — TRANSITION ET LANCEMENT DE LA CONFÉDÉRATION"
 breve: "Code 16 — Transition et lancement"
-versione: "V1.4"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 16
 id: "codice-16"
 slug: "code-16"
-allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4."
+allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 15 V1.7."
 ---
 
 ## Art. 1 — Objet, définitions et nature temporaire
@@ -15,7 +15,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 2.  Aux fins du présent Code, on entend par :
 
-    a) **transition** : la période comprise entre l’institution du premier Cercle pilote et la déclaration de clôture prévue à l’article 10 ;
+    a) **transition** : pour chaque Cercle pilote, la période comprise entre son institution et la déclaration de clôture prévue à l’article 10 pour la Fédération minimale dont il fait partie ;
 
     b) **phase** : la période transitoire au cours de laquelle sont activés des objectifs, des Codes et des procédures spécifiques, avec les seuils de sortie correspondants ;
 
@@ -25,25 +25,35 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     e) **Fédération minimale** : un regroupement d’au moins trois Bassins ;
 
-    f) **Panier 1-2** : les biens et les services du Panier de suffisance régi par le Code 1 qui relèvent des niveaux 1 et 2 de la hiérarchie visée à l’article 32 de ce même Code, selon la spécification des Codes sectoriels ;
+    f) **Panier 1-2** : les biens et les services du Panier de suffisance indiqués par l’article 32, alinéa 1-quinquies, du Code 1 ;
 
     g) **point de non-retour** : la délibération qui rend irréversible l’affectation de biens communs écologiques ou territoriaux ;
 
     h) **Protocole de démarrage social** : l’Annexe technique A au présent Code, adoptée conformément à l’article 19 du Code 3, qui définit une méthodologie de vérification des seuils sociaux institutionnels sans introduire d’obligations ni de sanctions individuelles autonomes ;
 
-    i) **niveaux de risque R0-R4** : les niveaux définis par le Code 14. Jusqu’à l’activation de ce Code, la classification provisoire est effectuée par le Conseil Santé conformément au Code 6, article 4 ;
+    i) **niveaux de risque R0-R4** : les niveaux définis par l’article 1, alinéa 3, du Code 14. Jusqu’à l’activation de ce Code, les mêmes niveaux sont attribués à titre provisoire par le Conseil Santé dans les Fiches de sécurité prévues à l’article 4 du Code 6 ;
 
     j) **Charte opérationnelle de la première année** : l’Annexe technique C au présent Code, adoptée conformément à l’article 19 du Code 3, qui réunit les règles minimales nécessaires au lancement d’un Cercle pilote sans introduire d’obligations autonomes.
 
-3.  Le présent Code a une nature temporaire et cesse de produire des effets normatifs avec la déclaration de clôture visée à l’article 10, sans préjudice des dispositions de mémoire qui y sont prévues. Il ne peut pas instituer de droits, d’obligations ou de compétences permanents au-delà de la période de transition, ni modifier le contenu substantiel des Codes 1–15. Ses dispositions ne constituent pas une modification des Codes au sens des articles 37 et 38 de la Constitution. En cas de contradiction, la Constitution prévaut.
+3.  Le présent Code a une nature temporaire et cesse de produire des effets normatifs, pour chaque Fédération minimale, avec la déclaration de clôture visée à l’article 10, sans préjudice des dispositions de mémoire qui y sont prévues. Il continue de s’appliquer aux Cercles pilotes, aux Bassins et aux Fédérations minimales qui n’ont pas clos la transition, y compris ceux qui se constituent ou adhèrent ultérieurement, en application de l’article 21 du Code 15 ; à la Communauté associée de l’article 21-bis du Code 15, il s’applique dans les limites de l’article 3, alinéa 7, lettre f). Il ne peut pas instituer de droits, d’obligations ou de compétences permanents au-delà de la période de transition, ni modifier le contenu substantiel des Codes 1–15. Ses dispositions ne constituent pas une modification des Codes au sens des articles 37 et 38 de la Constitution. En cas de contradiction, la Constitution prévaut.
 
 4.  La qualification transitoire d’un bien, d’une fonction ou d’une compétence n’en détermine pas le régime permanent.
 
-5.  Pendant la transition, les renvois des Codes au Cercle 1 s’entendent comme faits au Cercle pilote et ceux au Cercle 2 comme faits au Bassin. Jusqu’à la constitution d’un Cercle étendu, les fonctions du Cercle 3 sont exercées par la Fédération minimale.
+5.  Pendant la transition, les renvois des Codes au Cercle 1 s’entendent comme faits au Cercle pilote et ceux au Cercle 2 comme faits au Bassin. La Fédération minimale exerce les fonctions du Cercle 3 jusqu’à ce qu’elle soit constituée en Cercle étendu en application de l’article 14-bis du Code 3. Jusqu’à la constitution de la Fédération minimale, la déclaration du Cercle 3 concerné prévue par l’article 36.2 de la Constitution est adoptée par l’Assemblée générale du Bassin touché, dans les limites de l’article 36.4 de la Constitution.
 
 6.  Pendant la transition, le Solde prévu par le Code 15 opère à l’échelle du Bassin et de la Fédération minimale. L’activation de la phase confédérale opérationnelle n’implique pas que la Confédération englobe l’humanité entière.
 
-7.  Pendant la transition, la révision de la Constitution et des Codes suit le régime de fondation de l’article 38 de la Constitution.
+7.  La révision de la Constitution et des Codes suit le régime de fondation aux conditions de l’article 38.2 de la Constitution, c’est-à-dire tant qu’il n’existe pas au moins trois Cercles étendus, même lorsqu’une partie de la Confédération est encore en transition.
+
+8.  Les Annexes techniques A, B et C au présent Code sont adoptées et modifiées selon l’article 19 du Code 3, avec les règles suivantes :
+
+    a) chaque Annexe, ou sa partie qui s’applique à une phase, est adoptée par l’Assemblée de l’unité qui se trouve dans cette phase au sens de l’article 3, alinéa 7 : l’Assemblée du Cercle pilote pour la Phase 0, l’Assemblée générale du Bassin pour la Phase 1 et celle de la Fédération minimale pour les Phases 2 et 3, en application des articles 12 et 14 du Code 3 ;
+
+    b) la modification délibérée par une unité vaut pour elle et pour les unités qui la rejoignent, en application de l’article 3, alinéa 7, lettre c) ; elle est publiée dans l’Entrepôt du savoir fédéré, afin que les autres unités puissent l’adopter ;
+
+    c) aucune Annexe ni aucune de ses modifications ne peut altérer les phases, les seuils, les compétences ou les garanties du présent Code et des Codes 1–15, en application de l’article 19, alinéa 5, du Code 3.
+
+9.  Jusqu’à l’activation d’un Code en application de l’article 3, les renvois qui y sont faits par le présent Code et par ses Annexes s’appliquent dans la mesure où ils sont applicables avec les organes et les procédures déjà actifs. Les avis des Conseils non encore institués suivent l’article 8, alinéas 2 et 3. Demeurent toujours applicables les interdictions et les garanties qui mettent directement en œuvre la Constitution.
 
 ## Art. 2 — Principes de la transition
 
@@ -55,6 +65,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 6.  **Non-marchandisation.** Il est interdit de constituer des rentes sur le lancement de la Confédération, sur les biens communs apportés pendant la transition ou sur les compétences vitales.
 7.  **Légalité et coexistence.** Pendant la transition, les Cercles agissent dans le respect de l’ordre juridique en vigueur sur le territoire, en application de l’article 38.6 de la Constitution. L’article 37 du Code 4 et le Chapitre IV du Code 15 s’appliquent.
 8.  **Caractère volontaire.** L’adhésion est individuelle et volontaire. Nul ne peut être incité à cesser des activités extérieures, à apporter des biens ou à renoncer à des droits reconnus par l’ordre juridique en vigueur. La contribution proportionnelle sur les revenus extérieurs prévue par l’article 19-bis du Code 15, communiquée avant l’adhésion, demeure applicable.
+9.  **Revenus extérieurs mis en commun.** Pendant la transition, dans le respect de l’ordre juridique en vigueur en application de l’article 38.6 de la Constitution, les membres d’une Communauté associée en application de l’article 21-bis du Code 15 peuvent mettre en commun volontairement les revenus et les patrimoines qu’ils détiennent hors de la Confédération en application de l’article 3.5-ter de la Constitution et les redistribuer entre eux pour les dépenses extérieures personnelles. Le fonds ainsi constitué est formé de revenus et de patrimoines personnels extérieurs : il est distinct de la Caisse commune du Cercle prévue par l’article 3.5-bis de la Constitution et par l’article 17 du Code 15 et n’en fait pas partie. Il ne donne pas accès aux Entrepôts, au CdR, aux Biens communs ou aux décisions ; il n’est pas réparti en proportion du travail ni comme sa rémunération et ne peut pas être employé pour acheter du travail ou du consentement, en application de l’article 19-bis, alinéa 2, du Code 15. Chaque membre peut s’en retirer à tout moment. La contribution proportionnelle aux dépenses extérieures communes de l’article 3.5-ter de la Constitution et de l’article 19-bis du Code 15 demeure. La faculté cesse lorsque cessent les moyens de paiement extérieurs, en application de l’article 19-bis, alinéa 8, du Code 15.
 
 ## Art. 3 — Phases de la transition
 
@@ -62,7 +73,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     a) au moins un Cercle pilote est constitué avec au moins trente personnes adhérentes ;
 
-    b) les Codes 1, 2, 3, 4, 5, le Code 6 dans sa version de base et le Chapitre IV du Code 15 sont activés ;
+    b) les Codes 1, 2, 3, 4, 5 et 6 et le Chapitre IV du Code 15 sont activés ;
 
     c) un recensement initial, agrégé et sans profilage, est réalisé du sol disponible, des compétences L1 et L2, des machines et équipements et des besoins du Panier 1-2 ;
 
@@ -88,7 +99,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     f) les Conseils Réseau, Énergie et Eau, agroécologique, Habitat et Territoire et Production sont activés ;
 
-    g) le Solde prévu par le Code 15 est activé à l’échelle du Bassin.
+    g) le Solde prévu par le Code 15 est activé à l’échelle du Bassin et le Conseil des Entrepôts du Bassin prévu par l’article 9-bis du Code 15 est institué.
 
 3.  **Phase 2 — Fédération minimale.** La durée indicative est de dix-huit à trente-six mois. Au cours de cette phase :
 
@@ -96,7 +107,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     b) les Codes 11, 12, 13 et 14 sont activés, en plus des Codes déjà activés ;
 
-    c) le Chapitre III du Code 15 et le Solde à l’échelle de la Fédération minimale sont activés ;
+    c) le Chapitre III du Code 15 et le Solde à l’échelle de la Fédération minimale sont activés, avec le Conseil des Entrepôts prévu par l’article 9-bis du Code 15 pour le Cercle 3 ;
 
     d) au moins un sanctuaire par Bassin est institué, en application de l’article 4 du Code 13 ;
 
@@ -119,6 +130,20 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 5.  **Phase 4 — Clôture.** La transition s’achève par la déclaration de clôture adoptée conformément à l’article 10.
 
 6.  Les durées indiquées sont indicatives et ne remplacent pas les seuils de sortie de l’article 4. Aucune phase ne peut être franchie avant que les seuils correspondants aient été vérifiés.
+
+7.  **Échelle des phases.** La Phase 0 est propre à chaque Cercle pilote, la Phase 1 à chaque Bassin et les Phases 2, 3 et 4 à chaque Fédération minimale. Les règles suivantes s’appliquent :
+
+    a) le passage de la Phase 0 à la Phase 1 est délibéré conjointement par les Cercles pilotes qui constituent le Bassin, en application de l’article 14, alinéa 10, du Code 3 ; le passage de la Phase 1 à la Phase 2 par l’Assemblée générale des Bassins qui constituent la Fédération minimale ; les passages suivants et la clôture par l’Assemblée générale de la Fédération minimale ;
+
+    b) le Cercle pilote qui se constitue ou adhère alors que d’autres sont déjà dans une phase ultérieure parcourt la Phase 0. Une fois dépassés les seuils de l’article 4, alinéa 1, il entre dans un Bassin contigu ou en constitue un nouveau. Le Bassin qui a dépassé les seuils de l’article 4, alinéa 2, entre dans une Fédération minimale ou en constitue une nouvelle avec au moins deux autres Bassins ;
+
+    c) le Cercle pilote ou le Bassin qui entre dans un Bassin ou dans une Fédération minimale en prend la phase lorsqu’il satisfait, pour sa propre part, aux seuils des passages déjà délibérés par celui-ci ou celle-ci. La vérification est effectuée par le Conseil Transition de l’unité qui l’accueille et ne peut pas introduire d’appréciations supplémentaires, en application de l’article 4.5 de la Constitution. Les Codes déjà activés s’appliquent à l’entrant à partir du jour de l’entrée, et les délais transitoires de chaque Code courent à partir de cette date ;
+
+    d) si la Fédération minimale a déjà clos la transition, la vérification de la lettre c) comprend les seuils de l’article 4, alinéas 3 et 4, et la clôture de la transition pour l’entrant est délibérée par son Assemblée générale en application de l’article 10, alinéa 1 ; l’entrée dans le Cercle étendu suit l’article 14-bis, alinéa 4, du Code 3 ;
+
+    e) l’entrée d’un nouveau Cercle pilote ou d’un nouveau Bassin ne fait pas reculer de phase l’unité qui l’accueille ;
+
+    f) la Communauté associée en application de l’article 21-bis du Code 15 ne parcourt pas les phases pour sa propre vie interne et n’est pas tenue d’activer les Codes et les Conseils des phases, sauf les outils qu’elle adopte. Elle entre dans un Bassin, ou concourt à en constituer un, lorsque l’équivalence à la frontière a été vérifiée, et elle est comptée comme Cercle pilote aux fins de l’article 1, alinéa 2, lettre d). Les seuils de l’article 4 sont vérifiés, pour sa part, sur les données et les engagements qu’elle fournit à la frontière en application de l’alinéa 2 de cet article ; dans le Bassin et dans la Fédération minimale, elle suit les règles des outils communs activés dans la phase.
 
 ## Art. 4 — Seuils d’activation et de sortie
 
@@ -174,13 +199,13 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     e) des Bilans du travail qui respectent la limite de l’article 3 du Code 1 pendant quatre trimestres consécutifs ou, à défaut, la présentation d’une proposition motivée de révision de cette limite en application de l’article 38 de la Constitution.
 
-5.  La vérification des seuils est effectuée par le Conseil Transition, avec l’avis obligatoire des Conseils compétents en la matière. Le passage de phase constitue une décision constitutive au sens de l’article 3, alinéa 3, du Code 3 et est délibéré par l’Assemblée générale selon la convocation, le quorum et la procédure prévus par les Codes 3 et 4. La délibération est publiée sous une forme agrégée et sans profilage.
+5.  La vérification des seuils est effectuée par le Conseil Transition, avec l’avis obligatoire des Conseils compétents en la matière. Le passage de phase constitue une décision constitutive au sens de l’article 3, alinéa 3, du Code 3 et est délibéré par l’Assemblée générale indiquée par l’article 3, alinéa 7, lettre a), selon la convocation, le quorum et la procédure prévus par les Codes 3 et 4. La délibération est publiée sous une forme agrégée et sans profilage.
 
 6.  L’avis social prévu par le Protocole de démarrage social peut porter exclusivement sur la vérification institutionnelle du seuil et sur la possibilité de proposer ou de délibérer le passage de phase. Il ne peut pas produire de sanctions, d’exclusions ou de limitations individuelles, ni conditionner l’accès au Code 4, à la Garantie, aux biens vitaux ou au Panier 1-2.
 
 ## Art. 5 — Gouvernement transitoire
 
-1.  Dans chaque phase est institué un Conseil Transition distinct, dont la durée est limitée à la phase de référence.
+1.  Dans chaque phase est institué un Conseil Transition distinct, dont la durée est limitée à la phase de référence, à l’échelle prévue par l’article 3, alinéa 7 : un pour chaque Cercle pilote en Phase 0, un pour chaque Bassin en Phase 1 et un pour chaque Fédération minimale dans les Phases 2 et 3. Le Conseil Transition du Bassin et de la Fédération minimale est un Conseil commun au sens de l’article 12-bis, alinéa 6-bis, du Code 3, dont les membres sont tirés au sort parmi les personnes éligibles au sens de l’alinéa 2 des Cercles pilotes qui en font partie ; les règles de l’alinéa 3 demeurent applicables.
 
 2.  Le Conseil est composé de trois à cinq membres disposant de compétences L2 ou L3 pertinentes pour la phase, notamment en organisation, droit confédéral, agroécologie, territoire, sécurité et biodiversité.
 
@@ -200,7 +225,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 4.  Le Conseil fonctionne avec un quorum d’au moins deux tiers de ses membres. Les décisions sont prises par consensus en l’absence d’objections motivées, conformément au Code 3, article 4. Les réunions font l’objet de procès-verbaux, qui sont conservés pendant trente-six mois.
 
-5.  Le Conseil Transition ne délibère ni le passage de phase ni l’adoption d’un point de non-retour. Il peut formuler des propositions à l’Assemblée générale, à laquelle il revient de décider conformément aux articles 4 et 6 du présent Code.
+5.  Le Conseil Transition ne délibère ni le passage de phase ni l’adoption d’un point de non-retour. Il peut formuler des propositions à l’Assemblée générale, à laquelle il revient de décider : le passage de phase selon l’article 4 ; le point de non-retour selon l’article 2, alinéa 2, l’article 6 et l’article 4, alinéa 7, de l’Annexe A.
 
 6.  Le Conseil Transition :
 
@@ -260,10 +285,10 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 1.  Le Code 4 s’applique dès la Phase 0.
 2.  Jusqu’à l’activation d’un Conseil compétent, le Conseil Transition peut rendre, à titre provisoire, les avis obligatoires non contraignants qui concernent la matière non encore couverte. L’avis est annoté comme provisoire et soumis à réexamen dans un délai de six mois à compter de l’activation du Conseil compétent.
-3.  La suppléance de l’alinéa 2 ne s’applique pas aux avis contraignants Santé et Réseau prévus par les articles 7-bis, 7-quater et 8 du Code 3. Jusqu’à l’activation du Conseil Réseau, les décisions qui requièrent un avis contraignant Réseau sont suspendues. Les autres décisions qui ne dépendent pas de cet avis peuvent se poursuivre.
+3.  La suppléance de l’alinéa 2 ne s’applique pas aux avis contraignants négatifs prévus par l’article 8 du Code 3 ni à l’autorisation de l’article 13.3 de la Constitution. Jusqu’à l’activation du Conseil compétent, les décisions qui requièrent l’un de ces avis ou cette autorisation sont suspendues. Les autres décisions qui ne dépendent pas de cet avis peuvent se poursuivre.
 4.  Les suspensions nécessaires pour faire face à un risque grave et immédiat R4 sont immédiatement exécutoires dans toute phase, dans le respect des procédures des Codes compétents.
 5.  Le recours à la Garantie est admis dans un délai de quatorze jours conformément à l’article 17 du Code 3 et à l’article 17 du Code 4. Aucune disposition du présent Code ou du Protocole de démarrage social ne peut conditionner, retarder ou limiter l’accès à la Garantie.
-6.  Pendant la transition, le Chapitre V du Code 4 s’applique dans les limites de son article 37.
+6.  Pendant la transition, le Chapitre V du Code 4 s’applique dans les limites de son article 37. Tant qu’aucun Bassin n’est constitué, les organes du Code 4 qui requièrent des membres extérieurs au Cercle pilote, y compris le Collège de réexamen de l’article 17 et le Cercle de garantie de remplacement de l’article 15, alinéa 3, sont formés conformément à l’article 37, alinéa 5, du Code 4.
 
 ## Art. 9 — Interdictions pendant la transition
 
@@ -287,9 +312,23 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 3.  La constatation, les mesures conservatoires et réparatrices et les éventuels remèdes sont régis par le Code 4. Les effets sur les décisions sont déterminés conformément à l’article 18 du Code 3. L’exclusion technique d’un bien ou d’un service reste de la compétence du Conseil Qualité en application du Code 2.
 
+## Art. 9-bis — Application progressive de la souveraineté technologique
+
+1.  En application de l’article 38.6 de la Constitution, jusqu’à la clôture de la transition, l’obligation de posséder physiquement le matériel de chaque système utilisé, prévue par l’article 19.4 de la Constitution, et celle de n’employer que des IA open source, prévue par l’article 19.5, s’appliquent progressivement de la manière suivante :
+
+    a) l’utilisation d’un système hébergé sur des infrastructures extérieures ou qui intègre un modèle d’IA non open source n’est admise que si la dépendance est admise comme résiduelle et surmontable en application de l’article 5, alinéa 2, lettre b), du Code 2, ou comme temporaire en application des articles 2, alinéa 1, 8, alinéa 2, et 10, alinéa 3, du Code 7, et si elle est inscrite au Registre des dépendances avec le Plan de substitution ou le Plan de sortie ;
+
+    b) l’application progressive ne permet pas d’utiliser du code fermé ou des modèles non open source pour les IA de gestion, pour les algorithmes de l’article 2, alinéa 5, du Code 7, pour l’IA personnelle et pour les systèmes de consultation et de vote de l’article 34.4 de la Constitution ;
+
+    c) les systèmes de la lettre a) installés auprès de la Communauté ne reçoivent pas de mises à jour automatiques ou à distance ; toute mise à jour est vérifiée par le Conseil Réseau avant l’installation et elle est réversible, en application de l’article 5-ter, alinéa 7, du Code 7 ;
+
+    d) l’application progressive cesse pour chaque système à l’échéance de son Plan et, en tout cas, avec la clôture de la transition.
+
+2.  L’utilisation de systèmes dont le code source n’est pas disponible suit, pendant la transition et après celle-ci, l’article 19.4 de la Constitution, l’article 5, alinéa 2, lettre b), et l’article 12, alinéa 5, du Code 2.
+
 ## Art. 10 — Clôture de la transition, mémoire et primauté
 
-1.  La clôture de la transition est délibérée par l’Assemblée générale à la majorité qualifiée des deux tiers, conformément aux articles 13 et 14 du Code 3. La délibération est précédée :
+1.  La clôture de la transition est délibérée, pour chaque Fédération minimale, par son Assemblée générale à la majorité qualifiée des deux tiers, conformément aux articles 13 et 14 du Code 3. La délibération est précédée :
 
     a) de l’avis obligatoire des Conseils fédérés ;
 
@@ -299,7 +338,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 2.  La déclaration de clôture produit les effets suivants :
 
-    a) le présent Code cesse de produire des effets normatifs ;
+    a) le présent Code cesse de produire des effets normatifs pour la Fédération minimale qui a délibéré la clôture, en application de l’article 1, alinéa 3, et la Fédération minimale est constituée en Cercle étendu en application de l’article 14-bis du Code 3 ;
 
     b) les inventaires provisoires, les procès-verbaux des Conseils Transition et les délibérations de passage de phase sont conservés comme mémoire historique conformément au Code 7 ;
 
@@ -311,7 +350,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     a) à la Constitution ;
 
-    b) aux normes impératives identifiées par l’article 2, alinéa 2, du Code 3 ;
+    b) aux normes impératives de la Constitution et des Codes, c’est-à-dire à celles qui n’admettent pas de dérogation de la part des organes qui décident, rappelées par l’article 2, alinéa 2, du Code 3 ;
 
     c) aux avis contraignants négatifs prévus par l’article 8 du Code 3.
 

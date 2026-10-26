@@ -1,23 +1,23 @@
 ---
 titolo: "CODICE 14 — SICUREZZA GENERALE DELLE PERSONE, DELLE INFRASTRUTTURE E DELLE MANSIONI"
 breve: "Codice 14 — Sicurezza generale"
-versione: "V1.3"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 14
 id: "codice-14"
 slug: "codice-14"
-allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 15 V1.7; Codice 16 V1.7."
 ---
 
 ## Art. 1 — Oggetto, definizioni e riparto delle competenze
 
-1.  Il presente Codice disciplina la prevenzione e la protezione dai rischi generali che interessano le persone, le infrastrutture, le attrezzature, le macchine, le mansioni e gli ambienti di vita e di lavoro comune, nei limiti delle competenze espressamente attribuitegli. Disciplina inoltre il Corpo di Tutela Civica e la videosorveglianza cieca previsti dagli articoli 17 e 18 della Costituzione.
+1.  Il presente Codice disciplina la prevenzione e la protezione dai rischi generali che interessano le persone, le infrastrutture, le attrezzature, le macchine, le mansioni e gli ambienti di vita e di lavoro comune, nei limiti delle competenze espressamente attribuitegli. Disciplina inoltre il Corpo di Tutela Civica e la videosorveglianza cieca previsti dagli articoli 17 e 18 della Costituzione e la difesa personale prevista dall’articolo 17.9 della Costituzione.
 
 2.  Ai fini del presente Codice si intende per:
 
     a) **sicurezza generale**: la prevenzione e la protezione dai rischi meccanici, elettrici, di incendio, di cedimento strutturale, di lavoro in quota, di accesso a spazi confinati, di movimentazione, di impiego di attrezzature e macchine e da ogni altro rischio non attribuito espressamente ad altri Codici;
 
-    b) **STV Sicurezza**: la specifica tecnica vincolante che stabilisce criteri, parametri, soglie, metodi di valutazione e misure minime di sicurezza generale;
+    b) **STV Sicurezza**: la Scheda Tecnica di Validazione, adottata secondo l’articolo 3-bis del Codice 2, che stabilisce criteri, parametri, soglie, metodi di valutazione e misure minime di sicurezza generale;
 
     c) **Scheda Sicurezza Generale**: il documento tecnico operativo che applica le STV a una specifica attività, macchina, attrezzatura, cantiere, ambiente o mansione;
 
@@ -72,7 +72,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 2.  I componenti sono sorteggiati secondo l’articolo 12-bis del Codice 3, restano in carica un anno e non possono essere nuovamente sorteggiati nello stesso Consiglio prima di dodici mesi dalla fine del mandato.
 
-3.  Il Consiglio opera con la presenza di almeno due terzi dei suoi componenti, arrotondando per eccesso. Le deliberazioni sono assunte a maggioranza semplice dei presenti, salvo che il presente Codice o una STV approvata secondo le procedure competenti richiedano una maggioranza più elevata per la validazione di Schede Sicurezza critiche. Ogni riunione è verbalizzata e il verbale è conservato per ventiquattro mesi.
+3.  Il Consiglio opera con la presenza di almeno due terzi dei suoi componenti, arrotondando per eccesso. Le proposte e le decisioni discrezionali sono assunte secondo l’articolo 12-bis, comma 9, del Codice 3, con il metodo del consenso e previa pubblicazione per almeno settantadue ore. Gli atti tecnici vincolati, i pareri e la validazione delle Schede Sicurezza sono assunti a maggioranza semplice dei presenti, salvo che il presente Codice o una STV approvata secondo le procedure competenti richiedano una maggioranza più elevata per la validazione di Schede Sicurezza critiche. Ogni riunione è verbalizzata e il verbale è conservato per ventiquattro mesi.
 
 4.  In caso di indisponibilità, conflitto di interessi o coincidenza tra il ruolo di controllo e la responsabilità operativa diretta dell’attività, il componente interessato dichiara la propria posizione e si astiene. La sostituzione avviene secondo l’articolo 12-bis del Codice 3. Chi valida una Scheda Sicurezza non può essere l’unico responsabile operativo dell’attività sottoposta a validazione: in tal caso è necessaria la verifica congiunta di un secondo componente L2 o L3 indipendente.
 
@@ -92,7 +92,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     g) coordina la propria attività con il Consiglio Salute del Codice 6, il Consiglio Biodiversità del Codice 13, il Consiglio Habitat e Territorio del Codice 10, il Consiglio Agroecologico del Codice 9 e il Consiglio Cura del Codice 12.
 
-6.  I pareri obbligatori del Consiglio Sicurezza sono vincolanti esclusivamente per i parametri di sicurezza generale attribuiti al presente Codice. Non possono modificare o sostituire parametri sanitari, ecologici, territoriali o produttivi attribuiti ad altri Codici.
+6.  I pareri obbligatori del Consiglio Sicurezza, quando negativi, sono vincolanti ai sensi dell’articolo 8 del Codice 3 esclusivamente per i parametri di sicurezza generale attribuiti al presente Codice. Non possono modificare o sostituire parametri sanitari, ecologici, territoriali o produttivi attribuiti ad altri Codici.
 
 ## Art. 4 — Schede Sicurezza Generali, DPI, protezioni collettive e macchine
 
@@ -190,7 +190,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 ## Art. 8-bis — Corpo di Tutela Civica
 
-1.  Il Corpo di Tutela Civica è la funzione civica temporanea, disarmata e non violenta prevista dall’articolo 17 della Costituzione. Non è una forza di polizia né un organo permanente. È attivato dal Cerchio 1 o, per le funzioni sovralocali, dal Cerchio 2 e risponde al Cerchio che lo ha attivato.
+1.  Il Corpo di Tutela Civica è la funzione civica temporanea, disarmata e non violenta prevista dall’articolo 17 della Costituzione. Non è una forza di polizia né un organo permanente. È attivato dal Cerchio 1 o, per le funzioni sovralocali, dal Cerchio 2 e risponde al Cerchio che lo ha attivato. L’attivazione per interventi programmati, anche per un servizio o un periodo determinati, è deliberata dall’Assemblea del Cerchio 1 o, per le funzioni sovralocali, dall’Assemblea Generale. In caso di urgenza l’intervento è avviato dal referente di turno del comma 5 o, se non è raggiungibile in tempo, da un componente in turno, su chiamata di chiunque o di propria iniziativa, ed è comunicato senza ritardo al Cerchio; la revisione e la convalida dell’articolo 8-quater, comma 2, valgono come ratifica dell’attivazione urgente.
 
 2.  Il Corpo svolge, con rotazione tra i componenti, le funzioni seguenti:
 
@@ -224,8 +224,8 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 ## Art. 8-quater — Registrazione, revisione e convalida degli interventi
 
 1.  Ogni intervento è registrato integralmente, nel rispetto dei diritti delle persone coinvolte. Le registrazioni sono cifrate e trattate secondo il Codice 7.
-2.  Ogni attivazione del Corpo è sottoposta a revisione entro ventiquattro ore e alla convalida di due Comunità limitrofe estranee all’evento, ai sensi dell’articolo 17.6 della Costituzione. Ciascuna Comunità designa per sorteggio tre persone.
-3.  Le registrazioni sono pubblicate entro quarantotto ore in forma ispezionabile. Sono oscurati i dati che identificano le persone offese, i minori e i terzi estranei.
+2.  Ogni attivazione del Corpo, compreso ogni intervento svolto in base a un’attivazione per un servizio o un periodo, è sottoposta a revisione entro ventiquattro ore e alla convalida di due Comunità limitrofe estranee all’evento, ai sensi dell’articolo 17.6 della Costituzione. Ciascuna Comunità designa per sorteggio tre persone. La revisione è svolta dalle sei persone così designate, che esaminano la registrazione dell’intervento e sentono il referente di turno e, se lo chiede, la persona destinataria dell’intervento. L’attivazione è convalidata se la approva la maggioranza delle persone designate da ciascuna delle due Comunità. Se la revisione non si conclude nel termine, l’attivazione si considera non convalidata ai sensi del comma 4.
+3.  Le registrazioni sono pubblicate entro quarantotto ore in forma ispezionabile. Sono oscurati i dati che identificano la persona destinataria dell’intervento, le persone offese, i minori e i terzi estranei. La versione integrale è accessibile soltanto alle persone incaricate della revisione e della convalida del comma 2, al Tribunale di Garanzia e agli altri organi del Codice 4 competenti sul fatto e, per la parte che la riguarda, alla persona destinataria dell’intervento. Gli accessi alla versione integrale sono registrati secondo il Codice 7.
 4.  La mancata convalida fa cessare gli effetti dell’intervento ed è segnalata al Cerchio di Garanzia per le valutazioni del Codice 4.
 5.  Ogni trimestre è pubblicato un rapporto aggregato sugli interventi, sull’uso della forza e sugli esiti delle convalide.
 
@@ -237,6 +237,62 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 4.  Restano vietati il riconoscimento biometrico, la sorveglianza audio, l’analisi predittiva del comportamento e la videosorveglianza privata rivolta a spazi pubblici o Beni Comuni.
 5.  La sorveglianza del perimetro delle Comunità di Contenimento previste dall’articolo 32 del Codice 4 è svolta dal Corpo secondo il presente Codice, senza armi e con registrazione degli interventi.
 6.  Fino al completamento della transizione, il Corpo svolge funzioni di soccorso, protezione civile e mediazione. Ogni intervento fisico sulle persone è limitato a quanto consentito dalla legge vigente; per ogni pericolo grave sono allertati i servizi di emergenza e le autorità competenti. Si applica l’articolo 37 del Codice 4.
+
+## Art. 8-sexies — Difesa personale e aiuto a chi è aggredito
+
+1.  In attuazione dell’articolo 17.9 della Costituzione, ogni persona può difendere sé stessa e altre persone da un’aggressione in corso contro l’incolumità fisica o sessuale, quando il Corpo di Tutela Civica non è presente o non può intervenire in tempo. L’aggressione è in corso anche quando è imminente, cioè quando sta per essere compiuta e il pericolo è concreto e immediato; non basta il timore che possa avvenire. L’aggressione resta in corso fino a quando è cessata.
+
+2.  Sono ammessi, scegliendo tra quelli che bastano a proteggere le persone il meno lesivo:
+
+    a) sottrarsi all’aggressione e mettere al sicuro le persone minacciate, anche allontanandole dal luogo;
+
+    b) chiedere aiuto, dare l’allarme e chiamare il Corpo di Tutela Civica;
+
+    c) interporsi tra l’aggressore e la persona aggredita;
+
+    d) usare la forza fisica strettamente necessaria e proporzionata a far cessare l’aggressione, senza ferire oltre ciò che serve a farla cessare;
+
+    e) trattenere l’aggressore con un’immobilizzazione non lesiva, senza comprimergli il collo o il torace, fino a quando il pericolo è cessato o, se avviene prima, fino all’arrivo del Corpo di Tutela Civica.
+
+3.  La scelta è valutata secondo le circostanze come apparivano a chi ha agito nel momento del fatto. Non è richiesto di sottrarsi quando ciò esporrebbe a pericolo sé o altri o lascerebbe senza protezione una persona aggredita. Quando l’aggressore è un minore, una persona in crisi acuta o una persona che non è in grado di comprendere ciò che fa, si privilegiano la messa al sicuro e l’interposizione e la forza è commisurata anche alla sua età e alla sua condizione; all’arrivo del Corpo si applicano l’articolo 8-ter, comma 5, e l’articolo 8 del Codice 6.
+
+4.  La difesa è disarmata, ai sensi dell’articolo 16 della Costituzione. Non è mai ammesso l’uso di armi né di strumenti destinati a colpire o a ferire. Gli oggetti di uso comune trovati sul posto possono sempre essere usati per ripararsi, senza colpire. Per colpire possono essere usati soltanto quando l’aggressione mette in pericolo la vita, espone a lesioni gravi o è una violenza sessuale, soltanto per farla cessare e nella misura strettamente necessaria. Nessuno può portare con sé strumenti allo scopo di usarli contro le persone. La STV Tutela Civica può indicare dispositivi personali di allarme e di protezione non lesivi.
+
+5.  Non costituiscono difesa e sono qualificati secondo l’articolo 26 del Codice 4:
+
+    a) l’attacco contro una persona che non ha iniziato un’aggressione e non sta per compierla ai sensi del comma 1, compreso l’uso della forza per il solo timore di un’aggressione futura;
+
+    b) la vendetta e la punizione;
+
+    c) l’uso della forza dopo che il pericolo è cessato, salvo l’errore scusabile previsto dall’articolo 26-bis, comma 2, del Codice 4;
+
+    d) l’uso della forza per correggere, educare o disciplinare una persona, per imporle una decisione o per impedirle di lasciare un luogo o un Cerchio 0, di comunicare o di chiedere aiuto, salvo il trattenimento dell’aggressore previsto dal comma 2, lettera e);
+
+    e) la reazione a offese, provocazioni, rifiuti o disobbedienze che non mettono in pericolo l’incolumità fisica o sessuale;
+
+    f) l’uso della forza contro chi si difende a sua volta nei limiti del presente articolo.
+
+6.  Chi ha iniziato l’aggressione non può invocare la difesa contro la forza usata nei limiti del presente articolo per farla cessare. Può invocarla soltanto contro un uso della forza che, oltre quei limiti, mette in pericolo la sua vita o la sua incolumità fisica o sessuale.
+
+7.  A tutela dei beni, compresi i Beni Comuni, sono ammessi soltanto l’interposizione, la messa al sicuro del bene o dello strumento quando è possibile senza forza sulla persona, l’allarme e la chiamata del Corpo di Tutela Civica per la funzione di Tutela dei Beni Comuni. Non è ammesso l’uso della forza sulle persone. Costituisce tuttavia aggressione all’incolumità fisica ai sensi del comma 1 la distruzione, la contaminazione o la messa fuori servizio in corso di un Bene Comune vitale, come una riserva o una condotta di acqua potabile, l’alimentazione di cure salvavita o un’opera che protegge da inondazioni o incendi, quando ne deriva un pericolo concreto e immediato per la vita o la salute di persone. In questo caso sono ammessi soltanto l’interposizione, l’allontanamento fisico della persona dal bene e il trattenimento del comma 2, lettera e), senza colpire. Non rientrano in questo caso le azioni dimostrative o di disobbedienza che non determinano tale pericolo.
+
+8.  Gli animali non sono beni, ai sensi dell’articolo 13.1 della Costituzione. Ogni persona può difendere un animale da un maltrattamento in corso, cioè da una violenza che lo ferisce o lo fa soffrire, con i mezzi del comma 2 e con le stesse regole di necessità e di proporzione previste per la difesa delle persone dai commi 2, 3, 4, 5 e 6. La forza è ammessa soltanto per far cessare il maltrattamento, non per prevenirne uno futuro, per sottrarre stabilmente l’animale a chi ne ha cura o per punire. I disaccordi sul modo di nutrire, curare, custodire o educare un animale non giustificano l’uso della forza: sono segnalati al Consiglio Biodiversità, che provvede ai sensi dell’articolo 7, commi 2 e 3, del Codice 13. Il maltrattamento è segnalato anche al Consiglio Biodiversità, ai sensi dell’articolo 10, comma 2, del Codice 13. La difesa di un animale non consente di entrare in un Cerchio 0 senza il consenso di chi vi abita: si chiama il Corpo di Tutela Civica.
+
+9.  Chi non vi abita può entrare in un Cerchio 0 senza il consenso di chi vi abita soltanto per far cessare una violenza fisica o sessuale in corso contro una persona, come intervento strettamente necessario alla tutela di diritti inviolabili ai sensi dell’articolo 5.1, lettera a), della Costituzione; il pericolo soltanto imminente non basta. Chi entra avvisa immediatamente il Corpo di Tutela Civica, o lo fa avvisare da altri, appena può farlo senza lasciare la persona in pericolo, ed esce appena il pericolo è cessato. Il Corpo trasmette senza ritardo l’avviso al Tribunale di Garanzia, che verifica l’ingresso entro ventiquattro ore, come per l’ingresso del Corpo previsto dall’articolo 8-ter, comma 3, secondo l’articolo 26-bis, comma 5, lettera e), del Codice 4. Quando il Corpo arriva, all’ingresso e alla permanenza dei suoi componenti si applica l’articolo 8-ter, comma 3.
+
+10. Dopo il fatto, chi ha usato la forza, ha trattenuto una persona o è entrato in un Cerchio 0:
+
+    a) presta o chiama soccorso per chiunque sia ferito, compreso l’aggressore;
+
+    b) comunica senza ritardo il fatto al Corpo di Tutela Civica o al Cerchio di Garanzia, indicando il luogo, le persone coinvolte e il bisogno di soccorso. Il Corpo trasmette la comunicazione al Cerchio di Garanzia e non svolge indagini, ai sensi dell’articolo 8-ter, comma 3. Quando la forza è stata usata da o contro un componente del Corpo, la comunicazione è fatta al Cerchio di Garanzia.
+
+    La comunicazione non obbliga a rendere altre dichiarazioni sul fatto; si applica l’articolo 25, comma 3, del Codice 4. La mancata comunicazione non costituisce di per sé illecito né ammissione, salvo l’avviso dell’ingresso in un Cerchio 0 previsto dal comma 9. L’accertamento segue l’articolo 26-bis del Codice 4.
+
+11. Non costituisce aggressione il contenimento svolto dal Corpo di Tutela Civica nei limiti dell’articolo 8-ter, anche quando la persona contenuta lo ritiene ingiusto: contro di esso non è ammessa la difesa e il contenimento si contesta con la revisione e la convalida previste dall’articolo 8-quater e dall’articolo 34 del Codice 4. Quando un componente del Corpo usa la forza oltre i limiti dell’articolo 8-ter, comma 2, mettendo in pericolo la vita o l’incolumità fisica o sessuale di una persona, si applica il presente articolo: chiunque può interporsi e difendere la persona, e gli altri componenti presenti sono tenuti a interporsi. Ai componenti del Corpo che usano la forza durante il turno si applicano l’articolo 8-ter e l’articolo 17.5 della Costituzione, non i commi 2 e 3 dell’articolo 26-bis del Codice 4.
+
+12. Nessuno è tenuto a usare la forza o a esporsi a pericolo, e nessuno può chiedere a un minore di intervenire con la forza. Chi assiste a un’aggressione e può farlo senza pericolo chiama il Corpo di Tutela Civica o dà l’allarme. I minori possono difendersi e difendere altre persone nei limiti del presente articolo; ai fatti da loro commessi si applica l’articolo 26-bis, comma 7, del Codice 4.
+
+13. Fino al completamento della transizione, la difesa personale è regolata dalla legge vigente, ai sensi dell’articolo 38.6 della Costituzione, e si applica l’articolo 37 del Codice 4. Chi ha aderito si impegna a restare nei limiti del presente articolo anche quando la legge vigente consentirebbe di più, in particolare a non usare armi. Il presente articolo non comporta la rinuncia a diritti o garanzie della legge vigente e non può impedire o ritardare il ricorso alle autorità: chi è aggredito o ha usato la forza chiama i servizi di emergenza e le autorità competenti, oltre a fare la comunicazione del comma 10. Il trattenimento del comma 2, lettera e), e l’ingresso del comma 9 sono ammessi soltanto nei limiti consentiti dalla legge vigente.
 
 ## Art. 9 — Divieti, violazioni e garanzie
 

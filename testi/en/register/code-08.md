@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 8 — ON ENERGY AND WATER"
 breve: "Code 8 — Energy and water"
-versione: "V1.4"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 8
 id: "codice-08"
 slug: "code-08"
-allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 15 V1.7; Code 16 V1.7."
 ---
 
 ## Art. 1 — Subject matter and legal nature
@@ -37,7 +37,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 2.  **Sobriety first.** The reduction of requirements precedes the increase of production. Every CBO Plan shall include an energy balance and the applicable efficiency measures.
 
-3.  **Priority of use and management of scarcity.** The hierarchy provided for in Article 32 of Code 1 applies:
+3.  **Priority of use and management of scarcity.** Without prejudice to Article 32 of Code 1, uses of energy are ordered as follows:
 
     a) level 1: vital emergencies and the guaranteed minimum share of the Energy Basket;
 
@@ -49,7 +49,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     e) level 5: other uses.
 
-4.  Level 1 constitutes a minimum threshold of continuity and may not be reduced, except in the case of material impossibility or documented extreme emergency. In the event of a collective health emergency, Article 2-bis of Code 6 applies for the relevant aspects; in the other cases the urgency procedures of Code 3 apply.
+4.  Level 1 constitutes a minimum threshold of continuity and may not be reduced, except in the case of temporary material impossibility, in accordance with paragraph 5. In the event of a collective health emergency, Article 2-bis of Code 6 applies for the relevant aspects; in the other cases the urgency procedures of Code 3 apply.
 
 5.  In the event of scarcity, the Assembly shall resolve on the reductions on a proposal from the Energy and Water Council, applying them progressively from level 5 to the higher levels. Level 1 may be reduced only in the case of temporary technical impossibility, with immediate activation of the federated mutualism procedure and communication to the Guarantee Circle.
 
@@ -73,7 +73,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     c) proposes and updates the STVs of the installations in accordance with Code 2;
 
-    d) manages the energy balance of the Circle and the microgrid;
+    d) manages the energy balance of the Circle and the microgrid and constitutes the technical assembly of Article 15.3 of the Constitution for ordinary dispatching; local manual override is exercised in accordance with Article 6, paragraph 1, of this Code and Article 5-ter of Code 7;
 
     e) organises L1 training in electrical safety;
 
@@ -111,7 +111,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     g) keep the Health Storehouse and the Network node operational.
 
-2.  Access to the Energy Basket may not be made conditional on the CBO, on the possession of competences or on physical presence in a specific place.
+2.  Access to the Energy Basket may not be made conditional on the CBO, on the possession of competences or on physical presence in a specific place. Energy essential to health and survival is guaranteed to anyone who is in the territory held in custody by the Circle, pursuant to Article 15.2 of the Constitution.
 
 3.  The unavailability of the minimum share necessary for a vital need constitutes a level 1 emergency.
 
@@ -139,7 +139,8 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 2.  Access to the Water Basket may not be made conditional on the CBO, on the possession of competences or on physical presence in a specific place. Drinking water is guaranteed to anyone who is in the territory held in custody by the Circle, pursuant to Articles 1.3 and 4.9 of the Constitution.
 3.  The guaranteed minimum share is determined by the Assembly on a proposal from the Energy and Water Council, with the opinion of the Health Council. On first application it shall not be less than fifty litres per person per day.
 4.  The unavailability of the minimum share constitutes a level 1 emergency.
-5.  In the event of scarcity, drinking water for human use and the water necessary for health and care services take precedence over every other use. For agricultural uses the priorities of Article 10, paragraph 8, of Code 9 apply.
+5.  In the event of scarcity, drinking water for human use and the water necessary for health and care services, within the guaranteed minimum quota of paragraph 3, take precedence over every other use. The distribution of the available water, including that for animals and for agricultural uses, follows the priorities of Article 10, paragraph 8, of Code 9.
+6.  The guaranteed minimum share of paragraph 3 may be reduced only in the event of temporary technical impossibility, by resolution of the Assembly pursuant to Article 19, paragraph 3, of Code 1 or, in urgency, in accordance with the urgency procedures of Code 3. Mutualism between Circles under Article 30 of Code 1 and, where the Balance provided for by Code 15 is active, the request through the Pool as an immediate vital need pursuant to its Article 8, paragraph 2, letter a), shall be activated without delay; where the conditions are met, the activation of the Solidarity Protocol shall be requested pursuant to Article 36.2 of the Constitution. The reduction shall be communicated without delay to the Guarantee Circle. Within the minimum share, drinking water and the water necessary for health are reduced last.
 
 ## Art. 5 — Production, STV and energy sources
 

@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 4 — DELLA GIUSTIZIA RIPARATIVA E DELLA GARANZIA"
 breve: "Codice 4 — Giustizia riparativa e garanzia"
-versione: "V1.5"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 4
 id: "codice-04"
 slug: "codice-04"
-allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.7; Codice 16 V1.7."
 ---
 
 ## CAPO I — DISPOSIZIONI GENERALI, PRINCIPI E DEFINIZIONI
@@ -89,7 +89,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     c) non sostituisce gli organi competenti;
 
-    d) esercita esclusivamente le funzioni di facilitazione riparativa, controllo procedurale, adozione delle misure cautelari attribuitegli e verifica dell’esecuzione degli accordi, nei limiti stabiliti dalla Costituzione e dai Codici 2, 3 e 4.
+    d) esercita esclusivamente le funzioni di facilitazione riparativa, controllo procedurale, adozione delle misure cautelari attribuitegli e verifica dell’esecuzione degli accordi, e le altre funzioni che la Costituzione e i Codici gli attribuiscono espressamente, nei limiti stabiliti dalla Costituzione e dai Codici.
 
 3.  Il Cerchio di Garanzia non istituisce al proprio interno organi di secondo grado, assemblee allargate o giurisdizioni permanenti. Il riesame è affidato al Collegio esterno disciplinato dall’articolo 17.
 
@@ -101,11 +101,11 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     a) la valutazione tecnica di conformità, l’adozione o applicazione delle STV e delle SVS e l’esclusione tecnica di beni o servizi spettano al Consiglio Qualità, secondo gli articoli 15, 20 e 24 del Codice 2;
 
-    b) i pareri specialistici in materia di salute, sicurezza e infrastruttura digitale o sovranità dei dati spettano ai Cerchi competenti, secondo il Codice 3, articolo 8, e il Codice 2, articolo 20, lettera g);
+    b) i pareri specialistici in materia di salute, sicurezza, infrastruttura digitale o sovranità dei dati e limiti ecologici spettano ai Cerchi competenti, secondo il Codice 3, articolo 8, e il Codice 2, articolo 20, lettera g);
 
     c) le deliberazioni allocative, la determinazione del livello decisionale, dei quorum e delle maggioranze spettano all’Assemblea del Cerchio 1 o all’Assemblea Generale, secondo gli articoli 7, 7-bis, 7-ter, 7-quater, 12, 13 e 14 del Codice 3;
 
-    d) il calcolo e la certificazione dei valori in UCR e la verifica anti-elusione spettano al Consiglio Contabilità, secondo gli articoli 9 e 11 del Codice 3 e l’articolo 40 del Codice 1;
+    d) il calcolo e la certificazione dei valori in UCR e la verifica anti-elusione spettano al Consiglio Contabilità, secondo gli articoli 9 e 11 del Codice 3 e gli articoli 20, comma 6, e 40, comma 4, del Codice 1;
 
     e) la tutela procedurale, la facilitazione riparativa, l’adozione delle misure cautelari attribuitegli e la qualificazione formale dei vizi deliberativi secondo il Codice 3 spettano al Cerchio di Garanzia.
 
@@ -373,6 +373,20 @@ La sospensione è motivata, comunicata alle parti e sottoposta a riesame periodi
 
 6.  La decadenza di una persona dallo status di membro è ammessa esclusivamente nei casi dell’articolo 1.3-bis della Costituzione e secondo il Capo V. La cessazione dello status per rifiuto persistente del CBO, prevista dall’articolo 7.3-bis della Costituzione, è disciplinata soltanto dall’articolo 29, comma 6-bis. Nessuna misura del presente articolo può privare un membro dei diritti dell’articolo 1.2 della Costituzione.
 
+### Art. 13-bis — Verifica di conformità e disattivazione di attività e funzioni
+
+1.  Quando i Codici rinviano al presente Codice per la verifica di conformità, la sospensione o la disattivazione di un’attività, di una funzione o di un’infrastruttura non conforme, si applicano le regole seguenti, salvo le disposizioni più specifiche del Codice di settore:
+
+    a) la verifica di conformità è una valutazione tecnica del Consiglio competente secondo il Codice di settore; il Cerchio di Garanzia non la svolge, ai sensi dell’articolo 4, comma 2, lettera b);
+
+    b) se l’adeguamento è tecnicamente impossibile, la disattivazione è deliberata dall’Assemblea del Cerchio 1 o, per le funzioni dei Cerchi 2 e 3, dall’Assemblea Generale, su proposta motivata del Consiglio competente, con le procedure dell’articolo 7 del Codice 3 quando la matrice le richiede;
+
+    c) la proposta è accompagnata da un Piano di Sostituzione con termine finale certo. Quando la funzione garantisce prestazioni dei livelli 1 e 2 del Paniere, la disattivazione ha effetto soltanto dopo l’attivazione della funzione sostitutiva, salvo le misure urgenti della lettera d);
+
+    d) la sospensione necessaria a fronteggiare un rischio grave e immediato è adottata secondo il Codice di settore e il Codice 14 ed è comunicata senza ritardo all’Assemblea;
+
+    e) restano ferme le garanzie, le misure cautelari e i ricorsi del presente Codice e dell’articolo 17 del Codice 3. Quando la non conformità è imputabile a una persona, l’accertamento e le eventuali misure nei suoi confronti seguono i Capi II e V.
+
 ### Art. 14 — Registro riparativo
 
 1.  Il Cerchio di Garanzia cura il Registro riparativo secondo i livelli di trasparenza previsti dall’articolo 15 del Codice 3. Il Registro distingue:
@@ -547,7 +561,7 @@ Il Collegio non può disporre un’esclusione definitiva o di categoria, riserva
 
 ### Art. 25 — Principi e garanzie comuni
 
-1.  Il presente Capo attua gli articoli 1.3-bis, 7.3, 7.3-bis, 18.7, 30 e 31 della Costituzione. La procedura riparativa dei Capi II, III e IV resta la via ordinaria e prioritaria. Gli organi del presente Capo intervengono quando essa non è accettata, non produce un accordo o non è adeguata alla gravità del fatto.
+1.  Il presente Capo attua gli articoli 1.3-bis, 7.3, 7.3-bis, 17.9, 18.7, 30 e 31 della Costituzione. La procedura riparativa dei Capi II, III e IV resta la via ordinaria e prioritaria. Gli organi del presente Capo intervengono quando essa non è accettata, non produce un accordo o non è adeguata alla gravità del fatto.
 
 2.  Nessuno può essere sottoposto a una misura per un fatto che, al momento in cui è stato commesso, non era previsto come illecito dalla Costituzione o dai Codici. Le fattispecie non possono essere estese per analogia.
 
@@ -593,7 +607,45 @@ Il Collegio non può disporre un’esclusione definitiva o di categoria, riserva
 
 2.  La qualificazione del grado spetta all’organo competente, con decisione motivata. In caso di dubbio si applica il grado inferiore.
 
-3.  I Codici possono qualificare specifiche condotte entro i Gradi da 1 a 4. Le fattispecie dei Gradi 5 e 6 sono esclusivamente quelle del presente articolo.
+3.  I Codici possono qualificare specifiche condotte entro i Gradi da 1 a 4. Le fattispecie dei Gradi 5 e 6 sono esclusivamente quelle del presente articolo. L’uso della forza nella difesa personale è qualificato secondo l’articolo 26-bis.
+
+### Art. 26-bis — Difesa personale: non illiceità, eccesso e accertamento
+
+1.  Non costituiscono illecito l’uso della forza, l’interposizione, il trattenimento e l’ingresso in un Cerchio 0 compiuti nei limiti dell’articolo 17.9 della Costituzione e dell’articolo 8-sexies del Codice 14.
+
+2.  Non costituisce illecito l’eccesso, né l’errore sull’esistenza, sull’imminenza, sulla durata o sulla gravità dell’aggressione, dovuto a spavento, panico o turbamento scusabili nelle circostanze concrete. La scusabilità è valutata secondo le circostanze come apparivano alla persona nel momento del fatto, tenendo conto in particolare della rapidità degli eventi, della differenza di forza, dell’età, delle condizioni fisiche e psichiche della persona e delle violenze che essa aveva già subito dall’aggressore. Non è scusabile l’errore di chi ha cercato lo scontro per poter usare la forza, né quello di chi ha agito per il solo timore di un’aggressione futura, senza un pericolo concreto e immediato.
+
+3.  Fuori dal caso del comma 2, l’uso della forza oltre lo stretto necessario, durante un’aggressione o un maltrattamento in corso e allo scopo di farli cessare, costituisce illecito di Grado 4, anche quando ne sono derivate lesioni gravi o la morte. Quando l’eccesso non ha cagionato lesioni o ha cagionato soltanto un danno lieve e riparabile, costituisce illecito di Grado 2.
+
+4.  L’uso della forza che non costituisce difesa ai sensi dell’articolo 8-sexies, comma 5, del Codice 14, compresa la forza diretta a uccidere o a ferire gravemente quando non era necessaria a far cessare l’aggressione, è qualificato secondo l’articolo 26, comma 1. L’aggressione subita è considerata nella scelta delle misure.
+
+5.  L’accertamento si svolge come segue:
+
+    a) il Cerchio di Garanzia riceve la comunicazione prevista dall’articolo 8-sexies, comma 10, del Codice 14, o la segnalazione ai sensi dell’articolo 5, apre il fascicolo, ascolta separatamente le persone coinvolte ai sensi dell’articolo 28, comma 2, e attiva la protezione di chi ne ha bisogno;
+
+    b) il Cerchio di Garanzia trasmette senza ritardo il caso al Tribunale di Garanzia quando dal fatto sono derivate la morte o lesioni gravi; quando vi sono elementi di un eccesso non scusabile o di un fatto previsto dal comma 4; quando la forza è stata usata tra persone che appartengono allo stesso Cerchio 0 o vi convivono, o contro un minore o una persona che non è in grado di tutelarsi; quando la forza è stata usata da o contro un componente del Corpo di Tutela Civica; quando lo chiede la persona contro cui la forza è stata usata, la persona difesa o chi ha usato la forza;
+
+    c) negli altri casi il Cerchio di Garanzia, se non emergono elementi di illecito, lo comunica con determinazione motivata alle persone coinvolte ai sensi dell’articolo 5, comma 2, lettera b). La determinazione non accerta la responsabilità e non impedisce la richiesta di trasmissione della lettera b);
+
+    d) il Tribunale di Garanzia accerta se sono stati rispettati i limiti dell’articolo 8-sexies del Codice 14, se ricorre il comma 2 e, in caso contrario, il grado. Quando resta un dubbio ragionevole sulla sussistenza della difesa, la responsabilità per l’uso della forza non è accertata, ai sensi dell’articolo 25, comma 3. Quando più persone invocano la difesa, il Tribunale accerta chi ha iniziato l’aggressione;
+
+    e) l’ingresso in un Cerchio 0 previsto dall’articolo 8-sexies, comma 9, del Codice 14 è comunicato in ogni caso al Tribunale di Garanzia, che entro ventiquattro ore verifica se è avvenuto nei limiti di quel comma e dell’articolo 5.1, lettera a), della Costituzione e dispone, se necessario, la protezione delle persone che vi abitano. L’ingresso fuori da quei limiti è qualificato secondo l’articolo 26.
+
+6.  La difesa invocata non impedisce le misure cautelari dell’articolo 34, i percorsi di protezione dell’articolo 7-bis del Codice 12 a tutela di ciascuna delle persone coinvolte, né l’accertamento dell’aggressione iniziale. Quando la forza è stata usata tra persone che appartengono allo stesso Cerchio 0 o vi convivono, il Cerchio di Garanzia:
+
+    a) ascolta ciascuna persona separatamente e senza la presenza dell’altra;
+
+    b) offre a ciascuna, se lo chiede, la separazione e un alloggio provvisorio ai sensi dell’articolo 34;
+
+    c) informa il Consiglio Cura quando nel Cerchio 0 vivono minori o persone che non sono in grado di tutelarsi;
+
+    d) quando la difesa è invocata più di una volta nello stesso Cerchio 0 nell’arco di ventiquattro mesi, propone in ogni caso un percorso di protezione e ne tiene conto nella trasmissione al Tribunale di Garanzia.
+
+7.  Ai fatti commessi da persone che non hanno compiuto diciotto anni si applica l’articolo 25, comma 9. Per l’eccesso nella difesa sono ammesse soltanto misure riparative, educative e di sostegno, definite con il Consiglio Cura; non può essere disposta l’accoglienza educativa protetta. Il Consiglio Cura offre sostegno al minore che si è difeso o ha difeso altre persone.
+
+8.  Anche quando l’uso della forza non costituisce illecito, la procedura riparativa dei Capi II, III e IV resta disponibile, su base volontaria, per tutte le persone coinvolte. Chi si è difeso nei limiti dell’articolo 8-sexies del Codice 14 non è tenuto alla riparazione.
+
+9.  Durante la transizione si applica l’articolo 37. La valutazione prevista dal presente articolo ha effetto soltanto nell’ordinamento interno e non sostituisce quella delle autorità dello Stato. Chi ha usato la forza è informato del diritto all’assistenza legale prevista dalla legge vigente.
 
 ### Art. 27 — Organi competenti
 
@@ -602,7 +654,7 @@ Il Collegio non può disporre un’esclusione definitiva o di categoria, riserva
 3.  Per gli illeciti di Grado 4, 5 e 6, per la revisione urgente entro ventiquattro ore e per le altre funzioni di garanzia attribuite dai Codici è competente il Tribunale di Garanzia del Cerchio 2, composto da sette persone sorteggiate per ciascun caso dall’elenco dell’articolo 36. I componenti appartengono a Comunità diverse da quelle della persona cui è attribuito il fatto o che è interessata dalla decisione e della persona offesa; almeno tre possiedono una formazione giuridica validata secondo il Codice 5.
 4.  Gli organi sono costituiti per il singolo caso e si sciolgono con la decisione. Nessuno può far parte di più di tre collegi nell’arco di dodici mesi. Si applicano le regole di astensione dell’articolo 15.
 5.  Le decisioni sono assunte per consenso. In mancanza, è richiesta la maggioranza dei due terzi dei componenti. Per le misure degli articoli 30, comma 3, e 31 sono necessari sei voti su sette.
-6.  Il Cerchio di Garanzia riceve le segnalazioni, facilita la procedura riparativa, cura l’istruttoria preliminare e custodisce i fascicoli. Non accerta la responsabilità e non dispone misure, salvo quanto previsto dagli articoli 9 e 34 del presente Codice e dall’articolo 7-bis, comma 3, lettera b), del Codice 12.
+6.  Il Cerchio di Garanzia riceve le segnalazioni, facilita la procedura riparativa, cura l’istruttoria preliminare e custodisce i fascicoli. Non accerta la responsabilità e non dispone misure, salvo quanto previsto dagli articoli 9 e 34 del presente Codice e dall’articolo 7-bis, comma 3, lettera b), del Codice 12. Adotta inoltre gli altri atti che i Codici gli attribuiscono espressamente, come la nomina del rappresentante temporaneo dell’articolo 7-bis, comma 5, del Codice 12, il parere e l’autorizzazione dell’articolo 10, commi 6 e 7, del Codice 6 e il riesame dell’articolo 2-bis, comma 4, lettera d), del Codice 6.
 
 ### Art. 28 — Procedura
 
@@ -636,7 +688,9 @@ Il Collegio non può disporre un’esclusione definitiva o di categoria, riserva
 
     c) l’assenza delle condizioni di sicurezza, dei DPI o della formazione richiesti dai Codici 1 e 14;
 
-    d) la pendenza di un ricorso con effetto sospensivo.
+    d) la pendenza di un ricorso con effetto sospensivo;
+
+    e) per la persona cresciuta nella Confederazione, il periodo che precede la scelta prevista dall’articolo 26.4 della Costituzione o la scadenza del relativo termine, ai sensi dell’articolo 6, comma 6, del Codice 5.
 
 4.  Prima di ogni misura per il rifiuto del CBO la persona è informata del diritto al Patto di Convivenza Autonoma, ai sensi dell’articolo 4.9 della Costituzione.
 
@@ -706,7 +760,7 @@ Durante la transizione la cessazione consiste nell’esclusione dal Cerchio pilo
 
     f) l’esclusione dai sorteggi per gli incarichi e per i Consigli per la durata del percorso.
 
-3.  Quando sussiste un pericolo concreto e attuale per l’incolumità altrui, che non può essere contenuto con le misure del comma 2, il Tribunale di Garanzia può disporre il contenimento protettivo in una Comunità di accompagnamento. Il contenimento protettivo dura finché persiste il pericolo, è riesaminato almeno ogni sei mesi e, in prima applicazione, non può superare complessivamente cinque anni per il Grado 5 e dieci anni per il Grado 6.
+3.  Quando sussiste un pericolo concreto e attuale per l’incolumità altrui, che non può essere contenuto con le misure del comma 2, il Tribunale di Garanzia può disporre il contenimento protettivo in una Comunità di accompagnamento. La Comunità di accompagnamento è una Comunità aperta, informata dei fatti e disponibile ad accogliere la persona, distinta dalla Comunità di Contenimento dell’articolo 32: non ha perimetro protetto né sorveglianza del Corpo di Tutela Civica. La decisione stabilisce l’obbligo di permanenza nella Comunità e un affiancamento quotidiano, con un percorso di trasformazione; il Cerchio di Garanzia della Comunità di accompagnamento ne verifica il rispetto e riferisce al Tribunale almeno ogni tre mesi. La persona non è trattenuta con la forza; il suo allontanamento è comunicato senza ritardo al Tribunale di Garanzia, che può rivedere le misure nei limiti del presente articolo e dell’articolo 34. Il contenimento protettivo dura finché persiste il pericolo ed è riesaminato almeno ogni sei mesi. La sua durata complessiva non può superare cinque anni per il Grado 5 e dieci anni per il Grado 6.
 
 4.  Durante il contenimento protettivo la persona conserva lo status di membro e le garanzie dell’articolo 32, comma 2.
 
@@ -787,7 +841,7 @@ Durante la transizione la cessazione consiste nell’esclusione dal Cerchio pilo
 
 ### Art. 35 — Riesame e definitività
 
-1.  Contro le decisioni dell’Assemblea di Chiarimento e del Consiglio di Trasformazione è ammesso ricorso al Collegio di Riesame dell’articolo 17, entro quattordici giorni dalla comunicazione.
+1.  Contro le decisioni dell’Assemblea di Chiarimento e del Consiglio di Trasformazione è ammesso ricorso al Collegio di Riesame dell’articolo 17, entro quattordici giorni dalla comunicazione. In questi ricorsi il componente dell’articolo 17, comma 3, lettera b), è sostituito da una persona con formazione giuridica validata secondo il Codice 5, sorteggiata dall’elenco dell’articolo 36, comma 1, lettera a).
 2.  Contro le decisioni del Tribunale di Garanzia è ammesso, entro trenta giorni, il riesame davanti a un secondo Tribunale di Garanzia, sorteggiato in un diverso Cerchio 2. Finché esiste un solo Cerchio 2, il secondo Tribunale è sorteggiato tra persone diverse e appartenenti ad altre Comunità.
 3.  Se il riesame è chiesto soltanto dalla persona destinataria della misura, questa non può essere aggravata.
 4.  La decisione è definitiva quando non è stato chiesto il riesame nei termini o quando è stata confermata, salvo quanto previsto dal comma 6.
@@ -799,7 +853,7 @@ Durante la transizione la cessazione consiste nell’esclusione dal Cerchio pilo
 1.  Le decisioni definitive degli organi previsti dal presente Capo e quelle del Collegio di Riesame sono pubblicate nell’Archivio federato delle decisioni, con i fatti accertati, il grado, le misure e la motivazione.
 2.  La pubblicazione avviene in forma anonimizzata, a tutela della persona offesa, della persona destinataria della misura e dei minori. Quando nel contesto locale l’identificazione sarebbe comunque possibile, è pubblicato soltanto il principio applicato.
 3.  Le decisioni non costituiscono precedente vincolante. L’organo che decide un caso analogo consulta l’Archivio e, se si discosta dall’orientamento prevalente, ne indica espressamente le ragioni.
-4.  Ogni anno il Cerchio di Garanzia di ciascun Cerchio 2 pubblica una sintesi degli orientamenti e delle divergenze rilevate. La sintesi non ha valore normativo; può fondare una proposta di modifica dei Codici.
+4.  Ogni anno uno dei Cerchi di Garanzia delle Comunità del Cerchio 2, designato a rotazione in coordinamento con gli altri ai sensi dell’articolo 36, comma 1, pubblica una sintesi degli orientamenti e delle divergenze rilevate. La sintesi non ha valore normativo; può fondare una proposta di modifica dei Codici.
 
 ### Art. 36 — Elenchi federati e sorteggio
 
@@ -811,7 +865,7 @@ Durante la transizione la cessazione consiste nell’esclusione dal Cerchio pilo
 
 2.  Il sorteggio è pubblico e tracciato secondo l’articolo 15 del Codice 3.
 
-3.  Non può essere sorteggiato chi appartiene al Cerchio interessato o vi ha svolto attività negli ultimi ventiquattro mesi, né chi ha un interesse nell’esito.
+3.  Non può essere sorteggiato dagli elenchi del comma 1 chi appartiene al Cerchio 1 interessato, cioè a quello della persona cui è attribuito il fatto o che è interessata dalla decisione, della persona offesa o dell’attività sottoposta ad audit o a parere, o vi ha svolto attività negli ultimi ventiquattro mesi, né chi ha un interesse nell’esito. Il presente comma non si applica ai componenti che i Codici fanno sorteggiare tra i membri del Cerchio 1 interessato, come quelli dell’articolo 27, commi 1 e 2.
 
 4.  Salvo diversa disposizione dei Codici, l’incarico di audit o di parere non supera trenta giorni. Il tempo dedicato è computato nel CBO.
 
@@ -821,4 +875,5 @@ Durante la transizione la cessazione consiste nell’esclusione dal Cerchio pilo
 2.  I fatti che costituiscono reato secondo l’ordinamento vigente restano soggetti alla giurisdizione dello Stato. Nessuno può essere dissuaso dal rivolgersi alle autorità; chi è in pericolo è aiutato a farlo. Sono rispettati gli obblighi di segnalazione e di denuncia previsti dalla legge.
 3.  Durante la transizione non possono essere eseguite misure di contenimento, di allontanamento coattivo o di localizzazione. L’articolo 25, comma 9, per l’accoglienza educativa protetta, e gli articoli 30, comma 3, 31, 32, 33 e 34 si applicano soltanto per le misure di protezione non coercitive e per gli effetti sull’appartenenza al Cerchio.
 4.  Durante la transizione la decadenza dallo status di membro consiste nell’esclusione dal Cerchio pilota, disposta secondo lo statuto dell’ente e la legge applicabile.
-5.  Finché nel Bacino non si possono sorteggiare i componenti richiesti, le funzioni che i Codici attribuiscono al Tribunale di Garanzia, al Collegio di Riesame e al Consiglio di Trasformazione sono esercitate da un collegio dello stesso numero di componenti, sorteggiato dall’elenco pubblico delle persone formate di altri Cerchi pilota o di enti affini che hanno accettato il presente Capo, tenuto ai sensi dell’articolo 36. Se l’elenco non consente il sorteggio nel termine, il collegio è sorteggiato tra i membri del Cerchio pilota estranei ai fatti, alle persone coinvolte e a ogni grado precedente, sul modello dell’articolo 35, comma 2. Il collegio formato soltanto da membri non può disporre l’accoglienza educativa protetta dell’articolo 25, comma 9, né le misure degli articoli 30, comma 3, 31 e 33. Se nessun collegio può essere costituito entro il termine di una convalida, la misura cessa.
+5.  Finché non è costituito un Bacino, o nel Bacino non si possono sorteggiare i componenti richiesti, le funzioni che i Codici attribuiscono al Tribunale di Garanzia, compreso il secondo Tribunale dell’articolo 35, comma 2, al Collegio di Riesame e al Consiglio di Trasformazione, e la sostituzione del Cerchio di Garanzia prevista dall’articolo 15, comma 3, sono esercitate da un collegio dello stesso numero di componenti, sorteggiato dall’elenco pubblico delle persone formate di altri Cerchi pilota o di enti affini che hanno accettato il presente Capo, tenuto ai sensi dell’articolo 36. Se l’elenco non consente il sorteggio nel termine, il collegio è sorteggiato, in deroga agli articoli 17, comma 3, 27, commi 2 e 3, e 36, comma 3, tra i membri del Cerchio pilota estranei ai fatti, alle persone coinvolte e a ogni grado precedente, sul modello dell’articolo 35, comma 2. Il collegio che svolge un riesame è composto da persone diverse da quelle che hanno deciso. Il collegio formato soltanto da membri non può disporre l’accoglienza educativa protetta dell’articolo 25, comma 9, né le misure degli articoli 30, comma 3, 31 e 33. Se nessun collegio può essere costituito entro il termine di una convalida, la misura cessa.
+6.  Dopo la chiusura della transizione, in ogni territorio in cui si applica la giurisdizione di uno Stato continuano ad applicarsi i commi 2, 3 e 4 e le disposizioni dei Codici che, per il periodo della transizione, rinviano al presente articolo o limitano gli interventi sulle persone a quanto consentito dalla legge vigente, tra cui gli articoli 1, comma 4, 26-bis, comma 9, 29, comma 6-bis, ultimo periodo, e 32-bis, comma 3, del presente Codice, gli articoli 2-bis, comma 3-quater, lettera f), 2-ter, comma 6, e 8, comma 10, del Codice 6, l’articolo 4-bis, comma 9, del Codice 10, gli articoli 7-bis, commi 2 e 3-ter, e 7-ter, comma 9, del Codice 12 e gli articoli 8-quinquies, comma 6, e 8-sexies, comma 13, del Codice 14. In questi casi i riferimenti al Cerchio pilota si intendono riferiti al Cerchio 1.

@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 6 — ON HEALTH"
 breve: "Code 6 — Health"
-versione: "V1.6"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 6
 id: "codice-06"
 slug: "code-06"
-allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 15 V1.7; Code 16 V1.7."
 ---
 
 ## PRELIMINARY TITLE — FUNDAMENTAL PRINCIPLES
@@ -106,7 +106,7 @@ f) during the transition, if the person does not consent, are ordered only by th
 
     c) is limited to what is strictly necessary and adopts the least invasive suitable measure;
 
-    d) is reviewed by the Guarantee Circle, at the request of any member, within seven days; individually ordered isolation and quarantine instead follow the validation of paragraph 3-quater, letter c);
+    d) is reviewed, at the request of any member, within seven days, by the members of the Guarantee Circles drawn by lot pursuant to Article 17, paragraph 1-bis, of Code 3; individually ordered isolation and quarantine instead follow the validation of paragraph 3-quater, letter c);
 
     e) is recorded with its reasons, duration and criteria for cessation, in compliance with confidentiality and with the access levels provided for by the Codes.
 
@@ -257,7 +257,7 @@ Code 4, Article 17, and Code 5, Article 9, apply. The second-instance Panel may 
 
 ### Art. 6 — Primary care and Health Storehouse
 
-1.  Every Storehouse has a Health Storehouse and a minimum Health Basket, defined by the federated Health Council in accordance with the competences under the Codes. The Basket includes at least:
+1.  Every Storehouse has a Health Storehouse and a minimum Health Basket. The list of the Health Basket and the minimum stock of the Health Storehouse are proposed by the Health Councils in federated coordination, as branches of the Medicine and Health Competence Circle, by means of an STV adopted pursuant to Article 3-bis of Code 2, and are approved by the Assembly with the Technical Annex provided for by Article 18, paragraph 2, of Code 1. The Basket includes at least:
 
     a) essential life-saving medicines;
 
@@ -288,8 +288,8 @@ Code 4, Article 17, and Code 5, Article 9, apply. The second-instance Panel may 
 ### Art. 7 — Frailty, interdependence and care
 
 1.  Older persons, children, persons with disabilities, persons with chronic illnesses, persons who are pregnant or in the period following childbirth, and persons in mourning or in a situation of crisis are entitled to enhanced protection and, when necessary, to the modulation of the CBO pursuant to Article 11 of Code 1 and to Code 12.
-2.  The care of frail persons falls within the List A CBO and is placed at level 4 of the hierarchy of priorities of Article 32 of Code 1.
-3.  Care activities may not be deferred on account of logistical shortage, unless vital emergencies of level 1 or 2 have to be managed. The decision to defer shall state its reasons and must provide, where possible, for a substitute measure.
+2.  The care of frail persons falls within the List A CBO. In the hierarchy of Article 32 of Code 1 the services of the Care Basket of levels 1 and 2 follow letter b) of paragraph 1 and Code 12; the other care activities follow letter d) and precede the management of perishable goods, pursuant to paragraph 1-ter of that Article.
+3.  Care activities may not be deferred on account of logistical shortage or of the management of perishable goods, unless the priorities of Article 32, paragraph 1, letters a) and b), of Code 1 so require, including the distribution of Basket food. The decision to defer shall state its reasons and must provide, where possible, for a substitute measure.
 4.  Every CBO Plan includes a share of care and mentoring. Care is not regarded as a residual activity to be carried out only after the other requirements have been met.
 5.  The modulation of the CBO does not entail a reduction of the Sufficiency Basket or prejudicial annotations.
 
@@ -402,7 +402,7 @@ The representative may not consent to a coercive measure in place of the person:
 
 4.  The injured person is entitled to care, to the maintenance of the Basket and, during convalescence, to the proposal of an adapted alternative CBO, when compatible with their condition.
 
-5.  The federated Health Council carries out, at least quarterly, an aggregate analysis of accidents and near misses in order to propose the updating of the STVs of Code 2 and of the Safety Sheets.
+5.  The Health Councils, in federated coordination as branches of the Medicine and Health Competence Circle, carry out, at least quarterly, an aggregate analysis of accidents and near misses in order to propose the updating of the STVs of Code 2 and of the Safety Sheets.
 
 6.  The prevention cycle comprises: recording of the event, analysis of the causes, updating of the measures, revision of the STVs and prevention of future events.
 

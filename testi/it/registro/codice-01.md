@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 1 — DEL CONTRIBUTO DI BASE OBBLIGATORIO E DEL SISTEMA DEI MAGAZZINI COMUNI"
 breve: "Codice 1 — Contributo di base e Magazzini comuni"
-versione: "V1.7"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 1
 id: "codice-01"
 slug: "codice-01"
-allineamento: "Costituzione V.30; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.34; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.7; Codice 16 V1.7."
 ---
 
 ## TITOLO I — PRINCIPI GENERALI
@@ -71,17 +71,17 @@ allineamento: "Costituzione V.30; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; C
 
     d) lo scostamento tra ore necessarie e ore disponibili;
 
-    e) la quota di ore dedicate alle funzioni civiche e alla documentazione, che non supera il limite dell’articolo 12-bis, comma 13, del Codice 3.
+    e) la quota di ore dedicate alle funzioni dell’articolo 12-bis, comma 13, del Codice 3, che non supera il limite ivi previsto; le ore di tutela civica e le altre ore della Lista D che non rientrano in tali funzioni sono indicate a parte.
 
 8.  Se le ore necessarie superano le ore disponibili entro il limite dell’articolo 3, l’Assemblea provvede nell’ordine seguente:
 
-    a) riduce le attività differibili secondo la gerarchia dell’articolo 32, a partire dall’ultimo livello;
+    a) riduce le attività differibili secondo la gerarchia dell’articolo 32, a partire dall’ultima priorità;
 
     b) semplifica gli adempimenti documentali che non incidono sulla sicurezza, secondo il principio di proporzionalità del Codice 2;
 
     c) ricorre al volontariato dell’articolo 6, comma 6, al mutualismo tra Cerchi dell’articolo 30 e al Pool previsto dal Codice 15;
 
-    d) attiva il Protocollo di Solidarietà nei casi previsti dall’articolo 36 della Costituzione.
+    d) chiede l’attivazione del Protocollo di Solidarietà ai sensi dell’articolo 36.2 della Costituzione.
 
 9.  Lo scostamento che persiste per due trimestri consecutivi è segnalato al Cerchio 2. I Bilanci del Lavoro costituiscono la base empirica per verificare il limite dell’articolo 3 e per le proposte di revisione ai sensi degli articoli 37 e 38 della Costituzione; durante la transizione rilevano ai fini delle soglie del Codice 16.
 
@@ -89,7 +89,7 @@ allineamento: "Costituzione V.30; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; C
 
 1.  Il CBO costituisce un dovere di solidarietà materiale. Non instaura un rapporto di lavoro subordinato e non costituisce, di per sé, una prestazione patrimoniale.
 2.  Il CBO non può superare una media di quindici ore settimanali, calcolata su base trimestrale. Il limite è inderogabile mediante delibera ordinaria.
-3.  La deroga al limite di cui al comma 2 è ammessa esclusivamente previa attivazione del Protocollo di Solidarietà Straordinaria previsto dall’articolo 36 della Costituzione e nel rispetto delle relative condizioni, garanzie e durate.
+3.  La deroga al limite di cui al comma 2 è ammessa esclusivamente previa attivazione del Protocollo di Solidarietà ai sensi dell’articolo 36.2 della Costituzione e nel rispetto delle relative condizioni, garanzie e durate.
 4.  Nessuna disposizione del presente Codice può essere interpretata come autorizzazione a superare il limite di cui al comma 2 al di fuori dei casi previsti dal comma 3.
 
 ## CAPO I — ALLOCAZIONE DEL FABBISOGNO CONTRIBUTIVO OBBLIGATORIO
@@ -238,7 +238,9 @@ allineamento: "Costituzione V.30; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; C
 
     c) **sospensione temporanea:** in caso di malattia, infortunio o malattia di un figlio minore, quando la condizione renda temporaneamente impossibile o non sicuro lo svolgimento del CBO. La condizione è attestata dal Consiglio Salute nei limiti delle informazioni necessarie;
 
-    d) **sostituzione solidale:** copertura temporanea delle ore non prestate da parte della Comunità, secondo il comma 2.
+    d) **sostituzione solidale:** copertura temporanea delle ore non prestate da parte della Comunità, secondo il comma 2;
+
+    e) **riduzione modulata:** riduzione temporanea del CBO, nella misura e per la durata indicate dal Consiglio Salute o dal Consiglio Cura, per gravidanza, lutto, crisi o altra condizione prevista dai Codici 6 e 12, compresa la riduzione dell’articolo 8, comma 2, lettera d), del Codice 6. Le ore non prestate sono coperte secondo il comma 2; si applicano i commi 3 e 4.
 
 2.  In caso di sospensione temporanea opera la Banca Ore Solidale di Comunità. Le ore non prestate sono coperte dalla Comunità e non generano debito individuale. Al rientro è ammessa una restituzione volontaria e concordata, compatibile con la salute e con il limite massimo di cui all’articolo 3. È vietato ogni meccanismo sanzionatorio per le ore coperte dalla Banca Ore Solidale.
 
@@ -296,7 +298,7 @@ allineamento: "Costituzione V.30; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; C
 
     c) Magazzino Tessile e Abitativo;
 
-    d) Magazzino di Cura;
+    d) Magazzino Salute, disciplinato dal Codice 6;
 
     e) Magazzino Digitale.
 
@@ -309,6 +311,8 @@ allineamento: "Costituzione V.30; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; C
 ### Art. 15 — Proprietà comune e destinazione dei beni eccedenti o obsoleti
 
 1.  I beni appartenenti ai Magazzini sono beni comuni, indivisi, inalienabili e non pignorabili, secondo la Costituzione.
+
+1-bis. Quando il Saldo previsto dal Codice 15 è attivo, i beni eccedenti che costituiscono Saldo Federabile ai sensi dell’articolo 2 del Codice 15 sono iscritti nel Pool e destinati secondo il Codice 15; il Cerchio non ne sceglie il destinatario. Il comma 2 si applica ai beni eccedenti non federabili, ai beni obsoleti, ai beni a rischio di spreco non riassegnati entro il termine dell’articolo 6 del Codice 15 e ai beni che l’organo competente per il Pool dichiara non necessari al Pool.
 
 2.  I beni eccedenti o divenuti obsoleti sono gestiti secondo il seguente ordine di priorità:
 
@@ -363,7 +367,7 @@ allineamento: "Costituzione V.30; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; C
 
     c) **beni necessari temporaneamente scarsi:** distribuzione secondo le regole di cui all’articolo 19.
 
-2.  Il contenuto del Paniere è definito nell’Allegato Tecnico annuale, approvato dall’Assemblea su proposta congiunta del Consiglio Salute e del Consiglio di Magazzino. La proposta è pubblicata e può essere contestata secondo le procedure applicabili.
+2.  Il contenuto del Paniere è definito nell’Allegato Tecnico annuale, approvato dall’Assemblea su proposta congiunta del Consiglio Salute e del Consiglio di Magazzino. La proposta riunisce le liste predisposte dai Consigli di settore secondo i Codici, compresi il Paniere Salute dell’articolo 6, comma 1, del Codice 6 e il Paniere Materiale dell’articolo 4 del C.1-Annex A; le liste hanno effetto soltanto con l’approvazione dell’Assemblea. La proposta è pubblicata e può essere contestata secondo le procedure applicabili.
 
 3.  Il presente Codice disciplina le modalità di accesso e distribuzione. La determinazione dei bisogni sanitari individuali compete al Consiglio Salute, nei limiti dei Codici 6 e 12.
 
@@ -466,7 +470,7 @@ allineamento: "Costituzione V.30; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; C
 
     d) un’attività formativa specialistica.
 
-La deroga è motivata e registrata. Quando comporta una trasferta, si applica la maggiorazione in CdR prevista dall’articolo 43, comma 2.
+La deroga è motivata e registrata. Quando comporta una trasferta, il tempo di viaggio è computato come ore di CBO e non dà diritto a CdR; per le trasferte svolte oltre il CBO si applica l’articolo 43, comma 2.
 
 6.  Il calcolo dei tempi di percorrenza è effettuato secondo criteri standardizzati definiti nell’Allegato Tecnico Mobilità, approvato dall’Assemblea.
 
@@ -510,7 +514,7 @@ La deroga è motivata e registrata. Quando comporta una trasferta, si applica la
 
     c) redistribuzione temporanea del CBO generico secondo criteri oggettivi e nel rispetto del limite massimo;
 
-    d) attivazione del Protocollo di Solidarietà Straordinaria previsto dall’articolo 36 della Costituzione, quando la capacità ordinaria sia insufficiente.
+    d) richiesta di attivazione del Protocollo di Solidarietà ai sensi dell’articolo 36.2 della Costituzione, quando la capacità ordinaria sia insufficiente.
 
 2.  L’ordine di cui al comma 1 è ordinario ma non inderogabile. È possibile saltare uno o più livelli quando risultino manifestamente inadeguati per la natura, l’urgenza o la specializzazione richiesta. La deroga è motivata e registrata.
 
@@ -543,6 +547,22 @@ La deroga è motivata e registrata. Quando comporta una trasferta, si applica la
 
 1-bis. I beni del Paniere che il Codice o l’Allegato che li prevede indica come differibili si collocano dopo la lettera e) del comma 1.
 
+1-ter. In deroga all’ordine del comma 1, la cura delle persone fragili prevista dalla lettera d) precede la gestione dei beni deperibili della lettera c). Gli alimenti del Paniere, anche deperibili, restano nella lettera b) e, quando la loro indisponibilità costituisce emergenza vitale ai sensi dell’articolo 4, comma 3, del Codice 9, nella lettera a).
+
+1-quater. Le scale di priorità dei Codici di settore, numerate in livelli, ordinano le attività e gli usi interni al settore e si applicano nel rispetto del comma 1 e dei commi 1-bis e 1-ter. Nei conflitti di capacità tra settori diversi, e in ogni caso di contrasto, prevalgono il comma 1 e i commi 1-bis e 1-ter. In ogni scala il livello 1 è il più alto: sono superiori i livelli di numero più basso e le riduzioni procedono dall’ultimo livello verso il primo. Quando un Codice indica un livello senza altra specificazione, si intende il livello della scala del Codice di settore competente per il bene o per la funzione. Il comma 1 è richiamato per lettere.
+
+1-quinquies. Nei Codici le espressioni «livelli 1 e 2 del Paniere», «Paniere di livello 1–2» e «Paniere 1-2» indicano:
+
+a) per l’energia, gli usi dei livelli 1 e 2 dell’articolo 2, comma 3, del Codice 8;
+
+b) per gli alimenti, le destinazioni dei livelli 1 e 2 dell’articolo 2, comma 5, del Codice 9;
+
+c) per la cura, le prestazioni del Paniere Cura dei livelli 1 e 2 previste dall’articolo 4, comma 1, del Codice 12;
+
+d) per gli altri beni e servizi del Paniere, compresi l’acqua, la salute, il Paniere Materiale e la logistica, i beni e i servizi delle lettere a) e b) del comma 1, esclusi quelli differibili ai sensi del comma 1-bis.
+
+Le stesse espressioni non indicano i Cerchi.
+
 2.  La gerarchia costituisce un criterio prevalente per risolvere i conflitti di capacità, ma non opera come automatismo privo di valutazione delle circostanze concrete.
 
 3.  È ammessa una deroga motivata quando sia necessario prevenire un danno maggiore, immediato e documentato, come un guasto idrico che comprometta i Magazzini, un’interruzione energetica, un rischio di crollo o un’interruzione della catena del freddo. In tal caso:
@@ -557,7 +577,7 @@ La deroga è motivata e registrata. Quando comporta una trasferta, si applica la
 
     e) la deroga è comunicata alla prima Assemblea utile per la verifica e, ove necessario, la ratifica.
 
-4.  I livelli di priorità di cui al comma 1, lettere a) e b), possono essere derogati solo nei casi e secondo la procedura del comma 3. Per i livelli successivi sono ammesse deroghe motivate sulla base di una valutazione tecnica del Consiglio di Magazzino.
+4.  Le priorità del comma 1, lettere a) e b), e la precedenza della cura prevista dal comma 1-ter possono essere derogate solo nei casi e secondo la procedura del comma 3. Per le lettere successive sono ammesse deroghe motivate sulla base di una valutazione tecnica del Consiglio di Magazzino.
 
 ## CAPO IV — INFRASTRUTTURE COMUNI, ENERGIA E RETE
 
@@ -696,7 +716,7 @@ e) la tabella pubblica fissa un limite annuo per persona; in prima applicazione,
 
 f) sono escluse le attività di culto, quelle riservate a una parte dei membri e il tempo già riconosciuto come CBO ai sensi dell’articolo 2, comma 3, del Codice 5.
 
-2.  Un’ora di attività validata attribuisce un CdR. Si applicano le maggiorazioni dell’articolo 10 per i compiti sgradevoli, usuranti o notturni. Per le trasferte dell’articolo 25, comma 5, la tabella pubblica stabilisce una maggiorazione entro i medesimi limiti.
+2.  Un’ora di attività validata attribuisce un CdR. Si applicano le maggiorazioni dell’articolo 10 per i compiti sgradevoli, usuranti o notturni. Per le trasferte svolte oltre il CBO la tabella pubblica stabilisce una maggiorazione entro i medesimi limiti. Le trasferte svolte nell’ambito del CBO, comprese quelle dell’articolo 25, comma 5, non danno diritto a CdR: il tempo di viaggio è computato come ore di CBO.
 3.  Per le opere e i servizi di particolare utilità comune l’Assemblea può attribuire un riconoscimento di utilità, motivato e pubblicato, entro il limite stabilito dalla tabella pubblica e comunque non superiore al numero di ore effettivamente impiegate. La valutazione considera i principi di Cura, Autonomia, Convivialità e Senso di cui all’articolo 9.1 della Costituzione.
 4.  Non danno diritto a CdR il CBO ordinario e le funzioni civiche della Lista D.
 5.  L’attribuzione è proposta dal Consiglio di Magazzino o dal Consiglio competente, con il supporto consultivo dell’IA Gestionale, ed è validata con la partecipazione di chi fruisce del bene o del servizio, secondo l’articolo 9.2 della Costituzione. È vietata l’attribuzione disposta esclusivamente da un’IA.
@@ -706,7 +726,7 @@ f) sono escluse le attività di culto, quelle riservate a una parte dei membri e
 1.  Ogni persona dispone di un registro personale e riservato dei propri CdR. Sono pubblicati soltanto dati aggregati.
 2.  Il saldo personale non può superare il tetto stabilito dall’Assemblea Generale ai sensi dell’articolo 14 del Codice 3. In prima applicazione il tetto è di duecentoquaranta CdR. Il saldo è la somma dei valori attuali dei CdR non impiegati, verificata al momento dell’attribuzione. I CdR sono attribuiti fino a concorrenza del tetto; oltre non ne sono attribuiti altri, comprese le maggiorazioni dell’articolo 10 e dell’articolo 43, comma 2.
 3.  I CdR non impiegati conservano il proprio valore per dodici mesi dalla maturazione. Dal compimento del dodicesimo mese il valore si riduce in proporzione al tempo, di un dodicesimo del valore iniziale al mese, fino a estinguersi al compimento del ventiquattresimo. La maturazione coincide con il giorno in cui l’attività è stata svolta. Ai fini dell’impiego e del tetto ogni CdR conta per il valore che ha in quel momento.
-4.  I parametri dei commi 2 e 3 sono calibrati ogni anno dall’Assemblea Generale. La calibrazione non può eliminare il tetto né la decrescenza.
+4.  I parametri dei commi 2 e 3 sono calibrati ogni anno dall’Assemblea Generale del Cerchio 2, entro i limiti eventualmente posti dall’Assemblea Generale del Cerchio 3. La calibrazione non può eliminare il tetto né la decrescenza.
 5.  Alla morte della persona o alla cessazione dello status di membro i CdR si estinguono.
 6.  Durante la sospensione prevista dall’articolo 7.3 della Costituzione, disposta ai sensi dell’articolo 29, comma 4-bis, del Codice 4, i CdR non possono essere maturati né impiegati.
 
@@ -741,7 +761,10 @@ f) sono escluse le attività di culto, quelle riservate a una parte dei membri e
 
 1.  I beni d’uso personale di cui all’articolo 10.3 della Costituzione non sono computati nei Magazzini e non possono essere collettivizzati. Si applicano i limiti dell’articolo 10.4 della Costituzione.
 2.  La proprietà d’uso di un’abitazione, di un laboratorio, di un campo o di uno strumento collettivo, ai sensi dell’articolo 10.2 della Costituzione, è registrata presso il Consiglio di Magazzino e, per i profili territoriali, nel Catasto previsto dal Codice 10. Si fonda sull’uso effettivo e continuativo.
-3.  La proprietà d’uso cessa per rinuncia, per mancato uso protratto oltre dodici mesi senza giustificazione o per violazione dei limiti dell’articolo 10.4 della Costituzione, accertata secondo il Codice 4. L’abitazione principale non può essere revocata senza l’assegnazione di un altro alloggio adeguato.
+3.  La proprietà d’uso cessa per rinuncia, per mancato uso protratto oltre dodici mesi senza giustificazione o per violazione dei limiti dell’articolo 10.4 della Costituzione, accertata secondo il Codice 4. L’abitazione principale non può essere revocata senza l’assegnazione di un altro alloggio adeguato, salvo i casi del comma 3-bis.
+
+3-bis. La proprietà d’uso dell’abitazione cessa inoltre con il trasferimento in un’altra Comunità ai sensi dell’articolo 49, con la dichiarazione dell’articolo 4.8 della Costituzione e con la cessazione dello status prevista dall’articolo 7.3-bis della Costituzione. Resta salva la continuità abitativa dei conviventi dello stesso Cerchio 0, ai sensi dell’articolo 3.7 della Costituzione. Nel caso del trasferimento l’abitazione è lasciata al termine della dotazione di Casa Ponte dell’articolo 49, comma 3; nel caso della dichiarazione dell’articolo 4.8, al termine dell’ospitalità dell’articolo 4.9, lettera b), della Costituzione, salvo che la persona chieda il Patto di Convivenza Autonoma: in tal caso resta nell’abitazione fino alla consegna della porzione, ai sensi dell’articolo 4-bis, comma 7, del Codice 10, e l’abitazione può esserle affidata con il Patto ai sensi dell’articolo 4.9-bis della Costituzione. Per chi resta senza Patto si applica l’articolo 4.9-ter della Costituzione. Nel caso dell’articolo 7.3-bis della Costituzione si applica l’articolo 29, comma 6-bis, del Codice 4.
+
 4.  Il divieto di accumulo privato oltre sette giorni del fabbisogno familiare, previsto dall’articolo 10.5 della Costituzione, riguarda i beni prelevati dai Magazzini. Sono fatte salve le necessità motivate, in particolare sanitarie, stagionali o di isolamento.
 
 ### Art. 47-bis — Alloggio adeguato
@@ -767,6 +790,40 @@ f) sono escluse le attività di culto, quelle riservate a una parte dei membri e
 5.  Ai fini dell’articolo 47, comma 3, del presente Codice e degli articoli 29 e 34 del Codice 4 è adeguato l’alloggio che rispetta il comma 1. Se non ve n’è uno disponibile è assegnato il migliore disponibile, e il suo adeguamento ha la precedenza nella pianificazione.
 
 6.  L’adeguamento avviene nel rispetto degli articoli 2 e 5 del Codice 10: il riuso e il recupero degli edifici precedono ogni nuova edificazione. Fino all’attivazione dei Codici 8 e 12 si applicano le lettere a), b) e d) del comma 1 e, del comma 2, la superficie, la composizione minima e il numero dei bagni.
+
+### Art. 47-ter — Pianificazione e assegnazione degli alloggi
+
+1.  La pianificazione abitativa prevista dall’articolo 3.7 della Costituzione è proposta dal Consiglio di Magazzino, tramite il Magazzino Tessile e Abitativo, con il parere obbligatorio del Consiglio Habitat e Territorio e del Consiglio Cura, ed è approvata dall’Assemblea del Cerchio 1. È aggiornata almeno una volta l’anno e comprende l’inventario degli alloggi d’uso e della loro adeguatezza ai sensi dell’articolo 47-bis, gli alloggi liberi, la lista d’attesa e il programma degli adeguamenti e dei recuperi.
+
+2.  Il Consiglio di Magazzino assegna gli alloggi con decisione motivata, secondo i bisogni reali e nell’ordine seguente:
+
+    a) le persone e i Cerchi 0 privi di alloggio, quelli che vivono in un alloggio che mette in pericolo la salute e le persone che devono lasciare il proprio alloggio per una misura di protezione dei Codici 4 o 12;
+
+    b) il bisogno valutato secondo la composizione del Cerchio 0, l’accessibilità necessaria e le condizioni di salute, queste ultime attestate dal Consiglio Salute senza indicarne il contenuto;
+
+    c) la vicinanza al Cerchio 0, ai luoghi di cura e al CBO della persona;
+
+    d) a parità di bisogno, l’ordine di iscrizione nella lista d’attesa.
+
+    L’assegnazione non può dipendere dalle ore di CBO, dai CdR o dagli incarichi svolti.
+
+3.  La lista d’attesa è pubblicata in forma anonima, con un identificativo, la data di iscrizione, il criterio applicato e la posizione, secondo il Codice 7, articolo 2.2. Le informazioni sanitarie non sono rese pubbliche.
+
+4.  Quando gli alloggi non bastano:
+
+    a) nessuno resta senza riparo: in attesa dell’assegnazione è assegnato il migliore alloggio disponibile ai sensi dell’articolo 47-bis, comma 5, o un posto in una Casa Ponte, senza il limite di durata dell’articolo 12.3 della Costituzione, e in mancanza un’area di sosta attrezzata ai sensi dell’articolo 6-ter, comma 6, del Codice 11;
+
+    b) la pianificazione dà la precedenza al riuso e al recupero degli edifici, ai sensi degli articoli 2 e 5 del Codice 10;
+
+    c) lo scambio di alloggi tra Cerchi 0 avviene solo con il consenso degli interessati, salvo l’articolo 47, commi 3 e 3-bis;
+
+    d) se la carenza dura oltre sei mesi, il Cerchio 1 ne informa il Cerchio 2, che assiste nella ricerca di altre collocazioni.
+
+5.  Contro l’assegnazione, il diniego e la posizione nella lista d’attesa è ammesso ricorso al Cerchio di Garanzia ai sensi dell’articolo 17 del Codice 3. Il ricorso non toglie a nessuno l’alloggio che già occupa.
+
+6.  Ai fini dell’articolo 32, comma 1, lettera b), l’assegnazione di un alloggio a chi ne è privo e la riparazione che rende abitabile un alloggio sono beni del Paniere. Gli adeguamenti dell’articolo 47-bis, comma 4, che non riguardano la salute sono differibili ai sensi dell’articolo 32, comma 1-bis.
+
+7.  La Comunità di destinazione prevista dall’articolo 49, comma 4, assegna l’alloggio secondo il presente articolo.
 
 ### Art. 48 — Successione nei beni d’uso
 

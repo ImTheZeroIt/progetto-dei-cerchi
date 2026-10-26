@@ -1,7 +1,7 @@
 ---
 titolo: "CONSTITUTION OF THE CONFEDERATION OF CIRCLES"
 breve: "Constitution"
-versione: "V.30"
+versione: "V.34"
 gruppo: "costituzione"
 ordine: 0
 id: "costituzione"
@@ -53,13 +53,13 @@ b) the Recognition Contribution (CdR), as recognition of the value generated.
 
 ## Art. 3 — Regime of goods
 
-3.1. The following are inalienable and non-tradable Commons, entrusted to the custody of the Circles: land, water, air, energy sources, the means of industrial production, network infrastructure, knowledge, the natural genetic code, the AI Nodes, the Storehouses and every other good classified as common by the Constitution or by the Federative Codes.
+3.1. The following are inalienable and non-tradable Commons, entrusted to the custody of the Circles: land, water, air, energy sources, the means of industrial production, network infrastructure, knowledge, the natural genetic code, the Community and Circle AI Nodes, the Storehouses and every other good classified as common by the Constitution or by the Federative Codes.
 
 3.2. A right of personal, family or community use is recognised over the Commons. Any act of sale, lease or mortgage of a Common Good is void.
 
-3.3. Personal-Use Goods are the main dwelling, personal effects and the individual work tools guaranteed to each person. They are governed in accordance with Article 10.
+3.3. Personal-Use Goods are the main dwelling, for as long as the ownership of use of it lasts pursuant to Article 10.2, personal effects and the individual work tools guaranteed to each person. They are governed in accordance with Article 10.
 
-3.4. Consumption Goods are those managed through the Common Storehouses and resupplied by federated logistics and by the Logistics AI systems on the basis of real requirements. Withdrawal takes place without monetary mediation, according to need, availability and carrying capacity, with the advisory support of the Community AI provided for in Article 10.5.
+3.4. Consumption Goods are those managed through the Common Storehouses and resupplied by federated logistics, with the support of the Community and Circle AIs, on the basis of real requirements. Withdrawal takes place without monetary mediation, according to need, availability and carrying capacity, with the advisory support of the Community AI provided for in Article 10.5.
 
 3.5. Money is abolished. The CdR, also called by custom the Gratitude Credit, is a personal instrument of recognition and allows limited access to non-essential goods and services. It is not currency, it is not unlimitedly accumulable, transferable or inheritable and it may not be used to purchase or to condition the rights of Article 1.2. The CdR is governed by Title III, Article 8.
 
@@ -103,7 +103,7 @@ f) violation of this Article constitutes a Grade 4 offence of usurpation of comm
 
 4.4-bis. The technical functions of the Councils referred to in Article 6.5 are not coordination functions within the meaning of paragraph 4.4, letters a) and b), and follow the duration and rotation established by Article 6.5. Letters c), d), e) and f) of paragraph 4.4 remain applicable.
 
-4.5. An external community that subscribes to the inviolable principles of Titles I and IV may apply to join the Confederation. Integration is subject to verification of the technological and logistical interoperability protocols by the Intermediate Circle of reference. The verification may not introduce political or ideological assessments beyond the constitutional requirements.
+4.5. An external community that subscribes to the fundamental rules of the Confederation, namely Titles I, IV, V and VII and the Inviolable Core of Article 37.4, may apply to join the Confederation in one of the following two ways: as an associated Community, which keeps its own internal order, or by also adopting the Federative Codes. The other rules of the Constitution and of the Codes that govern internal management, such as the CBO, the CdR, the Storehouses, internal bodies and assemblies and justice for internal conflicts, are tools available to the Communities: the associated Community is not required to adopt them if it respects the fundamental rules and guarantees, at the boundary with the higher Circles, the equivalence governed by the External Relations Code. The equivalence comprises in all cases the rights of every person, with appeal to the common guarantee bodies, the inventory and the Balance in the common format, a share of work for the common functions counted for the Community as a whole, persons on the sortition lists of the common bodies, the individual and secret vote of every member in the General Assemblies and the common standards of the goods exchanged. The associated Community may adopt individual tools of the Codes at any time and, when it uses a common tool, follows its rules. The Intermediate Circle of reference verifies only the technological and logistical interoperability protocols and, for the associated Community, the equivalence at the boundary. The verification may not introduce political or ideological assessments beyond the constitutional requirements and may not require changes to the internal life of the community.
 
 4.6. Every Circle 1 retains the right to withdraw from the Confederation by a resolution approved by a majority of three quarters of those entitled to vote. This provision constitutes a special rule with respect to Article 35.1.
 
@@ -133,7 +133,7 @@ c) to stable residence by means of an Autonomous Coexistence Pact with the Circl
 
 5.1. The Confederation is structured in concentric and subsidiary Circles:
 
-a) **Circle 0 — Care Nucleus.** It is the original unit of care of every person and is composed of one to fifteen persons, in individual, family, elective or cohabitation form. It performs daily functions of mutual care and primary hospitality. It is entitled to a Storehouse account and to a personal AI Node. Each member individually exercises the vote referred to in Article 36.1, without delegation. Circle 0 identifies a spokesperson by rotation solely for practical coordination and communication, without delegation of vote or representative powers. Circle 0 is inviolable: no one may enter it, record its dynamics, dissolve it or condition its composition, except for interventions strictly necessary for the protection of inviolable rights in accordance with Title VIII. Every person belongs to one Circle 0 only. The resolutions of the Base Community assess their own impact on Circle 0. The part of a resolution that infringes its inviolability is void;
+a) **Circle 0 — Care Nucleus.** It is the original unit of care of every person and is composed of one to fifteen persons, in individual, family, elective or cohabitation form. It performs daily functions of mutual care and primary hospitality. It is entitled to a Storehouse account and to a personal AI Node for each of its members. Each member individually exercises the vote referred to in Article 36.1, without delegation. Circle 0 identifies a spokesperson by rotation solely for practical coordination and communication, without delegation of vote or representative powers. Circle 0 is inviolable: no one may enter it, record its dynamics, dissolve it or condition its composition, except for interventions strictly necessary for the protection of inviolable rights in accordance with Title VIII. Every person belongs to one Circle 0 only. The resolutions of the Base Community assess their own impact on Circle 0. The part of a resolution that infringes its inviolability is void;
 
 b) **Circle 1 — Base Community.** It is the sovereign unit and manages the CBO, the Storehouse, local cycles, justice of Grade 1 and 2, health and basic education. It has a Community AI that is exclusively advisory. Its size is such as to allow the direct deliberation of all its members: as a rule not fewer than thirty and not more than five hundred persons. Above that threshold the Community assesses, by a Dossier pursuant to Article 33, its own division into several Communities;
 
@@ -191,7 +191,7 @@ Further Competence Circles may be established on the basis of a Dossier pursuant
 
 6.5. In every Circle 1 the Competence Circles operate through technical Councils governed by the Codes. Where the Community does not have a sufficient number of suitable persons, several Councils may be merged or constituted in shared form in Circle 2. The members are drawn by lot from among the suitable and available persons, remain in office for one year with staggered renewal and may not be drawn by lot again for the same Council until twelve months after the end of the term of office. Every person drawn by lot may refuse. The Assembly may remove the members at any time. In Communities with fewer than one hundred and fifty persons entitled to vote the Councils are combined into not more than three Area Councils, in accordance with the Code of Deliberation. The time devoted to administration shall not exceed one tenth of the total CBO of the Community.
 
-6.6. The Councils do not exercise powers of command. They adopt technical acts in execution of decisions, specifications and sheets already approved, formulate proposals and opinions and, solely in the cases provided for by the Codes for the protection of health, safety and data sovereignty, issue binding negative opinions. The binding negative opinion prevents the adoption of the decision until its cause has been removed, is reasoned and may be challenged before the guarantee bodies; it does not confer on the Council the power to decide in place of the Assembly.
+6.6. The Councils do not exercise powers of command. They adopt technical acts in execution of decisions, specifications and sheets already approved, formulate proposals and opinions and, solely in the cases provided for by the Codes for the protection of health, safety, data sovereignty and ecological limits, issue binding negative opinions. Ecological limits are the carrying capacity of ecosystems and the prohibition of irreversible harm provided for by Articles 14.2 and 14.6, measured with the indicators and thresholds of the Agroecological and Food Code, of the Habitat and Territory Code and of the Biodiversity Code. The binding negative opinion prevents the adoption of the decision until its cause has been removed, is reasoned and may be challenged before the guarantee bodies; it does not confer on the Council the power to decide in place of the Assembly.
 
 # TITLE III — ECONOMIC SYSTEM, EXCHANGE AND CONTRIBUTION
 
@@ -221,7 +221,7 @@ i) functions, conferred by sortition, of coordination, facilitation, guarantee, 
 
 Cultural, artistic, spiritual, recreational and affective activities, free research and contemplation are excluded from the CBO.
 
-7.3. The systematic and unjustified refusal of the CBO by an able adult person is addressed progressively by the Clarification Assembly of Circle 1. Before any measure, the readjustment of tasks and mediation shall be considered, and the person shall be informed of the right to the Autonomous Coexistence Pact referred to in Article 4.9, letter c). If these are unsuccessful, the CdR and access to non-essential resources may be suspended, without prejudice to the vital guarantees of Article 1.2. Persistence in the refusal for more than sixty days, in the absence of a valid conscientious objection, a recognised impediment or another justification provided for by the Code of Restorative Justice, constitutes a Grade 3 offence pursuant to Article 30.2.
+7.3. The systematic and unjustified refusal of the CBO by an able adult person is addressed progressively by the Clarification Assembly of Circle 1. Before any measure, the readjustment of tasks and mediation shall be considered, and the person shall be informed of the right to the Autonomous Coexistence Pact referred to in Article 4.9, letter c). If these are unsuccessful, the CdR and access to non-essential resources may be suspended, without prejudice to the rights of Article 1.2. Persistence in the refusal for more than sixty days, in the absence of a valid conscientious objection, a recognised impediment or another justification provided for by the Code of Restorative Justice, constitutes a Grade 3 offence pursuant to Article 30.2.
 
 7.3-bis. In implementation of Article 2.3, if, once the Transformation Plan ordered for the Grade 3 offence provided for by paragraph 7.3 has been concluded, including any renewal, the able adult person continues to refuse the CBO without justification, the Guarantee Tribunal may declare, with the guarantees of Article 31.5 and of the Codes, the cessation of their member status. Conscientious objection under Article 7.4, illness, disability, age, pregnancy and the other impediments, exemptions and justifications recognised by the Codes never constitute unjustified refusal. The cessation is the exception provided for this case by Article 1.3 and produces the effects of Article 4.8; it is not the loss of member status of Article 1.3-bis and does not entail any of the measures of Article 30.3. A portion of land from the share reserved for the Pact, with access to the necessary water, without a dwelling and without tools or other goods of the Community, is assigned to the person in custody of use, with the Autonomous Coexistence Pact in the form provided for this case by Article 4.9-bis; the person retains the Personal-Use Goods, drinking water, life-saving emergency care and the protection of minors guaranteed to anyone by the last sentence of Article 1.3, and the other rights of Article 4.9 within the limits of Article 4.9-bis. The person may apply at any time for readmission, by resuming the CBO: readmission may not be refused on account of the past refusal. Minor children retain member status and all rights; the Guarantee Tribunal decides in their interest where and with whom they live, in accordance with the Code of Care. Preconditions and procedure are governed by the Code of Restorative Justice and may not be extended to other cases, pursuant to Article 37.4, letter a).
 
@@ -233,7 +233,7 @@ Cultural, artistic, spiritual, recreational and affective activities, free resea
 
 8.1. Activities beyond the CBO that produce goods for the Common Storehouse or services for the Community give entitlement to the CdR. Within the CBO, only the supplements recognised for unpleasant, arduous or night tasks give entitlement to the CdR, in accordance with the Code of Contribution and Storehouses.
 
-8.2. The CdR is an instrument of recognition, not a currency of accumulation. It is not exchangeable for fundamental rights nor does it confer ownership of the Commons. It is calculated by the Circle taking into account time, burdensomeness and validated social utility; it recognises the contribution rendered and not the possession of qualifications, competences or offices. The calculation is carried out with the advisory support of the AI Node and community validation pursuant to Article 9.1. The CdR is subject to programmed decay and to a personal maximum ceiling; it is neither inheritable nor transferable. It may be used exclusively for non-essential goods and services, including ordinary hospitality in the Bridge Houses where provided for by the Code of Mobility. It may not be required for access to the vital guarantees.
+8.2. The CdR is an instrument of recognition, not a currency of accumulation. It is not exchangeable for fundamental rights nor does it confer ownership of the Commons. It is calculated by the Circle taking into account time, burdensomeness and validated social utility; it recognises the contribution rendered and not the possession of qualifications, competences or offices. The calculation is carried out with the advisory support of the Community AI Node and community validation pursuant to Article 9.1. The CdR is subject to programmed decay and to a personal maximum ceiling; it is neither inheritable nor transferable. It may be used exclusively for non-essential goods and services, including ordinary hospitality in the Bridge Houses where provided for by the Code of Mobility. It may not be required for access to the vital guarantees.
 
 8.3. The detailed rules on the CdR are contained in the Code of Contribution and Storehouses. The reproduction cost of goods and services is measured separately in Reproduction Cost Units (UCR), governed by the Code of Deliberation: UCRs are units of account and confer no personal credit.
 
@@ -341,7 +341,7 @@ d) priority of animal welfare over every human interest.
 
 14.4. Every Community contributes to the remediation, regeneration and repair of past industrial and extractive damage, in accordance with the applicable procedures and the principle of collective responsibility for historical damage.
 
-14.5. The Zero Waste principle constitutes an obligation. Landfill and incineration are prohibited. All waste is destined for recovery, reuse, repair, composting or another compatible material cycle. Traceability is public and verifiable through the Storehouse and the AI Node.
+14.5. The Zero Waste principle constitutes an obligation. Landfill and incineration are prohibited. All waste is destined for recovery, reuse, repair, composting or another compatible material cycle. Traceability is public and verifiable through the Storehouse and the Community AI Node.
 
 14.6. The carrying capacity of ecosystems prevails over every economic plan. No Circle may authorise a production that exceeds the biophysical limits detected.
 
@@ -397,6 +397,8 @@ e) Community Medical and Veterinary Rescue.
 
 17.8. The composition, training, equipment and procedures of the Civic Protection Corps are governed by the Code of Safety, in compliance with this Article and with Article 18.
 
+17.9. Every person may defend themselves and other persons against an ongoing or imminent aggression against physical or sexual integrity, where the danger is concrete and immediate and not merely feared, even if the Civic Protection Corps is not present. Within the same limits they may defend an animal against ongoing ill-treatment that injures it or makes it suffer, pursuant to Article 13. The defence is unarmed and follows the principles of Article 16.4: it consists in getting away, in bringing persons and animals to safety, in interposing oneself and, where this is not enough, in the use of only the force strictly necessary and proportionate to bring the aggression or the ill-treatment to an end. Ordinary objects found on the spot may be used for shielding oneself; to strike, only where there is danger to life, of serious injury or of sexual violence. Weapons, attack, revenge, punishment, the use of force after the danger has ceased and the use of force on persons to protect property alone are excluded in all cases. Defence within these limits does not constitute an offence. Entry into a Circle 0 without the consent of those who live there is permitted only within the limits of Article 5.1, letter a). The Code of Safety governs its limits and the reporting of the fact; the Code of Restorative Justice governs the assessment and excess, taking into account the fear and distress of the person defending themselves.
+
 ## Art. 18 — Video surveillance and prohibition of biometric control
 
 18.1. Surveillance may not be used as a form of government, social control or preventive management of the territory.
@@ -423,7 +425,7 @@ e) Community Medical and Veterinary Rescue.
 
 19.3. Discoveries, medicines, algorithms, hardware schematics and AI models are in the public domain, without prejudice to personal data and to information whose dissemination would violate inviolable rights. In the sectors classified as Commons, patents and closed code are void.
 
-19.4. Every Community physically possesses the hardware and a verifiable copy of the source code of every system used. Black box updates are prohibited.
+19.4. Every Community physically possesses the hardware and a verifiable copy of the source code of every system used. Black box updates are prohibited. The Codes may admit, for a limited time and with a public Substitution Plan, systems whose source code is not available, excluding those that propose or decide on rights, voting and Commons.
 
 19.5. Local, open-source, inspectable and limited-domain AIs are permitted. When they operate offline, they are trained or adapted as a priority on the data of the Community to which they belong. The architecture is not pyramidal and no local model may unilaterally assume control of the AIs of other Circles. Personal data remain in the Circles of origin, except with express consent or where necessity is provided for by the Constitution.
 
@@ -497,6 +499,8 @@ e) Community Medical and Veterinary Rescue.
 
 26.4. Within twelve months of completion of the eighteenth year, the person who has grown up in the Confederation expressly chooses whether to be a member of it, to live by means of an Autonomous Coexistence Pact or to leave it. The choice is free, informed and always open to reconsideration. It is preceded, if the person so wishes, by a period of acquaintance with other Communities and with external realities. Whatever the choice, the Community shall ensure the material support necessary for the start of autonomous life. Until the choice is made, the person retains the rights of a member and the contribution regime provided for minors; once the time limit has elapsed without an express choice, remaining counts as accession, without prejudice to the right in Article 4.8.
 
+26.5. The right of Article 4.8 also belongs to minors. From completion of the sixteenth year the minor exercises it personally; until then it is exercised on their behalf, solely in their interest and after informing and hearing them, by the person who holds responsibility for their care, in accordance with the Code of Care. The declaration that a person makes for themselves does not extend to the minors for whom they hold responsibility for care. Articles 1.3 and 4.9-bis remain unaffected.
+
 ## Art. 27 — The elderly and end of life
 
 27.1. The right to remain at home is guaranteed, with community support in shifts included in the CBO.
@@ -517,7 +521,7 @@ e) Community Medical and Veterinary Rescue.
 
 29.2. The whole Community is a place of learning: workshops, fields, kitchens, Storehouses, woods and computing Nodes.
 
-29.3. Learning is founded on practical activities, mentoring and free play. Every learner is accompanied by three reference figures on quarterly rotation, belonging to different Competence Circles and not belonging to the same family or to the same Circle 0.
+29.3. Learning is founded on practical activities, mentoring and free play. Every minor learner is accompanied by three reference figures on quarterly rotation, belonging to different Competence Circles and not belonging to the same family or to the same Circle 0.
 
 29.4. By the eleventh year of age literacy is guaranteed, comprising at least reading and writing, basic mathematics, use of the local AIs, repair of a complex object, full-cycle cultivation of food, human and animal first aid and non-violent mediation. Validation takes place by practical demonstration before Circle 1 and not by external examination.
 
@@ -533,7 +537,7 @@ e) Community Medical and Veterinary Rescue.
 
 30.1. Punitive penalty as an end in itself is abolished. No suffering may be inflicted without restorative, re-educational or protective purposes. The measures pursue exclusively reparation, re-education and the immediate protection of the injured person, of the Community and of the perpetrator of the act. Inhuman, degrading or afflictive treatment is prohibited.
 
-30.2. The system is structured in six progressive grades, ordered on the basis of the intensity of the intervention and of the containment necessary, the seriousness of the act, repetition and the concrete and present danger. Preconditions, types of offence and arrangements for enforcement are governed by the Code of Restorative Justice in compliance with proportionality, subsidiarity and the inviolable rights of Article 1.2. No measure may suppress the vital guarantees, except as provided in Article 1.3-bis and in the following paragraphs.
+30.2. The system is structured in six progressive grades, ordered on the basis of the intensity of the intervention and of the containment necessary, the seriousness of the act, repetition and the concrete and present danger. Preconditions, types of offence and arrangements for enforcement are governed by the Code of Restorative Justice in compliance with proportionality, subsidiarity and the inviolable rights of Article 1.2. No measure may suppress the vital guarantees of Article 30.4. Only the measures of Article 1.3-bis may reduce the rights of Article 1.2 to those guarantees, within the limits of paragraphs 3 and 4. The cessation of status provided for by Article 7.3-bis is not a measure under this Article.
 
 30.3. For the cases in Article 1.3-bis, extreme measures of protection may be applied: High-Security Containment and Definitive Removal from the Circles concerned. High-Security Containment consists in the placement of the person in a Containment Community with a protected perimeter, under the surveillance of the Civic Protection Corps and with maintenance of the minimum guarantees provided for in paragraph 4. Definitive Removal consists in the permanent prohibition on residing in and on accessing the Circles in which the injured person and the affected community live, with relocation to another Circle willing to receive the person or by means of an Autonomous Coexistence Pact. The regime, duration, two-chances rule and review are governed by the Code of Restorative Justice.
 
@@ -561,7 +565,9 @@ b) the Transformation Council, for offences of Grade 3;
 
 c) the Guarantee Tribunal of Circle 2, for offences of Grade 4, 5 and 6, for urgent review within twenty-four hours and for the other guarantee functions assigned by the Codes;
 
-d) the Guarantee Circle of Circle 1, for restorative facilitation, the protection of procedural guarantees and the appeals provided for by the Codes.
+d) the Guarantee Circle of Circle 1, for restorative facilitation, the protection of procedural guarantees and the appeals provided for by the Codes;
+
+e) the Review Panel, constituted for the individual appeal, for appeals against the decisions of the bodies of letters a) and b) and against the outcomes of the restorative procedure facilitated by the body of letter d).
 
 31.4. Every body is assisted by a mediation AI that is exclusively advisory, has no decision-making power and is subject to the non-derogable right of human override.
 
@@ -663,7 +669,7 @@ k) this paragraph.
 
 ## Art. 38 — Adoption, founding regime and gradualness
 
-38.1. The Constitution and the Federative Codes enter into force, for each Base Community, with the act of accession resolved upon by the persons who constitute it. The accession of every person is individual, voluntary and revocable pursuant to Article 4.8.
+38.1. The Constitution and the Federative Codes enter into force, for each Base Community, with the act of accession resolved upon by the persons who constitute it. For the associated Community they apply in accordance with Article 4.5 and the External Relations Code. The accession of every person is individual, voluntary and revocable pursuant to Article 4.8.
 
 38.2. Until at least three Extended Circles exist, the revision of the Constitution and the approval and amendment of the Federative Codes follow the founding regime:
 

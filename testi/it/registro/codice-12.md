@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 12 — CURA DI COMUNITÀ, FRAGILITÀ FUNZIONALI E SALUTE DI COMUNITÀ"
 breve: "Codice 12 — Cura di comunità"
-versione: "V1.4"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 12
 id: "codice-12"
 slug: "codice-12"
-allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.7; Codice 16 V1.7."
 ---
 
 ## Art. 1 — Oggetto, definizioni e ambito di competenza
@@ -27,7 +27,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     f) **Scheda Sicurezza di cura**: il documento operativo che individua i rischi connessi a una specifica attività di cura e stabilisce le misure preventive, le competenze richieste, le procedure di interruzione e le modalità di sostituzione in caso di indisponibilità di una risorsa essenziale;
 
-    g) **STV Cura**: la specifica tecnica vincolante, adottata secondo il Codice 2, che definisce standard, quantità minime, procedure e modalità operative dei servizi disciplinati dal presente Codice.
+    g) **STV Cura**: la Scheda Tecnica di Validazione, adottata secondo l’articolo 3-bis del Codice 2, che definisce standard, quantità minime, procedure e modalità operative dei servizi disciplinati dal presente Codice.
 
 3.  Sono beni comuni infrastrutturali inalienabili:
 
@@ -72,7 +72,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 1.  **Universalità.** Ogni persona ha diritto alle prestazioni essenziali del Paniere Cura corrispondenti ai livelli 1 e 2, senza subordinazione alla contribuzione individuale al CBO e secondo le garanzie previste dal Codice 1.
 2.  **Autonomia della fragilità funzionale.** La fragilità funzionale costituisce una condizione rilevante ai fini della cura di comunità, distinta dalla diagnosi clinica. Il suo accertamento non richiede, di per sé, una valutazione sanitaria. Gli atti clinici restano disciplinati dal Codice 6.
 3.  **Prossimità e continuità.** La cura essenziale è organizzata, per quanto possibile, entro il Cerchio 1. Le prestazioni che richiedono competenze o strutture non disponibili localmente sono garantite mediante la rete federata di cui all’articolo 6.
-4.  **Priorità e scarsità.** Le priorità generali del Paniere sono quelle stabilite dal Codice 1, articolo 32. In caso di insufficienza del tempo di cura, la riduzione riguarda in primo luogo le attività di livello superiore, a partire dal livello 5, nel rispetto della gerarchia del Codice 1 e senza pregiudicare le prestazioni essenziali dei livelli inferiori. All’interno delle priorità applicabili, le decisioni tengono conto dell’urgenza, della gravità del bisogno e del rischio di interruzione della cura.
+4.  **Priorità e scarsità.** Le priorità generali del Paniere sono quelle stabilite dal Codice 1, articolo 32. In caso di insufficienza del tempo di cura, la riduzione riguarda in primo luogo le attività dell’ultimo livello della sequenza dell’articolo 4, comma 7, e procede verso i livelli superiori, nel rispetto della gerarchia del Codice 1 e senza pregiudicare le prestazioni essenziali dei livelli 1 e 2. All’interno delle priorità applicabili, le decisioni tengono conto dell’urgenza, della gravità del bisogno e del rischio di interruzione della cura.
 5.  **Non accumulo e non monetizzabilità.** Il tempo essenziale di cura non è monetizzabile né accumulabile individualmente in misura tale da sottrarre disponibilità agli altri aventi diritto. L’eventuale limite tecnico di accumulo è definito mediante STV, sulla base della capacità effettiva del servizio e con criteri pubblici.
 6.  **Trasparenza e riservatezza.** Gli inventari degli spazi e delle dotazioni, nonché i bilanci del tempo di cura, sono pubblicati in forma aggregata e non identificativa. I dati individuali necessari alla presa in carico sono trattati esclusivamente per tale finalità, secondo il Codice 7, articolo 2.2.
 7.  **Reversibilità e riesame.** Quando la fragilità è temporanea, il piano individuale di cura prevede, se appropriato, un percorso di sostegno all’autonomia e un termine o una condizione di riesame. Il riesame non può determinare l’interruzione automatica delle prestazioni essenziali in assenza di una nuova valutazione.
@@ -160,17 +160,17 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 6.  La lista minima delle prestazioni del Paniere Cura è approvata dall’Assemblea su proposta del Consiglio Cura. È richiesto il parere obbligatorio del Consiglio Salute limitatamente ai profili sanitari. La lista, gli standard e le procedure sono pubblicati nella STV Paniere Cura.
 
-7.  Le priorità operative si applicano nel rispetto del Codice 1, articolo 32, e secondo la seguente sequenza, da valutare in relazione all’urgenza e al bisogno individuale:
+7.  Le priorità operative si applicano nel rispetto del Codice 1, articolo 32, e secondo la seguente sequenza di livelli, da valutare in relazione all’urgenza e al bisogno individuale:
 
-    a) sopravvivenza, igiene essenziale e riposo protetto;
+    a) livello 1: sopravvivenza, igiene essenziale e riposo protetto;
 
-    b) cura dell’infanzia da zero a tre anni e sostegno alle persone in grande età non autosufficienti;
+    b) livello 2: cura dell’infanzia da zero a tre anni e sostegno alle persone in grande età non autosufficienti;
 
-    c) convalescenza e periodo successivo al parto;
+    c) livello 3: convalescenza e periodo successivo al parto;
 
-    d) sostegno al mantenimento o al recupero dell’autonomia;
+    d) livello 4: sostegno al mantenimento o al recupero dell’autonomia;
 
-    e) ulteriori prestazioni di cura.
+    e) livello 5: ulteriori prestazioni di cura.
 
 ## Art. 5 — Servizi, tempo di cura e coordinamento con gli altri Codici
 
@@ -210,7 +210,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 1.  Ogni Cerchio 1 attiva e mantiene gli spazi di cura necessari, direttamente o mediante accordi di rete. Gli spazi sono accessibili, possono essere suddivisi in aree funzionali e dispongono di Schede Sicurezza aggiornate per le attività effettivamente svolte.
 2.  La destinazione d’uso e la localizzazione degli spazi sono disciplinate dal Codice 10. Il Codice 12 disciplina la funzione di cura svolta al loro interno, senza modificare la destinazione territoriale o i vincoli di competenza del Codice 10.
-3.  La Confederazione assicura almeno una struttura federata con competenze avanzate per ogni bacino composto da tre o quattro Cerchi 1. La pianificazione individua la dimensione del bacino, i servizi disponibili e le modalità di accesso. Le strutture garantiscono, secondo necessità, competenze di pediatria sociale, supporto alla disabilità complessa e spazi temporanei di emergenza.
+3.  La Confederazione assicura in ogni Cerchio 2 almeno una struttura federata con competenze avanzate ogni tre o quattro Cerchi 1 che lo compongono. La pianificazione, deliberata dall’Assemblea Generale del Cerchio 2, individua i servizi disponibili e le modalità di accesso. Le strutture garantiscono, secondo necessità, competenze di pediatria sociale, supporto alla disabilità complessa e spazi temporanei di emergenza.
 4.  L’accesso alle strutture federate avviene secondo criteri pubblici, non discriminatori e compatibili con l’urgenza del bisogno. L’inventario delle risorse è condiviso tra i Cerchi interessati e aggiornato con le modalità stabilite dalla STV.
 5.  La misurazione dei servizi è limitata ai dati necessari per la sicurezza, la programmazione del tempo di cura e la verifica del Paniere Cura. I dati individuali eventualmente necessari per la presa in carico restano riservati; gli indicatori pubblici sono aggregati e non profilanti. È vietata la profilazione individuale comportamentale non necessaria alle finalità del presente Codice, in conformità al Codice 7, articolo 2.2.
 
@@ -257,6 +257,40 @@ La decisione è riesaminata dal Tribunale almeno ogni sei mesi e in ogni momento
 4.  Ogni persona può designare in anticipo un rappresentante per il caso di incapacità, anche con il testamento biologico previsto dall’articolo 8-bis del Codice 6.
 5.  In mancanza di designazione e in caso di urgenza, il Cerchio di Garanzia nomina entro ventiquattro ore un rappresentante temporaneo, scelto nell’ordine tra le persone del Cerchio 0 indicate dalla persona, la sua persona di fiducia e una persona sorteggiata con competenza L2 nella cura, priva di conflitti di interesse. L’incarico dura non più di trenta giorni ed è rinnovabile con decisione motivata fino alla nomina del rappresentante stabile prevista dall’articolo 2-ter, comma 5, del Codice 6, che il Cerchio di Garanzia chiede al Tribunale di Garanzia quando l’incapacità dura o si prevede che duri oltre sessanta giorni.
 6.  Il rappresentante decide secondo la volontà espressa o presumibile della persona e, in mancanza, secondo il suo migliore interesse. L’incarico cessa quando la persona recupera la capacità.
+
+## Art. 7-ter — Scelta residenziale e uscita dei minori dalla Confederazione
+
+1.  In attuazione dell’articolo 26.2 della Costituzione, il minore che ha compiuto quattordici anni e ha raggiunto l’autonomia può scegliere di vivere in un Cerchio 0 diverso da quello delle persone che ne hanno la responsabilità di cura, nella stessa o in un’altra Comunità, con il consenso di chi vi abita, oppure in un alloggio assegnato ai sensi dell’articolo 47-ter del Codice 1. La scelta non modifica lo status di membro né i diritti dell’articolo 26 della Costituzione. Il minore può in ogni momento tornare a vivere con le persone che ne hanno la responsabilità di cura.
+
+2.  L’autonomia è valutata congiuntamente dal Consiglio Cura e dal Consiglio delle Competenze, su richiesta del minore. Entro trenta giorni dalla richiesta essi ascoltano il minore, assistito, se lo desidera, dalla persona di fiducia prevista dall’articolo 31.5 della Costituzione, le persone che ne hanno la responsabilità di cura e chi lo accoglie, e verificano:
+
+    a) che la scelta sia libera, stabile e non determinata da pressioni di altre persone;
+
+    b) che il minore sia in grado di provvedere alla propria vita quotidiana con il sostegno disponibile;
+
+    c) che la nuova collocazione sia sicura e gli assicuri l’alloggio, il Paniere, le cure, l’apprendimento e i rapporti con le persone care.
+
+La decisione è motivata e indica chi prende le decisioni quotidiane e come sono mantenuti i rapporti con le persone che hanno la responsabilità di cura, salvo che ciò nuoccia al minore. La responsabilità di cura e il consenso alle cure previsto dall’articolo 2-ter del Codice 6 restano a chi li esercita, salvo una decisione del Tribunale di Garanzia ai sensi dell’articolo 7-bis, comma 3-bis.
+
+3.  La scelta residenziale e l’opposizione delle persone che hanno la responsabilità di cura non costituiscono, da sole, violenza, grave negligenza o pregiudizio ai sensi dell’articolo 7-bis. Se la richiesta rivela violenza, grave negligenza o pregiudizio, il Consiglio Cura attiva il percorso di protezione dell’articolo 7-bis, che prevale sulla procedura del presente articolo.
+
+4.  Contro la decisione del comma 2, o se essa non è presa nel termine, il minore e ciascuna persona che ne ha la responsabilità di cura possono ricorrere entro quattordici giorni al Tribunale di Garanzia, che decide entro trenta giorni con le garanzie dell’articolo 7-bis, comma 3-bis, tenendo conto della volontà del minore secondo l’età e la maturità. Contro la decisione del Tribunale è ammesso il riesame dell’articolo 35, comma 2, del Codice 4.
+
+5.  Dal compimento del sedicesimo anno il minore può rendere da sé la dichiarazione dell’articolo 4.8 della Costituzione, ai sensi dell’articolo 26.5 della Costituzione. La dichiarazione è preceduta da un colloquio con il Consiglio Cura, nel quale il minore può farsi assistere dalla persona di fiducia; il Consiglio lo informa degli effetti dell’articolo 4.8, dei diritti che conserva ai sensi del comma 8, del Patto di Convivenza Autonoma e della riammissione, e verifica con lui dove e con chi vivrà. Il colloquio si svolge entro quattordici giorni dalla richiesta; decorso il termine senza colloquio, la dichiarazione può essere resa comunque. Le persone che hanno la responsabilità di cura sono informate, salvo che ciò esponga il minore a pericolo. Se, prima del diciottesimo anno, il minore non è in grado di decidere, si applica il comma 6.
+
+6.  Fino al compimento del sedicesimo anno la dichiarazione dell’articolo 4.8 della Costituzione per il minore è resa da chi ne ha la responsabilità di cura, soltanto nell’interesse del minore, dopo averlo informato e ascoltato in modo adatto all’età; il parere del minore ha un peso crescente con l’età e la maturità, ai sensi dell’articolo 26.2 della Costituzione. Se le persone responsabili sono più d’una, decidono d’accordo. La dichiarazione che una persona rende per sé non si estende ai minori di cui ha la responsabilità di cura.
+
+7.  Entro quattordici giorni dalla dichiarazione del comma 5 o del comma 6, possono rivolgersi al Tribunale di Garanzia il minore, ciascuna persona che ne ha la responsabilità di cura o il Consiglio Cura. Il Tribunale ascolta il minore, assistito dalla persona di fiducia, e le persone responsabili e decide entro trenta giorni:
+
+    a) per la dichiarazione del comma 5, verifica soltanto che sia libera e informata e che il minore sia in grado di decidere, senza valutarne l’opportunità; il ricorso non ne sospende gli effetti;
+
+    b) per la dichiarazione del comma 6, decide secondo l’interesse del minore, tenendo conto del suo parere; fino alla decisione la dichiarazione non produce effetti per il minore. Se il minore resta membro, il Tribunale decide anche dove e con chi vive, ai sensi dell’articolo 7-bis, comma 3-bis.
+
+Contro la decisione è ammesso il riesame dell’articolo 35, comma 2, del Codice 4.
+
+8.  Il minore che non è più membro conserva in ogni caso l’acqua potabile, le cure d’emergenza salvavita e la protezione dei minori garantite dall’articolo 1.3 della Costituzione, i diritti dell’articolo 26 della Costituzione richiamati dall’articolo 4.9-bis, compreso l’accesso alle cure e all’apprendimento, e gli altri diritti dell’articolo 4.9. Può continuare a vivere nel proprio Cerchio 0, con il consenso di chi vi abita, e può chiedere in ogni momento la riammissione ai sensi dell’articolo 4.8 della Costituzione.
+
+9.  Durante la transizione il presente articolo si applica nei limiti consentiti dalla legge vigente sulla responsabilità di cura e sulla partecipazione dei minori agli enti, ai sensi dell’articolo 37 del Codice 4. La scelta residenziale contro la volontà di chi ha la responsabilità di cura e le decisioni del Tribunale previste dai commi 4 e 7 spettano alle autorità dello Stato competenti; il Consiglio Cura sostiene il minore.
 
 ## Art. 8 — Registro Dipendenze della cura
 

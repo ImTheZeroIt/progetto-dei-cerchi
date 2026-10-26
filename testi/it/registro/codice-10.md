@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 10 — HABITAT E TERRITORIO"
 breve: "Codice 10 — Habitat e territorio"
-versione: "V1.5"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 10
 id: "codice-10"
 slug: "codice-10"
-allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.7; Codice 16 V1.7."
 ---
 
 ## Art. 1 — Oggetto, definizioni e natura giuridica
@@ -43,7 +43,9 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     f) **risorse minerarie:** i metalli, i minerali e le rocce allo stato naturale, nel sottosuolo o affioranti, e quelli contenuti in discariche e in depositi di scarti di estrazioni passate, finché non sono recuperati; non comprendono l’acqua, disciplinata dal Codice 8;
 
-    g) **giacimento:** concentrazione di risorse minerarie accertata e iscritta nel Catasto.
+    g) **giacimento:** concentrazione di risorse minerarie accertata e iscritta nel Catasto;
+
+    h) **bacino territoriale:** il territorio del Cerchio 2 a cui appartiene il Cerchio 1 interessato. Non coincide con il bacino idrografico, che per l’acqua è disciplinato dall’articolo 6-bis, comma 7, del Codice 8.
 
 3.  Sono beni comuni infrastrutturali inalienabili:
 
@@ -79,11 +81,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 5.  I divieti territoriali si applicano anche quando un trattamento sia altrimenti contemplato da una STV, salvo le deroghe espressamente previste dal Codice 9 e dal presente articolo.
 
-6.  Una deroga ai divieti nella fascia di rispetto è ammessa solo nei casi seguenti:
-
-    a) emergenza fitosanitaria prevista dal Codice 9, articolo 2, comma 4, lettera d);
-
-    b) intervento di soccorso sulle colonie previsto dal Codice 9, articolo 6-bis, comma 5.
+6.  Una deroga ai divieti nella fascia di rispetto è ammessa soltanto in caso di emergenza fitosanitaria estrema prevista dal Codice 9, articolo 2, comma 4, lettera d), e soltanto per i prodotti ivi ammessi. I divieti della lettera b) del medesimo comma non sono derogabili. L’intervento di soccorso sulle colonie segue l’articolo 6-bis, comma 5, lettera c), del Codice 9 e non richiede deroga.
 
 La deroga è deliberata dall’Assemblea su proposta del Consiglio Agroecologico, previa intesa con il Consiglio Habitat e Territorio e acquisizione del parere obbligatorio del Consiglio Biodiversità. La decisione indica durata, tracciamento, Piano di Uscita e modalità di registrazione nel nodo della Rete Agroecologica Federata.
 
@@ -174,7 +172,7 @@ La deroga è deliberata dall’Assemblea su proposta del Consiglio Agroecologico
 
     c) la compensazione assicura, separatamente e cumulativamente, l’equivalenza della funzione fertile e quella della funzione ecologica;
 
-    d) è acquisito il parere vincolante del Consiglio Agroecologico, che costituisce eccezione espressa alla regola generale dell’articolo 3, comma 5;
+    d) è acquisito il parere del Consiglio Agroecologico sulla perdita della funzione fertile e sulla compensazione della lettera c); il parere negativo è vincolante a tutela dei limiti ecologici, ai sensi dell’articolo 8 del Codice 3, e costituisce eccezione espressa alla regola generale dell’articolo 3, comma 5;
 
     e) l’Assemblea Generale approva la modifica a maggioranza qualificata.
 
@@ -281,7 +279,7 @@ Alla persona che vive mediante Patto non si applicano il CBO né gli altri obbli
 
     c) il Codice 9 disciplina l’uso agricolo dell’acqua e la determinazione del fabbisogno del Paniere.
 
-2.  Le priorità in caso di scarsità idrica previste dall’articolo 10, comma 8, del Codice 9 sono attuate sulla base della mappa territoriale e mediante decisione del Consiglio Energia e Acqua del Codice 8, con il parere obbligatorio del Consiglio Agroecologico.
+2.  Le priorità in caso di scarsità idrica previste dall’articolo 10, comma 8, del Codice 9 sono attuate sulla base della mappa territoriale e mediante decisione del Consiglio Energia e Acqua del Codice 8, con il parere obbligatorio del Consiglio Agroecologico. Quando l’attuazione riduce l’accesso a beni del Paniere, compreso il Paniere Acqua, la decisione è dell’Assemblea ai sensi dell’articolo 19, comma 3, del Codice 1, su proposta del Consiglio Energia e Acqua; nell’urgenza si applicano le procedure del Codice 3. La riduzione della quota minima garantita segue l’articolo 4-bis, comma 6, del Codice 8.
 
 3.  Il Codice 10 non decide l’allocazione funzionale dell’acqua.
 

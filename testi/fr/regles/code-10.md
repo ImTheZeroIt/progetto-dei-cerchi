@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 10 — HABITAT ET TERRITOIRE"
 breve: "Code 10 — Habitat et territoire"
-versione: "V1.5"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 10
 id: "codice-10"
 slug: "code-10"
-allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 15 V1.7 ; Code 16 V1.7."
 ---
 
 ## Art. 1 — Objet, définitions et nature juridique
@@ -43,7 +43,9 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     f) **ressources minérales :** les métaux, les minéraux et les roches à l’état naturel, dans le sous-sol ou affleurants, ainsi que ceux contenus dans les décharges et dans les dépôts de résidus d’extractions passées, tant qu’ils ne sont pas récupérés ; elles ne comprennent pas l’eau, régie par le Code 8 ;
 
-    g) **gisement :** une concentration de ressources minérales constatée et inscrite au Cadastre.
+    g) **gisement :** une concentration de ressources minérales constatée et inscrite au Cadastre ;
+
+    h) **bassin territorial :** le territoire du Cercle 2 auquel appartient le Cercle 1 concerné. Il ne coïncide pas avec le bassin hydrographique, qui pour l’eau est régi par l’article 6-bis, alinéa 7, du Code 8.
 
 3.  Sont des biens communs d’infrastructure inaliénables :
 
@@ -79,11 +81,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 5.  Les interdictions territoriales s’appliquent même lorsqu’un traitement est par ailleurs prévu par une STV, sauf les dérogations expressément prévues par le Code 9 et par le présent article.
 
-6.  Une dérogation aux interdictions dans la zone tampon n’est admise que dans les cas suivants :
-
-    a) urgence phytosanitaire prévue par le Code 9, article 2, alinéa 4, lettre d) ;
-
-    b) intervention de secours sur les colonies prévue par le Code 9, article 6-bis, alinéa 5.
+6.  Une dérogation aux interdictions dans la zone tampon n’est admise qu’en cas d’urgence phytosanitaire extrême prévue par le Code 9, article 2, alinéa 4, lettre d), et uniquement pour les produits qui y sont admis. Les interdictions de la lettre b) du même alinéa ne peuvent faire l’objet d’aucune dérogation. L’intervention de secours sur les colonies suit l’article 6-bis, alinéa 5, lettre c), du Code 9 et ne requiert pas de dérogation.
 
 La dérogation est délibérée par l’Assemblée sur proposition du Conseil agroécologique, après accord du Conseil Habitat et Territoire et recueil de l’avis obligatoire du Conseil Biodiversité. La décision indique la durée, la traçabilité, le Plan de sortie et les modalités d’enregistrement dans le nœud du Réseau agroécologique fédéré.
 
@@ -174,7 +172,7 @@ La dérogation est délibérée par l’Assemblée sur proposition du Conseil ag
 
     c) la compensation assure, séparément et cumulativement, l’équivalence de la fonction fertile et celle de la fonction écologique ;
 
-    d) l’avis contraignant du Conseil agroécologique est recueilli, ce qui constitue une exception expresse à la règle générale de l’article 3, alinéa 5 ;
+    d) l’avis du Conseil agroécologique est recueilli sur la perte de la fonction fertile et sur la compensation de la lettre c) ; l’avis négatif est contraignant pour la protection des limites écologiques, au sens de l’article 8 du Code 3, et constitue une exception expresse à la règle générale de l’article 3, alinéa 5 ;
 
     e) l’Assemblée générale approuve la modification à la majorité qualifiée.
 
@@ -281,7 +279,7 @@ La dérogation est délibérée par l’Assemblée sur proposition du Conseil ag
 
     c) le Code 9 régit l’usage agricole de l’eau et la détermination des besoins du Panier.
 
-2.  Les priorités en cas de pénurie d’eau prévues à l’article 10, alinéa 8, du Code 9 sont mises en œuvre sur la base de la carte territoriale et par décision du Conseil Énergie et Eau du Code 8, avec l’avis obligatoire du Conseil agroécologique.
+2.  Les priorités en cas de pénurie d’eau prévues à l’article 10, alinéa 8, du Code 9 sont mises en œuvre sur la base de la carte territoriale et par décision du Conseil Énergie et Eau du Code 8, avec l’avis obligatoire du Conseil agroécologique. Lorsque la mise en œuvre réduit l’accès à des biens du Panier, y compris le Panier eau, la décision revient à l’Assemblée en application de l’article 19, alinéa 3, du Code 1, sur proposition du Conseil Énergie et Eau ; en cas d’urgence, les procédures du Code 3 s’appliquent. La réduction de la part minimale garantie suit l’article 4-bis, alinéa 6, du Code 8.
 
 3.  Le Code 10 ne décide pas de l’allocation fonctionnelle de l’eau.
 

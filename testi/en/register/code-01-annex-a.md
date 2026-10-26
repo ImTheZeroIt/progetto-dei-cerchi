@@ -1,12 +1,12 @@
 ---
 titolo: "C.1-ANNEX A — MATERIAL PRODUCTION AND WORKSHOPS"
 breve: "Annex A to Code 1 — Material production and workshops"
-versione: "V1.4"
+versione: "V1.6"
 gruppo: "allegati"
 ordine: 1.5
 id: "codice-01-annex-a"
 slug: "code-01-annex-a"
-allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 15 V1.7; Code 16 V1.7."
 ---
 
 ## Art. 1 — Subject matter, definitions and legal nature
@@ -57,19 +57,19 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 2.  **Reuse before new production.** Before producing a new good, the Production Council verifies whether the requirement can be met through reuse, repair or adaptation. The production of a new object is permitted when reuse is not possible, is not adequate or does not guarantee the safety required.
 
-3.  **Priority of use.** The general priorities are those of Code 1, Article 32. Within production activities, capacity and materials are ordered as follows:
+3.  **Priority of use.** The general priorities are those of Code 1, Article 32. Within production activities, capacity and materials are ordered in the following levels:
 
-    a) goods of the Material Basket of level 1 and life-saving PPE;
+    a) level 1: goods of the Material Basket and life-saving PPE; the deferrable goods of Article 4, paragraph 1-bis, letter e), follow letter b);
 
-    b) maintenance of the critical infrastructure for health, network, energy and the Health Storehouse;
+    b) level 2: maintenance of the critical infrastructure for health, network, energy and the Health Storehouse;
 
-    c) safety measures and tools necessary for maintenance;
+    c) level 3: safety measures and tools necessary for maintenance;
 
-    d) goods and tools for the CBO of List A;
+    d) level 4: goods and tools for the CBO of List A;
 
-    e) any other reasoned request.
+    e) level 5: any other reasoned request.
 
-    In the event of scarcity, the reduction of non-essential production activities proceeds progressively from level 5 towards the priority levels. The reduction is resolved by the Assembly on a proposal from the Production Council and may not compromise the higher priorities defined by Code 1.
+    In the event of scarcity, the reduction of non-essential production activities proceeds progressively from level 5 towards level 1. The reduction is resolved by the Assembly on a proposal from the Production Council and may not compromise the higher priorities defined by Code 1.
 
 4.  **Open hardware and reproducibility.** Every functionally relevant and standardised object or component produced for levels 1–4 has documentation sufficient to allow its study, repair, modification and reproduction. The documentation comprises, as necessary, the STV, drawings, the list of materials and operating procedures. For small parts that are not relevant, a reference to an accessible standard and to a replacement procedure is sufficient. Reproducibility shall in any case be guaranteed for the goods of levels 1–4.
 
@@ -153,7 +153,7 @@ e) they are deferrable within the meaning of Article 32, paragraph 1-bis, of Cod
 
 5.  Requests are fulfilled in the following order, consistently with Code 1, Article 32:
 
-    a) goods of the Basket and life-saving PPE;
+    a) goods of the Material Basket and life-saving PPE; the deferrable goods of paragraph 1-bis, letter e), follow letter b);
 
     b) maintenance of critical infrastructure;
 
@@ -231,13 +231,13 @@ e) they are deferrable within the meaning of Article 32, paragraph 1-bis, of Cod
 
     The fitting-out and use comply with the Safety Sheets and the requirements of Code 14.
 
-2.  The Confederation ensures the effective access of every Circle 1 to a Federated Advanced Workshop. Planning is defined by territorial basins and takes account of population, distances, territory and capacity. As an ordinary criterion, at least one Advanced Workshop is provided for every three or four Circles 1, unless a different planning is adopted with reasons.
+2.  The Confederation ensures the effective access of every Circle 1 to a Federated Advanced Workshop. Planning is defined for each Circle 2 by its General Assembly, on a proposal from the shared Production Council provided for by Article 12-bis, paragraph 6-bis, of Code 3, and takes account of population, distances, territory and capacity. As an ordinary criterion, at least one Advanced Workshop is provided for every three or four Circles 1 of Circle 2, unless a different planning is adopted with reasons.
 
-3.  The Advanced Workshop may include welding, light forging, machine tools, electronics and printed circuits, large-format 3D printing, laser cutting and the production of complex PPE, within the limits of the applicable STVs and Safety Sheets. The use of the equipment is reserved to persons with the required training and authorisation. Access may be booked by the Circles of the basin; the inventory and the management are federated.
+3.  The Advanced Workshop may include welding, light forging, machine tools, electronics and printed circuits, large-format 3D printing, laser cutting and the production of complex PPE, within the limits of the applicable STVs and Safety Sheets. The use of the equipment is reserved to persons with the required training and authorisation. Access may be booked by the Circles 1 of Circle 2; the inventory and the management are federated.
 
 4.  The Distributed Micro-stations include, by way of example, common tool cabinets, tool libraries, small 3D printers, sewing stations and disassembly and reuse centres. They are registered with the Production Council and operate in accordance with STVs and Safety Sheets appropriate to their activity.
 
-5.  The collection of data is permitted exclusively for safety, the material balance, maintenance and the verification of the Basket. The data are aggregated by workshop or by basin. Individual behavioural profiling is prohibited. Retention periods and accesses are minimised and defined in the STVs, in conformity with Code 7, Article 2.2.
+5.  The collection of data is permitted exclusively for safety, the material balance, maintenance and the verification of the Basket. The data are aggregated by workshop, by Circle 1 or by Circle 2. Individual behavioural profiling is prohibited. Retention periods and accesses are minimised and defined in the STVs, in conformity with Code 7, Article 2.2.
 
 6.  Stocks of materials are sized in relation to the Basket and to the needs of levels 1–3 and may not be built up for speculative purposes. No Circle may be organised in such a way as to depend structurally on a single other Circle for the Material Basket.
 
@@ -327,7 +327,7 @@ e) they are deferrable within the meaning of Article 32, paragraph 1-bis, of Cod
 
     c) guarantees the minimum Material Basket, including by means of reuse, provided that it is safe and conforming.
 
-3.  Within twelve months of entry into force, every production cluster activates a minimum Advanced Workshop, a federated inventory and a node of the Network of workshops, in coordination with the transition provided for by Code 8. For documented overlaps of the transitional burdens of Codes 8 and 9, the Assembly may grant a reasoned extension not exceeding six months, with a binding plan and a guarantee of the continuity of the Basket.
+3.  Within twelve months of entry into force, in every Circle 2 the shared Production Council provided for by Article 12-bis, paragraph 6-bis, of Code 3 activates at least one minimum Advanced Workshop in accordance with Article 6, paragraph 2, a federated inventory and a node of the Network of workshops, in coordination with the transition provided for by Code 8. If Circle 2 is constituted after entry into force, the time limit runs from its constitution. For documented overlaps of the transitional burdens of Codes 8 and 9, the General Assembly of Circle 2 may grant a reasoned extension not exceeding six months, with a binding plan and a guarantee of the continuity of the Basket.
 
 4.  Within twenty-four months of entry into force, an exit plan is adopted for the critical material dependencies relating to the Basket and to PPE, with a fixed final deadline for each dependency.
 

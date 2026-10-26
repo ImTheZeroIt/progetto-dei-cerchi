@@ -1,23 +1,23 @@
 ---
 titolo: "CODE 14 — SÉCURITÉ GÉNÉRALE DES PERSONNES, DES INFRASTRUCTURES ET DES TÂCHES"
 breve: "Code 14 — Sécurité générale"
-versione: "V1.3"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 14
 id: "codice-14"
 slug: "code-14"
-allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 15 V1.7 ; Code 16 V1.7."
 ---
 
 ## Art. 1 — Objet, définitions et répartition des compétences
 
-1.  Le présent Code régit la prévention des risques généraux qui concernent les personnes, les infrastructures, les équipements, les machines, les tâches et les milieux de vie et de travail commun, ainsi que la protection contre ces risques, dans les limites des compétences qui lui sont expressément attribuées. Il régit en outre le Corps de protection civique et la vidéosurveillance aveugle prévus par les articles 17 et 18 de la Constitution.
+1.  Le présent Code régit la prévention des risques généraux qui concernent les personnes, les infrastructures, les équipements, les machines, les tâches et les milieux de vie et de travail commun, ainsi que la protection contre ces risques, dans les limites des compétences qui lui sont expressément attribuées. Il régit en outre le Corps de protection civique et la vidéosurveillance aveugle prévus par les articles 17 et 18 de la Constitution ainsi que la défense personnelle prévue par l’article 17.9 de la Constitution.
 
 2.  Aux fins du présent Code, on entend par :
 
     a) **sécurité générale** : la prévention des risques mécaniques, électriques, d’incendie, d’effondrement structurel, de travail en hauteur, d’accès à des espaces confinés, de manutention, d’utilisation d’équipements et de machines et de tout autre risque non expressément attribué à d’autres Codes, ainsi que la protection contre ces risques ;
 
-    b) **STV Sécurité** : la spécification technique contraignante qui établit les critères, paramètres, seuils, méthodes d’évaluation et mesures minimales de sécurité générale ;
+    b) **STV Sécurité** : la Fiche technique de validation, adoptée conformément à l’article 3-bis du Code 2, qui établit les critères, paramètres, seuils, méthodes d’évaluation et mesures minimales de sécurité générale ;
 
     c) **Fiche de sécurité générale** : le document technique opérationnel qui applique les STV à une activité, une machine, un équipement, un chantier, un milieu ou une tâche déterminés ;
 
@@ -72,7 +72,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 2.  Les membres sont tirés au sort conformément à l’article 12-bis du Code 3, restent en fonction un an et ne peuvent pas être de nouveau tirés au sort dans le même Conseil avant douze mois à compter de la fin du mandat.
 
-3.  Le Conseil siège valablement en présence d’au moins deux tiers de ses membres, arrondis à l’unité supérieure. Les délibérations sont adoptées à la majorité simple des présents, sauf si le présent Code ou une STV approuvée selon les procédures compétentes exige une majorité plus élevée pour la validation de Fiches de sécurité critiques. Chaque réunion fait l’objet d’un procès-verbal, qui est conservé pendant vingt-quatre mois.
+3.  Le Conseil siège valablement en présence d’au moins deux tiers de ses membres, arrondis à l’unité supérieure. Les propositions et les décisions discrétionnaires sont adoptées selon l’article 12-bis, alinéa 9, du Code 3, par la méthode du consensus et après publication pendant au moins soixante-douze heures. Les actes techniques liés, les avis et la validation des Fiches de sécurité sont adoptés à la majorité simple des présents, sauf si le présent Code ou une STV approuvée selon les procédures compétentes exige une majorité plus élevée pour la validation de Fiches de sécurité critiques. Chaque réunion fait l’objet d’un procès-verbal, qui est conservé pendant vingt-quatre mois.
 
 4.  En cas d’indisponibilité, de conflit d’intérêts ou de cumul du rôle de contrôle et de la responsabilité opérationnelle directe de l’activité, le membre concerné déclare sa situation et s’abstient. Le remplacement a lieu conformément à l’article 12-bis du Code 3. La personne qui valide une Fiche de sécurité ne peut pas être la seule responsable opérationnelle de l’activité soumise à validation : dans ce cas, la vérification conjointe d’un second membre L2 ou L3 indépendant est nécessaire.
 
@@ -92,7 +92,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     g) coordonne son activité avec le Conseil Santé du Code 6, le Conseil Biodiversité du Code 13, le Conseil Habitat et Territoire du Code 10, le Conseil agroécologique du Code 9 et le Conseil Soin du Code 12.
 
-6.  Les avis obligatoires du Conseil Sécurité ne sont contraignants que pour les paramètres de sécurité générale attribués au présent Code. Ils ne peuvent pas modifier ni remplacer des paramètres sanitaires, écologiques, territoriaux ou productifs attribués à d’autres Codes.
+6.  Les avis obligatoires du Conseil Sécurité, lorsqu’ils sont négatifs, ne sont contraignants au sens de l’article 8 du Code 3 que pour les paramètres de sécurité générale attribués au présent Code. Ils ne peuvent pas modifier ni remplacer des paramètres sanitaires, écologiques, territoriaux ou productifs attribués à d’autres Codes.
 
 ## Art. 4 — Fiches de sécurité générales, EPI, protections collectives et machines
 
@@ -190,7 +190,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 ## Art. 8-bis — Corps de protection civique
 
-1.  Le Corps de protection civique est la fonction civique temporaire, désarmée et non violente prévue par l’article 17 de la Constitution. Il n’est ni une force de police ni un organe permanent. Il est activé par le Cercle 1 ou, pour les fonctions supralocales, par le Cercle 2 et répond devant le Cercle qui l’a activé.
+1.  Le Corps de protection civique est la fonction civique temporaire, désarmée et non violente prévue par l’article 17 de la Constitution. Il n’est ni une force de police ni un organe permanent. Il est activé par le Cercle 1 ou, pour les fonctions supralocales, par le Cercle 2 et répond devant le Cercle qui l’a activé. L’activation pour des interventions programmées, y compris pour un service ou une période déterminés, est délibérée par l’Assemblée du Cercle 1 ou, pour les fonctions supralocales, par l’Assemblée générale. En cas d’urgence, l’intervention est engagée par le référent de service de l’alinéa 5 ou, s’il ne peut pas être joint à temps, par un membre de service, à l’appel de quiconque ou de sa propre initiative, et elle est communiquée sans délai au Cercle ; la révision et la validation de l’article 8-quater, alinéa 2, valent ratification de l’activation urgente.
 
 2.  Le Corps exerce, avec rotation entre ses membres, les fonctions suivantes :
 
@@ -224,8 +224,8 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 ## Art. 8-quater — Enregistrement, révision et validation des interventions
 
 1.  Chaque intervention est enregistrée intégralement, dans le respect des droits des personnes concernées. Les enregistrements sont chiffrés et traités conformément au Code 7.
-2.  Chaque activation du Corps est soumise à une révision dans un délai de vingt-quatre heures et à la validation de deux Communautés voisines étrangères à l’événement, en application de l’article 17.6 de la Constitution. Chaque Communauté désigne trois personnes par tirage au sort.
-3.  Les enregistrements sont publiés dans un délai de quarante-huit heures sous une forme consultable. Les données qui identifient les personnes lésées, les mineurs et les tiers étrangers à l’événement sont masquées.
+2.  Chaque activation du Corps, y compris chaque intervention effectuée sur la base d’une activation pour un service ou une période, est soumise à une révision dans un délai de vingt-quatre heures et à la validation de deux Communautés voisines étrangères à l’événement, en application de l’article 17.6 de la Constitution. Chaque Communauté désigne trois personnes par tirage au sort. La révision est effectuée par les six personnes ainsi désignées, qui examinent l’enregistrement de l’intervention et entendent le référent de service et, si elle le demande, la personne qui a fait l’objet de l’intervention. L’activation est validée si elle est approuvée par la majorité des personnes désignées par chacune des deux Communautés. Si la révision n’est pas achevée dans le délai, l’activation est réputée non validée au sens de l’alinéa 4.
+3.  Les enregistrements sont publiés dans un délai de quarante-huit heures sous une forme consultable. Les données qui identifient la personne visée par l’intervention, les personnes lésées, les mineurs et les tiers étrangers à l’événement sont masquées. La version intégrale n’est accessible qu’aux personnes chargées de la révision et de la validation de l’alinéa 2, au Tribunal de garantie et aux autres organes du Code 4 compétents pour le fait et, pour la partie qui la concerne, à la personne visée par l’intervention. Les accès à la version intégrale sont enregistrés conformément au Code 7.
 4.  L’absence de validation met fin aux effets de l’intervention et est signalée au Cercle de garantie pour les appréciations prévues par le Code 4.
 5.  Chaque trimestre, un rapport agrégé sur les interventions, sur l’usage de la force et sur les résultats des validations est publié.
 
@@ -237,6 +237,62 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 4.  Restent interdits la reconnaissance biométrique, la surveillance audio, l’analyse prédictive du comportement et la vidéosurveillance privée dirigée vers des espaces publics ou des Biens communs.
 5.  La surveillance du périmètre des Communautés de confinement prévues par l’article 32 du Code 4 est assurée par le Corps conformément au présent Code, sans armes et avec enregistrement des interventions.
 6.  Jusqu’à l’achèvement de la transition, le Corps exerce des fonctions de secours, de protection civile et de médiation. Toute intervention physique sur les personnes est limitée à ce que permet la loi en vigueur ; pour tout danger grave, les services d’urgence et les autorités compétentes sont alertés. L’article 37 du Code 4 s’applique.
+
+## Art. 8-sexies — Défense personnelle et aide aux personnes agressées
+
+1.  En application de l’article 17.9 de la Constitution, toute personne peut se défendre et défendre d’autres personnes contre une agression en cours contre l’intégrité physique ou sexuelle, lorsque le Corps de protection civique n’est pas présent ou ne peut pas intervenir à temps. L’agression est en cours aussi lorsqu’elle est imminente, c’est-à-dire lorsqu’elle est sur le point d’être commise et que le danger est concret et immédiat ; la crainte qu’elle puisse se produire ne suffit pas. L’agression reste en cours jusqu’à ce qu’elle ait cessé.
+
+2.  Sont admis, en choisissant parmi ceux qui suffisent à protéger les personnes le moins lésionnel :
+
+    a) se soustraire à l’agression et mettre en sécurité les personnes menacées, y compris en les éloignant du lieu ;
+
+    b) demander de l’aide, donner l’alarme et appeler le Corps de protection civique ;
+
+    c) s’interposer entre l’agresseur et la personne agressée ;
+
+    d) employer la force physique strictement nécessaire et proportionnée pour faire cesser l’agression, sans blesser au-delà de ce qui est nécessaire pour la faire cesser ;
+
+    e) retenir l’agresseur par une immobilisation non lésionnelle, sans lui comprimer le cou ni le thorax, jusqu’à ce que le danger ait cessé ou, si cela arrive avant, jusqu’à l’arrivée du Corps de protection civique.
+
+3.  Le choix est apprécié selon les circonstances telles qu’elles apparaissaient à la personne qui a agi au moment du fait. Il n’est pas exigé de se soustraire lorsque cela exposerait soi-même ou autrui à un danger ou laisserait sans protection une personne agressée. Lorsque l’agresseur est un mineur, une personne en crise aiguë ou une personne qui n’est pas en mesure de comprendre ce qu’elle fait, la mise en sécurité et l’interposition sont privilégiées et la force est proportionnée aussi à son âge et à son état ; à l’arrivée du Corps, l’article 8-ter, alinéa 5, et l’article 8 du Code 6 s’appliquent.
+
+4.  La défense est désarmée, au sens de l’article 16 de la Constitution. L’usage d’armes ou d’instruments destinés à frapper ou à blesser n’est jamais admis. Les objets d’usage courant trouvés sur place peuvent toujours être utilisés pour se protéger, sans frapper. Pour frapper, ils ne peuvent être utilisés que lorsque l’agression met la vie en danger, expose à des blessures graves ou constitue une violence sexuelle, uniquement pour la faire cesser et dans la mesure strictement nécessaire. Nul ne peut porter sur soi des instruments dans le but de les utiliser contre les personnes. La STV Protection civique peut indiquer des dispositifs personnels d’alarme et de protection non lésionnels.
+
+5.  Ne constituent pas une défense et sont qualifiés conformément à l’article 26 du Code 4 :
+
+    a) l’attaque contre une personne qui n’a pas commencé une agression et n’est pas sur le point de la commettre au sens de l’alinéa 1, y compris l’usage de la force par simple crainte d’une agression future ;
+
+    b) la vengeance et la punition ;
+
+    c) l’usage de la force après que le danger a cessé, sous réserve de l’erreur excusable prévue par l’article 26-bis, alinéa 2, du Code 4 ;
+
+    d) l’usage de la force pour corriger, éduquer ou discipliner une personne, pour lui imposer une décision ou pour l’empêcher de quitter un lieu ou un Cercle 0, de communiquer ou de demander de l’aide, sous réserve de la rétention de l’agresseur prévue par l’alinéa 2, lettre e) ;
+
+    e) la réaction à des offenses, provocations, refus ou désobéissances qui ne mettent pas en danger l’intégrité physique ou sexuelle ;
+
+    f) l’usage de la force contre une personne qui se défend à son tour dans les limites du présent article.
+
+6.  Qui a commencé l’agression ne peut pas invoquer la défense contre la force employée dans les limites du présent article pour la faire cesser. Il ne peut l’invoquer que contre un usage de la force qui, au-delà de ces limites, met en danger sa vie ou son intégrité physique ou sexuelle.
+
+7.  Pour la protection des biens, y compris les Biens communs, sont seuls admis l’interposition, la mise en sécurité du bien ou de l’instrument lorsqu’elle est possible sans force sur la personne, l’alarme et l’appel au Corps de protection civique pour la fonction de Protection des Biens communs. L’usage de la force sur les personnes n’est pas admis. Constitue toutefois une agression contre l’intégrité physique au sens de l’alinéa 1 la destruction, la contamination ou la mise hors service en cours d’un Bien commun vital, tel qu’une réserve ou une conduite d’eau potable, l’alimentation de soins vitaux ou un ouvrage qui protège contre les inondations ou les incendies, lorsqu’il en résulte un danger concret et immédiat pour la vie ou la santé de personnes. Dans ce cas, sont seuls admis l’interposition, l’éloignement physique de la personne du bien et la rétention de l’alinéa 2, lettre e), sans frapper. Ne relèvent pas de ce cas les actions démonstratives ou de désobéissance qui ne créent pas un tel danger.
+
+8.  Les animaux ne sont pas des biens, au sens de l’article 13.1 de la Constitution. Toute personne peut défendre un animal contre une maltraitance en cours, c’est-à-dire contre une violence qui le blesse ou le fait souffrir, avec les moyens de l’alinéa 2 et selon les mêmes règles de nécessité et de proportionnalité que celles prévues pour la défense des personnes par les alinéas 2, 3, 4, 5 et 6. La force n’est admise que pour faire cesser la maltraitance, non pour en prévenir une future, pour soustraire durablement l’animal à ceux qui en prennent soin ou pour punir. Les désaccords sur la manière de nourrir, de soigner, de garder ou d’éduquer un animal ne justifient pas l’usage de la force : ils sont signalés au Conseil Biodiversité, qui y pourvoit conformément à l’article 7, alinéas 2 et 3, du Code 13. La maltraitance est aussi signalée au Conseil Biodiversité, conformément à l’article 10, alinéa 2, du Code 13. La défense d’un animal ne permet pas d’entrer dans un Cercle 0 sans le consentement de ceux qui y vivent : on appelle le Corps de protection civique.
+
+9.  Une personne qui n’y vit pas ne peut entrer dans un Cercle 0 sans le consentement de ceux qui y vivent que pour faire cesser une violence physique ou sexuelle en cours contre une personne, en tant qu’intervention strictement nécessaire à la protection de droits inviolables au sens de l’article 5.1, lettre a), de la Constitution ; un danger seulement imminent ne suffit pas. La personne qui entre avertit immédiatement le Corps de protection civique, ou le fait avertir par d’autres, dès qu’elle peut le faire sans laisser la personne en danger, et sort dès que le danger a cessé. Le Corps transmet sans délai l’avis au Tribunal de garantie, qui vérifie l’entrée dans un délai de vingt-quatre heures, comme pour l’entrée du Corps prévue par l’article 8-ter, alinéa 3, conformément à l’article 26-bis, alinéa 5, lettre e), du Code 4. Lorsque le Corps arrive, l’article 8-ter, alinéa 3, s’applique à l’entrée et à la présence de ses membres.
+
+10. Après le fait, la personne qui a employé la force, a retenu une personne ou est entrée dans un Cercle 0 :
+
+    a) porte ou appelle secours à toute personne blessée, y compris l’agresseur ;
+
+    b) communique sans délai le fait au Corps de protection civique ou au Cercle de garantie, en indiquant le lieu, les personnes concernées et le besoin de secours. Le Corps transmet la communication au Cercle de garantie et ne mène pas d’enquêtes, au sens de l’article 8-ter, alinéa 3. Lorsque la force a été employée par ou contre un membre du Corps, la communication est faite au Cercle de garantie.
+
+    La communication n’oblige pas à faire d’autres déclarations sur le fait ; l’article 25, alinéa 3, du Code 4 s’applique. L’absence de communication ne constitue pas en soi une infraction ni un aveu, sauf pour l’avis d’entrée dans un Cercle 0 prévu par l’alinéa 9. L’examen suit l’article 26-bis du Code 4.
+
+11. Ne constitue pas une agression la contention exercée par le Corps de protection civique dans les limites de l’article 8-ter, même lorsque la personne contenue l’estime injuste : aucune défense n’est admise contre elle et la contention se conteste par la révision et la validation prévues par l’article 8-quater et par l’article 34 du Code 4. Lorsqu’un membre du Corps emploie la force au-delà des limites de l’article 8-ter, alinéa 2, en mettant en danger la vie ou l’intégrité physique ou sexuelle d’une personne, le présent article s’applique : chacun peut s’interposer et défendre la personne, et les autres membres présents sont tenus de s’interposer. Aux membres du Corps qui emploient la force pendant leur service s’appliquent l’article 8-ter et l’article 17.5 de la Constitution, et non les alinéas 2 et 3 de l’article 26-bis du Code 4.
+
+12. Nul n’est tenu d’employer la force ou de s’exposer à un danger, et nul ne peut demander à un mineur d’intervenir par la force. Qui assiste à une agression et peut le faire sans danger appelle le Corps de protection civique ou donne l’alarme. Les mineurs peuvent se défendre et défendre d’autres personnes dans les limites du présent article ; aux faits qu’ils commettent s’applique l’article 26-bis, alinéa 7, du Code 4.
+
+13. Jusqu’à l’achèvement de la transition, la défense personnelle est régie par la loi en vigueur, au sens de l’article 38.6 de la Constitution, et l’article 37 du Code 4 s’applique. Qui a adhéré s’engage à rester dans les limites du présent article même lorsque la loi en vigueur permettrait davantage, en particulier à ne pas utiliser d’armes. Le présent article n’emporte renonciation à aucun droit ni à aucune garantie de la loi en vigueur et ne peut ni empêcher ni retarder le recours aux autorités : qui est agressé ou a employé la force appelle les services d’urgence et les autorités compétentes, en plus de faire la communication de l’alinéa 10. La rétention de l’alinéa 2, lettre e), et l’entrée de l’alinéa 9 ne sont admises que dans les limites permises par la loi en vigueur.
 
 ## Art. 9 — Interdictions, violations et garanties
 

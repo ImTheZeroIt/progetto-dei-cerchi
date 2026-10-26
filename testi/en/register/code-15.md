@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 15 — EXTERNAL RELATIONS AND WORLD BALANCE"
 breve: "Code 15 — External relations and Balance"
-versione: "V1.4"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 15
 id: "codice-15"
 slug: "code-15"
-allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 16 V1.4."
+allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 16 V1.7."
 ---
 
 ## PRELIMINARY TITLE — GENERAL PROVISIONS
@@ -58,7 +58,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 ### Art. 3 — Declaration and ascertainment of the Federable Balance
 
-1.  Each Circle, from level 1 to level 4, shall declare quarterly, for each resource within its competence:
+1.  Each Circle 1, 2 and 3 shall declare quarterly, for each resource within its competence:
 
     a) the Accountable Product;
 
@@ -72,9 +72,9 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     f) the proposed Federable Balance.
 
-2.  The declarations of the different levels shall be coordinated so as to avoid duplication of the same quantities. Each physical resource is recorded once only as an original availability; the records of the higher levels report consolidated data and are not added again to the data of the lower levels.
+2.  The declarations of the different Circles shall be coordinated so as to avoid duplication of the same quantities. Each physical resource is recorded once only as an original availability; the records of Circles 2 and 3 report consolidated data and are not added again to the data of the Circles they include.
 
-3.  The ascertainment of the Federable Balance is a technical procedure carried out by the Storehouse Council competent for the level at which the resource is held in custody. The Council:
+3.  The ascertainment of the Federable Balance is a technical procedure carried out by the Storehouse Council of the Circle where the resource is held in custody. The Council:
 
     a) verifies the conformity of the declared data;
 
@@ -125,7 +125,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 ### Art. 6 — Prevention of waste
 
 1.  The Management Artificial Intelligence governed by Code 7 shall signal when the waste-risk thresholds defined by the STVs are exceeded and shall indicate the remaining TRU. The signal constitutes technical support and does not replace the assessment and decision of the Storehouse Council.
-2.  The Storehouse Council shall decide and implement, within an ordinary maximum of seventy-two hours from the signal, the necessary measures of reassignment, processing or recycling. The time limit shall be reduced when necessary in order to intervene before the TRU expires and may never result in the intervention taking place after the resource has lost its usefulness.
+2.  The Storehouse Council of the Circle where the resource is held in custody shall decide and implement, within an ordinary maximum of seventy-two hours from the signal, the necessary measures of processing or recycling; reassignment through the Pool is decided within the same time limit by the Council provided for by Article 9-bis. If reassignment is not decided in good time, the Council of the Circle of custody allocates the resource in accordance with Article 15, paragraph 2, of Code 1. The time limit shall be reduced when necessary in order to intervene before the TRU expires and may never result in the intervention taking place after the resource has lost its usefulness.
 3.  When the TRU is less than seven days, the intervention shall be ordered without delay, taking into account the actual times required for transport, processing and use of the resource.
 4.  The loss of a Federated Reserve through omission or unjustified delay in reassignment constitutes damage to the Confederation and shall be dealt with in accordance with Code 4.
 
@@ -145,7 +145,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 ### Art. 8 — Calculation, proposal and allocation priorities
 
-1.  The Management Artificial Intelligence shall draw up, at least every twenty-four hours, an updated map of the federable availabilities and of the declared deficits. The map shall consider at least:
+1.  The AI of the Intermediate Circle provided for by Article 22.2 of the Constitution shall draw up, for its own Circle 2, at least every twenty-four hours, an updated map of the federable availabilities and of the declared deficits. The maps of the Circles 2 are exchanged through the open protocols of Article 5-ter, paragraph 3, of Code 7 and, between Extended Circles, through the distributed protocol of Article 19.7 of the Constitution; no system brings them together in a central model, pursuant to Article 5-ter, paragraph 2, of Code 7. The map shall consider at least:
 
     a) quantity and location of the resources;
 
@@ -183,7 +183,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     b) **drawing up of flow proposals**: Management Artificial Intelligence, under human supervision;
 
-    c) **allocation and transfer decision**: deliberative body competent in accordance with the Constitution and Code 3, in relation to the territorial level and the size of the transfer;
+    c) **allocation and transfer decision**: Storehouse Council of Circle 2 or of Circle 3, in accordance with Article 9-bis, within the criteria approved by the General Assembly; decisions exceeding the criteria fall to the General Assembly;
 
     d) **reasoned opposition to the transfer**: Storehouse Council of the transferring Circle, also at the request of the Assembly, within the time limits and on the grounds provided for by Article 11;
 
@@ -192,6 +192,36 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 3.  The transfer resolution shall identify the resource, the quantity, the time limit, the planned route and the measures necessary to guarantee its delivery and integrity.
 
 4.  The deliberative body may not alter the technical criteria for ascertaining the balance outside the verification and challenge procedures provided for. If errors emerge in the data or in the ascertainment, the decision shall be postponed or recalculated in accordance with the applicable procedures.
+
+### Art. 9-bis — Storehouse Councils of Circles 2 and 3
+
+1.  In implementation of Articles 5.1, letters c) and d), and 10.5 of the Constitution, each Circle 2 and each Circle 3 establishes a Storehouse Council, which decides on the allocation and transfer of the resources of the Pool:
+
+    a) the Council of Circle 2 decides on transfers between the Base Communities of its Basin;
+
+    b) the Council of Circle 3 decides on transfers between different Circles 2 included in its area;
+
+    c) transfers between different Circles 3 are decided by concurring resolutions of the Councils of the Circles 3 concerned.
+
+2.  The Council is composed of five to seven persons with validated competence in storehouse management or logistics, drawn by lot from among the persons of the Communities included in the Circle. No more than two members belong to the same Base Community or, for Circle 3, to the same Circle 2. Paragraphs 4, 5, 8, 9 and 11 of Article 12-bis of Code 3 apply. Revocation falls to the General Assembly of the Circle.
+
+3.  The Council decides in compliance with the priorities of Article 8 and with the criteria approved each year by the General Assembly of the Circle pursuant to Article 14 of Code 3, with the Dossier of Article 33 of the Constitution. The criteria indicate at least:
+
+    a) the application of the priorities of Article 8 to the resources of the Circle;
+
+    b) the size and the times of use of the Federated Reserve;
+
+    c) the criteria for choosing between destinations of equal priority;
+
+    d) the quantities or the values in UCR beyond which the decision falls to the General Assembly.
+
+4.  Decisions that comply with the criteria are bound technical acts within the meaning of Article 12-bis, paragraph 9, of Code 3 and do not require a new Dossier. Decisions that exceed the criteria or the limits of letter d) of paragraph 3 fall to the General Assembly, which in cases of urgency resolves pursuant to Article 14, paragraph 9, of Code 3. Until the first criteria are approved, the Council decides only on immediate vital needs and on resources at risk of waste, in accordance with Article 8, paragraph 2, letters a) and b).
+
+5.  The Council decides on flow proposals within forty-eight hours; on immediate vital needs without delay and in any case within twenty-four hours; on resources at risk of waste within the time limit of Article 6. If the Council does not decide in time on an immediate vital need, the Storehouse Council of the Circle where the resource is held in custody may execute the flow proposal that complies with Article 8 and with the criteria; the execution is recorded and communicated without delay to the competent Council. For resources at risk of waste, Article 6, paragraph 2, applies.
+
+6.  The decisions are communicated to the Circles concerned. The opposition of Article 11 and the verification of Article 9, paragraph 2, letter e), remain in force; each Community concerned may request the same verification against an allocation decision. The request does not suspend the transfer, without prejudice to Article 11, paragraph 3.
+
+7.  During the transition the Council of Circle 2 is established in the Basin and that of Circle 3 in the minimum Federation, pursuant to Article 1, paragraphs 5 and 6, of Code 16.
 
 ### Art. 10 — Federal logistics
 
@@ -294,7 +324,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     e) prohibition of rent and of profit.
 
-3.  Exchanges with the outside serve exclusively to meet the needs not yet covered by federated self-production and to dispose of real surpluses. Export for profit is prohibited, pursuant to Article 11.1 of the Constitution.
+3.  Exchanges with the outside serve exclusively to meet the needs not yet covered by federated self-production and to dispose of real surpluses. Real surpluses are surplus goods that are not destined for the Pool pursuant to Article 15, paragraph 1-bis, of Code 1. Export for profit is prohibited, pursuant to Article 11.1 of the Constitution.
 
 ### Art. 16 — Legal personality and ownership of assets
 
@@ -371,7 +401,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 7.  **External assets.** The goods that a person owns outside the Confederation remain his or hers in accordance with the legal order in force. They may not be let or given for use against payment to other members, nor used to employ members. Conferral on the entity provided for by Article 16 is voluntary, confers no privileges and makes the good a Common Good.
 
-8.  **Reduction and cessation.** The Exit Plans shall progressively reduce the need for external income. This Article shall cease to apply when the Confederation comprises the whole of humanity: from that moment no external income exists and the Common Funds shall be closed.
+8.  **Reduction and cessation.** The Exit Plans shall progressively reduce the need for external income. This Article shall cease to apply when the Confederation comprises the whole of humanity: from that moment no external income exists and the Common Funds shall be closed. Until then the option of Article 2, paragraph 9, of Code 16 continues to apply even after the closure of the transition.
 
 ### Art. 20 — Strategic autonomy, resource blackmail and countermeasures
 
@@ -382,6 +412,42 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 ### Art. 21 — Accession of external communities and withdrawal
 
-1.  An external community that requests accession pursuant to Article 4.5 of the Constitution shall sign the Constitution and shall apply Code 16 in so far as it is compatible with its own state of progress.
-2.  The Circle 2 of reference shall verify exclusively the protocols of technological and logistical interoperability. The verification shall be concluded within ninety days and may not introduce further political or ideological assessments.
+1.  An external community that requests accession pursuant to Article 4.5 of the Constitution shall sign the Constitution and shall choose whether to join as an associated Community, pursuant to Article 21-bis, or by also adopting the Codes. In the second case it shall apply Code 16 in accordance with Article 3, paragraph 7, of that Code.
+2.  The Circle 2 of reference shall verify exclusively the protocols of technological and logistical interoperability and, for the associated Community, the equivalence at the boundary of Article 21-bis. The verification shall be concluded within ninety days and may not introduce further political or ideological assessments.
 3.  The withdrawal of a Circle 1 follows Articles 4.6 and 4.7 of the Constitution. The technical arrangements shall be agreed with Circle 2 in such a way as to guarantee the continuity of the Basket for all the persons concerned.
+
+### Art. 21-bis — Associated Communities and equivalence at the boundary
+
+1.  **Fundamental rules and tools.** Pursuant to Article 4.5 of the Constitution, Titles I, IV, V and VII of the Constitution and the Inviolable Core of Article 37.4 are fundamental rules, binding on every Community. The management rules of the Codes, including the CBO and the CdR, the Storehouses, internal bodies and Councils and the forms of their sortition, internal assemblies and quorums, the justice of Code 4 for internal conflicts and the phases of Code 16, are tools. The associated Community keeps its own internal order if it respects the fundamental rules and guarantees the equivalence at the boundary of paragraph 2. The principles of the Inviolable Core remain in force in internal life as well, including the contribution of every able-bodied adult under Article 2.3, sortition, rotation and the prohibition of the professional and permanent exercise of politics and of the judicial function under Articles 4.3, 4.4, 6.5 and 31.2, and the prohibitions of Article 36.1 of the Constitution.
+
+2.  **Equivalence at the boundary.** The associated Community shall guarantee at the boundary with Circles 2 and 3:
+
+    a) to every member the rights of Article 1.2 of the Constitution, including levels 1 and 2 of the Basket and care, and to anyone present there the guarantees of Article 1.3; the right to leave the Community and the Confederation pursuant to Articles 4.8 and 5.2 of the Constitution; appeal to the common guarantee bodies of paragraph 5 for anyone who claims that one of their rights has been violated;
+
+    b) the inventory of resources and the quarterly declaration of the Balance in the common format of Articles 2 and 3; the ascertainment of Article 3, paragraph 3, is carried out by the body designated by its internal order and is verified by the Storehouse Council of Circle 2;
+
+    c) a share of work for the common functions of Circles 2 and 3 and for the federated share of Article 7, determined for the Community as a whole and not per person, with the same criteria used for the other Communities; the Community distributes it internally in accordance with its own order. During the transition the share may also be rendered in goods or through the Common Fund, pursuant to Article 17;
+
+    d) persons on the sortition lists of the common bodies of Circles 2 and 3, on the same conditions as the other Communities;
+
+    e) the individual and secret vote of every member in the General Assemblies, without proxy, pursuant to Articles 34.4 and 36.1 of the Constitution;
+
+    f) the common standards of the goods it exchanges with the other Communities, including the STV of Code 2.
+
+3.  **Common tools and adopted tools.** When the associated Community uses a common tool, such as the Pool, exchange between Storehouses or the federated Network, it follows its rules. It may adopt individual tools of the Codes at any time, by a resolution taken in accordance with its own order and communicated to Circle 2; from that moment it applies their rules.
+
+4.  **Reference to the Codes.** For the associated Community:
+
+    a) the provisions of the Codes that govern tools of internal management apply only if and from when it adopts them;
+
+    b) the provisions of the Codes that implement the fundamental rules are valid for the rights, prohibitions and limits that they establish; the internal bodies and procedures through which the Codes implement them may be replaced by bodies and procedures of its internal order that achieve the same result, without prejudice to paragraph 5;
+
+    c) the references of the Codes to the CBO, to the Storehouses and to the bodies and assemblies of Circle 1 shall be understood, as regards internal life, as references to the corresponding institutions of its internal order; the contribution of work that the internal order requires of every able-bodied adult counts as CBO for the purposes of Articles 2.3, 4.4 and 7.3-bis of the Constitution;
+
+    d) the obligations that the Codes impose on members as such, including the CBO of Code 1 and the justice of Code 4 for internal conflicts, apply to the members of the Communities that adopt the Codes, without prejudice to paragraph 5; to the members of the associated Community apply the fundamental rules, the rights of persons and the rules of the common tools they use.
+
+5.  **Conflicts and appeals.** Offences of Grades 4, 5 and 6 committed within the associated Community always fall within the competence of the Guarantee Tribunal, in accordance with Code 4 and without prejudice to its Article 37. Other internal conflicts are resolved in accordance with the internal order. Conflicts with other Communities follow Code 4, with the mediation of Circle 2 provided for by Article 5.1, letter c), of the Constitution. Anyone who claims that one of their rights has been violated in the associated Community may appeal, under the rules of Article 17 of Code 3, to three members drawn by lot from among the members of the Guarantee Circles of other Communities, belonging to different Communities; Articles 15 and 37, paragraph 5, of Code 4 apply. The measures of Articles 1.3-bis and 7.3-bis of the Constitution and any measure that restricts personal liberty are adopted only by the common bodies, in accordance with Code 4.
+
+6.  **Verification and Bridging Plan.** The community that applies to join as an associated Community describes its internal order to the extent needed to show how it guarantees paragraph 2. The Circle 2 of reference, and during the transition the Transition Council of the unit that receives it pursuant to Article 3, paragraph 7, letter c), of Code 16, verifies only the equivalence at the boundary, within ninety days and without political or ideological assessments, pursuant to Article 21, paragraph 2. The outcome is reasoned and published. If an element is missing, Circle 2 and the community agree a Bridging Plan with defined time limits, which changes only what is needed at the boundary and never internal life. The Plan may not be imposed: until the equivalence is achieved, the community remains external and may connect with the Confederation through agreements pursuant to Chapter IV, without accession.
+
+7.  **After accession.** If an element of paragraph 2 ceases to be met, Circle 2 reports it and a Bridging Plan is agreed under the rules of paragraph 6. The rights of persons and the appeals of paragraph 5 always remain applicable.

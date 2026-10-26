@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 4 — ON RESTORATIVE JUSTICE AND GUARANTEE"
 breve: "Code 4 — Restorative justice and guarantee"
-versione: "V1.5"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 4
 id: "codice-04"
 slug: "code-04"
-allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 15 V1.7; Code 16 V1.7."
 ---
 
 ## CHAPTER I — GENERAL PROVISIONS, PRINCIPLES AND DEFINITIONS
@@ -89,7 +89,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 5 
 
     c) does not replace the competent bodies;
 
-    d) exercises exclusively the functions of restorative facilitation, procedural oversight, adoption of the precautionary measures assigned to it and verification of the performance of agreements, within the limits established by the Constitution and by Codes 2, 3 and 4.
+    d) exercises exclusively the functions of restorative facilitation, procedural oversight, adoption of the precautionary measures assigned to it and verification of the performance of agreements, and the other functions expressly assigned to it by the Constitution and the Codes, within the limits established by the Constitution and by the Codes.
 
 3.  The Guarantee Circle shall not establish within itself second-instance bodies, enlarged assemblies or permanent jurisdictions. Review is entrusted to the external Panel governed by Article 17.
 
@@ -101,11 +101,11 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 5 
 
     a) the technical assessment of conformity, the adoption or application of the STVs and the SVSs and the technical exclusion of goods or services fall to the Quality Council, in accordance with Articles 15, 20 and 24 of Code 2;
 
-    b) specialist opinions on health, safety and digital infrastructure or data sovereignty fall to the competent Circles, in accordance with Code 3, Article 8, and Code 2, Article 20, letter g);
+    b) specialist opinions on health, safety, digital infrastructure or data sovereignty and ecological limits fall to the competent Circles, in accordance with Code 3, Article 8, and Code 2, Article 20, letter g);
 
     c) allocative resolutions and the determination of the decision-making level, the quorums and the majorities fall to the Assembly of Circle 1 or to the General Assembly, in accordance with Articles 7, 7-bis, 7-ter, 7-quater, 12, 13 and 14 of Code 3;
 
-    d) the calculation and certification of values in UCR and the anti-circumvention verification fall to the Accounting Council, in accordance with Articles 9 and 11 of Code 3 and Article 40 of Code 1;
+    d) the calculation and certification of values in UCR and the anti-circumvention verification fall to the Accounting Council, in accordance with Articles 9 and 11 of Code 3 and Articles 20, paragraph 6, and 40, paragraph 4, of Code 1;
 
     e) procedural protection, restorative facilitation, the adoption of the precautionary measures assigned to it and the formal classification of deliberative defects in accordance with Code 3 fall to the Guarantee Circle.
 
@@ -373,6 +373,20 @@ The suspension shall be reasoned, communicated to the parties and subject to per
 
 6.  Loss of member status by a person is permitted exclusively in the cases of Article 1.3-bis of the Constitution and in accordance with Chapter V. The cessation of status for persistent refusal of the CBO, provided for by Article 7.3-bis of the Constitution, is governed solely by Article 29, paragraph 6-bis. No measure under this Article may deprive a member of the rights of Article 1.2 of the Constitution.
 
+### Art. 13-bis — Verification of compliance and deactivation of activities and functions
+
+1.  Where the Codes refer to this Code for the verification of compliance, the suspension or the deactivation of a non-compliant activity, function or infrastructure, the following rules apply, without prejudice to the more specific provisions of the sectoral Code:
+
+    a) the verification of compliance is a technical assessment by the competent Council in accordance with the sectoral Code; the Guarantee Circle does not carry it out, pursuant to Article 4, paragraph 2, letter b);
+
+    b) if compliance is technically impossible, the deactivation shall be resolved by the Assembly of Circle 1 or, for the functions of Circles 2 and 3, by the General Assembly, on a reasoned proposal from the competent Council, with the procedures of Article 7 of Code 3 where the matrix requires them;
+
+    c) the proposal shall be accompanied by a Substitution Plan with a certain final deadline. Where the function guarantees services of levels 1 and 2 of the Basket, the deactivation takes effect only after the activation of the substitute function, without prejudice to the urgent measures of letter d);
+
+    d) the suspension necessary to deal with a serious and immediate risk shall be adopted in accordance with the sectoral Code and Code 14 and shall be communicated without delay to the Assembly;
+
+    e) the guarantees, the precautionary measures and the appeals of this Code and of Article 17 of Code 3 remain unaffected. Where the non-compliance is attributable to a person, the ascertainment of the facts and any measures concerning that person follow Chapters II and V.
+
 ### Art. 14 — Restorative Register
 
 1.  The Guarantee Circle keeps the Restorative Register in accordance with the transparency levels provided for by Article 15 of Code 3. The Register distinguishes:
@@ -547,7 +561,7 @@ The Panel may not order a definitive or category exclusion, which is reserved to
 
 ### Art. 25 — Common principles and guarantees
 
-1.  This Chapter implements Articles 1.3-bis, 7.3, 7.3-bis, 18.7, 30 and 31 of the Constitution. The restorative procedure of Chapters II, III and IV remains the ordinary and priority route. The bodies of this Chapter intervene where it is not accepted, does not produce an agreement or is not adequate to the seriousness of the fact.
+1.  This Chapter implements Articles 1.3-bis, 7.3, 7.3-bis, 17.9, 18.7, 30 and 31 of the Constitution. The restorative procedure of Chapters II, III and IV remains the ordinary and priority route. The bodies of this Chapter intervene where it is not accepted, does not produce an agreement or is not adequate to the seriousness of the fact.
 
 2.  No one may be subjected to a measure for a fact which, at the time it was committed, was not provided for as an offence by the Constitution or by the Codes. The definitions of offences may not be extended by analogy.
 
@@ -593,7 +607,45 @@ The Panel may not order a definitive or category exclusion, which is reserved to
 
 2.  The classification of the grade falls to the competent body, by reasoned decision. In case of doubt, the lower grade shall apply.
 
-3.  The Codes may classify specific conduct within Grades 1 to 4. The definitions of offences of Grades 5 and 6 are exclusively those of this Article.
+3.  The Codes may classify specific conduct within Grades 1 to 4. The definitions of offences of Grades 5 and 6 are exclusively those of this Article. The use of force in personal defence is classified in accordance with Article 26-bis.
+
+### Art. 26-bis — Personal defence: lawfulness, excess and assessment
+
+1.  The use of force, interposition, holding and entry into a Circle 0 carried out within the limits of Article 17.9 of the Constitution and of Article 8-sexies of Code 14 do not constitute an offence.
+
+2.  Excess, and error as to the existence, imminence, duration or seriousness of the aggression, do not constitute an offence where they are due to fear, panic or distress that are excusable in the concrete circumstances. Excusability shall be assessed according to the circumstances as they appeared to the person at the time of the fact, taking into account in particular the speed of events, the difference in strength, the age and the physical and mental condition of the person and the violence they had already suffered from the aggressor. The error of a person who sought the confrontation in order to be able to use force is not excusable, nor is that of a person who acted out of the mere fear of a future aggression, without a concrete and immediate danger.
+
+3.  Outside the case of paragraph 2, the use of force beyond what is strictly necessary, during an ongoing aggression or ill-treatment and for the purpose of bringing it to an end, constitutes a Grade 4 offence, even when serious injury or death has resulted. Where the excess has caused no injury or only slight and reparable harm, it constitutes a Grade 2 offence.
+
+4.  The use of force that does not constitute defence within the meaning of Article 8-sexies, paragraph 5, of Code 14, including force aimed at killing or seriously injuring when it was not necessary to bring the aggression to an end, is classified in accordance with Article 26, paragraph 1. The aggression suffered shall be taken into account in the choice of measures.
+
+5.  The assessment shall proceed as follows:
+
+    a) the Guarantee Circle receives the report provided for by Article 8-sexies, paragraph 10, of Code 14, or the report pursuant to Article 5, opens the case file, hears the persons involved separately pursuant to Article 28, paragraph 2, and activates the protection of those who need it;
+
+    b) the Guarantee Circle transmits the case without delay to the Guarantee Tribunal where death or serious injury has resulted from the fact; where there are elements of a non-excusable excess or of a fact provided for by paragraph 4; where force has been used between persons who belong to the same Circle 0 or live together, or against a minor or a person who is unable to protect themselves; where force has been used by or against a member of the Civic Protection Corps; where the person against whom force was used, the person defended or the person who used force so requests;
+
+    c) in the other cases the Guarantee Circle, if no elements of an offence emerge, communicates this by reasoned determination to the persons involved pursuant to Article 5, paragraph 2, letter b). The determination does not ascertain responsibility and does not prevent the request for transmission under letter b);
+
+    d) the Guarantee Tribunal ascertains whether the limits of Article 8-sexies of Code 14 have been respected, whether paragraph 2 applies and, if not, the grade. Where a reasonable doubt remains as to the existence of the defence, responsibility for the use of force is not ascertained, pursuant to Article 25, paragraph 3. Where several persons invoke defence, the Tribunal ascertains who began the aggression;
+
+    e) entry into a Circle 0 provided for by Article 8-sexies, paragraph 9, of Code 14 is in every case communicated to the Guarantee Tribunal, which within twenty-four hours reviews whether it took place within the limits of that paragraph and of Article 5.1, letter a), of the Constitution and orders, where necessary, the protection of the persons who live there. Entry outside those limits is classified in accordance with Article 26.
+
+6.  The defence invoked does not prevent the precautionary measures of Article 34, the protection pathways of Article 7-bis of Code 12 for each of the persons involved, or the assessment of the initial aggression. Where force has been used between persons who belong to the same Circle 0 or live together, the Guarantee Circle:
+
+    a) hears each person separately and without the presence of the other;
+
+    b) offers each, if they so request, separation and temporary accommodation pursuant to Article 34;
+
+    c) informs the Care Council where minors or persons who are unable to protect themselves live in the Circle 0;
+
+    d) where defence is invoked more than once in the same Circle 0 within twenty-four months, proposes in every case a protection pathway and takes this into account in the transmission to the Guarantee Tribunal.
+
+7.  Article 25, paragraph 9, applies to facts committed by persons who have not reached the age of eighteen. For excess in defence only restorative, educational and support measures, defined with the Care Council, are permitted; protected educational reception may not be ordered. The Care Council offers support to the minor who has defended themselves or other persons.
+
+8.  Even when the use of force does not constitute an offence, the restorative procedure of Chapters II, III and IV remains available, on a voluntary basis, to all the persons involved. A person who has defended themselves within the limits of Article 8-sexies of Code 14 is not required to make reparation.
+
+9.  During the transition Article 37 shall apply. The assessment provided for by this Article has effect only within the internal order and does not replace that of the authorities of the State. A person who has used force shall be informed of the right to legal assistance provided for by the law in force.
 
 ### Art. 27 — Competent bodies
 
@@ -602,7 +654,7 @@ The Panel may not order a definitive or category exclusion, which is reserved to
 3.  For offences of Grade 4, 5 and 6, for the urgent review within twenty-four hours and for the other guarantee functions assigned by the Codes, the Guarantee Tribunal of Circle 2 is competent, composed of seven persons drawn by lot for each case from the list of Article 36. The members belong to Communities other than those of the person to whom the fact is attributed or who is concerned by the decision and of the injured person; at least three hold legal training validated in accordance with Code 5.
 4.  The bodies are constituted for the individual case and are dissolved upon the decision. No one may sit on more than three panels within a period of twelve months. The rules on abstention of Article 15 shall apply.
 5.  Decisions are taken by consensus. Failing that, a majority of two thirds of the members is required. For the measures of Article 30, paragraph 3, and Article 31, six votes out of seven are necessary.
-6.  The Guarantee Circle receives the reports, facilitates the restorative procedure, conducts the preliminary investigation and keeps custody of the case files. It does not ascertain responsibility and does not order measures, except as provided for by Articles 9 and 34 of this Code and by Article 7-bis, paragraph 3, letter b), of Code 12.
+6.  The Guarantee Circle receives the reports, facilitates the restorative procedure, conducts the preliminary investigation and keeps custody of the case files. It does not ascertain responsibility and does not order measures, except as provided for by Articles 9 and 34 of this Code and by Article 7-bis, paragraph 3, letter b), of Code 12. It also adopts the other acts expressly assigned to it by the Codes, such as the appointment of the temporary representative of Article 7-bis, paragraph 5, of Code 12, the opinion and the authorisation of Article 10, paragraphs 6 and 7, of Code 6 and the review of Article 2-bis, paragraph 4, letter d), of Code 6.
 
 ### Art. 28 — Procedure
 
@@ -636,7 +688,9 @@ The Panel may not order a definitive or category exclusion, which is reserved to
 
     c) the absence of the safety conditions, of the PPE or of the training required by Codes 1 and 14;
 
-    d) the pendency of an appeal with suspensive effect.
+    d) the pendency of an appeal with suspensive effect;
+
+    e) for a person who has grown up in the Confederation, the period preceding the choice provided for by Article 26.4 of the Constitution or the expiry of the related time limit, pursuant to Article 6, paragraph 6, of Code 5.
 
 4.  Before any measure for refusal of the CBO, the person shall be informed of the right to the Autonomous Coexistence Pact, pursuant to Article 4.9 of the Constitution.
 
@@ -706,7 +760,7 @@ During the transition the cessation consists in exclusion from the pilot Circle 
 
     f) exclusion from the sortitions for offices and for the Councils for the duration of the pathway.
 
-3.  Where there is a concrete and present danger to the safety of others which cannot be contained by the measures of paragraph 2, the Guarantee Tribunal may order protective containment in an accompaniment Community. Protective containment lasts for as long as the danger persists, shall be reviewed at least every six months and, on first application, may not exceed in total five years for Grade 5 and ten years for Grade 6.
+3.  Where there is a concrete and present danger to the safety of others which cannot be contained by the measures of paragraph 2, the Guarantee Tribunal may order protective containment in an accompaniment Community. The accompaniment Community is an open Community, informed of the facts and willing to receive the person, distinct from the Containment Community of Article 32: it has no protected perimeter and no supervision by the Civic Protection Corps. The decision establishes the obligation to remain in the Community and daily accompaniment, with a transformation pathway; the Guarantee Circle of the accompaniment Community verifies compliance and reports to the Tribunal at least every three months. The person is not held by force; their departure shall be notified without delay to the Guarantee Tribunal, which may review the measures within the limits of this Article and of Article 34. Protective containment lasts for as long as the danger persists and shall be reviewed at least every six months. Its total duration may not exceed five years for Grade 5 and ten years for Grade 6.
 
 4.  During protective containment the person retains member status and the guarantees of Article 32, paragraph 2.
 
@@ -787,7 +841,7 @@ During the transition the cessation consists in exclusion from the pilot Circle 
 
 ### Art. 35 — Review and finality
 
-1.  Against the decisions of the Clarification Assembly and of the Transformation Council, an appeal to the Review Panel of Article 17 is permitted, within fourteen days of communication.
+1.  Against the decisions of the Clarification Assembly and of the Transformation Council, an appeal to the Review Panel of Article 17 is permitted, within fourteen days of communication. In these appeals the member of Article 17, paragraph 3, letter b), is replaced by a person with legal training validated in accordance with Code 5, drawn by lot from the list of Article 36, paragraph 1, letter a).
 2.  Against the decisions of the Guarantee Tribunal, review before a second Guarantee Tribunal, drawn by lot in a different Circle 2, is permitted within thirty days. For as long as only one Circle 2 exists, the second Tribunal shall be drawn by lot from among different persons belonging to other Communities.
 3.  If the review is requested only by the person to whom the measure is addressed, the measure may not be made more severe.
 4.  The decision is final when review has not been requested within the time limits or when it has been confirmed, except as provided for by paragraph 6.
@@ -799,7 +853,7 @@ During the transition the cessation consists in exclusion from the pilot Circle 
 1.  The final decisions of the bodies provided for by this Chapter and those of the Review Panel shall be published in the federated Archive of decisions, with the facts ascertained, the grade, the measures and the statement of reasons.
 2.  Publication takes place in anonymised form, to protect the injured person, the person to whom the measure is addressed and minors. Where in the local context identification would nevertheless be possible, only the principle applied shall be published.
 3.  The decisions do not constitute a binding precedent. The body deciding a similar case shall consult the Archive and, if it departs from the prevailing approach, shall expressly state the reasons for doing so.
-4.  Each year the Guarantee Circle of each Circle 2 shall publish a summary of the approaches and of the divergences found. The summary has no normative value; it may form the basis of a proposal to amend the Codes.
+4.  Each year one of the Guarantee Circles of the Communities of Circle 2, designated by rotation in coordination with the others pursuant to Article 36, paragraph 1, shall publish a summary of the approaches and of the divergences found. The summary has no normative value; it may form the basis of a proposal to amend the Codes.
 
 ### Art. 36 — Federated lists and sortition
 
@@ -811,7 +865,7 @@ During the transition the cessation consists in exclusion from the pilot Circle 
 
 2.  The sortition is public and traced in accordance with Article 15 of Code 3.
 
-3.  No one may be drawn by lot who belongs to the Circle concerned or has carried out activities there in the last twenty-four months, nor anyone who has an interest in the outcome.
+3.  No one may be drawn by lot from the lists of paragraph 1 who belongs to the Circle 1 concerned, that is, that of the person to whom the act is attributed or who is concerned by the decision, of the injured person or of the activity subject to audit or opinion, or who has carried out activities there in the last twenty-four months, nor anyone who has an interest in the outcome. This paragraph does not apply to the members whom the Codes have drawn by lot from among the members of the Circle 1 concerned, such as those of Article 27, paragraphs 1 and 2.
 
 4.  Unless the Codes provide otherwise, an audit or opinion assignment shall not exceed thirty days. The time devoted to it shall be counted towards the CBO.
 
@@ -821,4 +875,5 @@ During the transition the cessation consists in exclusion from the pilot Circle 
 2.  Facts that constitute a criminal offence under the legal order in force remain subject to the jurisdiction of the State. No one may be dissuaded from turning to the authorities; anyone who is in danger shall be helped to do so. The obligations to report and to file a complaint provided for by law shall be complied with.
 3.  During the transition, measures of containment, of coercive removal or of location may not be enforced. Article 25, paragraph 9, as regards protected educational reception, and Article 30, paragraph 3, and Articles 31, 32, 33 and 34 shall apply only in respect of the non-coercive protection measures and of the effects on membership of the Circle.
 4.  During the transition, loss of member status consists in exclusion from the pilot Circle, ordered in accordance with the statute of the entity and the applicable law.
-5.  Until the members required can be drawn by lot in the Basin, the functions that the Codes assign to the Guarantee Tribunal, to the Review Panel and to the Transformation Council are exercised by a panel with the same number of members, drawn by lot from the public list of trained persons of other pilot Circles or of kindred entities that have accepted this Chapter, kept pursuant to Article 36. If the list does not allow the drawing by lot within the time limit, the panel is drawn by lot from among the members of the pilot Circle unconnected with the facts, with the persons involved and with every previous instance, on the model of Article 35, paragraph 2. A panel composed only of members may not order the protected educational reception of Article 25, paragraph 9, or the measures of Articles 30, paragraph 3, 31 and 33. If no panel can be constituted within the time limit for a validation, the measure ceases.
+5.  Until a Basin is constituted, or until the members required can be drawn by lot in the Basin, the functions that the Codes assign to the Guarantee Tribunal, including the second Tribunal of Article 35, paragraph 2, to the Review Panel and to the Transformation Council, and the replacement of the Guarantee Circle provided for by Article 15, paragraph 3, are exercised by a panel with the same number of members, drawn by lot from the public list of trained persons of other pilot Circles or of kindred entities that have accepted this Chapter, kept pursuant to Article 36. If the list does not allow the drawing by lot within the time limit, the panel is drawn by lot, by way of derogation from Articles 17, paragraph 3, 27, paragraphs 2 and 3, and 36, paragraph 3, from among the members of the pilot Circle unconnected with the facts, with the persons involved and with every previous instance, on the model of Article 35, paragraph 2. A panel carrying out a review is composed of persons other than those who decided. A panel composed only of members may not order the protected educational reception of Article 25, paragraph 9, or the measures of Articles 30, paragraph 3, 31 and 33. If no panel can be constituted within the time limit for a validation, the measure ceases.
+6.  After the closure of the transition, in every territory in which the jurisdiction of a State applies, paragraphs 2, 3 and 4 continue to apply, as do the provisions of the Codes that, for the period of the transition, refer to this Article or limit interventions on persons to what is permitted by the law in force, including Articles 1, paragraph 4, 26-bis, paragraph 9, 29, paragraph 6-bis, last sentence, and 32-bis, paragraph 3, of this Code, Articles 2-bis, paragraph 3-quater, letter f), 2-ter, paragraph 6, and 8, paragraph 10, of Code 6, Article 4-bis, paragraph 9, of Code 10, Articles 7-bis, paragraphs 2 and 3-ter, and 7-ter, paragraph 9, of Code 12 and Articles 8-quinquies, paragraph 6, and 8-sexies, paragraph 13, of Code 14. In these cases references to the pilot Circle shall be understood as referring to Circle 1.

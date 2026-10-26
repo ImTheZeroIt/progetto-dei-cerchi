@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 16 — TRANSIZIONE E AVVIO DELLA CONFEDERAZIONE"
 breve: "Codice 16 — Transizione e avvio"
-versione: "V1.4"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 16
 id: "codice-16"
 slug: "codice-16"
-allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.7."
 ---
 
 ## Art. 1 — Oggetto, definizioni e natura temporanea
@@ -15,7 +15,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 2.  Ai fini del presente Codice si intende per:
 
-    a) **transizione**: il periodo compreso tra l’istituzione del primo Cerchio pilota e la dichiarazione di chiusura prevista dall’articolo 10;
+    a) **transizione**: per ciascun Cerchio pilota, il periodo compreso tra la sua istituzione e la dichiarazione di chiusura prevista dall’articolo 10 per la Federazione minima di cui fa parte;
 
     b) **fase**: il periodo transitorio in cui sono attivati obiettivi, Codici e procedure specifici, con le relative soglie di uscita;
 
@@ -25,25 +25,35 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     e) **Federazione minima**: un’aggregazione di almeno tre Bacini;
 
-    f) **Paniere 1-2**: i beni e i servizi del Paniere di Sufficienza disciplinato dal Codice 1 che rientrano nei livelli 1 e 2 della gerarchia di cui all’articolo 32 del medesimo Codice, secondo la specificazione dei Codici di settore;
+    f) **Paniere 1-2**: i beni e i servizi del Paniere di Sufficienza indicati dall’articolo 32, comma 1-quinquies, del Codice 1;
 
     g) **punto di non ritorno**: la deliberazione che rende irreversibile la destinazione di beni comuni ecologici o territoriali;
 
     h) **Protocollo di Avvio Sociale**: l’Allegato Tecnico A al presente Codice, adottato secondo l’articolo 19 del Codice 3, che definisce una metodologia di verifica delle soglie sociali istituzionali senza introdurre obblighi o sanzioni individuali autonomi;
 
-    i) **livelli di rischio R0-R4**: i livelli definiti dal Codice 14. Fino all’attivazione di tale Codice, la classificazione provvisoria è effettuata dal Consiglio Salute secondo il Codice 6, articolo 4;
+    i) **livelli di rischio R0-R4**: i livelli definiti dall’articolo 1, comma 3, del Codice 14. Fino all’attivazione di tale Codice, gli stessi livelli sono attribuiti in via provvisoria dal Consiglio Salute nelle Schede di Sicurezza previste dall’articolo 4 del Codice 6;
 
     j) **Carta Operativa del Primo Anno**: l’Allegato Tecnico C al presente Codice, adottato secondo l’articolo 19 del Codice 3, che riunisce le regole minime necessarie all’avvio di un Cerchio pilota senza introdurre obblighi autonomi.
 
-3.  Il presente Codice ha natura temporanea e cessa di produrre effetti normativi con la dichiarazione di chiusura di cui all’articolo 10, salve le disposizioni di memoria ivi previste. Non può istituire diritti, obblighi o competenze permanenti oltre il periodo di transizione, né modificare il contenuto sostanziale dei Codici 1–15. Le sue disposizioni non costituiscono modifica dei Codici ai sensi degli articoli 37 e 38 della Costituzione. In caso di contrasto prevale la Costituzione.
+3.  Il presente Codice ha natura temporanea e cessa di produrre effetti normativi, per ciascuna Federazione minima, con la dichiarazione di chiusura di cui all’articolo 10, salve le disposizioni di memoria ivi previste. Continua ad applicarsi ai Cerchi pilota, ai Bacini e alle Federazioni minime che non hanno chiuso la transizione, compresi quelli che si costituiscono o aderiscono dopo, ai sensi dell’articolo 21 del Codice 15; alla Comunità associata dell’articolo 21-bis del Codice 15 si applica nei limiti dell’articolo 3, comma 7, lettera f). Non può istituire diritti, obblighi o competenze permanenti oltre il periodo di transizione, né modificare il contenuto sostanziale dei Codici 1–15. Le sue disposizioni non costituiscono modifica dei Codici ai sensi degli articoli 37 e 38 della Costituzione. In caso di contrasto prevale la Costituzione.
 
 4.  La qualificazione transitoria di un bene, di una funzione o di una competenza non ne determina il regime permanente.
 
-5.  Durante la transizione i riferimenti dei Codici al Cerchio 1 si intendono riferiti al Cerchio pilota e quelli al Cerchio 2 al Bacino. Fino alla costituzione di un Cerchio Esteso, le funzioni del Cerchio 3 sono esercitate dalla Federazione minima.
+5.  Durante la transizione i riferimenti dei Codici al Cerchio 1 si intendono riferiti al Cerchio pilota e quelli al Cerchio 2 al Bacino. La Federazione minima esercita le funzioni del Cerchio 3 fino a quando è costituita in Cerchio Esteso ai sensi dell’articolo 14-bis del Codice 3. Fino alla costituzione della Federazione minima, la dichiarazione del Cerchio 3 interessato prevista dall’articolo 36.2 della Costituzione è adottata dall’Assemblea Generale del Bacino colpito, nei limiti dell’articolo 36.4 della Costituzione.
 
 6.  Durante la transizione il Saldo previsto dal Codice 15 opera alla scala del Bacino e della Federazione minima. L’attivazione della fase confederale operativa non comporta che la Confederazione comprenda l’intera umanità.
 
-7.  Durante la transizione la revisione della Costituzione e dei Codici segue il regime di fondazione dell’articolo 38 della Costituzione.
+7.  La revisione della Costituzione e dei Codici segue il regime di fondazione alle condizioni dell’articolo 38.2 della Costituzione, cioè finché non esistono almeno tre Cerchi Estesi, anche quando una parte della Confederazione è ancora in transizione.
+
+8.  Gli Allegati Tecnici A, B e C al presente Codice sono adottati e modificati secondo l’articolo 19 del Codice 3, con le regole seguenti:
+
+    a) ciascun Allegato, o la sua parte che si applica a una fase, è adottato dall’Assemblea dell’unità che si trova in quella fase ai sensi dell’articolo 3, comma 7: l’Assemblea del Cerchio pilota per la Fase 0, l’Assemblea Generale del Bacino per la Fase 1 e quella della Federazione minima per le Fasi 2 e 3, ai sensi degli articoli 12 e 14 del Codice 3;
+
+    b) la modifica deliberata da un’unità vale per essa e per le unità che vi entrano, ai sensi dell’articolo 3, comma 7, lettera c); è pubblicata nel Magazzino del Sapere federato, perché le altre unità possano adottarla;
+
+    c) nessun Allegato e nessuna sua modifica può alterare le fasi, le soglie, le competenze o le garanzie del presente Codice e dei Codici 1–15, ai sensi dell’articolo 19, comma 5, del Codice 3.
+
+9.  Fino all’attivazione di un Codice ai sensi dell’articolo 3, i rinvii a esso del presente Codice e dei suoi Allegati si applicano in quanto applicabili con gli organi e le procedure già attivi. I pareri dei Consigli non ancora istituiti seguono l’articolo 8, commi 2 e 3. Restano sempre fermi i divieti e le garanzie che attuano direttamente la Costituzione.
 
 ## Art. 2 — Principi della transizione
 
@@ -55,6 +65,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 6.  **Non mercificazione.** È vietata la costituzione di rendite sull’avvio della Confederazione, sui beni comuni conferiti durante la transizione o sulle competenze salvavita.
 7.  **Legalità e coesistenza.** Durante la transizione i Cerchi operano nel rispetto dell’ordinamento giuridico vigente nel territorio, ai sensi dell’articolo 38.6 della Costituzione. Si applicano l’articolo 37 del Codice 4 e il Capo IV del Codice 15.
 8.  **Volontarietà.** L’adesione è individuale e volontaria. Nessuno può essere indotto a cessare attività esterne, a conferire beni o a rinunciare a diritti riconosciuti dall’ordinamento vigente. Resta fermo il contributo proporzionale sui redditi esterni previsto dall’articolo 19-bis del Codice 15, reso noto prima dell’adesione.
+9.  **Redditi esterni messi in comune.** Durante la transizione, nel rispetto dell’ordinamento vigente ai sensi dell’articolo 38.6 della Costituzione, i membri di una Comunità associata ai sensi dell’articolo 21-bis del Codice 15 possono mettere in comune volontariamente i redditi e i patrimoni che detengono fuori dalla Confederazione ai sensi dell’articolo 3.5-ter della Costituzione e ridistribuirli tra loro per le spese esterne personali. Il fondo così formato è fatto di redditi e patrimoni personali esterni: è distinto dalla Cassa comune del Cerchio prevista dall’articolo 3.5-bis della Costituzione e dall’articolo 17 del Codice 15 e non ne fa parte. Non dà accesso ai Magazzini, al CdR, ai Beni Comuni o alle decisioni; non è ripartito in proporzione al lavoro né come suo compenso e non può essere impiegato per acquistare lavoro o consenso, ai sensi dell’articolo 19-bis, comma 2, del Codice 15. Ogni membro può ritirarsene in ogni momento. Resta fermo il contributo proporzionale alle spese esterne comuni dell’articolo 3.5-ter della Costituzione e dell’articolo 19-bis del Codice 15. La facoltà cessa quando cessano i mezzi di pagamento esterni, ai sensi dell’articolo 19-bis, comma 8, del Codice 15.
 
 ## Art. 3 — Fasi della transizione
 
@@ -62,7 +73,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     a) è costituito almeno un Cerchio pilota con non meno di trenta persone aderenti;
 
-    b) sono attivati i Codici 1, 2, 3, 4, 5, il Codice 6 nella sua versione di base e il Capo IV del Codice 15;
+    b) sono attivati i Codici 1, 2, 3, 4, 5 e 6 e il Capo IV del Codice 15;
 
     c) è svolto un censimento iniziale, aggregato e non profilante, del suolo disponibile, delle competenze L1 e L2, delle macchine e attrezzature e dei bisogni del Paniere 1-2;
 
@@ -88,7 +99,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     f) sono attivati i Consigli Rete, Energia e Acqua, Agroecologico, Habitat e Territorio e Produzione;
 
-    g) il Saldo previsto dal Codice 15 è attivato alla scala del Bacino.
+    g) il Saldo previsto dal Codice 15 è attivato alla scala del Bacino ed è istituito il Consiglio di Magazzino del Bacino previsto dall’articolo 9-bis del Codice 15.
 
 3.  **Fase 2 — Federazione minima.** La durata indicativa è da diciotto a trentasei mesi. In questa fase:
 
@@ -96,7 +107,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     b) sono attivati i Codici 11, 12, 13 e 14, oltre ai Codici già attivati;
 
-    c) sono attivati il Capo III del Codice 15 e il Saldo alla scala della Federazione minima;
+    c) sono attivati il Capo III del Codice 15 e il Saldo alla scala della Federazione minima, con il Consiglio di Magazzino previsto dall’articolo 9-bis del Codice 15 per il Cerchio 3;
 
     d) è istituito almeno un santuario per Bacino, ai sensi dell’articolo 4 del Codice 13;
 
@@ -119,6 +130,20 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 5.  **Fase 4 — Chiusura.** La transizione si conclude con la dichiarazione di chiusura adottata secondo l’articolo 10.
 
 6.  Le durate indicate sono orientative e non sostituiscono le soglie di uscita dell’articolo 4. Nessuna fase può essere superata prima che siano state verificate le relative soglie.
+
+7.  **Scala delle fasi.** La Fase 0 è propria di ciascun Cerchio pilota, la Fase 1 di ciascun Bacino e le Fasi 2, 3 e 4 di ciascuna Federazione minima. Si applicano le regole seguenti:
+
+    a) il passaggio dalla Fase 0 alla Fase 1 è deliberato congiuntamente dai Cerchi pilota che costituiscono il Bacino, ai sensi dell’articolo 14, comma 10, del Codice 3; il passaggio dalla Fase 1 alla Fase 2 dall’Assemblea Generale dei Bacini che costituiscono la Federazione minima; i passaggi successivi e la chiusura dall’Assemblea Generale della Federazione minima;
+
+    b) il Cerchio pilota che si costituisce o aderisce quando altri sono già in una fase successiva percorre la Fase 0. Superate le soglie dell’articolo 4, comma 1, entra in un Bacino contiguo o ne costituisce uno nuovo. Il Bacino che ha superato le soglie dell’articolo 4, comma 2, entra in una Federazione minima o ne costituisce una nuova con almeno altri due Bacini;
+
+    c) il Cerchio pilota o il Bacino che entra in un Bacino o in una Federazione minima ne assume la fase quando soddisfa, per la propria parte, le soglie dei passaggi già deliberati da quella. La verifica è svolta dal Consiglio Transizione dell’unità che lo accoglie e non può introdurre valutazioni ulteriori, ai sensi dell’articolo 4.5 della Costituzione. I Codici già attivati si applicano a chi entra dal giorno dell’ingresso, e i termini transitori dei singoli Codici decorrono da quella data;
+
+    d) se la Federazione minima ha già chiuso la transizione, la verifica della lettera c) comprende le soglie dell’articolo 4, commi 3 e 4, e la chiusura della transizione per chi entra è deliberata dalla sua Assemblea Generale ai sensi dell’articolo 10, comma 1; l’ingresso nel Cerchio Esteso segue l’articolo 14-bis, comma 4, del Codice 3;
+
+    e) l’ingresso di un nuovo Cerchio pilota o Bacino non fa retrocedere di fase l’unità che lo accoglie;
+
+    f) la Comunità associata ai sensi dell’articolo 21-bis del Codice 15 non percorre le fasi per la propria vita interna e non è tenuta ad attivare i Codici e i Consigli delle fasi, salvo gli strumenti che adotta. Entra in un Bacino, o concorre a costituirlo, quando l’equivalenza al confine è verificata, ed è contata come Cerchio pilota ai fini dell’articolo 1, comma 2, lettera d). Le soglie dell’articolo 4 si verificano, per la sua parte, sui dati e sugli impegni che essa rende al confine ai sensi del comma 2 di quell’articolo; nel Bacino e nella Federazione minima segue le regole degli strumenti comuni attivati nella fase.
 
 ## Art. 4 — Soglie di attivazione e di uscita
 
@@ -174,13 +199,13 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     e) Bilanci del Lavoro che rispettino il limite dell’articolo 3 del Codice 1 per quattro trimestri consecutivi oppure, in mancanza, la presentazione di una proposta motivata di revisione di tale limite ai sensi dell’articolo 38 della Costituzione.
 
-5.  La verifica delle soglie è svolta dal Consiglio Transizione, con parere obbligatorio dei Consigli competenti per materia. Il passaggio di fase costituisce una decisione costitutiva ai sensi dell’articolo 3, comma 3, del Codice 3 ed è deliberato dall’Assemblea Generale secondo convocazione, quorum e procedura previsti dai Codici 3 e 4. La deliberazione è pubblicata in forma aggregata e non profilante.
+5.  La verifica delle soglie è svolta dal Consiglio Transizione, con parere obbligatorio dei Consigli competenti per materia. Il passaggio di fase costituisce una decisione costitutiva ai sensi dell’articolo 3, comma 3, del Codice 3 ed è deliberato dall’Assemblea Generale indicata dall’articolo 3, comma 7, lettera a), secondo convocazione, quorum e procedura previsti dai Codici 3 e 4. La deliberazione è pubblicata in forma aggregata e non profilante.
 
 6.  Il parere sociale previsto dal Protocollo di Avvio Sociale può incidere esclusivamente sulla verifica istituzionale della soglia e sulla possibilità di proporre o deliberare il passaggio di fase. Non può produrre sanzioni, esclusioni o limitazioni individuali, né condizionare l’accesso al Codice 4, alla Garanzia, ai beni vitali o al Paniere 1-2.
 
 ## Art. 5 — Governo transitorio
 
-1.  In ciascuna fase è istituito un Consiglio Transizione distinto, con durata limitata alla fase di riferimento.
+1.  In ciascuna fase è istituito un Consiglio Transizione distinto, con durata limitata alla fase di riferimento, alla scala prevista dall’articolo 3, comma 7: uno per ogni Cerchio pilota in Fase 0, uno per ogni Bacino in Fase 1 e uno per ogni Federazione minima nelle Fasi 2 e 3. Il Consiglio Transizione del Bacino e della Federazione minima è un Consiglio condiviso ai sensi dell’articolo 12-bis, comma 6-bis, del Codice 3, con i componenti sorteggiati tra le persone idonee ai sensi del comma 2 dei Cerchi pilota che ne fanno parte; restano ferme le regole del comma 3.
 
 2.  Il Consiglio è composto da tre a cinque membri con competenze L2 o L3 pertinenti alla fase, tra cui organizzazione, diritto confederale, agroecologia, territorio, sicurezza e biodiversità.
 
@@ -200,7 +225,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 4.  Il Consiglio opera con un quorum di almeno due terzi dei componenti. Le decisioni sono assunte per consenso in assenza di obiezioni motivate, secondo il Codice 3, articolo 4. Le riunioni sono verbalizzate e i verbali sono conservati per trentasei mesi.
 
-5.  Il Consiglio Transizione non delibera il passaggio di fase né l’adozione di un punto di non ritorno. Può formulare proposte all’Assemblea Generale, alla quale spettano le decisioni secondo gli articoli 4 e 6 del presente Codice.
+5.  Il Consiglio Transizione non delibera il passaggio di fase né l’adozione di un punto di non ritorno. Può formulare proposte all’Assemblea Generale, alla quale spettano le decisioni: il passaggio di fase secondo l’articolo 4; il punto di non ritorno secondo l’articolo 2, comma 2, l’articolo 6 e l’articolo 4, comma 7, dell’Allegato A.
 
 6.  Il Consiglio Transizione:
 
@@ -260,10 +285,10 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 1.  Il Codice 4 si applica sin dalla Fase 0.
 2.  Fino all’attivazione di un Consiglio competente, il Consiglio Transizione può rendere, in via provvisoria, i pareri obbligatori non vincolanti che riguardano la materia non ancora presidiata. Il parere è annotato come provvisorio e sottoposto a riesame entro sei mesi dall’attivazione del Consiglio competente.
-3.  La supplenza del comma 2 non si applica ai pareri vincolanti di Salute e Rete previsti dagli articoli 7-bis, 7-quater e 8 del Codice 3. Fino all’attivazione del Consiglio Rete, le decisioni che richiedono un parere vincolante di Rete sono sospese. Le altre decisioni non dipendenti da tale parere possono proseguire.
+3.  La supplenza del comma 2 non si applica ai pareri vincolanti negativi previsti dall’articolo 8 del Codice 3 né all’autorizzazione dell’articolo 13.3 della Costituzione. Fino all’attivazione del Consiglio competente, le decisioni che richiedono uno di tali pareri o tale autorizzazione sono sospese. Le altre decisioni non dipendenti da tale parere possono proseguire.
 4.  Le sospensioni necessarie a fronteggiare un rischio grave e immediato R4 sono immediatamente esecutive in ogni fase, nel rispetto delle procedure dei Codici competenti.
 5.  Il ricorso alla Garanzia è ammesso entro quattordici giorni secondo l’articolo 17 del Codice 3 e l’articolo 17 del Codice 4. Nessuna disposizione del presente Codice o del Protocollo di Avvio Sociale può condizionare, ritardare o limitare l’accesso alla Garanzia.
-6.  Durante la transizione il Capo V del Codice 4 si applica nei limiti del suo articolo 37.
+6.  Durante la transizione il Capo V del Codice 4 si applica nei limiti del suo articolo 37. Finché non è costituito un Bacino, gli organi del Codice 4 che richiedono componenti esterni al Cerchio pilota, compresi il Collegio di Riesame dell’articolo 17 e il Cerchio di Garanzia sostitutivo dell’articolo 15, comma 3, sono formati secondo l’articolo 37, comma 5, del Codice 4.
 
 ## Art. 9 — Divieti durante la transizione
 
@@ -287,9 +312,23 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 3.  L’accertamento, le misure cautelari e riparative e gli eventuali rimedi sono disciplinati dal Codice 4. Gli effetti sulle decisioni sono determinati secondo l’articolo 18 del Codice 3. L’esclusione tecnica di un bene o servizio resta di competenza del Consiglio Qualità ai sensi del Codice 2.
 
+## Art. 9-bis — Gradualità della sovranità tecnologica
+
+1.  In attuazione dell’articolo 38.6 della Costituzione, fino alla chiusura della transizione l’obbligo di possedere fisicamente l’hardware di ogni sistema utilizzato, previsto dall’articolo 19.4 della Costituzione, e quello di impiegare soltanto IA open source, previsto dall’articolo 19.5, si applicano con la gradualità seguente:
+
+    a) è ammesso l’uso di un sistema ospitato su infrastrutture esterne o che incorpora un modello di IA non open source soltanto se la dipendenza è ammessa come residua e superabile ai sensi dell’articolo 5, comma 2, lettera b), del Codice 2, o come temporanea ai sensi degli articoli 2, comma 1, 8, comma 2, e 10, comma 3, del Codice 7, ed è iscritta nel Registro Dipendenze con il Piano di Sostituzione o di Uscita;
+
+    b) la gradualità non consente di usare codice chiuso o modelli non open source per le IA Gestionali, per gli algoritmi dell’articolo 2, comma 5, del Codice 7, per l’IA personale e per i sistemi di consultazione e di voto dell’articolo 34.4 della Costituzione;
+
+    c) i sistemi della lettera a) installati presso la Comunità non ricevono aggiornamenti automatici o da remoto; ogni aggiornamento è verificato dal Consiglio Rete prima dell’installazione ed è reversibile, ai sensi dell’articolo 5-ter, comma 7, del Codice 7;
+
+    d) la gradualità cessa per ciascun sistema alla scadenza del suo Piano e, in ogni caso, con la chiusura della transizione.
+
+2.  L’uso di sistemi di cui non è disponibile il codice sorgente segue, durante la transizione e dopo, l’articolo 19.4 della Costituzione, l’articolo 5, comma 2, lettera b), e l’articolo 12, comma 5, del Codice 2.
+
 ## Art. 10 — Chiusura della transizione, memoria e prevalenza
 
-1.  La chiusura della transizione è deliberata dall’Assemblea Generale con una maggioranza qualificata dei due terzi, secondo gli articoli 13 e 14 del Codice 3. La deliberazione è preceduta:
+1.  La chiusura della transizione è deliberata, per ciascuna Federazione minima, dalla sua Assemblea Generale con una maggioranza qualificata dei due terzi, secondo gli articoli 13 e 14 del Codice 3. La deliberazione è preceduta:
 
     a) dal parere obbligatorio dei Consigli federati;
 
@@ -299,7 +338,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 2.  La dichiarazione di chiusura produce i seguenti effetti:
 
-    a) il presente Codice cessa di produrre effetti normativi;
+    a) il presente Codice cessa di produrre effetti normativi per la Federazione minima che ha deliberato la chiusura, ai sensi dell’articolo 1, comma 3, e la Federazione minima è costituita in Cerchio Esteso ai sensi dell’articolo 14-bis del Codice 3;
 
     b) gli inventari provvisori, i verbali dei Consigli Transizione e le deliberazioni di passaggio di fase restano conservati come memoria storica secondo il Codice 7;
 
@@ -311,7 +350,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     a) alla Costituzione;
 
-    b) alle norme imperative individuate dall’articolo 2, comma 2, del Codice 3;
+    b) alle norme imperative della Costituzione e dei Codici, cioè a quelle che non ammettono deroga da parte degli organi che decidono, richiamate dall’articolo 2, comma 2, del Codice 3;
 
     c) ai pareri vincolanti negativi previsti dall’articolo 8 del Codice 3.
 

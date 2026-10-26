@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 7 — DELL’AUTOMAZIONE E DELLA RETE"
 breve: "Codice 7 — Automazione e Rete"
-versione: "V1.7"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 7
 id: "codice-07"
 slug: "codice-07"
-allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.7; Codice 16 V1.7."
 ---
 
 ## TITOLO PRELIMINARE — PRINCIPI FONDAMENTALI
@@ -107,7 +107,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     c) in ogni Cerchio 1, un punto di accesso assistito con dispositivi condivisi.
 
-    I dispositivi personali rispettano l’articolo 5 del Codice 2; se non è disponibile un dispositivo conforme, l’accesso è assicurato dalla lettera c). Per i dispositivi condivisi è ammessa la dipendenza residua dell’articolo 5, comma 2, lettera b), del Codice 2, con Piano di Sostituzione. I dispositivi sono forniti e riparati tramite i Magazzini, con il supporto del Consiglio Rete. Restano fermi il diritto alla disconnessione e le procedure non digitali dell’articolo 5-bis, commi 7 e 8. Le dotazioni sono proposte dal Consiglio Rete e confluiscono nell’Allegato Tecnico annuale dell’articolo 18, comma 2, del Codice 1. Le dotazioni delle lettere a) e b) sono differibili ai sensi dell’articolo 32, comma 1-bis, del Codice 1.
+    I dispositivi personali rispettano l’articolo 5 del Codice 2; se non è disponibile un dispositivo conforme, l’accesso è assicurato dalla lettera c). Per i dispositivi condivisi è ammessa la dipendenza residua dell’articolo 5, comma 2, lettera b), del Codice 2, con Piano di Sostituzione, anche quando riguarda un firmware di cui non è disponibile il codice sorgente, nei limiti dell’articolo 19.4 della Costituzione. I dispositivi sono forniti e riparati tramite i Magazzini, con il supporto del Consiglio Rete. Restano fermi il diritto alla disconnessione e le procedure non digitali dell’articolo 5-bis, commi 7 e 8. Le dotazioni sono proposte dal Consiglio Rete e confluiscono nell’Allegato Tecnico annuale dell’articolo 18, comma 2, del Codice 1. Le dotazioni delle lettere a) e b) sono differibili ai sensi dell’articolo 32, comma 1-bis, del Codice 1.
 
 ### Art. 4 — Consiglio Rete
 
@@ -135,11 +135,23 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 6.  Il Consiglio Rete non può moderare, rimuovere o modificare contenuti deliberativi o politici per ragioni di merito, orientamento o dissenso. Può intervenire senza ritardo solo per prevenire o contenere un rischio tecnico immediato per la sicurezza della Rete. L’intervento è limitato al necessario, documentato e sottoposto a verifica successiva.
 
+7.  **Nodi e IA dei Cerchi 2 e 3.** I nodi e le IA del Cerchio Intermedio e del Cerchio Esteso sono gestiti dal Consiglio Rete condiviso del rispettivo Cerchio, costituito ai sensi dell’articolo 12-bis, comma 6-bis, del Codice 3, che esercita per essi le funzioni del comma 3 e quelle dell’articolo 5-ter. In particolare:
+
+    a) installa, aggiorna e mantiene i nodi e le IA del Cerchio e valida l’attivazione di nuove istanze ai sensi dell’articolo 5-ter, commi 6 e 7;
+
+    b) riceve i rifiuti dell’articolo 5-ter, comma 4, e decide su di essi entro settantadue ore. La decisione che conferma l’istruzione rifiutata è una decisione urgente ai sensi dell’articolo 12-bis, comma 6-bis, lettera b), del Codice 3;
+
+    c) avvia la revisione dell’articolo 5-ter, comma 5;
+
+    d) l’esito della revisione e la sospensione, la sostituzione o la disattivazione di un’IA o di un nodo del Cerchio sono deliberati dall’Assemblea Generale, salva la sospensione necessaria a contenere un rischio tecnico immediato, che è una decisione urgente ai sensi della medesima lettera b);
+
+    e) l’override manuale previsto dall’articolo 22.4 della Costituzione e dall’articolo 5-ter, comma 1, spetta a ciascuna Comunità di Base per gli effetti sul proprio territorio ed è esercitato dal suo Consiglio Rete o dall’organo competente della Comunità, che ne informa senza ritardo il Consiglio Rete condiviso.
+
 ## CAPO II — IA GESTIONALE E AUTOMAZIONE DEL CBO
 
 ### Art. 5 — IA Gestionale
 
-1.  L’IA Gestionale può svolgere esclusivamente le seguenti funzioni:
+1.  L’IA Gestionale svolge, in forma di proposta o di supporto tecnico e nei limiti dell’articolo 2, comma 8, e del comma 2, le funzioni di supporto previste dalla Costituzione e dai Codici, tra cui:
 
     a) indicizzare il Magazzino del Sapere;
 
@@ -187,7 +199,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 4.  Il metodo utilizzato per determinare il margine d’incertezza è definito nella STV pertinente e deve poter essere verificato.
 
-5.  Per le funzioni critiche sono privilegiati modelli con pesi accessibili, verificabili ed eseguibili localmente. Dataset, procedure e log di addestramento sono documentati e sottoposti a tracciabilità e audit. La pubblicazione integrale può essere limitata quando comporti una violazione della riservatezza, un rischio per la Rete o la divulgazione di informazioni sensibili; la limitazione è motivata e non impedisce il controllo da parte dei soggetti autorizzati.
+5.  Le IA Gestionali impiegano modelli open source, con pesi accessibili, verificabili ed eseguibili localmente, ai sensi dell’articolo 19.5 della Costituzione e dell’articolo 5-ter, comma 1. Per le funzioni critiche, dataset, procedure e log di addestramento sono documentati e sottoposti a tracciabilità e audit. La pubblicazione integrale può essere limitata quando comporti una violazione della riservatezza, un rischio per la Rete o la divulgazione di informazioni sensibili; la limitazione è motivata e non impedisce il controllo da parte dei soggetti autorizzati.
 
 6.  Quando una proposta dell’IA riguarda direttamente una persona o può incidere sui suoi diritti, sull’accesso ai beni, sul CBO, sull’apprendimento, sulla validazione delle competenze o su una procedura di Garanzia, la persona ha diritto di conoscere in forma comprensibile:
 
@@ -207,7 +219,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 ### Art. 5-bis — Nodo e IA personale
 
-1.  Ogni persona ha diritto a un Nodo di calcolo personale offline, di proprietà, open source, ispezionabile e dotato di un interruttore fisico di spegnimento, e a un’IA personale, ai sensi degli articoli 1.2, 19.1 e 21 della Costituzione. Il Nodo è un bene d’uso personale ed è fornito e riparato tramite i Magazzini, secondo il Codice 1 e il C.1-Annex A.
+1.  Ogni persona ha diritto a un Nodo di calcolo personale offline, di proprietà, open source, ispezionabile e dotato di un interruttore fisico di spegnimento, e a un’IA personale, ai sensi degli articoli 1.2, 19.1 e 21 della Costituzione. Il Nodo è proprietà personale ai sensi dell’articolo 10.3 della Costituzione ed è fornito e riparato tramite i Magazzini, secondo il Codice 1 e il C.1-Annex A.
 2.  L’IA personale non è connessa per impostazione predefinita e non trasmette dati senza un comando esplicito e revocabile della persona.
 3.  Le funzioni fondamentali dell’IA personale comprendono la prevenzione sanitaria, l’alfabetizzazione e l’apprendimento, la memoria esterna e il filtro della Rete. Il Nodo custodisce inoltre il registro personale dei CdR, il Portfolio Personale e, se la persona lo desidera, il testamento biologico. La persona può attivare ulteriori funzioni compatibili con la Costituzione.
 4.  All’IA personale è vietato sorvegliare, denunciare o profilare la persona e impiegare meccanismi di fidelizzazione comportamentale o che generino dipendenza.
@@ -223,7 +235,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 2.  È vietata la costituzione di un’IA centrale o di un’IA generalista unica, ai sensi degli articoli 19.2, 20.2 e 23.1 della Costituzione. Il Cerchio Globale è un protocollo distribuito di interoperabilità: non dispone di un modello centrale né di una raccolta centralizzata di dati personali.
 3.  Nessuna IA può comandare, subordinare o disattivare un’altra IA. L’interoperabilità tra sistemi avviene mediante protocolli aperti e con l’autorizzazione del Consiglio Rete di ciascun Cerchio interessato. I conflitti tra sistemi sono decisi dall’organo umano competente.
 4.  Ogni IA Gestionale è configurata per rifiutare, con motivazione tracciata nella Rete, un’istruzione che comporta una violazione manifesta della Costituzione o dei protocolli applicabili, ai sensi dell’articolo 20.3 della Costituzione. Il rifiuto è trasmesso senza ritardo al Consiglio Rete e all’organo competente, che decide entro settantadue ore. Nel frattempo le funzioni essenziali sono assicurate con le procedure manuali previste dall’articolo 38 del Codice 1.
-5.  Se l’organo competente respinge per tre volte in dodici mesi una proposta tecnica dell’IA sulla stessa materia, il Consiglio Rete avvia la revisione obbligatoria del modello, dei dati e dei criteri, con audit indipendente ai sensi dell’articolo 8, comma 3. Fino all’esito, le proposte dell’IA in quella materia sono etichettate come sottoposte a revisione.
+5.  Se gli organi umani di un Cerchio respingono per tre volte una proposta tecnica dell’IA sulla stessa materia, anche quando i rifiuti provengono da organi diversi, il Consiglio Rete avvia la revisione obbligatoria del modello, dei dati e dei criteri prevista dall’articolo 19.6 della Costituzione, con audit indipendente ai sensi dell’articolo 8, comma 3. I rifiuti sono registrati nella Rete con la materia cui si riferiscono. Fino all’esito, le proposte dell’IA in quella materia sono etichettate come sottoposte a revisione.
 6.  È vietata l’autoreplicazione di un’IA al di fuori dei nodi federati registrati e validati. Ogni istanza è iscritta nel registro dei nodi con la relativa STV; l’attivazione di una nuova istanza richiede la validazione del Consiglio Rete. La replicazione non autorizzata comporta la sospensione immediata dell’istanza e l’applicazione del Codice 4.
 7.  Le IA locali sono addestrate o adattate prioritariamente sui dati della Comunità di appartenenza. I dati personali restano nel Cerchio di origine, salvo consenso espresso. Sono vietati gli aggiornamenti non ispezionabili: ogni aggiornamento è verificato prima dell’adozione ed è reversibile.
 8.  L’IA di mediazione che assiste gli organi previsti dal Codice 4 è un’IA Gestionale esclusivamente consultiva e non formula valutazioni di responsabilità o di pericolosità.
@@ -292,7 +304,7 @@ vi. del tempo massimo di funzionamento senza supervisione;
 
 vii. del tempo massimo di ripristino.
 
-5.  La classificazione iniziale e ogni sua modifica sono validate da una persona L3 competente e registrate nella STV. Le automazioni critiche e vitali sono sottoposte ad audit indipendente secondo l’articolo 8, comma 3.
+5.  La classificazione iniziale e ogni sua modifica sono validate da due persone L3 competenti, di cui almeno una estranea alla progettazione e alla gestione dell’automazione, anche mediante il reperimento federato dell’articolo 13 del Codice 15, e registrate nella STV. Le automazioni critiche e vitali sono sottoposte ad audit indipendente secondo l’articolo 8, comma 3.
 6.  Il tempo liberato dall’automazione non riduce l’accesso al Paniere e non comporta automaticamente un aumento del CBO obbligatorio. Può essere destinato al tempo libero, all’apprendimento, alla cura o alla deliberazione secondo le decisioni della Comunità.
 
 ### Art. 6-bis — Robot e macchine autonome
@@ -346,6 +358,28 @@ vii. del tempo massimo di ripristino.
 5.  La cancellazione o rettifica di un dato personale non comporta la cancellazione di informazioni già irreversibilmente anonimizzate e usate per statistiche aggregate, aggiornamento delle STV o analisi degli infortuni ai sensi dell’articolo 9 del Codice 6.
 
 6.  Le condizioni di accesso, conservazione, cancellazione, audit e gestione dei log sono documentate e verificate periodicamente.
+
+### Art. 7-bis — Sistema di consultazione e di voto
+
+1.  In attuazione dell’articolo 34.4 della Costituzione, le consultazioni e le votazioni che si svolgono tramite la Rete Federata, comprese quelle delle Assemblee dei Cerchi 1 e dell’Assemblea Generale e la raccolta delle firme dell’Obiezione dell’articolo 13-bis del Codice 3, impiegano un sistema conforme al presente articolo. Il sistema è una funzione critica ai sensi dell’articolo 1, comma 2, lettera d).
+
+2.  Il sistema è composto da due parti separate:
+
+    a) il registro degli aventi diritto, tenuto da ciascuna Comunità di Base secondo l’articolo 36.1 della Costituzione e l’articolo 12, comma 1, del Codice 3, che verifica soltanto che chi vota o firma abbia diritto di voto in quella deliberazione e voti o firmi una sola volta;
+
+    b) l’urna, che riceve i voti e le firme senza alcun dato che identifichi chi li ha espressi.
+
+    Le due parti operano su sistemi distinti e sono amministrate da persone diverse; nessuno accede a entrambe con le stesse credenziali.
+
+3.  Sono vietati log, registri, metadati o altri dati che consentano di collegare una persona al suo voto o alla sua firma, anche per finalità di sicurezza, di audit o di ricorso; l’articolo 2, commi 3 e 4, non consente tale collegamento. Il registro degli aventi diritto conserva soltanto il fatto che la persona ha votato o firmato, per il tempo necessario alla chiusura della votazione e dei ricorsi. Il sistema non rilascia a chi vota alcuna prova che gli consenta di dimostrare ad altri come ha votato, ai sensi dell’articolo 36.1 della Costituzione.
+
+4.  Il software del registro e dell’urna è open source ed è accompagnato da una STV di funzionamento approvata ai sensi dell’articolo 3-bis del Codice 2. Non sono ammessi codice di cui non è disponibile il sorgente né dipendenze residue ai sensi dell’articolo 5, comma 2, lettera b), del Codice 2, neppure in via temporanea e neppure durante la transizione, ai sensi dell’articolo 19.4 della Costituzione e dell’articolo 9-bis, comma 1, lettera b), del Codice 16. Ogni aggiornamento è verificato prima dell’adozione ai sensi dell’articolo 5-ter, comma 7, e nessun aggiornamento è installato durante una votazione aperta.
+
+5.  Il conteggio è svolto separatamente per ciascuna Comunità di Base. Il numero degli aventi diritto e dei votanti, i totali di ogni Comunità e l’esito sono pubblici e sono iscritti in un registro distribuito replicato su nodi di Cerchi diversi ai sensi dell’articolo 3, comma 4, in modo che ogni Comunità possa verificarli e nessun nodo possa modificarli da solo. Il conteggio è eseguito da un software deterministico e riproducibile a partire dai dati pubblici; un’IA non può raccogliere, contare, interpretare o correggere i voti, ai sensi dell’articolo 2, comma 8.
+
+6.  Il sistema è sottoposto ad audit da persone L3 indipendenti sorteggiate ai sensi dell’articolo 8, comma 3, prima del primo impiego, almeno una volta l’anno e su richiesta motivata di una Comunità di Base. L’esito è pubblicato. Il Consiglio Rete non può modificare i dati né l’esito di una votazione; l’intervento tecnico dell’articolo 4, comma 6, può soltanto sospendere la votazione, che riprende o è ripetuta senza alterare i voti già espressi.
+
+7.  Chi non usa la Rete vota e firma in presenza, con la stessa separazione tra registro e urna, ai sensi dell’articolo 5-bis, comma 8. I voti e le firme espressi in presenza sono contati con quelli espressi tramite la Rete nel conteggio della Comunità.
 
 ### Art. 8 — Sicurezza informatica e autonomia digitale
 

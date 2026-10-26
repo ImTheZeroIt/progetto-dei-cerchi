@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 3 — DE LA DÉLIBÉRATION, DES SEUILS ET DE L’ASSEMBLÉE"
 breve: "Code 3 — Délibération, seuils et Assemblée"
-versione: "V1.5"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
 slug: "code-03"
-allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 15 V1.7 ; Code 16 V1.7."
 ---
 
 ## CHAPITRE I — PRINCIPES DÉLIBÉRATIFS
@@ -93,7 +93,7 @@ La décision opérationnelle relève du Cercle de compétence concerné, dans le
 
 Le niveau délibératif est déterminé selon la matrice de l’article 7, sur la base de la valeur de l’opération en UCR et de la classe de risque.
 
-a) Les décisions d’allocation à risque faible et en dessous du seuil sont adoptées par le Conseil Qualité conjointement avec le Cercle de compétence concerné, selon les procédures du Code 2.
+a) Les décisions d’allocation à risque faible et en dessous du seuil sont adoptées par l’organe indiqué par la matrice de l’article 7 : le Cercle de compétence concerné pour celles de faible valeur et le Conseil Qualité conjointement avec le Cercle de compétence pour celles de valeur moyenne, selon les procédures du Code 2.
 
 b) Les décisions d’allocation à risque moyen ou élevé suivent la procédure renforcée, spéciale ou d’assemblée prévue par l’article 7 et par les articles 7-bis, 7-ter et 7-quater.
 
@@ -249,7 +249,7 @@ b) Les décisions d’allocation à risque moyen ou élevé suivent la procédur
 ### Art. 7-ter — Procédure renforcée
 
 1.  La procédure renforcée s’applique aux opérations de valeur moyenne en UCR et à risque moyen.
-2.  L’instruction est menée conjointement par le Conseil Qualité et par le Cercle de compétence concerné. L’avis contraignant du Conseil Santé ou du Conseil Réseau est recueilli lorsque l’objet de l’opération relève de leurs compétences respectives.
+2.  L’instruction est menée conjointement par le Conseil Qualité et par le Cercle de compétence concerné. L’avis des Conseils de l’article 8, alinéa 1, est recueilli lorsque l’objet de l’opération relève de leurs compétences respectives ; l’avis négatif produit les effets de l’article 8.
 3.  La décision est accompagnée du Rapport d’allocation prévu par l’article 10.
 4.  L’opération est soumise à un audit dans un délai de douze mois à compter de son lancement, puis selon le niveau de risque et les conditions fixées dans la décision.
 
@@ -259,7 +259,7 @@ b) Les décisions d’allocation à risque moyen ou élevé suivent la procédur
 
 2.  La décision relève de l’Assemblée du Cercle 1 et est subordonnée :
 
-    a) aux avis contraignants des Conseils Santé et Réseau, lorsqu’ils sont pertinents ;
+    a) aux avis des Conseils de l’article 8, alinéa 1, lorsqu’ils sont pertinents, avec les effets de l’article 8 ;
 
     b) à l’avis du Cercle de garantie sur les aspects procéduraux ;
 
@@ -277,9 +277,19 @@ b) Les décisions d’allocation à risque moyen ou élevé suivent la procédur
 
 ### Art. 8 — Avis contraignant négatif
 
-1.  L’avis contraignant négatif du Conseil Santé ou du Conseil Réseau empêche l’adoption de la décision tant que la cause qui a motivé l’avis n’a pas été levée, dans la limite des matières attribuées au Cercle qui l’a émis.
+1.  Seuls émettent des avis contraignants négatifs, au sens de l’article 6.6 de la Constitution :
 
-2.  L’avis contraignant négatif ne peut pas être surmonté par un vote d’assemblée, même à la majorité qualifiée.
+    a) le Conseil Santé, pour la protection de la santé ;
+
+    b) le Conseil Réseau, pour la protection de l’infrastructure numérique et de la souveraineté des données ;
+
+    c) le Conseil Sécurité, pour les paramètres de sécurité générale, dans les limites de l’article 3, alinéa 6, du Code 14 ;
+
+    d) le Conseil agroécologique et le Conseil Biodiversité, pour la protection des limites écologiques, dans les seuls cas de l’article 4, alinéa 4, lettre d), du Code 10 et de l’article 3, alinéa 3, du Code 13.
+
+L’avis contraignant négatif empêche l’adoption de la décision tant que la cause qui a motivé l’avis n’a pas été levée, dans la limite des matières attribuées au Conseil qui l’a émis. L’autorisation du Conseil Biodiversité prévue par l’article 13.3 de la Constitution n’est pas un avis et suit l’article 3, alinéa 5, du Code 13.
+
+2.  L’avis contraignant négatif ne peut pas être surmonté par un vote d’assemblée, même à la majorité qualifiée, ni par la révocation ou le remplacement des membres du Conseil qui l’a émis. L’avis reste en vigueur même après le remplacement des membres ; le Conseil dans sa nouvelle composition ne le réexamine que sur la proposition présentée à nouveau en application de l’alinéa 3.
 
 3.  Le proposant peut modifier la proposition et la présenter de nouveau, en y joignant les éléments qui démontrent que la cause de l’avis négatif a été levée.
 
@@ -395,7 +405,7 @@ b) Les décisions d’allocation à risque moyen ou élevé suivent la procédur
 
 1.  L’Assemblée du Cercle 1 se compose de toutes les personnes qui appartiennent à la Communauté de base et ont le droit de vote en application de l’article 36.1 de la Constitution. Chaque personne vote individuellement. La délégation, l’achat et l’échange de voix sont interdits. Les porte-parole des Cercles 0 n’exercent que des fonctions de communication et de coordination pratique et ne disposent pas du vote d’autrui.
 
-2.  La participation se fait en présence ou par l’intermédiaire du Réseau fédéré, conformément à l’article 34.4 de la Constitution. Le vote individuel est anonyme. Les objections motivées sont présentées sous une forme traçable, afin de permettre leur examen et la réponse.
+2.  La participation se fait en présence ou par l’intermédiaire du Réseau fédéré, conformément à l’article 34.4 de la Constitution et à l’article 7-bis du Code 7. Le vote individuel est anonyme. Les objections motivées de l’article 4 sont présentées sous une forme traçable, afin de permettre leur examen et la réponse ; les signatures de l’Objection de l’article 13-bis suivent l’alinéa 1 de cet article.
 
 3.  Aux fins du présent Code :
 
@@ -419,7 +429,7 @@ b) Les décisions d’allocation à risque moyen ou élevé suivent la procédur
 
 1.  Les Conseils prévus par les Codes sont les déclinaisons locales des Cercles de compétence, en application de l’article 6.5 de la Constitution. Dans les Codes, les expressions « Cercle de compétence concerné » et « Conseil compétent » désignent, dans chaque Cercle 1, le même organe technique.
 
-2.  Sont des Conseils techniques : le Conseil des Entrepôts (Code 1), le Conseil Qualité (Code 2), le Conseil Comptabilité (présent Code), le Conseil des Compétences (Code 5), le Conseil Santé (Code 6), le Conseil Réseau (Code 7), le Conseil Énergie et Eau (Code 8), le Conseil Production (C.1-Annex A), le Conseil agroécologique (Code 9), le Conseil Habitat et Territoire (Code 10), le Conseil Logistique (Code 11), le Conseil Soin (Code 12), le Conseil Biodiversité (Code 13) et le Conseil Sécurité (Code 14). Le Cercle de garantie est régi par le Code 4 et le Conseil Transition par le Code 16.
+2.  Sont des Conseils techniques : le Conseil des Entrepôts (Code 1), le Conseil Qualité (Code 2), le Conseil Comptabilité (présent Code), le Conseil des Compétences (Code 5), le Conseil Santé (Code 6), le Conseil Réseau (Code 7), le Conseil Énergie et Eau (Code 8), le Conseil Production (C.1-Annex A), le Conseil agroécologique (Code 9), le Conseil Habitat et Territoire (Code 10), le Conseil Logistique (Code 11), le Conseil Soin (Code 12), le Conseil Biodiversité (Code 13) et le Conseil Sécurité (Code 14). Le Cercle de garantie est régi par le Code 4 et le Conseil Transition par le Code 16. Les Conseils des Entrepôts des Cercles 2 et 3 sont régis par l’article 9-bis du Code 15.
 
 3.  Chaque Conseil se compose du nombre de personnes fixé par le Code qui le régit ou, à défaut, de trois à cinq personnes, possédant les compétences validées requises conformément au Code 5.
 
@@ -431,17 +441,29 @@ b) Les décisions d’allocation à risque moyen ou élevé suivent la procédur
 
     a) regrouper plusieurs Conseils voisins en un Conseil unique, en maintenant la séparation entre qui instruit, qui décide et qui contrôle ;
 
-    b) constituer le Conseil en commun avec d’autres Communautés du même Cercle 2 ;
+    b) constituer le Conseil en commun avec d’autres Communautés du même Cercle 2, composé conformément à l’alinéa 6-bis, lettre a) ;
 
     c) recourir temporairement, pour les seuls actes techniques et avis, au Conseil d’une autre Communauté.
+
+6-bis. **Conseils communs des Cercles 2 et 3.** Lorsque les Codes attribuent à un Conseil des fonctions du Cercle 2 ou du Cercle 3, ces fonctions sont exercées par un Conseil commun du Cercle, aux conditions suivantes, sauf pour les Conseils des Entrepôts des Cercles 2 et 3, régis par l’article 9-bis du Code 15 :
+
+a) le Conseil commun est composé du nombre de personnes prévu par l’alinéa 3, tirées au sort en application de l’alinéa 4 parmi les membres des Conseils homologues des Communautés de base du Cercle et, s’ils ne sont pas en nombre suffisant, parmi les autres personnes de ces Communautés qui possèdent la compétence requise. Deux membres au plus proviennent de la même Communauté de base. Les alinéas 5, 8 et 11 et l’article 16 s’appliquent ; la charge au sein du Conseil commun compte comme appartenance à un Conseil aux fins de l’alinéa 8 ;
+
+b) le Conseil commun adopte les actes techniques liés de l’alinéa 9 et prépare l’instruction et les propositions pour l’Assemblée générale. Lorsqu’un risque grave et immédiat pour les personnes, pour le Panier ou pour la continuité d’un service essentiel ne permet pas d’attendre l’Assemblée générale, il peut adopter les décisions urgentes strictement nécessaires, motivées et publiées sans délai. La décision urgente cesse de produire ses effets si elle n’est pas ratifiée par l’Assemblée générale dans un délai de trente jours ; à cette fin, l’Assemblée peut être convoquée avec le préavis réduit de l’article 14, alinéa 9 ;
+
+c) les décisions discrétionnaires, y compris celles qui répartissent des biens ou des services entre les Communautés selon des critères non encore fixés et celles qui suspendent, remplacent ou désactivent un système ou une infrastructure du Cercle, relèvent de l’Assemblée générale en application de l’article 14 et de l’article 35.2 de la Constitution ;
+
+d) le Conseil commun n’exerce aucun pouvoir de commandement sur les Communautés de base ni sur leurs Conseils et ne dispose d’aucun pouvoir disciplinaire. Il ne constitue pas un pouvoir permanent : chaque membre reste en fonction pour la seule durée du mandat de l’alinéa 5 et l’Assemblée de la Communauté d’origine peut le révoquer à tout moment par décision motivée ; le siège est pourvu par un nouveau tirage au sort ;
+
+e) les actes du Conseil commun sont publiés conformément à l’article 15 et peuvent être contestés conformément à l’article 17.
 
 7.  Le Conseil Comptabilité ne peut être regroupé ni avec le Conseil des Entrepôts ni avec le Conseil Qualité. Le Cercle de garantie ne peut être regroupé avec aucun Conseil.
 
 8.  Nul ne peut siéger simultanément dans plus de deux Conseils, ni dans un Conseil et dans le Cercle de garantie. Plus de deux personnes appartenant au même Cercle 0 ne peuvent pas siéger dans le même Conseil.
 
-9.  Les Conseils n’exercent aucun pouvoir de commandement, ne disposent d’aucun pouvoir disciplinaire et ne décident pas à la place de l’Assemblée. Ils adoptent des actes techniques liés en exécution de décisions, STV, SVS et Fiches déjà approuvées ; ils formulent des propositions et des décisions discrétionnaires selon la méthode du consensus de l’article 4, après publication pendant au moins soixante-douze heures ; ils rendent des avis contraignants négatifs dans les seuls cas de l’article 8.
+9.  Les Conseils n’exercent aucun pouvoir de commandement, ne disposent d’aucun pouvoir disciplinaire et ne décident pas à la place de l’Assemblée. Ils adoptent des actes techniques liés en exécution de décisions, STV, SVS et Fiches déjà approuvées ; ils formulent des propositions et des décisions discrétionnaires selon la méthode du consensus de l’article 4, après publication pendant au moins soixante-douze heures ; ils rendent des avis contraignants négatifs dans les seuls cas de l’article 8. Le Conseil Biodiversité délivre en outre les autorisations de l’article 13.3 de la Constitution, conformément à l’article 3, alinéa 5, du Code 13.
 
-10. L’Assemblée peut révoquer à tout moment un ou plusieurs membres par une décision motivée. L’article 16 sur le conflit d’intérêts s’applique.
+10. L’Assemblée peut révoquer à tout moment un ou plusieurs membres par une décision motivée. La révocation ne fait pas disparaître les avis déjà rendus, en application de l’article 8, alinéa 2. L’article 16 sur le conflit d’intérêts s’applique.
 
 11. Le temps consacré aux fonctions de Conseil, de garantie et de facilitation ainsi qu’à la documentation obligatoire est comptabilisé dans la CBO en application de l’article 7.2 de la Constitution et du Code 1. La charge ne donne droit à aucun CdR, privilège ou accès préférentiel aux biens communs.
 
@@ -489,12 +511,12 @@ b) Les décisions d’allocation à risque moyen ou élevé suivent la procédur
 
 ### Art. 13-bis — Objection de conscience ou de durabilité écologique
 
-1.  Une minorité représentant au moins dix pour cent des votants peut soulever, dans un délai de soixante-douze heures à compter de la proclamation du résultat, une Objection de conscience ou de durabilité écologique en application de l’article 34.2 de la Constitution, en indiquant la partie contestée et les motifs.
+1.  Une minorité représentant au moins dix pour cent des votants peut soulever, dans un délai de soixante-douze heures à compter de la proclamation du résultat, une Objection de conscience ou de durabilité écologique en application de l’article 34.2 de la Constitution, en indiquant la partie contestée et les motifs. Peut signer l’Objection toute personne qui a le droit de vote dans l’Assemblée qui a délibéré, même si elle n’a pas voté ; le nombre de signatures requis est calculé sur le nombre des votants. Les signatures sont recueillies selon l’article 7-bis du Code 7 : le registre des ayants droit vérifie uniquement que chaque signataire a le droit de vote et ne signe qu’une seule fois, et seuls le texte de l’Objection et le nombre de signatures valables, sans les noms des signataires, sont communiqués à l’Assemblée.
 2.  L’objection ne constitue pas un veto. Elle suspend l’effet de la seule partie contestée, sauf si la suspension compromet un service essentiel ou crée un risque grave et immédiat ; dans ce cas, le Plan de continuité applicable est mis en œuvre.
 3.  Dans un délai de quatorze jours, le proposant et l’organe compétent publient une réponse motivée et, le cas échéant, une proposition modifiée. Pour les aspects écologiques, l’instruction est complétée par le Conseil compétent.
-4.  L’Assemblée réexamine la partie contestée. La confirmation sans modification exige la majorité des deux tiers des participants actifs et une motivation qui rende compte des motifs de l’objection.
+4.  L’Assemblée réexamine la partie contestée. La confirmation sans modification exige la majorité des deux tiers des participants actifs et une motivation qui rende compte des motifs de l’objection. Aucune nouvelle Objection sur la même partie ne peut être soulevée contre la confirmation.
 5.  Ne peuvent pas être confirmées les décisions contraires à une règle impérative, à un avis contraignant négatif ou aux limites biophysiques visées à l’article 14.6 de la Constitution.
-6.  La personne qui a soulevé une objection de conscience ne peut pas être obligée d’exécuter personnellement la partie contestée. L’article 7.4 de la Constitution s’applique.
+6.  La personne qui a soulevé une objection de conscience ne peut pas être obligée d’exécuter personnellement la partie contestée. L’article 7.4 de la Constitution s’applique. Les signatures étant anonymes, la personne fait valoir ce droit en le déclarant à l’organe qui organise l’exécution, sans devoir prouver qu’elle a signé.
 
 ### Art. 14 — Assemblée générale
 
@@ -535,6 +557,18 @@ b) Les décisions d’allocation à risque moyen ou élevé suivent la procédur
 11. Les initiatives ayant un impact systémique mondial suivent l’article 35.3 de la Constitution.
 
 12. Les règles de décision, de procès-verbal et de transparence s’appliquent conformément à la Constitution et aux dispositions pertinentes du présent Code.
+
+### Art. 14-bis — Constitution du Cercle étendu
+
+1.  Le Cercle étendu prévu par l’article 5.1, lettre d), de la Constitution réunit au moins trois Cercles 2 contigus et écologiquement reliés qui ont achevé la transition au sens du Code 16.
+
+2.  La Fédération minimale est constituée en Cercle étendu par la délibération de clôture de sa transition, en application de l’article 10 du Code 16. À partir de ce jour, les fonctions du Cercle 3 sont exercées par le Cercle étendu.
+
+3.  Trois Cercles 2 ou plus qui ne font pas partie d’un Cercle étendu peuvent en constituer un par délibération de l’Assemblée générale de leurs Communautés de base, adoptée à la majorité qualifiée de l’article 14, alinéa 8, et avec un Dossier qui documente les conditions de l’alinéa 1. Un Cercle 2 qui ne vote pas en faveur n’en fait pas partie.
+
+4.  Un Cercle 2 qui a achevé la transition entre dans un Cercle étendu contigu par délibération de sa propre Assemblée générale. Le Cercle étendu vérifie uniquement les protocoles d’interopérabilité technologique et logistique, en application de l’article 4.5 de la Constitution et de l’article 21, alinéa 2, du Code 15.
+
+5.  Aux fins des articles 37 et 38 de la Constitution, un Cercle étendu existe à partir de la date de la délibération de l’alinéa 2 ou de l’alinéa 3, inscrite au Registre des décisions de l’Assemblée. Le Cercle étendu délibère par l’Assemblée générale et agit par les Conseils communs de l’article 12-bis, alinéa 6-bis ; il n’a pas d’autres organes.
 
 ### Art. 15 — Transparence différenciée
 
@@ -578,7 +612,10 @@ b) Les décisions d’allocation à risque moyen ou élevé suivent la procédur
 
 ### Art. 17 — Recours et continuité du service
 
-1.  Un recours devant le Cercle de garantie est recevable dans un délai de quatorze jours à compter de la communication de la décision.
+1.  Un recours devant le Cercle de garantie est recevable dans un délai de quatorze jours à compter de la communication de la décision. Si le Cercle de garantie a rendu sur la décision attaquée un avis ou une autorisation, tel que l’avis de l’article 7-quater, alinéa 2, lettre b), le recours est tranché par des membres suppléants tirés au sort en application de l’article 15, alinéa 3, du Code 4.
+
+1-bis. Le recours contre les décisions de l’Assemblée générale et des organes des Cercles 2 et 3, y compris les Conseils communs de l’article 12-bis, alinéa 6-bis, est tranché par trois membres tirés au sort parmi les membres des Cercles de garantie des Communautés de base concernées, appartenant à des Communautés différentes. Le tirage au sort est public et tracé en application de l’article 15 ; les articles 15 et 37, alinéa 5, du Code 4 s’appliquent. La décision vaut pour toutes les Communautés concernées.
+
 2.  Le recours ne suspend pas automatiquement la décision. Le Cercle de garantie peut ordonner la suspension à titre conservatoire lorsqu’il constate un risque grave, un préjudice irréversible ou une violation procédurale susceptible d’influer sur le résultat.
 3.  Si la décision concerne un service critique, notamment la connectivité, les services numériques, l’entretien des infrastructures ou les services de santé spécialisés, le Plan de continuité applicable est mis en œuvre pendant le recours.
 4.  La suspension est interdite lorsqu’elle causerait un dommage plus grand que le vice contesté, sauf si la poursuite entraîne un risque grave et immédiat qui ne peut être contenu autrement.

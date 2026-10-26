@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 11 — ON LOGISTICS AND BASIC MOBILITY"
 breve: "Code 11 — Logistics and basic mobility"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "codici"
 ordine: 11
 id: "codice-11"
 slug: "code-11"
-allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 15 V1.7; Code 16 V1.7."
 ---
 
 ## Art. 1 — Subject matter and definitions
@@ -45,7 +45,9 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     c) **Logistics Basket:** the set of procedures for delivering the Basket to the home or to an accessible exchange point, in accordance with established times and priorities;
 
-    d) **Logistics STV:** a technical validation sheet relating to a vehicle, a type of route, a load category or a delivery procedure.
+    d) **Logistics STV:** Technical Validation Sheet, within the meaning of Article 3-bis of Code 2, relating to a vehicle, a type of route, a load category or a delivery procedure;
+
+    e) **levels:** levels 1 to 5 correspond to letters a) to e) of Article 2, paragraph 4. The expressions “Basket of level 1–2” and “services of level 1–2” mean the delivery of Basket 1-2 defined by Article 32, paragraph 1-quinquies, of Code 1.
 
 ## Art. 2 — Principles
 
@@ -63,19 +65,19 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 3.  **Reuse before new acquisition.** Before a vehicle or tool is acquired, the availability of reusable, repairable or adaptable alternatives in the Circle or in neighbouring Circles shall be verified.
 
-4.  **Service priorities.** In compliance with the hierarchy of Article 32 of Code 1, logistics allocation shall follow this order:
+4.  **Service priorities.** Without prejudice to Article 32 of Code 1, logistics allocation shall follow this order:
 
     a) Basket, PPE and supplies of the Health Storehouse intended for frail persons within the meaning of Code 12;
 
-    b) spare parts necessary for the continuity of the critical infrastructure for Network, energy and production;
+    b) Basket intended for the rest of the population;
 
-    c) Basket intended for the rest of the population;
+    c) spare parts necessary for the continuity of the critical infrastructure for Network, energy and production;
 
     d) tools and materials for List A CBO;
 
     e) other commons.
 
-5.  The priorities referred to in paragraph 4 are coordinated with Articles 18, 19 and 32 of Code 1 and with Codes 8 and 9.
+5.  The priorities referred to in paragraph 4 are coordinated with Articles 18, 19 and 32 of Code 1 and with Codes 8 and 9. In the event of conflict, Article 32 of Code 1 prevails. The spare parts of letter c) of paragraph 4 precede the delivery of the Basket only with the derogation of Article 32, paragraph 3, of Code 1.
 
 6.  **Non-profiling transparency.** The Delivery Register contains data aggregated by category, time slot and outcome, without individual identifiers. It is managed in the Network in accordance with Code 7, Article 2.2. It is prohibited to track persons for purposes other than guaranteeing the service and the technical management of deliveries.
 
@@ -177,7 +179,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     d) on a single supplier with no practicable alternative.
 
-7.  A reasoned transitional derogation, of a duration not exceeding twelve months, is permitted only in order to guarantee the continuity of the Basket and with:
+7.  A reasoned transitional derogation, of a duration not exceeding twelve months, is permitted only in order to guarantee the continuity of the Basket, only for a dependency that the STV classifies as residual and surmountable pursuant to Article 5, paragraph 2, letter b), of Code 2, and with:
 
     a) a binding Exit Plan;
 
@@ -258,6 +260,20 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 7.  CBO in mobility may be requested at the host Community only if it is compatible with the person’s condition and is counted towards that person’s CBO.
 8.  The guest’s Basket is ensured by the Storehouse of the host Community; differences are offset through the Balance provided for by Code 15.
 9.  The hospitality register contains only aggregated and non-profiling data, in accordance with Code 7, Article 2.2.
+
+## Art. 6-quater — Federated logistics of Circles 2 and 3
+
+1.  The shared advanced means of Article 6, paragraphs 3–5, the caravans and the coastal transport under sail of Circle 2 are managed by the shared Logistics Council of Circle 2, constituted pursuant to Article 12-bis, paragraph 6-bis, of Code 3. The Council is responsible for their custody, maintenance, STVs and Safety Sheets, the booking provided for by Article 6, paragraph 5, and by Article 6-bis, paragraph 4, and the registers of loads and maintenance.
+
+2.  The time of use of the means of paragraph 1 is distributed among the Communities according to the rule resolved by the General Assembly of Circle 2, on a proposal from the shared Logistics Council and in compliance with the priorities of Article 2, paragraph 4. Until that resolution the following rule applies:
+
+    a) requests of the priorities of Article 2, paragraph 4, letters a) and b), and journeys that do not require CdR pursuant to Article 6-bis, paragraph 4, are served first, in order of registration;
+
+    b) the other requests are served in order of registration; where they exceed the availability for the month, no Community obtains more than the share proportional to the number of its members while requests from other Communities remain.
+
+    The application of the rule is a bound technical act. No distribution may take from a Community the effective access guaranteed by Article 6, paragraph 3.
+
+3.  The railway network of Circle 3 and the transport provided for by Article 10 of Code 15 follow a railway protocol of Circle 3, approved by its General Assembly as a Technical Annex pursuant to Article 19 of Code 3 and implemented by the shared Logistics Council of Circle 3, constituted pursuant to the same paragraph 6-bis. Recourse to external carriers is entered in the Dependency Register.
 
 ## Art. 7 — Safety
 

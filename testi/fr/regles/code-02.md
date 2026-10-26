@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 2 — DE LA QUALITÉ ET DE LA VALIDATION"
 breve: "Code 2 — Qualité et validation"
-versione: "V1.5"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 2
 id: "codice-02"
 slug: "code-02"
-allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 15 V1.7 ; Code 16 V1.7."
 ---
 
 ## CHAPITRE I — PRINCIPES, CRITÈRES ET ADMISSION
@@ -15,7 +15,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 3 V1.5 ; Code 4 V1.5
 
 1.  Le présent Code régit les critères et les procédures selon lesquels les biens et les outils sont évalués aux fins de leur admission, de leur maintien, de leur suspension ou de leur exclusion des Entrepôts communs prévus par le Code 1.
 2.  Le Code 1 régit les besoins, la production, la conservation, la distribution et la circulation des biens. Le présent Code établit les critères de qualité et les procédures permettant de déterminer quels biens peuvent entrer et rester dans le système commun.
-3.  Les services fournis par des acteurs extérieurs à la Confédération sont régis par le Chapitre III.
+3.  Les services fournis par des acteurs extérieurs à la Confédération sont régis par le Chapitre III. Les STV prévues par les Codes pour des objets autres que les biens sont régies par l’article 3-bis.
 4.  L’évaluation de la qualité est conduite en fonction du besoin effectif et ne peut pas servir à introduire des exigences étrangères à la sécurité, à l’aptitude, à la durée, à la réparabilité ou aux autres critères prévus par le présent Code.
 5.  Le Conseil Qualité est le Conseil technique compétent pour les fonctions du présent Code. Il est composé de trois à cinq personnes tirées au sort conformément à l’article 12-bis du Code 3.
 
@@ -45,7 +45,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 3 V1.5 ; Code 4 V1.5
 
 1.  Chaque type ou modèle de bien destiné à être admis dans l’Entrepôt central doit être accompagné d’une Fiche technique de validation, ci-après « STV ».
 
-2.  La STV est instruite par le Conseil Qualité, avec la contribution du Cercle de compétence concerné et l’avis du Conseil Santé sur les aspects relevant de sa compétence. Les avis des autres Cercles compétents sont recueillis lorsque le bien présente des aspects de sécurité, environnementaux, énergétiques, territoriaux ou numériques qui leur sont attribués.
+2.  La STV est instruite par le Conseil Qualité, avec la contribution du Cercle de compétence concerné et l’avis du Conseil Santé sur les aspects relevant de sa compétence. Les avis des autres Cercles compétents sont recueillis lorsque le bien présente des aspects de sécurité, environnementaux, énergétiques, territoriaux ou numériques qui leur sont attribués. Le Conseil des Entrepôts rend un avis sur la logistique, la conservation et la distribution du bien, en application de l’article 9.2 de la Constitution.
 
 3.  La STV évalue le type ou le modèle du bien. Elle ne certifie pas automatiquement chaque exemplaire ou lot, dont le contrôle est régi par l’article 6.
 
@@ -83,6 +83,22 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 3 V1.5 ; Code 4 V1.5
 
 8.  Les obligations documentaires sont proportionnées au risque. Pour les biens d’usage courant à risque nul ou faible, une STV simplifiée suffit, conformément à l’Annexe technique Qualité.
 
+### Art. 3-bis — STV des procédures, des services internes, des automatisations, des systèmes et de la sécurité
+
+1.  Les STV que les Codes prévoient pour des objets autres que les biens de l’article 3, tels que procédures, parcours, services internes, normes du Panier, automatisations, algorithmes, systèmes et règles techniques de sécurité, sont rédigées ou proposées par le Conseil indiqué par le Code sectoriel et approuvées conformément à l’article 3, alinéa 2, lettre c), et à l’article 7 du Code 3.
+
+2.  Aux fins de la matrice de l’article 7 du Code 3 :
+
+    a) la valeur est le coût en UCR de la mise en œuvre et de la maintenance de la STV au cours des vingt-quatre mois suivants, certifié par le Conseil Comptabilité en application de l’article 9, alinéa 5, du Code 3 ;
+
+    b) la classe de risque est celle de l’activité, du système ou de la fonction régis, évaluée en application de l’article 6 du Code 3.
+
+3.  Lorsque la matrice attribue la décision au Cercle de compétence, la personne ou l’organe qui a rédigé ou proposé la STV ne peut pas en être le seul approbateur : la STV est approuvée conjointement avec le Conseil Qualité ou, si c’est le Conseil Qualité qui l’a rédigée, conjointement avec le Cercle de compétence concerné. Si les deux Conseils sont réunis en un même Conseil, l’approbation requiert la confirmation d’au moins deux personnes compétentes étrangères à la rédaction.
+
+4.  L’article 3, alinéas 5 et 7, et les articles 13 et 16 s’appliquent dans la mesure où ils sont compatibles. Les avis obligatoires et contraignants et les organes ou procédures plus stricts prévus par les Codes sectoriels demeurent applicables.
+
+5.  Dans les Codes, le sigle « STV » désigne la Fiche technique de validation.
+
 ### Art. 4 — Hiérarchie d’admission et réemploi
 
 1.  En règle générale, les alternatives sont évaluées selon l’ordre de préférence suivant :
@@ -117,7 +133,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 3 V1.5 ; Code 4 V1.5
 
     a) **dépendance critique absolue :** elle entraîne un blocage total ou un couplage propriétaire irréversible, ou rend impossible l’usage hors ligne ou le contrôle communautaire. Elle est interdite et ne peut pas être admise, même à titre temporaire ;
 
-    b) **dépendance critique résiduelle et surmontable :** elle entraîne une limitation partielle que la Communauté peut lever au moyen d’outils, de procédures ou de substitutions techniquement disponibles. Le bien ne peut être admis que temporairement en application de l’article 4, alinéa 1, lettre d), avec un Plan de substitution obligatoire.
+    b) **dépendance critique résiduelle et surmontable :** elle entraîne une limitation partielle que la Communauté peut lever au moyen d’outils, de procédures ou de substitutions techniquement disponibles. Le bien ne peut être admis que temporairement en application de l’article 4, alinéa 1, lettre d), avec un Plan de substitution obligatoire. Lorsque la dépendance porte sur un logiciel ou un micrologiciel dont le code source n’est pas disponible, l’admission est permise dans les limites de l’article 19.4 de la Constitution et de l’article 12, alinéa 5, et n’est jamais permise pour les systèmes qui proposent ou décident en matière de droits, de vote et de Biens communs, parmi lesquels les IA de gestion, les algorithmes de l’article 2, alinéa 5, du Code 7, l’IA personnelle et les systèmes de consultation et de vote de l’article 34.4 de la Constitution.
 
 3.  La classification est consignée dans la STV, sur la base d’une instruction du Conseil Qualité et de l’avis du Conseil Réseau. L’évaluation prend également en compte la possibilité concrète, les délais et les coûts de la suppression de la dépendance.
 
@@ -277,6 +293,8 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 3 V1.5 ; Code 4 V1.5
 
 4.  Si l’échéance est dépassée sans que la dépendance ait été supprimée ou que la solution prévue ait été mise en œuvre, le bien est automatiquement soumis à réexamen aux fins de suspension ou d’exclusion. Le réexamen prend également en compte l’éventuelle nécessité de garantir la continuité d’un service essentiel.
 
+5.  Le Plan de substitution d’un bien qui dépend d’un logiciel ou d’un micrologiciel dont le code source n’est pas disponible est publié intégralement dans le Réseau, en application de l’article 19.4 de la Constitution. Seuls peuvent être omis les données personnelles et les informations dont la divulgation exposerait la sécurité du Réseau à un risque.
+
 ### Art. 13 — Validité dans le temps de la STV et audit
 
 1.  Chaque STV est soumise à un audit au moins tous les vingt-quatre mois, sauf si la STV fixe un délai plus court en raison du caractère critique, de la technologie ou des risques du bien.
@@ -335,6 +353,8 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 3 V1.5 ; Code 4 V1.5
 
     l) l’accès aux procédures de contestation et de recours.
 
+1-bis. En application de l’article 9.2 de la Constitution, avant la décision de l’alinéa 1, lettre f), une vérification d’usage proportionnée au risque est effectuée. La STV provisoire est publiée et les personnes qui utiliseront le bien peuvent présenter des observations pendant au moins soixante-douze heures ou pendant le délai plus long fixé par le Conseil Qualité. Pour les biens qui ne sont pas d’usage courant à risque nul ou faible, le Conseil Qualité invite en outre à un essai ou à un échange les personnes qui se sont déclarées intéressées à l’utiliser. Lorsque la période d’essai de l’alinéa 1, lettre g), est prévue, les observations des personnes qui utilisent le bien pendant l’essai sont recueillies et évaluées avant l’entrée de l’alinéa 1, lettre h). La décision rend compte des observations reçues et de l’avis du Conseil des Entrepôts prévu à l’article 3, alinéa 2.
+
 2.  La STV provisoire indique quelles vérifications sont encore en cours et les conditions d’usage applicables pendant l’instruction.
 
 3.  La période d’essai ne peut pas être utilisée pour distribuer des biens non sûrs ou pour contourner l’avis contraignant prévu à l’alinéa 1, lettre d).
@@ -345,7 +365,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 3 V1.5 ; Code 4 V1.5
 
 1.  La décision finale sur l’admission est adoptée comme suit :
 
-    a) pour les biens d’usage courant en dessous du seuil économique fixé par le Code 3, le Conseil Qualité décide sur la base de la STV, avec motivation ;
+    a) pour les biens en dessous du seuil économique fixé par le Code 3, le Conseil Qualité instruit et formule la proposition, et l’organe indiqué par la matrice de l’article 7 du Code 3 selon la valeur de l’opération et la classe de risque décide, avec motivation et sur la base de la STV. Pour un bien, le Cercle de compétence concerné est le Conseil compétent pour le secteur dans lequel le bien est utilisé ou, si aucun Conseil ne l’est, le Conseil des Entrepôts ;
 
     b) pour les biens au-dessus du seuil, pour ceux qui ont un impact systémique élevé ou pour ceux qui présentent une dépendance critique résiduelle au sens de l’article 5, alinéa 2, lettre b), le Conseil Qualité formule une proposition et l’Assemblée du Cercle 1 décide conformément au Code 3.
 

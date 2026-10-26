@@ -1,7 +1,7 @@
 ---
 titolo: "TECHNICAL ANNEX B TO CODE 16 — OPERATING MANUAL FOR DISENGAGEMENT AND FEDERATION"
 breve: "Annex B to Code 16 — Operating manual for disengagement and federation"
-versione: "V1.5"
+versione: "V1.6"
 gruppo: "allegati"
 ordine: 16.2
 id: "codice-16-allegato-b"
@@ -148,7 +148,7 @@ Technical annex adopted pursuant to Article 19 of Code 3. This Annex does not co
 
 6.  Tax obligations shall be fulfilled in full. Any donations or allocations of tax-creditable or deductible shares to Third Sector entities or commons are voluntary and shall be made through competent professionals in accordance with Code 15 and the applicable rules.
 
-7.  During the module, the following shall be activated, in accordance with Code 16 and the sectoral Codes:
+7.  During the module, the following shall be activated, each in the phase in which Article 3 of Code 16 provides for it and in accordance with the sectoral Codes:
 
     a) the provisional minimum Biodiversity Register;
 
@@ -164,7 +164,7 @@ Technical annex adopted pursuant to Article 19 of Code 3. This Annex does not co
 
 **Indicative minimum operating duration:** from three hundred and sixty-five to seven hundred and thirty days, subordinate to the institutional phases of Code 16.
 
-1.  The federation pathway requires:
+1.  The federation pathway requires, each in the phase in which Article 3 of Code 16 provides for it:
 
     a) the aggregation of at least three Basins;
 
@@ -222,7 +222,7 @@ Technical annex adopted pursuant to Article 19 of Code 3. This Annex does not co
 
 3.  The restart requires certification of the removal of the cause by the competent bodies:
 
-    a) for the condition referred to in paragraph 1, letter b), the Council of reference for care;
+    a) for the condition referred to in paragraph 1, letter b), the Council of reference for care, with the new verification provided for by Article 4, paragraph 6, letter c), of Annex A, in accordance with the procedure of that paragraph, which is the only one applicable to this condition;
 
     b) for the condition referred to in paragraph 1, letter c), the Safety Council;
 
@@ -232,6 +232,6 @@ Technical annex adopted pursuant to Article 19 of Code 3. This Annex does not co
 
 4.  Upon restart, the conditions of Phase 0 relevant to the cause of the suspension shall be verified again. The previous outcomes that are not affected by the cause remain valid.
 
-5.  The restart shall be resolved by the General Assembly, after the mandatory opinion of the competent Councils, and published in accordance with Article 15 of Code 3.
+5.  The restart shall be resolved by the General Assembly, after the mandatory opinion of the competent Councils, and published in accordance with Article 15 of Code 3. Where the suspension for the condition of paragraph 1, letter b), concerns only the proposal for a change of phase, the proposal resumes with the positive outcome of the new verification of paragraph 3, letter a), without a separate restart resolution.
 
-6.  The suspension does not constitute failure: it attests exclusively to the temporary failure to pass the relevant threshold provided for by Article 4 of Code 16.
+6.  The suspension does not constitute failure. In the cases of paragraph 1, letters a), b) and c), it attests exclusively to the temporary failure to pass the relevant threshold provided for by Article 4 of Code 16. In the case of paragraph 1, letter d), it concerns only the initiatives of this Annex, for which the requirement of Article 2, paragraph 1, letter b), is lacking, and does not affect the thresholds of Article 4 of Code 16.

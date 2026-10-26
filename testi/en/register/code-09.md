@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 9 — AGROECOLOGY AND FOOD"
 breve: "Code 9 — Agroecology and food"
-versione: "V3.1"
+versione: "V3.3"
 gruppo: "codici"
 ordine: 9
 id: "codice-09"
 slug: "code-09"
-allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 15 V1.7; Code 16 V1.7."
 ---
 
 ## Art. 1 — Subject matter and legal nature
@@ -103,7 +103,7 @@ The Phytosanitary STV is a necessary condition for every treatment. The prohibit
 
     e) level 5: other uses.
 
-In the event of scarcity, reductions shall be applied progressively from level 5 to the higher levels, in compliance with Article 32 of Code 1.
+In the event of scarcity, reductions shall be applied progressively from level 5 to the higher levels, in compliance with Article 32 of Code 1. For water in the event of scarcity only Article 10, paragraph 8, applies: the minimum water necessary for the survival of animals and pollinators has the same priority as that necessary for the crops of level 1.
 
 6.  **Open access to agroecological knowledge.** For every Basket variety, production technique, preservation recipe and STV relating to pollinators for levels 1–4, complete and freely reproducible documentation shall be made available, including the STV provided for by Code 2. It is prohibited to patent the seeds of the Basket and the essential preservation knowledge identified by the STVs.
 7.  **Transparency.** Each Circle shall maintain an inventory of seeds, a map of agricultural soils, an inventory of pollinator refuges and an aggregated, non-profiling food balance.
@@ -255,13 +255,13 @@ In the event of scarcity, reductions shall be applied progressively from level 5
 
 3.  This Code refers to Code 10 for the territorial map and governs the agricultural function within the areas designated for that use.
 
-4.  The Confederation guarantees a minimum federated coverage of advanced competences and infrastructure, comprising, according to requirements, a seed bank, nursery, dryer, mill and oil mill. The coverage shall ensure every Circle 1 effective access within a reasonable catchment area, as a rule one for every three or four Circles, sized on the basis of population and territory.
+4.  The Confederation guarantees a minimum federated coverage of advanced competences and infrastructure, comprising, according to requirements, a seed bank, nursery, dryer, mill and oil mill. The coverage shall ensure every Circle 1 effective access within its own Circle 2, as a rule with one provision for every three or four Circles 1 of which it is composed, sized on the basis of population and territory.
 
 5.  Access to the federated infrastructure is bookable and managed by means of a common inventory.
 
 6.  Dispersed micro-production, such as vegetable gardens on balconies or roofs, shared building gardens and educational pollinator refuges, shall be registered with the Agroecological Council and shall comply with the applicable STV and Safety Sheet.
 
-7.  Measurement is permitted only for technical purposes of food safety, food balance, soil fertility, verification of the Basket and the state of the pollinator refuges. Data shall be aggregated by Circle or cluster.
+7.  Measurement is permitted only for technical purposes of food safety, food balance, soil fertility, verification of the Basket and the state of the pollinator refuges. Data shall be aggregated by Circle 1 or by Circle 2.
 
 8.  Individual profiling of behaviour is prohibited. Code 7, Article 2.2, and the related rules on minimisation and access apply.
 
@@ -269,7 +269,7 @@ In the event of scarcity, reductions shall be applied progressively from level 5
 
 1.  **General principle.** Non-human animals are sentient, free and protected beings; they are not commodities or means of production, pursuant to Article 13 of the Constitution. The rearing of animals for purposes of exploitation, slaughter, killing and any practice that causes pain, fear or deprivation are prohibited. Only the non-exploitative collaboration of paragraph 3 and the harvesting without harm of paragraphs 4 and 5 are permitted.
 
-2.  In the event of a conflict of interpretation between the agri-food function and animal welfare, the welfare parameters established by Code 13 prevail. In case of doubt the activity is not permitted.
+2.  In the event of a conflict of interpretation between the agri-food function and animal welfare, the welfare parameters established by Code 13 prevail. In case of doubt the activity is not permitted. The distribution of water in the event of scarcity follows Article 10, paragraph 8.
 
 3.  **Collaboration in work.**
 
@@ -277,7 +277,7 @@ In the event of scarcity, reductions shall be applied progressively from level 5
 
     b) Collaboration is permitted only in activities compatible with the species, temperament and condition of the individual animal. Tools and methods that act through pain or fear are prohibited. An animal that shows refusal, fatigue or distress shall be left free from the activity.
 
-    c) The load, the maximum daily and weekly hours, the minimum and maximum age, rest periods, climatic thresholds and signs of distress are defined in the Collaborating Animals Welfare STV, in accordance with Code 2. The STV is validated jointly by the Agroecological Council and the Biodiversity Council, with the opinion of the Health Council; on welfare parameters the opinion of the Biodiversity Council is binding.
+    c) The load, the maximum daily and weekly hours, the minimum and maximum age, rest periods, climatic thresholds and signs of distress are defined in the Collaborating Animals Welfare STV, in accordance with Code 2. The STV is validated jointly by the Agroecological Council and the Biodiversity Council, with the opinion of the Health Council; the welfare parameters are approved by the Biodiversity Council with the authorisation of Article 13.3 of the Constitution, pursuant to Article 3, paragraph 5, of Code 13.
 
     d) Every animal shall have an individual Welfare Sheet, a register of hours and a periodic veterinary check. In the absence of a Sheet in force the collaboration shall be suspended without delay; care of the animal remains guaranteed.
 
@@ -297,7 +297,7 @@ In the event of scarcity, reductions shall be applied progressively from level 5
 
     b) Killing, any taking that entails pain, fear, deprivation or a reduction in lifespan, separation from offspring, induced reproduction, selection aimed at productivity and increasing the number of animals for harvesting purposes are prohibited.
 
-    c) The conditions and limits of each harvesting are defined in the Welfare Sheet and in the applicable STV, with the binding opinion of the Biodiversity Council. In case of doubt the harvesting is not permitted.
+    c) The conditions and limits of each harvesting are defined in the Welfare Sheet and in the applicable STV, approved by the Biodiversity Council pursuant to Article 3, paragraph 5, of Code 13. In case of doubt the harvesting is not permitted.
 
     d) Harvesting does not constitute a production objective and is not planned into the Basket requirement. What is harvested shall be delivered to the Storehouse and distributed, when available, with priority to clinical needs and to frail persons.
 
@@ -311,7 +311,7 @@ In the event of scarcity, reductions shall be applied progressively from level 5
 
     c) The following are prohibited: artificial feeding, except for a rescue intervention certified by the Biodiversity Council for the time strictly necessary; artificial insemination and the killing of queens; wing clipping; migratory beekeeping; persistent synthetic acaricides; lines subject to patent, licence or technological sterility.
 
-    d) Intervention on colonies is permitted for rescue, health protection, prevention of risks to persons and harvesting pursuant to letter b), in accordance with the Pollinators STV. The STV is adopted in accordance with Code 2, with the binding opinion of the Biodiversity Council on welfare parameters and with the mandatory opinion of the Habitat and Territory Council.
+    d) Intervention on colonies is permitted for rescue, health protection, prevention of risks to persons and harvesting pursuant to letter b), in accordance with the Pollinators STV. The STV is adopted in accordance with Code 2, with the approval and the opinion of the Biodiversity Council provided for by Article 6, paragraph 6, of Code 13 and with the mandatory opinion of the Habitat and Territory Council.
 
     e) The Pollinators STV defines the reserve necessary for the colony, the distances, the buffer zones and the radius of protection from treatments, in coordination with Code 10.
 
@@ -341,7 +341,7 @@ In the event of scarcity, reductions shall be applied progressively from level 5
 
 1.  No processing or preservation activity and no intervention at the pollinator refuges may be carried out without a Safety Sheet in force. For collaboration with animals and for interventions on colonies, a Welfare Sheet in force in accordance with Code 13 is also required.
 2.  The Agroecological Council validates the technical safety aspects of the activity. The Health Council gives the mandatory opinion on health risks, preservation, allergens, the nutrition of frail persons, stings and zoonoses. The Biodiversity Council gives the mandatory opinion on animal welfare aspects.
-3.  Mandatory opinions do not transfer to the Council consulted the competence for the technical validation of the act, which remains with the Agroecological Council, except for the Collaborating Animals Welfare STV and the Pollinators STV provided for by Article 6-bis, paragraph 3, letter c), and paragraph 5, letter d), for which the opinion of the Biodiversity Council is binding.
+3.  Mandatory opinions do not transfer to the Council consulted the competence for the technical validation of the act, which remains with the Agroecological Council, except for the Collaborating Animals Welfare STV and the Pollinators STV provided for by Article 6-bis, paragraph 3, letter c), and paragraph 5, letter d), for which the Biodiversity Council approves the welfare parameters pursuant to Article 3, paragraph 5, of Code 13.
 4.  PPE and equipment for food safety and for interventions at the pollinator refuges are commons, supplied free of charge, maintained and tracked by the competent Storehouses in accordance with Codes 1, 6 and 14. Their absence entails the suspension of the activity concerned.
 5.  L1 training in food safety and pollinator protection is mandatory for access to the processing kitchens and to the custodial hives. L2 is required for the management of fields, of advanced preservation and of rescue interventions on colonies. L3 is required for agroecological design and the validation of STVs.
 6.  Anyone who detects an immediate risk to health, animal welfare or the survival of a colony may interrupt the activity and report it, and may not suffer detriment for having acted in good faith. Codes 6 and 14 apply.
@@ -392,7 +392,7 @@ In the event of scarcity, reductions shall be applied progressively from level 5
 
     f) transfer to a party external to the Confederation control of the seed bank, of the Basket fields or of the pollinator refuges;
 
-    g) use treatments prohibited by Article 2, paragraph 4, letter b), except for the temporary derogation provided for by letter d) of the same paragraph;
+    g) use treatments prohibited by Article 2, paragraph 4, letter b), which admit no derogation; the products of letter d) of the same paragraph are used only under its conditions;
 
     h) kill or mistreat animals, or use them or harvest their products outside the conditions of Article 6-bis;
 
@@ -474,17 +474,15 @@ In the event of scarcity, reductions shall be applied progressively from level 5
 
 The conditions of Article 10 of Code 5 apply.
 
-8.  **Agricultural water.** Abstraction, storage and distribution intended for agriculture shall be coordinated with Code 8 and with Code 10, which governs territorial designations. In the event of scarcity, the priorities of use are:
+8.  **Agricultural water and water in the event of scarcity.** Abstraction, storage and distribution intended for agriculture shall be coordinated with Code 8 and with Code 10, which governs territorial designations. In the event of scarcity the available water is distributed according to the following priorities, which apply to every use of water, including those governed by Codes 8 and 13:
 
-    a) drinking water for human use, in accordance with Code 8;
+    a) drinking water for human use and for health and care services, within the guaranteed minimum quota of Article 4-bis, paragraph 3, of Code 8;
 
-    b) water necessary for animals and pollinators;
+    b) with equal priority, the minimum water necessary for the survival of the animals that live with the Community, including those received in sanctuaries, and of pollinators, and the minimum water necessary to keep the crops intended for level 1 of Article 2, paragraph 5; if the water is not sufficient for both, it is distributed in proportion to the minimum need of each;
 
-    c) water necessary for the plant-based Basket;
+    c) all other uses, which are reduced first.
 
-    d) other uses.
-
-The priorities shall be applied in compliance with the hierarchy of Article 32 of Code 1; in the event of conflict the hierarchy of Code 1 prevails.
+The minimum need of letter b) is established by the Energy and Water Council with the Agroecological Council and the Biodiversity Council. Before an animal is left without the water necessary for survival, the Biodiversity Council requests through the Pool of Code 15, as an immediate vital need within the meaning of its Article 8, paragraph 2, letter a), the missing water or the transfer of the animal to another Community or to a sanctuary that has the necessary water; the transfer is necessary for welfare within the meaning of Article 4-bis, paragraph 2, of Code 13. Until the Balance provided for by Code 15 is active, the transfer is attempted directly with another Community or with a kindred external body, such as a refuge or a sanctuary, by written agreement. To prevent scarcity, the number of animals kept or received by the Community, including sanctuaries, and of the pollinator colonies kept is planned by the Biodiversity Council, with the Energy and Water Council, on the basis of the water available in dry years; animals beyond that number are received through other Communities or sanctuaries that have the necessary water. For the purposes of Article 32 of Code 1, the abstraction and distribution of the water of letters a) and b) are vital emergencies of letter a) of its paragraph 1 and follow the order of this paragraph.
 
 9.  **Existing non-compliant functions.** Already existing functions, management methods, livestock farms and apiaries that violate Article 9 or Article 6-bis shall be brought into compliance within ninety days. For livestock farms and apiaries, compliance consists in the cessation of every practice prohibited by Article 6-bis and in the verification provided for by its paragraph 6. If bringing a function into compliance is not technically possible, the deactivation procedure shall be initiated within the same time limit, comprising:
 

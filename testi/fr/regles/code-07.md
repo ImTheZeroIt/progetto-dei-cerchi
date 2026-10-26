@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 7 — DE L’AUTOMATISATION ET DU RÉSEAU"
 breve: "Code 7 — Automatisation et Réseau"
-versione: "V1.7"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 7
 id: "codice-07"
 slug: "code-07"
-allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 15 V1.7 ; Code 16 V1.7."
 ---
 
 ## TITRE PRÉLIMINAIRE — PRINCIPES FONDAMENTAUX
@@ -107,7 +107,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     c) dans chaque Cercle 1, un point d’accès assisté doté de dispositifs partagés.
 
-    Les dispositifs personnels respectent l’article 5 du Code 2 ; si aucun dispositif conforme n’est disponible, l’accès est assuré par la lettre c). Pour les dispositifs partagés, la dépendance résiduelle de l’article 5, alinéa 2, lettre b), du Code 2 est admise, avec un Plan de substitution. Les dispositifs sont fournis et réparés par l’intermédiaire des Entrepôts, avec l’appui du Conseil Réseau. Le droit à la déconnexion et les procédures non numériques de l’article 5-bis, alinéas 7 et 8, demeurent applicables. Les dotations sont proposées par le Conseil Réseau et sont intégrées dans l’Annexe technique annuelle de l’article 18, alinéa 2, du Code 1. Les dotations des lettres a) et b) sont différables au sens de l’article 32, alinéa 1-bis, du Code 1.
+    Les dispositifs personnels respectent l’article 5 du Code 2 ; si aucun dispositif conforme n’est disponible, l’accès est assuré par la lettre c). Pour les dispositifs partagés, la dépendance résiduelle de l’article 5, alinéa 2, lettre b), du Code 2 est admise, avec un Plan de substitution, y compris lorsqu’elle porte sur un micrologiciel dont le code source n’est pas disponible, dans les limites de l’article 19.4 de la Constitution. Les dispositifs sont fournis et réparés par l’intermédiaire des Entrepôts, avec l’appui du Conseil Réseau. Le droit à la déconnexion et les procédures non numériques de l’article 5-bis, alinéas 7 et 8, demeurent applicables. Les dotations sont proposées par le Conseil Réseau et sont intégrées dans l’Annexe technique annuelle de l’article 18, alinéa 2, du Code 1. Les dotations des lettres a) et b) sont différables au sens de l’article 32, alinéa 1-bis, du Code 1.
 
 ### Art. 4 — Conseil Réseau
 
@@ -135,11 +135,23 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 6.  Le Conseil Réseau ne peut pas modérer, supprimer ou modifier des contenus délibératifs ou politiques pour des raisons de fond, d’orientation ou de désaccord. Il ne peut intervenir sans délai que pour prévenir ou contenir un risque technique immédiat pour la sécurité du Réseau. L’intervention est limitée au nécessaire, documentée et soumise à une vérification ultérieure.
 
+7.  **Nœuds et IA des Cercles 2 et 3.** Les nœuds et les IA du Cercle intermédiaire et du Cercle étendu sont gérés par le Conseil Réseau commun du Cercle concerné, constitué en application de l’article 12-bis, alinéa 6-bis, du Code 3, qui exerce pour eux les fonctions de l’alinéa 3 et celles de l’article 5-ter. En particulier :
+
+    a) il installe, met à jour et entretient les nœuds et les IA du Cercle et valide l’activation de nouvelles instances en application de l’article 5-ter, alinéas 6 et 7 ;
+
+    b) il reçoit les refus de l’article 5-ter, alinéa 4, et statue sur ceux-ci dans un délai de soixante-douze heures. La décision qui confirme l’instruction refusée est une décision urgente au sens de l’article 12-bis, alinéa 6-bis, lettre b), du Code 3 ;
+
+    c) il engage la révision de l’article 5-ter, alinéa 5 ;
+
+    d) l’issue de la révision et la suspension, le remplacement ou la désactivation d’une IA ou d’un nœud du Cercle sont délibérés par l’Assemblée générale, sauf la suspension nécessaire pour contenir un risque technique immédiat, qui est une décision urgente au sens de la même lettre b) ;
+
+    e) la reprise en main manuelle prévue par l’article 22.4 de la Constitution et par l’article 5-ter, alinéa 1, appartient à chaque Communauté de base pour les effets sur son propre territoire et elle est exercée par son Conseil Réseau ou par l’organe compétent de la Communauté, qui en informe sans délai le Conseil Réseau commun.
+
 ## CHAPITRE II — IA DE GESTION ET AUTOMATISATION DE LA CBO
 
 ### Art. 5 — IA de gestion
 
-1.  L’IA de gestion peut exercer exclusivement les fonctions suivantes :
+1.  L’IA de gestion exerce, sous forme de proposition ou d’appui technique et dans les limites de l’article 2, alinéa 8, et de l’alinéa 2, les fonctions d’appui prévues par la Constitution et par les Codes, parmi lesquelles :
 
     a) indexer l’Entrepôt du savoir ;
 
@@ -187,7 +199,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 4.  La méthode utilisée pour déterminer la marge d’incertitude est définie dans la STV pertinente et doit pouvoir être vérifiée.
 
-5.  Pour les fonctions critiques, les modèles dont les poids sont accessibles, vérifiables et exécutables localement sont privilégiés. Les jeux de données, les procédures et les journaux d’entraînement sont documentés et soumis à la traçabilité et à l’audit. La publication intégrale peut être limitée lorsqu’elle entraînerait une atteinte à la confidentialité, un risque pour le Réseau ou la divulgation d’informations sensibles ; la limitation est motivée et n’empêche pas le contrôle par les personnes autorisées.
+5.  Les IA de gestion emploient des modèles open source, dont les poids sont accessibles, vérifiables et exécutables localement, en application de l’article 19.5 de la Constitution et de l’article 5-ter, alinéa 1. Pour les fonctions critiques, les jeux de données, les procédures et les journaux d’entraînement sont documentés et soumis à la traçabilité et à l’audit. La publication intégrale peut être limitée lorsqu’elle entraînerait une atteinte à la confidentialité, un risque pour le Réseau ou la divulgation d’informations sensibles ; la limitation est motivée et n’empêche pas le contrôle par les personnes autorisées.
 
 6.  Lorsqu’une proposition de l’IA concerne directement une personne ou peut avoir une incidence sur ses droits, sur l’accès aux biens, sur la CBO, sur l’apprentissage, sur la validation des compétences ou sur une procédure de Garantie, la personne a le droit de connaître sous une forme compréhensible :
 
@@ -207,7 +219,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 ### Art. 5-bis — Nœud et IA personnelle
 
-1.  Toute personne a droit à un Nœud de calcul personnel hors ligne, en propriété, open source, inspectable et doté d’un interrupteur physique d’extinction, ainsi qu’à une IA personnelle, en application des articles 1.2, 19.1 et 21 de la Constitution. Le Nœud est un bien d’usage personnel ; il est fourni et réparé par l’intermédiaire des Entrepôts, conformément au Code 1 et au C.1-Annex A.
+1.  Toute personne a droit à un Nœud de calcul personnel hors ligne, en propriété, open source, inspectable et doté d’un interrupteur physique d’extinction, ainsi qu’à une IA personnelle, en application des articles 1.2, 19.1 et 21 de la Constitution. Le Nœud est une propriété personnelle au sens de l’article 10.3 de la Constitution ; il est fourni et réparé par l’intermédiaire des Entrepôts, conformément au Code 1 et au C.1-Annex A.
 2.  L’IA personnelle n’est pas connectée par défaut et ne transmet pas de données sans une commande explicite et révocable de la personne.
 3.  Les fonctions fondamentales de l’IA personnelle comprennent la prévention sanitaire, l’alphabétisation et l’apprentissage, la mémoire externe et le filtrage du Réseau. Le Nœud conserve en outre le registre personnel des CdR, le Portfolio personnel et, si la personne le souhaite, ses directives anticipées. La personne peut activer d’autres fonctions compatibles avec la Constitution.
 4.  Il est interdit à l’IA personnelle de surveiller, de dénoncer ou de profiler la personne et d’employer des mécanismes de fidélisation comportementale ou qui créent une dépendance.
@@ -223,7 +235,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 2.  La constitution d’une IA centrale ou d’une IA généraliste unique est interdite, en application des articles 19.2, 20.2 et 23.1 de la Constitution. Le Cercle global est un protocole distribué d’interopérabilité : il ne dispose ni d’un modèle central ni d’une collecte centralisée de données personnelles.
 3.  Aucune IA ne peut commander, subordonner ou désactiver une autre IA. L’interopérabilité entre systèmes s’effectue au moyen de protocoles ouverts et avec l’autorisation du Conseil Réseau de chaque Cercle concerné. Les conflits entre systèmes sont tranchés par l’organe humain compétent.
 4.  Toute IA de gestion est configurée pour refuser, avec une motivation tracée dans le Réseau, une instruction qui entraîne une violation manifeste de la Constitution ou des protocoles applicables, en application de l’article 20.3 de la Constitution. Le refus est transmis sans délai au Conseil Réseau et à l’organe compétent, qui statue dans un délai de soixante-douze heures. Dans l’intervalle, les fonctions essentielles sont assurées au moyen des procédures manuelles prévues par l’article 38 du Code 1.
-5.  Si l’organe compétent rejette à trois reprises en douze mois une proposition technique de l’IA sur la même matière, le Conseil Réseau engage la révision obligatoire du modèle, des données et des critères, avec un audit indépendant en application de l’article 8, alinéa 3. Jusqu’à l’issue de cette révision, les propositions de l’IA dans cette matière sont étiquetées comme étant en cours de révision.
+5.  Si les organes humains d’un Cercle rejettent à trois reprises une proposition technique de l’IA sur la même matière, y compris lorsque les rejets proviennent d’organes différents, le Conseil Réseau engage la révision obligatoire du modèle, des données et des critères prévue par l’article 19.6 de la Constitution, avec un audit indépendant en application de l’article 8, alinéa 3. Les rejets sont enregistrés dans le Réseau avec la matière à laquelle ils se rapportent. Jusqu’à l’issue de cette révision, les propositions de l’IA dans cette matière sont étiquetées comme étant en cours de révision.
 6.  L’autoréplication d’une IA en dehors des nœuds fédérés enregistrés et validés est interdite. Chaque instance est inscrite au registre des nœuds avec la STV correspondante ; l’activation d’une nouvelle instance requiert la validation du Conseil Réseau. La réplication non autorisée entraîne la suspension immédiate de l’instance et l’application du Code 4.
 7.  Les IA locales sont entraînées ou adaptées en priorité sur les données de la Communauté d’appartenance. Les données personnelles restent dans le Cercle d’origine, sauf consentement exprès. Les mises à jour non inspectables sont interdites : toute mise à jour est vérifiée avant son adoption et est réversible.
 8.  L’IA de médiation qui assiste les organes prévus par le Code 4 est une IA de gestion exclusivement consultative et ne formule pas d’appréciations de responsabilité ou de dangerosité.
@@ -292,7 +304,7 @@ vi. de la durée maximale de fonctionnement sans supervision ;
 
 vii. du délai maximal de restauration.
 
-5.  La classification initiale et toute modification de celle-ci sont validées par une personne L3 compétente et enregistrées dans la STV. Les automatisations critiques et vitales sont soumises à un audit indépendant conformément à l’article 8, alinéa 3.
+5.  La classification initiale et toute modification de celle-ci sont validées par deux personnes L3 compétentes, dont au moins une est étrangère à la conception et à la gestion de l’automatisation, y compris au moyen de la recherche fédérée de l’article 13 du Code 15, et enregistrées dans la STV. Les automatisations critiques et vitales sont soumises à un audit indépendant conformément à l’article 8, alinéa 3.
 6.  Le temps libéré par l’automatisation ne réduit pas l’accès au Panier et n’entraîne pas automatiquement une augmentation de la CBO obligatoire. Il peut être consacré au temps libre, à l’apprentissage, au soin ou à la délibération selon les décisions de la Communauté.
 
 ### Art. 6-bis — Robots et machines autonomes
@@ -346,6 +358,28 @@ vii. du délai maximal de restauration.
 5.  La suppression ou la rectification d’une donnée personnelle n’entraîne pas la suppression d’informations déjà anonymisées de manière irréversible et utilisées pour des statistiques agrégées, la mise à jour des STV ou l’analyse des accidents en application de l’article 9 du Code 6.
 
 6.  Les conditions d’accès, de conservation, de suppression, d’audit et de gestion des journaux sont documentées et vérifiées périodiquement.
+
+### Art. 7-bis — Système de consultation et de vote
+
+1.  En application de l’article 34.4 de la Constitution, les consultations et les votes qui se déroulent par le Réseau fédéré, y compris ceux des Assemblées des Cercles 1 et de l’Assemblée générale et le recueil des signatures de l’Objection de l’article 13-bis du Code 3, utilisent un système conforme au présent article. Le système est une fonction critique au sens de l’article 1, alinéa 2, lettre d).
+
+2.  Le système se compose de deux parties distinctes :
+
+    a) le registre des ayants droit, tenu par chaque Communauté de base conformément à l’article 36.1 de la Constitution et à l’article 12, alinéa 1, du Code 3, qui vérifie uniquement que la personne qui vote ou signe a le droit de vote dans cette délibération et ne vote ou ne signe qu’une seule fois ;
+
+    b) l’urne, qui reçoit les votes et les signatures sans aucune donnée permettant d’identifier ceux qui les ont exprimés.
+
+    Les deux parties fonctionnent sur des systèmes distincts et sont administrées par des personnes différentes ; nul n’accède aux deux avec les mêmes identifiants.
+
+3.  Sont interdits les journaux, registres, métadonnées ou autres données qui permettent de relier une personne à son vote ou à sa signature, y compris à des fins de sécurité, d’audit ou de recours ; l’article 2, alinéas 3 et 4, ne permet pas un tel lien. Le registre des ayants droit conserve uniquement le fait que la personne a voté ou signé, pendant le temps nécessaire à la clôture du vote et des recours. Le système ne remet à l’électeur aucune preuve qui lui permettrait de montrer à d’autres comment il a voté, en application de l’article 36.1 de la Constitution.
+
+4.  Le logiciel du registre et de l’urne est open source et il est accompagné d’une STV de fonctionnement approuvée en application de l’article 3-bis du Code 2. Ne sont admis ni le code dont la source n’est pas disponible ni les dépendances résiduelles au sens de l’article 5, alinéa 2, lettre b), du Code 2, même à titre temporaire et même pendant la transition, en application de l’article 19.4 de la Constitution et de l’article 9-bis, alinéa 1, lettre b), du Code 16. Chaque mise à jour est vérifiée avant son adoption en application de l’article 5-ter, alinéa 7, et aucune mise à jour n’est installée pendant un vote ouvert.
+
+5.  Le décompte est effectué séparément pour chaque Communauté de base. Le nombre des ayants droit et des votants, les totaux de chaque Communauté et le résultat sont publics et sont inscrits sur un registre distribué répliqué sur des nœuds de Cercles différents en application de l’article 3, alinéa 4, de sorte que chaque Communauté puisse les vérifier et qu’aucun nœud ne puisse les modifier seul. Le décompte est effectué par un logiciel déterministe et reproductible à partir des données publiques ; une IA ne peut ni recueillir, ni compter, ni interpréter, ni corriger les votes, en application de l’article 2, alinéa 8.
+
+6.  Le système est soumis à un audit par des personnes L3 indépendantes tirées au sort en application de l’article 8, alinéa 3, avant sa première utilisation, au moins une fois par an et sur demande motivée d’une Communauté de base. Le résultat est publié. Le Conseil Réseau ne peut modifier ni les données ni le résultat d’un vote ; l’intervention technique de l’article 4, alinéa 6, ne peut que suspendre le vote, qui reprend ou est répété sans altérer les votes déjà exprimés.
+
+7.  Les personnes qui n’utilisent pas le Réseau votent et signent en présence, avec la même séparation entre registre et urne, en application de l’article 5-bis, alinéa 8. Les votes et les signatures exprimés en présence sont comptés avec ceux exprimés par le Réseau dans le décompte de la Communauté.
 
 ### Art. 8 — Sécurité informatique et autonomie numérique
 

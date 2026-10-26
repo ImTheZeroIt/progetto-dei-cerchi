@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 8 — DELL’ENERGIA E DELL’ACQUA"
 breve: "Codice 8 — Energia e acqua"
-versione: "V1.4"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 8
 id: "codice-08"
 slug: "codice-08"
-allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 15 V1.4; Codice 16 V1.4."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.7; Codice 16 V1.7."
 ---
 
 ## Art. 1 — Oggetto e natura giuridica
@@ -37,7 +37,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 2.  **Sobrietà prioritaria.** La riduzione del fabbisogno precede l’aumento della produzione. Ogni Piano CBO comprende un bilancio energetico e le misure di efficienza applicabili.
 
-3.  **Priorità d’uso e gestione della scarsità.** Si applica la gerarchia prevista dall’articolo 32 del Codice 1:
+3.  **Priorità d’uso e gestione della scarsità.** Fermo l’articolo 32 del Codice 1, gli usi dell’energia sono ordinati come segue:
 
     a) livello 1: emergenze vitali e quota minima garantita del Paniere Energia;
 
@@ -49,7 +49,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     e) livello 5: altri usi.
 
-4.  Il livello 1 costituisce una soglia minima di continuità e non può essere ridotto, salvo impossibilità materiale o emergenza estrema documentata. In caso di emergenza sanitaria collettiva si applica, per i profili pertinenti, l’articolo 2-bis del Codice 6; negli altri casi si applicano le procedure d’urgenza del Codice 3.
+4.  Il livello 1 costituisce una soglia minima di continuità e non può essere ridotto, salvo impossibilità materiale temporanea, secondo il comma 5. In caso di emergenza sanitaria collettiva si applica, per i profili pertinenti, l’articolo 2-bis del Codice 6; negli altri casi si applicano le procedure d’urgenza del Codice 3.
 
 5.  In caso di scarsità, l’Assemblea delibera le riduzioni su proposta del Consiglio Energia e Acqua, applicandole progressivamente dal livello 5 ai livelli superiori. Il livello 1 può essere ridotto solo in caso di impossibilità tecnica temporanea, con attivazione immediata della procedura di mutualismo federato e comunicazione al Cerchio di Garanzia.
 
@@ -73,7 +73,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     c) propone e aggiorna le STV degli impianti secondo il Codice 2;
 
-    d) gestisce il bilancio energetico del Cerchio e la microrete;
+    d) gestisce il bilancio energetico del Cerchio e la microrete e costituisce l’assemblea tecnica dell’articolo 15.3 della Costituzione per il dispacciamento ordinario; l’override manuale locale è esercitato secondo l’articolo 6, comma 1, del presente Codice e l’articolo 5-ter del Codice 7;
 
     e) organizza la formazione L1 in materia di sicurezza elettrica;
 
@@ -111,7 +111,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     g) mantenere operativo il Magazzino Salute e il nodo Rete.
 
-2.  L’accesso al Paniere Energia non può essere subordinato al CBO, al possesso di competenze o alla presenza fisica in un luogo determinato.
+2.  L’accesso al Paniere Energia non può essere subordinato al CBO, al possesso di competenze o alla presenza fisica in un luogo determinato. L’energia essenziale alla salute e alla sopravvivenza è garantita a chiunque si trovi nel territorio custodito dal Cerchio, ai sensi dell’articolo 15.2 della Costituzione.
 
 3.  L’indisponibilità della quota minima necessaria per un bisogno vitale costituisce emergenza di livello 1.
 
@@ -139,7 +139,8 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 2.  L’accesso al Paniere Acqua non può essere subordinato al CBO, al possesso di competenze o alla presenza fisica in un luogo determinato. L’acqua potabile è garantita a chiunque si trovi nel territorio custodito dal Cerchio, ai sensi degli articoli 1.3 e 4.9 della Costituzione.
 3.  La quota minima garantita è determinata dall’Assemblea su proposta del Consiglio Energia e Acqua, con il parere del Consiglio Salute. In prima applicazione non è inferiore a cinquanta litri per persona al giorno.
 4.  L’indisponibilità della quota minima costituisce emergenza di livello 1.
-5.  In caso di scarsità l’acqua potabile per uso umano e quella necessaria ai servizi sanitari e di cura precedono ogni altro uso. Per gli usi agricoli si applicano le priorità dell’articolo 10, comma 8, del Codice 9.
+5.  In caso di scarsità l’acqua potabile per uso umano e quella necessaria ai servizi sanitari e di cura, nella quota minima garantita del comma 3, precedono ogni altro uso. La ripartizione dell’acqua disponibile, compresa quella per gli animali e per gli usi agricoli, segue le priorità dell’articolo 10, comma 8, del Codice 9.
+6.  La quota minima garantita del comma 3 può essere ridotta soltanto in caso di impossibilità tecnica temporanea, con deliberazione dell’Assemblea ai sensi dell’articolo 19, comma 3, del Codice 1 o, nell’urgenza, secondo le procedure d’urgenza del Codice 3. Sono attivati senza ritardo il mutualismo tra Cerchi dell’articolo 30 del Codice 1 e, quando il Saldo previsto dal Codice 15 è attivo, la richiesta tramite il Pool come bisogno vitale immediato ai sensi del suo articolo 8, comma 2, lettera a); quando ne ricorrono i presupposti è chiesta l’attivazione del Protocollo di Solidarietà ai sensi dell’articolo 36.2 della Costituzione. La riduzione è comunicata senza ritardo al Cerchio di Garanzia. All’interno della quota minima, l’acqua da bere e quella necessaria alla salute sono ridotte per ultime.
 
 ## Art. 5 — Produzione, STV e fonti energetiche
 

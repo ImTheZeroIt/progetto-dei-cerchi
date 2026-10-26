@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 7 — ON AUTOMATION AND THE NETWORK"
 breve: "Code 7 — Automation and the Network"
-versione: "V1.7"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 7
 id: "codice-07"
 slug: "code-07"
-allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4; Code 16 V1.4."
+allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 15 V1.7; Code 16 V1.7."
 ---
 
 ## PRELIMINARY TITLE — FUNDAMENTAL PRINCIPLES
@@ -107,7 +107,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     c) in every Circle 1, an assisted access point with shared devices.
 
-    Personal devices comply with Article 5 of Code 2; if no compliant device is available, access is ensured by letter c). For shared devices the residual dependency of Article 5, paragraph 2, letter b), of Code 2 is permitted, with a substitution plan. Devices are supplied and repaired through the Storehouses, with the support of the Network Council. The right to disconnection and the non-digital procedures of Article 5-bis, paragraphs 7 and 8, remain in force. The allocations are proposed by the Network Council and are included in the annual Technical Annex of Article 18, paragraph 2, of Code 1. The allocations of letters a) and b) are deferrable within the meaning of Article 32, paragraph 1-bis, of Code 1.
+    Personal devices comply with Article 5 of Code 2; if no compliant device is available, access is ensured by letter c). For shared devices the residual dependency of Article 5, paragraph 2, letter b), of Code 2 is permitted, with a substitution plan, including where it concerns firmware whose source code is not available, within the limits of Article 19.4 of the Constitution. Devices are supplied and repaired through the Storehouses, with the support of the Network Council. The right to disconnection and the non-digital procedures of Article 5-bis, paragraphs 7 and 8, remain in force. The allocations are proposed by the Network Council and are included in the annual Technical Annex of Article 18, paragraph 2, of Code 1. The allocations of letters a) and b) are deferrable within the meaning of Article 32, paragraph 1-bis, of Code 1.
 
 ### Art. 4 — Network Council
 
@@ -135,11 +135,23 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 6.  The Network Council may not moderate, remove or modify deliberative or political content for reasons of substance, orientation or dissent. It may intervene without delay only to prevent or contain an immediate technical risk to the security of the Network. The intervention is limited to what is necessary, documented and subject to subsequent verification.
 
+7.  **Nodes and AIs of Circles 2 and 3.** The nodes and the AIs of the Intermediate Circle and of the Extended Circle are managed by the shared Network Council of the respective Circle, constituted pursuant to Article 12-bis, paragraph 6-bis, of Code 3, which exercises for them the functions of paragraph 3 and those of Article 5-ter. In particular:
+
+    a) it installs, updates and maintains the nodes and the AIs of the Circle and validates the activation of new instances pursuant to Article 5-ter, paragraphs 6 and 7;
+
+    b) it receives the refusals of Article 5-ter, paragraph 4, and decides on them within seventy-two hours. A decision confirming the refused instruction is an urgent decision within the meaning of Article 12-bis, paragraph 6-bis, letter b), of Code 3;
+
+    c) it initiates the revision of Article 5-ter, paragraph 5;
+
+    d) the outcome of the revision and the suspension, replacement or deactivation of an AI or of a node of the Circle are resolved by the General Assembly, except for the suspension necessary to contain an immediate technical risk, which is an urgent decision within the meaning of the same letter b);
+
+    e) the manual override provided for by Article 22.4 of the Constitution and by Article 5-ter, paragraph 1, belongs to each Base Community for the effects on its own territory and is exercised by its Network Council or by the competent body of the Community, which informs the shared Network Council without delay.
+
 ## CHAPTER II — MANAGEMENT AI AND AUTOMATION OF THE CBO
 
 ### Art. 5 — Management AI
 
-1.  The Management AI may perform exclusively the following functions:
+1.  The Management AI performs, in the form of a proposal or of technical support and within the limits of Article 2, paragraph 8, and of paragraph 2, the support functions provided for by the Constitution and by the Codes, including:
 
     a) indexing the Knowledge Storehouse;
 
@@ -187,7 +199,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 4.  The method used to determine the margin of uncertainty is defined in the relevant STV and must be capable of being verified.
 
-5.  For critical functions, preference is given to models with weights that are accessible, verifiable and executable locally. Datasets, procedures and training logs are documented and subject to traceability and audit. Publication in full may be limited when it would entail a breach of confidentiality, a risk to the Network or the disclosure of sensitive information; the limitation shall state its reasons and does not prevent control by those authorised.
+5.  Management AIs use open-source models, with weights that are accessible, verifiable and executable locally, pursuant to Article 19.5 of the Constitution and Article 5-ter, paragraph 1. For critical functions, datasets, procedures and training logs are documented and subject to traceability and audit. Publication in full may be limited when it would entail a breach of confidentiality, a risk to the Network or the disclosure of sensitive information; the limitation shall state its reasons and does not prevent control by those authorised.
 
 6.  When an AI proposal directly concerns a person or may affect their rights, access to goods, the CBO, learning, the validation of competences or a Guarantee procedure, the person has the right to know in comprehensible form:
 
@@ -207,7 +219,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 ### Art. 5-bis — Node and personal AI
 
-1.  Every person has the right to an offline personal computing Node, which is owned by them, open source, inspectable and fitted with a physical off switch, and to a personal AI, pursuant to Articles 1.2, 19.1 and 21 of the Constitution. The Node is a Personal-Use Good and is supplied and repaired through the Storehouses, in accordance with Code 1 and C.1-Annex A.
+1.  Every person has the right to an offline personal computing Node, which is owned by them, open source, inspectable and fitted with a physical off switch, and to a personal AI, pursuant to Articles 1.2, 19.1 and 21 of the Constitution. The Node is personal property within the meaning of Article 10.3 of the Constitution and is supplied and repaired through the Storehouses, in accordance with Code 1 and C.1-Annex A.
 2.  The personal AI is not connected by default and does not transmit data without an explicit and revocable command from the person.
 3.  The fundamental functions of the personal AI include health prevention, literacy and learning, external memory and the filtering of the Network. The Node also holds the personal register of CdRs, the Personal Portfolio and, if the person so wishes, the living will. The person may activate further functions compatible with the Constitution.
 4.  The personal AI is prohibited from surveilling, informing on or profiling the person and from employing behavioural retention mechanisms or mechanisms that generate dependence.
@@ -223,7 +235,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 2.  The establishment of a central AI or of a single generalist AI is prohibited, pursuant to Articles 19.2, 20.2 and 23.1 of the Constitution. The Global Circle is a distributed interoperability protocol: it has neither a central model nor a centralised collection of personal data.
 3.  No AI may command, subordinate or deactivate another AI. Interoperability between systems takes place by means of open protocols and with the authorisation of the Network Council of each Circle concerned. Conflicts between systems are decided by the competent human body.
 4.  Every Management AI is configured to refuse, with reasons tracked on the Network, an instruction that entails a manifest violation of the Constitution or of the applicable protocols, pursuant to Article 20.3 of the Constitution. The refusal is transmitted without delay to the Network Council and to the competent body, which decides within seventy-two hours. In the meantime the essential functions are ensured by the manual procedures provided for by Article 38 of Code 1.
-5.  If the competent body rejects three times in twelve months a technical proposal of the AI on the same matter, the Network Council shall initiate the mandatory revision of the model, of the data and of the criteria, with an independent audit pursuant to Article 8, paragraph 3. Until the outcome, the AI’s proposals on that matter are labelled as under revision.
+5.  If the human bodies of a Circle reject three times a technical proposal of the AI on the same matter, including where the rejections come from different bodies, the Network Council shall initiate the mandatory revision of the model, of the data and of the criteria provided for by Article 19.6 of the Constitution, with an independent audit pursuant to Article 8, paragraph 3. The rejections are recorded in the Network with the matter to which they relate. Until the outcome, the AI’s proposals on that matter are labelled as under revision.
 6.  The self-replication of an AI outside the registered and validated federated nodes is prohibited. Every instance is entered in the register of nodes with the related STV; the activation of a new instance requires validation by the Network Council. Unauthorised replication entails the immediate suspension of the instance and the application of Code 4.
 7.  Local AIs are trained or adapted as a priority on the data of the Community to which they belong. Personal data remain in the Circle of origin, except with express consent. Non-inspectable updates are prohibited: every update is verified before adoption and is reversible.
 8.  The mediation AI that assists the bodies provided for by Code 4 is an exclusively advisory Management AI and does not formulate assessments of responsibility or of dangerousness.
@@ -292,7 +304,7 @@ vi. the maximum time of operation without supervision;
 
 vii. the maximum restoration time.
 
-5.  The initial classification and every modification of it are validated by a competent L3 person and recorded in the STV. Critical and vital automations are subject to independent audit in accordance with Article 8, paragraph 3.
+5.  The initial classification and every modification of it are validated by two competent L3 persons, at least one of whom is unconnected with the design and management of the automation, including through the federated sourcing of Article 13 of Code 15, and recorded in the STV. Critical and vital automations are subject to independent audit in accordance with Article 8, paragraph 3.
 6.  The time freed by automation does not reduce access to the Basket and does not automatically entail an increase in the mandatory CBO. It may be allocated to free time, learning, care or deliberation in accordance with the decisions of the Community.
 
 ### Art. 6-bis — Robots and autonomous machines
@@ -346,6 +358,28 @@ vii. the maximum restoration time.
 5.  The erasure or rectification of personal data does not entail the erasure of information already irreversibly anonymised and used for aggregate statistics, the updating of the STVs or the analysis of accidents pursuant to Article 9 of Code 6.
 
 6.  The conditions of access, retention, erasure, audit and management of logs are documented and verified periodically.
+
+### Art. 7-bis — Consultation and voting system
+
+1.  In implementation of Article 34.4 of the Constitution, consultations and votes held through the federated Network, including those of the Assemblies of Circles 1 and of the General Assembly and the collection of signatures for the Objection of Article 13-bis of Code 3, shall use a system that complies with this Article. The system is a critical function within the meaning of Article 1, paragraph 2, letter d).
+
+2.  The system is composed of two separate parts:
+
+    a) the register of those entitled to vote, kept by each Base Community in accordance with Article 36.1 of the Constitution and Article 12, paragraph 1, of Code 3, which verifies only that whoever votes or signs is entitled to vote in that deliberation and votes or signs only once;
+
+    b) the ballot box, which receives votes and signatures without any data identifying those who cast them.
+
+    The two parts operate on distinct systems and are administered by different persons; no one accesses both with the same credentials.
+
+3.  Logs, records, metadata or other data that make it possible to link a person to their vote or signature are prohibited, including for purposes of security, audit or appeal; Article 2, paragraphs 3 and 4, does not permit such a link. The register of those entitled to vote keeps only the fact that the person has voted or signed, for the time necessary for the closure of the vote and of appeals. The system does not issue to the voter any proof that would allow them to show others how they voted, pursuant to Article 36.1 of the Constitution.
+
+4.  The software of the register and of the ballot box is open source and is accompanied by an operating STV approved pursuant to Article 3-bis of Code 2. Code whose source is not available and residual dependencies within the meaning of Article 5, paragraph 2, letter b), of Code 2 are not permitted, not even temporarily and not even during the transition, pursuant to Article 19.4 of the Constitution and Article 9-bis, paragraph 1, letter b), of Code 16. Every update is verified before adoption pursuant to Article 5-ter, paragraph 7, and no update is installed while a vote is open.
+
+5.  The count is carried out separately for each Base Community. The number of those entitled to vote and of voters, the totals of each Community and the outcome are public and are entered in a distributed ledger replicated on nodes of different Circles pursuant to Article 3, paragraph 4, so that every Community can verify them and no node can alter them alone. The count is performed by deterministic software reproducible from the public data; an AI may not collect, count, interpret or correct the votes, pursuant to Article 2, paragraph 8.
+
+6.  The system is subject to audit by independent L3 persons drawn by lot pursuant to Article 8, paragraph 3, before its first use, at least once a year and on the reasoned request of a Base Community. The outcome is published. The Network Council may not alter the data or the outcome of a vote; the technical intervention of Article 4, paragraph 6, may only suspend the vote, which resumes or is repeated without altering the votes already cast.
+
+7.  Those who do not use the Network vote and sign in person, with the same separation between register and ballot box, pursuant to Article 5-bis, paragraph 8. Votes and signatures cast in person are counted together with those cast through the Network in the count of the Community.
 
 ### Art. 8 — Information security and digital autonomy
 

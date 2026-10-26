@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 6 — DE LA SANTÉ"
 breve: "Code 6 — Santé"
-versione: "V1.6"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 6
 id: "codice-06"
 slug: "code-06"
-allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 15 V1.7 ; Code 16 V1.7."
 ---
 
 ## TITRE PRÉLIMINAIRE — PRINCIPES FONDAMENTAUX
@@ -106,7 +106,7 @@ f) pendant la transition, si la personne n’y consent pas, ne sont ordonnés qu
 
     c) est limitée au strict nécessaire et retient la mesure la moins intrusive appropriée ;
 
-    d) est réexaminée par le Cercle de garantie, à la demande de tout membre, dans un délai de sept jours ; l’isolement et la quarantaine ordonnés individuellement suivent en revanche la validation de l’alinéa 3-quater, lettre c) ;
+    d) est réexaminée, à la demande de tout membre, dans un délai de sept jours, par les membres des Cercles de garantie tirés au sort en application de l’article 17, alinéa 1-bis, du Code 3 ; l’isolement et la quarantaine ordonnés individuellement suivent en revanche la validation de l’alinéa 3-quater, lettre c) ;
 
     e) est enregistrée avec sa motivation, sa durée et ses critères de cessation, dans le respect de la confidentialité et des niveaux d’accès prévus par les Codes.
 
@@ -257,7 +257,7 @@ Le Code 4, article 17, et le Code 5, article 9, s’appliquent. Le Collège de s
 
 ### Art. 6 — Soins primaires et Entrepôt Santé
 
-1.  Chaque Entrepôt dispose d’un Entrepôt Santé et d’un Panier santé minimal, définis par le Conseil Santé fédéré selon les compétences des Codes. Le Panier comprend au moins :
+1.  Chaque Entrepôt dispose d’un Entrepôt Santé et d’un Panier santé minimal. La liste du Panier santé et la dotation minimale de l’Entrepôt Santé sont proposées par les Conseils Santé en coordination fédérée, en tant qu’échelons du Cercle de compétence Médecine et Santé, au moyen d’une STV adoptée en application de l’article 3-bis du Code 2, et sont approuvées par l’Assemblée avec l’Annexe technique prévue à l’article 18, alinéa 2, du Code 1. Le Panier comprend au moins :
 
     a) les médicaments essentiels vitaux ;
 
@@ -288,8 +288,8 @@ Le Code 4, article 17, et le Code 5, article 9, s’appliquent. Le Collège de s
 ### Art. 7 — Fragilité, interdépendance et soin
 
 1.  Les personnes âgées, les enfants, les personnes en situation de handicap, les personnes atteintes de maladies chroniques, les personnes enceintes ou en période post-partum, les personnes en deuil ou en situation de crise ont droit à une protection renforcée et, si nécessaire, à la modulation de la CBO en application de l’article 11 du Code 1 et du Code 12.
-2.  Le soin des personnes fragiles relève de la CBO de Liste A et se situe au niveau 4 de la hiérarchie des priorités de l’article 32 du Code 1.
-3.  Les activités de soin ne peuvent pas être différées pour cause de carence logistique, sauf s’il faut gérer des urgences vitales de niveau 1 ou 2. La décision de report est motivée et doit prévoir, si possible, une mesure de substitution.
+2.  Le soin des personnes fragiles relève de la CBO de Liste A. Dans la hiérarchie de l’article 32 du Code 1, les prestations du Panier soin des niveaux 1 et 2 suivent la lettre b) de l’alinéa 1 et le Code 12 ; les autres activités de soin suivent la lettre d) et précèdent la gestion des biens périssables, en application de l’alinéa 1-ter du même article.
+3.  Les activités de soin ne peuvent pas être différées pour cause de carence logistique ni pour la gestion des biens périssables, sauf si les priorités de l’article 32, alinéa 1, lettres a) et b), du Code 1 l’exigent, y compris la distribution des aliments du Panier. La décision de report est motivée et doit prévoir, si possible, une mesure de substitution.
 4.  Chaque Plan CBO comprend une part de soin et de tutorat. Le soin n’est pas considéré comme une activité résiduelle à exercer seulement après la satisfaction des autres besoins.
 5.  La modulation de la CBO n’entraîne ni réduction du Panier de suffisance ni mentions préjudiciables.
 
@@ -402,7 +402,7 @@ Le représentant ne peut pas consentir à une mesure coercitive à la place de l
 
 4.  La personne accidentée a droit aux soins, au maintien du Panier et, pendant la convalescence, à la proposition d’une CBO de remplacement adaptée, lorsqu’elle est compatible avec son état.
 
-5.  Le Conseil Santé fédéré procède au moins chaque trimestre à une analyse agrégée des accidents et des presque-accidents afin de proposer la mise à jour des STV du Code 2 et des Fiches de sécurité.
+5.  Les Conseils Santé, en coordination fédérée en tant qu’échelons du Cercle de compétence Médecine et Santé, procèdent au moins chaque trimestre à une analyse agrégée des accidents et des presque-accidents afin de proposer la mise à jour des STV du Code 2 et des Fiches de sécurité.
 
 6.  Le cycle de prévention comprend : l’enregistrement de l’événement, l’analyse des causes, la mise à jour des mesures, la révision des STV et la prévention des événements futurs.
 

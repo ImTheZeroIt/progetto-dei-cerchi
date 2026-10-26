@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 15 — RELATIONS EXTÉRIEURES ET SOLDE MONDIAL"
 breve: "Code 15 — Relations extérieures et Solde"
-versione: "V1.4"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 15
 id: "codice-15"
 slug: "code-15"
-allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; Code 8 V1.4 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 16 V1.4."
+allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 16 V1.7."
 ---
 
 ## TITRE PRÉLIMINAIRE — DISPOSITIONS GÉNÉRALES
@@ -58,7 +58,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 ### Art. 3 — Déclaration et constatation du Solde fédérable
 
-1.  Chaque Cercle, du niveau 1 au niveau 4, déclare chaque trimestre, pour chaque ressource relevant de sa compétence :
+1.  Chaque Cercle 1, 2 et 3 déclare chaque trimestre, pour chaque ressource relevant de sa compétence :
 
     a) le Produit comptabilisable ;
 
@@ -72,9 +72,9 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     f) le Solde fédérable proposé.
 
-2.  Les déclarations des différents niveaux sont coordonnées de manière à éviter la duplication des mêmes quantités. Chaque ressource physique n’est enregistrée qu’une seule fois comme disponibilité d’origine ; les enregistrements des niveaux supérieurs reprennent des données consolidées et ne s’additionnent pas à nouveau aux données des niveaux inférieurs.
+2.  Les déclarations des différents Cercles sont coordonnées de manière à éviter la duplication des mêmes quantités. Chaque ressource physique n’est enregistrée qu’une seule fois comme disponibilité d’origine ; les enregistrements des Cercles 2 et 3 reprennent des données consolidées et ne s’additionnent pas à nouveau aux données des Cercles qu’ils comprennent.
 
-3.  La constatation du Solde fédérable est une procédure technique menée par le Conseil des Entrepôts compétent pour le niveau où la ressource est gardée. Le Conseil :
+3.  La constatation du Solde fédérable est une procédure technique menée par le Conseil des Entrepôts du Cercle où la ressource est gardée. Le Conseil :
 
     a) vérifie la conformité des données déclarées ;
 
@@ -125,7 +125,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 ### Art. 6 — Prévention du gaspillage
 
 1.  L’Intelligence artificielle de gestion régie par le Code 7 signale le dépassement des seuils de risque de gaspillage définis par les STV et indique le TRU résiduel. Le signalement constitue un appui technique et ne remplace pas l’évaluation et la décision du Conseil des Entrepôts.
-2.  Le Conseil des Entrepôts décide et met en œuvre, dans un délai ordinaire maximal de soixante-douze heures à compter du signalement, les mesures nécessaires de réaffectation, de transformation ou de recyclage. Le délai est réduit lorsque cela est nécessaire pour intervenir avant l’expiration du TRU et ne peut jamais conduire à ce que l’intervention ait lieu après que la ressource a perdu son utilité.
+2.  Le Conseil des Entrepôts du Cercle où la ressource est gardée décide et met en œuvre, dans un délai ordinaire maximal de soixante-douze heures à compter du signalement, les mesures nécessaires de transformation ou de recyclage ; la réaffectation par le Pool est décidée dans le même délai par le Conseil prévu par l’article 9-bis. Si la réaffectation n’est pas décidée en temps utile, le Conseil du Cercle de garde affecte la ressource conformément à l’article 15, alinéa 2, du Code 1. Le délai est réduit lorsque cela est nécessaire pour intervenir avant l’expiration du TRU et ne peut jamais conduire à ce que l’intervention ait lieu après que la ressource a perdu son utilité.
 3.  Lorsque le TRU est inférieur à sept jours, l’intervention est ordonnée sans délai, compte tenu des durées effectives de transport, de transformation et d’utilisation de la ressource.
 4.  La perte d’une Réserve fédérée par omission ou par retard injustifié dans la réaffectation constitue un dommage pour la Confédération et est traitée conformément au Code 4.
 
@@ -145,7 +145,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 ### Art. 8 — Calcul, proposition et priorités d’allocation
 
-1.  L’Intelligence artificielle de gestion élabore au moins toutes les vingt-quatre heures une carte actualisée des disponibilités fédérables et des déficits déclarés. La carte prend en compte au moins :
+1.  L’IA du Cercle intermédiaire prévue à l’article 22.2 de la Constitution élabore, pour son propre Cercle 2, au moins toutes les vingt-quatre heures une carte actualisée des disponibilités fédérables et des déficits déclarés. Les cartes des Cercles 2 sont échangées au moyen des protocoles ouverts de l’article 5-ter, alinéa 3, du Code 7 et, entre Cercles étendus, au moyen du protocole distribué de l’article 19.7 de la Constitution ; aucun système ne les réunit dans un modèle central, en application de l’article 5-ter, alinéa 2, du Code 7. La carte prend en compte au moins :
 
     a) la quantité et l’emplacement des ressources ;
 
@@ -183,7 +183,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     b) **élaboration des propositions de flux** : Intelligence artificielle de gestion, sous supervision humaine ;
 
-    c) **décision d’allocation et de transfert** : organe délibératif compétent selon la Constitution et le Code 3, en fonction du niveau territorial et de l’ampleur du transfert ;
+    c) **décision d’allocation et de transfert** : Conseil des Entrepôts du Cercle 2 ou du Cercle 3, conformément à l’article 9-bis, dans le cadre des critères approuvés par l’Assemblée générale ; les décisions qui excèdent les critères relèvent de l’Assemblée générale ;
 
     d) **opposition motivée au transfert** : Conseil des Entrepôts du Cercle cédant, y compris à la demande de l’Assemblée, dans les délais et pour les motifs prévus à l’article 11 ;
 
@@ -192,6 +192,36 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 3.  La délibération de transfert identifie la ressource, la quantité, le délai, le parcours prévu et les mesures nécessaires pour en garantir la livraison et l’intégrité.
 
 4.  L’organe délibératif ne peut pas altérer les critères techniques de constatation du solde en dehors des procédures de vérification et de contestation prévues. Si des erreurs apparaissent dans les données ou dans la constatation, la décision est reportée ou recalculée selon les procédures applicables.
+
+### Art. 9-bis — Conseils des Entrepôts des Cercles 2 et 3
+
+1.  En application des articles 5.1, lettres c) et d), et 10.5 de la Constitution, chaque Cercle 2 et chaque Cercle 3 institue un Conseil des Entrepôts, qui décide de l’allocation et du transfert des ressources du Pool :
+
+    a) le Conseil du Cercle 2 décide des transferts entre les Communautés de base de son Bassin ;
+
+    b) le Conseil du Cercle 3 décide des transferts entre Cercles 2 différents compris dans son ressort ;
+
+    c) les transferts entre Cercles 3 différents sont décidés par des délibérations concordantes des Conseils des Cercles 3 concernés.
+
+2.  Le Conseil est composé de cinq à sept personnes ayant une compétence validée dans la gestion des entrepôts ou la logistique, tirées au sort parmi les personnes des Communautés comprises dans le Cercle. Deux membres au plus appartiennent à la même Communauté de base ou, pour le Cercle 3, au même Cercle 2. Les alinéas 4, 5, 8, 9 et 11 de l’article 12-bis du Code 3 s’appliquent. La révocation relève de l’Assemblée générale du Cercle.
+
+3.  Le Conseil décide dans le respect des priorités de l’article 8 et des critères approuvés chaque année par l’Assemblée générale du Cercle en application de l’article 14 du Code 3, avec le Dossier de l’article 33 de la Constitution. Les critères indiquent au moins :
+
+    a) l’application des priorités de l’article 8 aux ressources du Cercle ;
+
+    b) le volume et les délais d’emploi de la Réserve fédérée ;
+
+    c) les critères de choix entre destinations de même priorité ;
+
+    d) les quantités ou les valeurs en UCR au-delà desquelles la décision relève de l’Assemblée générale.
+
+4.  Les décisions conformes aux critères sont des actes techniques liés au sens de l’article 12-bis, alinéa 9, du Code 3 et ne requièrent pas de nouveau Dossier. Les décisions qui excèdent les critères ou les limites de la lettre d) de l’alinéa 3 relèvent de l’Assemblée générale, qui en cas d’urgence délibère en application de l’article 14, alinéa 9, du Code 3. Jusqu’à l’approbation des premiers critères, le Conseil ne décide que sur les besoins vitaux immédiats et sur les ressources à risque de gaspillage, conformément à l’article 8, alinéa 2, lettres a) et b).
+
+5.  Le Conseil décide sur les propositions de flux dans un délai de quarante-huit heures ; sur les besoins vitaux immédiats sans délai et en tout cas dans les vingt-quatre heures ; sur les ressources à risque de gaspillage dans le délai de l’article 6. Si le Conseil ne décide pas à temps sur un besoin vital immédiat, le Conseil des Entrepôts du Cercle où la ressource est gardée peut exécuter la proposition de flux conforme à l’article 8 et aux critères ; l’exécution est enregistrée et communiquée sans délai au Conseil compétent. Pour les ressources à risque de gaspillage, l’article 6, alinéa 2, s’applique.
+
+6.  Les décisions sont communiquées aux Cercles concernés. L’opposition de l’article 11 et la vérification de l’article 9, alinéa 2, lettre e), demeurent applicables ; toute Communauté concernée peut demander la même vérification contre une décision d’allocation. La demande ne suspend pas le transfert, sans préjudice de l’article 11, alinéa 3.
+
+7.  Pendant la transition, le Conseil du Cercle 2 est institué dans le Bassin et celui du Cercle 3 dans la Fédération minimale, en application de l’article 1, alinéas 5 et 6, du Code 16.
 
 ### Art. 10 — Logistique fédérale
 
@@ -294,7 +324,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     e) interdiction de la rente et du profit.
 
-3.  Les échanges avec l’extérieur servent exclusivement à satisfaire les besoins non encore couverts par l’autoproduction fédérée et à céder des excédents réels. L’exportation à des fins de profit est interdite, en application de l’article 11.1 de la Constitution.
+3.  Les échanges avec l’extérieur servent exclusivement à satisfaire les besoins non encore couverts par l’autoproduction fédérée et à céder des excédents réels. Sont des excédents réels les biens excédentaires qui ne sont pas destinés au Pool en application de l’article 15, alinéa 1-bis, du Code 1. L’exportation à des fins de profit est interdite, en application de l’article 11.1 de la Constitution.
 
 ### Art. 16 — Personnalité juridique et titularité des biens
 
@@ -371,7 +401,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 7.  **Patrimoines extérieurs.** Les biens qu’une personne possède hors de la Confédération restent les siens selon l’ordre juridique en vigueur. Ils ne peuvent pas être donnés en location ou en usage onéreux à d’autres membres ni employés pour embaucher des membres. L’apport à l’entité prévu à l’article 16 est volontaire, ne confère aucun privilège et fait du bien un Bien commun.
 
-8.  **Réduction et cessation.** Les Plans de sortie réduisent progressivement le besoin de revenus extérieurs. Le présent article cesse de s’appliquer lorsque la Confédération englobe l’humanité entière : dès lors, il n’existe plus de revenus extérieurs et les Caisses communes sont fermées.
+8.  **Réduction et cessation.** Les Plans de sortie réduisent progressivement le besoin de revenus extérieurs. Le présent article cesse de s’appliquer lorsque la Confédération englobe l’humanité entière : dès lors, il n’existe plus de revenus extérieurs et les Caisses communes sont fermées. Jusqu’alors, la faculté de l’article 2, alinéa 9, du Code 16 continue de s’appliquer même après la clôture de la transition.
 
 ### Art. 20 — Autonomie stratégique, chantage aux ressources et contre-mesures
 
@@ -382,6 +412,42 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 ### Art. 21 — Adhésion de communautés extérieures et retrait
 
-1.  La communauté extérieure qui demande l’adhésion en application de l’article 4.5 de la Constitution souscrit à la Constitution et applique le Code 16 dans la mesure compatible avec son état d’avancement.
-2.  Le Cercle 2 de référence vérifie exclusivement les protocoles d’interopérabilité technologique et logistique. La vérification est achevée dans un délai de quatre-vingt-dix jours et ne peut pas introduire d’appréciations politiques ou idéologiques supplémentaires.
+1.  La communauté extérieure qui demande l’adhésion en application de l’article 4.5 de la Constitution souscrit à la Constitution et choisit d’adhérer comme Communauté associée, en application de l’article 21-bis, ou en adoptant aussi les Codes. Dans le second cas, elle applique le Code 16 conformément à l’article 3, alinéa 7, de ce même Code.
+2.  Le Cercle 2 de référence vérifie exclusivement les protocoles d’interopérabilité technologique et logistique et, pour la Communauté associée, l’équivalence à la frontière de l’article 21-bis. La vérification est achevée dans un délai de quatre-vingt-dix jours et ne peut pas introduire d’appréciations politiques ou idéologiques supplémentaires.
 3.  Le retrait d’un Cercle 1 suit les articles 4.6 et 4.7 de la Constitution. Les modalités techniques sont convenues avec le Cercle 2 de manière à garantir la continuité du Panier pour toutes les personnes concernées.
+
+### Art. 21-bis — Communautés associées et équivalence à la frontière
+
+1.  **Règles fondamentales et outils.** En application de l’article 4.5 de la Constitution, sont des règles fondamentales, obligatoires pour toute Communauté, les Titres I, IV, V et VII de la Constitution et le Noyau inviolable de l’article 37.4. Les règles de gestion des Codes, notamment le CBO et le CdR, les Entrepôts, les organes et les Conseils internes et les formes de leurs tirages au sort, les assemblées et les quorums internes, la justice du Code 4 pour les conflits internes et les phases du Code 16, sont des outils. La Communauté associée conserve son propre ordre interne si elle respecte les règles fondamentales et garantit l’équivalence à la frontière de l’alinéa 2. Les principes du Noyau inviolable demeurent aussi dans la vie interne, notamment la contribution de chaque personne adulte apte de l’article 2.3, le tirage au sort, la rotation et l’interdiction de l’exercice professionnel et permanent de la politique et de la fonction judiciaire des articles 4.3, 4.4, 6.5 et 31.2 et les interdictions de l’article 36.1 de la Constitution.
+
+2.  **Équivalence à la frontière.** La Communauté associée garantit à la frontière avec les Cercles 2 et 3 :
+
+    a) à chaque membre les droits de l’article 1.2 de la Constitution, y compris les niveaux 1 et 2 du Panier et les soins, et à quiconque s’y trouve les garanties de l’article 1.3 ; le droit de quitter la Communauté et la Confédération en application des articles 4.8 et 5.2 de la Constitution ; le recours aux organes communs de garantie de l’alinéa 5 pour quiconque affirme qu’un de ses droits a été violé ;
+
+    b) l’inventaire des ressources et la déclaration trimestrielle du Solde dans le format commun des articles 2 et 3 ; la constatation de l’article 3, alinéa 3, est effectuée par l’organe désigné par son ordre interne et vérifiée par le Conseil des Entrepôts du Cercle 2 ;
+
+    c) une part de travail pour les fonctions communes des Cercles 2 et 3 et pour la part fédérée de l’article 7, déterminée pour l’ensemble de la Communauté et non par personne, selon les mêmes critères que pour les autres Communautés ; la Communauté la répartit en son sein selon son propre ordre. Pendant la transition, la part peut aussi être fournie en biens ou par l’intermédiaire de la Caisse commune, en application de l’article 17 ;
+
+    d) des personnes sur les listes de tirage au sort des organes communs des Cercles 2 et 3, aux mêmes conditions que les autres Communautés ;
+
+    e) le vote individuel et secret de chaque membre dans les Assemblées générales, sans délégation, en application des articles 34.4 et 36.1 de la Constitution ;
+
+    f) les standards communs des biens qu’elle échange avec les autres Communautés, y compris la STV du Code 2.
+
+3.  **Outils communs et outils adoptés.** Lorsque la Communauté associée utilise un outil commun, comme le Pool, l’échange entre Entrepôts ou le Réseau fédéré, elle en suit les règles. Elle peut adopter à tout moment des outils déterminés des Codes, par une délibération prise selon son propre ordre et communiquée au Cercle 2 ; à partir de ce moment, elle en applique les règles.
+
+4.  **Renvoi des Codes.** Pour la Communauté associée :
+
+    a) les dispositions des Codes qui régissent des outils de gestion interne ne s’appliquent que si elle les adopte et à partir du moment où elle les adopte ;
+
+    b) les dispositions des Codes qui mettent en œuvre les règles fondamentales valent pour les droits, les interdictions et les limites qu’elles établissent ; les organes et les procédures internes par lesquels les Codes les mettent en œuvre peuvent être remplacés par des organes et des procédures de son ordre interne qui atteignent le même résultat, sous réserve de l’alinéa 5 ;
+
+    c) les renvois des Codes au CBO, aux Entrepôts et aux organes et assemblées du Cercle 1 s’entendent, pour la vie interne, comme faits aux institutions correspondantes de son ordre interne ; la contribution de travail que l’ordre interne demande à chaque personne adulte apte vaut CBO aux fins des articles 2.3, 4.4 et 7.3-bis de la Constitution ;
+
+    d) les obligations que les Codes imposent aux membres en tant que tels, y compris le CBO du Code 1 et la justice du Code 4 pour les conflits internes, valent pour les membres des Communautés qui adoptent les Codes, sous réserve de l’alinéa 5 ; aux membres de la Communauté associée s’appliquent les règles fondamentales, les droits des personnes et les règles des outils communs qu’ils utilisent.
+
+5.  **Conflits et recours.** Les infractions de Degré 4, 5 et 6 commises dans la Communauté associée relèvent toujours de la compétence du Tribunal de garantie, conformément au Code 4 et sans préjudice de son article 37. Les autres conflits internes sont résolus selon l’ordre interne. Les conflits avec d’autres Communautés suivent le Code 4, avec la médiation du Cercle 2 prévue par l’article 5.1, lettre c), de la Constitution. Quiconque affirme qu’un de ses droits a été violé dans la Communauté associée peut former un recours, selon les règles de l’article 17 du Code 3, devant trois membres tirés au sort parmi les membres des Cercles de garantie d’autres Communautés, appartenant à des Communautés différentes ; les articles 15 et 37, alinéa 5, du Code 4 s’appliquent. Les mesures des articles 1.3-bis et 7.3-bis de la Constitution et toute mesure qui restreint la liberté personnelle ne sont adoptées que par les organes communs, conformément au Code 4.
+
+6.  **Vérification et Plan de raccordement.** La communauté qui demande à adhérer comme Communauté associée décrit son ordre interne dans la mesure nécessaire pour montrer comment elle garantit l’alinéa 2. Le Cercle 2 de référence et, pendant la transition, le Conseil Transition de l’unité qui l’accueille en application de l’article 3, alinéa 7, lettre c), du Code 16 vérifient uniquement l’équivalence à la frontière, dans un délai de quatre-vingt-dix jours et sans appréciations politiques ou idéologiques, en application de l’article 21, alinéa 2. Le résultat est motivé et publié. Si un élément manque, le Cercle 2 et la communauté conviennent d’un Plan de raccordement assorti de délais déterminés, qui ne change que ce qui est nécessaire à la frontière et jamais la vie interne. Le Plan ne peut pas être imposé : tant que l’équivalence n’est pas atteinte, la communauté reste extérieure et peut se relier à la Confédération par des accords en application du Chapitre IV, sans adhésion.
+
+7.  **Après l’adhésion.** Si un élément de l’alinéa 2 vient à manquer, le Cercle 2 le signale et un Plan de raccordement est convenu selon les règles de l’alinéa 6. Les droits des personnes et les recours de l’alinéa 5 restent toujours applicables.

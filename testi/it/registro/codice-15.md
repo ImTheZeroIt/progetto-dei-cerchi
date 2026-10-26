@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 15 — RAPPORTI ESTERNI E SALDO MONDIALE"
 breve: "Codice 15 — Rapporti esterni e Saldo"
-versione: "V1.4"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 15
 id: "codice-15"
 slug: "codice-15"
-allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; Codice 4 V1.5; Codice 5 V1.4; Codice 6 V1.6; Codice 7 V1.7; Codice 8 V1.4; C.1-Annex A V1.4; Codice 9 V3.1; Codice 10 V1.5; Codice 11 V1.4; Codice 12 V1.4; Codice 13 V1.5; Codice 14 V1.3; Codice 16 V1.4."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 16 V1.7."
 ---
 
 ## TITOLO PRELIMINARE — DISPOSIZIONI GENERALI
@@ -58,7 +58,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 ### Art. 3 — Dichiarazione e accertamento del Saldo Federabile
 
-1.  Ogni Cerchio, dal livello 1 al livello 4, dichiara trimestralmente, per ciascuna risorsa di propria competenza:
+1.  Ogni Cerchio 1, 2 e 3 dichiara trimestralmente, per ciascuna risorsa di propria competenza:
 
     a) il Prodotto Contabilizzabile;
 
@@ -72,9 +72,9 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     f) il Saldo Federabile proposto.
 
-2.  Le dichiarazioni dei diversi livelli sono coordinate in modo da evitare la duplicazione delle stesse quantità. Ogni risorsa fisica è registrata una sola volta come disponibilità originaria; le registrazioni dei livelli superiori riportano dati consolidati e non sono sommate nuovamente ai dati dei livelli inferiori.
+2.  Le dichiarazioni dei diversi Cerchi sono coordinate in modo da evitare la duplicazione delle stesse quantità. Ogni risorsa fisica è registrata una sola volta come disponibilità originaria; le registrazioni dei Cerchi 2 e 3 riportano dati consolidati e non sono sommate nuovamente ai dati dei Cerchi che vi sono compresi.
 
-3.  L’accertamento del Saldo Federabile è un procedimento tecnico svolto dal Consiglio di Magazzino competente per il livello in cui la risorsa è custodita. Il Consiglio:
+3.  L’accertamento del Saldo Federabile è un procedimento tecnico svolto dal Consiglio di Magazzino del Cerchio presso cui la risorsa è custodita. Il Consiglio:
 
     a) verifica la conformità dei dati dichiarati;
 
@@ -125,7 +125,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 ### Art. 6 — Prevenzione dello spreco
 
 1.  L’Intelligenza Artificiale Gestionale disciplinata dal Codice 7 segnala il superamento delle soglie di rischio spreco definite dalle STV e indica il TRU residuo. La segnalazione costituisce un supporto tecnico e non sostituisce la valutazione e la decisione del Consiglio di Magazzino.
-2.  Il Consiglio di Magazzino decide e attua, entro un massimo ordinario di settantadue ore dalla segnalazione, le misure necessarie di riassegnazione, trasformazione o riciclo. Il termine è ridotto quando necessario per intervenire prima della scadenza del TRU e non può mai comportare che l’intervento avvenga dopo che la risorsa abbia perso la propria utilità.
+2.  Il Consiglio di Magazzino del Cerchio presso cui la risorsa è custodita decide e attua, entro un massimo ordinario di settantadue ore dalla segnalazione, le misure necessarie di trasformazione o riciclo; la riassegnazione tramite il Pool è decisa entro lo stesso termine dal Consiglio previsto dall’articolo 9-bis. Se la riassegnazione non è decisa in tempo utile, il Consiglio del Cerchio di custodia destina la risorsa secondo l’articolo 15, comma 2, del Codice 1. Il termine è ridotto quando necessario per intervenire prima della scadenza del TRU e non può mai comportare che l’intervento avvenga dopo che la risorsa abbia perso la propria utilità.
 3.  Quando il TRU è inferiore a sette giorni, l’intervento è disposto senza ritardo, tenendo conto dei tempi effettivi di trasporto, trasformazione e impiego della risorsa.
 4.  La perdita di una Riserva Federata per omissione o ritardo ingiustificato nella riassegnazione costituisce danno alla Confederazione ed è trattata secondo il Codice 4.
 
@@ -145,7 +145,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 ### Art. 8 — Calcolo, proposta e priorità di allocazione
 
-1.  L’Intelligenza Artificiale Gestionale elabora almeno ogni ventiquattro ore una mappa aggiornata delle disponibilità federabili e dei deficit dichiarati. La mappa considera almeno:
+1.  L’IA del Cerchio Intermedio prevista dall’articolo 22.2 della Costituzione elabora, per il proprio Cerchio 2, almeno ogni ventiquattro ore una mappa aggiornata delle disponibilità federabili e dei deficit dichiarati. Le mappe dei Cerchi 2 sono scambiate mediante i protocolli aperti dell’articolo 5-ter, comma 3, del Codice 7 e, tra Cerchi Estesi, mediante il protocollo distribuito dell’articolo 19.7 della Costituzione; nessun sistema le riunisce in un modello centrale, ai sensi dell’articolo 5-ter, comma 2, del Codice 7. La mappa considera almeno:
 
     a) quantità e ubicazione delle risorse;
 
@@ -183,7 +183,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     b) **elaborazione delle proposte di flusso**: Intelligenza Artificiale Gestionale, sotto supervisione umana;
 
-    c) **decisione di allocazione e trasferimento**: organo deliberativo competente secondo la Costituzione e il Codice 3, in relazione al livello territoriale e all’entità del trasferimento;
+    c) **decisione di allocazione e trasferimento**: Consiglio di Magazzino del Cerchio 2 o del Cerchio 3, secondo l’articolo 9-bis, entro i criteri approvati dall’Assemblea Generale; le decisioni che eccedono i criteri spettano all’Assemblea Generale;
 
     d) **opposizione motivata al trasferimento**: Consiglio di Magazzino del Cerchio cedente, anche su richiesta dell’Assemblea, nei termini e per i motivi previsti dall’articolo 11;
 
@@ -192,6 +192,36 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 3.  La deliberazione di trasferimento identifica la risorsa, la quantità, il termine, il percorso previsto e le misure necessarie per garantirne la consegna e l’integrità.
 
 4.  L’organo deliberativo non può alterare i criteri tecnici di accertamento del saldo al di fuori delle procedure di verifica e impugnazione previste. Se emergono errori nei dati o nell’accertamento, la decisione è rinviata o ricalcolata secondo le procedure applicabili.
+
+### Art. 9-bis — Consigli di Magazzino dei Cerchi 2 e 3
+
+1.  In attuazione degli articoli 5.1, lettere c) e d), e 10.5 della Costituzione, ogni Cerchio 2 e ogni Cerchio 3 istituisce un Consiglio di Magazzino, che decide l’allocazione e il trasferimento delle risorse del Pool:
+
+    a) il Consiglio del Cerchio 2 decide sui trasferimenti tra le Comunità di Base del proprio Bacino;
+
+    b) il Consiglio del Cerchio 3 decide sui trasferimenti tra Cerchi 2 diversi compresi nel proprio ambito;
+
+    c) i trasferimenti tra Cerchi 3 diversi sono decisi con deliberazioni concordi dei Consigli dei Cerchi 3 interessati.
+
+2.  Il Consiglio è composto da cinque a sette persone con competenza validata nella gestione dei magazzini o nella logistica, sorteggiate tra le persone delle Comunità comprese nel Cerchio. Non più di due componenti appartengono alla stessa Comunità di Base o, per il Cerchio 3, allo stesso Cerchio 2. Si applicano i commi 4, 5, 8, 9 e 11 dell’articolo 12-bis del Codice 3. La revoca spetta all’Assemblea Generale del Cerchio.
+
+3.  Il Consiglio decide nel rispetto delle priorità dell’articolo 8 e dei criteri approvati ogni anno dall’Assemblea Generale del Cerchio ai sensi dell’articolo 14 del Codice 3, con il Dossier dell’articolo 33 della Costituzione. I criteri indicano almeno:
+
+    a) l’applicazione delle priorità dell’articolo 8 alle risorse del Cerchio;
+
+    b) la consistenza e i tempi di impiego della Riserva Federata;
+
+    c) i criteri di scelta tra destinazioni di pari priorità;
+
+    d) le quantità o i valori in UCR oltre i quali la decisione spetta all’Assemblea Generale.
+
+4.  Le decisioni conformi ai criteri sono atti tecnici vincolati ai sensi dell’articolo 12-bis, comma 9, del Codice 3 e non richiedono un nuovo Dossier. Le decisioni che eccedono i criteri o i limiti della lettera d) del comma 3 spettano all’Assemblea Generale, che nei casi d’urgenza delibera ai sensi dell’articolo 14, comma 9, del Codice 3. Fino all’approvazione dei primi criteri, il Consiglio decide soltanto sui bisogni vitali immediati e sulle risorse a rischio di spreco, secondo l’articolo 8, comma 2, lettere a) e b).
+
+5.  Il Consiglio decide sulle proposte di flusso entro quarantotto ore; sui bisogni vitali immediati senza ritardo e comunque entro ventiquattro ore; sulle risorse a rischio di spreco entro il termine dell’articolo 6. Se il Consiglio non decide in tempo su un bisogno vitale immediato, il Consiglio di Magazzino del Cerchio presso cui la risorsa è custodita può eseguire la proposta di flusso conforme all’articolo 8 e ai criteri; l’esecuzione è registrata e comunicata senza ritardo al Consiglio competente. Per le risorse a rischio di spreco si applica l’articolo 6, comma 2.
+
+6.  Le decisioni sono comunicate ai Cerchi interessati. Restano ferme l’opposizione dell’articolo 11 e la verifica dell’articolo 9, comma 2, lettera e); ogni Comunità interessata può chiedere la stessa verifica contro una decisione di allocazione. La richiesta non sospende il trasferimento, salvo l’articolo 11, comma 3.
+
+7.  Durante la transizione il Consiglio del Cerchio 2 è istituito nel Bacino e quello del Cerchio 3 nella Federazione minima, ai sensi dell’articolo 1, commi 5 e 6, del Codice 16.
 
 ### Art. 10 — Logistica federale
 
@@ -294,7 +324,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
     e) divieto di rendita e di profitto.
 
-3.  Gli scambi con l’esterno servono esclusivamente a soddisfare i bisogni non ancora coperti dall’autoproduzione federata e a cedere eccedenze reali. È vietata l’esportazione a fini di profitto, ai sensi dell’articolo 11.1 della Costituzione.
+3.  Gli scambi con l’esterno servono esclusivamente a soddisfare i bisogni non ancora coperti dall’autoproduzione federata e a cedere eccedenze reali. Sono eccedenze reali i beni eccedenti che non sono destinati al Pool ai sensi dell’articolo 15, comma 1-bis, del Codice 1. È vietata l’esportazione a fini di profitto, ai sensi dell’articolo 11.1 della Costituzione.
 
 ### Art. 16 — Soggettività giuridica e titolarità dei beni
 
@@ -371,7 +401,7 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 7.  **Patrimoni esterni.** I beni che una persona possiede fuori dalla Confederazione restano suoi secondo l’ordinamento vigente. Non possono essere dati in affitto o in uso oneroso ad altri membri né impiegati per assumere membri. Il conferimento all’ente previsto dall’articolo 16 è volontario, non attribuisce privilegi e rende il bene un Bene Comune.
 
-8.  **Riduzione e cessazione.** I Piani di Uscita riducono progressivamente il bisogno di redditi esterni. Il presente articolo cessa di applicarsi quando la Confederazione comprende l’intera umanità: da quel momento non esistono redditi esterni e le Casse comuni sono chiuse.
+8.  **Riduzione e cessazione.** I Piani di Uscita riducono progressivamente il bisogno di redditi esterni. Il presente articolo cessa di applicarsi quando la Confederazione comprende l’intera umanità: da quel momento non esistono redditi esterni e le Casse comuni sono chiuse. Fino ad allora la facoltà dell’articolo 2, comma 9, del Codice 16 continua ad applicarsi anche dopo la chiusura della transizione.
 
 ### Art. 20 — Autonomia strategica, ricatto relativo a risorse e contromisure
 
@@ -382,6 +412,42 @@ allineamento: "Costituzione V.30; Codice 1 V1.7; Codice 2 V1.5; Codice 3 V1.5; C
 
 ### Art. 21 — Adesione di comunità esterne e recesso
 
-1.  La comunità esterna che chiede l’adesione ai sensi dell’articolo 4.5 della Costituzione sottoscrive la Costituzione e applica il Codice 16 per quanto compatibile con il proprio stato di avanzamento.
-2.  Il Cerchio 2 di riferimento verifica esclusivamente i protocolli di interoperabilità tecnologica e logistica. La verifica è conclusa entro novanta giorni e non può introdurre valutazioni politiche o ideologiche ulteriori.
+1.  La comunità esterna che chiede l’adesione ai sensi dell’articolo 4.5 della Costituzione sottoscrive la Costituzione e sceglie se aderire come Comunità associata, ai sensi dell’articolo 21-bis, o adottando anche i Codici. Nel secondo caso applica il Codice 16 secondo l’articolo 3, comma 7, del medesimo Codice.
+2.  Il Cerchio 2 di riferimento verifica esclusivamente i protocolli di interoperabilità tecnologica e logistica e, per la Comunità associata, l’equivalenza al confine dell’articolo 21-bis. La verifica è conclusa entro novanta giorni e non può introdurre valutazioni politiche o ideologiche ulteriori.
 3.  Il recesso di un Cerchio 1 segue gli articoli 4.6 e 4.7 della Costituzione. Le modalità tecniche sono concordate con il Cerchio 2 in modo da garantire la continuità del Paniere per tutte le persone interessate.
+
+### Art. 21-bis — Comunità associate ed equivalenza al confine
+
+1.  **Regole fondamentali e strumenti.** Ai sensi dell’articolo 4.5 della Costituzione, sono regole fondamentali, obbligatorie per ogni Comunità, i Titoli I, IV, V e VII della Costituzione e il Nucleo Inviolabile dell’articolo 37.4. Le regole di gestione dei Codici, tra cui il CBO e il CdR, i Magazzini, gli organi e i Consigli interni e le forme dei loro sorteggi, le assemblee e i quorum interni, la giustizia del Codice 4 per i conflitti interni e le fasi del Codice 16, sono strumenti. La Comunità associata conserva il proprio ordinamento interno se rispetta le regole fondamentali e garantisce l’equivalenza al confine del comma 2. Restano fermi anche nella vita interna i principi del Nucleo Inviolabile, tra cui il contributo di ogni persona adulta abile dell’articolo 2.3, il sorteggio, la rotazione e il divieto di esercizio professionale e permanente della politica e della funzione giudiziaria degli articoli 4.3, 4.4, 6.5 e 31.2 e i divieti dell’articolo 36.1 della Costituzione.
+
+2.  **Equivalenza al confine.** La Comunità associata garantisce al confine con i Cerchi 2 e 3:
+
+    a) a ogni membro i diritti dell’articolo 1.2 della Costituzione, compresi i livelli 1 e 2 del Paniere e le cure, e a chiunque vi si trovi le garanzie dell’articolo 1.3; il diritto di lasciare la Comunità e la Confederazione ai sensi degli articoli 4.8 e 5.2 della Costituzione; il ricorso agli organi comuni di garanzia del comma 5 per chi afferma che un proprio diritto è stato violato;
+
+    b) l’inventario delle risorse e la dichiarazione trimestrale del Saldo nel formato comune degli articoli 2 e 3; l’accertamento dell’articolo 3, comma 3, è svolto dall’organo indicato dal suo ordinamento interno ed è verificato dal Consiglio di Magazzino del Cerchio 2;
+
+    c) una quota di lavoro per le funzioni comuni dei Cerchi 2 e 3 e per la quota federata dell’articolo 7, determinata per l’intera Comunità e non per persona, con gli stessi criteri usati per le altre Comunità; la Comunità la ripartisce al proprio interno secondo il proprio ordinamento. Durante la transizione la quota può essere resa anche in beni o tramite la Cassa comune, ai sensi dell’articolo 17;
+
+    d) persone nelle liste di sorteggio degli organi comuni dei Cerchi 2 e 3, alle stesse condizioni delle altre Comunità;
+
+    e) il voto individuale e segreto di ogni membro nelle Assemblee Generali, senza delega, ai sensi degli articoli 34.4 e 36.1 della Costituzione;
+
+    f) gli standard comuni dei beni che scambia con le altre Comunità, compresa la STV del Codice 2.
+
+3.  **Strumenti comuni e strumenti adottati.** Quando la Comunità associata usa uno strumento comune, come il Pool, lo scambio tra Magazzini o la Rete federata, ne segue le regole. Può adottare in ogni momento singoli strumenti dei Codici, con deliberazione presa secondo il proprio ordinamento e comunicata al Cerchio 2; da quel momento ne applica le regole.
+
+4.  **Rinvio dei Codici.** Per la Comunità associata:
+
+    a) le disposizioni dei Codici che regolano strumenti di gestione interna si applicano soltanto se e da quando li adotta;
+
+    b) le disposizioni dei Codici che attuano le regole fondamentali valgono per i diritti, i divieti e i limiti che stabiliscono; gli organi e le procedure interni con cui i Codici li attuano possono essere sostituiti da organi e procedure del suo ordinamento interno che ottengono lo stesso risultato, fermo il comma 5;
+
+    c) i riferimenti dei Codici al CBO, ai Magazzini, agli organi e alle assemblee del Cerchio 1, per la vita interna, si intendono fatti agli istituti corrispondenti del suo ordinamento interno; il contributo di lavoro che l’ordinamento interno chiede a ogni persona adulta abile vale come CBO ai fini degli articoli 2.3, 4.4 e 7.3-bis della Costituzione;
+
+    d) gli obblighi che i Codici pongono ai membri come tali, compresi il CBO del Codice 1 e la giustizia del Codice 4 per i conflitti interni, valgono per i membri delle Comunità che adottano i Codici, salvo il comma 5; ai membri della Comunità associata si applicano le regole fondamentali, i diritti delle persone e le regole degli strumenti comuni che usano.
+
+5.  **Conflitti e ricorsi.** Gli illeciti di Grado 4, 5 e 6 commessi nella Comunità associata sono sempre di competenza del Tribunale di Garanzia, secondo il Codice 4 e fermo il suo articolo 37. Gli altri conflitti interni sono risolti secondo l’ordinamento interno. I conflitti con altre Comunità seguono il Codice 4, con la mediazione del Cerchio 2 prevista dall’articolo 5.1, lettera c), della Costituzione. Chi afferma che un proprio diritto è stato violato nella Comunità associata può ricorrere, con le regole dell’articolo 17 del Codice 3, a tre componenti sorteggiati tra i componenti dei Cerchi di Garanzia di altre Comunità, appartenenti a Comunità diverse; si applicano gli articoli 15 e 37, comma 5, del Codice 4. Le misure degli articoli 1.3-bis e 7.3-bis della Costituzione e ogni misura che limita la libertà personale sono adottate soltanto dagli organi comuni, secondo il Codice 4.
+
+6.  **Verifica e Piano di raccordo.** La comunità che chiede di aderire come Comunità associata descrive il proprio ordinamento interno per quanto serve a mostrare come garantisce il comma 2. Il Cerchio 2 di riferimento, e durante la transizione il Consiglio Transizione dell’unità che la accoglie ai sensi dell’articolo 3, comma 7, lettera c), del Codice 16, verifica soltanto l’equivalenza al confine, entro novanta giorni e senza valutazioni politiche o ideologiche, ai sensi dell’articolo 21, comma 2. L’esito è motivato e pubblicato. Se un elemento manca, il Cerchio 2 e la comunità concordano un Piano di raccordo con tempi definiti, che cambia soltanto ciò che serve al confine e mai la vita interna. Il Piano non può essere imposto: finché l’equivalenza non è raggiunta, la comunità resta esterna e può collegarsi alla Confederazione con accordi ai sensi del Capo IV, senza adesione.
+
+7.  **Dopo l’adesione.** Se un elemento del comma 2 viene meno, il Cerchio 2 lo segnala e si concorda un Piano di raccordo con le regole del comma 6. Restano sempre applicabili i diritti delle persone e i ricorsi del comma 5.

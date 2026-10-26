@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 16 — TRANSITION AND LAUNCH OF THE CONFEDERATION"
 breve: "Code 16 — Transition and launch"
-versione: "V1.4"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 16
 id: "codice-16"
 slug: "code-16"
-allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 V1.5; Code 5 V1.4; Code 6 V1.6; Code 7 V1.7; Code 8 V1.4; C.1-Annex A V1.4; Code 9 V3.1; Code 10 V1.5; Code 11 V1.4; Code 12 V1.4; Code 13 V1.5; Code 14 V1.3; Code 15 V1.4."
+allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 15 V1.7."
 ---
 
 ## Art. 1 — Subject matter, definitions and temporary nature
@@ -15,7 +15,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 2.  For the purposes of this Code, the following definitions apply:
 
-    a) **transition**: the period between the establishment of the first pilot Circle and the declaration of closure provided for by Article 10;
+    a) **transition**: for each pilot Circle, the period between its establishment and the declaration of closure provided for by Article 10 for the minimum Federation of which it is part;
 
     b) **phase**: the transitional period in which specific objectives, Codes and procedures are activated, with the related exit thresholds;
 
@@ -25,25 +25,35 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     e) **minimum Federation**: an aggregation of at least three Basins;
 
-    f) **Basket 1-2**: the goods and services of the Sufficiency Basket governed by Code 1 that fall within levels 1 and 2 of the hierarchy referred to in Article 32 of the same Code, as specified by the sectoral Codes;
+    f) **Basket 1-2**: the goods and services of the Sufficiency Basket indicated by Article 32, paragraph 1-quinquies, of Code 1;
 
     g) **point of no return**: the resolution that makes irreversible the designated use of ecological or territorial commons;
 
     h) **Social Start-up Protocol**: Technical Annex A to this Code, adopted in accordance with Article 19 of Code 3, which defines a methodology for verifying the institutional social thresholds without introducing autonomous individual obligations or sanctions;
 
-    i) **risk levels R0-R4**: the levels defined by Code 14. Until that Code is activated, the provisional classification shall be carried out by the Health Council in accordance with Code 6, Article 4;
+    i) **risk levels R0-R4**: the levels defined by Article 1, paragraph 3, of Code 14. Until that Code is activated, the same levels shall be assigned provisionally by the Health Council in the Safety Sheets provided for by Article 4 of Code 6;
 
     j) **First-Year Operating Charter**: Technical Annex C to this Code, adopted in accordance with Article 19 of Code 3, which brings together the minimum rules necessary for the launch of a pilot Circle without introducing autonomous obligations.
 
-3.  This Code is temporary in nature and shall cease to produce normative effects with the declaration of closure referred to in Article 10, except for the memory provisions laid down therein. It may not establish permanent rights, obligations or competences beyond the transition period, nor modify the substantive content of Codes 1–15. Its provisions do not constitute an amendment of the Codes pursuant to Articles 37 and 38 of the Constitution. In the event of conflict, the Constitution prevails.
+3.  This Code is temporary in nature and shall cease to produce normative effects, for each minimum Federation, with the declaration of closure referred to in Article 10, except for the memory provisions laid down therein. It continues to apply to the pilot Circles, Basins and minimum Federations that have not closed the transition, including those that are constituted or join later, pursuant to Article 21 of Code 15; to the associated Community of Article 21-bis of Code 15 it applies within the limits of Article 3, paragraph 7, letter f). It may not establish permanent rights, obligations or competences beyond the transition period, nor modify the substantive content of Codes 1–15. Its provisions do not constitute an amendment of the Codes pursuant to Articles 37 and 38 of the Constitution. In the event of conflict, the Constitution prevails.
 
 4.  The transitional classification of a good, a function or a competence does not determine its permanent regime.
 
-5.  During the transition, the references in the Codes to Circle 1 shall be understood as referring to the pilot Circle and those to Circle 2 as referring to the Basin. Until an Extended Circle is constituted, the functions of Circle 3 shall be exercised by the minimum Federation.
+5.  During the transition, the references in the Codes to Circle 1 shall be understood as referring to the pilot Circle and those to Circle 2 as referring to the Basin. The minimum Federation exercises the functions of Circle 3 until it is constituted as an Extended Circle pursuant to Article 14-bis of Code 3. Until the minimum Federation is constituted, the declaration of the Circle 3 concerned provided for by Article 36.2 of the Constitution shall be adopted by the General Assembly of the affected Basin, within the limits of Article 36.4 of the Constitution.
 
 6.  During the transition, the Balance provided for by Code 15 operates at the scale of the Basin and of the minimum Federation. The activation of the operational confederal phase does not imply that the Confederation comprises the whole of humanity.
 
-7.  During the transition, the revision of the Constitution and of the Codes follows the founding regime of Article 38 of the Constitution.
+7.  The revision of the Constitution and of the Codes follows the founding regime under the conditions of Article 38.2 of the Constitution, that is for as long as there are not at least three Extended Circles, even when part of the Confederation is still in transition.
+
+8.  Technical Annexes A, B and C to this Code are adopted and amended in accordance with Article 19 of Code 3, with the following rules:
+
+    a) each Annex, or its part that applies to a phase, is adopted by the Assembly of the unit that is in that phase pursuant to Article 3, paragraph 7: the Assembly of the pilot Circle for Phase 0, the General Assembly of the Basin for Phase 1 and that of the minimum Federation for Phases 2 and 3, pursuant to Articles 12 and 14 of Code 3;
+
+    b) an amendment resolved by a unit applies to it and to the units that join it, pursuant to Article 3, paragraph 7, letter c); it is published in the federated Knowledge Storehouse, so that the other units may adopt it;
+
+    c) no Annex and no amendment to it may alter the phases, the thresholds, the competences or the guarantees of this Code and of Codes 1–15, pursuant to Article 19, paragraph 5, of Code 3.
+
+9.  Until a Code is activated pursuant to Article 3, the references to it in this Code and in its Annexes apply in so far as applicable with the bodies and procedures already active. The opinions of Councils not yet established follow Article 8, paragraphs 2 and 3. The prohibitions and guarantees that directly implement the Constitution always remain unaffected.
 
 ## Art. 2 — Principles of the transition
 
@@ -55,6 +65,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 6.  **Non-commodification.** It is prohibited to establish rents on the launch of the Confederation, on the commons conferred during the transition or on life-saving competences.
 7.  **Legality and coexistence.** During the transition the Circles shall operate in compliance with the legal order in force in the territory, pursuant to Article 38.6 of the Constitution. Article 37 of Code 4 and Chapter IV of Code 15 apply.
 8.  **Voluntariness.** Accession is individual and voluntary. No one may be induced to cease external activities, to confer goods or to waive rights recognised by the legal order in force. This is without prejudice to the proportional contribution on external income provided for by Article 19-bis of Code 15, which shall be made known before accession.
+9.  **Pooled external income.** During the transition, in compliance with the legal order in force pursuant to Article 38.6 of the Constitution, the members of an associated Community pursuant to Article 21-bis of Code 15 may voluntarily pool the income and assets that they hold outside the Confederation pursuant to Article 3.5-ter of the Constitution and redistribute them among themselves for personal external expenses. The fund so formed consists of personal external income and assets: it is distinct from the Common Fund of the Circle provided for by Article 3.5-bis of the Constitution and by Article 17 of Code 15 and does not form part of it. It gives no access to the Storehouses, the CdR, the Common Goods or decisions; it is not distributed in proportion to work or as payment for it and may not be used to purchase work or consent, pursuant to Article 19-bis, paragraph 2, of Code 15. Every member may withdraw from it at any time. The proportional contribution to common external expenses under Article 3.5-ter of the Constitution and Article 19-bis of Code 15 remains unaffected. The option ceases when external means of payment cease, pursuant to Article 19-bis, paragraph 8, of Code 15.
 
 ## Art. 3 — Phases of the transition
 
@@ -62,7 +73,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     a) at least one pilot Circle shall be constituted with no fewer than thirty persons having joined;
 
-    b) Codes 1, 2, 3, 4, 5, Code 6 in its basic version and Chapter IV of Code 15 shall be activated;
+    b) Codes 1, 2, 3, 4, 5 and 6 and Chapter IV of Code 15 shall be activated;
 
     c) an initial census, aggregated and non-profiling, shall be carried out of the available land, of the L1 and L2 competences, of the machines and equipment and of the needs of Basket 1-2;
 
@@ -88,7 +99,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     f) the Network, Energy and Water, Agroecological, Habitat and Territory and Production Councils shall be activated;
 
-    g) the Balance provided for by Code 15 shall be activated at the scale of the Basin.
+    g) the Balance provided for by Code 15 shall be activated at the scale of the Basin and the Basin Storehouse Council provided for by Article 9-bis of Code 15 shall be established.
 
 3.  **Phase 2 — Minimum Federation.** The indicative duration is from eighteen to thirty-six months. In this phase:
 
@@ -96,7 +107,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     b) Codes 11, 12, 13 and 14 shall be activated, in addition to the Codes already activated;
 
-    c) Chapter III of Code 15 and the Balance at the scale of the minimum Federation shall be activated;
+    c) Chapter III of Code 15 and the Balance at the scale of the minimum Federation shall be activated, with the Storehouse Council provided for by Article 9-bis of Code 15 for Circle 3;
 
     d) at least one sanctuary per Basin shall be established, pursuant to Article 4 of Code 13;
 
@@ -119,6 +130,20 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 5.  **Phase 4 — Closure.** The transition ends with the declaration of closure adopted in accordance with Article 10.
 
 6.  The durations indicated are for guidance and do not replace the exit thresholds of Article 4. No phase may be passed before the related thresholds have been verified.
+
+7.  **Scale of the phases.** Phase 0 belongs to each pilot Circle, Phase 1 to each Basin and Phases 2, 3 and 4 to each minimum Federation. The following rules apply:
+
+    a) the passage from Phase 0 to Phase 1 is resolved jointly by the pilot Circles that constitute the Basin, pursuant to Article 14, paragraph 10, of Code 3; the passage from Phase 1 to Phase 2 by the General Assembly of the Basins that constitute the minimum Federation; the subsequent passages and the closure by the General Assembly of the minimum Federation;
+
+    b) a pilot Circle that is constituted or joins when others are already in a later phase goes through Phase 0. Once the thresholds of Article 4, paragraph 1, have been exceeded, it joins a contiguous Basin or constitutes a new one. A Basin that has exceeded the thresholds of Article 4, paragraph 2, joins a minimum Federation or constitutes a new one with at least two other Basins;
+
+    c) a pilot Circle or a Basin that joins a Basin or a minimum Federation assumes its phase when it meets, for its own part, the thresholds of the passages already resolved by that unit. The verification is carried out by the Transition Council of the receiving unit and may not introduce further assessments, pursuant to Article 4.5 of the Constitution. The Codes already activated apply to the entrant from the day of entry, and the transitional time limits of the individual Codes run from that date;
+
+    d) if the minimum Federation has already closed the transition, the verification of letter c) includes the thresholds of Article 4, paragraphs 3 and 4, and the closure of the transition for the entrant is resolved by its General Assembly pursuant to Article 10, paragraph 1; entry into the Extended Circle follows Article 14-bis, paragraph 4, of Code 3;
+
+    e) the entry of a new pilot Circle or Basin does not make the receiving unit go back a phase;
+
+    f) the associated Community pursuant to Article 21-bis of Code 15 does not go through the phases for its own internal life and is not required to activate the Codes and Councils of the phases, except for the tools it adopts. It enters a Basin, or contributes to constituting one, when the equivalence at the boundary has been verified, and it counts as a pilot Circle for the purposes of Article 1, paragraph 2, letter d). The thresholds of Article 4 are verified, for its part, on the data and commitments that it provides at the boundary pursuant to paragraph 2 of that Article; in the Basin and in the minimum Federation it follows the rules of the common tools activated in the phase.
 
 ## Art. 4 — Activation and exit thresholds
 
@@ -174,13 +199,13 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     e) Labour Balances that respect the limit of Article 3 of Code 1 for four consecutive quarters or, failing that, the submission of a reasoned proposal for revision of that limit pursuant to Article 38 of the Constitution.
 
-5.  The verification of the thresholds shall be carried out by the Transition Council, with the mandatory opinion of the Councils competent for the subject matter. The change of phase constitutes a constitutive decision pursuant to Article 3, paragraph 3, of Code 3 and shall be resolved by the General Assembly in accordance with the convening, quorum and procedure provided for by Codes 3 and 4. The resolution shall be published in aggregate and non-profiling form.
+5.  The verification of the thresholds shall be carried out by the Transition Council, with the mandatory opinion of the Councils competent for the subject matter. The change of phase constitutes a constitutive decision pursuant to Article 3, paragraph 3, of Code 3 and shall be resolved by the General Assembly indicated by Article 3, paragraph 7, letter a), in accordance with the convening, quorum and procedure provided for by Codes 3 and 4. The resolution shall be published in aggregate and non-profiling form.
 
 6.  The social opinion provided for by the Social Start-up Protocol may bear exclusively on the institutional verification of the threshold and on the possibility of proposing or resolving the change of phase. It may not produce individual sanctions, exclusions or limitations, nor make conditional the access to Code 4, to the Guarantee, to vital goods or to Basket 1-2.
 
 ## Art. 5 — Transitional government
 
-1.  In each phase a distinct Transition Council shall be established, with a duration limited to the phase of reference.
+1.  In each phase a distinct Transition Council shall be established, with a duration limited to the phase of reference, at the scale provided for by Article 3, paragraph 7: one for each pilot Circle in Phase 0, one for each Basin in Phase 1 and one for each minimum Federation in Phases 2 and 3. The Transition Council of the Basin and of the minimum Federation is a shared Council within the meaning of Article 12-bis, paragraph 6-bis, of Code 3, with its members drawn by lot from among the persons eligible pursuant to paragraph 2 of the pilot Circles that are part of it; the rules of paragraph 3 remain in force.
 
 2.  The Council is composed of three to five members with L2 or L3 competences relevant to the phase, including organisation, confederal law, agroecology, territory, safety and biodiversity.
 
@@ -200,7 +225,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 4.  The Council shall operate with a quorum of at least two thirds of its members. Decisions shall be taken by consensus in the absence of reasoned objections, in accordance with Code 3, Article 4. Meetings shall be minuted and the minutes shall be kept for thirty-six months.
 
-5.  The Transition Council shall not resolve the change of phase or the adoption of a point of no return. It may formulate proposals to the General Assembly, to which the decisions fall in accordance with Articles 4 and 6 of this Code.
+5.  The Transition Council shall not resolve the change of phase or the adoption of a point of no return. It may formulate proposals to the General Assembly, to which the decisions fall: the change of phase in accordance with Article 4; the point of no return in accordance with Article 2, paragraph 2, Article 6 and Article 4, paragraph 7, of Annex A.
 
 6.  The Transition Council:
 
@@ -260,10 +285,10 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 1.  Code 4 applies from Phase 0.
 2.  Until a competent Council is activated, the Transition Council may give, on a provisional basis, the non-binding mandatory opinions concerning the subject matter not yet covered. The opinion shall be noted as provisional and submitted to review within six months of the activation of the competent Council.
-3.  The substitute function of paragraph 2 does not apply to the binding opinions of Health and Network provided for by Articles 7-bis, 7-quater and 8 of Code 3. Until the Network Council is activated, decisions requiring a binding Network opinion shall be suspended. The other decisions not dependent on that opinion may proceed.
+3.  The substitute function of paragraph 2 does not apply to the binding negative opinions provided for by Article 8 of Code 3 or to the authorisation of Article 13.3 of the Constitution. Until the competent Council is activated, decisions requiring one of those opinions or that authorisation shall be suspended. The other decisions not dependent on that opinion may proceed.
 4.  Suspensions necessary to deal with a serious and immediate R4 risk are immediately enforceable in every phase, in compliance with the procedures of the competent Codes.
 5.  An appeal to the Guarantee is permitted within fourteen days in accordance with Article 17 of Code 3 and Article 17 of Code 4. No provision of this Code or of the Social Start-up Protocol may make conditional, delay or limit access to the Guarantee.
-6.  During the transition, Chapter V of Code 4 applies within the limits of its Article 37.
+6.  During the transition, Chapter V of Code 4 applies within the limits of its Article 37. Until a Basin is constituted, the bodies of Code 4 that require members external to the pilot Circle, including the Review Panel of Article 17 and the substitute Guarantee Circle of Article 15, paragraph 3, are formed in accordance with Article 37, paragraph 5, of Code 4.
 
 ## Art. 9 — Prohibitions during the transition
 
@@ -287,9 +312,23 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 3.  The ascertainment, the precautionary and restorative measures and any remedies are governed by Code 4. The effects on decisions shall be determined in accordance with Article 18 of Code 3. The technical exclusion of a good or service remains within the competence of the Quality Council pursuant to Code 2.
 
+## Art. 9-bis — Gradual application of technological sovereignty
+
+1.  In implementation of Article 38.6 of the Constitution, until the closure of the transition the obligation to possess physically the hardware of every system used, provided for by Article 19.4 of the Constitution, and the obligation to use only open-source AI, provided for by Article 19.5, apply gradually as follows:
+
+    a) the use of a system hosted on external infrastructure or incorporating an AI model that is not open source is permitted only if the dependency is admitted as residual and surmountable pursuant to Article 5, paragraph 2, letter b), of Code 2, or as temporary pursuant to Articles 2, paragraph 1, 8, paragraph 2, and 10, paragraph 3, of Code 7, and is entered in the Dependency Register with the Substitution Plan or the Exit Plan;
+
+    b) gradual application does not allow closed code or models that are not open source to be used for Management AIs, for the algorithms of Article 2, paragraph 5, of Code 7, for the personal AI and for the consultation and voting systems of Article 34.4 of the Constitution;
+
+    c) the systems of letter a) installed at the Community do not receive automatic or remote updates; every update is verified by the Network Council before installation and is reversible, pursuant to Article 5-ter, paragraph 7, of Code 7;
+
+    d) gradual application ceases for each system on the expiry of its Plan and, in any case, with the closure of the transition.
+
+2.  The use of systems whose source code is not available follows, during the transition and after it, Article 19.4 of the Constitution, Article 5, paragraph 2, letter b), and Article 12, paragraph 5, of Code 2.
+
 ## Art. 10 — Closure of the transition, memory and precedence
 
-1.  The closure of the transition shall be resolved by the General Assembly by a qualified majority of two thirds, in accordance with Articles 13 and 14 of Code 3. The resolution shall be preceded by:
+1.  The closure of the transition shall be resolved, for each minimum Federation, by its General Assembly by a qualified majority of two thirds, in accordance with Articles 13 and 14 of Code 3. The resolution shall be preceded by:
 
     a) the mandatory opinion of the federated Councils;
 
@@ -299,7 +338,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
 2.  The declaration of closure produces the following effects:
 
-    a) this Code shall cease to produce normative effects;
+    a) this Code shall cease to produce normative effects for the minimum Federation that has resolved the closure, pursuant to Article 1, paragraph 3, and the minimum Federation is constituted as an Extended Circle pursuant to Article 14-bis of Code 3;
 
     b) the provisional inventories, the minutes of the Transition Councils and the resolutions on changes of phase shall remain preserved as historical memory in accordance with Code 7;
 
@@ -311,7 +350,7 @@ allineamento: "Constitution V.30; Code 1 V1.7; Code 2 V1.5; Code 3 V1.5; Code 4 
 
     a) to the Constitution;
 
-    b) to the mandatory rules identified by Article 2, paragraph 2, of Code 3;
+    b) to the mandatory rules of the Constitution and of the Codes, that is, those that do not admit derogation by the deciding bodies, referred to in Article 2, paragraph 2, of Code 3;
 
     c) to the binding negative opinions provided for by Article 8 of Code 3.
 

@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 8 — DE L’ÉNERGIE ET DE L’EAU"
 breve: "Code 8 — Énergie et eau"
-versione: "V1.4"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 8
 id: "codice-08"
 slug: "code-08"
-allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5 ; Code 4 V1.5 ; Code 5 V1.4 ; Code 6 V1.6 ; Code 7 V1.7 ; C.1-Annex A V1.4 ; Code 9 V3.1 ; Code 10 V1.5 ; Code 11 V1.4 ; Code 12 V1.4 ; Code 13 V1.5 ; Code 14 V1.3 ; Code 15 V1.4 ; Code 16 V1.4."
+allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 15 V1.7 ; Code 16 V1.7."
 ---
 
 ## Art. 1 — Objet et nature juridique
@@ -37,7 +37,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
 2.  **Sobriété prioritaire.** La réduction des besoins précède l’augmentation de la production. Chaque Plan CBO comprend un bilan énergétique et les mesures d’efficacité applicables.
 
-3.  **Priorité d’usage et gestion de la pénurie.** La hiérarchie prévue par l’article 32 du Code 1 s’applique :
+3.  **Priorité d’usage et gestion de la pénurie.** Sans préjudice de l’article 32 du Code 1, les usages de l’énergie sont ordonnés comme suit :
 
     a) niveau 1 : urgences vitales et part minimale garantie du Panier énergie ;
 
@@ -49,7 +49,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     e) niveau 5 : autres usages.
 
-4.  Le niveau 1 constitue un seuil minimal de continuité et ne peut pas être réduit, sauf impossibilité matérielle ou urgence extrême documentée. En cas d’urgence sanitaire collective, l’article 2-bis du Code 6 s’applique pour les aspects pertinents ; dans les autres cas, les procédures d’urgence du Code 3 s’appliquent.
+4.  Le niveau 1 constitue un seuil minimal de continuité et ne peut pas être réduit, sauf impossibilité matérielle temporaire, selon l’alinéa 5. En cas d’urgence sanitaire collective, l’article 2-bis du Code 6 s’applique pour les aspects pertinents ; dans les autres cas, les procédures d’urgence du Code 3 s’appliquent.
 
 5.  En cas de pénurie, l’Assemblée délibère les réductions sur proposition du Conseil Énergie et Eau, en les appliquant progressivement du niveau 5 vers les niveaux supérieurs. Le niveau 1 ne peut être réduit qu’en cas d’impossibilité technique temporaire, avec activation immédiate de la procédure de mutualisme fédéré et communication au Cercle de garantie.
 
@@ -73,7 +73,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     c) propose et met à jour les STV des installations conformément au Code 2 ;
 
-    d) gère le bilan énergétique du Cercle et le micro-réseau ;
+    d) gère le bilan énergétique du Cercle et le micro-réseau et constitue l’assemblée technique de l’article 15.3 de la Constitution pour le dispatching ordinaire ; la reprise en main manuelle locale s’exerce selon l’article 6, alinéa 1, du présent Code et l’article 5-ter du Code 7 ;
 
     e) organise la formation L1 en matière de sécurité électrique ;
 
@@ -111,7 +111,7 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 
     g) maintenir en fonctionnement l’Entrepôt Santé et le nœud Réseau.
 
-2.  L’accès au Panier énergie ne peut pas être subordonné à la CBO, à la possession de compétences ou à la présence physique en un lieu déterminé.
+2.  L’accès au Panier énergie ne peut pas être subordonné à la CBO, à la possession de compétences ou à la présence physique en un lieu déterminé. L’énergie essentielle à la santé et à la survie est garantie à toute personne se trouvant sur le territoire dont le Cercle a la garde, en application de l’article 15.2 de la Constitution.
 
 3.  L’indisponibilité de la part minimale nécessaire à un besoin vital constitue une urgence de niveau 1.
 
@@ -139,7 +139,8 @@ allineamento: "Constitution V.30 ; Code 1 V1.7 ; Code 2 V1.5 ; Code 3 V1.5
 2.  L’accès au Panier eau ne peut pas être subordonné à la CBO, à la possession de compétences ou à la présence physique en un lieu déterminé. L’eau potable est garantie à toute personne se trouvant sur le territoire dont le Cercle a la garde, en application des articles 1.3 et 4.9 de la Constitution.
 3.  La part minimale garantie est déterminée par l’Assemblée sur proposition du Conseil Énergie et Eau, avec l’avis du Conseil Santé. En première application, elle n’est pas inférieure à cinquante litres par personne et par jour.
 4.  L’indisponibilité de la part minimale constitue une urgence de niveau 1.
-5.  En cas de pénurie, l’eau potable à usage humain et celle nécessaire aux services de santé et de soin priment sur tout autre usage. Pour les usages agricoles, les priorités de l’article 10, alinéa 8, du Code 9 s’appliquent.
+5.  En cas de pénurie, l’eau potable à usage humain et celle nécessaire aux services de santé et de soin, dans la limite du quota minimal garanti de l’alinéa 3, priment sur tout autre usage. La répartition de l’eau disponible, y compris celle destinée aux animaux et aux usages agricoles, suit les priorités de l’article 10, alinéa 8, du Code 9.
+6.  La part minimale garantie de l’alinéa 3 ne peut être réduite qu’en cas d’impossibilité technique temporaire, par délibération de l’Assemblée en application de l’article 19, alinéa 3, du Code 1 ou, en cas d’urgence, selon les procédures d’urgence du Code 3. Sont engagés sans délai le mutualisme entre Cercles de l’article 30 du Code 1 et, lorsque le Solde prévu par le Code 15 est actif, la demande par l’intermédiaire du Pool en tant que besoin vital immédiat en application de son article 8, alinéa 2, lettre a) ; lorsque les conditions en sont réunies, l’activation du Protocole de solidarité est demandée en application de l’article 36.2 de la Constitution. La réduction est communiquée sans délai au Cercle de garantie. À l’intérieur de la part minimale, l’eau à boire et l’eau nécessaire à la santé sont réduites en dernier.
 
 ## Art. 5 — Production, STV et sources d’énergie
 
