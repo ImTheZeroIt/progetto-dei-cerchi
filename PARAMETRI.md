@@ -76,6 +76,7 @@ Sono numeri fissati per rendere applicabili le norme. Non hanno una fonte estern
 | Sistemi senza codice sorgente | ammessi al più per 12 mesi, prorogabili una volta di 12, con Piano di Sostituzione pubblico; mai per i sistemi che propongono o decidono su diritti, voto e Beni Comuni | Cost. 19.4; Cod. 2, artt. 5, c. 2, lett. b), e 12 | Media | Elenco dei dispositivi della dotazione minima di Rete (Cod. 7, art. 3, c. 9) per i quali non esiste un'alternativa aperta. |
 | Osservazioni sulla STV provvisoria di un bene nuovo | almeno 72 ore | Cod. 2, art. 14, c. 1-bis | Bassa | Origine: la finestra di pubblicazione del Cod. 3, art. 4, c. 2, lett. b). Prova: caso di prova sull'ammissione di un bene. |
 | Ricorsi sulle decisioni dei Cerchi 2 e 3 | 3 componenti sorteggiati dai Cerchi di Garanzia di Comunità diverse | Cod. 3, art. 17, c. 1-bis | Bassa | Origine: scelta di redazione, il numero più piccolo che permette una maggioranza. Prova: carico dei ricorsi in un Bacino. |
+| Verifica dell'equivalenza al confine di una Comunità associata | conclusa entro 90 giorni; ricorsi sui diritti decisi da 3 componenti sorteggiati dai Cerchi di Garanzia di altre Comunità | Cod. 15, art. 21, c. 2; art. 21-bis, c. 5 e 6 | Bassa | Origine: il termine già previsto per la verifica dell'adesione (Cod. 15, art. 21, c. 2) e il collegio del Cod. 3, art. 17, c. 1-bis; decisione dell'autore del 26 ottobre 2026. Prova: caso di prova con una comunità esistente (cassa comune o ecovillaggio). |
 
 ## 3. Valori che i testi chiedono e che mancano
 

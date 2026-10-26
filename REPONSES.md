@@ -178,6 +178,13 @@ Les textes prévoient un démarrage par phases. On part d’un Cercle pilote d�
 Mots: comment commencer, transition, premiers pas, fonder une communauté, cercle pilote, démarrage, lancement, participer, combien de temps, écovillage, phases, par où commencer, commencer
 Où: Code 16, art. 3; Code 16, art. 2; Annexe C, art. 2
 
+### Une communauté qui existe déjà doit-elle changer sa façon de vivre pour entrer ?
+
+Non. Une communauté qui existe déjà, par exemple avec une caisse commune ou un écovillage, peut entrer comme Communauté associée et garder ses propres règles internes. Elle doit respecter les règles de base pour tous : les droits des personnes, la protection des animaux et de la nature, pas d’armes, et les règles qui ne peuvent jamais être changées, dont des charges tirées au sort et tournantes et aucun vote par délégation. Envers les autres Communautés, elle doit garantir quelques points : les droits de chaque personne, y compris partir et demander l’aide d’organes communs ; les comptes des ressources dans le format commun ; une part de travail pour les services communs, comptée pour toute la communauté ; des personnes pour les tirages au sort des organes communs ; le vote secret de chacun dans les assemblées générales ; les mêmes règles de qualité pour les biens échangés. La vérification dure au plus quatre-vingt-dix jours et ne juge pas les idées. S’il manque quelque chose, on convient d’un plan qui ne change que ces points ; personne ne l’impose. La communauté peut aussi adopter les Codes, tous ou un à la fois.
+
+Mots: communauté existante, écovillage, commune, caisse commune, communauté solidaire, adhérer, entrer, communauté associée, changer de vie, règles internes, équivalence, existe déjà
+Où: Const. 4.5; Code 15, art. 21-bis; Code 15, art. 21; Code 16, art. 3, al. 7
+
 ### Et les rapports avec l’État : impôts, achats, commerce ?
 
 Tant qu’il existe un monde extérieur, les textes demandent de respecter les lois locales et les obligations fiscales. Les échanges de la Communauté avec l’extérieur passent par une Caisse commune et servent à couvrir ce qu’on ne produit pas encore, pas à faire du profit. Qui a un revenu extérieur le conserve et en verse une part à la Caisse : en première application un dixième, jamais plus d’un cinquième.

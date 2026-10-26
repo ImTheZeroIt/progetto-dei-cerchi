@@ -178,6 +178,13 @@ I testi prevedono un avvio per fasi. Si parte con un Cerchio pilota di almeno tr
 Parole: come iniziare, transizione, primi passi, fondare una comunità, cerchio pilota, avvio, partecipare, quanto tempo, ecovillaggio, fasi, da dove si parte, cominciare
 Dove: Cod. 16, art. 3; Cod. 16, art. 2; All. C, art. 2
 
+### Una comunità che esiste già deve cambiare il proprio modo di vivere per entrare?
+
+No. Una comunità che esiste già, per esempio con una cassa comune o un ecovillaggio, può entrare come Comunità associata e tenere le proprie regole interne. Deve rispettare le regole di base per tutti: i diritti delle persone, la tutela degli animali e della natura, niente armi, e le regole che non si possono mai cambiare, tra cui incarichi sorteggiati e a rotazione e nessun voto per delega. Verso le altre Comunità deve garantire alcune cose: i diritti di ogni persona, compresi andarsene e chiedere aiuto a organi comuni; i conti delle risorse nel formato comune; una parte di lavoro per i servizi comuni, contata per tutta la comunità; persone per i sorteggi degli organi comuni; il voto segreto di ciascuno nelle assemblee generali; le stesse regole di qualità per i beni scambiati. La verifica dura al massimo novanta giorni e non giudica le idee. Se manca qualcosa, si concorda un piano che cambia solo questi punti; nessuno lo impone. La comunità può anche adottare i Codici, tutti o uno alla volta.
+
+Parole: comunità esistente, ecovillaggio, comune, cassa comune, comunità solidale, aderire, entrare, comunità associata, cambiare vita, regole interne, equivalenza, già esiste
+Dove: Cost. 4.5; Cod. 15, art. 21-bis; Cod. 15, art. 21; Cod. 16, art. 3, c. 7
+
 ### E i rapporti con lo Stato: tasse, acquisti, commercio?
 
 Finché esiste un mondo esterno, i testi chiedono di rispettare le leggi del luogo e gli obblighi fiscali. Gli scambi della Comunità con l'esterno passano da una Cassa comune e servono a coprire ciò che non si produce ancora, non a fare profitto. Chi ha un reddito esterno lo conserva e versa una quota alla Cassa: in prima applicazione un decimo, mai più di un quinto.

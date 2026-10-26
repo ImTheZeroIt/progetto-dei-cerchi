@@ -178,6 +178,13 @@ Los textos prevén un inicio por fases. Se parte de un Círculo piloto de al men
 Palabras: cómo empezar, transición, primeros pasos, fundar una comunidad, círculo piloto, inicio, participar, cuánto tiempo, ecoaldea, fases, por dónde se empieza
 Dónde: Cód. 16, art. 3; Cód. 16, art. 2; Anexo C, art. 2
 
+### ¿Una comunidad que ya existe tiene que cambiar su forma de vivir para entrar?
+
+No. Una comunidad que ya existe, por ejemplo con una caja común o una ecoaldea, puede entrar como Comunidad asociada y conservar sus propias reglas internas. Debe respetar las reglas básicas para todos: los derechos de las personas, la protección de los animales y de la naturaleza, nada de armas, y las reglas que no se pueden cambiar nunca, entre ellas cargos sorteados y rotatorios y ningún voto por delegación. Ante las demás Comunidades debe garantizar algunas cosas: los derechos de cada persona, incluidos irse y pedir ayuda a órganos comunes; las cuentas de los recursos en el formato común; una parte de trabajo para los servicios comunes, contada para toda la comunidad; personas para los sorteos de los órganos comunes; el voto secreto de cada uno en las asambleas generales; las mismas reglas de calidad para los bienes intercambiados. La verificación dura como máximo noventa días y no juzga las ideas. Si falta algo, se acuerda un plan que cambia solo esos puntos; nadie lo impone. La comunidad también puede adoptar los Códigos, todos o uno a uno.
+
+Palabras: comunidad existente, ecoaldea, comuna, caja común, comunidad solidaria, adherirse, entrar, comunidad asociada, cambiar de vida, reglas internas, equivalencia, ya existe
+Dónde: Const. 4.5; Cód. 15, art. 21-bis; Cód. 15, art. 21; Cód. 16, art. 3, ap. 7
+
 ### ¿Y las relaciones con el Estado: impuestos, compras, comercio?
 
 Mientras exista un mundo exterior, los textos piden respetar las leyes del lugar y las obligaciones fiscales. Los intercambios de la Comunidad con el exterior pasan por una Caja común y sirven para cubrir lo que todavía no se produce, no para obtener beneficio. Quien tiene un ingreso exterior lo conserva y aporta una parte a la Caja: en primera aplicación una décima parte, nunca más de una quinta.

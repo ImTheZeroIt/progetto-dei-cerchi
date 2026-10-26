@@ -178,6 +178,13 @@ The texts provide for a start in phases. It begins with a pilot Circle of at lea
 Words: how to begin, transition, first steps, found a community, pilot circle, start, take part, how long, ecovillage, phases, where to start
 Where: Code 16, art. 3; Code 16, art. 2; Annex 16-C, art. 2
 
+### Does a community that already exists have to change its way of life to join?
+
+No. A community that already exists, for example one with a common purse or an ecovillage, can join as an associated Community and keep its own internal rules. It must respect the basic rules for everyone: the rights of persons, the protection of animals and nature, no weapons, and the rules that can never be changed, including offices drawn by lot and rotated and no proxy voting. Towards the other Communities it must guarantee a few things: the rights of every person, including leaving and asking common bodies for help; the accounts of resources in the common format; a share of work for common services, counted for the whole community; people for the draws of the common bodies; everyone’s secret vote in the general assemblies; the same quality rules for the goods exchanged. The check takes at most ninety days and does not judge ideas. If something is missing, a plan is agreed that changes only these points; nobody imposes it. The community can also adopt the Codes, all of them or one at a time.
+
+Words: existing community, ecovillage, commune, common purse, solidarity community, join, enter, associated community, change of life, internal rules, equivalence, already exists
+Where: Const. 4.5; Code 15, art. 21-bis; Code 15, art. 21; Code 16, art. 3, para. 7
+
 ### And relations with the State: taxes, purchases, trade?
 
 As long as an outside world exists, the texts ask for local law and tax obligations to be respected. The Community's exchanges with the outside go through a Common Fund and serve to cover what is not yet produced, not to make a profit. Those who have an outside income keep it and pay a share to the Fund: in first application one tenth, never more than one fifth.
