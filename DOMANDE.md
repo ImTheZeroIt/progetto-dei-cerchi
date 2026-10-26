@@ -173,10 +173,10 @@ Dove: Cost. 38.1; Cost. 4.9; Cost. 4.9-bis; Cost. 4.9-ter; Cost. 1.3; Cod. 10, a
 
 ### Come si comincia?
 
-I testi prevedono un avvio per fasi. Si parte con un Cerchio pilota di almeno trenta persone che aderiscono per scelta, nel rispetto delle leggi del luogo. Poi tre o quattro Cerchi vicini si uniscono, e nessuna fase si supera prima di avere verificato le sue soglie. Nessuno può essere spinto a lasciare il lavoro esterno o a conferire beni. I testi non dicono come ottenere terra ed edifici.
+I testi prevedono due strade, entrambe per fasi e nel rispetto delle leggi del luogo. La prima parte da un Cerchio pilota di almeno trenta persone che aderiscono per scelta: poi tre o quattro Cerchi vicini si uniscono, e nessuna fase si supera prima di avere verificato le sue soglie. La seconda parte da dove le persone vivono già: reti di mutuo aiuto e magazzini di quartiere che si collegano tra loro e, quando sono pronti, diventano Cerchi con l'adesione di ciascuno; da lì seguono le stesse fasi. Nessuno può essere spinto a lasciare il lavoro esterno o a conferire beni. I testi non dicono come ottenere terra ed edifici.
 
-Parole: come iniziare, transizione, primi passi, fondare una comunità, cerchio pilota, avvio, partecipare, quanto tempo, ecovillaggio, fasi, da dove si parte, cominciare
-Dove: Cod. 16, art. 3; Cod. 16, art. 2; All. C, art. 2
+Parole: come iniziare, transizione, primi passi, fondare una comunità, cerchio pilota, avvio, partecipare, quanto tempo, ecovillaggio, fasi, da dove si parte, cominciare, mutuo aiuto, rete di quartiere, magazzino di quartiere
+Dove: Cod. 16, art. 3; Cod. 16, art. 11; Cod. 16, art. 17; Cod. 16, art. 2; All. C, art. 2
 
 ### Una comunità che esiste già deve cambiare il proprio modo di vivere per entrare?
 

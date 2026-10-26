@@ -173,10 +173,10 @@ Où: Const. 38.1; Const. 4.9; Const. 4.9-bis; Const. 4.9-ter; Const. 1.3; Code 1
 
 ### Comment commence-t-on ?
 
-Les textes prévoient un démarrage par phases. On part d’un Cercle pilote d’au moins trente personnes qui adhèrent par choix, dans le respect des lois locales. Ensuite, trois ou quatre Cercles voisins s’unissent, et aucune phase n’est franchie avant que ses seuils aient été vérifiés. Personne ne peut être poussé à quitter son travail à l’extérieur ni à apporter des biens. Les textes ne disent pas comment obtenir des terres et des bâtiments.
+Les textes prévoient deux parcours, tous deux par phases et dans le respect des lois locales. Le premier part d’un Cercle pilote d’au moins trente personnes qui adhèrent par choix : ensuite, trois ou quatre Cercles voisins s’unissent, et aucune phase n’est franchie avant que ses seuils aient été vérifiés. Le second part de là où les personnes vivent déjà : des réseaux d’entraide et des entrepôts de quartier qui se relient entre eux et, quand ils sont prêts, deviennent des Cercles par l’adhésion de chacun ; de là, ils suivent les mêmes phases. Personne ne peut être poussé à quitter son travail à l’extérieur ni à apporter des biens. Les textes ne disent pas comment obtenir des terres et des bâtiments.
 
-Mots: comment commencer, transition, premiers pas, fonder une communauté, cercle pilote, démarrage, lancement, participer, combien de temps, écovillage, phases, par où commencer, commencer
-Où: Code 16, art. 3; Code 16, art. 2; Annexe C, art. 2
+Mots: comment commencer, transition, premiers pas, fonder une communauté, cercle pilote, démarrage, lancement, participer, combien de temps, écovillage, phases, par où commencer, commencer, entraide, réseau de quartier, entrepôt de quartier
+Où: Code 16, art. 3; Code 16, art. 11; Code 16, art. 17; Code 16, art. 2; Annexe C, art. 2
 
 ### Une communauté qui existe déjà doit-elle changer sa façon de vivre pour entrer ?
 

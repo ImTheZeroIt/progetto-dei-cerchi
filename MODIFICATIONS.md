@@ -6,6 +6,23 @@ Ceci est la première version publique : Constitution V.29 et Codes alignés, 
 
 # Modifications
 
+## 26 octobre 2026 — Code 16 : le parcours des réseaux
+
+Par décision de l’auteur, le Code 16 comporte désormais deux parcours vers la Confédération. Les Phases 0–4, les seuils et les Annexes A, B et C restent tels qu’ils étaient et deviennent le parcours des Cercles pilotes, laboratoires où les règles sont mises à l’épreuve. À côté s’ajoute le parcours des réseaux, dans lequel les personnes commencent là où elles vivent.
+
+- **Deux parcours** (Code 16, art. 1.1, 1.2 k–q, 1.3, 3.8 et 11). Le parcours des réseaux a cinq phases : A Semences, B Tache d’huile, C Boycott, D Conversion, E Confédération. Les deux parcours se rejoignent à la conversion : le Cercle 1 né d’un réseau entre en Phase 0 et parcourt les Phases 0–4 comme tout Cercle pilote, sans seuils abrégés ; la Phase E comprend les Phases 1–4.
+- **Réseaux et formes juridiques** (art. 11.3–4 et 12). Réseaux d’entraide et entrepôts de quartier ; biens communs inscrits dès le début au nom d’associations ou de coopératives. Jusqu’au choix des personnes, personne ne cesse de payer quoi que ce soit. Les communautés solidaires qui existent déjà sont les premiers nœuds et n’ont pas à changer (Const. 4.5 ; Code 15, art. 21 et 21-bis).
+- **Liaison, pactes et essais licites** (art. 13). Carte des filières essentielles, pactes personnels et révocables avec celles et ceux qui travaillent dans l’eau, l’énergie, l’alimentation et la santé, formation de celles et ceux qui assurent la relève, essais où personne ne cesse de payer, avec des résultats publics.
+- **Seuil, vérification et vote** (art. 14). Six mois de Panier d’urgence pour tous les participants et des pactes signés dans les quatre filières (douze mois et un plan pour les importations pour un pays qui part seul) ; vérification par trois personnes tirées au sort dans d’autres réseaux, avec des données publiques ; vote individuel et secret, approuvé par la majorité des participants ayant le droit de vote de chaque réseau, avec une date commune entre plusieurs pays et un avis juridique avant le premier vote.
+- **Le boycott n’est pas une règle** (art. 2.7 et 15). C’est un choix politique, non violent et collectif des personnes des réseaux, dont chacun répond personnellement ; les entités ne le délibèrent pas. Le Code ne régit que ce qui est licite : caisses de solidarité, assistance juridique, services ouverts à tous.
+- **Travailleurs essentiels et services ouverts à tous** (art. 16 ; Code 15, art. 19.3). Celles et ceux qui travaillent dans les services essentiels continuent de servir chacun ; ils reçoivent en premier le Panier d’urgence, font des tours de service courts avec relève et, après la conversion, leur travail compte comme CBO.
+- **Conversion** (art. 17). Adhésion individuelle ; réseaux → Cercles 1, entrepôts → Entrepôts communs ; rationnement équitable du Panier d’urgence ; personne ne perd le logement où il vit ; reconnaissance par la loi là où la majorité l’emporte dans les institutions ; qui n’adhère pas reste libre avec ses biens et ses droits.
+- **Importations, groupes promoteurs, portail** (art. 18–20). Trois voies pour les importations ; groupes promoteurs sans chefs, ouverts, autonomes, reliés par un protocole, qui se dissolvent d’eux-mêmes ; portail fédéré, chiffré, à code ouvert, qui recueille peu de données et fonctionne aussi hors ligne, avec le vote du Code 7, art. 7-bis.
+
+Raison : Décisions de l’auteur du 26 octobre 2026 sur le brouillon « Transition par l’entraide et le boycott ». La Constitution, y compris l’art. 38.6 et le Noyau inviolable, n’est pas touchée. Les nouveaux seuils sont des hypothèses du projet (PARAMÈTRES).
+
+Versions : Code 15 de V1.7 à V1.8, Code 16 de V1.7 à V1.8; Constitution inchangée (V.34).
+
 ## 26 octobre 2026 — Communautés associées et équivalence à la frontière
 
 Par décision de l’auteur, le système des Cercles ne vise pas à transformer les communautés qui existent déjà, comme les communautés solidaires à caisse commune ou les écovillages, mais à les rassembler en leur donnant des outils de gestion.

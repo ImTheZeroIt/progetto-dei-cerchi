@@ -6,7 +6,7 @@ gruppo: "codici"
 ordine: 3
 id: "codice-03"
 slug: "codice-03"
-allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.7; Codice 16 V1.7."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.8; Codice 16 V1.8."
 ---
 
 ## CAPO I — PRINCIPI DELIBERATIVI

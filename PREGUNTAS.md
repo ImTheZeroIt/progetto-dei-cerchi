@@ -173,10 +173,10 @@ Dónde: Const. 38.1; Const. 4.9; Const. 4.9-bis; Const. 4.9-ter; Const. 1.3; Có
 
 ### ¿Cómo se empieza?
 
-Los textos prevén un inicio por fases. Se parte de un Círculo piloto de al menos treinta personas que se adhieren por elección, respetando las leyes del lugar. Después se unen tres o cuatro Círculos vecinos, y ninguna fase se supera antes de haber verificado sus umbrales. Nadie puede ser empujado a dejar su trabajo exterior ni a aportar bienes. Los textos no dicen cómo conseguir tierra y edificios.
+Los textos prevén dos caminos, ambos por fases y respetando las leyes del lugar. El primero parte de un Círculo piloto de al menos treinta personas que se adhieren por elección: después se unen tres o cuatro Círculos vecinos, y ninguna fase se supera antes de haber verificado sus umbrales. El segundo parte de donde las personas ya viven: redes de ayuda mutua y almacenes de barrio que se conectan entre sí y, cuando están preparados, se convierten en Círculos con la adhesión de cada uno; desde ahí siguen las mismas fases. Nadie puede ser empujado a dejar su trabajo exterior ni a aportar bienes. Los textos no dicen cómo conseguir tierra y edificios.
 
-Palabras: cómo empezar, transición, primeros pasos, fundar una comunidad, círculo piloto, inicio, participar, cuánto tiempo, ecoaldea, fases, por dónde se empieza
-Dónde: Cód. 16, art. 3; Cód. 16, art. 2; Anexo C, art. 2
+Palabras: cómo empezar, transición, primeros pasos, fundar una comunidad, círculo piloto, inicio, participar, cuánto tiempo, ecoaldea, fases, por dónde se empieza, ayuda mutua, red de barrio, almacén de barrio
+Dónde: Cód. 16, art. 3; Cód. 16, art. 11; Cód. 16, art. 17; Cód. 16, art. 2; Anexo C, art. 2
 
 ### ¿Una comunidad que ya existe tiene que cambiar su forma de vivir para entrar?
 

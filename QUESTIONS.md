@@ -173,10 +173,10 @@ Where: Const. 38.1; Const. 4.9; Const. 4.9-bis; Const. 4.9-ter; Const. 1.3; Code
 
 ### How does it start?
 
-The texts provide for a start in phases. It begins with a pilot Circle of at least thirty people who join by choice, in compliance with local law. Then three or four neighbouring Circles come together, and no phase is passed before its thresholds have been checked. Nobody can be pushed to leave their outside job or to contribute property. The texts do not say how to obtain land and buildings.
+The texts provide for two paths, both in phases and in compliance with local law. The first begins with a pilot Circle of at least thirty people who join by choice: then three or four neighbouring Circles come together, and no phase is passed before its thresholds have been checked. The second begins where people already live: mutual-aid networks and neighbourhood storehouses that link up with one another and, when they are ready, become Circles as each person joins; from there they follow the same phases. Nobody can be pushed to leave their outside job or to contribute property. The texts do not say how to obtain land and buildings.
 
-Words: how to begin, transition, first steps, found a community, pilot circle, start, take part, how long, ecovillage, phases, where to start
-Where: Code 16, art. 3; Code 16, art. 2; Annex 16-C, art. 2
+Words: how to begin, transition, first steps, found a community, pilot circle, start, take part, how long, ecovillage, phases, where to start, mutual aid, neighbourhood network, neighbourhood storehouse
+Where: Code 16, art. 3; Code 16, art. 11; Code 16, art. 17; Code 16, art. 2; Annex 16-C, art. 2
 
 ### Does a community that already exists have to change its way of life to join?
 

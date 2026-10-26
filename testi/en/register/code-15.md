@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 15 — EXTERNAL RELATIONS AND WORLD BALANCE"
 breve: "Code 15 — External relations and Balance"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 15
 id: "codice-15"
 slug: "code-15"
-allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 16 V1.7."
+allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 16 V1.8."
 ---
 
 ## PRELIMINARY TITLE — GENERAL PROVISIONS
@@ -374,7 +374,7 @@ allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 
 
 1.  The Circles may dispose of real surpluses to the outside and provide services, without a profit motive. The proceeds shall be paid into the Common Fund.
 2.  It is prohibited to organise production according to the external market. The share of CBO allocated to production for the outside shall be resolved by the Assembly and shall not exceed the measure necessary to cover the necessary external purchases.
-3.  External working activities carried out by persons during coexistence are free and do not constitute CBO. No one may be induced to abandon them.
+3.  External working activities carried out by persons during coexistence are free and do not constitute CBO, except for work in the essential supply chains that the Circle counts as CBO pursuant to Article 16, paragraph 2, letter d), of Code 16. No one may be induced to abandon them.
 4.  The sharing with the outside of STVs, Sheets, knowledge and free seeds shall be promoted and shall be carried out under free licences.
 
 ### Art. 19-bis — External income and external assets of persons

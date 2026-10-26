@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 15 — RELATIONS EXTÉRIEURES ET SOLDE MONDIAL"
 breve: "Code 15 — Relations extérieures et Solde"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 15
 id: "codice-15"
 slug: "code-15"
-allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 16 V1.7."
+allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 16 V1.8."
 ---
 
 ## TITRE PRÉLIMINAIRE — DISPOSITIONS GÉNÉRALES
@@ -374,7 +374,7 @@ allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7
 
 1.  Les Cercles peuvent céder à l’extérieur des excédents réels et fournir des services, sans but lucratif. Le produit est versé à la Caisse commune.
 2.  Il est interdit d’organiser la production en fonction du marché extérieur. La part de CBO affectée aux productions destinées à l’extérieur est délibérée par l’Assemblée et ne dépasse pas la mesure nécessaire pour couvrir les achats extérieurs nécessaires.
-3.  Les activités professionnelles extérieures exercées par les personnes pendant la coexistence sont libres et ne constituent pas une CBO. Nul ne peut être incité à les abandonner.
+3.  Les activités professionnelles extérieures exercées par les personnes pendant la coexistence sont libres et ne constituent pas une CBO, sauf le travail dans les filières essentielles que le Cercle compte dans la CBO en application de l’article 16, alinéa 2, lettre d), du Code 16. Nul ne peut être incité à les abandonner.
 4.  Le partage avec l’extérieur des STV, des Fiches, des savoirs et des semences libres est encouragé et s’effectue sous licences libres.
 
 ### Art. 19-bis — Revenus et patrimoines extérieurs des personnes

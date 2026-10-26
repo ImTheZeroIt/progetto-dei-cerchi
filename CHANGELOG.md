@@ -6,6 +6,23 @@ From here on, every accepted change will be recorded on this page with its date,
 
 # Changes
 
+## 26 October 2026 — Code 16: the networks path
+
+By the author’s decision, Code 16 now has two paths towards the Confederation. Phases 0–4, the thresholds and Annexes A, B and C remain as they were and become the pilot Circles path, laboratories where the rules are tested. Alongside it comes the networks path, in which people begin where they live.
+
+- **Two paths** (Code 16, Arts. 1.1, 1.2 k–q, 1.3, 3.8 and 11). The networks path has five phases: A Seeds, B Oil spot, C Boycott, D Conversion, E Confederation. The two paths meet at the conversion: the Circle 1 born from a network enters Phase 0 and goes through Phases 0–4 like every pilot Circle, with no shortened thresholds; Phase E comprises Phases 1–4.
+- **Networks and legal forms** (Arts. 11.3–4 and 12). Mutual-aid networks and neighbourhood storehouses; common goods registered from the start in the name of associations or cooperatives. Until the choice of the persons, no one stops paying anything. The solidarity communities that already exist are the first nodes and do not have to change (Const. 4.5; Code 15, Arts. 21 and 21-bis).
+- **Connection, pacts and lawful trials** (Art. 13). Map of the essential supply chains, personal and revocable pacts with those who work in water, energy, food and health care, training of those who provide relief, trials in which no one stops paying, with public results.
+- **Threshold, verification and vote** (Art. 14). Six months of Emergency Basket for all participants and pacts signed in the four supply chains (twelve months and a plan for imports for a country that starts alone); verification by three persons drawn by lot from other networks, with public data; individual and secret vote, approved by the majority of the participants entitled to vote in each network, with a common date across several countries and a legal opinion before the first vote.
+- **The boycott is not a rule** (Arts. 2.7 and 15). It is a political, non-violent and collective choice of the persons of the networks, for which each person answers personally; the entities do not resolve on it. The Code governs only what is lawful: solidarity funds, legal assistance, services open to everyone.
+- **Essential workers and services open to everyone** (Art. 16; Code 15, Art. 19.3). Those who work in essential services continue to serve everyone; they receive the Emergency Basket first, work short shifts with relief and, after the conversion, their work counts as CBO.
+- **Conversion** (Art. 17). Individual accession; networks → Circles 1, storehouses → Common Storehouses; fair rationing of the Emergency Basket; no one loses the home they live in; recognition by law where the majority wins in the institutions; those who do not accede remain free with their goods and rights.
+- **Imports, promoting groups, portal** (Arts. 18–20). Three routes for imports; promoting groups without leaders, open, autonomous, connected by a protocol, which dissolve themselves; a federated, encrypted, open-source portal that collects little data and also works offline, with the vote of Code 7, Art. 7-bis.
+
+Reason: The author’s decisions of 26 October 2026 on the draft “Transition through mutual aid and boycott”. The Constitution, including Art. 38.6 and the Inviolable Core, is not touched. The new thresholds are hypotheses of the project (PARAMETERS).
+
+Versions: Code 15 from V1.7 to V1.8, Code 16 from V1.7 to V1.8; Constitution unchanged (V.34).
+
 ## 26 October 2026 — Associated Communities and equivalence at the boundary
 
 By the author’s decision, the system of Circles does not aim to transform communities that already exist, such as solidarity communities with a common purse or ecovillages, but to bring them together by offering management tools.

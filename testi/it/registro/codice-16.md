@@ -1,17 +1,17 @@
 ---
 titolo: "CODICE 16 — TRANSIZIONE E AVVIO DELLA CONFEDERAZIONE"
 breve: "Codice 16 — Transizione e avvio"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 16
 id: "codice-16"
 slug: "codice-16"
-allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.7."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.8."
 ---
 
 ## Art. 1 — Oggetto, definizioni e natura temporanea
 
-1.  Il presente Codice disciplina le fasi, le soglie, le competenze transitorie e le procedure di avvio della Confederazione, nonché il passaggio dallo stato pre-confederale a quello confederale operativo.
+1.  Il presente Codice disciplina le fasi, le soglie, le competenze transitorie e le procedure di avvio della Confederazione, nonché il passaggio dallo stato pre-confederale a quello confederale operativo. Disciplina due percorsi che conducono alla stessa Confederazione: il percorso dei Cerchi pilota, con le Fasi 0–4 degli articoli 3 e 4, e il percorso delle reti, con le Fasi A–E degli articoli 11–20.
 
 2.  Ai fini del presente Codice si intende per:
 
@@ -33,9 +33,23 @@ allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; C
 
     i) **livelli di rischio R0-R4**: i livelli definiti dall’articolo 1, comma 3, del Codice 14. Fino all’attivazione di tale Codice, gli stessi livelli sono attribuiti in via provvisoria dal Consiglio Salute nelle Schede di Sicurezza previste dall’articolo 4 del Codice 6;
 
-    j) **Carta Operativa del Primo Anno**: l’Allegato Tecnico C al presente Codice, adottato secondo l’articolo 19 del Codice 3, che riunisce le regole minime necessarie all’avvio di un Cerchio pilota senza introdurre obblighi autonomi.
+    j) **Carta Operativa del Primo Anno**: l’Allegato Tecnico C al presente Codice, adottato secondo l’articolo 19 del Codice 3, che riunisce le regole minime necessarie all’avvio di un Cerchio pilota senza introdurre obblighi autonomi;
 
-3.  Il presente Codice ha natura temporanea e cessa di produrre effetti normativi, per ciascuna Federazione minima, con la dichiarazione di chiusura di cui all’articolo 10, salve le disposizioni di memoria ivi previste. Continua ad applicarsi ai Cerchi pilota, ai Bacini e alle Federazioni minime che non hanno chiuso la transizione, compresi quelli che si costituiscono o aderiscono dopo, ai sensi dell’articolo 21 del Codice 15; alla Comunità associata dell’articolo 21-bis del Codice 15 si applica nei limiti dell’articolo 3, comma 7, lettera f). Non può istituire diritti, obblighi o competenze permanenti oltre il periodo di transizione, né modificare il contenuto sostanziale dei Codici 1–15. Le sue disposizioni non costituiscono modifica dei Codici ai sensi degli articoli 37 e 38 della Costituzione. In caso di contrasto prevale la Costituzione.
+    k) **percorso dei Cerchi pilota**: il percorso delle Fasi 0–4 degli articoli 3 e 4, nel quale i Cerchi pilota vivono già secondo le regole e le provano prima che servano a tutti;
+
+    l) **percorso delle reti**: il percorso delle Fasi A–E degli articoli 11–20, nel quale le persone costruiscono reti di mutuo aiuto dove già vivono, nel rispetto dell’ordinamento vigente, fino alla loro conversione in Cerchi;
+
+    m) **rete**: una rete di mutuo aiuto di quartiere, di paese o di condominio collegata al percorso delle reti ai sensi dell’articolo 12, comma 1;
+
+    n) **magazzino di quartiere**: la scorta comune di una rete, come alimenti a lunga conservazione, medicine di base, attrezzi e ricambi, intestata a un ente ai sensi dell’articolo 12, comma 3;
+
+    o) **partecipante**: la persona che dichiara di partecipare a una rete, anche senza nome pubblico; ai fini della soglia dell’articolo 14 sono contate anche le persone che vivono con lei e dipendono da lei;
+
+    p) **Paniere d’emergenza**: i beni indispensabili alla vita e alla salute di ogni persona, cioè alimenti, acqua potabile dove la rete deve garantirla, medicine di base e beni per l’igiene, nelle quantità della lista pubblica dell’articolo 14, comma 2;
+
+    q) **filiere essenziali**: le attività che assicurano nel territorio acqua, energia, cibo e sanità, compresi il trasporto e la distribuzione che servono a esse.
+
+3.  Il presente Codice ha natura temporanea e cessa di produrre effetti normativi, per ciascuna Federazione minima, con la dichiarazione di chiusura di cui all’articolo 10, salve le disposizioni di memoria ivi previste. Continua ad applicarsi ai Cerchi pilota, ai Bacini e alle Federazioni minime che non hanno chiuso la transizione, compresi quelli che si costituiscono o aderiscono dopo, ai sensi dell’articolo 21 del Codice 15; alla Comunità associata dell’articolo 21-bis del Codice 15 si applica nei limiti dell’articolo 3, comma 7, lettera f). Alle reti si applica dal loro collegamento al percorso delle reti fino alla loro conversione ai sensi dell’articolo 17; ai Cerchi nati dalle reti si applica come ai Cerchi pilota, ai sensi del comma 8 dello stesso articolo. Non può istituire diritti, obblighi o competenze permanenti oltre il periodo di transizione, né modificare il contenuto sostanziale dei Codici 1–15. Le sue disposizioni non costituiscono modifica dei Codici ai sensi degli articoli 37 e 38 della Costituzione. In caso di contrasto prevale la Costituzione.
 
 4.  La qualificazione transitoria di un bene, di una funzione o di una competenza non ne determina il regime permanente.
 
@@ -63,7 +77,7 @@ allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; C
 4.  **Effettività.** È vietata la costituzione meramente formale di Cerchi, Bacini o Federazioni privi di continuità territoriale, attività effettiva o censimento verificabile.
 5.  **Trasparenza.** Le fasi, le soglie, i censimenti, le deliberazioni e i piani sono pubblicati secondo l’articolo 15 del Codice 3 e sottoposti a un periodo di osservazioni di almeno settantadue ore. I dati personali sono esclusi o aggregati secondo il Codice 7, articolo 2.2.
 6.  **Non mercificazione.** È vietata la costituzione di rendite sull’avvio della Confederazione, sui beni comuni conferiti durante la transizione o sulle competenze salvavita.
-7.  **Legalità e coesistenza.** Durante la transizione i Cerchi operano nel rispetto dell’ordinamento giuridico vigente nel territorio, ai sensi dell’articolo 38.6 della Costituzione. Si applicano l’articolo 37 del Codice 4 e il Capo IV del Codice 15.
+7.  **Legalità e coesistenza.** Durante la transizione i Cerchi operano nel rispetto dell’ordinamento giuridico vigente nel territorio, ai sensi dell’articolo 38.6 della Costituzione. Si applicano l’articolo 37 del Codice 4 e il Capo IV del Codice 15. Allo stesso modo operano le reti, gli enti che ne custodiscono i beni e i gruppi promotori: il presente Codice regola soltanto attività lecite e non regola il boicottaggio, che resta la scelta delle persone prevista dall’articolo 15.
 8.  **Volontarietà.** L’adesione è individuale e volontaria. Nessuno può essere indotto a cessare attività esterne, a conferire beni o a rinunciare a diritti riconosciuti dall’ordinamento vigente. Resta fermo il contributo proporzionale sui redditi esterni previsto dall’articolo 19-bis del Codice 15, reso noto prima dell’adesione.
 9.  **Redditi esterni messi in comune.** Durante la transizione, nel rispetto dell’ordinamento vigente ai sensi dell’articolo 38.6 della Costituzione, i membri di una Comunità associata ai sensi dell’articolo 21-bis del Codice 15 possono mettere in comune volontariamente i redditi e i patrimoni che detengono fuori dalla Confederazione ai sensi dell’articolo 3.5-ter della Costituzione e ridistribuirli tra loro per le spese esterne personali. Il fondo così formato è fatto di redditi e patrimoni personali esterni: è distinto dalla Cassa comune del Cerchio prevista dall’articolo 3.5-bis della Costituzione e dall’articolo 17 del Codice 15 e non ne fa parte. Non dà accesso ai Magazzini, al CdR, ai Beni Comuni o alle decisioni; non è ripartito in proporzione al lavoro né come suo compenso e non può essere impiegato per acquistare lavoro o consenso, ai sensi dell’articolo 19-bis, comma 2, del Codice 15. Ogni membro può ritirarsene in ogni momento. Resta fermo il contributo proporzionale alle spese esterne comuni dell’articolo 3.5-ter della Costituzione e dell’articolo 19-bis del Codice 15. La facoltà cessa quando cessano i mezzi di pagamento esterni, ai sensi dell’articolo 19-bis, comma 8, del Codice 15.
 
@@ -144,6 +158,8 @@ allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; C
     e) l’ingresso di un nuovo Cerchio pilota o Bacino non fa retrocedere di fase l’unità che lo accoglie;
 
     f) la Comunità associata ai sensi dell’articolo 21-bis del Codice 15 non percorre le fasi per la propria vita interna e non è tenuta ad attivare i Codici e i Consigli delle fasi, salvo gli strumenti che adotta. Entra in un Bacino, o concorre a costituirlo, quando l’equivalenza al confine è verificata, ed è contata come Cerchio pilota ai fini dell’articolo 1, comma 2, lettera d). Le soglie dell’articolo 4 si verificano, per la sua parte, sui dati e sugli impegni che essa rende al confine ai sensi del comma 2 di quell’articolo; nel Bacino e nella Federazione minima segue le regole degli strumenti comuni attivati nella fase.
+
+8.  **Due percorsi.** Le Fasi 0–4 dei commi 1–5 sono il percorso dei Cerchi pilota. Accanto a esso, il percorso delle reti segue le Fasi A–E degli articoli 11–20. I due percorsi si incontrano con la conversione dell’articolo 17: da quel momento ogni Cerchio 1 nato da una rete è nella Fase 0, percorre le Fasi 0–4 come un Cerchio pilota, con le soglie dell’articolo 4, e può entrare in un Bacino o in una Federazione minima già costituiti ai sensi del comma 7.
 
 ## Art. 4 — Soglie di attivazione e di uscita
 
@@ -356,4 +372,184 @@ allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; C
 
 4.  Dopo la chiusura della transizione, si applicano le clausole di prevalenza dei Codici di settore, incluse quelle del Codice 10, articolo 10, del Codice 13, articolo 11, e del Codice 14, articolo 10.
 
-5.  I principali collegamenti normativi del presente Codice sono: Costituzione, articoli 3.1, 3.2, 4–6 e 32; Codice 1, articoli 13–22 e 32; Codice 2, articolo 5; Codice 3, articoli 3, 4, 8, 13–19; Codice 4; Codice 5, articoli 3 e 10; Codice 6, articoli 4 e 11; Codice 7, articolo 2.2; Codici 8 e 9; Codice C.1-Annex A; Codici 10–14; Codice 15, Capi III e IV.
+5.  I principali collegamenti normativi del presente Codice sono: Costituzione, articoli 1.3, 3.1, 3.2, 4–6, 16.4, 17.9, 32 e 38; Codice 1, articoli 13–22, 32, 47 e 47-ter; Codice 2, articolo 5; Codice 3, articoli 3, 4, 8, 13–19; Codice 4; Codice 5, articoli 3 e 10; Codice 6, articoli 4 e 11; Codice 7, articoli 2.2, 7 e 7-bis; Codici 8 e 9; Codice C.1-Annex A; Codici 10–14, compreso l’articolo 8-sexies del Codice 14; Codice 15, Capi III e IV.
+
+## Art. 11 — Percorso delle reti: fasi e principi
+
+1.  Il percorso delle reti porta alla Confederazione le persone dove già vivono. Si compone delle fasi seguenti:
+
+    a) **Fase A — Semi:** nascono le reti di mutuo aiuto e i magazzini di quartiere, ai sensi dell’articolo 12;
+
+    b) **Fase B — Macchia d’olio:** le reti si collegano tra loro, fanno la mappa delle filiere essenziali, firmano i patti con chi vi lavora e fanno le prove legali, ai sensi dell’articolo 13, fino alla soglia di preparazione dell’articolo 14;
+
+    c) **Fase C — Boicottaggio:** le persone delle reti possono compiere la scelta dell’articolo 15;
+
+    d) **Fase D — Conversione:** chi aderisce forma i Cerchi 1 e i magazzini diventano Magazzini Comuni, ai sensi dell’articolo 17; ogni Cerchio 1 nato da una rete è nella Fase 0;
+
+    e) **Fase E — Confederazione:** i Cerchi nati dalle reti percorrono le Fasi 1–4 fino alla chiusura dell’articolo 10, ai sensi dell’articolo 17, comma 8.
+
+2.  Nel percorso delle reti:
+
+    a) la partecipazione e l’adesione sono individuali e libere e ognuno può uscire in ogni momento, ai sensi degli articoli 4.8 e 38.1 della Costituzione e dell’articolo 2, comma 8;
+
+    b) nessuno ha il comando: gli incarichi delle reti, degli enti che ne custodiscono i beni e dei gruppi promotori sono conferiti per sorteggio tra volontari, sono brevi e ruotano, ai sensi degli articoli 4.3 e 4.4 della Costituzione e, per gli enti, nei limiti dell’articolo 16, comma 3, del Codice 15;
+
+    c) la difesa è soltanto civile, disarmata e non violenta, ai sensi degli articoli 16.4 e 17.9 della Costituzione e dell’articolo 8-sexies del Codice 14, compreso il suo comma 13;
+
+    d) le decisioni, i conti e i dati aggregati sono pubblici ai sensi dell’articolo 2, comma 5, salvo i dati che espongono a rischio le persone o le infrastrutture;
+
+    e) il boicottaggio è sostenuto con il Paniere d’emergenza soltanto dove la soglia dell’articolo 14 è verificata;
+
+    f) i servizi essenziali restano aperti a tutti, ai sensi dell’articolo 16.
+
+3.  **Fino alla scelta delle persone nessuno smette di pagare.** Nelle Fasi A e B, e in ogni fase per chi non compie la scelta dell’articolo 15, tutto si svolge nel rispetto dell’ordinamento vigente: affitti, bollette, debiti, imposte e obblighi contrattuali sono adempiuti normalmente. Le reti, gli enti e i gruppi promotori non chiedono a nessuno di sospendere un pagamento, e le prove dell’articolo 13, comma 5, non comportano alcun inadempimento.
+
+4.  Le reti non sono Cerchi e i partecipanti non sono membri della Confederazione finché non aderiscono ai sensi dell’articolo 17. Alle reti si applicano gli articoli 11–20 e, in quanto compatibili, gli articoli 2 e 9-bis; le altre disposizioni del presente Codice e dei Codici 1–15 si applicano dalla conversione. Le reti possono adottare prima singoli strumenti dei Codici, come il Magazzino minimo, il Bilancio del Lavoro, il sorteggio e la rotazione degli incarichi e le decisioni in assemblea, senza diventare per questo Cerchi.
+
+## Art. 12 — Fase A: reti, magazzini di quartiere e forme legali
+
+1.  Una rete nasce quando persone di un quartiere, di un paese o di un condominio cominciano a mettere in comune una parte delle cose e del tempo: spesa comune, aiuto a chi è in difficoltà, scambio di tempo e di competenze, magazzino di quartiere. Si collega al percorso delle reti con una dichiarazione pubblica sul portale dell’articolo 20, con la quale accetta gli articoli 11–20.
+
+2.  La rete:
+
+    a) decide in assemblea aperta ai partecipanti, con il voto individuale di ciascuno e senza delega;
+
+    b) tiene un inventario pubblico, in forma aggregata, del magazzino di quartiere e delle casse;
+
+    c) stringe accordi con chi produce, come agricoltori, artigiani e piccole officine che vendono direttamente alla rete, preferendo i soggetti dell’articolo 18, comma 1, del Codice 15;
+
+    d) riduce le dipendenze dall’esterno con energia propria, come le comunità energetiche, con scorte di farmaci e ricambi e con i saperi per riparare.
+
+3.  **Forme legali fin dall’inizio.** I magazzini di quartiere, le scorte, le casse e ogni bene messo in comune sono intestati, fin dalla Fase A, a un’associazione, a una cooperativa o a un altro ente senza scopo di lucro riconosciuto dall’ordinamento, costituito dalla rete o già esistente. Lo statuto recepisce, nei limiti della legge, i vincoli dell’articolo 16, commi 1–3, del Codice 15: patrimonio indivisibile, nessuna distribuzione di utili, voto individuale, incarichi sorteggiati e a rotazione e, in caso di scioglimento, devoluzione a un’altra rete o a un ente con le medesime finalità. I beni restano così protetti anche se il boicottaggio non avviene o non riesce.
+
+4.  Il conferimento di beni e di denaro alla rete è volontario e documentato, ai sensi dell’articolo 16, comma 4, del Codice 15. Nessuno può essere indotto a conferire beni o a lasciare attività esterne, ai sensi dell’articolo 2, comma 8.
+
+5.  **Comunità che esistono già.** Le comunità solidali che già vivono con regole vicine a quelle della Confederazione, come le comunità con cassa comune, gli ecovillaggi e le loro reti, sono i primi nodi del percorso delle reti. Vi partecipano come sono, senza cambiare il proprio ordinamento interno, e possono aderire in ogni momento come Comunità associate ai sensi dell’articolo 4.5 della Costituzione e degli articoli 21 e 21-bis del Codice 15. Alla conversione entrano nei Bacini secondo l’articolo 3, comma 7, lettera f).
+
+6.  Le persone che vogliono vivere già secondo le regole istituiscono un Cerchio pilota e seguono il percorso dei Cerchi pilota. Il Cerchio pilota può essere un nodo della rete del suo territorio e offrirle il sapere e le regole che ha provato.
+
+## Art. 13 — Fase B: collegamento, filiere essenziali e prove legali
+
+1.  Le reti si collegano tra loro nel comune, poi tra comuni, regioni e paesi. Il collegamento avviene con accordi scritti e revocabili e non crea un centro né organi con potere sulle reti: ogni rete decide per sé. Le reti mettono in comune sapere, standard aperti e scorte di riserva e costruiscono in piccolo le strutture comuni, come l’archivio del sapere, le scorte condivise e gli accordi di trasporto; alla conversione queste passano ai Cerchi e ai Consigli competenti secondo la fase.
+
+2.  **Mappa delle filiere.** Le reti di un territorio fanno insieme la mappa delle filiere essenziali: da dove arrivano cibo, acqua, energia e medicine, quante scorte ci sono e chi sa fare che cosa. La mappa è pubblica in forma aggregata; ne sono esclusi i dati che espongono a rischio le persone o le infrastrutture.
+
+3.  **Patti con chi lavora nelle filiere essenziali.** Chi lavora in una filiera essenziale può firmare un patto con la rete del suo territorio. Con il patto la persona si impegna a continuare il proprio lavoro e a servire chiunque anche se le persone delle reti compiono la scelta dell’articolo 15; la rete si impegna alle tutele dell’articolo 16. Il patto è personale, volontario e revocabile in ogni momento, non contiene penali e non obbliga a nulla di contrario alla legge o al contratto di lavoro. È custodito in forma riservata; sono pubblici soltanto i conteggi aggregati per filiera e per territorio.
+
+4.  **Formazione e cambio.** Le reti insegnano le competenze che servono ai bisogni, secondo il Codice 5 in quanto applicabile, e per ogni lavoro essenziale formano in anticipo altre persone che possano dare il cambio, nei limiti delle abilitazioni richieste dalla legge.
+
+5.  **Prove legali.** La rete verifica se regge con prove nelle quali nessuno smette di pagare niente, come un fine settimana in cui il quartiere vive soltanto dei magazzini della rete, un mese in cui i partecipanti comprano soltanto dai produttori della rete o una distribuzione di prova del Paniere d’emergenza. La partecipazione alle prove è volontaria. Entro trenta giorni la rete pubblica sul portale, in forma aggregata, il numero dei partecipanti, i beni distribuiti e ciò che è mancato; gli esiti servono alla verifica dell’articolo 14.
+
+## Art. 14 — Soglia di preparazione, verifica e voto
+
+1.  **Soglia.** La rete è pronta quando sono verificate insieme le condizioni seguenti:
+
+    a) il Paniere d’emergenza è garantito per sei mesi a tutti i partecipanti: le scorte nei magazzini della rete, più ciò che i produttori della rete si sono impegnati per iscritto a consegnare nello stesso periodo, coprono il Paniere d’emergenza di tutti i partecipanti per sei mesi, e le casse della rete coprono i costi che restano, compresi la conservazione e il trasporto;
+
+    b) nel territorio della rete sono firmati patti ai sensi dell’articolo 13, comma 3, in ciascuna delle filiere dell’acqua, dell’energia, del cibo e della sanità, da un numero di persone che, secondo la mappa delle filiere e con i cambi formati, basta a mantenere in funzione quei servizi per tutti.
+
+2.  La lista dei beni e delle quantità per persona del Paniere d’emergenza è adottata dalle reti collegate, con il parere di persone competenti in nutrizione e in salute; tiene conto dell’età e delle condizioni di salute, secondo il criterio dell’articolo 19, comma 4, del Codice 1, ed è pubblica.
+
+3.  **Paese che parte da solo.** Se le reti di un paese non hanno una data comune con le reti di almeno un altro paese ai sensi del comma 6, la soglia del comma 1, lettera a), è di dodici mesi, e la rete deve avere anche un piano pubblico per le importazioni ai sensi dell’articolo 18, comma 2, e il sostegno dichiarato delle reti di altri paesi.
+
+4.  **Verifica pubblica.** I dati della soglia sono pubblicati sul portale in forma aggregata. La verifica è svolta da tre persone sorteggiate tra i volontari di reti diverse da quella verificata, che non vi partecipano e si astengono nei casi dell’articolo 5, comma 3, lettera f); possono controllare a campione, con obbligo di riservatezza, i patti e gli impegni dei produttori. Chiunque può presentare osservazioni per almeno settantadue ore, ai sensi dell’articolo 2, comma 5. L’esito è motivato e pubblicato; la verifica è ripetuta se prima del voto i dati cambiano in modo da non soddisfare più la soglia e, in ogni caso, dopo novanta giorni.
+
+5.  La verifica accerta soltanto i numeri della soglia: non decide e non raccomanda il boicottaggio.
+
+6.  **Voto.** Quando la soglia è verificata, i partecipanti della rete possono votare sulla scelta dell’articolo 15 e sulla sua data. Votano i partecipanti dal compimento del quattordicesimo anno, ai sensi dell’articolo 36.1 della Costituzione; il voto è individuale e segreto, senza delega, e si svolge in presenza o tramite il portale con un sistema conforme all’articolo 7-bis, commi 2–7, del Codice 7. Il voto è contato separatamente per ogni rete e la proposta è approvata in una rete se vota a favore la maggioranza dei suoi partecipanti con diritto di voto. Si cerca una data comune, votata allo stesso modo dalle reti di più paesi. Prima del primo voto in un paese è acquisito un parere legale professionale locale sulle forme del voto e sulla protezione dei partecipanti.
+
+7.  Il voto esprime una scelta politica collettiva e non obbliga nessuno, ai sensi dell’articolo 15, comma 2. Nessuno può essere escluso dal magazzino di quartiere, dalle casse di solidarietà o dalla rete per come ha votato o per non aver compiuto la scelta.
+
+## Art. 15 — Fase C: il boicottaggio come scelta delle persone
+
+1.  Il boicottaggio è smettere di lavorare e di consumare per il profitto, non per i bisogni: si ferma ciò che serve soltanto al mercato e continua ciò che serve ai bisogni. Le sue forme possono comprendere il boicottaggio dei consumi, lo sciopero del lavoro per il mercato, il restare a casa, lo sciopero degli affitti e delle bollette e la sospensione dei debiti verso le banche, tutti insieme e una volta sola.
+
+2.  Il boicottaggio non è una regola del presente Codice. È una scelta politica, non violenta e collettiva, che spetta alle persone delle reti con il loro voto ai sensi dell’articolo 14, comma 6. Ciascuna persona decide liberamente se compierla e ne risponde personalmente secondo la legge. Il presente Codice non la prescrive, non la autorizza e non ne regola le forme, e dal non compierla non può derivare alcuna conseguenza.
+
+3.  Gli enti delle reti e i gruppi promotori non deliberano il boicottaggio e non impiegano i beni comuni per atti contrari alla legge. Prima e dopo la scelta delle persone continuano soltanto le attività lecite degli articoli 12, 13, 16 e 18, tra cui i magazzini di quartiere, la distribuzione del Paniere d’emergenza ai partecipanti, le casse di solidarietà, l’assistenza legale e i servizi essenziali aperti a tutti.
+
+4.  **Casse di solidarietà e assistenza legale.** Fin dalla Fase A la rete può costituire, presso l’ente dell’articolo 12, comma 3, una cassa di solidarietà e una rete di assistenza legale. Aiutano, nei limiti della legge e secondo il bisogno, i partecipanti che si trovano in difficoltà per debiti, interessi, cause, segnalazioni come cattivi pagatori o per la perdita del lavoro o della casa. Le regole dell’aiuto sono pubbliche e l’aiuto non dipende da come la persona ha votato.
+
+5.  Dopo la conversione, i pagamenti per debiti, interessi o cause nati dalla partecipazione sono spese di tutela legale ai sensi dell’articolo 17, comma 3, del Codice 15 e sono versati direttamente al creditore o al professionista, ai sensi dell’articolo 3.5-bis della Costituzione.
+
+## Art. 16 — Filiere essenziali e servizi aperti a tutti
+
+1.  Chi lavora in una filiera essenziale e ha firmato il patto continua a servire chiunque, anche chi non partecipa alle reti e chi non aderisce alla Confederazione, alle stesse condizioni per tutti, durante il boicottaggio e dopo la conversione. I Cerchi nati dalle reti assicurano a chiunque si trovi nel loro territorio le garanzie dell’articolo 1.3 della Costituzione e a chi non è membro i diritti dell’articolo 4.9.
+
+2.  Per chi lavora in una filiera essenziale la rete, e dopo la conversione il Cerchio:
+
+    a) consegna per primi il Paniere d’emergenza alla persona e a chi vive con lei, senza ridurre la quota degli altri partecipanti e nel rispetto dell’articolo 19, comma 4, del Codice 1;
+
+    b) organizza turni corti con il cambio delle persone formate ai sensi dell’articolo 13, comma 4, nei limiti dei rapporti di lavoro e della legge;
+
+    c) sostiene con la cassa di solidarietà e con l’assistenza legale dell’articolo 15, comma 4, chi rischia il posto di lavoro o una causa;
+
+    d) dalla conversione, computa nel CBO il lavoro svolto nella filiera essenziale a servizio del territorio, ai sensi dell’articolo 19, comma 3, del Codice 15.
+
+## Art. 17 — Fase D: conversione; Fase E: Confederazione
+
+1.  **Conversione.** La conversione di una rete è decisa dai suoi partecipanti con un voto nelle forme dell’articolo 14, comma 6, secondo e terzo periodo. Ha effetto soltanto per chi aderisce: ogni persona aderisce individualmente, ai sensi degli articoli 4.8 e 38.1 della Costituzione, e la scelta della maggioranza non vincola chi non aderisce.
+
+2.  **Cerchi 1.** Le reti diventano Cerchi 1 partendo da ciò che esiste, quartieri e comuni, con la dimensione dell’articolo 5.1, lettera b), della Costituzione; una rete più grande forma più Cerchi 1 contigui. I primi incarichi sono sorteggiati tra chi aderisce, ai sensi degli articoli 4.3 e 4.4 della Costituzione. L’ente dell’articolo 12, comma 3, diventa l’ente del Cerchio ai sensi dell’articolo 16 del Codice 15 o gli trasferisce i beni, secondo il suo statuto.
+
+3.  **Magazzini Comuni.** I magazzini di quartiere, e i magazzini e i supermercati i cui titolari aderiscono e li conferiscono volontariamente ai sensi dell’articolo 16, comma 4, del Codice 15, diventano Magazzini Comuni secondo gli articoli 13–22 del Codice 1.
+
+4.  **Paniere d’emergenza.** Finché i Magazzini Comuni non garantiscono i livelli 1 e 2 del Paniere, distribuiscono almeno il Paniere d’emergenza a ogni membro, con il razionamento equo dell’articolo 19, commi 3–6, del Codice 1.
+
+5.  **Nessuno perde la casa in cui vive.** La conversione non toglie a nessuno la casa in cui vive. Chi aderisce e conferisce o affida al Cerchio la casa in cui abita ne conserva l’uso come abitazione principale, ai sensi dell’articolo 10.2 della Costituzione e dell’articolo 47, commi 2 e 3, del Codice 1; chi non la conferisce la conserva secondo l’ordinamento vigente. Il Cerchio non chiede né promuove lo sfratto di nessuno; a chi rischia di perdere la casa dà l’assistenza legale dell’articolo 15, comma 4, e a chi la perde un alloggio ai sensi dell’articolo 47-ter, comma 4, lettera a), del Codice 1.
+
+6.  **Riconoscimento per legge.** Dove la maggioranza vince anche nelle istituzioni, con il voto, un referendum o un’assemblea costituente, e la legge dello Stato riconosce le Comunità, affida loro beni pubblici, trasforma enti o mezzi finanziari in Casse comuni o continua a garantire i servizi finché i Cerchi non li coprono, i Cerchi nati dalle reti si avvalgono di quella legge, che fa parte dell’ordinamento vigente ai sensi dell’articolo 38.6 della Costituzione, nei limiti della Costituzione e dei Codici. La forma giuridica prevista da quella legge può sostituire l’ente dell’articolo 16 del Codice 15; i mezzi affidati alle Casse comuni seguono l’articolo 17 del Codice 15.
+
+7.  **Chi non aderisce.** Chi non aderisce resta libero, non è trattato come avversario ai sensi dell’articolo 15, comma 2, lettera b), del Codice 15 e conserva la casa, i beni e i diritti che l’ordinamento vigente gli riconosce. Non svolge il CBO e non accede ai Magazzini Comuni, salvo le garanzie degli articoli 1.3 e 4.9 della Costituzione e i servizi dell’articolo 16. Può aderire quando vuole o chiedere il Patto di Convivenza Autonoma degli articoli 4.9 e 4.9-bis della Costituzione.
+
+8.  **Incontro con il percorso dei Cerchi pilota.** Dalla conversione ogni Cerchio 1 nato da una rete è un Cerchio pilota ai fini del presente Codice e dei rinvii dei Codici al Cerchio pilota, ed è nella Fase 0 dell’articolo 3, comma 1. Il censimento, l’inventario del magazzino e la mappa delle filiere della rete valgono come censimento iniziale della lettera c) di quel comma, e il magazzino di quartiere come Magazzino minimo provvisorio della lettera d), se il Consiglio Transizione li verifica. La Fase E comprende le Fasi 1–4: i Cerchi nati dalle reti formano Bacini e Federazioni minime, o entrano in quelli già costituiti, ai sensi dell’articolo 3, comma 7, e chiudono la transizione ai sensi dell’articolo 10. Nessuna soglia dell’articolo 4 è abbreviata.
+
+## Art. 18 — Importazioni
+
+1.  Finché esistono paesi che non hanno cambiato sistema, le reti e i Cerchi nati da esse procurano l’energia, i farmaci e i componenti che non producono con tre strade insieme:
+
+    a) ridurre prima le importazioni: nelle Fasi A e B le reti puntano su energia propria, scorte di farmaci e ricambi, ai sensi dell’articolo 12, comma 2, lettera d);
+
+    b) la Cassa comune dell’articolo 17 del Codice 15 e, prima della conversione, le casse dell’ente della rete, alimentate anche dai risparmi che le persone versano liberamente, soltanto per gli acquisti all’esterno. Il versamento non è un obbligo e non dà alcun vantaggio, ai sensi dell’articolo 19-bis, comma 2, del Codice 15; chi non versa non è escluso da nulla;
+
+    c) la cessione all’esterno delle eccedenze reali, come cibo, artigianato e servizi, senza fine di profitto, ai sensi degli articoli 15, comma 3, e 19 del Codice 15, e gli scambi diretti con le reti e i Cerchi di altri paesi.
+
+2.  Il piano per le importazioni dell’articolo 14, comma 3, indica per dodici mesi i beni che la rete non produce, le quantità, i fornitori possibili secondo l’articolo 18 del Codice 15, i mezzi con cui sono pagati ai sensi del comma 1 e le alternative se una fornitura è interrotta, secondo l’articolo 20 del Codice 15.
+
+## Art. 19 — Gruppi promotori
+
+1.  In ogni paese possono nascere gruppi promotori che aiutano a far nascere le reti e i magazzini di quartiere, fanno con le reti la mappa delle filiere, raccolgono i patti dell’articolo 13, comma 3, e diffondono il sapere e le regole. Preparano e non governano: non decidono per le reti né al loro posto.
+
+2.  Un gruppo è gruppo promotore ai sensi del presente Codice se è:
+
+    a) **senza capi:** gli incarichi sono sorteggiati tra chi si offre, durano al massimo novanta giorni e ruotano, ai sensi dell’articolo 4.4, lettere a) e b), della Costituzione; non ha leader, portavoce permanenti o strutture di partito, ai sensi della lettera c) dello stesso articolo;
+
+    b) **aperto e trasparente:** chiunque può partecipare; decisioni, conti e documenti sono pubblici, salvo i dati che espongono a rischio le persone;
+
+    c) **autonomo:** si organizza secondo le condizioni del suo paese; dove organizzarsi è pericoloso, gli altri gruppi lo sostengono senza esporre le persone;
+
+    d) **collegato da regole comuni, non da un centro:** i gruppi si scambiano sapere, standard e notizie secondo un protocollo comune e pubblico, e nessun gruppo comanda sugli altri.
+
+3.  La scelta dell’articolo 15 e la sua data spettano alle persone delle reti, con il voto dell’articolo 14, comma 6; i gruppi promotori non le decidono.
+
+4.  Il gruppo promotore che ha bisogno di una forma legale segue l’articolo 12, comma 3.
+
+5.  **Si sciolgono da soli.** Quando le reti del loro territorio si sono convertite in Cerchi, i gruppi promotori si sciolgono e i loro compiti, archivi e strumenti passano ai Cerchi e alle strutture comuni. Nessuno conserva un ruolo, una precedenza o un vantaggio per aver fatto parte di un gruppo promotore, ai sensi dell’articolo 4.4, lettera e), della Costituzione.
+
+## Art. 20 — Portale delle reti
+
+1.  Le reti usano in comune un portale, e poi un’applicazione, per informarsi sulle regole e sul sapere tecnico in tutte le lingue, trovare le reti e i gruppi vicini, dichiarare la propria partecipazione anche senza nome pubblico, organizzare offerte, bisogni, inventari dei magazzini di quartiere e turni, tenere assemblee e votazioni e contare i partecipanti, i mesi di Paniere d’emergenza garantiti, i patti firmati e gli esiti delle prove legali.
+
+2.  Il portale:
+
+    a) **è federato:** è fatto di più server collegati, gestiti da reti diverse, e continua a funzionare se uno di essi viene chiuso; non ha un centro né un’IA centrale, ai sensi dell’articolo 23.1 della Costituzione;
+
+    b) **raccoglie pochi dati:** soltanto quelli necessari e per il tempo minimo necessario, ai sensi dell’articolo 7 del Codice 7; la partecipazione può essere dichiarata in forma anonima, i conteggi sono pubblicati in forma aggregata ed è vietata ogni profilazione, ai sensi dell’articolo 2, comma 2, del Codice 7;
+
+    c) **è cifrato:** i messaggi sono protetti e le votazioni seguono l’articolo 7-bis del Codice 7;
+
+    d) **ha codice aperto:** chiunque può controllarlo, copiarlo e farlo funzionare nel proprio paese, ai sensi dell’articolo 19 della Costituzione; per il voto si applica l’articolo 9-bis, comma 1, lettera b);
+
+    e) **funziona anche offline:** le reti locali possono organizzarsi, contare e votare in presenza se internet viene tagliato, e i voti in presenza sono contati ai sensi dell’articolo 7-bis, comma 7, del Codice 7.
+
+3.  Le reti possono cominciare con strumenti federati e a codice aperto già esistenti. Alla conversione il portale confluisce nella Rete Federata del Codice 7.

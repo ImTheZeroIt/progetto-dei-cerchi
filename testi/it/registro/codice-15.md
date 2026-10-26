@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 15 — RAPPORTI ESTERNI E SALDO MONDIALE"
 breve: "Codice 15 — Rapporti esterni e Saldo"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 15
 id: "codice-15"
 slug: "codice-15"
-allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 16 V1.7."
+allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 16 V1.8."
 ---
 
 ## TITOLO PRELIMINARE — DISPOSIZIONI GENERALI
@@ -374,7 +374,7 @@ allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; C
 
 1.  I Cerchi possono cedere all’esterno eccedenze reali e prestare servizi, senza fine di profitto. Il ricavato è versato alla Cassa comune.
 2.  È vietato organizzare la produzione in funzione del mercato esterno. La quota di CBO destinata a produzioni per l’esterno è deliberata dall’Assemblea e non supera la misura necessaria a coprire gli acquisti esterni necessari.
-3.  Le attività lavorative esterne svolte dalle persone durante la coesistenza sono libere e non costituiscono CBO. Nessuno può essere indotto ad abbandonarle.
+3.  Le attività lavorative esterne svolte dalle persone durante la coesistenza sono libere e non costituiscono CBO, salvo il lavoro nelle filiere essenziali che il Cerchio computa nel CBO ai sensi dell’articolo 16, comma 2, lettera d), del Codice 16. Nessuno può essere indotto ad abbandonarle.
 4.  La condivisione con l’esterno di STV, Schede, saperi e sementi libere è promossa ed è effettuata con licenze libere.
 
 ### Art. 19-bis — Redditi e patrimoni esterni delle persone
