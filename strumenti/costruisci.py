@@ -926,10 +926,53 @@ def pagina(lingua, titolo, descrizione, corpo, profondita, sezione="", gemelle=N
            if ha_domande(lingua) else "")
 
 
+# nomi con cui il progetto viene cercato: finiscono nei dati strutturati delle pagine iniziali
+NOMI_SITO = {
+    "it": ["Confederazione dei Cerchi", "Costituzione della Confederazione dei Cerchi"],
+    "en": ["Confederation of Circles", "Progetto dei Cerchi", "Confederazione dei Cerchi"],
+    "fr": ["Confédération des Cercles", "Progetto dei Cerchi", "Confederazione dei Cerchi"],
+    "es": ["Confederación de los Círculos", "Progetto dei Cerchi", "Confederazione dei Cerchi"],
+}
+ALTERNATIVA = re.compile(r'\n?<link rel="alternate" hreflang="([\w-]+)" href="([^"]+)">')
+
+
+def indirizzo_pubblico(indirizzo):
+    """Un solo indirizzo per pagina: la cartella, non la cartella seguita da index.html."""
+    return re.sub(r"(^|/)index\.html$", r"\1", indirizzo)
+
+
+def rifinisci(lingua, relativo, contenuto):
+    """Aggiunge all'intestazione l'indirizzo canonico, le lingue complete e, nelle pagine iniziali,
+    il nome del sito per i motori di ricerca."""
+    if not SITO_URL or not relativo.endswith(".html") or "</head>" not in contenuto:
+        return contenuto
+    proprio = indirizzo_pubblico("%s/%s%s" % (SITO_URL, lingua["prefisso"], relativo))
+    gemelle = {c: indirizzo_pubblico(i) for c, i in ALTERNATIVA.findall(contenuto)}
+    if relativo != "index.html":   # una pagina iniziale non è la traduzione di una pagina interna
+        gemelle = {c: i for c, i in gemelle.items()
+                   if c not in LINGUE or i != "%s/%s" % (SITO_URL, LINGUE[c]["prefisso"])}
+    contenuto = ALTERNATIVA.sub("", contenuto)
+    righe = ['<link rel="canonical" href="%s">' % html.escape(proprio),
+             '<meta property="og:url" content="%s">' % html.escape(proprio)]
+    if gemelle:
+        gemelle[lingua["codice"]] = proprio
+        ordine = sorted(gemelle, key=lambda c: list(LINGUE).index(c) if c in LINGUE else len(LINGUE))
+        righe += ['<link rel="alternate" hreflang="%s" href="%s">' % (c, html.escape(gemelle[c])) for c in ordine]
+        if "it" in gemelle:
+            righe.append('<link rel="alternate" hreflang="x-default" href="%s">' % html.escape(gemelle["it"]))
+    if relativo == "index.html":
+        dati = {"@context": "https://schema.org", "@type": "WebSite", "name": lingua["nome"],
+                "alternateName": NOMI_SITO.get(lingua["codice"], []), "url": proprio,
+                "inLanguage": lingua["codice"]}
+        righe.append('<script type="application/ld+json">%s</script>'
+                     % json.dumps(dati, ensure_ascii=False).replace("</", "<\\/"))
+    return contenuto.replace("</head>", "\n".join(righe) + "\n</head>", 1)
+
+
 def scrivi(lingua, relativo, contenuto):
     destinazione = os.path.join(SITO_DIR, lingua["prefisso"], relativo)
     os.makedirs(os.path.dirname(destinazione), exist_ok=True)
-    open(destinazione, "w", encoding="utf-8").write(contenuto)
+    open(destinazione, "w", encoding="utf-8").write(rifinisci(lingua, relativo, contenuto))
 
 
 def scaricabili(lingua, slug, profondita):
