@@ -1,1 +1,37 @@
+name: Applica aggiornamento
 
+# Si carica nella cartella principale un solo file, aggiornamento.zip.
+# Questo programma lo apre, mette ogni file nella sua cartella e poi cancella lo zip.
+
+on:
+  push:
+    paths:
+      - "aggiornamento.zip"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: applica-aggiornamento
+  cancel-in-progress: false
+
+jobs:
+  applica:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Apri lo zip e metti i file al loro posto
+        run: |
+          [ -f aggiornamento.zip ] || { echo "Nessun aggiornamento.zip"; exit 0; }
+          if unzip -Z1 aggiornamento.zip | grep -E '(^/|(^|/)\.\.(/|$)|^\.git/|^\.github/)'; then
+            echo "Lo zip contiene percorsi non ammessi"; exit 1
+          fi
+          unzip -o -q aggiornamento.zip -d .
+          git rm -q aggiornamento.zip
+          git add -A
+          git config user.name "github-actions[bot]"
+          git config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Aggiornamento applicato da aggiornamento.zip"
+          for i in 1 2 3; do git push && exit 0; sleep 20; git pull --rebase; done
+          exit 1
