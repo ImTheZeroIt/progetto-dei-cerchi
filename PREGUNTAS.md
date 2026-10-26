@@ -129,10 +129,10 @@ Dónde: Cód. 3, art. 9; [Anexo UCR, borrador, en italiano](../registro/bozza-uc
 
 ### ¿Puedo conservar mi casa y mis cosas?
 
-Los objetos personales siguen siendo tuyos: la Constitución los protege como propiedad personal. La casa en la que vives está en uso: no se hereda, pero no se te puede quitar sin otro alojamiento adecuado. Mientras exista un mundo exterior, lo que posees fuera de la Confederación sigue siendo tuyo. Ponerlo en común es una elección voluntaria.
+Los objetos personales siguen siendo tuyos: la Constitución los protege como propiedad personal. La casa en la que vives está en uso: no se hereda y no se te puede quitar sin otro alojamiento adecuado. La dejas si cambias de Comunidad o sales de la Confederación, tras un periodo de paso; quien vive contigo puede quedarse. Mientras exista un mundo exterior, lo que posees fuera de la Confederación sigue siendo tuyo. Ponerlo en común es una elección voluntaria.
 
 Palabras: casa, propiedad, mis cosas, objetos personales, expropiación, vivienda, bienes personales, confiscación, hipoteca, ahorros, coche, propiedad privada
-Dónde: Const. 10.3; Const. 3.7; Const. 3.5-ter; Cód. 1, art. 47, ap. 3; Cód. 15, art. 19-bis
+Dónde: Const. 10.3; Const. 3.7; Const. 3.5-ter; Cód. 1, art. 47, ap. 3; Cód. 1, art. 47, ap. 3-bis; Cód. 1, art. 47-ter; Cód. 15, art. 19-bis
 
 ### ¿Puedo tener una actividad propia, un taller, un campo?
 
@@ -159,10 +159,10 @@ Dónde: Const. 3.1; Cód. 7, art. 6; Cód. 7, art. 2, ap. 6; Const. 19.6; Cód. 
 
 ### ¿Puedo irme? ¿Y puedo volver?
 
-Sí. Según la Constitución, toda persona puede salir de la Confederación en cualquier momento: conserva sus bienes personales, pero pierde el voto y el acceso ordinario a los Almacenes comunes. Puede pedir volver cuando quiera, y la vuelta solo se puede negar en los casos gravísimos que indica la Constitución. Quien solo cambia de Comunidad tiene derecho a treinta días de paso y a alojamiento en una Casa Puente.
+Sí. Según la Constitución, toda persona puede salir de la Confederación en cualquier momento: conserva sus bienes personales, pero deja la vivienda común tras un periodo de paso y pierde el voto y el acceso ordinario a los Almacenes comunes. Puede pedir volver cuando quiera, y la vuelta solo se puede negar en los casos gravísimos que indica la Constitución. Quien solo cambia de Comunidad tiene derecho a treinta días de paso y a alojamiento en una Casa Puente.
 
 Palabras: salir, irse, dejar, volver, regresar, libertad de salida, secta, abandonar, mudarse, cambiar de comunidad, marcharse
-Dónde: Const. 4.8; Const. 5.2
+Dónde: Const. 4.8; Const. 5.2; Cód. 1, art. 47, ap. 3-bis
 
 ### ¿Y quien vive en el territorio pero no quiere adherirse?
 
@@ -189,17 +189,17 @@ Dónde: Cód. 15, art. 15; Cód. 15, art. 17; Cód. 15, art. 19-bis, ap. 3; Cons
 
 ### ¿Cómo se tratan los conflictos y los delitos? ¿Existe la cárcel?
 
-Los textos buscan reparar el daño y proteger a las personas, no castigar. La vía ordinaria es un procedimiento reparador; si no basta, deciden personas sorteadas por rotación. La palabra «cárcel» no aparece, pero para la violencia grave se prevé una contención, que es una forma de reclusión: revisada cada seis meses y, en primera aplicación, de hasta cinco o diez años. Para quien no ha cumplido dieciocho años la contención está excluida: como mucho, una acogida educativa abierta, de hasta un año. Durante la transición estas medidas no se aplican: para los delitos siguen siendo competentes las autoridades públicas.
+Los textos buscan reparar el daño y proteger a las personas, no castigar. La vía ordinaria es un procedimiento reparador; si no basta, deciden personas sorteadas por rotación. La palabra «cárcel» no aparece, pero para la violencia grave se prevé una contención, que es una forma de reclusión: revisada cada seis meses y de cinco o diez años como máximo. Para quien no ha cumplido dieciocho años la contención está excluida: como mucho, una acogida educativa abierta, de hasta un año. Durante la transición estas medidas no se aplican: para los delitos siguen siendo competentes las autoridades públicas.
 
 Palabras: cárcel, prisión, delitos, crímenes, justicia, tribunal, jueces, penas, violencia, robo, peleas, cadena perpetua
 Dónde: Const. 30.1; Const. 31.2; Const. 1.3-bis; Cód. 4, art. 30, ap. 3; Cód. 4, art. 25, ap. 9; Anexo C, art. 7, ap. 2
 
 ### ¿Existen policía, ejército, armas?
 
-La Constitución dice que no existen ejército ni policía profesional permanente. La protección se confía a un Cuerpo de Tutela Cívica desarmado, formado por voluntarios sorteados, con turnos de noventa días como máximo. Las armas hechas para matar o herir gravemente a las personas están prohibidas: no se pueden fabricar ni tener. La defensa prevista es solo civil y no violenta. Los textos no dicen cómo resistiría a una agresión armada.
+La Constitución dice que no existen ejército ni policía profesional permanente. La protección se confía a un Cuerpo de Tutela Cívica desarmado, formado por voluntarios sorteados, con turnos de noventa días como máximo. Las armas hechas para matar o herir gravemente a las personas están prohibidas: no se pueden fabricar ni tener. La defensa prevista es solo civil y no violenta. Sin embargo, cada persona puede defenderse a sí misma, a otras personas y a los animales de una agresión o un maltrato en curso, con la sola fuerza estrictamente necesaria y sin armas. Los textos no dicen cómo resistiría a una agresión armada.
 
-Palabras: policía, ejército, armas, seguridad, defensa, guerra, pistolas, orden público, militares, autodefensa, invasión
-Dónde: Const. 17.1; Const. 17.2; Const. 16.1; Const. 16.4
+Palabras: policía, ejército, armas, seguridad, defensa, guerra, pistolas, orden público, militares, autodefensa, legítima defensa, defensa personal, invasión
+Dónde: Const. 17.1; Const. 17.2; Const. 16.1; Const. 16.4; Const. 17.9; Cód. 14, art. 8-sexies
 
 ### ¿Está permitida la religión?
 

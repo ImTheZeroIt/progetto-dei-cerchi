@@ -129,10 +129,10 @@ Dove: Cod. 3, art. 9; [Allegato UCR, bozza](registro/bozza-ucr.html)
 
 ### Posso tenere la mia casa e le mie cose?
 
-Gli oggetti personali restano tuoi: la Costituzione li tutela come proprietà personale. La casa in cui vivi è in uso: non si eredita, ma non può esserti tolta senza un altro alloggio adeguato. Finché esiste un mondo esterno, ciò che possiedi fuori dalla Confederazione resta tuo. Metterlo in comune è una scelta volontaria.
+Gli oggetti personali restano tuoi: la Costituzione li tutela come proprietà personale. La casa in cui vivi è in uso: non si eredita e non può esserti tolta senza un altro alloggio adeguato. La lasci se cambi Comunità o esci dalla Confederazione, dopo un periodo di passaggio; chi vive con te può restarci. Finché esiste un mondo esterno, ciò che possiedi fuori dalla Confederazione resta tuo. Metterlo in comune è una scelta volontaria.
 
 Parole: casa, proprietà, le mie cose, oggetti personali, esproprio, abitazione, beni personali, confisca, mutuo, risparmi, auto, proprietà privata
-Dove: Cost. 10.3; Cost. 3.7; Cost. 3.5-ter; Cod. 1, art. 47, c. 3; Cod. 15, art. 19-bis
+Dove: Cost. 10.3; Cost. 3.7; Cost. 3.5-ter; Cod. 1, art. 47, c. 3; Cod. 1, art. 47, c. 3-bis; Cod. 1, art. 47-ter; Cod. 15, art. 19-bis
 
 ### Posso avere un'attività mia, un laboratorio, un campo?
 
@@ -159,10 +159,10 @@ Dove: Cost. 3.1; Cod. 7, art. 6; Cod. 7, art. 2, c. 6; Cost. 19.6; Cod. 7, art. 
 
 ### Posso andarmene? E posso tornare?
 
-Sì. Per la Costituzione ogni persona può uscire dalla Confederazione in qualsiasi momento: conserva i beni personali, ma perde il voto e l'accesso ordinario ai Magazzini comuni. Può chiedere di rientrare quando vuole, e il rientro si può negare solo nei casi gravissimi indicati dalla Costituzione. Chi cambia soltanto Comunità ha diritto a trenta giorni di passaggio e a un alloggio in una Casa Ponte.
+Sì. Per la Costituzione ogni persona può uscire dalla Confederazione in qualsiasi momento: conserva i beni personali, ma lascia la casa comune dopo un periodo di passaggio e perde il voto e l'accesso ordinario ai Magazzini comuni. Può chiedere di rientrare quando vuole, e il rientro si può negare solo nei casi gravissimi indicati dalla Costituzione. Chi cambia soltanto Comunità ha diritto a trenta giorni di passaggio e a un alloggio in una Casa Ponte.
 
 Parole: uscire, andarsene, lasciare, tornare, rientrare, recesso, libertà di uscita, setta, abbandonare, trasferirsi, cambiare comunità, andare via
-Dove: Cost. 4.8; Cost. 5.2
+Dove: Cost. 4.8; Cost. 5.2; Cod. 1, art. 47, c. 3-bis
 
 ### E chi vive nel territorio ma non vuole aderire?
 
@@ -189,17 +189,17 @@ Dove: Cod. 15, art. 15; Cod. 15, art. 17; Cod. 15, art. 19-bis, c. 3; Cost. 3.5-
 
 ### Come si trattano i conflitti e i reati? Esiste il carcere?
 
-I testi puntano a riparare il danno e a proteggere le persone, non a punire. La via ordinaria è una procedura riparativa; se non basta, decidono persone sorteggiate a rotazione. La parola «carcere» non c'è, ma per la violenza grave è previsto un contenimento, che è una forma di reclusione: riesaminato ogni sei mesi, in prima applicazione fino a cinque o dieci anni. Per chi non ha diciotto anni il contenimento è escluso: al massimo un'accoglienza educativa aperta, fino a un anno. Durante la transizione queste misure non si applicano: per i reati restano competenti le autorità pubbliche.
+I testi puntano a riparare il danno e a proteggere le persone, non a punire. La via ordinaria è una procedura riparativa; se non basta, decidono persone sorteggiate a rotazione. La parola «carcere» non c'è, ma per la violenza grave è previsto un contenimento, che è una forma di reclusione: riesaminato ogni sei mesi e al massimo di cinque o dieci anni. Per chi non ha diciotto anni il contenimento è escluso: al massimo un'accoglienza educativa aperta, fino a un anno. Durante la transizione queste misure non si applicano: per i reati restano competenti le autorità pubbliche.
 
 Parole: carcere, prigione, reati, crimini, giustizia, tribunale, giudici, pene, violenza, furto, liti, ergastolo, galera
 Dove: Cost. 30.1; Cost. 31.2; Cost. 1.3-bis; Cod. 4, art. 30, c. 3; Cod. 4, art. 25, c. 9; All. C, art. 7, c. 2
 
 ### Esistono polizia, esercito, armi?
 
-La Costituzione dice che non esistono esercito né polizia professionale permanente. La tutela è affidata a un Corpo di Tutela Civica disarmato, formato da volontari sorteggiati, con turni di novanta giorni al massimo. Le armi fatte per uccidere o ferire gravemente le persone sono vietate: non si possono fabbricare né tenere. La difesa prevista è solo civile e non violenta. I testi non dicono come reggerebbe a un'aggressione armata.
+La Costituzione dice che non esistono esercito né polizia professionale permanente. La tutela è affidata a un Corpo di Tutela Civica disarmato, formato da volontari sorteggiati, con turni di novanta giorni al massimo. Le armi fatte per uccidere o ferire gravemente le persone sono vietate: non si possono fabbricare né tenere. La difesa prevista è solo civile e non violenta. Ognuno può però difendere sé stesso, altre persone e gli animali da un'aggressione o da un maltrattamento in corso, con la sola forza strettamente necessaria e senza armi. I testi non dicono come reggerebbe a un'aggressione armata.
 
-Parole: polizia, esercito, armi, sicurezza, difesa, guerra, pistole, ordine pubblico, militari, carabinieri, autodifesa, invasione
-Dove: Cost. 17.1; Cost. 17.2; Cost. 16.1; Cost. 16.4
+Parole: polizia, esercito, armi, sicurezza, difesa, guerra, pistole, ordine pubblico, militari, carabinieri, autodifesa, legittima difesa, difesa personale, invasione
+Dove: Cost. 17.1; Cost. 17.2; Cost. 16.1; Cost. 16.4; Cost. 17.9; Cod. 14, art. 8-sexies
 
 ### La religione è permessa?
 

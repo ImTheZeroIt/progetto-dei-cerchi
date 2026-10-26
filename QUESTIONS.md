@@ -129,10 +129,10 @@ Where: Code 3, art. 9; [UCR Annex, draft](register/draft-ucr.html)
 
 ### Can I keep my home and my belongings?
 
-Personal belongings remain yours: the Constitution protects them as personal property. The home you live in is held in use: it cannot be inherited, but it cannot be taken from you without another adequate dwelling. As long as an outside world exists, what you own outside the Confederation remains yours. Putting it in common is a voluntary choice.
+Personal belongings remain yours: the Constitution protects them as personal property. The home you live in is held in use: it cannot be inherited and it cannot be taken from you without another adequate dwelling. You leave it if you change Community or leave the Confederation, after a transition period; those who live with you can stay. As long as an outside world exists, what you own outside the Confederation remains yours. Putting it in common is a voluntary choice.
 
 Words: house, home, property, my things, personal belongings, expropriation, dwelling, confiscation, mortgage, savings, car, private property
-Where: Const. 10.3; Const. 3.7; Const. 3.5-ter; Code 1, art. 47, para. 3; Code 15, art. 19-bis
+Where: Const. 10.3; Const. 3.7; Const. 3.5-ter; Code 1, art. 47, para. 3; Code 1, art. 47, para. 3-bis; Code 1, art. 47-ter; Code 15, art. 19-bis
 
 ### Can I have my own activity, a workshop, a field?
 
@@ -159,10 +159,10 @@ Where: Const. 3.1; Code 7, art. 6; Code 7, art. 2, para. 6; Const. 19.6; Code 7,
 
 ### Can I leave? And can I come back?
 
-Yes. Under the Constitution every person can leave the Confederation at any time: they keep their personal belongings, but lose the vote and ordinary access to the Common Storehouses. They can ask to come back whenever they want, and return can be refused only in the very serious cases named by the Constitution. Someone who only changes Community is entitled to thirty days of transition and to accommodation in a Bridge House.
+Yes. Under the Constitution every person can leave the Confederation at any time: they keep their personal belongings, but leave the common home after a transition period and lose the vote and ordinary access to the Common Storehouses. They can ask to come back whenever they want, and return can be refused only in the very serious cases named by the Constitution. Someone who only changes Community is entitled to thirty days of transition and to accommodation in a Bridge House.
 
 Words: leave, go away, quit, return, come back, withdrawal, freedom to leave, cult, abandon, move, change community, exit
-Where: Const. 4.8; Const. 5.2
+Where: Const. 4.8; Const. 5.2; Code 1, art. 47, para. 3-bis
 
 ### What about those who live in the territory but do not want to join?
 
@@ -189,17 +189,17 @@ Where: Code 15, art. 15; Code 15, art. 17; Code 15, art. 19-bis, para. 3; Const.
 
 ### How are conflicts and crimes handled? Is there prison?
 
-The texts aim to repair the harm and protect people, not to punish. The ordinary way is a restorative procedure; if that is not enough, people chosen by lot and in rotation decide. The word "prison" does not appear, but for serious violence there is containment, which is a form of confinement: reviewed every six months, and in first application lasting up to five or ten years. For those under eighteen containment is excluded: at most an open educational placement, for up to a year. During the transition these measures do not apply: for crimes the public authorities remain competent.
+The texts aim to repair the harm and protect people, not to punish. The ordinary way is a restorative procedure; if that is not enough, people chosen by lot and in rotation decide. The word "prison" does not appear, but for serious violence there is containment, which is a form of confinement: reviewed every six months and lasting at most five or ten years. For those under eighteen containment is excluded: at most an open educational placement, for up to a year. During the transition these measures do not apply: for crimes the public authorities remain competent.
 
 Words: prison, jail, crimes, justice, court, judges, penalties, violence, theft, disputes, life sentence
 Where: Const. 30.1; Const. 31.2; Const. 1.3-bis; Code 4, art. 30, para. 3; Code 4, art. 25, para. 9; Annex 16-C, art. 7, para. 2
 
 ### Are there police, an army, weapons?
 
-The Constitution says there is no army and no permanent professional police. Protection is entrusted to an unarmed Civic Protection Corps, made up of volunteers chosen by lot, with shifts of ninety days at most. Weapons made to kill or seriously injure people are forbidden: they cannot be made or kept. The defence provided for is only civil and non-violent. The texts do not say how it would withstand an armed attack.
+The Constitution says there is no army and no permanent professional police. Protection is entrusted to an unarmed Civic Protection Corps, made up of volunteers chosen by lot, with shifts of ninety days at most. Weapons made to kill or seriously injure people are forbidden: they cannot be made or kept. The defence provided for is only civil and non-violent. Everyone may, however, defend themselves, other people and animals against an ongoing attack or ill-treatment, with only the force strictly necessary and without weapons. The texts do not say how it would withstand an armed attack.
 
-Words: police, army, weapons, security, defence, defense, war, guns, public order, military, self-defence, invasion
-Where: Const. 17.1; Const. 17.2; Const. 16.1; Const. 16.4
+Words: police, army, weapons, security, defence, defense, war, guns, public order, military, self-defence, self-defense, personal defence, invasion
+Where: Const. 17.1; Const. 17.2; Const. 16.1; Const. 16.4; Const. 17.9; Code 14, art. 8-sexies
 
 ### Is religion allowed?
 

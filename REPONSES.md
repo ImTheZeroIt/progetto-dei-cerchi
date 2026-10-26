@@ -129,10 +129,10 @@ Où: Code 3, art. 9; [Annexe UCR, brouillon](regles/brouillon-ucr.html)
 
 ### Puis-je garder ma maison et mes affaires ?
 
-Les objets personnels restent les vôtres : la Constitution les protège en tant que propriété personnelle. La maison où vous vivez est en usage : elle ne s’hérite pas, mais elle ne peut pas vous être retirée sans un autre logement adéquat. Tant qu’il existe un monde extérieur, ce que vous possédez en dehors de la Confédération reste à vous. Le mettre en commun est un choix volontaire.
+Les objets personnels restent les vôtres : la Constitution les protège en tant que propriété personnelle. La maison où vous vivez est en usage : elle ne s’hérite pas et elle ne peut pas vous être retirée sans un autre logement adéquat. Vous la quittez si vous changez de Communauté ou sortez de la Confédération, après une période de passage ; les personnes qui vivent avec vous peuvent y rester. Tant qu’il existe un monde extérieur, ce que vous possédez en dehors de la Confédération reste à vous. Le mettre en commun est un choix volontaire.
 
 Mots: maison, logement, appartement, propriété, mes affaires, objets personnels, expropriation, biens personnels, confiscation, prêt immobilier, crédit, épargne, économies, voiture, propriété privée
-Où: Const. 10.3; Const. 3.7; Const. 3.5-ter; Code 1, art. 47, al. 3; Code 15, art. 19-bis
+Où: Const. 10.3; Const. 3.7; Const. 3.5-ter; Code 1, art. 47, al. 3; Code 1, art. 47, al. 3-bis; Code 1, art. 47-ter; Code 15, art. 19-bis
 
 ### Puis-je avoir ma propre activité, un atelier, un champ ?
 
@@ -159,10 +159,10 @@ Où: Const. 3.1; Code 7, art. 6; Code 7, art. 2, al. 6; Const. 19.6; Code 7, art
 
 ### Puis-je partir ? Et puis-je revenir ?
 
-Oui. Selon la Constitution, chaque personne peut sortir de la Confédération à tout moment : elle conserve ses biens personnels, mais perd le droit de vote et l’accès ordinaire aux Entrepôts communs. Elle peut demander à revenir quand elle le veut, et le retour ne peut être refusé que dans les cas très graves indiqués par la Constitution. Qui change seulement de Communauté a droit à trente jours de passage et à un logement dans une Maison-relais.
+Oui. Selon la Constitution, chaque personne peut sortir de la Confédération à tout moment : elle conserve ses biens personnels, mais quitte le logement commun après une période de passage et perd le droit de vote et l’accès ordinaire aux Entrepôts communs. Elle peut demander à revenir quand elle le veut, et le retour ne peut être refusé que dans les cas très graves indiqués par la Constitution. Qui change seulement de Communauté a droit à trente jours de passage et à un logement dans une Maison-relais.
 
 Mots: sortir, partir, quitter, revenir, retourner, rentrer, retrait, liberté de sortie, secte, abandonner, déménager, changer de communauté, s’en aller
-Où: Const. 4.8; Const. 5.2
+Où: Const. 4.8; Const. 5.2; Code 1, art. 47, al. 3-bis
 
 ### Et ceux qui vivent sur le territoire mais ne veulent pas adhérer ?
 
@@ -189,17 +189,17 @@ Où: Code 15, art. 15; Code 15, art. 17; Code 15, art. 19-bis, al. 3; Const. 3.5
 
 ### Comment traite-t-on les conflits et les délits ? La prison existe-t-elle ?
 
-Les textes visent à réparer le tort et à protéger les personnes, pas à punir. La voie ordinaire est une procédure réparatrice ; si elle ne suffit pas, ce sont des personnes tirées au sort par rotation qui décident. Le mot « prison » n’y figure pas, mais pour la violence grave une mesure de confinement est prévue, qui est une forme de réclusion : réexaminée tous les six mois, en première application jusqu’à cinq ou dix ans. Pour les moins de dix-huit ans, le confinement est exclu : au plus un accueil éducatif ouvert, jusqu’à un an. Pendant la transition, ces mesures ne s’appliquent pas : pour les infractions, les autorités publiques restent compétentes.
+Les textes visent à réparer le tort et à protéger les personnes, pas à punir. La voie ordinaire est une procédure réparatrice ; si elle ne suffit pas, ce sont des personnes tirées au sort par rotation qui décident. Le mot « prison » n’y figure pas, mais pour la violence grave une mesure de confinement est prévue, qui est une forme de réclusion : réexaminée tous les six mois et d’une durée maximale de cinq ou dix ans. Pour les moins de dix-huit ans, le confinement est exclu : au plus un accueil éducatif ouvert, jusqu’à un an. Pendant la transition, ces mesures ne s’appliquent pas : pour les infractions, les autorités publiques restent compétentes.
 
 Mots: prison, taule, délits, crimes, infractions, justice, tribunal, juges, peines, violence, vol, disputes, perpétuité
 Où: Const. 30.1; Const. 31.2; Const. 1.3-bis; Code 4, art. 30, al. 3; Code 4, art. 25, al. 9; Annexe C, art. 7, al. 2
 
 ### Existe-t-il une police, une armée, des armes ?
 
-La Constitution dit qu’il n’existe ni armée ni police professionnelle permanente. La protection est confiée à un Corps de protection civique désarmé, formé de volontaires tirés au sort, avec des tours de service de quatre-vingt-dix jours au maximum. Les armes faites pour tuer ou blesser gravement les personnes sont interdites : on ne peut ni les fabriquer ni les détenir. La défense prévue est uniquement civile et non violente. Les textes ne disent pas comment elle résisterait à une agression armée.
+La Constitution dit qu’il n’existe ni armée ni police professionnelle permanente. La protection est confiée à un Corps de protection civique désarmé, formé de volontaires tirés au sort, avec des tours de service de quatre-vingt-dix jours au maximum. Les armes faites pour tuer ou blesser gravement les personnes sont interdites : on ne peut ni les fabriquer ni les détenir. La défense prévue est uniquement civile et non violente. Chacun peut toutefois se défendre, défendre d’autres personnes et les animaux contre une agression ou une maltraitance en cours, avec la seule force strictement nécessaire et sans armes. Les textes ne disent pas comment elle résisterait à une agression armée.
 
-Mots: police, armée, armes, sécurité, défense, guerre, pistolets, fusils, ordre public, militaires, gendarmes, gendarmerie, autodéfense, légitime défense, invasion
-Où: Const. 17.1; Const. 17.2; Const. 16.1; Const. 16.4
+Mots: police, armée, armes, sécurité, défense, guerre, pistolets, fusils, ordre public, militaires, gendarmes, gendarmerie, autodéfense, légitime défense, défense personnelle, invasion
+Où: Const. 17.1; Const. 17.2; Const. 16.1; Const. 16.4; Const. 17.9; Code 14, art. 8-sexies
 
 ### La religion est-elle permise ?
 
