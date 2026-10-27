@@ -15,6 +15,26 @@ Il naît d’une question simple :
 
 quelles alternatives avons-nous ?
 
+C’est une question qui naît de ce que nous voyons chaque jour.
+
+Nous vivons dans un monde qui produit plus que ce qui a jamais été produit, et pourtant des centaines de millions de personnes n’ont pas de quoi vivre.
+
+Ce n’est pas une contradiction : c’est la manière dont le système fonctionne.
+
+Quand la valeur de toute chose se mesure en profit, les personnes et la nature deviennent elles aussi des coûts. Le travail est payé le moins possible, les ressources sont consommées plus vite qu’elles ne se régénèrent, et ceux qui possèdent le plus accumulent encore.
+
+L’exploitation n’est donc pas un abus du système. C’est sa règle.
+
+Il en va de même pour la force.
+
+Les États en détiennent le monopole et disent s’en servir pour nous protéger. Mais cette même force est retournée contre ceux qui protestent, contre ceux qui contestent, contre d’autres peuples quand les intérêts l’exigent.
+
+Ceux qui décident d’une guerre la font rarement. Ceux qui provoquent une crise la paient rarement.
+
+C’est ce qui rend les injustices si difficiles à arrêter : ceux qui ont le pouvoir de les produire sont presque toujours à l’abri de leurs conséquences.
+
+C’est pourquoi il ne suffit pas d’en corriger les effets. Il faut changer les conditions qui les produisent.
+
 Le projet propose de construire une société dans laquelle la liberté de l’individu et la capacité de la collectivité à coopérer puissent coexister.
 
 Le point de départ est l’individu.
@@ -107,7 +127,15 @@ Un Cercle peut avoir une responsabilité spécifique sans devenir propriétaire 
 
 Une fonction peut demander de la continuité sans se transformer nécessairement en autorité permanente.
 
-C’est pourquoi le système prévoit des instruments de transparence, de vérification, de contestation, de rotation des fonctions lorsque c’est possible et de répartition des responsabilités.
+C’est pourquoi le système prévoit des instruments de transparence, de vérification, de contestation et de répartition des responsabilités.
+
+Ceux qui coordonnent sont tirés au sort parmi ceux qui se proposent, pour un temps limité, et ne peuvent pas rester.
+
+Il n’existe pas de politiciens de métier.
+
+Il n’existe ni armes ni police permanente : la sécurité est confiée à des personnes qui se relaient.
+
+Et ceux qui décident répondent des conséquences de ce qu’ils décident.
 
 L’objectif est de construire de l’organisation sans construire une nouvelle classe de dominants.
 
@@ -134,6 +162,14 @@ Le plus grand mérite est d’être utile à quelqu’un. Et plus grande est l�
 Cette reconnaissance concerne la contribution, non la dignité de la personne.
 
 Tous restent égaux dans leur dignité et dans leurs droits fondamentaux, même quand leurs contributions, leurs compétences et leurs responsabilités sont différentes.
+
+Le pacte est simple.
+
+Ceux qui peuvent font leur part du travail nécessaire à tous.
+
+Chacun reçoit ce dont il a besoin, non en proportion des heures.
+
+Ceux qui ne peuvent pas travailler reçoivent la même chose.
 
 La capacité individuelle devient ainsi une ressource pour la collectivité.
 
@@ -214,6 +250,28 @@ L’infrastructure permet de le réaliser.
 
 C’est pourquoi la publication des textes représente le début de la construction.
 
+## Comment il peut naître
+
+Le Projet des Cercles ne part pas de zéro.
+
+Il existe déjà des communautés qui mettent en commun ce qu’elles ont, décident ensemble et prennent soin les unes des autres. Certaines le font depuis des décennies.
+
+Elles sont le point de départ, et la preuve qu’il est possible de vivre ainsi.
+
+À côté d’elles, le projet prévoit deux voies.
+
+De petits groupes qui choisissent de vivre dès maintenant selon les règles, pour les mettre à l’épreuve et les corriger.
+
+Des réseaux d’entraide qui naissent dans les quartiers, là où les gens vivent, et grandissent en se reliant entre eux.
+
+Aucune étape n’exige la violence.
+
+Une société sans domination ne peut pas naître de la domination : si le changement était imposé par la force, il reproduirait ce qu’il veut dépasser.
+
+C’est pourquoi chaque étape est publique, et chaque choix reste libre.
+
+Le moment du changement, ce n’est ni un chef ni un parti qui le décide : ce sont les personnes, par leur vote.
+
 ## Une possibilité concrète
 
 Le Projet des Cercles part de la possibilité que ce dont nous avons hérité puisse être modifié.
@@ -231,3 +289,5 @@ Le projet commence par la personne, organise la collectivité et construit les o
 ## À toi qui as lu jusqu’ici
 
 Je ne sais pas si les conditions existent aujourd’hui pour essayer un système comme celui-ci, et je ne sais pas si elles existeront un jour. Je le publie quand même, parce que je le crois valable. Si dans cinquante ans quelqu’un se demande ce que l’on peut faire, il trouvera ici une base d’où partir.
+
+Si tu veux essayer, inutile d’attendre : le premier pas se fait avec ceux qui vivent près de toi.

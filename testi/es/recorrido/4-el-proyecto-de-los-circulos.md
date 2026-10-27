@@ -15,6 +15,26 @@ Nace de una pregunta sencilla:
 
 ¿qué alternativas tenemos?
 
+Es una pregunta que nace de lo que vemos cada día.
+
+Vivimos en un mundo que produce más de lo que jamás se ha producido y, sin embargo, cientos de millones de personas no tienen con qué vivir.
+
+No es una contradicción: es el modo en que funciona el sistema.
+
+Cuando el valor de todo se mide en beneficio, también las personas y la naturaleza se convierten en costes. El trabajo se paga lo menos posible, los recursos se consumen más deprisa de lo que se regeneran, y quien más posee acumula todavía más.
+
+La explotación, entonces, no es un abuso del sistema. Es su regla.
+
+Lo mismo vale para la fuerza.
+
+Los Estados tienen su monopolio y dicen usarla para protegernos. Pero esa misma fuerza se dirige contra quien protesta, contra quien disiente, contra otros pueblos cuando los intereses lo exigen.
+
+Quien decide una guerra rara vez la combate. Quien provoca una crisis rara vez la paga.
+
+Esto es lo que hace que las injusticias sean tan difíciles de detener: quien tiene el poder de producirlas casi siempre está a salvo de sus consecuencias.
+
+Por eso no basta con corregir sus efectos. Hay que cambiar las condiciones que las producen.
+
 El proyecto propone construir una sociedad en la que la libertad del individuo y la capacidad de la colectividad para cooperar puedan convivir.
 
 El punto de partida es el individuo.
@@ -107,7 +127,15 @@ Un Círculo puede tener una responsabilidad específica sin convertirse en propi
 
 Una función puede requerir continuidad sin transformarse necesariamente en una autoridad permanente.
 
-Por eso el sistema prevé instrumentos de transparencia, verificación, impugnación, rotación de las funciones cuando sea posible y distribución de las responsabilidades.
+Por eso el sistema prevé instrumentos de transparencia, verificación, impugnación y distribución de las responsabilidades.
+
+Quien coordina se elige por sorteo entre quienes se ofrecen, por un tiempo limitado, y no puede quedarse.
+
+No existen políticos de profesión.
+
+No existen armas ni una policía permanente: la seguridad se confía a personas que se turnan.
+
+Y quien decide responde de las consecuencias de lo que decide.
 
 El objetivo es construir organización sin construir una nueva clase de dominantes.
 
@@ -134,6 +162,14 @@ El mayor mérito es ser útil a alguien. Y cuanto mayor es la utilidad que se lo
 Este reconocimiento se refiere a la contribución, no a la dignidad de la persona.
 
 Todos siguen siendo iguales en su dignidad y en sus derechos fundamentales, incluso cuando sus contribuciones, competencias y responsabilidades son diferentes.
+
+El pacto es sencillo.
+
+Quien puede hace su parte del trabajo necesario para todos.
+
+Cada uno recibe lo que necesita, no en proporción a las horas.
+
+Quien no puede trabajar recibe lo mismo.
 
 La capacidad individual se convierte así en un recurso para la colectividad.
 
@@ -214,6 +250,28 @@ La infraestructura hace posible realizarlo.
 
 Por eso la publicación de los textos representa el inicio de la construcción.
 
+## Cómo puede nacer
+
+El Proyecto de los Círculos no parte de cero.
+
+Ya existen comunidades que ponen en común lo que tienen, deciden juntas y se cuidan unas a otras. Algunas lo hacen desde hace décadas.
+
+Son el punto de partida, y la prueba de que vivir así es posible.
+
+Junto a ellas, el proyecto prevé dos caminos.
+
+Pequeños grupos que eligen vivir ya según las reglas, para probarlas y corregirlas.
+
+Redes de apoyo mutuo que nacen en los barrios, donde vive la gente, y crecen conectándose entre sí.
+
+Ningún paso requiere violencia.
+
+Una sociedad sin dominio no puede nacer del dominio: si el cambio se impusiera por la fuerza, reproduciría lo que quiere superar.
+
+Por eso cada paso es público, y cada elección sigue siendo libre.
+
+El momento del cambio no lo decide un jefe ni un partido: lo deciden las personas, con su voto.
+
 ## Una posibilidad concreta
 
 El Proyecto de los Círculos parte de la posibilidad de que lo que hemos heredado pueda modificarse.
@@ -231,3 +289,5 @@ El proyecto empieza por la persona, organiza la colectividad y construye los ins
 ## A ti que has leído hasta aquí
 
 No sé si hoy existen las condiciones para probar un sistema como este, y no sé si existirán alguna vez. Lo publico de todos modos, porque lo creo válido. Si dentro de cincuenta años alguien se pregunta qué se puede hacer, aquí encontrará una base de la que partir.
+
+Si quieres intentarlo, no hace falta esperar: el primer paso se da junto a quienes viven a tu lado.

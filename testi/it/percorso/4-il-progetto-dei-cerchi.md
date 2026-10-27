@@ -15,6 +15,26 @@ Nasce da una domanda semplice:
 
 quali alternative abbiamo?
 
+È una domanda che nasce da ciò che vediamo ogni giorno.
+
+Viviamo in un mondo che produce più di quanto sia mai stato prodotto, eppure centinaia di milioni di persone non hanno di che vivere.
+
+Non è una contraddizione: è il modo in cui il sistema funziona.
+
+Quando il valore di ogni cosa si misura in profitto, anche le persone e la natura diventano costi. Il lavoro si paga il meno possibile, le risorse si consumano più in fretta di quanto si rigenerino, e chi possiede di più accumula ancora.
+
+Lo sfruttamento, allora, non è un abuso del sistema. È la sua regola.
+
+Lo stesso vale per la forza.
+
+Gli Stati ne detengono il monopolio e dicono di usarla per proteggerci. Ma la stessa forza viene rivolta contro chi protesta, contro chi dissente, contro altri popoli quando gli interessi lo richiedono.
+
+Chi decide una guerra raramente la combatte. Chi provoca una crisi raramente la paga.
+
+È questo che rende le ingiustizie così difficili da fermare: chi ha il potere di produrle è quasi sempre al riparo dalle loro conseguenze.
+
+Per questo non basta correggerne gli effetti. Bisogna cambiare le condizioni che le producono.
+
 Il progetto propone di costruire una società nella quale la libertà dell’individuo e la capacità della collettività di cooperare possano convivere.
 
 Il punto di partenza è l’individuo.
@@ -107,7 +127,15 @@ Un Cerchio può avere una responsabilità specifica senza diventare proprietario
 
 Una funzione può richiedere continuità senza trasformarsi necessariamente in un’autorità permanente.
 
-Per questo il sistema prevede strumenti di trasparenza, verifica, contestazione, rotazione delle funzioni quando possibile e distribuzione delle responsabilità.
+Per questo il sistema prevede strumenti di trasparenza, verifica, contestazione e distribuzione delle responsabilità.
+
+Chi coordina viene scelto a sorte tra chi si offre, per un tempo limitato, e non può restare.
+
+Non esistono politici di mestiere.
+
+Non esistono armi, né una polizia permanente: la sicurezza è affidata a persone che si danno il turno.
+
+E chi decide risponde delle conseguenze di ciò che decide.
 
 L’obiettivo è costruire organizzazione senza costruire una nuova classe di dominanti.
 
@@ -134,6 +162,14 @@ Il merito più grande è essere utili a qualcuno. E quanto più grande è l’ut
 Questo riconoscimento riguarda il contributo, non la dignità della persona.
 
 Tutti rimangono uguali nella propria dignità e nei propri diritti fondamentali, anche quando i loro contributi, competenze e responsabilità sono differenti.
+
+Il patto è semplice.
+
+Chi può fa la sua parte del lavoro necessario a tutti.
+
+Ognuno riceve ciò di cui ha bisogno, non in proporzione alle ore.
+
+Chi non può lavorare riceve lo stesso.
 
 La capacità individuale diventa così una risorsa per la collettività.
 
@@ -214,6 +250,28 @@ L’infrastruttura rende possibile realizzarlo.
 
 Per questo la pubblicazione dei testi rappresenta l’inizio della costruzione.
 
+## Come può nascere
+
+Il Progetto dei Cerchi non parte da zero.
+
+Esistono già comunità che mettono in comune ciò che hanno, decidono insieme e si prendono cura l’una dell’altra. Alcune lo fanno da decenni.
+
+Sono il punto di partenza, e la prova che vivere così è possibile.
+
+Accanto a loro, il progetto prevede due strade.
+
+Piccoli gruppi che scelgono di vivere già secondo le regole, per provarle e correggerle.
+
+Reti di mutuo aiuto che nascono nei quartieri, dove le persone vivono, e crescono collegandosi tra loro.
+
+Nessun passo richiede violenza.
+
+Una società senza dominio non può nascere dal dominio: se il cambiamento venisse imposto con la forza, riprodurrebbe ciò che vuole superare.
+
+Per questo ogni passo è pubblico, e ogni scelta resta libera.
+
+Il momento del cambiamento non lo decide un capo né un partito: lo decidono le persone, con il loro voto.
+
 ## Una possibilità concreta
 
 Il Progetto dei Cerchi parte dalla possibilità che ciò che abbiamo ereditato possa essere modificato.
@@ -231,3 +289,5 @@ Il progetto comincia dalla persona, organizza la collettività e costruisce gli 
 ## A te che hai letto fin qui
 
 Non so se oggi esistano le condizioni per provare un sistema come questo, e non so se esisteranno mai. Lo pubblico lo stesso, perché lo credo valido. Se tra cinquant’anni qualcuno si chiederà che cosa si può fare, qui troverà una base da cui partire.
+
+Se vuoi provarci, non serve aspettare: il primo passo si fa insieme a chi ci vive accanto.

@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 4 — ON RESTORATIVE JUSTICE AND GUARANTEE"
 breve: "Code 4 — Restorative justice and guarantee"
-versione: "V1.8"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 4
 id: "codice-04"
 slug: "code-04"
-allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 15 V1.8; Code 16 V1.8."
+allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.7; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.8; Code 14 V1.7; Code 15 V1.9; Code 16 V1.9."
 ---
 
 ## CHAPTER I — GENERAL PROVISIONS, PRINCIPLES AND DEFINITIONS
@@ -611,11 +611,11 @@ The Panel may not order a definitive or category exclusion, which is reserved to
 
 ### Art. 26-bis — Personal defence: lawfulness, excess and assessment
 
-1.  The use of force, interposition, holding and entry into a Circle 0 carried out within the limits of Article 17.9 of the Constitution and of Article 8-sexies of Code 14 do not constitute an offence.
+1.  The use of force, interposition, holding and entry into a Circle 0 carried out within the limits of Article 17.9 of the Constitution and of Article 8-sexies of Code 14, including defence against an animal that attacks a person provided for by paragraph 8 of that Article, do not constitute an offence.
 
-2.  Excess, and error as to the existence, imminence, duration or seriousness of the aggression, do not constitute an offence where they are due to fear, panic or distress that are excusable in the concrete circumstances. Excusability shall be assessed according to the circumstances as they appeared to the person at the time of the fact, taking into account in particular the speed of events, the difference in strength, the age and the physical and mental condition of the person and the violence they had already suffered from the aggressor. The error of a person who sought the confrontation in order to be able to use force is not excusable, nor is that of a person who acted out of the mere fear of a future aggression, without a concrete and immediate danger.
+2.  Excess, and error as to the existence, imminence, duration or seriousness of the aggression or of the ill-treatment, do not constitute an offence where they are due to fear, panic or distress that are excusable in the concrete circumstances. Excusability shall be assessed according to the circumstances as they appeared to the person at the time of the fact, taking into account in particular the speed of events, the difference in strength, the age and the physical and mental condition of the person and the violence they had already suffered from the aggressor. The error of a person who sought the confrontation in order to be able to use force is not excusable, nor is that of a person who acted out of the mere fear of a future aggression, without a concrete and immediate danger.
 
-3.  Outside the case of paragraph 2, the use of force beyond what is strictly necessary, during an ongoing aggression or ill-treatment and for the purpose of bringing it to an end, constitutes a Grade 4 offence, even when serious injury or death has resulted. Where the excess has caused no injury or only slight and reparable harm, it constitutes a Grade 2 offence.
+3.  Outside the case of paragraph 2, the use of force beyond what is strictly necessary, during an ongoing aggression or ill-treatment and for the purpose of bringing it to an end, constitutes a Grade 4 offence, even when serious injury or death has resulted. Where the excess has caused only slight and reparable harm, it constitutes a Grade 2 offence; where it has caused no appreciable harm, a Grade 1 offence.
 
 4.  The use of force that does not constitute defence within the meaning of Article 8-sexies, paragraph 5, of Code 14, including force aimed at killing or seriously injuring when it was not necessary to bring the aggression to an end, is classified in accordance with Article 26, paragraph 1. The aggression suffered shall be taken into account in the choice of measures.
 
@@ -627,9 +627,9 @@ The Panel may not order a definitive or category exclusion, which is reserved to
 
     c) in the other cases the Guarantee Circle, if no elements of an offence emerge, communicates this by reasoned determination to the persons involved pursuant to Article 5, paragraph 2, letter b). The determination does not ascertain responsibility and does not prevent the request for transmission under letter b);
 
-    d) the Guarantee Tribunal ascertains whether the limits of Article 8-sexies of Code 14 have been respected, whether paragraph 2 applies and, if not, the grade. Where a reasonable doubt remains as to the existence of the defence, responsibility for the use of force is not ascertained, pursuant to Article 25, paragraph 3. Where several persons invoke defence, the Tribunal ascertains who began the aggression;
+    d) the Guarantee Tribunal ascertains whether the limits of Article 8-sexies of Code 14 have been respected, whether paragraph 2 applies and, if not, the grade. Where a reasonable doubt remains as to the existence of the defence, responsibility for the use of force is not ascertained, pursuant to Article 25, paragraph 3. Where several persons invoke defence, the Tribunal ascertains who began the aggression. Where it ascertains an excess of Grade 1 or 2, the Tribunal transmits the case to the Guarantee Circle for the procedure of Article 28, paragraph 1, letter a); the ascertainment of the facts remains unaffected;
 
-    e) entry into a Circle 0 provided for by Article 8-sexies, paragraph 9, of Code 14 is in every case communicated to the Guarantee Tribunal, which within twenty-four hours reviews whether it took place within the limits of that paragraph and of Article 5.1, letter a), of the Constitution and orders, where necessary, the protection of the persons who live there. Entry outside those limits is classified in accordance with Article 26.
+    e) entry into a Circle 0 for the purposes of defence or of urgent assistance provided for by Article 8-sexies, paragraph 9, of Code 14 is in every case communicated to the Guarantee Tribunal, which within twenty-four hours reviews whether it took place within the limits of that paragraph and of Article 5.1, letter a), of the Constitution and orders, where necessary, the protection of the persons who live there. Entry outside those limits is classified in accordance with Article 26.
 
 6.  The defence invoked does not prevent the precautionary measures of Article 34, the protection pathways of Article 7-bis of Code 12 for each of the persons involved, or the assessment of the initial aggression. Where force has been used between persons who belong to the same Circle 0 or live together, the Guarantee Circle:
 

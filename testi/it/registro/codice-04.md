@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 4 — DELLA GIUSTIZIA RIPARATIVA E DELLA GARANZIA"
 breve: "Codice 4 — Giustizia riparativa e garanzia"
-versione: "V1.8"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 4
 id: "codice-04"
 slug: "codice-04"
-allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.8; Codice 16 V1.8."
+allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.7; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.8; Codice 14 V1.7; Codice 15 V1.9; Codice 16 V1.9."
 ---
 
 ## CAPO I — DISPOSIZIONI GENERALI, PRINCIPI E DEFINIZIONI
@@ -611,11 +611,11 @@ Il Collegio non può disporre un’esclusione definitiva o di categoria, riserva
 
 ### Art. 26-bis — Difesa personale: non illiceità, eccesso e accertamento
 
-1.  Non costituiscono illecito l’uso della forza, l’interposizione, il trattenimento e l’ingresso in un Cerchio 0 compiuti nei limiti dell’articolo 17.9 della Costituzione e dell’articolo 8-sexies del Codice 14.
+1.  Non costituiscono illecito l’uso della forza, l’interposizione, il trattenimento e l’ingresso in un Cerchio 0 compiuti nei limiti dell’articolo 17.9 della Costituzione e dell’articolo 8-sexies del Codice 14, compresa la difesa da un animale che aggredisce una persona prevista dal comma 8 di quell’articolo.
 
-2.  Non costituisce illecito l’eccesso, né l’errore sull’esistenza, sull’imminenza, sulla durata o sulla gravità dell’aggressione, dovuto a spavento, panico o turbamento scusabili nelle circostanze concrete. La scusabilità è valutata secondo le circostanze come apparivano alla persona nel momento del fatto, tenendo conto in particolare della rapidità degli eventi, della differenza di forza, dell’età, delle condizioni fisiche e psichiche della persona e delle violenze che essa aveva già subito dall’aggressore. Non è scusabile l’errore di chi ha cercato lo scontro per poter usare la forza, né quello di chi ha agito per il solo timore di un’aggressione futura, senza un pericolo concreto e immediato.
+2.  Non costituisce illecito l’eccesso, né l’errore sull’esistenza, sull’imminenza, sulla durata o sulla gravità dell’aggressione o del maltrattamento, dovuto a spavento, panico o turbamento scusabili nelle circostanze concrete. La scusabilità è valutata secondo le circostanze come apparivano alla persona nel momento del fatto, tenendo conto in particolare della rapidità degli eventi, della differenza di forza, dell’età, delle condizioni fisiche e psichiche della persona e delle violenze che essa aveva già subito dall’aggressore. Non è scusabile l’errore di chi ha cercato lo scontro per poter usare la forza, né quello di chi ha agito per il solo timore di un’aggressione futura, senza un pericolo concreto e immediato.
 
-3.  Fuori dal caso del comma 2, l’uso della forza oltre lo stretto necessario, durante un’aggressione o un maltrattamento in corso e allo scopo di farli cessare, costituisce illecito di Grado 4, anche quando ne sono derivate lesioni gravi o la morte. Quando l’eccesso non ha cagionato lesioni o ha cagionato soltanto un danno lieve e riparabile, costituisce illecito di Grado 2.
+3.  Fuori dal caso del comma 2, l’uso della forza oltre lo stretto necessario, durante un’aggressione o un maltrattamento in corso e allo scopo di farli cessare, costituisce illecito di Grado 4, anche quando ne sono derivate lesioni gravi o la morte. Quando l’eccesso ha cagionato soltanto un danno lieve e riparabile costituisce illecito di Grado 2; quando non ha cagionato alcun danno apprezzabile, di Grado 1.
 
 4.  L’uso della forza che non costituisce difesa ai sensi dell’articolo 8-sexies, comma 5, del Codice 14, compresa la forza diretta a uccidere o a ferire gravemente quando non era necessaria a far cessare l’aggressione, è qualificato secondo l’articolo 26, comma 1. L’aggressione subita è considerata nella scelta delle misure.
 
@@ -627,9 +627,9 @@ Il Collegio non può disporre un’esclusione definitiva o di categoria, riserva
 
     c) negli altri casi il Cerchio di Garanzia, se non emergono elementi di illecito, lo comunica con determinazione motivata alle persone coinvolte ai sensi dell’articolo 5, comma 2, lettera b). La determinazione non accerta la responsabilità e non impedisce la richiesta di trasmissione della lettera b);
 
-    d) il Tribunale di Garanzia accerta se sono stati rispettati i limiti dell’articolo 8-sexies del Codice 14, se ricorre il comma 2 e, in caso contrario, il grado. Quando resta un dubbio ragionevole sulla sussistenza della difesa, la responsabilità per l’uso della forza non è accertata, ai sensi dell’articolo 25, comma 3. Quando più persone invocano la difesa, il Tribunale accerta chi ha iniziato l’aggressione;
+    d) il Tribunale di Garanzia accerta se sono stati rispettati i limiti dell’articolo 8-sexies del Codice 14, se ricorre il comma 2 e, in caso contrario, il grado. Quando resta un dubbio ragionevole sulla sussistenza della difesa, la responsabilità per l’uso della forza non è accertata, ai sensi dell’articolo 25, comma 3. Quando più persone invocano la difesa, il Tribunale accerta chi ha iniziato l’aggressione. Quando accerta un eccesso di Grado 1 o 2, il Tribunale trasmette il caso al Cerchio di Garanzia per la procedura dell’articolo 28, comma 1, lettera a); l’accertamento dei fatti resta fermo;
 
-    e) l’ingresso in un Cerchio 0 previsto dall’articolo 8-sexies, comma 9, del Codice 14 è comunicato in ogni caso al Tribunale di Garanzia, che entro ventiquattro ore verifica se è avvenuto nei limiti di quel comma e dell’articolo 5.1, lettera a), della Costituzione e dispone, se necessario, la protezione delle persone che vi abitano. L’ingresso fuori da quei limiti è qualificato secondo l’articolo 26.
+    e) l’ingresso in un Cerchio 0 a fini di difesa o di soccorso urgente previsto dall’articolo 8-sexies, comma 9, del Codice 14 è comunicato in ogni caso al Tribunale di Garanzia, che entro ventiquattro ore verifica se è avvenuto nei limiti di quel comma e dell’articolo 5.1, lettera a), della Costituzione e dispone, se necessario, la protezione delle persone che vi abitano. L’ingresso fuori da quei limiti è qualificato secondo l’articolo 26.
 
 6.  La difesa invocata non impedisce le misure cautelari dell’articolo 34, i percorsi di protezione dell’articolo 7-bis del Codice 12 a tutela di ciascuna delle persone coinvolte, né l’accertamento dell’aggressione iniziale. Quando la forza è stata usata tra persone che appartengono allo stesso Cerchio 0 o vi convivono, il Cerchio di Garanzia:
 

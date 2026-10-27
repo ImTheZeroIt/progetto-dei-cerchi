@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 13 — BIODIVERSITY, SANCTUARIES AND FAUNA"
 breve: "Code 13 — Biodiversity, sanctuaries and fauna"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 13
 id: "codice-13"
 slug: "code-13"
-allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 14 V1.6; Code 15 V1.8; Code 16 V1.8."
+allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.7; Code 4 V1.9; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 14 V1.7; Code 15 V1.9; Code 16 V1.9."
 ---
 
 ## Art. 1 — Subject matter, definitions and legal nature
@@ -177,7 +177,7 @@ allineamento: "Constitution V.34; Code 1 V1.9; Code 2 V1.7; Code 3 V1.7; Code 4 
 
 3.  The methods, the conditions and the recording of interventions are defined by the Wildlife Management STV. Every intervention under letter c) of paragraph 1 is decided by the Biodiversity Council, as a branch of the Animal Care Competence Circle, with the mandatory opinion of the Agroecological Council where it concerns damage to crops and of the Health Council where it concerns health risks. In sanctuaries, Article 4, paragraph 3, also applies.
 
-4.  Article 8, paragraph 6, remains unaffected for a serious and immediate risk to a person or an animal.
+4.  Article 8, paragraph 6, remains unaffected for a serious and immediate risk to a person or an animal. Defence against an animal that attacks a person, provided for by Article 8-sexies, paragraph 8, of Code 14, remains unaffected.
 
 ## Art. 6 — Wild bees and wild pollinators
 

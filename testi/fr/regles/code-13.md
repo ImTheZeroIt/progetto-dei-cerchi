@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 13 — BIODIVERSITÉ, SANCTUAIRES ET FAUNE"
 breve: "Code 13 — Biodiversité, sanctuaires et faune"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 13
 id: "codice-13"
 slug: "code-13"
-allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 14 V1.6 ; Code 15 V1.8 ; Code 16 V1.8."
+allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.9 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 14 V1.7 ; Code 15 V1.9 ; Code 16 V1.9."
 ---
 
 ## Art. 1 — Objet, définitions et nature juridique
@@ -177,7 +177,7 @@ allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7
 
 3.  Les méthodes, les conditions et l’enregistrement des interventions sont définis par la STV Gestion de la faune. Chaque intervention de la lettre c) de l’alinéa 1 est décidée par le Conseil Biodiversité, en tant qu’échelon du Cercle de compétence Soin animal, avec l’avis obligatoire du Conseil agroécologique lorsqu’elle concerne des dommages aux cultures et du Conseil Santé lorsqu’elle concerne des risques sanitaires. Dans les sanctuaires, l’article 4, alinéa 3, s’applique également.
 
-4.  L’article 8, alinéa 6, demeure applicable en cas de risque grave et immédiat pour une personne ou un animal.
+4.  L’article 8, alinéa 6, demeure applicable en cas de risque grave et immédiat pour une personne ou un animal. Demeure applicable la défense contre un animal qui agresse une personne prévue par l’article 8-sexies, alinéa 8, du Code 14.
 
 ## Art. 6 — Abeilles sauvages et pollinisateurs sauvages
 

@@ -1,7 +1,7 @@
 ---
 titolo: "ALLEGATO TECNICO C AL CODICE 16 — CARTA OPERATIVA DEL PRIMO ANNO"
 breve: "Allegato C al Codice 16 — Carta operativa del primo anno"
-versione: "V1.2"
+versione: "V1.3"
 gruppo: "allegati"
 ordine: 16.3
 id: "codice-16-allegato-c"
@@ -13,7 +13,7 @@ Allegato tecnico adottato ai sensi dell’articolo 19 del Codice 3 e richiamato 
 
 ## Art. 1 — A chi serve e cosa contiene
 
-1.  La presente Carta è destinata a un Cerchio pilota composto da trenta a centocinquanta persone nella Fase 0 prevista dall’articolo 3 del Codice 16.
+1.  La presente Carta è destinata a un Cerchio pilota composto da trenta a cinquecento persone nella Fase 0 prevista dall’articolo 3 del Codice 16; sopra centocinquanta persone non si applica l’accorpamento dei Consigli dell’articolo 3, comma 2, salvo deliberazione dell’Assemblea.
 2.  Indica soltanto ciò che è necessario per cominciare. Tutto ciò che non è indicato si attiva per fasi, quando ne ricorrono le soglie, secondo gli articoli 3 e 4 del Codice 16.
 3.  Ogni regola della Carta rinvia alla disposizione da cui deriva. La Carta non può essere usata per imporre condotte non previste dai Codici.
 
@@ -55,7 +55,7 @@ Allegato tecnico adottato ai sensi dell’articolo 19 del Codice 3 e richiamato 
 1.  Si parte dai bisogni: ogni trimestre l’Assemblea approva il fabbisogno e il Bilancio del Lavoro previsti dall’articolo 2 del Codice 1.
 2.  Il CBO non supera una media di quindici ore settimanali, secondo l’articolo 3 del Codice 1. I compiti sgradevoli e usuranti ruotano tra tutti.
 3.  Se le ore necessarie superano quelle disponibili, prima si riducono le attività differibili e si semplificano gli adempimenti; non si aumenta il limite, salvo il Protocollo di Solidarietà, ai sensi dell’articolo 3, comma 3, del Codice 1.
-4.  Il lavoro esterno delle persone non è CBO e resta libero, secondo l’articolo 19 del Codice 15.
+4.  Il lavoro esterno delle persone non è CBO e resta libero, secondo l’articolo 19 del Codice 15, salvo il lavoro nelle filiere essenziali previsto dal suo comma 3.
 
 ## Art. 6 — Paniere e Magazzino
 

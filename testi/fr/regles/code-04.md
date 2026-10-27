@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 4 — DE LA JUSTICE RÉPARATRICE ET DE LA GARANTIE"
 breve: "Code 4 — Justice réparatrice et garantie"
-versione: "V1.8"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 4
 id: "codice-04"
 slug: "code-04"
-allineamento: "Constitution V.34 ; Code 1 V1.9 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 15 V1.8 ; Code 16 V1.8."
+allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.8 ; Code 14 V1.7 ; Code 15 V1.9 ; Code 16 V1.9."
 ---
 
 ## CHAPITRE I — DISPOSITIONS GÉNÉRALES, PRINCIPES ET DÉFINITIONS
@@ -611,11 +611,11 @@ Le Collège ne peut pas ordonner une exclusion définitive ou de catégorie, ré
 
 ### Art. 26-bis — Défense personnelle : absence d’infraction, excès et examen
 
-1.  Ne constituent pas une infraction l’usage de la force, l’interposition, la rétention et l’entrée dans un Cercle 0 accomplis dans les limites de l’article 17.9 de la Constitution et de l’article 8-sexies du Code 14.
+1.  Ne constituent pas une infraction l’usage de la force, l’interposition, la rétention et l’entrée dans un Cercle 0 accomplis dans les limites de l’article 17.9 de la Constitution et de l’article 8-sexies du Code 14, y compris la défense contre un animal qui agresse une personne prévue par l’alinéa 8 de cet article.
 
-2.  Ne constituent pas une infraction l’excès, ni l’erreur sur l’existence, l’imminence, la durée ou la gravité de l’agression, dus à une peur, une panique ou un trouble excusables dans les circonstances concrètes. Le caractère excusable est apprécié selon les circonstances telles qu’elles apparaissaient à la personne au moment du fait, en tenant compte en particulier de la rapidité des événements, de la différence de force, de l’âge, de l’état physique et psychique de la personne et des violences qu’elle avait déjà subies de la part de l’agresseur. N’est pas excusable l’erreur de qui a recherché l’affrontement pour pouvoir employer la force, ni celle de qui a agi par simple crainte d’une agression future, sans danger concret et immédiat.
+2.  Ne constituent pas une infraction l’excès, ni l’erreur sur l’existence, l’imminence, la durée ou la gravité de l’agression ou de la maltraitance, dus à une peur, une panique ou un trouble excusables dans les circonstances concrètes. Le caractère excusable est apprécié selon les circonstances telles qu’elles apparaissaient à la personne au moment du fait, en tenant compte en particulier de la rapidité des événements, de la différence de force, de l’âge, de l’état physique et psychique de la personne et des violences qu’elle avait déjà subies de la part de l’agresseur. N’est pas excusable l’erreur de qui a recherché l’affrontement pour pouvoir employer la force, ni celle de qui a agi par simple crainte d’une agression future, sans danger concret et immédiat.
 
-3.  Hors le cas de l’alinéa 2, l’usage de la force au-delà du strict nécessaire, pendant une agression ou une maltraitance en cours et dans le but de la faire cesser, constitue une infraction de Degré 4, même lorsqu’il en est résulté des blessures graves ou la mort. Lorsque l’excès n’a causé aucune blessure ou seulement un dommage léger et réparable, il constitue une infraction de Degré 2.
+3.  Hors le cas de l’alinéa 2, l’usage de la force au-delà du strict nécessaire, pendant une agression ou une maltraitance en cours et dans le but de la faire cesser, constitue une infraction de Degré 4, même lorsqu’il en est résulté des blessures graves ou la mort. Lorsque l’excès n’a causé qu’un dommage léger et réparable, il constitue une infraction de Degré 2 ; lorsqu’il n’a causé aucun dommage appréciable, une infraction de Degré 1.
 
 4.  L’usage de la force qui ne constitue pas une défense au sens de l’article 8-sexies, alinéa 5, du Code 14, y compris la force visant à tuer ou à blesser gravement lorsqu’elle n’était pas nécessaire pour faire cesser l’agression, est qualifié conformément à l’article 26, alinéa 1. L’agression subie est prise en compte dans le choix des mesures.
 
@@ -627,9 +627,9 @@ Le Collège ne peut pas ordonner une exclusion définitive ou de catégorie, ré
 
     c) dans les autres cas, le Cercle de garantie, si aucun élément d’infraction n’apparaît, le communique par une décision motivée aux personnes concernées au sens de l’article 5, alinéa 2, lettre b). La décision ne constate pas la responsabilité et n’empêche pas la demande de transmission de la lettre b) ;
 
-    d) le Tribunal de garantie constate si les limites de l’article 8-sexies du Code 14 ont été respectées, si l’alinéa 2 s’applique et, dans le cas contraire, le degré. Lorsqu’un doute raisonnable subsiste sur l’existence de la défense, la responsabilité pour l’usage de la force n’est pas constatée, au sens de l’article 25, alinéa 3. Lorsque plusieurs personnes invoquent la défense, le Tribunal constate qui a commencé l’agression ;
+    d) le Tribunal de garantie constate si les limites de l’article 8-sexies du Code 14 ont été respectées, si l’alinéa 2 s’applique et, dans le cas contraire, le degré. Lorsqu’un doute raisonnable subsiste sur l’existence de la défense, la responsabilité pour l’usage de la force n’est pas constatée, au sens de l’article 25, alinéa 3. Lorsque plusieurs personnes invoquent la défense, le Tribunal constate qui a commencé l’agression. Lorsqu’il constate un excès de Degré 1 ou 2, le Tribunal transmet le cas au Cercle de garantie pour la procédure de l’article 28, alinéa 1, lettre a) ; la constatation des faits demeure ;
 
-    e) l’entrée dans un Cercle 0 prévue par l’article 8-sexies, alinéa 9, du Code 14 est communiquée dans tous les cas au Tribunal de garantie, qui vérifie dans un délai de vingt-quatre heures si elle a eu lieu dans les limites de cet alinéa et de l’article 5.1, lettre a), de la Constitution et ordonne, si nécessaire, la protection des personnes qui y vivent. L’entrée hors de ces limites est qualifiée conformément à l’article 26.
+    e) l’entrée dans un Cercle 0 aux fins de la défense ou d’un secours urgent prévue par l’article 8-sexies, alinéa 9, du Code 14 est communiquée dans tous les cas au Tribunal de garantie, qui vérifie dans un délai de vingt-quatre heures si elle a eu lieu dans les limites de cet alinéa et de l’article 5.1, lettre a), de la Constitution et ordonne, si nécessaire, la protection des personnes qui y vivent. L’entrée hors de ces limites est qualifiée conformément à l’article 26.
 
 6.  La défense invoquée n’empêche ni les mesures conservatoires de l’article 34, ni les parcours de protection de l’article 7-bis du Code 12 au bénéfice de chacune des personnes concernées, ni l’examen de l’agression initiale. Lorsque la force a été employée entre des personnes qui appartiennent au même Cercle 0 ou qui y vivent ensemble, le Cercle de garantie :
 

@@ -1,7 +1,7 @@
 ---
 titolo: "TECHNICAL ANNEX C TO CODE 16 — FIRST-YEAR OPERATING CHARTER"
 breve: "Annex C to Code 16 — First-year operating charter"
-versione: "V1.2"
+versione: "V1.3"
 gruppo: "allegati"
 ordine: 16.3
 id: "codice-16-allegato-c"
@@ -12,7 +12,7 @@ Technical annex adopted pursuant to Article 19 of Code 3 and referred to in Arti
 
 ## Art. 1 — Whom it is for and what it contains
 
-1.  This Charter is intended for a pilot Circle composed of thirty to one hundred and fifty persons in Phase 0 provided for by Article 3 of Code 16.
+1.  This Charter is intended for a pilot Circle composed of thirty to five hundred persons in Phase 0 provided for by Article 3 of Code 16; above one hundred and fifty persons, the grouping of the Councils of Article 3, paragraph 2, does not apply, unless the Assembly resolves otherwise.
 2.  It indicates only what is necessary in order to begin. Everything that is not indicated is activated in phases, when the relevant thresholds are met, in accordance with Articles 3 and 4 of Code 16.
 3.  Every rule of the Charter refers to the provision from which it derives. The Charter shall not be used to impose conduct not provided for by the Codes.
 
@@ -54,7 +54,7 @@ Technical annex adopted pursuant to Article 19 of Code 3 and referred to in Arti
 1.  The starting point is needs: every quarter the Assembly approves the requirement and the Labour Balance provided for by Article 2 of Code 1.
 2.  The CBO shall not exceed an average of fifteen hours per week, in accordance with Article 3 of Code 1. Unpleasant and arduous tasks rotate among all.
 3.  If the hours needed exceed those available, first the deferrable activities are reduced and the formalities are simplified; the limit is not increased, except under the Solidarity Protocol, pursuant to Article 3, paragraph 3, of Code 1.
-4.  People’s external work is not CBO and remains free, in accordance with Article 19 of Code 15.
+4.  People’s external work is not CBO and remains free, in accordance with Article 19 of Code 15, except for the work in the essential supply chains provided for by its paragraph 3.
 
 ## Art. 6 — Basket and Storehouse
 

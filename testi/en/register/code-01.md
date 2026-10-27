@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 1 — ON THE MANDATORY BASE CONTRIBUTION AND THE SYSTEM OF COMMON STOREHOUSES"
 breve: "Code 1 — Base contribution and Common Storehouses"
-versione: "V1.9"
+versione: "V1.10"
 gruppo: "codici"
 ordine: 1
 id: "codice-01"
 slug: "code-01"
-allineamento: "Constitution V.34; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.7; Code 14 V1.6; Code 15 V1.8; Code 16 V1.8."
+allineamento: "Constitution V.35; Code 2 V1.7; Code 3 V1.7; Code 4 V1.9; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.8; Code 14 V1.7; Code 15 V1.9; Code 16 V1.9."
 ---
 
 ## TITLE I — GENERAL PRINCIPLES
@@ -312,7 +312,7 @@ allineamento: "Constitution V.34; Code 2 V1.7; Code 3 V1.7; Code 4 V1.8; Code 5 
 
 1.  The goods belonging to the Storehouses are commons, undivided, inalienable and exempt from seizure, in accordance with the Constitution.
 
-1-bis. When the Balance provided for by Code 15 is active, surplus goods that constitute a Federable Balance within the meaning of Article 2 of Code 15 are entered in the Pool and allocated in accordance with Code 15; the Circle does not choose their recipient. Paragraph 2 applies to non-federable surplus goods, to obsolete goods, to goods at risk of waste not reassigned within the time limit of Article 6 of Code 15 and to goods that the body competent for the Pool declares not necessary to the Pool.
+1-bis. When the Balance provided for by Code 15 is active, surplus goods that constitute a Federable Balance within the meaning of Article 2 of Code 15 are entered in the Pool and allocated in accordance with Code 15; the Circle does not choose their recipient. Paragraph 2 applies to non-federable surplus goods, to obsolete goods, to goods at risk of waste not reassigned within the time limit of Article 6 of Code 15 and to goods that the body competent for the Pool declares not necessary to the Pool. For the associated Community of Article 21-bis of Code 15, paragraph 2, letter b), of that Article applies.
 
 2.  Surplus goods or goods that have become obsolete shall be managed in the following order of priority:
 

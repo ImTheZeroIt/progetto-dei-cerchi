@@ -285,3 +285,15 @@ Sono risultate infondate anche alcune parti di segnalazioni rimaste, che sono st
    - priorità, Paniere, casa e risorse: le scelte di C12 e C13, C15, C16, C18 (Cod. 1, art. 47.3), C19, C20, C54, C55, C60;
    - Rete, beni e decisioni tecniche: C11, C21, C22, C62, C65 e le parti di fondo di C34, C46, C48, C70.
 4. Dopo aver applicato le correzioni, **ripetere il controllo automatico dei rinvii** e rileggere gli articoli toccati.
+
+## Verifica delle novità (26 ottobre 2026)
+
+Una verifica di coerenza mirata ha riletto le novità del 19–26 ottobre: difesa personale, Comunità associate ed equivalenza al confine, percorso delle reti del Codice 16. Ogni voce è stata riletta da un secondo lettore che ha provato a smontarla; sono rimaste 67 voci: 14 di gravità alta, 32 media e 21 bassa, più 2 punti lasciati aperti dall'autore (Bene Comune vitale ed eccesso lieve nella difesa).
+
+| Rapporto | Alta | Media | Bassa |
+|---|---|---|---|
+| Difesa personale | 1 | 7 | 5 |
+| Comunità associate | 7 | 12 | 5 |
+| Percorso delle reti | 6 | 13 | 11 |
+
+Le correzioni sono state applicate il 26 ottobre 2026 (Costituzione V.35 e Codici allineati); l'elenco è nel Registro delle modifiche, voce «26 ottobre 2026 — verifica di coerenza delle novità». Due proposte che avrebbero toccato il Nucleo Inviolabile non sono state applicate; una voce non chiedeva modifiche.

@@ -15,6 +15,26 @@ It arises from a simple question:
 
 what alternatives do we have?
 
+It is a question that arises from what we see every day.
+
+We live in a world that produces more than has ever been produced, and yet hundreds of millions of people do not have enough to live on.
+
+This is not a contradiction: it is the way the system works.
+
+When the value of everything is measured in profit, people and nature also become costs. Labour is paid as little as possible, resources are consumed faster than they regenerate, and those who own the most accumulate still more.
+
+Exploitation, then, is not an abuse of the system. It is its rule.
+
+The same is true of force.
+
+States hold a monopoly on it and say they use it to protect us. But the same force is turned against those who protest, against those who dissent, against other peoples when interests require it.
+
+Those who decide on a war rarely fight it. Those who cause a crisis rarely pay for it.
+
+This is what makes injustices so hard to stop: those with the power to produce them are almost always sheltered from their consequences.
+
+That is why it is not enough to correct their effects. The conditions that produce them must change.
+
 The project proposes to build a society in which the freedom of the individual and the capacity of the collectivity to cooperate can coexist.
 
 The starting point is the individual.
@@ -107,7 +127,15 @@ A Circle can have a specific responsibility without becoming the owner of the ma
 
 A function can require continuity without necessarily turning into a permanent authority.
 
-For this reason the system provides for instruments of transparency, verification, challenge, rotation of functions where possible and distribution of responsibilities.
+For this reason the system provides for instruments of transparency, verification, challenge and distribution of responsibilities.
+
+Those who coordinate are drawn by lot from among those who volunteer, for a limited time, and cannot stay on.
+
+There are no professional politicians.
+
+There are no weapons, nor a standing police force: security is entrusted to people who take turns.
+
+And those who decide answer for the consequences of what they decide.
 
 The aim is to build organisation without building a new class of dominators.
 
@@ -134,6 +162,14 @@ The greatest merit is to be useful to someone. And the greater the usefulness on
 This recognition concerns the contribution, not the dignity of the person.
 
 All remain equal in their dignity and in their fundamental rights, even when their contributions, competences and responsibilities are different.
+
+The pact is simple.
+
+Those who can do their share of the work necessary for all.
+
+Everyone receives what they need, not in proportion to the hours worked.
+
+Those who cannot work receive the same.
 
 Individual capacity thus becomes a resource for the collectivity.
 
@@ -214,6 +250,28 @@ Infrastructure makes it possible to achieve it.
 
 For this reason the publication of the texts represents the beginning of the construction.
 
+## How it can begin
+
+The Circles Project does not start from nothing.
+
+There are already communities that pool what they have, decide together and look after one another. Some have done so for decades.
+
+They are the starting point, and the proof that living this way is possible.
+
+Alongside them, the project foresees two paths.
+
+Small groups that choose to live by the rules already, to test them and correct them.
+
+Mutual aid networks that arise in neighbourhoods, where people live, and grow by connecting with one another.
+
+No step requires violence.
+
+A society without domination cannot be born of domination: if change were imposed by force, it would reproduce what it seeks to overcome.
+
+That is why every step is public, and every choice remains free.
+
+The moment of change is decided neither by a leader nor by a party: it is decided by the people, with their vote.
+
 ## A concrete possibility
 
 The Circles Project starts from the possibility that what we have inherited can be modified.
@@ -231,3 +289,5 @@ The project begins from the person, organises the collectivity and builds the in
 ## To you who have read this far
 
 I do not know whether the conditions exist today to try a system like this, and I do not know whether they ever will. I am publishing it all the same, because I believe it is valid. If in fifty years someone asks what can be done, here they will find a base to start from.
+
+If you want to try, there is no need to wait: the first step is taken together with those who live beside you.

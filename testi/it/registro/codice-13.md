@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 13 — BIODIVERSITÀ, SANTUARI E FAUNA"
 breve: "Codice 13 — Biodiversità, santuari e fauna"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 13
 id: "codice-13"
 slug: "codice-13"
-allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 14 V1.6; Codice 15 V1.8; Codice 16 V1.8."
+allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.9; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 14 V1.7; Codice 15 V1.9; Codice 16 V1.9."
 ---
 
 ## Art. 1 — Oggetto, definizioni e natura giuridica
@@ -177,7 +177,7 @@ allineamento: "Costituzione V.34; Codice 1 V1.9; Codice 2 V1.7; Codice 3 V1.7; C
 
 3.  I metodi, le condizioni e la registrazione degli interventi sono definiti dalla STV Gestione della Fauna. Ogni intervento della lettera c) del comma 1 è deciso dal Consiglio Biodiversità, come articolazione del Cerchio di Competenza Cura Animale, con il parere obbligatorio del Consiglio Agroecologico quando riguarda danni alle colture e del Consiglio Salute quando riguarda rischi sanitari. Nei santuari si applica anche l’articolo 4, comma 3.
 
-4.  Resta fermo l’articolo 8, comma 6, per il rischio grave e immediato per una persona o un animale.
+4.  Resta fermo l’articolo 8, comma 6, per il rischio grave e immediato per una persona o un animale. Resta ferma la difesa da un animale che aggredisce una persona prevista dall’articolo 8-sexies, comma 8, del Codice 14.
 
 ## Art. 6 — Api selvatiche e impollinatori selvatici
 

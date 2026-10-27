@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 1 — DEL CONTRIBUTO DI BASE OBBLIGATORIO E DEL SISTEMA DEI MAGAZZINI COMUNI"
 breve: "Codice 1 — Contributo di base e Magazzini comuni"
-versione: "V1.9"
+versione: "V1.10"
 gruppo: "codici"
 ordine: 1
 id: "codice-01"
 slug: "codice-01"
-allineamento: "Costituzione V.34; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.7; Codice 14 V1.6; Codice 15 V1.8; Codice 16 V1.8."
+allineamento: "Costituzione V.35; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.9; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.8; Codice 14 V1.7; Codice 15 V1.9; Codice 16 V1.9."
 ---
 
 ## TITOLO I — PRINCIPI GENERALI
@@ -312,7 +312,7 @@ allineamento: "Costituzione V.34; Codice 2 V1.7; Codice 3 V1.7; Codice 4 V1.8; C
 
 1.  I beni appartenenti ai Magazzini sono beni comuni, indivisi, inalienabili e non pignorabili, secondo la Costituzione.
 
-1-bis. Quando il Saldo previsto dal Codice 15 è attivo, i beni eccedenti che costituiscono Saldo Federabile ai sensi dell’articolo 2 del Codice 15 sono iscritti nel Pool e destinati secondo il Codice 15; il Cerchio non ne sceglie il destinatario. Il comma 2 si applica ai beni eccedenti non federabili, ai beni obsoleti, ai beni a rischio di spreco non riassegnati entro il termine dell’articolo 6 del Codice 15 e ai beni che l’organo competente per il Pool dichiara non necessari al Pool.
+1-bis. Quando il Saldo previsto dal Codice 15 è attivo, i beni eccedenti che costituiscono Saldo Federabile ai sensi dell’articolo 2 del Codice 15 sono iscritti nel Pool e destinati secondo il Codice 15; il Cerchio non ne sceglie il destinatario. Il comma 2 si applica ai beni eccedenti non federabili, ai beni obsoleti, ai beni a rischio di spreco non riassegnati entro il termine dell’articolo 6 del Codice 15 e ai beni che l’organo competente per il Pool dichiara non necessari al Pool. Per la Comunità associata dell’articolo 21-bis del Codice 15 si applica il comma 2, lettera b), di quell’articolo.
 
 2.  I beni eccedenti o divenuti obsoleti sono gestiti secondo il seguente ordine di priorità:
 

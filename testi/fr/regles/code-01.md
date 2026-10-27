@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 1 — DE LA CONTRIBUTION DE BASE OBLIGATOIRE ET DU SYSTÈME DES ENTREPÔTS COMMUNS"
 breve: "Code 1 — Contribution de base et Entrepôts communs"
-versione: "V1.9"
+versione: "V1.10"
 gruppo: "codici"
 ordine: 1
 id: "codice-01"
 slug: "code-01"
-allineamento: "Constitution V.34 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.7 ; Code 14 V1.6 ; Code 15 V1.8 ; Code 16 V1.8."
+allineamento: "Constitution V.35 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.9 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.8 ; Code 14 V1.7 ; Code 15 V1.9 ; Code 16 V1.9."
 ---
 
 ## TITRE I — PRINCIPES GÉNÉRAUX
@@ -312,7 +312,7 @@ allineamento: "Constitution V.34 ; Code 2 V1.7 ; Code 3 V1.7 ; Code 4 V1.8
 
 1.  Les biens appartenant aux Entrepôts sont des biens communs, indivis, inaliénables et insaisissables, conformément à la Constitution.
 
-1-bis. Lorsque le Solde prévu par le Code 15 est actif, les biens excédentaires qui constituent un Solde fédérable au sens de l’article 2 du Code 15 sont inscrits dans le Pool et affectés conformément au Code 15 ; le Cercle n’en choisit pas le destinataire. L’alinéa 2 s’applique aux biens excédentaires non fédérables, aux biens obsolètes, aux biens à risque de gaspillage non réaffectés dans le délai de l’article 6 du Code 15 et aux biens que l’organe compétent pour le Pool déclare non nécessaires au Pool.
+1-bis. Lorsque le Solde prévu par le Code 15 est actif, les biens excédentaires qui constituent un Solde fédérable au sens de l’article 2 du Code 15 sont inscrits dans le Pool et affectés conformément au Code 15 ; le Cercle n’en choisit pas le destinataire. L’alinéa 2 s’applique aux biens excédentaires non fédérables, aux biens obsolètes, aux biens à risque de gaspillage non réaffectés dans le délai de l’article 6 du Code 15 et aux biens que l’organe compétent pour le Pool déclare non nécessaires au Pool. Pour la Communauté associée de l’article 21-bis du Code 15, l’alinéa 2, lettre b), de cet article s’applique.
 
 2.  Les biens excédentaires ou devenus obsolètes sont gérés selon l’ordre de priorité suivant :
 

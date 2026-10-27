@@ -1,7 +1,7 @@
 ---
 titolo: "ANNEXE TECHNIQUE C AU CODE 16 — CHARTE OPÉRATIONNELLE DE LA PREMIÈRE ANNÉE"
 breve: "Annexe C au Code 16 — Charte opérationnelle de la première année"
-versione: "V1.2"
+versione: "V1.3"
 gruppo: "allegati"
 ordine: 16.3
 id: "codice-16-allegato-c"
@@ -13,7 +13,7 @@ Annexe technique adoptée en application de l’article 19 du Code 3 et visée a
 
 ## Art. 1 — À qui elle sert et ce qu’elle contient
 
-1.  La présente Charte est destinée à un Cercle pilote composé de trente à cent cinquante personnes pendant la Phase 0 prévue à l’article 3 du Code 16.
+1.  La présente Charte est destinée à un Cercle pilote composé de trente à cinq cents personnes pendant la Phase 0 prévue à l’article 3 du Code 16 ; au-delà de cent cinquante personnes, le regroupement des Conseils de l’article 3, alinéa 2, ne s’applique pas, sauf délibération de l’Assemblée.
 2.  Elle n’indique que ce qui est nécessaire pour commencer. Tout ce qui n’y est pas indiqué s’active par phases, lorsque les seuils correspondants sont atteints, conformément aux articles 3 et 4 du Code 16.
 3.  Chaque règle de la Charte renvoie à la disposition dont elle découle. La Charte ne peut pas être utilisée pour imposer des comportements non prévus par les Codes.
 
@@ -55,7 +55,7 @@ Annexe technique adoptée en application de l’article 19 du Code 3 et visée a
 1.  On part des besoins : chaque trimestre, l’Assemblée approuve les besoins et le Bilan du travail prévus à l’article 2 du Code 1.
 2.  La CBO ne dépasse pas une moyenne de quinze heures hebdomadaires, conformément à l’article 3 du Code 1. Les tâches désagréables et pénibles tournent entre tous.
 3.  Si les heures nécessaires dépassent les heures disponibles, on réduit d’abord les activités qui peuvent être différées et on simplifie les formalités ; on n’augmente pas la limite, sauf dans le cadre du Protocole de solidarité, en application de l’article 3, alinéa 3, du Code 1.
-4.  Le travail extérieur des personnes n’est pas de la CBO et reste libre, conformément à l’article 19 du Code 15.
+4.  Le travail extérieur des personnes n’est pas de la CBO et reste libre, conformément à l’article 19 du Code 15, sauf le travail dans les filières essentielles prévu par son alinéa 3.
 
 ## Art. 6 — Panier et Entrepôt
 
