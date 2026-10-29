@@ -6,6 +6,20 @@ From here on, every accepted change will be recorded on this page with its date,
 
 # Changes
 
+## 29 October 2026 — Spanish translation of the rules
+
+The Constitution, the sixteen Codes and the four Annexes have been translated into Spanish (`testi/es/registro/`) and published on the website with their change log (`CAMBIOS.md`) and the PDF and ODT files to download; the answers to the questions in Spanish now link to the Spanish articles. No rule changes in substance. This is a working translation, to be reviewed by native Spanish speakers; the terminology is fixed in `testi/es/GLOSARIO.md`. The Italian text is the authoritative one.
+
+## 27 October 2026 — Code 3: approval of the UCR Annex; technical drafts aligned
+
+**Code 3** (Arts. 9.3 and 19.3). The two paragraphs said different things about who approves the UCR Technical Annex: “the competent Assembly” and “the Assembly of Circle 1”. By the author’s decision, the calculation method is common to all the Communities of Circle 2: it is prepared by the Accounting and Quality Councils in federated coordination, proposed by Circle 2 and approved by its General Assembly. Each Community approves its own values according to that method through its own Assembly. Before Circle 2 exists, Art. 14.10 applies. No other text was in conflict (Constitution and Codes 1, 2, 4, 7, 15 and 16 checked).
+
+**Technical drafts** (Basket Annex, UCR Annex, CdR table; version 0.2, still not adopted). Brought into line with the rules in force: housing, energy, clothing and hygiene as in the Codes; goods of level 1–2 and deferrable goods; complete Health and Care Baskets; Emergency Basket of the networks. The balance of hours now counts eighteen-year-olds with voluntary CBO, housing of 22 m², the Bridge Houses, civic protection outside the one tenth and a share for the Basin (declared minimum estimates): between 9 and 14 hours a week instead of 9–13. The CdR table uses the CBO estimated by the UCR draft and adds cultural activities, travel and robots in risky tasks. Each draft has a section “What is needed to adopt it”. The programs `strumenti/bilancio_ore.py` and `strumenti/simula_cdr.py` and the register of parameters are updated.
+
+Reason: review of the drafts of 27 October 2026; the author’s decision on the approval of the UCR Annex. The Inviolable Core is not touched.
+
+Versions: Code 3 from V1.7 to V1.8.
+
 ## 26 October 2026 — consistency review of the new provisions (personal defence, associated Communities, networks path)
 
 A targeted consistency review re-read the new provisions of 19–26 October (personal defence, associated Communities, networks path); a second reader tried to dismantle each item. The items that held up are corrected: for the author’s choices as stated below, for the others according to the recommendation of the reports.

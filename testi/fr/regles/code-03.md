@@ -1,7 +1,7 @@
 ---
 titolo: "CODE 3 — DE LA DÉLIBÉRATION, DES SEUILS ET DE L’ASSEMBLÉE"
 breve: "Code 3 — Délibération, seuils et Assemblée"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
@@ -309,7 +309,7 @@ L’avis contraignant négatif empêche l’adoption de la décision tant que la
 
 2.  L’UCR n’est pas un prix de marché. Elle sert à comparer des alternatives, à rendre transparent le coût systémique et à prévenir l’accumulation.
 
-3.  La méthodologie est définie dans l’Annexe technique UCR, élaborée par le Conseil Comptabilité et par le Conseil Qualité et approuvée par l’Assemblée compétente.
+3.  La méthodologie est définie dans l’Annexe technique UCR. La méthode de calcul est commune à toutes les Communautés du Cercle 2 : elle est élaborée par les Conseils Comptabilité et par les Conseils Qualité en coordination fédérée, proposée par le Cercle 2 et approuvée par son Assemblée générale en application de l’article 14. Chaque Communauté détermine selon cette méthode ses propres valeurs, qui sont élaborées par son Conseil Comptabilité et par son Conseil Qualité et approuvées par l’Assemblée du Cercle 1. Jusqu’à la constitution du Cercle 2, l’article 14, alinéa 10, s’applique.
 
 4.  L’Annexe technique UCR régit au moins :
 
@@ -642,7 +642,7 @@ e) les actes du Conseil commun sont publiés conformément à l’article 15 et 
 
 1.  Les Annexes techniques relatives aux UCR et à l’évaluation du risque ne constituent pas des dispositions autonomes du présent Code.
 2.  Les méthodologies contenues dans les Annexes sont obligatoires pour l’application des articles 5 à 11.
-3.  Les Annexes sont approuvées et modifiées par l’Assemblée du Cercle 1 selon la méthode délibérative applicable.
+3.  Les Annexes sont approuvées et modifiées par l’Assemblée du Cercle 1 selon la méthode délibérative applicable. Pour l’Annexe technique UCR, la méthode de calcul commune est approuvée par l’Assemblée générale du Cercle 2 et les valeurs de chaque Communauté par l’Assemblée du Cercle 1, en application de l’article 9, alinéa 3.
 4.  Chaque Annexe indique sa version, sa date d’approbation, son champ d’application, ses responsables techniques et ses modalités de révision.
 5.  Une Annexe ne peut pas modifier les seuils, les compétences ou les garanties fixés directement par la Constitution ou par les Codes.
 

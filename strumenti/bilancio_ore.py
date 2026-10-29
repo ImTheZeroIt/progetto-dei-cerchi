@@ -8,6 +8,8 @@ Ogni numero è un'ipotesi dichiarata: per provarne un'altra basta cambiarla qui 
     python3 strumenti/bilancio_ore.py
 
 Le fonti di ogni valore sono elencate nella bozza. Dove non c'è una fonte, il valore è segnato «ipotesi».
+Il conto vale a regime, con le regole in vigore il 27 ottobre 2026. La tabella del CdR (strumenti/simula_cdr.py)
+usa il CBO stimato da questo programma.
 """
 
 # ------------------------------------------------------------------ popolazione
@@ -19,7 +21,13 @@ ETA["18-69"] = 100 - sum(ETA.values())
 SOTTO_3 = 2.57           # bambini sotto i tre anni, % della popolazione (Eurostat, demo_pjan)
 SOTTO_1 = 0.806          # nati nell'anno, % della popolazione (Eurostat, demo_pjan)
 GENITORI_PER_BAMBINO = 1.8    # ipotesi: qualche bambino ha fratelli sotto i tre anni o un solo genitore
-ALTRE_RIDUZIONI = 0.05   # ipotesi: disabilità grave, caregiver, malattia (Cod. 1, art. 11)
+ALTRE_RIDUZIONI = 0.05   # ipotesi: disabilità grave, caregiver, malattia, riduzione modulata per gravidanza, lutto
+                         # e crisi (Cod. 1, art. 11, c. 1, lett. a, b, c ed e)
+DICIOTTENNI = 1.1        # ipotesi: una leva annuale, circa l'1,1% della popolazione. Chi cresce nella Confederazione ha il
+                         # CBO volontario fino alla scelta della Cost. 26.4, cioè fino a dodici mesi dopo i 18 anni
+                         # (Cod. 5, art. 6, c. 6): non è contato tra i contributori
+QUOTA_ESSENZIALI = 0.10  # ipotesi, solo per la transizione: quota dei contributori che lavora fuori in una filiera
+                         # essenziale e se la vede computare nel CBO (Cod. 16, art. 16, c. 2, lett. d; Cod. 15, art. 19, c. 3)
 
 LIMITE_ORE = 15          # Cod. 1, art. 3
 SETTIMANE = 52
@@ -72,7 +80,21 @@ BUCATO_KG_ORA = 25           # 19-26 kg per ora di lavoro (FMLink, «Benchmarkin
 ORE_PULIZIE = 2 * 365        # ipotesi: spazi comuni
 ORE_RETE = 8 * 52            # ipotesi
 ORE_SANTUARI = 10 * 52       # ipotesi: santuari animali e riparazione ambientale
-QUOTA_CIVICA = 0.10          # tetto: Cod. 3, art. 12-bis, c. 13
+QUOTA_CIVICA = 0.10          # tetto del tempo amministrativo: Consigli, garanzia, facilitazione, contabilità e
+                             # documentazione obbligatoria (Cod. 3, art. 12-bis, c. 13), usato come stima
+ORE_TUTELA = 2 * 365         # ipotesi minima: turni del Corpo di Tutela Civica e altre funzioni della Lista D che non
+                             # rientrano nel decimo; si contano a parte (Cod. 1, art. 2, c. 7, lett. e)
+ORE_BACINO_PER_PERSONA = 5   # ipotesi minima: ore all'anno per abitante per le funzioni comuni dei Cerchi 2 e 3 e per
+                             # la quota federata del Pool, che valgono come CBO (Cod. 15, art. 7, c. 3; art. 21-bis, c. 2, lett. c)
+
+# ------------------------------------------------------------------ alloggio e Rete
+M2_ALLOGGIO = 22             # ipotesi: superficie media a persona con le misure del Cod. 1, art. 47-bis, c. 2,
+                             # se i Cerchi 0 sono come le famiglie italiane di oggi
+M2_ALLOGGIO_CONFRONTO = 15   # il valore della prima versione della bozza (Millward-Hopkins e altri, 2020), per confronto
+M2_COMUNI = 5                # ipotesi: edifici comuni a persona
+CASE_PONTE = 0.125           # Case Ponte: dal 10 al 15% dell'abitato (Cost. 12.1; Cod. 11, art. 6-ter, c. 1); qui il 12,5%
+EURO_M2 = 750                # ipotesi: euro di materiali per m2
+QUOTA_DAI_12 = 0.88          # ipotesi: quota delle persone dai dodici anni, che possono chiedere un telefono (Cod. 7, art. 3, c. 9)
 
 # ------------------------------------------------------------------ manufatti, contati sul bisogno
 # Ogni riga: gruppo, voce, prezzo in euro, anni di durata, persone che condividono il bene.
@@ -86,16 +108,16 @@ MANUFATTI = [
     ("Persona e Nucleo", "frigorifero con congelatore", 600, 15, 3),
     ("Persona e Nucleo", "piano di cottura e forno", 500, 15, 3),
     ("Persona e Nucleo", "lavatrice in lavanderia comune", 1500, 12, 15),
-    ("Persona e Nucleo", "telefono", 250, 6, 1),
-    ("Persona e Nucleo", "computer del Nucleo", 600, 7, 3),
+    ("Persona e Nucleo", "telefono, su richiesta dai dodici anni", 250 * QUOTA_DAI_12, 6, 1),
     ("Persona e Nucleo", "Nodo-IA personale", 400, 8, 1),
     ("Persona e Nucleo", "bicicletta e ricambi", 800, 15, 1),
     ("Persona e Nucleo", "prodotti per l'igiene", 120, 1, 1),
     ("Persona e Nucleo", "lampade, piccoli apparecchi, attrezzi domestici", 400, 10, 1),
     ("Salute", "farmaci e materiale sanitario", 300, 1, 1),
     ("Salute", "attrezzature sanitarie del Bacino", 1500, 15, 1),
-    ("Abitare", "materiali per abitazioni: 15 m2 a 750 euro di materiali al m2", 11250, 80, 1),
-    ("Abitare", "materiali per edifici comuni: 5 m2 a persona", 3750, 80, 1),
+    ("Abitare", "materiali per abitazioni: m2 a persona per euro di materiali al m2", M2_ALLOGGIO * EURO_M2, 80, 1),
+    ("Abitare", "materiali per le Case Ponte: una quota dell'abitato", M2_ALLOGGIO * EURO_M2 * CASE_PONTE, 80, 1),
+    ("Abitare", "materiali per edifici comuni", M2_COMUNI * EURO_M2, 80, 1),
     ("Energia e acqua", "fotovoltaico: 2 kW a persona", 2400, 25, 1),
     ("Energia e acqua", "accumulo", 500, 12, 1),
     ("Energia e acqua", "calore: pompe di calore, solare termico", 1500, 18, 1),
@@ -109,6 +131,7 @@ MANUFATTI = [
     ("Mobilità e Rete", "tre mezzi elettrici leggeri e cargo bike", 100000, 12, 150),
     ("Mobilità e Rete", "trasporto pubblico: 3.000 km l'anno a 10 centesimi", 300, 1, 1),
     ("Mobilità e Rete", "server, apparati e cavi della Rete", 60000, 8, 150),
+    ("Mobilità e Rete", "punto di accesso assistito: dispositivi condivisi (ipotesi: cinque da 600 euro)", 3000, 6, 150),
     ("Mobilità e Rete", "collegamento alla rete esterna", 60, 1, 1),
     ("Apprendimento", "materiali e strumenti", 50, 1, 1),
 ]
@@ -117,10 +140,26 @@ FATTORE_ORE_IMPORTATE = 2    # ipotesi senza fonte: i beni prodotti dove il lavo
 # da settori più produttivi: le ore dei beni importati sono quindi probabilmente sovrastimate.
 
 
+AMMINISTRATIVO = "Funzioni civiche: tempo amministrativo (al più un decimo)"
+APPRENDIMENTO = "Altre attività: apprendimento dei minori"
+
+
+def manufatti_ore(r, m2=None, case_ponte=None):
+    """Ore all'anno dei manufatti per tutta la Comunità; m2 e case_ponte permettono un confronto."""
+    tot = 0
+    for _, voce, euro, anni, persone in MANUFATTI:
+        if voce.startswith("materiali per abitazioni") and m2 is not None:
+            euro = m2 * EURO_M2
+        if voce.startswith("materiali per le Case Ponte") and case_ponte is not None:
+            euro = (M2_ALLOGGIO if m2 is None else m2) * EURO_M2 * case_ponte
+        tot += euro / anni / persone
+    return tot * r["ore_per_euro"] * PERSONE
+
+
 def conto():
     r = {}
     # --- chi contribuisce
-    adulti = PERSONE * ETA["18-69"] / 100
+    adulti = PERSONE * (ETA["18-69"] - DICIOTTENNI) / 100
     settantenni = PERSONE * ETA["70-74"] / 100 * 0.5
     puerpere = PERSONE * SOTTO_1 / 100
     genitori = PERSONE * SOTTO_3 / 100 * GENITORI_PER_BAMBINO - puerpere
@@ -156,20 +195,24 @@ def conto():
         "Cura: anziani e persone non autosufficienti":
             PERSONE * ANZIANI / 100 * ADDETTI_CURA_PER_100_ANZIANI / 100 * annue,
         "Cura: nido": ORE_NIDO,
-        "Apprendimento dei minori": minori_3_17 / ALUNNI_PER_INSEGNANTE * annue,
         "Manutenzione": ue("costruzioni") * QUOTA_MANUTENZIONE,
         "Logistica": ORE_LOGISTICA,
-        "Altre attività": altre,
+        # il Bilancio del Lavoro ha sette categorie (Cod. 1, art. 2, c. 7, lett. a): l'apprendimento sta in «altre attività»
+        "Altre attività: apprendimento dei minori": minori_3_17 / ALUNNI_PER_INSEGNANTE * annue,
+        "Altre attività: lavanderia, pulizie, Rete, santuari": altre,
+        "Altre attività: funzioni comuni del Bacino e quota federata": ORE_BACINO_PER_PERSONA * PERSONE,
+        "Funzioni civiche: tutela civica e altre funzioni della Lista D": ORE_TUTELA,
     }
     # --- scenario B: servizi al livello dell'UE di oggi
     b = dict(a)
     b["Cura: sanità"] = ue("sanità")
     b["Cura: anziani e persone non autosufficienti"] = ue("assistenza sociale")
     b["Cura: nido"] = 0.0          # già compreso nell'assistenza sociale
-    b["Apprendimento dei minori"] = ue("istruzione")
+    b["Altre attività: apprendimento dei minori"] = ue("istruzione")
     b["Manutenzione"] = ue("costruzioni")
     for s in (a, b):
-        s["Funzioni civiche e documentazione"] = sum(s.values()) / (1 - QUOTA_CIVICA) * QUOTA_CIVICA
+        # il decimo si calcola sul CBO totale della Comunità, tempo amministrativo compreso
+        s[AMMINISTRATIVO] = sum(s.values()) / (1 - QUOTA_CIVICA) * QUOTA_CIVICA
     r["A"], r["B"] = a, b
     r["manifattura_ue"] = ue("manifattura") - ue("industria alimentare")   # il cibo è già contato sopra
     r["cibo_ue"] = ue("agricoltura") + ue("industria alimentare") + ue("ristorazione e alloggio")
@@ -188,15 +231,17 @@ def stampa():
     n = lambda x: ("%d" % round(x)).rjust(7)
     print("Comunità di %d persone" % PERSONE)
     print("Contributori equivalenti: %.1f (%.0f%% della popolazione)" % (r["contributori"], 100 * r["contributori"] / PERSONE))
+    print("  di cui: 18-69 anni %.1f persone, meno i diciottenni con CBO volontario %.1f; 70-74 anni %.1f persone (metà CBO)"
+          % (PERSONE * ETA["18-69"] / 100, PERSONE * DICIOTTENNI / 100, PERSONE * ETA["70-74"] / 100))
     print("Ore disponibili all'anno: %s  (%.0f per abitante)" % (n(r["disponibili"]), r["disponibili"] / PERSONE))
     print("\nTerra per il Paniere Alimentare")
     for v in r["ettari"]:
         print("  %-14s %5.2f ha  %s ore" % (v, r["ettari"][v], n(r["campo"][v])))
     print("  %-14s %5.2f ha  %s ore" % ("totale", sum(r["ettari"].values()), n(sum(r["campo"].values()))))
     print("  trasformazione %s ore; pasti collettivi %s ore" % (n(ORE_TRASFORMAZIONE), n(r["pasti"])))
-    print("\n%-46s %9s %9s" % ("Ore necessarie all'anno", "A", "B"))
+    print("\n%-64s %9s %9s" % ("Ore necessarie all'anno", "A", "B"))
     for v in r["A"]:
-        print("%-46s %9s %9s" % (v, n(r["A"][v]), n(r["B"][v])))
+        print("%-64s %9s %9s" % (v, n(r["A"][v]), n(r["B"][v])))
     for nome, s in (("A", r["A"]), ("B", r["B"])):
         tot = sum(s.values())
         print("Scenario %s: %s ore = %.0f%% delle disponibili = %.1f ore a settimana per contributore"
@@ -219,6 +264,12 @@ def stampa():
     print("  %-18s %6.0f euro  %s ore = %.1f ore a settimana per contributore" % ("totale", tot_e, n(ore_m), sett0(ore_m)))
     print("  con il fattore %d per i beni importati: %s ore = %.1f ore a settimana"
           % (FATTORE_ORE_IMPORTATE, n(ore_m * FATTORE_ORE_IMPORTATE), sett0(ore_m * FATTORE_ORE_IMPORTATE)))
+    cp = ore_m - manufatti_ore(r, case_ponte=0)
+    conf = manufatti_ore(r, m2=M2_ALLOGGIO_CONFRONTO, case_ponte=0)
+    print("  di cui Case Ponte (%.1f%% dell'abitato): %s ore = %.2f ore a settimana"
+          % (100 * CASE_PONTE, n(cp), sett0(cp)))
+    print("  confronto: alloggio di %d m2 a persona e niente Case Ponte: %s ore = %.1f ore a settimana (%.1f con il fattore %d)"
+          % (M2_ALLOGGIO_CONFRONTO, n(conf), sett0(conf), sett0(conf * FATTORE_ORE_IMPORTATE), FATTORE_ORE_IMPORTATE))
     print("\nConto completo: lavoro interno più manufatti (ore a settimana per contributore)")
     for nome in ("A", "B"):
         interno = sum(r[nome].values())
@@ -227,6 +278,12 @@ def stampa():
                  sett0(interno + ore_m * FATTORE_ORE_IMPORTATE),
                  LIMITE_ORE - sett0(interno + ore_m * FATTORE_ORE_IMPORTATE), LIMITE_ORE - sett0(interno + ore_m)))
     print("  inventario triplicato: A %.1f, B %.1f" % (sett0(sum(r["A"].values()) + 3 * ore_m), sett0(sum(r["B"].values()) + 3 * ore_m)))
+    for nome in ("A", "B"):
+        interno = sum(r[nome].values())
+        per_altri = r["contributori"] * (1 - QUOTA_ESSENZIALI)
+        print("  in transizione, se il %.0f%% dei contributori lavora in una filiera essenziale computata nel CBO: "
+              "scenario %s, lavoro interno %.1f ore a settimana per gli altri contributori"
+              % (100 * QUOTA_ESSENZIALI, nome, interno / per_altri / SETTIMANE))
     print("  1.000 euro di acquisti per persona all'anno = %.1f ore a settimana per contributore"
           % sett0(1000 * r["ore_per_euro"] * PERSONE))
     print("  scenario B: %.0f%% delle ore lavorate oggi nell'UE per abitante"
@@ -234,8 +291,8 @@ def stampa():
     # stima indipendente: McElroy e O'Neill (2025), Global Environmental Change 92, 103008, Regno Unito.
     # Il 36,7 non è uno scenario calcolato: è una stima degli autori in una frase della discussione (lo scenario
     # minimo più le voci che vi mancano). «Minimo realistico» è un'espressione del progetto: gli autori dicono che
-    # nessuno scenario è realistico. Con la base dello studio (15-64 anni, 46,6 settimane, 80%) le circa 13 ore
-    # del progetto (scenario B con il fattore 2) diventerebbero circa 18.
+    # nessuno scenario è realistico. Con la base dello studio (15-64 anni, 46,6 settimane, 80%) si converte anche
+    # il conto del progetto (scenario B con il fattore 2).
     print("\nStima indipendente (McElroy e O'Neill, 2025), riportata in ore di CBO")
     quota_15_64 = 0.638
     for nome, ore in (("solo beni indispensabili", 17.5), ("minimo più servizi mancanti, stima degli autori", 36.7),
@@ -243,6 +300,9 @@ def stampa():
         per_abitante = ore * 46.6 * 0.8 * quota_15_64
         print("  %s: %.0f ore per abitante all'anno = %.1f ore di CBO a settimana"
               % (nome, per_abitante, per_abitante * PERSONE / r["contributori"] / SETTIMANE))
+    massimo = sum(r["B"].values()) + ore_m * FATTORE_ORE_IMPORTATE
+    print("  le %.1f ore di questo conto (scenario B con il fattore %d), con la base dello studio: %.1f ore a settimana"
+          % (sett0(massimo), FATTORE_ORE_IMPORTATE, massimo / PERSONE / (46.6 * 0.8 * quota_15_64)))
     casa = r["casa_nel_cbo"]
     print("  lavoro di casa portato nel CBO (pasti, nido, lavanderia, pulizie): %s ore = %.1f ore a settimana"
           % (n(casa), casa / r["contributori"] / SETTIMANE))
@@ -270,9 +330,7 @@ def stampa():
     print("\nIl limite è individuale: persone abilitate necessarie a %d ore l'anno ciascuna" % ore_persona)
     for nome in ("A", "B"):
         print("  scenario %s: sanità %.1f; apprendimento dei minori %.1f"
-              % (nome, r[nome]["Cura: sanità"] / ore_persona, r[nome]["Apprendimento dei minori"] / ore_persona))
-    print("  cinquecento UCR = %.0f euro = %.2f%% delle ore annue; 2.500 UCR = %.0f euro = %.2f%%"
-          % (500 / r["ore_per_euro"], 100 * 500 / r["disponibili"], 2500 / r["ore_per_euro"], 100 * 2500 / r["disponibili"]))
+              % (nome, r[nome]["Cura: sanità"] / ore_persona, r[nome][APPRENDIMENTO] / ore_persona))
     print("\nLe soglie del Codice 3 (500 e 2.500 UCR) rispetto al lavoro annuo dello scenario A, secondo la dimensione")
     per_abitante = tot_a / PERSONE
     anno_contributore = tot_a / r["contributori"]
@@ -285,6 +343,7 @@ def stampa():
               "con la proposta: %d (%.1f%%, %.0f euro) e %d (%.1f%%, %.0f euro)"
               % (persone, 100 * 500 / lavoro, 100 * 2500 / lavoro, bassa, 100 * bassa / lavoro, bassa / r["ore_per_euro"],
                  alta, 100 * alta / lavoro, alta / r["ore_per_euro"]))
+    print("  base delle percentuali: ore necessarie dello scenario A (le stesse di PARAMETRI)")
     farmaci = 300 * r["ore_per_euro"]
     print("  farmaci e materiale sanitario di un anno (300 euro a persona): %.0f UCR per 30 persone, %.0f per 150"
           % (30 * farmaci, 150 * farmaci))
@@ -324,8 +383,8 @@ def automazione():
                 "Manutenzione e costruzioni": a["Manutenzione"], "Logistica": a["Logistica"]}
     persone = {"Pasti collettivi": r["pasti"],
                "Cura: sanità, anziani, nido": a["Cura: sanità"] + a["Cura: anziani e persone non autosufficienti"] + a["Cura: nido"],
-               "Apprendimento": a["Apprendimento dei minori"]}
-    interno = sum(v for k, v in a.items() if k != "Funzioni civiche e documentazione")
+               "Apprendimento": a[APPRENDIMENTO]}
+    interno = sum(v for k, v in a.items() if not k.startswith("Funzioni civiche"))
     print("\nAutomazione (scenario A)")
     print("  Lavoro che le macchine possono alleggerire:")
     for k, v in macchine.items():
@@ -345,11 +404,40 @@ def automazione():
               % (100 * quota, sett(totale), sett(totale - lordo), sett(totale - netto)))
     dieci = tot_m * 0.10 / (1 - QUOTA_CIVICA)
     print("  ogni 10%% in meno vale %.0f minuti a settimana per contributore" % (sett(dieci) * 60))
+    # esempio del § 5.1: tutte le voci dell'art. 6-bis, c. 7, del Codice 7 (valori d'esempio, non misure)
+    h = r["ore_per_euro"]
+    costruzione = 60000 / 15 * h
+    formazione = 40 / 15                 # esempio: 40 ore di formazione di chi la usa, ripartite sui 15 anni
+    fine_vita = 60000 * 0.05 / 15 * h    # esempio: smaltimento e recupero pari al 5% del prezzo
+    manutenzione = 50                    # esempio: 50 ore di manutenzione l'anno
     print("  esempio: una macchina da 60.000 euro che dura 15 anni costa %.0f UCR l'anno (%.0f se fatta per metà dove il lavoro rende meno)"
-          % (60000 / 15 * r["ore_per_euro"], 60000 / 15 * r["ore_per_euro"] * 2))
+          % (costruzione, costruzione * FATTORE_ORE_IMPORTATE))
+    print("    formazione di chi la usa (40 ore) %.1f e fine vita (5%% del prezzo) %.1f UCR l'anno; con %d ore di manutenzione: da %.0f a %.0f ore l'anno"
+          % (formazione, fine_vita, manutenzione, costruzione + formazione + fine_vita + manutenzione,
+             costruzione * FATTORE_ORE_IMPORTATE + formazione + fine_vita * FATTORE_ORE_IMPORTATE + manutenzione))
+
+
+def paniere():
+    """Quantità della bozza del Paniere (bozze/allegato-paniere.md) per la Comunità tipo."""
+    print("\nPaniere (bozza del Paniere)")
+    ospiti = 0.15                        # Cod. 11, art. 6-ter, c. 5: ospiti fino al 15% dei residenti
+    print("  acqua: 50 litri per %d persone = %.1f m3 al giorno; con il %.0f%% di ospiti %.1f m3; acqua calda 20 litri = %.1f m3 all'anno a persona"
+          % (PERSONE, 50 * PERSONE / 1000, 100 * ospiti, 50 * PERSONE * (1 + ospiti) / 1000, 20 * 365 / 1000))
+    print("  terra (Peters e altri, 0,13-0,14 ettari a persona): %.0f ettari per %d persone; %.0f-%.0f per 500"
+          % (0.135 * PERSONE, PERSONE, 0.13 * 500, 0.14 * 500))
+    print("  energia (Millward-Hopkins): 15,3 GJ = %.0f kWh all'anno = %.1f kWh al giorno" % (15.3e9 / 3.6e6, 15.3e9 / 3.6e6 / 365))
+    print("  sei mesi della dieta del Paniere, a persona (riferimento per il Paniere d'emergenza): " + ", ".join(
+        "%s %.0f kg" % (v, GRAMMI[v] * 365 / 2 / 1000) for v in ("cereali", "legumi", "frutta secca", "olio")))
+
+
+def cbo_stimato():
+    """Lavoro interno a settimana per contributore negli scenari A e B: è il CBO stimato usato da simula_cdr.py."""
+    r = conto()
+    return {nome: sum(r[nome].values()) / r["contributori"] / SETTIMANE for nome in ("A", "B")}
 
 
 if __name__ == "__main__":
     stampa()
     esempio_pane()
     automazione()
+    paniere()

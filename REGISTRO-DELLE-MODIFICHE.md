@@ -6,6 +6,20 @@ Da qui in avanti ogni modifica accolta sarà annotata in questa pagina con la da
 
 # Modifiche
 
+## 29 ottobre 2026 — Traduzione spagnola delle regole
+
+La Costituzione, i sedici Codici e i quattro Allegati sono tradotti in spagnolo (`testi/es/registro/`) e pubblicati sul sito con questo registro (`CAMBIOS.md`) e con i file PDF e ODT da scaricare; le risposte alle domande in spagnolo rimandano ora agli articoli spagnoli. Nessuna regola cambia nel contenuto. È una traduzione di lavoro, da far rileggere a persone di madrelingua spagnola; i termini sono fissati in `testi/es/GLOSARIO.md`. Il testo che fa fede è quello italiano.
+
+## 27 ottobre 2026 — Codice 3: approvazione dell’Allegato UCR; bozze tecniche allineate
+
+**Codice 3** (artt. 9.3 e 19.3). I due commi dicevano cose diverse su chi approva l’Allegato Tecnico UCR: «l’Assemblea competente» e «l’Assemblea del Cerchio 1». Per decisione dell’autore, il metodo di calcolo è comune a tutte le Comunità del Cerchio 2: lo predispongono i Consigli Contabilità e Qualità in coordinamento federato, lo propone il Cerchio 2 e lo approva la sua Assemblea Generale. Ogni Comunità approva con la propria Assemblea i propri valori secondo quel metodo. Prima del Cerchio 2 si applica l’art. 14.10. Nessun altro testo era in contrasto (controllati Costituzione, Codici 1, 2, 4, 7, 15 e 16).
+
+**Bozze tecniche** (Allegato del Paniere, Allegato UCR, tabella del CdR; versione 0.2, sempre non adottate). Allineate alle regole in vigore: alloggio, energia, vestiario e igiene come nei Codici; beni di livello 1–2 e differibili; Paniere Salute e Cura completi; Paniere d’emergenza delle reti. Il bilancio delle ore conta ora i diciottenni con CBO volontario, l’alloggio di 22 m², le Case Ponte, la tutela civica fuori dal decimo e una quota per il Bacino (stime minime dichiarate): tra 9 e 14 ore a settimana invece di 9–13. La tabella del CdR usa il CBO stimato dalla bozza UCR e aggiunge attività culturali, trasferte e robot nei compiti rischiosi. Ogni bozza ha una sezione «Che cosa serve per adottarla». Aggiornati i programmi `strumenti/bilancio_ore.py` e `strumenti/simula_cdr.py` e il registro dei parametri.
+
+Ragione: verifica delle bozze del 27 ottobre 2026; decisione dell’autore sull’approvazione dell’Allegato UCR. Il Nucleo Inviolabile non è toccato.
+
+Versioni: Codice 3 da V1.7 a V1.8.
+
 ## 26 ottobre 2026 — verifica di coerenza delle novità (difesa personale, Comunità associate, percorso delle reti)
 
 Una verifica di coerenza mirata ha riletto le novità del 19–26 ottobre (difesa personale, Comunità associate, percorso delle reti); per ogni voce un secondo lettore ha provato a smontarla. Sono corrette le voci che hanno retto: per le scelte dell’autore come indicato sotto, per le altre secondo la raccomandazione dei rapporti.

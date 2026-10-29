@@ -73,8 +73,7 @@ LINGUE = {
               "que hablan de ello.",
         etichetta="Tu pregunta", segnaposto="trabajo, casa, dinero, salir…", cerca="Buscar",
         nota="No es una inteligencia artificial: compara tus palabras con los textos y te lleva al pasaje. "
-             "La búsqueda se hace en tu navegador: ninguna pregunta se envía ni se registra. "
-             "Las reglas (Constitución y Códigos) están por ahora en italiano e inglés.",
+             "La búsqueda se hace en tu navegador: ninguna pregunta se envía ni se registra.",
         senza_script="Para buscar hace falta JavaScript. Abajo están de todos modos las preguntas más comunes.",
         frequenti="Preguntas frecuentes", dove="Dónde leerlo",
         h_risposta="Respuesta breve", h_testi="Dónde lo tratan los textos",

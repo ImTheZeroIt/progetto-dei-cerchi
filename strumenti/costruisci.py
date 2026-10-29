@@ -47,7 +47,7 @@ TITOLO_HOME = {
     "it": "Progetto dei Cerchi — Confederazione dei Cerchi: Costituzione e Codici",
     "en": "The Circles Project — Confederation of Circles: Constitution and Codes",
     "fr": "Projet des Cercles — Confédération des Cercles\u202f: Constitution et Codes",
-    "es": "Proyecto de los Círculos — Confederación de los Círculos",
+    "es": "Proyecto de los Círculos — Confederación de los Círculos: Constitución y Códigos",
 }
 DESC_REGOLA = {
     "it": "{breve}: testo completo, versione {v}. Fa parte delle regole della Confederazione dei Cerchi, "
@@ -80,11 +80,11 @@ PARAMETRI = {
 BOZZE = {
     "it": [
         dict(chiave="paniere", md="bozze/allegato-paniere.md", pagina="bozza-paniere.html",
-             titolo="Allegato annuale del Paniere di Sufficienza", nota="bozza 0.1"),
+             titolo="Allegato annuale del Paniere di Sufficienza", nota="bozza 0.2"),
         dict(chiave="ucr", md="bozze/allegato-ucr.md", pagina="bozza-ucr.html",
-             titolo="Allegato UCR e primo bilancio delle ore", nota="bozza 0.1"),
+             titolo="Allegato UCR e primo bilancio delle ore", nota="bozza 0.2"),
         dict(chiave="cdr", md="bozze/tabella-cdr.md", pagina="bozza-cdr.html",
-             titolo="Tabella pubblica del CdR", nota="bozza 0.1"),
+             titolo="Tabella pubblica del CdR", nota="bozza 0.2"),
         dict(chiave="proposte", md="PROPOSTE.md", pagina="proposte.html",
              titolo="Proposte di modifica (archivio)", nota="accolte il 19 ottobre 2026", classe=""),
         dict(chiave="verifica", md="VERIFICA-PROPOSTE.md", pagina="verifica-proposte.html",
@@ -94,11 +94,11 @@ BOZZE = {
     ],
     "en": [
         dict(chiave="paniere", md="testi/en/drafts/draft-basket.md", pagina="draft-basket.html",
-             titolo="Annual Annex of the Sufficiency Basket", nota="draft 0.1"),
+             titolo="Annual Annex of the Sufficiency Basket", nota="draft 0.2"),
         dict(chiave="ucr", md="testi/en/drafts/draft-ucr.md", pagina="draft-ucr.html",
-             titolo="UCR Annex and first balance of hours", nota="draft 0.1"),
+             titolo="UCR Annex and first balance of hours", nota="draft 0.2"),
         dict(chiave="cdr", md="testi/en/drafts/draft-cdr.md", pagina="draft-cdr.html",
-             titolo="Public CdR table", nota="draft 0.1"),
+             titolo="Public CdR table", nota="draft 0.2"),
         dict(chiave="proposte", md="testi/en/drafts/proposals.md", pagina="proposals.html",
              titolo="Change proposals (archive)", nota="accepted on 19 October 2026", classe=""),
         dict(chiave="verifica", md="testi/en/drafts/proposals-review.md", pagina="proposals-review.html",
@@ -106,11 +106,11 @@ BOZZE = {
     ],
     "fr": [
         dict(chiave="paniere", md="testi/fr/brouillons/brouillon-panier.md", pagina="brouillon-panier.html",
-             titolo="Annexe annuelle du Panier de suffisance", nota="brouillon 0.1"),
+             titolo="Annexe annuelle du Panier de suffisance", nota="brouillon 0.2"),
         dict(chiave="ucr", md="testi/fr/brouillons/brouillon-ucr.md", pagina="brouillon-ucr.html",
-             titolo="Annexe UCR et premier bilan des heures", nota="brouillon 0.1"),
+             titolo="Annexe UCR et premier bilan des heures", nota="brouillon 0.2"),
         dict(chiave="cdr", md="testi/fr/brouillons/brouillon-cdr.md", pagina="brouillon-cdr.html",
-             titolo="Barème public de la CdR", nota="brouillon 0.1"),
+             titolo="Barème public de la CdR", nota="brouillon 0.2"),
         dict(chiave="proposte", md="testi/fr/brouillons/propositions.md", pagina="propositions.html",
              titolo="Propositions de modification (archives)", nota="acceptées le 19 octobre 2026", classe=""),
         dict(chiave="verifica", md="testi/fr/brouillons/verification-propositions.md",
@@ -365,7 +365,7 @@ LINGUE = {
         nome="Proyecto de los Círculos",
         dir_percorso="recorrido", dir_registro="registro", dir_scarica="es/descargas",
         pag_modifiche="cambios.html", pag_contribuire="contribuir.html",
-        md_modifiche="", md_contribuire="CONTRIBUIR.md",
+        md_modifiche="CAMBIOS.md", md_contribuire="CONTRIBUIR.md",
         licenza_url="https://creativecommons.org/licenses/by-sa/4.0/deed.es",
         licenza_percorso_url="https://creativecommons.org/licenses/by-nd/4.0/deed.es",
         livelli=[("Núcleo de cuidado", "de 1 a 15 personas", ["cuidado cotidiano", "y hospitalidad"]),
@@ -380,7 +380,7 @@ LINGUE = {
                ("Acceso", ["a cada cual", "según su necesidad"])],
         frecce=["detectadas", "decide", "produce", "dan"],
         maiuscole=["Confederación", "Círculos", "Código", "Annex", "Asamblea", "Red", "Almacenes Comunes",
-                   "Contribución Básica Obligatoria"],
+                   "Contribución Básica Obligatoria", "Saldo Mundial"],
         t=dict(
             salta="Ir al contenido", sezioni="Secciones", percorso="Recorrido", registro="Reglas",
             contribuire="Contribuir", repository="Repositorio",
@@ -400,8 +400,7 @@ LINGUE = {
             capitolo="Capítulo {n} de {tot} · {min} min de lectura",
             continua="Continúa · capítulo {n} de {tot}",
             fine="El recorrido termina aquí", leggi_regole="Lee las reglas",
-            fine_testo="La Constitución, los dieciséis Códigos y los Anexos, con todas sus versiones. Por ahora "
-                       "en italiano y en inglés.",
+            fine_testo="La Constitución, los dieciséis Códigos y los Anexos, con todas sus versiones.",
             inizio="← Inicio", capitoli="Capítulos", scarica="Descargar", indice="Índice",
             indice_aria="Índice del texto",
             allineamento="Versiones de los demás textos con los que está alineado",
@@ -446,7 +445,7 @@ LINGUE = {
                            "qué proponemos.",
             h_regole="Las reglas",
             guida_regole="La propuesta está escrita por entero, artículo por artículo, para que pueda verificarse "
-                         "y corregirse. Las reglas están por ahora en italiano y en inglés.",
+                         "y corregirse.",
             codici_allegati="{nc} Códigos y {na} Anexos técnicos", storico="historial",
             parametri="Parámetros por verificar", parametri_nota="borrador de calibración · en italiano",
             h_bozze="Borradores y propuestas (en italiano)",
@@ -702,7 +701,7 @@ def titolo_leggibile(titolo, maiuscole):
     testo = " — ".join(parti)
     for parola in maiuscole:
         testo = re.sub(r"\b%s\b" % re.escape(parola.lower()), parola, testo)
-    testo = re.sub(r"\b(Allegato tecnico|Technical annex|Annexe technique) ([abc])\b",
+    testo = re.sub(r"\b(Allegato tecnico|Technical annex|Annexe technique|Anexo técnico) ([abc])\b",
                    lambda m: m.group(1) + " " + m.group(2).upper(), testo, flags=re.I)
     testo = re.sub(r"c\.1-annex a", "C.1-Annex A", testo, flags=re.I)
     return testo[0].upper() + testo[1:]

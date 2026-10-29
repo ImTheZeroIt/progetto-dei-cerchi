@@ -11,7 +11,7 @@ Les règles (la Constitution, les Codes et les Annexes) sont traduites en franç
 3. **Des contradictions et des renvois.** Un article qui en contredit un autre, un renvoi qui mène au mauvais alinéa, un terme employé dans deux sens.
 4. **Des chiffres.** Beaucoup de paramètres sont des propositions initiales. Le [registre des paramètres à vérifier](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/parametres.html) indique pour chacun d’où il vient et quelle preuve serait nécessaire. Les données et les expériences qui les confirment ou les démentent sont utiles.
 5. **De la clarté.** Des phrases obscures, des passages qu’un lecteur non spécialiste n’arrive pas à suivre.
-6. **De la traduction.** Les versions anglaise, espagnole et française sont des traductions de travail ; l’espagnole ne comprend pour l’instant que le parcours. Les corrections de locuteurs natifs sont bienvenues, de préférence avec une formation juridique, ainsi que les traductions des règles dans d’autres langues. Le texte qui fait foi est l’italien ; les termes sont fixés dans `testi/fr/GLOSSAIRE.md`, dans `testi/en/GLOSSARY.md` et dans `testi/es/GLOSARIO.md`.
+6. **De la traduction.** Les versions anglaise, espagnole et française sont des traductions de travail. Les corrections de locuteurs natifs sont bienvenues, de préférence avec une formation juridique, ainsi que les traductions des règles dans d’autres langues. Le texte qui fait foi est l’italien ; les termes sont fixés dans `testi/fr/GLOSSAIRE.md`, dans `testi/en/GLOSSARY.md` et dans `testi/es/GLOSARIO.md`.
 
 ## Comment faire un signalement
 

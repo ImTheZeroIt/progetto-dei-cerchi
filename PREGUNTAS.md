@@ -1,6 +1,6 @@
 # Encuentra una respuesta
 
-Las respuestas dicen qué prevén los textos, no qué va a pasar: el proyecto no está en vigor en ninguna parte y ninguna comunidad lo ha probado todavía. Bajo cada respuesta están los artículos de donde sale. Las reglas están por ahora en italiano e inglés: los enlaces llevan al texto italiano.
+Las respuestas dicen qué prevén los textos, no qué va a pasar: el proyecto no está en vigor en ninguna parte y ninguna comunidad lo ha probado todavía. Bajo cada respuesta están los artículos de donde sale. Los enlaces llevan a la traducción española de las reglas; el texto de referencia es el italiano.
 
 ## En breve
 
@@ -9,7 +9,7 @@ Las respuestas dicen qué prevén los textos, no qué va a pasar: el proyecto no
 Una propuesta para organizar la vida en común a partir de las necesidades de las personas. Está escrita por entero, artículo por artículo: una Constitución y los Códigos que la llevan a la práctica, con sus anexos técnicos. No está en vigor en ninguna parte.
 
 Palabras: qué es, proyecto, confederación, círculos, propuesta, resumen, síntesis, en breve, de qué trata
-Dónde: [El registro de los textos, en italiano](../registro/index.html); Const. 0.1; Const. 0.2
+Dónde: [Las reglas](registro/index.html); Const. 0.1; Const. 0.2
 
 ### ¿Por qué este proyecto?
 

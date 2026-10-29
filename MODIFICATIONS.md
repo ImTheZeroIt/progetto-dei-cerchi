@@ -6,6 +6,20 @@ Ceci est la première version publique : Constitution V.29 et Codes alignés, 
 
 # Modifications
 
+## 29 octobre 2026 — Traduction espagnole des règles
+
+La Constitution, les seize Codes et les quatre Annexes sont traduits en espagnol (`testi/es/registro/`) et publiés sur le site avec leur registre des modifications (`CAMBIOS.md`) et les fichiers PDF et ODT à télécharger ; les réponses aux questions en espagnol renvoient désormais aux articles espagnols. Aucune règle ne change sur le fond. C’est une traduction de travail, à faire relire par des locuteurs natifs de l’espagnol ; les termes sont fixés dans `testi/es/GLOSARIO.md`. Le texte qui fait foi est l’italien.
+
+## 27 octobre 2026 — Code 3 : approbation de l’Annexe UCR ; brouillons techniques alignés
+
+**Code 3** (art. 9.3 et 19.3). Les deux alinéas disaient des choses différentes sur qui approuve l’Annexe technique UCR : « l’Assemblée compétente » et « l’Assemblée du Cercle 1 ». Par décision de l’auteur, la méthode de calcul est commune à toutes les Communautés du Cercle 2 : elle est élaborée par les Conseils Comptabilité et Qualité en coordination fédérée, proposée par le Cercle 2 et approuvée par son Assemblée générale. Chaque Communauté approuve par sa propre Assemblée ses propres valeurs selon cette méthode. Avant le Cercle 2, l’art. 14.10 s’applique. Aucun autre texte n’était en contradiction (Constitution et Codes 1, 2, 4, 7, 15 et 16 vérifiés).
+
+**Brouillons techniques** (Annexe du Panier, Annexe UCR, barème de la CdR ; version 0.2, toujours non adoptés). Alignés sur les règles en vigueur : logement, énergie, habillement et hygiène comme dans les Codes ; biens de niveau 1–2 et biens différables ; Paniers santé et soin complets ; Panier d’urgence des réseaux. Le bilan des heures compte désormais les jeunes de dix-huit ans en CBO volontaire, le logement de 22 m², les Maisons-relais, la protection civique hors du dixième et une part pour le Bassin (estimations minimales déclarées) : entre 9 et 14 heures par semaine au lieu de 9–13. Le barème de la CdR utilise la CBO estimée par le brouillon UCR et ajoute les activités culturelles, les déplacements et les robots dans les tâches à risque. Chaque brouillon a une section « Ce qu’il faut pour l’adopter ». Les programmes `strumenti/bilancio_ore.py` et `strumenti/simula_cdr.py` et le registre des paramètres sont mis à jour.
+
+Raison : vérification des brouillons du 27 octobre 2026 ; décision de l’auteur sur l’approbation de l’Annexe UCR. Le Noyau inviolable n’est pas touché.
+
+Versions : Code 3 de V1.7 à V1.8.
+
 ## 26 octobre 2026 — vérification de cohérence des nouveautés (défense personnelle, Communautés associées, parcours des réseaux)
 
 Une vérification de cohérence ciblée a relu les nouveautés du 19 au 26 octobre (défense personnelle, Communautés associées, parcours des réseaux) ; pour chaque point, un second lecteur a essayé de le démonter. Les points qui ont tenu sont corrigés : pour les choix de l’auteur comme indiqué ci-dessous, pour les autres selon la recommandation des rapports.

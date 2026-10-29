@@ -2,13 +2,17 @@
 
 *Traduction de travail. Le texte de référence est l’italien.*
 
-**Brouillon de calibrage 0.1, non adopté.** Le Code 3 (art. 9) confie à une Annexe technique la méthode de calcul du coût de reproduction des biens et des services, mesuré en Unités de coût de reproduction (UCR). Cette annexe n’a jamais été rédigée. Cette page en propose une première version et l’utilise aussitôt pour la question dont dépend tout le système : quinze heures par semaine suffisent-elles ?
+**Brouillon de calibrage 0.2, non adopté.** Le Code 3 (art. 9) confie à une Annexe technique la méthode de calcul du coût de reproduction des biens et des services, mesuré en Unités de coût de reproduction (UCR). Cette annexe n’a jamais été rédigée. Cette page en propose une première version et l’utilise aussitôt pour la question dont dépend tout le système : quinze heures par semaine suffisent-elles ? La version 0.2 (27 octobre 2026) aligne le brouillon sur les règles en vigueur à cette date.
 
-**La réponse, en bref.** Compté sur les besoins, le Panier coûte entre 7 et 10 heures de travail interne par semaine. Les biens manufacturés nécessaires, comptés eux aussi sur les besoins (des biens qui durent, se réparent et se partagent), ajoutent de 1,4 à 2,7 heures. Au total, entre 9 et 13 heures : sous la limite, avec une marge de 2–6 heures. C’est un premier calcul, rempli d’hypothèses déclarées. L’étude indépendante la plus complète mesure en revanche le mode de production actuel : en ajoutant au scénario minimal les postes qui lui manquent, une estimation des auteurs conduit à environ 27 heures. L’écart entre 13 et 27 est ce que le projet promet d’éliminer : il n’est pas démontré, et seule une expérimentation peut le confirmer.
+**La réponse, en bref.** Compté sur les besoins, le Panier coûte entre 8 et 11 heures de travail interne par semaine. Les biens manufacturés nécessaires, comptés eux aussi sur les besoins (des biens qui durent, se réparent et se partagent), ajoutent de 1,4 à 2,9 heures. Au total, entre 9 et 14 heures : sous la limite, avec une marge de 1 à 6 heures. C’est un premier calcul, rempli d’hypothèses déclarées. L’étude indépendante la plus complète mesure en revanche le mode de production actuel : en ajoutant au scénario minimal les postes qui lui manquent, une estimation des auteurs conduit à environ 27 heures. L’écart entre 14 et 27 est ce que le projet promet d’éliminer : il n’est pas démontré, et seule une expérimentation peut le confirmer.
 
 ## 1. Qu’est-ce que l’UCR
 
 Une UCR correspond à une heure de Contribution de base ordinaire. Les matériaux, l’énergie et la logistique sont ramenés à des heures (Code 3, art. 9, al. 1). L’UCR n’est pas un prix, n’est pas attribuée aux personnes et n’est pas un moyen d’échange (art. 9, alinéas 2 et 7). Elle sert à trois choses : comparer des alternatives, rendre visible combien de travail coûte un choix, établir quel organe décide (art. 7).
+
+Elle sert à estimer des coûts, non à mesurer la CBO de quelqu’un. En particulier, elle ne sert pas à calculer la part de CBO du Pool : le Code 15 interdit de la déduire par une conversion automatique entre unités de produit et heures, et demande de compter le travail effectivement nécessaire et documenté (art. 7, al. 4).
+
+**Qui approuve l’Annexe.** La méthode de calcul est commune à toutes les Communautés du Cercle 2 : elle est élaborée par les Conseils Comptabilité et Qualité en coordination fédérée, proposée par le Cercle 2 et approuvée par son Assemblée générale. Chaque Communauté, par sa propre Assemblée, approuve ensuite ses propres valeurs selon cette méthode : coefficients, heures mesurées, prix et durées des biens (Code 3, art. 9, al. 3, et art. 19, al. 3, tels que corrigés le 27 octobre 2026). Ainsi, les UCR de Communautés différentes peuvent être comparées, comme le demandent le Pool, le Solde et les échanges entre Entrepôts.
 
 ## 2. La méthode
 
@@ -22,7 +26,7 @@ Le Code énumère sept points que l’Annexe doit régir (art. 9, al. 4). Le bro
 | d) Services numériques | Heures d’entretien du Réseau plus quotes-parts des appareils, réparties entre les personnes qui utilisent le service. |
 | e) Temps | Aucun taux d’actualisation et aucun intérêt : une heure vaut une heure, aujourd’hui comme dans dix ans. Le coefficient heures par euro est mis à jour chaque année. Une valeur est recalculée lorsque les données changent de plus d’un cinquième. |
 | f) Certification | Le Conseil Comptabilité certifie la valeur sur la base de la STV ou de la SVS (art. 9, al. 5) et publie, pour chaque donnée, la source et une classe d’incertitude : mesurée, estimée, supposée. |
-| g) Révision et contestation | Révision annuelle. Toute personne peut contester une valeur en apportant une donnée ; le Conseil répond par une motivation publique. |
+| g) Révision et contestation | Révision annuelle de la méthode dans le Cercle 2 et des valeurs dans chaque Communauté. Chacun peut contester une valeur en apportant une donnée ; le Conseil répond par une motivation publique. |
 
 **Logistique.** Heures de transport, plus la quote-part du véhicule, plus l’énergie consommée.
 
@@ -72,41 +76,50 @@ Les deux tiers du coût sont du travail au four. Le champ pèse moins d’un cin
 
 ## 4. Premier bilan des heures
 
-Le calcul concerne une Communauté de 150 personnes ayant la structure par âge de l’Union européenne, en régime de croisière. Il suit les catégories du Bilan du travail (Code 1, art. 2, al. 7). Tous les chiffres peuvent être recalculés et modifiés avec le programme `strumenti/bilancio_ore.py`, publié dans le dépôt.
+Le calcul concerne une Communauté de 150 personnes ayant la structure par âge de l’Union européenne, **en régime de croisière** : pour la transition, voir le paragraphe 4.1. Il suit les sept catégories du Bilan du travail (Code 1, art. 2, al. 7, lettre a). Tous les chiffres peuvent être recalculés et modifiés avec le programme `strumenti/bilancio_ore.py`, publié dans le dépôt.
 
 ### 4.1 Heures disponibles
 
 | Poste | Personnes | Contributeurs équivalents | Origine |
 |---|---|---|---|
 | Moins de 18 ans : aucune CBO obligatoire | 27 | 0 | Eurostat : 17,8 % |
-| Entre 18 et 69 ans | 100 | 100 | Eurostat : 66,7 % |
+| Entre 18 et 69 ans | 100 | 98 | Eurostat : 66,7 % |
+| dont jeunes de dix-huit ans ayant grandi dans la Confédération : CBO volontaire jusqu’au choix d’adhésion | 2 | 0 | Code 5, art. 6, al. 6 ; Const. 26.4. Hypothèse : une classe d’âge, environ 1,1 % de la population |
 | Entre 70 et 74 ans : CBO réduite de moitié | 8 | 4 | Eurostat : 5,3 % ; Code 1, art. 11 |
 | À partir de 75 ans : exemptés | 15 | 0 | Eurostat : 10,2 % ; Code 1, art. 11 |
 | Femmes ayant accouché et parents d’enfants de moins de trois ans | | −4 | Eurostat : 2,57 % d’enfants de moins de trois ans ; Code 1, art. 11 |
-| Handicap grave, aidants, maladie | | −5 | Hypothèse : 5 % |
-| **Total** | **150** | **95** | 63 % de la population |
+| Handicap grave, aidants, maladie, réduction modulée pour grossesse, deuil ou crise | | −5 | Hypothèse sans source : 5 % ; Code 1, art. 11, al. 1, lettres a), b), c) et e) |
+| **Total** | **150** | **93** | 62 % de la population |
 
-95 contributeurs fois 15 heures fois 52 semaines : **environ 73 900 heures par an**, soit 493 heures par habitant. Le calcul ne prévoit pas de semaines de pause : avec 48 semaines, les heures disponibles descendent à 68 200.
+93 contributeurs fois 15 heures fois 52 semaines : **environ 72 700 heures par an**, soit 485 heures par habitant. Le calcul ne prévoit pas de semaines de pause : avec 48 semaines, les heures disponibles descendent à 67 100.
+
+**Pendant la transition.** Tant que dure la coexistence, le travail des membres qui ont signé le pacte dans les filières essentielles (eau, énergie, alimentation, santé du territoire) vaut CBO aussi dans les Cercles pilotes (Code 16, art. 16, al. 2, lettre d ; Code 15, art. 19, al. 3). Ces heures ne sont pas disponibles pour les besoins internes. Si elles représentaient 10 % des contributeurs (hypothèse), les autres devraient couvrir 8,5 heures de travail interne par semaine dans le scénario A et 12,1 dans le scénario B, au lieu de 7,7 et 10,9.
 
 ### 4.2 Heures nécessaires
 
-Deux scénarios. Le scénario A utilise des standards minimaux. Le scénario B attribue à quatre postes (santé, assistance, éducation, construction) les mêmes heures que l’Union européenne y consacre aujourd’hui ; ce n’est pas l’Europe d’aujourd’hui, car au total il utilise 43 % des heures européennes par habitant.
+Deux scénarios. Le scénario A utilise des standards minimaux. Le scénario B attribue à quatre postes (santé, assistance, éducation, construction) les mêmes heures que l’Union européenne y consacre aujourd’hui ; ce n’est pas l’Europe d’aujourd’hui, car au total il utilise 45 % des heures européennes par habitant.
 
-| Catégorie | A : essentiel | B : quatre services au niveau européen | Mode de calcul |
+| Catégorie du Bilan du travail | A : essentiel | B : quatre services au niveau européen | Mode de calcul |
 |---|---|---|---|
 | Alimentation | 10 930 | 10 930 | Champ 4 570 heures sur 24 hectares ; transformation 1 800 (hypothèse : moulin, four pour la moitié des céréales, moulin à huile, conserves) ; un repas collectif par jour et par personne, 4 560 |
 | Énergie et eau | 3 350 | 3 350 | Le double des heures moyennes européennes du secteur, en raison de la petite échelle (hypothèse) |
 | Soin : santé | 1 080 | 6 850 | A : seuil OMS de 4,45 soignants pour 1 000 personnes. B : heures du secteur de la santé dans l’UE |
 | Soin : personnes âgées et dépendantes | 2 610 | 4 510 | A : 5 intervenants pour 100 personnes de plus de 65 ans (moyenne OCDE : elle compte des personnes, non des heures, et comprend des pays où la plus grande partie du soin reste aux familles). B : heures de l’action sociale dans l’UE, crèche comprise |
 | Soin : crèche | 1 920 | compris ci-dessus | 40 heures par semaine pendant 48 semaines, un adulte pour cinq enfants (hypothèse) |
-| Apprentissage | 3 020 | 6 780 | A : un adulte pour 12,2 mineurs (moyenne UE). B : heures de l’ensemble de l’éducation dans l’UE, universités comprises |
 | Entretien et construction | 4 430 | 8 850 | A : la moitié des heures de la construction dans l’UE (hypothèse). B : toutes, constructions neuves comprises |
 | Logistique | 2 560 | 2 560 | Un poste de six heures à l’Entrepôt et une heure de livraisons par jour (hypothèse) |
-| Autres activités | 2 150 | 2 150 | Laverie, nettoyage des espaces communs, Réseau, sanctuaires (hypothèse) |
-| Fonctions civiques et documentation | 3 560 | 5 110 | Le plafond d’un dixième du total (Code 3, art. 12-bis, al. 13), utilisé comme estimation prudente |
-| **Total** | **35 600** | **51 100** | |
-| Part des heures disponibles | 48 % | 69 % | |
-| Heures par semaine et par contributeur | **7,2** | **10,4** | |
+| Autres activités : apprentissage des mineurs | 3 020 | 6 780 | A : un adulte pour 12,2 mineurs (moyenne UE). B : heures de l’ensemble de l’éducation dans l’UE, universités comprises. Comprend le tour de transmission des compétences (Code 5, art. 2, al. 6) : il ne s’ajoute pas |
+| Autres activités : laverie, nettoyage, Réseau, sanctuaires | 2 150 | 2 150 | Hypothèse |
+| Autres activités : fonctions communes du Bassin et part fédérée du Pool | 750 | 750 | Estimation minimale sans source : 5 heures par an et par habitant (Code 15, art. 7, al. 3) |
+| Fonctions civiques : protection civique et autres fonctions de la Liste D | 730 | 730 | Estimation minimale sans source : deux heures par jour. Elles se comptent à part, hors du dixième (Code 1, art. 2, al. 7, lettre e) |
+| Fonctions civiques : temps administratif | 3 720 | 5 270 | Conseils, garantie, facilitation, comptabilité, documentation obligatoire : le plafond d’un dixième de la CBO totale (Code 3, art. 12-bis, al. 13), utilisé comme estimation prudente |
+| **Total** | **37 240** | **52 730** | |
+| Part des heures disponibles | 51 % | 73 % | |
+| Heures par semaine et par contributeur | **7,7** | **10,9** | |
+
+**Les catégories.** Le Bilan du travail en compte sept : alimentation, énergie et eau, soin, entretien, logistique, fonctions civiques et documentation, autres activités (Code 1, art. 2, al. 7, lettre a). L’apprentissage n’en fait pas partie : le brouillon le place dans « autres activités » et l’indique à part. Si l’Assemblée préfère une catégorie propre, il faut une modification du Code 1.
+
+**Les Maisons-relais et les hôtes.** Les Maisons-relais, de 10 à 15 % de l’habitat (Const. 12.1 ; Code 11, art. 6-ter, al. 1), sont comptées dans les matériaux du paragraphe 4.3 ; leur gestion par rotation volontaire n’est pas une CBO supplémentaire. Les hôtes reçoivent le Panier de l’Entrepôt qui les accueille et les différences se compensent par le Solde (art. 6-ter, al. 8) : le calcul suppose que les hôtes accueillis et les membres accueillis ailleurs se compensent.
 
 **Le champ, poste par poste.** Quantités du brouillon du Panier plus 15 % pour les pertes et les semences ; rendements italiens de 2024 réduits d’un cinquième pour la culture sans chimie de synthèse ; heures par hectare d’après les tableaux régionaux italiens, sans les heures supplémentaires que demande d’ordinaire la culture biologique (non appliquées). Pour les légumes, le calcul utilise 700 heures par hectare, une valeur prudente à la limite haute des tableaux ; pour le tournesol 24, comme le tableau du Latium. Le rendement des noisettes est celui de 2024, une année de crise pour la récolte italienne.
 
@@ -131,36 +144,38 @@ Machines, outils, panneaux, matériaux de construction, médicaments, textiles, 
 
 | Groupe | Ce qu’il comprend | Euros par personne et par an | Heures par an pour 150 personnes |
 |---|---|---|---|
-| Personne et Noyau | Vêtements (4 kg par an), lit, meubles, linge et vaisselle, réfrigérateur et cuisine par Noyau, lave-linge dans une laverie commune, téléphone, ordinateur du Noyau, Nœud-IA, vélo, hygiène | 654 | 1 920 |
+| Personne et Noyau | Vêtements (4 kg par an), lit, meubles, linge et vaisselle, réfrigérateur et cuisinière par Noyau, lave-linge dans une laverie commune, téléphone pour qui le demande dès douze ans, Nœud-IA, vélo, hygiène | 620 | 1 820 |
 | Santé | Médicaments, matériel sanitaire, quote-part des équipements du Bassin | 400 | 1 180 |
-| Habiter | Matériaux pour 15 m² de logement et 5 m² de bâtiments communs par personne, sur 80 ans | 188 | 550 |
+| Habiter | Matériaux pour 22 m² de logement par personne, plus 12,5 % pour les Maisons-relais et 5 m² de bâtiments communs, sur 80 ans | 279 | 820 |
 | Énergie et eau | Photovoltaïque (2 kW par personne), stockage, chaleur, réseau d’eau, pièces de rechange | 281 | 830 |
-| Production | Machines agricoles, moulin, moulin à huile, cuisine collective, atelier, semences et matériaux | 253 | 750 |
-| Mobilité et Réseau | Trois véhicules électriques légers, 3 000 km par an de transport public, serveurs et équipements | 466 | 1 370 |
+| Production | Machines agricoles, moulin, moulin à huile, cuisine collective, atelier, semences et matériaux | 253 | 740 |
+| Mobilité et Réseau | Trois véhicules électriques légers, 3 000 km par an de transport public, serveurs et équipements, appareils partagés du point d’accès assisté | 469 | 1 380 |
 | Apprentissage | Matériels et instruments | 50 | 150 |
-| **Total** | | **2 291** | **6 740** |
+| **Total** | | **2 352** | **6 920** |
 
-Cela fait 1,4 heure par semaine et par contributeur. L’inventaire est converti avec la moyenne européenne. Avec la règle du paragraphe 2, un bien fabriqué pour moitié en Chine contient environ le double d’heures : en doublant tout l’inventaire, on arrive à 2,7 heures. Le facteur 2 est une hypothèse du projet, sans source.
+Cela fait 1,4 heure par semaine et par contributeur. L’inventaire est converti avec la moyenne européenne. Avec la règle du paragraphe 2, un bien fabriqué pour moitié en Chine contient environ le double d’heures : en doublant tout l’inventaire, on arrive à 2,9 heures. Le facteur 2 est une hypothèse du projet, sans source.
 
-**Ce que vaut cet inventaire.** Les prix et les durées sont des hypothèses de rédaction, énumérées une par une dans le programme : elles doivent être remplacées par de vrais devis. Le résultat ne dépend cependant pas d’un prix erroné : même en triplant l’ensemble de l’inventaire, le calcul complet reste sous les quinze heures. À titre de comparaison, l’industrie manufacturière européenne d’aujourd’hui emploie pour 150 personnes environ 14 200 heures, industrie alimentaire exclue : l’inventaire sur les besoins en demande moins de la moitié.
+**Le logement.** La surface vient du Code 1, art. 47-bis, al. 2, en vigueur depuis le 19 octobre 2026 : un séjour et une chambre séparée, 30 m² pour une personne, 45 pour deux, 60 pour trois, puis 15 de plus par personne jusqu’à la cinquième et 10 au-delà. Si les Cercles 0 sont comme les foyers italiens d’aujourd’hui (hypothèse), la moyenne est d’environ 22 m² par personne. Avec les 15 m² de la première version de ce brouillon et sans Maisons-relais, l’inventaire valait 6 650 heures : toujours 1,4 heure par semaine, 2,7 avec le facteur des biens importés. Les Maisons-relais à elles seules valent 76 heures par an.
 
-**Un logement plus grand.** Avec les mesures du Code 1, art. 47-bis ([proposition 2](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html), acceptée le 19 octobre 2026), la surface moyenne passe à environ 22 m² par personne, si les foyers sont comme les foyers italiens d’aujourd’hui (hypothèse). Le poste Habiter passe de 550 à 740 heures par an et le total de 6 740 à 6 930 heures : toujours 1,4 heure par semaine par contributeur, 2,8 avec le facteur des biens importés. Les tableaux de ce brouillon restent calculés avec 15 m².
+**Le Réseau.** La dotation minimale du Code 7 (art. 3, al. 9) est un point d’accès dans chaque logement qui le demande, un appareil personnel pour qui le demande dès douze ans et, dans chaque Cercle 1, un point d’accès assisté avec des appareils partagés. Il n’y a pas d’ordinateur par Noyau : chaque personne a déjà un Nœud-IA personnel (art. 5-bis).
+
+**Ce que vaut cet inventaire.** Les prix et les durées sont des hypothèses de rédaction, énumérées une par une dans le programme : elles doivent être remplacées par de vrais devis. Un prix erroné change peu, mais la marge s’est réduite : en triplant l’ensemble de l’inventaire, le calcul complet arrive à 12,0 heures dans le scénario A et à 15,2 dans le scénario B, juste au-dessus de la limite. À titre de comparaison, l’industrie manufacturière européenne d’aujourd’hui emploie pour 150 personnes environ 14 200 heures, industrie alimentaire exclue : l’inventaire sur les besoins en demande moins de la moitié.
 
 ### 4.4 Le calcul complet
 
 | | A : essentiel | B : quatre services au niveau européen |
 |---|---|---|
-| Travail interne | 7,2 | 10,4 |
-| Biens manufacturés comptés sur les besoins | de 1,4 à 2,7 | de 1,4 à 2,7 |
-| **Total, heures par semaine et par contributeur** | **de 8,6 à 10,0** | **de 11,7 à 13,1** |
-| Marge sous les quinze heures | de 5,0 à 6,4 | de 1,9 à 3,3 |
+| Travail interne | 7,7 | 10,9 |
+| Biens manufacturés comptés sur les besoins | de 1,4 à 2,9 | de 1,4 à 2,9 |
+| **Total, heures par semaine et par contributeur** | **de 9,1 à 10,5** | **de 12,3 à 13,7** |
+| Marge sous les quinze heures | de 4,5 à 5,9 | de 1,3 à 2,7 |
 
-Dans une Communauté qui vit au sein d’une économie extérieure, les biens manufacturés sont payés par la Caisse commune (Code 15, art. 17 et 19-bis), et non par des heures de CBO : le calcul indique combien d’heures seraient nécessaires si la Confédération les produisait.
+Dans une Communauté qui vit au sein d’une économie extérieure, les biens manufacturés sont payés par la Caisse commune (Code 15, art. 17), en partie avec la contribution sur les revenus extérieurs (art. 19-bis) et en partie avec des heures de CBO consacrées à des productions ou des services pour l’extérieur, décidées par l’Assemblée dans la mesure nécessaire aux achats (art. 19, al. 2). Le calcul indique combien d’heures seraient nécessaires si la Confédération les produisait.
 
 ### 4.5 Ce que le calcul ne comprend pas
 
-1. **Le travail domestique dans les Noyaux.** Selon l’enquête européenne sur l’emploi du temps (données recueillies entre 2008 et 2015), chaque personne consacre en moyenne entre trois et quatre heures par jour à la maison et à la famille ; les 30–50 minutes pour la préparation des repas sont une estimation du projet, non de cette source. Le calcul ne porte dans la CBO qu’un repas collectif par jour, la crèche, la laverie et le nettoyage des espaces communs : 1,7 heure par semaine et par contributeur. Tout le reste demeure dans les Noyaux et n’est pas compté.
-2. **Certains postes non estimés :** réparation des outils, formation obligatoire, protection civique, temps de transmission des compétences.
+1. **Le travail domestique dans les Noyaux.** Selon l’enquête européenne sur l’emploi du temps (données recueillies entre 2008 et 2015), chaque personne consacre en moyenne entre trois et quatre heures par jour à la maison et à la famille ; les 30–50 minutes pour la préparation des repas sont une estimation du projet, non de cette source. Le calcul ne fait entrer dans la CBO qu’un repas collectif par jour, la crèche, la laverie et le nettoyage des espaces communs : 1,8 heure par semaine et par contributeur. Tout le reste demeure dans les Noyaux et n’est pas compté.
+2. **Quelques postes non estimés :** réparation des outils, formation obligatoire. La protection civique et les fonctions communes du Bassin n’ont qu’une estimation minimale, à remplacer par les premiers Bilans réels.
 3. **Le démarrage.** Construire la Communauté coûte plus cher que de l’entretenir.
 4. **Ce que le projet élimine.** Commerce, publicité, finance, assurances : ils ne figurent pas dans le calcul, parce qu’ils n’existent pas dans le système des Cercles. C’est un choix du projet, pas une donnée.
 
@@ -168,46 +183,49 @@ Dans une Communauté qui vit au sein d’une économie extérieure, les biens ma
 
 | Comparaison | Donnée | Ce qu’elle dit |
 |---|---|---|
-| L’économie européenne d’aujourd’hui | 787 heures de travail rémunéré par habitant et par an | La limite de quinze heures met à disposition 493 heures par habitant : 63 % du travail rémunéré que l’Europe utilise aujourd’hui. |
-| Une étude indépendante (McElroy et O’Neill, 2025, sur le Royaume-Uni) | Pour les seuls biens indispensables : 17,5 heures par semaine. En ajoutant les postes qui, selon les auteurs, manquent à ce scénario (gouvernement, sécurité, universités, garde des enfants, assurances, entretien du capital) : 36,7, une estimation faite en une phrase de la discussion, non un scénario calculé. Pour une « bonne vie » aux niveaux minimaux demandés par les habitants : 45,5. Consommation britannique actuelle : 64,7 | Ramenées à la base de ce calcul, cela fait 12,7, 26,6, 32,9 et 46,9 heures de CBO par semaine : la conversion est la nôtre. Sur la base de calcul de l’étude (population de 15 à 64 ans, 46,6 semaines par an), les quelque 13 heures de ce calcul deviendraient environ 18. L’étude compte tous les secteurs et le travail contenu dans les importations, avec le mode de production actuel ; elle ne compte pas le travail de soin non rémunéré. |
-| Communautés réelles à revenu partagé (États-Unis) | Twin Oaks, environ 100 adultes : entre 36 et 44 heures par semaine selon la source (donnée fragile : Wikipédia cite une vidéo, l’annuaire des communautés donne 40 et 42). East Wind, aujourd’hui entre 35 et 45 membres : 35 heures. Acorn : 42 heures | Les quotas sont par membre adulte et comprennent la cuisine, le ménage, la garde des enfants et le travail pour le marché qui finance les achats : pour les comparer à la CBO, il faut y ajouter le travail domestique qui reste dans les Noyaux. Ce sont de petites communautés, peu mécanisées et comptant peu de personnes âgées : la comparaison est indicative. |
+| L’économie européenne d’aujourd’hui | 787 heures de travail rémunéré par habitant et par an | La limite de quinze heures met à disposition 485 heures par habitant : 62 % du travail rémunéré que l’Europe utilise aujourd’hui. |
+| Une étude indépendante (McElroy et O’Neill, 2025, sur le Royaume-Uni) | Pour les seuls biens indispensables : 17,5 heures par semaine. En ajoutant les postes qui, selon les auteurs, manquent à ce scénario (gouvernement, sécurité, universités, garde d’enfants, assurances, entretien du capital) : 36,7, une estimation faite dans une phrase de la discussion, non un scénario calculé. Pour une « bonne vie » aux niveaux minimaux demandés par les habitants : 45,5. Consommation britannique actuelle : 64,7 | Ramenées à la base de ce calcul, cela fait 12,9, 27,0, 33,5 et 47,6 heures de CBO par semaine : la conversion est la nôtre. Avec la base de calcul de l’étude (population de 15 à 64 ans, 46,6 semaines par an), les 13,7 heures de ce calcul deviendraient environ 19. L’étude compte tous les secteurs et le travail contenu dans les importations, avec le mode de production actuel ; elle ne compte pas le travail de soin non rémunéré. |
+| Communautés réelles à revenu partagé (États-Unis) | Twin Oaks, environ 100 adultes : entre 36 et 44 heures par semaine selon la source (donnée faible : Wikipédia cite une vidéo, l’annuaire des communautés donne 40 et 42). East Wind, aujourd’hui entre 35 et 45 membres : 35 heures. Acorn : 42 heures | Les quotas sont par membre adulte et comprennent la cuisine, le ménage, la garde des enfants et le travail pour le marché qui finance les achats : pour les comparer avec la CBO, il faut y ajouter le travail domestique qui reste dans les Noyaux. Ce sont des communautés petites, peu mécanisées et avec peu de personnes âgées : la comparaison est indicative. Depuis le 26 octobre 2026, des communautés comme celles-ci peuvent adhérer comme Communautés associées : leur quota vaut CBO, mais pour la perte du statut il ne compte que dans la limite des quinze heures (Code 15, art. 21-bis, al. 4, lettre c). |
 
-**D’où vient l’écart entre 13 et 27 heures.** Le calcul de ce brouillon et l’étude mesurent deux choses différentes. L’étude mesure le monde tel qu’il est : dans son scénario minimal, 29 % des heures sont du travail agricole (selon une hypothèse du projet, que l’étude ne vérifie pas, en grande partie effectué là où une heure de travail produit peu) et 40–45 % sont des services ; les postes que les auteurs ajoutent dans la discussion pèsent plus que tout le reste. Ce calcul mesure le système tel que le projet le conçoit : une agriculture avec des rendements et des équipements européens, une administration limitée à un dixième des heures, aucun commerce, aucune finance, aucune assurance, des biens qui durent et se partagent. L’écart est donc le pari du projet, mis en chiffres. Les auteurs de l’étude parviennent à une conclusion proche : aucun de leurs scénarios n’est réaliste, réduire la consommation ne suffit pas, il faut changer le mode de production.
+**D’où vient l’écart entre 14 et 27 heures.** Le calcul de ce brouillon et l’étude mesurent deux choses différentes. L’étude mesure le monde tel qu’il est : dans son scénario minimal, 29 % des heures sont du travail agricole (selon une hypothèse du projet, que l’étude ne vérifie pas, en grande partie effectué là où une heure de travail produit peu) et 40–45 % sont des services ; les postes que les auteurs ajoutent dans la discussion pèsent plus que tout le reste. Ce calcul mesure le système tel que le projet le conçoit : agriculture avec des rendements et des équipements européens, administration limitée à un dixième des heures, aucun commerce, aucune finance, aucune assurance, des biens qui durent et se partagent. L’écart est donc le pari du projet, mis en chiffres. Les auteurs de l’étude arrivent à une conclusion proche : aucun de leurs scénarios n’est réaliste, réduire la consommation ne suffit pas, il faut changer le mode de production.
 
 ### 4.7 Ce qu’on en tire
 
-1. **Compté sur les besoins, le calcul tient.** Entre 9 et 13 heures par semaine, tout compris, pour une limite de 15.
-2. **La marge est de 2–6 heures, et l’incertitude est du même ordre.** De nombreux postes sont des hypothèses. Le calcul tient même en triplant les biens manufacturés, mais ce n’est pas une mesure.
+1. **Compté sur les besoins, le calcul tient.** Entre 9 et 14 heures par semaine, tout compris, pour une limite de 15.
+2. **La marge est de 1 à 6 heures, et l’incertitude est du même ordre.** Beaucoup de postes sont des hypothèses. Dans le scénario B, en triplant les biens manufacturés, le calcul dépasse de peu la limite : ce n’est pas une mesure.
 3. **Le résultat vaut pour le système tel qu’il est conçu, non pour le mode de production actuel.** Avec celui-ci, l’estimation indépendante donne environ 27 heures. Les quinze heures dépendent de ce que le projet change : pas de gaspillage, pas d’intermédiation, des biens durables, une administration légère. Ce sont les choses à vérifier en premier.
-4. **Tout dépend de l’endroit où passe la frontière entre CBO et Noyau.** Si tout le travail domestique d’aujourd’hui entrait dans la CBO, il vaudrait à lui seul environ 33 heures par semaine et par contributeur : un ordre de grandeur, calculé avec trois heures par jour pour les 150 personnes. Les textes laissent à chaque Communauté le choix de ce qu’elle rend collectif : c’est la décision qui pèse le plus sur la limite.
+4. **Tout dépend de l’endroit où passe la frontière entre CBO et Noyau.** Si tout le travail domestique d’aujourd’hui entrait dans la CBO, il vaudrait à lui seul environ 34 heures par semaine et par contributeur : un ordre de grandeur, calculé avec trois heures par jour pour les 150 personnes. Les textes laissent à chaque Communauté le choix de ce qu’elle rend collectif : c’est la décision qui pèse le plus sur la limite.
 5. **La santé et l’éducation ne tiennent pas à 150 personnes.** Le scénario A demande 0,7 soignant et 1,9 enseignant à temps plein d’aujourd’hui : des nombres trop petits pour garantir un service. Ils doivent être partagés dans le Bassin, comme la Constitution le prévoit pour l’hôpital (art. 5.1).
-6. **La limite est celle de chacun, non de la somme.** Les heures spécialisées se répartissent entre les personnes habilitées (Code 1, art. 6, al. 3). À 780 heures par an et par personne, la santé au niveau européen demande 9 personnes habilitées sur 95 ; la santé minimale, entre une et deux. Et le travail agricole est saisonnier : la récolte des fruits à coque se concentre sur quelques semaines, alors que le pic admis est de 25 heures pendant deux semaines (Code 1, art. 6, al. 5).
+6. **La limite est celle de chacun, non de la somme.** Les heures spécialisées se répartissent entre les personnes habilitées (Code 1, art. 6, al. 3). À 780 heures par an chacune, la santé au niveau européen demande 9 personnes habilitées sur 93 ; la santé minimale, entre une et deux. Et le travail agricole est saisonnier : la récolte des fruits à coque se concentre sur quelques semaines, alors que le pic admis est de 25 heures pendant deux semaines (Code 1, art. 6, al. 5).
 
-Le Code 1 prévoit déjà ce qui se passe si les heures ne suffisent pas : on réduit les activités différables, on simplifie la documentation, on fait appel au bénévolat et au mutualisme entre Cercles (art. 2, al. 8). Et il désigne les Bilans du travail trimestriels comme base pour vérifier la limite (art. 2, al. 9). Ce brouillon est le calcul fait avant ; ces Bilans seront le calcul fait après.
+Le Code 1 prévoit déjà ce qui se passe si les heures ne suffisent pas : on réduit les activités différables, on simplifie la documentation, on recourt au bénévolat, au mutualisme entre Cercles et au Pool, et en dernier lieu on demande l’activation du Protocole de solidarité (art. 2, al. 8, lettres a–d). Et il désigne les Bilans du travail trimestriels comme base pour vérifier la limite (art. 2, al. 9). Ce brouillon est le calcul fait avant ; ces Bilans seront le calcul fait après.
 
 ### 4.8 Les hypothèses qui pèsent le plus
 
 | Si change | Effet |
 |---|---|
-| Trois repas collectifs par jour au lieu d’un | +10 140 heures : le scénario A passe de 7,2 à 9,3 heures de travail interne par semaine |
-| Aucun repas collectif | −5 070 heures : 6,2 heures par semaine |
-| Fruits à coque réduits de moitié | environ −1 500 heures : 6,9 heures par semaine |
+| Trois repas collectifs par jour au lieu d’un | +10 140 heures : le scénario A passe de 7,7 à 9,8 heures de travail interne par semaine |
+| Aucun repas collectif | −5 070 heures : 6,6 heures par semaine |
+| Fruits à coque réduits de moitié | environ −1 570 heures : 7,4 heures par semaine |
 | Céréales, légumineuses et tournesol cultivés avec 8 heures par hectare, comme dans l’agriculture mécanisée allemande | −600 heures : presque tout le travail de champ porte sur les fruits à coque, les légumes et les fruits |
-| Énergie et eau à la moyenne européenne, sans doublement | −1 860 heures : 6,8 heures par semaine |
-| Inventaire des biens manufacturés triplé | calcul complet : 11,3 heures dans le scénario A, 14,5 dans le scénario B |
+| Énergie et eau à la moyenne européenne, sans doublement | −1 860 heures : 7,3 heures par semaine |
+| Inventaire des biens manufacturés triplé | calcul complet : 12,0 heures dans le scénario A, 15,2 dans le scénario B |
 | 48 semaines de travail par an au lieu de 52 | les heures disponibles baissent de 8 % |
+| 10 % des contributeurs dans des filières essentielles extérieures, pendant la transition | travail interne : 8,5 heures dans le scénario A, 12,1 dans le scénario B |
 
 ## 5. Robots et automatisation
 
-Le calcul du paragraphe 4 utilise les machines d’aujourd’hui. Ce paragraphe indique comment on compte une automatisation, où elle est le plus utile et dans quelle mesure elle peut changer le résultat. Les règles en vigueur figurent dans le Code 7, article 6, qui s’applique à toute automatisation. Des règles spécifiques aux robots figurent dans le Code 7, article 6-bis ([proposition 8](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html), acceptée le 19 octobre 2026) : ce paragraphe en tient compte.
+Le calcul du paragraphe 4 utilise les machines d’aujourd’hui. Ce paragraphe indique comment on compte une automatisation, où elle est le plus utile et dans quelle mesure elle peut changer le résultat. Les règles en vigueur figurent dans le Code 7, article 6, qui s’applique à toute automatisation, et dans l’article 6-bis pour les robots ([proposition 8](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html), acceptée le 19 octobre 2026).
 
 ### 5.1 Comment on compte
 
-Un robot est un moyen de production ; il entre donc dans le calcul comme tout autre : les heures qui ont servi à le construire, plus l’énergie et l’entretien, réparties sur les années pendant lesquelles il travaille. Il est avantageux lorsque les heures qu’il fait économiser sont supérieures à celles qu’il coûte. Le Code 7 exige déjà que le gain de temps soit documentable (art. 6, al. 1) ; l’article 6-bis demande de faire cette comparaison avant d’introduire la machine.
+Un robot est un moyen de production ; il entre donc dans le calcul comme tout autre. L’article 6-bis, alinéa 7, demande de comparer en UCR, avant de l’introduire, les heures nécessaires pour le construire, l’alimenter, l’entretenir, former les personnes qui l’utilisent et l’éliminer avec les heures de travail qu’il fait économiser. La comparaison se calcule selon le Code 3 (art. 5 et 9) et elle est certifiée par le Conseil Comptabilité. Il est avantageux lorsque les heures économisées sont supérieures. Le Code 7 exige aussi que le gain de temps soit documentable (art. 6, al. 1).
 
-Un exemple : une machine de 60 000 euros qui dure quinze ans coûte 78 UCR par an, 157 si elle est produite pour moitié là où le travail rend moins. Avec cinquante heures d’entretien, cela fait entre 130 et 210 heures par an. Elle est avantageuse si elle en fait économiser davantage.
+Un exemple : une machine de 60 000 euros qui dure quinze ans coûte 78 UCR par an, 157 si elle est produite pour moitié là où le travail rend moins. La formation des personnes qui l’utilisent (40 heures, exemple) vaut 2,7 UCR par an et la fin de vie (5 % du prix, exemple) 3,9. Avec cinquante heures d’entretien, cela fait entre 135 et 217 heures par an. Elle est avantageuse si elle en fait économiser davantage.
 
-Le gain ne va pas à qui possède la machine, parce que personne ne la possède : le temps libéré reste à la Communauté, qui décide comment l’utiliser (Code 7, art. 6, al. 6). L’article 6-bis du Code 7 confirme cette règle également pour les robots.
+Le gain ne va pas à qui possède la machine, parce que personne ne la possède : le temps libéré reste à la Communauté, qui décide comment l’utiliser (Code 7, art. 6, al. 6). L’article 6-bis confirme cette règle également pour les robots (al. 7).
+
+**Les tâches à risque.** Lorsqu’un robot de la Communauté peut accomplir en sécurité une tâche classée pour le risque, aucune personne ne peut y être affectée, sauf pour les essais de la procédure manuelle et en cas de panne (Code 7, art. 6-bis, al. 6 ; Code 1, art. 8, al. 3). Là où le robot existe, ces heures sortent du travail des personnes et il reste les heures de surveillance ; la majoration de CdR pour le risque ne s’applique plus non plus.
 
 ### 5.2 Où elle est utile, domaine par domaine
 
@@ -215,11 +233,11 @@ Le gain ne va pas à qui possède la machine, parce que personne ne la possède�
 |---|---|---|---|
 | Champs | 4 570 | Travail du sol, semis, irrigation, désherbage mécanique. Les céréales, les légumineuses et le tournesol sont déjà presque entièrement mécanisés. | La plus grande part du travail actuel : récolte et soins des fruits à coque, des légumes et des fruits. C’est ici que les robots changeraient le plus le calcul. |
 | Transformation des aliments | 1 800 | Moulin, moulin à huile, pétrissage, lavage, conditionnement | Contrôle, recettes, nettoyage des installations |
-| Mines, excavations et matières premières | hors du calcul interne : relève des biens manufacturés | Excavation, transport et concassage dans des environnements dangereux. C’est le premier endroit d’où retirer les personnes (Code 7, art. 2, al. 6). | Conception, surveillance, entretien, dépollution. Avant l’extraction viennent le réemploi et le recyclage : aujourd’hui, aucun texte n’admet de nouvelles extractions (Const. 14.2). |
+| Mines, excavations et matières premières | hors du calcul interne : relève des biens manufacturés | Excavation, transport et concassage dans des environnements dangereux. C’est le premier endroit d’où retirer les personnes (Code 7, art. 2, al. 6) : si un robot peut le faire en sécurité, personne n’y est affecté (art. 6-bis, al. 6). | Conception, surveillance, entretien, dépollution. Avant l’extraction viennent le réemploi et le recyclage : aujourd’hui, aucun texte n’admet de nouvelles extractions (Const. 14.2). |
 | Construction et entretien | 4 430 | Excavations, manutention des charges, préfabrication, inspections en hauteur | Conception, finitions, réparations sur mesure |
 | Logistique et Entrepôt | 2 560 | Inventaire, manutention, une partie des livraisons | Livraison aux personnes fragiles, relation avec les personnes qui retirent |
 | Énergie et eau | 3 350 | Mesures, régulation, alarmes : c’est déjà largement le cas | Réparations, décisions sur les priorités |
-| Documentation | jusqu’à 3 560 | L’IA prépare les procès-verbaux, les registres et les calculs | Chaque décision : l’IA propose, elle ne décide pas (Const. 19.6) |
+| Documentation | jusqu’à 3 720 | L’IA prépare les procès-verbaux, les registres et les calculs | Chaque décision : l’IA propose, elle ne décide pas (Const. 19.6) |
 | Cuisine collective | 4 560 | De meilleurs équipements | Cuisiner et servir, dans l’hypothèse prudente de ce calcul |
 | Soin, santé, apprentissage, justice | 8 600 | Uniquement des instruments actionnés par une personne : lève-personnes, aides techniques, diagnostic | Tout le reste. Le Code interdit d’automatiser le soin, la médiation, la validation des compétences et les décisions de garantie (Code 7, art. 6, al. 2). |
 
@@ -231,23 +249,66 @@ Dans le scénario A, le travail que les machines peuvent alléger (champs, trans
 
 | Si les machines retirent | Heures par semaine et par contributeur | En comptant que les machines coûtent un cinquième de ce qu’elles font économiser (hypothèse) |
 |---|---|---|
-| rien de plus qu’aujourd’hui | 7,2 | 7,2 |
-| un quart de ces heures | 6,3 | 6,5 |
-| la moitié | 5,3 | 5,7 |
-| trois quarts | 4,4 | 5,0 |
+| rien de plus qu’aujourd’hui | 7,7 | 7,7 |
+| un quart de ces heures | 6,7 | 6,9 |
+| la moitié | 5,8 | 6,2 |
+| trois quarts | 4,8 | 5,4 |
 
 Chaque tranche de dix pour cent en moins vaut 23 minutes par semaine pour chacun.
 
 ### 5.4 Perspectives
 
-1. **Il y a une limite, et elle est voulue.** Même en automatisant tout ce qui peut l’être, il reste le travail entre personnes : entre trois et quatre heures par semaine. Le projet ne vise pas zéro heure : il vise à libérer les personnes du travail dangereux et répétitif.
-2. **Les machines ne sont pas gratuites.** Elles coûtent des heures, de l’énergie et des matières premières. La vraie limite est écologique avant d’être technique.
+1. **Il y a une limite, et elle est voulue.** Même en automatisant tout ce qui peut l’être, il reste le travail entre personnes : entre trois et quatre heures par semaine. Le projet ne vise pas zéro heure : il vise à libérer les personnes du travail dangereux et répétitif. Pour le travail dangereux, c’est déjà une règle : là où un robot peut le faire en sécurité, personne n’y est affecté.
+2. **Les machines ne sont pas gratuites.** Elles coûtent des heures, de l’énergie et des matières premières, formation et élimination comprises. La vraie limite est écologique avant d’être technique.
 3. **À qui cela profite, voilà la différence avec aujourd’hui.** Aujourd’hui, une machine qui remplace le travail retire le revenu à quelqu’un et le donne à celui qui la possède. Ici, elle ne retire le Panier à personne et réduit les heures de tous.
 4. **Aucune promesse.** Le calcul de ce brouillon tient avec les machines qui existent. De meilleurs robots l’amélioreraient ; le projet n’en dépend pas.
 
-## 6. Une conséquence pour les seuils du Code 3
+## 6. Les seuils du Code 3
 
-Jusqu’au 19 octobre 2026, l’article 7 du Code 3 distinguait les opérations de valeur faible (moins de 500 UCR), moyenne (de 500 à 2 500) et élevée. Avec le coefficient proposé, 500 UCR correspondent à environ 25 500 euros d’achats et à 0,7 % des heures annuelles d’une Communauté de 150 personnes ; 2 500 UCR à environ 128 000 euros et à 3,4 %. Pour une petite Communauté, le seuil bas était trop élevé : un achat de 20 000 euros était décidé par un Cercle de compétence. La [proposition 11](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html), acceptée le 19 octobre 2026, a lié les deux seuils à la taille de la Communauté : 100 UCR plus une par personne, et 500 plus cinq par personne, avec 500 et 2 500 comme maximum.
+Jusqu’au 19 octobre 2026, l’article 7 du Code 3 distinguait les opérations de faible valeur (moins de 500 UCR), de valeur moyenne (de 500 à 2 500) et de valeur élevée, pour chaque Communauté. Avec le coefficient proposé, pour une Communauté de 150 personnes, 500 UCR représentaient 1,3 % du travail annuel nécessaire (scénario A) et 2 500 UCR 6,7 % ; pour une Communauté de 30 personnes, 6,7 % et 34 %. La [proposition 11](https://imthezeroit.github.io/progetto-dei-cerchi/fr/regles/propositions.html), acceptée le 19 octobre 2026, a lié les seuils à la taille de la Communauté (art. 7, al. 3-bis) : le seuil bas est de 100 UCR plus une par personne, le seuil haut de 500 UCR plus cinq par personne, avec 500 et 2 500 comme maximum.
+
+| Communauté | Seuil bas | Seuil haut |
+|---|---|---|
+| 30 personnes | 130 UCR : environ 6 600 euros, 1,7 % du travail annuel | 650 UCR : environ 33 200 euros, 8,7 % |
+| 150 personnes | 250 UCR : environ 12 800 euros, 0,7 % | 1 250 UCR : environ 63 800 euros, 3,4 % |
+| 500 personnes | 500 UCR : environ 25 500 euros, 0,4 % | 2 500 UCR : environ 127 600 euros, 2,0 % |
+
+Les pourcentages sont toujours calculés sur la même base : les heures nécessaires du scénario A, comme dans le registre des paramètres. On compte toutes les personnes de la Communauté au début du trimestre, mineurs compris, mais pas les hôtes (al. 3-bis). L’Assemblée générale recalibre les valeurs, mais ne peut pas supprimer la proportionnalité au nombre de personnes (al. 3-ter). Aux opérations à risque moyen d’une valeur comprise entre le seuil haut et 2 500 UCR s’appliquent en tout cas les alinéas 2 et 4 de l’article 7-ter (al. 3-ter) ; celles à risque élevé ou critique, même sous le seuil bas, suivent la procédure spéciale de l’article 7-bis et la décision de l’Assemblée du Cercle 1 (al. 3).
+
+## Ce qu’il faut pour l’adopter
+
+**Données à vérifier, et qui pourrait le faire.**
+
+- **Heures travaillées et production de l’Union européenne, et coefficient de 0,0196 heure par euro :** une personne experte en statistiques économiques, qui vérifie les données d’Eurostat et dise comment pèsent la TVA et les importations.
+- **Coefficients par pays et facteur 2 des biens importés :** un économiste qui connaisse les tableaux entrées-sorties (par exemple EXIOBASE). Aujourd’hui, le facteur 2 n’a pas de source.
+- **Structure par âge, parents, réductions de 5 %, jeunes de dix-huit ans :** une personne experte en démographie ; après le démarrage, les données de la Communauté.
+- **Rendements, heures par hectare, pertes, rendement en huile :** un agronome ou une personne qui cultive en bio dans la région.
+- **Repas par heure, laverie, nettoyage, logistique, transformation des aliments :** des personnes qui travaillent dans des cantines, des laveries et des entrepôts, avec des heures mesurées.
+- **Heures de santé, d’aide aux personnes âgées, de crèche et d’école :** des personnes qui travaillent dans ces services ; pour la santé, le Conseil Santé.
+- **Prix et durées des biens manufacturés :** de vrais devis de fournisseurs et d’artisans ; pour les panneaux et la chaleur, un technicien en énergie.
+- **Logement de 22 m² par personne :** un technicien du bâtiment qui compte la surface réelle des Cercles 0.
+- **Protection civique et fonctions communes du Bassin :** les premiers Bilans du travail réels.
+
+**Choix ouverts.**
+
+1. **Comment convertir les achats extérieurs :** coefficient du pays, moyenne européenne ou tableaux entrées-sorties. Le brouillon recommande les tableaux entrées-sorties lorsqu’ils existent et le coefficient du pays, certifié comme « estimé », dans les autres cas.
+2. **Où passe la frontière entre CBO et Noyau** (combien de repas collectifs, combien de laverie) : c’est le choix qui pèse le plus, de 6,6 à 9,8 heures. L’Annexe montre l’effet ; c’est le Bilan du travail de chaque Communauté qui décide.
+3. **52 ou 48 semaines par an.** Le brouillon recommande 48, pour avoir des pauses, ou bien de dire ouvertement que le calcul n’en prévoit pas.
+4. **Quel scénario utiliser pour vérifier la limite.** Le brouillon recommande le scénario B, plus prudent.
+5. **Une catégorie propre pour l’apprentissage** dans le Bilan du travail, avec une modification du Code 1, ou bien « autres activités ».
+6. **La règle de la part de Bassin :** le brouillon propose de diviser les heures des fonctions communes du Bassin par les personnes du Bassin et de les multiplier par les personnes de chaque Communauté, avec les mêmes critères pour les Communautés associées (Code 15, art. 21-bis, al. 2, lettre c).
+7. **Aucun taux d’actualisation, et nouveau calcul lorsque les données changent de plus d’un cinquième :** le brouillon recommande de garder les deux règles.
+
+**Procédure d’approbation.**
+
+1. Les Conseils Comptabilité et Qualité des Communautés, en coordination fédérée, élaborent la méthode de calcul commune (Code 3, art. 9, alinéas 3 et 4).
+2. Le Cercle 2 la propose et son Assemblée générale l’approuve (art. 9, al. 3 ; art. 14, alinéas 6 et 7). Avant que le Cercle 2 existe, décide l’Assemblée du Cercle 1 ou, s’il y a plus d’une Communauté, leur délibération conjointe (art. 14, al. 10) ; pendant la transition, le Cercle 2 est le Bassin (Code 16, art. 1, al. 5).
+3. Chaque Communauté approuve par sa propre Assemblée ses propres valeurs selon cette méthode, sur proposition de son Conseil Comptabilité et de son Conseil Qualité, après au moins 72 heures de publication et selon la méthode du consensus (Code 3, art. 9, al. 3 ; art. 4 ; art. 12-bis, al. 9).
+4. L’Annexe indique la version, la date, le champ d’application, les responsables techniques et les modalités de révision, et ne peut pas modifier les seuils, les compétences ou les garanties (art. 19, alinéas 4 et 5).
+5. Le Conseil Comptabilité certifie chaque valeur avec son incertitude (art. 9, al. 5). Le coût en UCR des biens des Entrepôts (Code 1, art. 20, al. 6) et la comparaison pour les robots (Code 7, art. 6-bis, al. 7) ne peuvent être publiés qu’après.
+6. Les seuils en UCR sont calibrés par l’Assemblée générale dans les six mois de l’entrée en vigueur du Code 3, puis chaque année (Code 3, art. 7, al. 3-ter ; art. 14, alinéas 2 et 4).
+7. Avant le dépôt définitif du Code 3, la vérification sur 8–10 cas concrets est nécessaire (art. 21).
+8. Le Code 3 est actif dès la Phase 0 (Code 16, art. 3, al. 1, lettre b). Les Bilans du travail sont un seuil de passage entre les phases (Code 16, art. 4, al. 1, lettre e, et al. 2, lettre f) : ce brouillon est le calcul fait avant, ces Bilans le contrôle fait après.
 
 ## Comment le corriger
 

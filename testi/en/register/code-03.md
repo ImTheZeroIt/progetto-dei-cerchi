@@ -1,7 +1,7 @@
 ---
 titolo: "CODE 3 — ON DELIBERATION, THRESHOLDS AND THE ASSEMBLY"
 breve: "Code 3 — Deliberation, thresholds and Assembly"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
@@ -309,7 +309,7 @@ A binding negative opinion prevents the adoption of the decision until the cause
 
 2.  The UCR is not a market price. It is used to compare alternatives, to make the systemic cost transparent and to prevent accumulation.
 
-3.  The methodology is defined in the UCR Technical Annex, prepared by the Accounting Council and the Quality Council and approved by the competent Assembly.
+3.  The methodology is defined in the UCR Technical Annex. The calculation method is common to all the Communities of Circle 2: it is prepared by the Accounting Councils and the Quality Councils in federated coordination, proposed by Circle 2 and approved by its General Assembly pursuant to Article 14. Each Community determines its own values according to that method; they are prepared by its Accounting Council and its Quality Council and approved by the Assembly of Circle 1. Until Circle 2 is established, Article 14, paragraph 10, applies.
 
 4.  The UCR Technical Annex shall govern at least:
 
@@ -642,7 +642,7 @@ e) the acts of the shared Council are published in accordance with Article 15 an
 
 1.  The Technical Annexes relating to UCR and to risk assessment do not constitute autonomous provisions of this Code.
 2.  The methodologies contained in the Annexes are mandatory for the application of Articles 5 to 11.
-3.  The Annexes are approved and amended by the Assembly of Circle 1 in accordance with the applicable deliberative method.
+3.  The Annexes are approved and amended by the Assembly of Circle 1 in accordance with the applicable deliberative method. For the UCR Technical Annex, the common calculation method is approved by the General Assembly of Circle 2 and the values of each Community by the Assembly of Circle 1, pursuant to Article 9, paragraph 3.
 4.  Each Annex shall indicate its version, date of approval, scope of application, the persons technically responsible and the arrangements for revision.
 5.  An Annex may not modify thresholds, competences or guarantees established directly by the Constitution or by the Codes.
 

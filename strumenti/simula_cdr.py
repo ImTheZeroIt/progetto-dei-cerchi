@@ -12,16 +12,33 @@ valore iniziale ogni trimestre e si estingue alla fine del ventiquattresimo mese
 Il testo ammette tre letture del modo in cui il valore scende (vedi LETTURE). La simulazione usa quella
 graduale: dal compimento del dodicesimo mese il valore scende in proporzione al tempo, un dodicesimo al mese,
 fino a zero al compimento del ventiquattresimo. È la sola che rispetta sia i dodici mesi pieni sia
-l'estinzione al ventiquattresimo, ed è la lettura della proposta di modifica 9. Per provare le altre basta
-cambiare LETTURA.
+l'estinzione al ventiquattresimo, ed è la lettura scritta nel Codice 1 il 19 ottobre 2026 (proposta 9).
+Per provare le altre basta cambiare LETTURA.
+
+La Comunità, il coefficiente ore per euro, il CBO stimato e le ore di manutenzione vengono da
+strumenti/bilancio_ore.py, perché le due bozze usino le stesse ipotesi.
 """
+import importlib.util
+import os
+
+_spec = importlib.util.spec_from_file_location(
+    "bilancio_ore", os.path.join(os.path.dirname(os.path.abspath(__file__)), "bilancio_ore.py"))
+bilancio = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(bilancio)
+_conto = bilancio.conto()
 
 LETTURA = "graduale"         # "graduale", "fine trimestre" oppure "inizio trimestre"
 
 TETTO = 240                  # Cod. 1, art. 44, c. 2 (prima applicazione)
 SETTIMANE_PER_MESE = 52 / 12
-CONTRIBUTORI = 95            # Comunità di 150 persone (bozza dell'Allegato UCR)
-ORE_PER_EURO = 0.0196        # coefficiente dell'Unione europea (bozza dell'Allegato UCR)
+CONTRIBUTORI = round(_conto["contributori"])     # Comunità di 150 persone (bozza dell'Allegato UCR): 93
+ORE_PER_EURO = round(_conto["ore_per_euro"], 4)  # coefficiente dell'Unione europea (bozza dell'Allegato UCR): 0,0196
+CBO_STIMATO = bilancio.cbo_stimato()             # ore a settimana per contributore, scenari A e B della bozza UCR
+LIMITE_CBO = bilancio.LIMITE_ORE                 # 15 ore (Cod. 1, art. 3): si applica il fabbisogno se è più basso
+                                                 # (Cod. 1, art. 6, c. 2)
+LIMITE_CULTURALI = 60        # CdR l'anno per le attività culturali (Cod. 1, art. 43, c. 1-bis, lett. e; prima applicazione)
+LIMITE_UTILITA = 30          # proposta della bozza: CdR l'anno per il riconoscimento di utilità (era 60)
+M2_OSPITE = 15               # ipotesi: m2 di Casa Ponte per ospite
 
 # Prodotto per abitante nel 2024, in dollari correnti (Banca Mondiale, NY.GDP.PCAP.CD).
 # Il coefficiente di un paese è quello europeo moltiplicato per il rapporto tra il prodotto per abitante
@@ -90,6 +107,28 @@ def mesi_al_tetto(cdr_al_mese):
     return None
 
 
+def saldo_con_impiego(cdr_al_mese, quota, mesi, tetto=TETTO):
+    """Come saldo(), ma ogni mese la persona impiega una quota di ciò che ha maturato, a partire dai CdR più vecchi
+    (Cod. 1, art. 45, c. 3); ogni CdR conta per il valore che ha in quel momento (art. 44, c. 3)."""
+    lotti = []                                   # [età in mesi, CdR ancora non impiegati]
+    for _ in range(mesi):
+        for lotto in lotti:
+            lotto[0] += 1
+        lotti = [l for l in lotti if valore(l[0]) > 0]
+        attuale = sum(v * valore(e) for e, v in lotti)
+        nuovo = cdr_al_mese if tetto is None else max(0.0, min(cdr_al_mese, tetto - attuale))
+        lotti.append([0, nuovo])
+        da_impiegare = quota * cdr_al_mese
+        for lotto in sorted(lotti, key=lambda l: -l[0]):
+            if da_impiegare <= 0:
+                break
+            v = valore(lotto[0])
+            prendi = min(lotto[1], da_impiegare / v)
+            lotto[1] -= prendi
+            da_impiegare -= prendi * v
+    return sum(v * valore(e) for e, v in lotti)
+
+
 def stampa():
     print("Le tre letture dell'art. 44, c. 3: mesi di maturazione conservati a regime e ore a settimana per il tetto")
     for lettura in LETTURE:
@@ -110,12 +149,20 @@ def stampa():
         m = mesi_al_tetto(al_mese)
         print("  %-22s %8.0f %8.0f %10.0f %s" % (ore, saldo(al_mese, 12), saldo(al_mese, 24), saldo(al_mese, 60),
                                                   m if m else "mai"))
-    print("\nMaggiorazioni dentro il CBO (15 ore a settimana), senza altro lavoro")
-    for quota, magg in ((0.2, 0.3), (0.2, 0.5), (0.2, 1.0), (1.0, 0.5), (1.0, 1.0)):
-        al_mese = 15 * quota * magg * SETTIMANE_PER_MESE
-        m = mesi_al_tetto(al_mese)
-        print("  %3.0f%% delle ore in compiti maggiorati del %3.0f%%: %5.1f CdR al mese; a regime %3.0f; tetto: %s"
-              % (100 * quota, 100 * magg, al_mese, saldo(al_mese, 60), ("dopo %d mesi" % m) if m else "mai"))
+    print("\nMaggiorazioni dentro il CBO, senza altro lavoro: CBO stimato (scenari A e B della bozza UCR) e limite di 15 ore")
+    casi_cbo = (("A", CBO_STIMATO["A"]), ("B", CBO_STIMATO["B"]), ("limite", LIMITE_CBO))
+    for nome, ore_cbo in casi_cbo:
+        print("  CBO %s: %.1f ore a settimana" % (nome, ore_cbo))
+        for quota, magg in ((0.2, 0.3), (0.2, 0.5), (0.2, 1.0), (1.0, 0.5), (1.0, 1.0)):
+            al_mese = ore_cbo * quota * magg * SETTIMANE_PER_MESE
+            m = mesi_al_tetto(al_mese)
+            print("    %3.0f%% delle ore in compiti maggiorati del %3.0f%%: %5.1f CdR al mese; a regime %3.0f; tetto: %s"
+                  % (100 * quota, 100 * magg, al_mese, saldo(al_mese, 60), ("dopo %d mesi" % m) if m else "mai"))
+    print("\nLimiti annui senza altro lavoro: CdR culturali e riconoscimento di utilità, ciascuno al massimo")
+    for utilita in (60, LIMITE_UTILITA):
+        al_mese = (LIMITE_CULTURALI + utilita) / 12
+        print("  %d culturali + %d di utilità = %d l'anno: a regime %.0f CdR, il %.0f%% del tetto"
+              % (LIMITE_CULTURALI, utilita, LIMITE_CULTURALI + utilita, saldo(al_mese, 60), 100 * saldo(al_mese, 60) / TETTO))
     print("\nDistribuzione in una Comunità di %d contributori, dopo cinque anni" % CONTRIBUTORI)
     profili = [(0.50, 0), (0.30, 1), (0.15, 3), (0.05, 8)]      # quota di persone, ore a settimana oltre il CBO
     for nome, tetto in (("con il tetto", TETTO), ("senza tetto", None)):
@@ -126,6 +173,11 @@ def stampa():
               % (nome, totale, 100 * primi / totale))
         for (q, o), (n, s) in zip(profili, saldi):
             print("     %2.0f%% delle persone, %d ore a settimana: saldo %3.0f" % (100 * q, o, s))
+    for quota_impiego in (0.5,):
+        saldi = [(q * CONTRIBUTORI, saldo_con_impiego(o * SETTIMANE_PER_MESE, quota_impiego, 60)) for q, o in profili]
+        totale = sum(n * s for n, s in saldi)
+        print("  se ognuno impiega ogni mese metà di ciò che matura: totale %5.0f CdR; il 5%% più attivo ne detiene il %2.0f%% (saldo %3.0f)"
+              % (totale, 100 * saldi[-1][0] * saldi[-1][1] / totale, saldi[-1][1]))
     print("\nSe il tetto fosse diverso (stessa Comunità, nessuno impiega i CdR)")
     for tetto in (120, 180, 240, 300, 360, 480):
         saldi = [(q * CONTRIBUTORI, saldo(o * SETTIMANE_PER_MESE, 60, tetto)) for q, o in profili]
@@ -135,13 +187,17 @@ def stampa():
         print("  tetto %3d: si raggiunge con %.1f ore a settimana; persone al tetto %2.0f%%; quota del 5%% più attivo %2.0f%%%s"
               % (tetto, tetto / fattore / SETTIMANE_PER_MESE, 100 * al_tetto, 100 * quota,
                  "  <- oltre la soglia di un quinto" if quota > 0.2 else ""))
-    print("\nUn CdR vale una UCR: %.0f euro di acquisti esterni; il tetto: %.0f euro; %.1f settimane di CBO"
-          % (1 / ORE_PER_EURO, TETTO / ORE_PER_EURO, TETTO / 15))
+    print("\nUn CdR a valore pieno vale una UCR: %.0f euro di acquisti esterni; il tetto: %.0f euro" % (1 / ORE_PER_EURO, TETTO / ORE_PER_EURO))
+    print("  il tetto vale %s" % "; ".join("%.0f settimane di CBO %s (%.1f ore)" % (TETTO / o, n, o) for n, o in casi_cbo))
+    print("  un CdR maturato da 18 mesi vale %.2f UCR" % valore_al_compimento(18))
     print("\nOre di lavoro per euro, per paese di produzione")
     for paese in PRODOTTO_PER_ABITANTE:
         print("  %-16s %.3f  (un'ora ogni %.1f euro)" % (paese, coefficiente(paese), 1 / coefficiente(paese)))
     print("\nCosto in UCR di beni e servizi non necessari (valori d'esempio)")
-    m2_anno = 750 / 80 * ORE_PER_EURO + 4427 / (150 * 20)    # materiali più manutenzione, per m2 all'anno
+    # materiali più manutenzione (scenario A della bozza UCR), per m2 all'anno, sulla superficie a persona (alloggio più comuni)
+    m2_persona = bilancio.M2_ALLOGGIO + bilancio.M2_COMUNI
+    m2_anno = (bilancio.EURO_M2 / 80 * ORE_PER_EURO
+               + _conto["A"]["Manutenzione"] / (bilancio.PERSONE * m2_persona))
     ue, cina = ORE_PER_EURO, coefficiente("Cina")
     righe = [
         ("un chilo di caffè (15 euro): ore di piantagione più 13 euro in Europa", ore_caffe() + 13 * ue, 15 * ue),
@@ -157,13 +213,13 @@ def stampa():
         ("la stessa bicicletta, metà del prezzo in Cina", 600 * cina + 600 * ue, 1200 * ue),
         ("un viaggio di 1.000 km in treno (10 centesimi al km)", 100 * ue, 100 * ue),
         ("un viaggio di 5.000 km in treno", 500 * ue, 500 * ue),
-        ("una notte di ospitalità ordinaria in Casa Ponte (15 m2 e mezz'ora di gestione)", 15 * m2_anno / 365 + 0.5, None),
-        ("quattordici notti in Casa Ponte", 14 * (15 * m2_anno / 365 + 0.5), None),
+        ("una notte di ospitalità ordinaria in Casa Ponte (15 m2 e mezz'ora di gestione)", M2_OSPITE * m2_anno / 365 + 0.5, None),
+        ("quattordici notti in Casa Ponte", 14 * (M2_OSPITE * m2_anno / 365 + 0.5), None),
         ("uso esclusivo di uno spazio comune di 20 m2 per tre mesi", 20 * m2_anno / 4, None),
         ("uso esclusivo di uno spazio comune di 20 m2 per un anno", 20 * m2_anno, None),
     ]
-    print("  uno spazio comune costa %.2f UCR per m2 all'anno; un chilo di caffè contiene %.1f ore di piantagione"
-          % (m2_anno, ore_caffe()))
+    print("  uno spazio comune costa %.2f UCR per m2 all'anno (%d m2 a persona); un chilo di caffè contiene %.1f ore di piantagione"
+          % (m2_anno, m2_persona, ore_caffe()))
     print("  %-78s %6s %s" % ("", "UCR", "(con la sola media europea)"))
     for nome, ucr, media in righe:
         print("  %-78s %6.1f %s" % (nome, ucr, ("(%.1f)" % media) if media is not None and abs(media - ucr) > 0.05 else ""))

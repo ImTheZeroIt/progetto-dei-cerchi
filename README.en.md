@@ -2,7 +2,7 @@
 
 *[Versione italiana](README.md) · [Versión española](README.es.md) · [Version française](README.fr.md)*
 
-**Website:** <https://imthezeroit.github.io/progetto-dei-cerchi/en/> — all the texts, laid out for reading, in Italian, English and French; the path also in Spanish. To see in one minute what this is about: [In one minute](https://imthezeroit.github.io/progetto-dei-cerchi/en/#minuto).
+**Website:** <https://imthezeroit.github.io/progetto-dei-cerchi/en/> — all the texts, laid out for reading, in Italian, English, Spanish and French. To see in one minute what this is about: [In one minute](https://imthezeroit.github.io/progetto-dei-cerchi/en/#minuto).
 
 Born of a refusal of the injustices of today’s world, an open proposal for an alternative to the way we organise collective life.
 
@@ -31,7 +31,7 @@ Then come the rules.
 | [Code 1 — Base contribution and Common Storehouses](testi/en/register/code-01.md) | V1.10 |
 | [Annex A to Code 1 — Material production and workshops](testi/en/register/code-01-annex-a.md) | V1.6 |
 | [Code 2 — Quality and validation](testi/en/register/code-02.md) | V1.7 |
-| [Code 3 — Deliberation, thresholds and Assembly](testi/en/register/code-03.md) | V1.7 |
+| [Code 3 — Deliberation, thresholds and Assembly](testi/en/register/code-03.md) | V1.8 |
 | [Code 4 — Restorative justice and guarantee](testi/en/register/code-04.md) | V1.9 |
 | [Code 5 — Learning and competences](testi/en/register/code-05.md) | V1.6 |
 | [Code 6 — Health](testi/en/register/code-06.md) | V1.8 |
@@ -59,7 +59,7 @@ Every change is recorded and explained in the [change log](CHANGELOG.md). The pr
 |---|---|
 | `testi/it/` | the Italian texts (authoritative), in Markdown |
 | `testi/en/` | the English translation and its glossary |
-| `testi/es/` | the Spanish translation of the four texts of the path, and its glossary |
+| `testi/es/` | the Spanish translation of the same texts, and its glossary |
 | `testi/fr/` | the French translation of the same texts, and its glossary |
 | `docs/` | the website, generated from the texts: Italian in `docs/`, English in `docs/en/`, Spanish in `docs/es/`, French in `docs/fr/`, with PDF and ODT downloads |
 | `strumenti/` | the program that generates the website, its style sheet and the search over the texts (`ricerca.py`, `cerca.js`) |

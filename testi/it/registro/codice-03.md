@@ -1,7 +1,7 @@
 ---
 titolo: "CODICE 3 — DELLA DELIBERAZIONE, DELLE SOGLIE E DELL’ASSEMBLEA"
 breve: "Codice 3 — Deliberazione, soglie e Assemblea"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
@@ -309,7 +309,7 @@ Il parere vincolante negativo impedisce l’adozione della decisione finché non
 
 2.  La UCR non è un prezzo di mercato. È utilizzata per comparare alternative, rendere trasparente il costo sistemico e prevenire l’accumulo.
 
-3.  La metodologia è definita nell’Allegato Tecnico UCR, predisposto dal Consiglio Contabilità e dal Consiglio Qualità e approvato dall’Assemblea competente.
+3.  La metodologia è definita nell’Allegato Tecnico UCR. Il metodo di calcolo è comune a tutte le Comunità del Cerchio 2: è predisposto dai Consigli Contabilità e dai Consigli Qualità in coordinamento federato, è proposto dal Cerchio 2 ed è approvato dalla sua Assemblea Generale ai sensi dell’articolo 14. Ogni Comunità determina secondo quel metodo i propri valori, che sono predisposti dal suo Consiglio Contabilità e dal suo Consiglio Qualità e approvati dall’Assemblea del Cerchio 1. Fino alla costituzione del Cerchio 2 si applica l’articolo 14, comma 10.
 
 4.  L’Allegato Tecnico UCR disciplina almeno:
 
@@ -642,7 +642,7 @@ e) gli atti del Consiglio condiviso sono pubblicati secondo l’articolo 15 e so
 
 1.  Gli Allegati Tecnici relativi alle UCR e alla valutazione del rischio non costituiscono disposizioni autonome del presente Codice.
 2.  Le metodologie contenute negli Allegati sono obbligatorie per l’applicazione degli articoli da 5 a 11.
-3.  Gli Allegati sono approvati e modificati dall’Assemblea del Cerchio 1 secondo il metodo deliberativo applicabile.
+3.  Gli Allegati sono approvati e modificati dall’Assemblea del Cerchio 1 secondo il metodo deliberativo applicabile. Per l’Allegato Tecnico UCR il metodo di calcolo comune è approvato dall’Assemblea Generale del Cerchio 2 e i valori di ciascuna Comunità dall’Assemblea del Cerchio 1, ai sensi dell’articolo 9, comma 3.
 4.  Ogni Allegato indica versione, data di approvazione, ambito di applicazione, responsabili tecnici e modalità di revisione.
 5.  Un Allegato non può modificare soglie, competenze o garanzie stabilite direttamente dalla Costituzione o dai Codici.
 

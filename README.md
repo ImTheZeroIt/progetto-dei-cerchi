@@ -2,7 +2,7 @@
 
 *[English version](README.en.md) · [Versión española](README.es.md) · [Version française](README.fr.md)*
 
-**Sito:** <https://imthezeroit.github.io/progetto-dei-cerchi/> — tutti i testi impaginati, in italiano, in inglese e in francese; il percorso anche in spagnolo. Per capire in un minuto di che cosa si tratta: [In un minuto](https://imthezeroit.github.io/progetto-dei-cerchi/#minuto).
+**Sito:** <https://imthezeroit.github.io/progetto-dei-cerchi/> — tutti i testi impaginati, in italiano, in inglese, in spagnolo e in francese. Per capire in un minuto di che cosa si tratta: [In un minuto](https://imthezeroit.github.io/progetto-dei-cerchi/#minuto).
 
 Nato dal rifiuto delle ingiustizie del mondo di oggi, una proposta aperta di alternativa al modo in cui organizziamo la vita collettiva.
 
@@ -29,7 +29,7 @@ Poi vengono le regole.
 | [Codice 1 — Contributo di base e Magazzini comuni](testi/it/registro/codice-01.md) | V1.10 |
 | [Annex A al Codice 1 — Produzione materiale e officine](testi/it/registro/codice-01-annex-a.md) | V1.6 |
 | [Codice 2 — Qualità e validazione](testi/it/registro/codice-02.md) | V1.7 |
-| [Codice 3 — Deliberazione, soglie e Assemblea](testi/it/registro/codice-03.md) | V1.7 |
+| [Codice 3 — Deliberazione, soglie e Assemblea](testi/it/registro/codice-03.md) | V1.8 |
 | [Codice 4 — Giustizia riparativa e garanzia](testi/it/registro/codice-04.md) | V1.9 |
 | [Codice 5 — Apprendimento e competenze](testi/it/registro/codice-05.md) | V1.6 |
 | [Codice 6 — Salute](testi/it/registro/codice-06.md) | V1.8 |
@@ -58,7 +58,7 @@ Ogni modifica è annotata e motivata nel [registro delle modifiche](REGISTRO-DEL
 | `testi/it/percorso/` | i quattro testi del percorso, in Markdown |
 | `testi/it/registro/` | Costituzione, Codici e Allegati, in Markdown: sono la fonte di tutto il resto |
 | `testi/en/` | la traduzione inglese degli stessi testi |
-| `testi/es/` | la traduzione spagnola dei quattro testi del percorso |
+| `testi/es/` | la traduzione spagnola degli stessi testi, con il suo glossario |
 | `testi/fr/` | la traduzione francese degli stessi testi, con il suo glossario |
 | `bozze/` | bozze di calibrazione degli allegati tecnici non ancora adottati |
 | `docs/` | il sito, generato dai testi, in italiano (`docs/`), in inglese (`docs/en/`), in spagnolo (`docs/es/`) e in francese (`docs/fr/`); contiene anche le versioni PDF e ODT da scaricare |
@@ -74,7 +74,7 @@ Il sito non usa servizi esterni, non carica caratteri o programmi dalla rete e n
 
 ## Lingue
 
-Il testo che fa fede è quello italiano. Le versioni inglese, spagnola e francese sono traduzioni di lavoro: i termini usati sono fissati in [`testi/en/GLOSSARY.md`](testi/en/GLOSSARY.md), in [`testi/es/GLOSARIO.md`](testi/es/GLOSARIO.md) e in [`testi/fr/GLOSSAIRE.md`](testi/fr/GLOSSAIRE.md). Quella spagnola comprende per ora i quattro testi del percorso. Chi vuole rivederle o tradurre in altre lingue è benvenuto.
+Il testo che fa fede è quello italiano. Le versioni inglese, spagnola e francese sono traduzioni di lavoro: i termini usati sono fissati in [`testi/en/GLOSSARY.md`](testi/en/GLOSSARY.md), in [`testi/es/GLOSARIO.md`](testi/es/GLOSARIO.md) e in [`testi/fr/GLOSSAIRE.md`](testi/fr/GLOSSAIRE.md). Chi vuole rivederle o tradurre in altre lingue è benvenuto.
 
 ## Contribuire
 
