@@ -1,7 +1,7 @@
 ---
 titolo: "TECHNICAL ANNEX B TO CODE 16 — OPERATING MANUAL FOR DISENGAGEMENT AND FEDERATION"
 breve: "Annex B to Code 16 — Operating manual for disengagement and federation"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "allegati"
 ordine: 16.2
 id: "codice-16-allegato-b"
@@ -22,7 +22,7 @@ Technical annex adopted pursuant to Article 19 of Code 3. This Annex does not co
 
     c) Article 6 applies in the pathway from Phase 2 to Phase 3;
 
-    d) Article 7 governs external dissemination subsequent to the transition and does not constitute a Phase 4 of Code 16.
+    d) Article 7 governs external dissemination during the transition, remains as technical guidance after closure and does not constitute a Phase 4 of Code 16.
 
     No operating time limit may authorise the passage to an institutional phase before the relevant thresholds of Code 16 have been passed.
 
@@ -186,9 +186,9 @@ Technical annex adopted pursuant to Article 19 of Code 3. This Annex does not co
 
     d) the crisis or the interruption of the activities of one bloc does not automatically give rise to the interruption of the other blocs. Continuity measures consistent with the Basket and with the applicable Codes shall be prepared.
 
-## Art. 7 — External dissemination subsequent to the transition
+## Art. 7 — External dissemination
 
-1.  This Article governs an activity of external dissemination subsequent to the transition. It does not constitute a phase of Code 16 and does not modify the definition of Phase 4, which in Code 16 corresponds to closure.
+1.  This Article governs external dissemination during the transition; after closure it remains as technical guidance without normative effect. It does not constitute a phase of Code 16 and does not modify the definition of Phase 4, which in Code 16 corresponds to closure.
 
 2.  External dissemination is assessed on the basis of the voluntary adoption of solutions on account of measurable functional advantage and does not require universal adherence.
 
@@ -210,9 +210,9 @@ Technical annex adopted pursuant to Article 19 of Code 3. This Annex does not co
 
 1.  The operating initiatives provided for by this Annex shall be suspended, as regards the proposal for passage or the activity of reducing dependencies, when one of the following conditions occurs:
 
-    a) Basket 1-2 is not guaranteed for three continuous months;
+    a) Basket 1-2 is not guaranteed for three continuous months in a pilot Circle of the unit proposing the passage;
 
-    b) more than twenty per cent of the valid responses to the anonymous questionnaire on perceived safety are negative;
+    b) more than twenty per cent of the valid responses to the anonymous questionnaire on perceived safety are negative in a pilot Circle of the unit proposing the passage;
 
     c) an R4 incident occurs that has not been managed in accordance with the applicable procedures or for which the required analysis of causes is lacking;
 
@@ -230,7 +230,7 @@ Technical annex adopted pursuant to Article 19 of Code 3. This Annex does not co
 
     d) for the condition referred to in paragraph 1, letter d), the Transition Council, after a professional legal opinion.
 
-4.  Upon restart, the conditions of Phase 0 relevant to the cause of the suspension shall be verified again. The previous outcomes that are not affected by the cause remain valid.
+4.  Upon restart, the conditions of the current phase relevant to the cause of the suspension shall be verified again. The previous outcomes that are not affected by the cause remain valid.
 
 5.  The restart shall be resolved by the General Assembly, after the mandatory opinion of the competent Councils, and published in accordance with Article 15 of Code 3. Where the suspension for the condition of paragraph 1, letter b), concerns only the proposal for a change of phase, the proposal resumes with the positive outcome of the new verification of paragraph 3, letter a), without a separate restart resolution.
 

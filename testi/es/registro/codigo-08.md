@@ -1,12 +1,12 @@
 ---
 titolo: "CÓDIGO 8 — DE LA ENERGÍA Y DEL AGUA"
 breve: "Código 8 — Energía y agua"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 8
 id: "codice-08"
 slug: "codigo-08"
-allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1.8; Código 4 V1.9; Código 5 V1.6; Código 6 V1.8; Código 7 V1.9; C.1-Annex A V1.6; Código 9 V3.3; Código 10 V1.7; Código 11 V1.5; Código 12 V1.6; Código 13 V1.8; Código 14 V1.7; Código 15 V1.9; Código 16 V1.9."
+allineamento: "Constitución V.38; Código 1 V1.12; Código 2 V1.9; Código 3 V1.11; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 7 V1.10; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 15 V1.12; Código 16 V1.10."
 ---
 
 ## Art. 1 — Objeto y naturaleza jurídica
@@ -92,6 +92,10 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
     b) **propuestas y decisiones discrecionales:** se adoptan según el método del consenso previsto en el Código 3, previa publicación de la propuesta, apertura de un plazo no inferior a setenta y dos horas para las objeciones y levantamiento de acta del resultado.
 
 7.  El silencio solo puede considerarse ausencia de objeciones si la propuesta se ha publicado y el plazo previsto ha vencido. La falta de publicación o la ausencia de un plazo no constituyen consenso.
+
+## Art. 3-bis — Consejo de Energía y Agua de los Círculos 2 y 3
+
+1.  Las funciones de almacenamiento, equilibrio, compensación y despacho del Círculo 2 y las de las líneas troncales de compensación del Círculo 3 las ejerce un Consejo de Energía y Agua compartido conforme al artículo 12-bis, apartado 6-bis, del Código 3, que constituye la asamblea técnica del artículo 15.3 de la Constitución para ese Círculo, sin perjuicio de la anulación manual local de cada Comunidad. El mismo Consejo instruye la coordinación de las extracciones del artículo 6-bis, apartado 7, que delibera la Asamblea General; cuando la cuenca hidrográfica comprende Círculos 2 distintos, deliberan de forma concordante sus Asambleas Generales.
 
 ## Art. 4 — Cesta de Energía y determinación de las necesidades
 
@@ -232,7 +236,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 4.  Las aguas residuales se depuran y, cuando sea posible, se reutilizan. La reutilización de las aguas y de los residuos de la depuración solo se admite si es conforme a la STV aplicable y al dictamen del Consejo de Salud.
 5.  La medición de los consumos de agua sigue las reglas del artículo 6, apartados 2 a 6. Se prohíbe la elaboración de perfiles individuales.
 6.  Cuando sea técnicamente posible, se prevén dos fuentes independientes y una reserva equivalente al menos a setenta y dos horas de la Cesta de Agua, en coherencia con el artículo 39 del Código 1.
-7.  Cuando varios Círculos dependen de la misma cuenca hidrográfica, las extracciones se coordinan en el Círculo 2 o en el Círculo 3 competente, con Dossier. Ningún Círculo puede sustraer a los Círculos situados aguas abajo el agua necesaria para su Cesta.
+7.  Cuando varios Círculos dependen de la misma cuenca hidrográfica, las extracciones se coordinan en el Círculo 2 o en el Círculo 3 competente, con Dossier, conforme al artículo 3-bis. Ningún Círculo puede sustraer a los Círculos situados aguas abajo el agua necesaria para su Cesta.
 8.  Las dependencias hídricas, incluida la conexión a redes externas durante la transición, se inscriben en el Registro de Dependencias según el artículo 8.
 
 ## Art. 7 — Seguridad, EPI y formación
@@ -288,7 +292,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
     f) ceder a un sujeto externo a la Confederación el control funcional de la microrred.
 
-2.  Las infracciones del apartado 1 constituyen un vicio de procedimiento grave conforme al Código 4. La suspensión o desactivación de la función no conforme es proporcionada y va acompañada, cuando sea técnicamente posible, de la continuidad de los niveles 1–3 según la Ficha de Seguridad.
+2.  Las infracciones del apartado 1 se tratan según el Código 4; la acumulación de la letra d) y el uso de la energía como chantaje constituyen una infracción de Grado 4 conforme al artículo 15.2 de la Constitución; a los actos de los órganos se aplica el artículo 18 del Código 3. La suspensión o desactivación de la función no conforme es proporcionada y va acompañada, cuando sea técnicamente posible, de la continuidad de los niveles 1–3 según la Ficha de Seguridad.
 
 3.  El apagado total solo se dispone cuando es necesario para impedir un daño ulterior. Para las funciones críticas o vitales se activan, cuando sea técnicamente posible, un procedimiento de continuidad y una función sustitutiva conforme.
 

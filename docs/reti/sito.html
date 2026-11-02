@@ -1,0 +1,464 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Modello di sito — Progetto dei Cerchi</title>
+<meta name="description" content="Crea il sito della tua rete, Comunità di Base o Cerchio: chi siete, come partecipare, assemblee, decisioni, magazzino, turni e collegamenti. Senza programmare, senza server centrale.">
+<style>
+:root{--bg:#fbfaf7;--card:#fff;--ink:#1d2321;--quiet:#5d6763;--line:#d9dcd6;--accent:#0e6656;--accent-soft:#e2efeb;--good:#1d7a46;--warn:#a46a00;--bad:#b3261e;--field:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#141817;--card:#1c2120;--ink:#e7ebe8;--quiet:#a3ada8;--line:#333a37;--accent:#5fbfa8;--accent-soft:#1f3631;--good:#6cc58f;--warn:#e0b04f;--bad:#f08a80;--field:#161b1a}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:1180px;margin:0 auto;padding:24px 16px 64px}
+h1{font-size:1.6rem;margin:.2em 0}h2{font-size:1.15rem;margin:0 0 .6em}h3{font-size:1rem;margin:1em 0 .4em}p{margin:.4em 0}a{color:inherit}
+.quiet{color:var(--quiet)}.small{font-size:.875rem}
+section{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px;margin:16px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;align-items:end}
+label{display:block;font-size:.9rem;color:var(--quiet);margin-top:8px}
+input,select,textarea{font:inherit;color:var(--ink);background:var(--field);border:1px solid var(--line);border-radius:6px;padding:6px 8px;width:100%}
+textarea{min-height:110px;resize:vertical}
+input[type=checkbox],input[type=radio]{width:auto}
+table{width:100%;border-collapse:collapse;font-size:.93rem}
+th,td{text-align:left;padding:6px 4px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-weight:600;color:var(--quiet);font-size:.85rem}
+td input,td select{padding:4px 6px}
+.table-wrap{overflow-x:auto}
+button{font:inherit;border:1px solid var(--accent);background:var(--accent);color:#fff;border-radius:6px;padding:6px 12px;cursor:pointer}
+button.secondary{background:transparent;color:var(--accent)}
+button.del{background:transparent;color:var(--bad);border-color:transparent;padding:2px 6px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:10px}
+.tabs{display:flex;gap:4px;flex-wrap:wrap}
+.tabs button{background:transparent;color:var(--ink);border-color:var(--line);font-size:.92rem}
+.tabs button[aria-selected=true]{background:var(--accent);color:#fff;border-color:var(--accent)}
+.note{background:var(--accent-soft);border-radius:8px;padding:10px 12px;font-size:.92rem}
+.lay{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;align-items:start}
+@media (max-width:900px){.lay{grid-template-columns:1fr}}
+.preview{position:sticky;top:12px}
+.preview iframe{width:100%;height:78vh;border:1px solid var(--line);border-radius:10px;background:#fff}
+.radio{display:flex;gap:6px;align-items:flex-start;color:var(--ink);font-size:.95rem;margin:6px 0}
+.ok{color:var(--good)}.no{color:var(--bad)}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<main>
+<p class="small quiet"><a href="../index.html">Progetto dei Cerchi</a> · <a href="index.html">Strumenti per le reti</a> · Modello di sito</p>
+<h1>Modello di sito</h1>
+<p>Il sito della vostra rete, Comunità di Base o Cerchio, senza programmare. Compilate le schede, guardate l'anteprima e scaricate il sito: è <strong>un solo file</strong> che si pubblica gratis dove volete, o si apre anche da una chiavetta.</p>
+<p class="note">Ogni sito è indipendente e si collega agli altri: al Cerchio superiore, alle comunità vicine. Non c'è un sito centrale. Il sito non raccoglie dati di chi lo visita e non usa servizi esterni. Pubblicate solo quello che la vostra assemblea ha deciso di rendere pubblico.</p>
+
+<div class="lay">
+<div>
+<div class="tabs" role="tablist" id="tabs"></div>
+
+<section data-tab="generale">
+<h2>Chi siete</h2>
+<label for="g-livello">Che cosa siete</label>
+<select id="g-livello" data-k="livello"></select>
+<p class="small quiet" id="g-livello-nota"></p>
+<div class="grid">
+<div><label for="g-nome">Nome</label><input id="g-nome" data-k="nome" placeholder="es. Comunità del Borgo Alto"></div>
+<div><label for="g-luogo">Dove</label><input id="g-luogo" data-k="luogo" placeholder="es. quartiere, paese, valle"></div>
+</div>
+<label for="g-motto">In una frase</label><input id="g-motto" data-k="motto" placeholder="es. Ci aiutiamo tra vicini per cibo, cura e lavoro comune.">
+<label for="g-chi">Chi siamo (testo libero)</label><textarea id="g-chi" data-k="chi"></textarea>
+<p class="small quiet">Una riga vuota fa un nuovo paragrafo. Le righe che cominciano con «- » diventano un elenco. Gli indirizzi web diventano collegamenti.</p>
+</section>
+
+<section data-tab="partecipare">
+<h2>Come partecipare</h2>
+<label for="p-aderire">Come si entra, che cosa si chiede, che cosa si riceve</label><textarea id="p-aderire" data-k="aderire"></textarea>
+<h3>Contatti</h3>
+<p class="small quiet">Usate recapiti comuni del gruppo, non numeri o indirizzi personali.</p>
+<div class="grid">
+<div><label for="c-email">Email del gruppo</label><input id="c-email" data-k="contatti.email" type="email"></div>
+<div><label for="c-luogo">Punto d'incontro</label><input id="c-luogo" data-k="contatti.luogo" placeholder="es. sala della parrocchia, via…"></div>
+<div><label for="c-orari">Quando trovarci</label><input id="c-orari" data-k="contatti.orari" placeholder="es. sabato 10–12"></div>
+</div>
+<label for="c-altro">Altro (facoltativo)</label><input id="c-altro" data-k="contatti.altro" placeholder="es. canale di messaggi del gruppo">
+</section>
+
+<section data-tab="assemblee">
+<h2>Assemblee</h2>
+<p class="small quiet">Sul sito le assemblee già passate si spostano da sole in fondo.</p>
+<div class="table-wrap"><table><thead><tr><th>Data</th><th>Ora</th><th>Luogo</th><th>Ordine del giorno</th><th></th></tr></thead><tbody id="t-assemblee"></tbody></table></div>
+<div class="row"><button type="button" onclick="aggiungi('assemblee')">Aggiungi un'assemblea</button></div>
+<h3>Avvisi</h3>
+<div class="table-wrap"><table><thead><tr><th>Data</th><th>Avviso</th><th></th></tr></thead><tbody id="t-avvisi"></tbody></table></div>
+<div class="row"><button type="button" onclick="aggiungi('avvisi')">Aggiungi un avviso</button></div>
+</section>
+
+<section data-tab="decisioni">
+<h2>Decisioni</h2>
+<p class="small quiet">Il registro pubblico delle decisioni dell'assemblea (Codice 3, art. 13.6). Il conteggio dei voti è facoltativo; il collegamento porta al verbale completo, se è pubblicato.</p>
+<div class="table-wrap"><table><thead><tr><th>Data</th><th>Oggetto</th><th>Esito</th><th>Sì</th><th>No</th><th>Astenuti</th><th>Verbale (indirizzo)</th><th></th></tr></thead><tbody id="t-decisioni"></tbody></table></div>
+<div class="row"><button type="button" onclick="aggiungi('decisioni')">Aggiungi una decisione</button></div>
+<p class="small" style="margin-top:12px">Oppure caricate le decisioni preparate dalla <a href="assemblea.html">Conta dei voti</a> («Decisioni per il sito»):</p>
+<div class="row"><label style="margin:0"><input type="file" accept=".json,application/json" onchange="importaDecisioni(this)"></label></div>
+</section>
+
+<section data-tab="cerchio">
+<h2 id="m-titolo">Chi ne fa parte</h2>
+<div id="m-blocco">
+<p class="small quiet" id="m-nota"></p>
+<div class="table-wrap"><table><thead><tr><th>Nome</th><th>Sito (indirizzo)</th><th>Note</th><th></th></tr></thead><tbody id="t-membri"></tbody></table></div>
+<div class="row"><button type="button" onclick="aggiungi('membri')">Aggiungi</button></div>
+</div>
+<h3>Servizi e Consigli comuni</h3>
+<p class="small quiet">es. Magazzino, Consiglio di Magazzino, ambulatorio, laboratorio, ferrovia locale, ospedale di distretto.</p>
+<div class="table-wrap"><table><thead><tr><th>Nome</th><th>Che cosa fa</th><th>Indirizzo</th><th></th></tr></thead><tbody id="t-servizi"></tbody></table></div>
+<div class="row"><button type="button" onclick="aggiungi('servizi')">Aggiungi un servizio</button></div>
+</section>
+
+<section data-tab="magazzino">
+<h2>Magazzino e turni</h2>
+<h3>Magazzino</h3>
+<p class="small">Caricate il file salvato dall'<a href="inventario.html">Inventario</a> («Salva il file» oppure «Per la soglia»).</p>
+<div class="row"><label class="secondary" style="margin:0"><input type="file" accept=".json,application/json" onchange="importaMagazzino(this)"></label></div>
+<p class="small" id="mag-stato"></p>
+<p class="small quiet" style="margin-top:10px">Che cosa mostrare sul sito:</p>
+<label class="radio"><input type="radio" name="magmodo" value="articoli" onchange="imposta('magModo',this.value)"> ogni articolo con la quantità</label>
+<label class="radio"><input type="radio" name="magmodo" value="categorie" onchange="imposta('magModo',this.value)"> solo quanti articoli per categoria, senza quantità</label>
+<label class="radio"><input type="radio" name="magmodo" value="no" onchange="imposta('magModo',this.value)"> niente</label>
+<h3>Turni</h3>
+<p class="small">Caricate il file salvato dai <a href="turni.html">Turni del lavoro comune</a>.</p>
+<div class="row"><label style="margin:0"><input type="file" accept=".json,application/json" onchange="importaTurni(this)"></label></div>
+<p class="small" id="turni-stato"></p>
+<label class="radio"><input type="checkbox" id="nomi-turni" onchange="imposta('nomiTurni',this.checked)"> mostrare i nomi delle persone di turno</label>
+<p class="small quiet">Senza nomi il sito dice solo quali turni sono coperti e dove serve una mano. Mostrate i nomi solo se le persone sono d'accordo.</p>
+<div class="row"><button type="button" class="secondary" onclick="st.magazzino=null;st.turni=null;tutto()">Togli magazzino e turni</button></div>
+</section>
+
+<section data-tab="collegamenti">
+<h2>Collegamenti</h2>
+<h3 id="sup-titolo">Cerchio superiore</h3>
+<div class="grid">
+<div><label for="s-nome">Nome</label><input id="s-nome" data-k="sup.nome"></div>
+<div><label for="s-url">Sito (indirizzo)</label><input id="s-url" data-k="sup.url" placeholder="https://…"></div>
+</div>
+<h3 id="vic-titolo">Vicini</h3>
+<div class="table-wrap"><table><thead><tr><th>Nome</th><th>Sito (indirizzo)</th><th></th></tr></thead><tbody id="t-vicini"></tbody></table></div>
+<div class="row"><button type="button" onclick="aggiungi('vicini')">Aggiungi</button></div>
+<label class="radio" style="margin-top:14px"><input type="checkbox" id="link-progetto" onchange="imposta('linkProgetto',this.checked)"> collegamento al sito del Progetto dei Cerchi</label>
+</section>
+
+<section data-tab="pubblica">
+<h2>Scarica e pubblica</h2>
+<div class="row">
+<button type="button" onclick="scaricaSito()">Scarica il sito (index.html)</button>
+</div>
+<p class="small quiet">Il file del sito contiene anche i dati: per modificarlo più avanti basta riaprirlo qui con «Apri un sito già fatto».</p>
+<div class="row">
+<label style="margin:0">Apri un sito già fatto o un file di dati: <input type="file" accept=".html,.htm,.json" onchange="apri(this)"></label>
+</div>
+<div class="row"><button type="button" class="secondary" onclick="salvaDati()">Salva solo i dati (.json)</button>
+<button type="button" class="secondary" onclick="esempio()">Carica un esempio</button>
+<button type="button" class="del" onclick="if(confirm('Cancellare tutto quello che avete scritto?'))azzera()">Ricomincia da capo</button></div>
+<h3>Dove pubblicarlo, gratis</h3>
+<ol class="small">
+<li><strong>GitHub Pages</strong> o <strong>Codeberg Pages</strong>: create un archivio (repository) con un account del gruppo, caricate il file <code>index.html</code>, attivate «Pages» nelle impostazioni. Il sito sarà a un indirizzo come <code>nomegruppo.github.io/sito</code>.</li>
+<li>Qualsiasi spazio web che ospita pagine semplici: il file non ha bisogno di nient'altro.</li>
+<li>Senza internet: copiatelo su una chiavetta o stampatelo dal browser (le pagine si stampano pulite).</li>
+</ol>
+<p class="small quiet">Per aggiornarlo: riaprite il file qui, cambiate quello che serve, scaricatelo di nuovo e sostituite il vecchio.</p>
+<p class="small quiet">Il file contiene anche i dati in forma leggibile dalle macchine: così un domani il sito del Cerchio superiore o il portale delle reti potranno mostrare le vostre decisioni e i vostri servizi senza un archivio centrale.</p>
+</section>
+<p class="small quiet">I dati restano in questo browser finché non li cancellate. Nessuno li riceve finché non pubblicate il sito.</p>
+</div>
+
+<div class="preview">
+<p class="small quiet" style="margin:0 0 6px">Anteprima</p>
+<iframe id="anteprima" title="Anteprima del sito" sandbox="allow-scripts allow-popups"></iframe>
+</div>
+</div>
+</main>
+
+<script>
+const CHIAVE="cerchi-modello-sito-v1";
+const LIVELLI={
+  rete:{nome:"Rete di mutuo aiuto",nota:"Per chi comincia: un gruppo che si aiuta e prepara un Cerchio pilota (Codice 16).",membri:null,sup:"Rete più ampia o Cerchio pilota",vicini:"Reti e comunità vicine"},
+  c1:{nome:"Cerchio 1 — Comunità di Base",nota:"La comunità che decide in assemblea e gestisce il proprio Magazzino (Costituzione, art. 5).",membri:null,sup:"Cerchio 2 di appartenenza",vicini:"Comunità vicine"},
+  c2:{nome:"Cerchio 2 — Cerchio Intermedio",nota:"Riunisce Comunità di Base vicine e coordina ciò che serve a più comunità.",membri:"Comunità di Base",sup:"Cerchio 3 di appartenenza",vicini:"Cerchi Intermedi vicini"},
+  c3:{nome:"Cerchio 3 — Cerchio Esteso",nota:"Coordina servizi federati su un territorio ampio, senza potere generale di comando.",membri:"Cerchi Intermedi",sup:"Cerchio 4",vicini:"Cerchi Estesi vicini"}
+};
+const ESITI=[["approvata","Approvata"],["respinta","Respinta"],["rinviata","Rinviata"],["in-mediazione","In mediazione"]];
+const CATEGORIE={cibo:"Cibo",acqua:"Acqua potabile",energia:"Energia",medicine:"Medicine di base",igiene:"Igiene",attrezzi:"Attrezzi e ricambi",altro:"Altro"};
+const SCHEDE=[["generale","Chi siete"],["partecipare","Partecipare"],["assemblee","Assemblee"],["decisioni","Decisioni"],["cerchio","Membri e servizi"],["magazzino","Magazzino e turni"],["collegamenti","Collegamenti"],["pubblica","Scarica e pubblica"]];
+const CAMPI={
+  assemblee:[["data","date"],["ora","time"],["luogo","text"],["odg","text"]],
+  avvisi:[["data","date"],["testo","text"]],
+  decisioni:[["data","date"],["oggetto","text"],["esito","esito"],["si","num"],["no","num"],["ast","num"],["verbale","url"]],
+  membri:[["nome","text"],["url","url"],["note","text"]],
+  servizi:[["nome","text"],["descr","text"],["url","url"]],
+  vicini:[["nome","text"],["url","url"]]
+};
+const nuovo=()=>({v:1,livello:"c1",nome:"",luogo:"",motto:"",chi:"",aderire:"",contatti:{email:"",luogo:"",orari:"",altro:""},
+  assemblee:[],avvisi:[],decisioni:[],membri:[],servizi:[],sup:{nome:"",url:""},vicini:[],
+  magazzino:null,magModo:"articoli",turni:null,nomiTurni:false,linkProgetto:true,prossimo:1});
+let st=null, scheda="generale";
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const oggi=()=>new Date().toISOString().slice(0,10);
+const num=v=>{const n=parseFloat(String(v??"").replace(",","."));return isFinite(n)&&n>0?n:0;};
+const fmt=(n,d=1)=>Number(n).toLocaleString("it-IT",{maximumFractionDigits:d});
+const dataIt=d=>{if(!d)return"";const t=Date.parse(d+"T12:00:00Z");return isFinite(t)?new Date(t).toLocaleDateString("it-IT",{day:"numeric",month:"long",year:"numeric",timeZone:"UTC"}):esc(d);};
+const urlOk=u=>/^https?:\/\/[^\s"'<>]+$/i.test(String(u||"").trim());
+function unisci(base,d){const o=Object.assign(base,d);o.contatti=Object.assign(nuovo().contatti,d.contatti||{});o.sup=Object.assign({nome:"",url:""},d.sup||{});
+  for(const k of Object.keys(CAMPI)) if(!Array.isArray(o[k])) o[k]=[]; if(!LIVELLI[o.livello]) o.livello="c1"; return o;}
+function carica(){try{const s=localStorage.getItem(CHIAVE);if(s)return unisci(nuovo(),JSON.parse(s));}catch(e){}return null;}
+function salva(){try{localStorage.setItem(CHIAVE,JSON.stringify(st));}catch(e){}}
+const prendi=k=>k.split(".").reduce((o,p)=>o?.[p],st);
+function metti(k,v){const p=k.split("."),u=p.pop();p.reduce((o,x)=>o[x],st)[u]=v;}
+function imposta(k,v){st[k]=v;salva();anteprima();}
+
+/* Testo libero → HTML sicuro: paragrafi, elenchi con «- », indirizzi web come collegamenti. */
+function testo(t){
+  const link=s=>esc(s).replace(/https?:\/\/[^\s<]+[^\s<.,;:!?)]/g,u=>`<a href="${u}">${u}</a>`);
+  return String(t||"").trim().split(/\n\s*\n/).filter(Boolean).map(b=>{
+    const r=b.split("\n");
+    if(r.every(x=>/^\s*-\s+/.test(x))) return "<ul>"+r.map(x=>"<li>"+link(x.replace(/^\s*-\s+/,""))+"</li>").join("")+"</ul>";
+    return "<p>"+r.map(link).join("<br>")+"</p>";
+  }).join("\n");
+}
+
+/* ---------- Editor ---------- */
+function disegnaSchede(){
+  document.getElementById("tabs").innerHTML=SCHEDE.map(([id,n])=>`<button type="button" role="tab" aria-selected="${id===scheda}" onclick="scheda='${id}';disegnaSchede()">${n}</button>`).join("");
+  document.querySelectorAll("section[data-tab]").forEach(s=>s.hidden=s.dataset.tab!==scheda);
+}
+function cella(lista,r,[k,tipo]){
+  const v=esc(r[k]??""), on=`oninput="riga('${lista}',${r.id},'${k}',this.value)"`;
+  if(tipo==="esito") return `<td><select onchange="riga('${lista}',${r.id},'${k}',this.value)">${ESITI.map(e=>`<option value="${e[0]}"${r[k]===e[0]?" selected":""}>${e[1]}</option>`).join("")}</select></td>`;
+  if(tipo==="num") return `<td><input inputmode="numeric" style="width:4.5em" value="${v}" ${on}></td>`;
+  if(tipo==="url") return `<td><input type="url" placeholder="https://…" value="${v}" ${on}></td>`;
+  return `<td><input type="${tipo}" value="${v}" ${on}></td>`;
+}
+function disegnaTabelle(){
+  for(const [lista,campi] of Object.entries(CAMPI)){
+    const el=document.getElementById("t-"+lista);
+    el.innerHTML=st[lista].map(r=>"<tr>"+campi.map(c=>cella(lista,r,c)).join("")+`<td><button type="button" class="del" aria-label="Togli" onclick="togli('${lista}',${r.id})">✕</button></td></tr>`).join("")
+      ||`<tr><td colspan="${campi.length+1}" class="quiet small">Ancora niente.</td></tr>`;
+  }
+}
+function aggiungi(lista){const r={id:st.prossimo++};for(const [k] of CAMPI[lista]) r[k]=k==="esito"?"approvata":"";if(lista==="assemblee"||lista==="avvisi"||lista==="decisioni")r.data=oggi();st[lista].push(r);salva();disegnaTabelle();anteprima();}
+function togli(lista,id){st[lista]=st[lista].filter(r=>r.id!==id);salva();disegnaTabelle();anteprima();}
+function riga(lista,id,k,v){const r=st[lista].find(x=>x.id===id);if(r){r[k]=v;salva();anteprima();}}
+function campiSemplici(){
+  document.querySelectorAll("[data-k]").forEach(el=>{el.value=prendi(el.dataset.k)??"";
+    el.oninput=el.onchange=()=>{metti(el.dataset.k,el.value);salva();if(el.dataset.k==="livello")livello();anteprima();};});
+}
+function livello(){
+  const L=LIVELLI[st.livello];
+  document.getElementById("g-livello-nota").textContent=L.nota;
+  document.getElementById("m-titolo").textContent=L.membri?L.membri+" che ne fanno parte":"Servizi comuni";
+  document.getElementById("m-blocco").hidden=!L.membri;
+  document.getElementById("m-nota").textContent=L.membri?"Ognuna con il suo sito, se ne ha uno: così il vostro sito collega i loro senza sostituirli.":"";
+  document.getElementById("sup-titolo").textContent=L.sup;
+  document.getElementById("vic-titolo").textContent=L.vicini;
+}
+function statoImport(){
+  const m=st.magazzino,t=st.turni;
+  document.getElementById("mag-stato").innerHTML=m?`<span class="ok">Caricato:</span> ${esc(m.nome||"magazzino")}, ${m.righe.length} voci, aggiornato al ${dataIt(m.data)}.`:'<span class="quiet">Nessun magazzino caricato.</span>';
+  document.getElementById("turni-stato").innerHTML=t?`<span class="ok">Caricati:</span> ${t.righe.length} turni dal ${dataIt(t.righe[0]?.data)} al ${dataIt(t.righe.at(-1)?.data)}.`:'<span class="quiet">Nessun turno caricato.</span>';
+  document.querySelectorAll("input[name=magmodo]").forEach(r=>r.checked=r.value===st.magModo);
+  document.getElementById("nomi-turni").checked=!!st.nomiTurni;
+  document.getElementById("link-progetto").checked=st.linkProgetto!==false;
+}
+function tutto(){salva();campiSemplici();livello();disegnaTabelle();statoImport();disegnaSchede();anteprima();}
+
+/* ---------- Importazioni ---------- */
+function leggi(inp,fn){const f=inp.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{fn(r.result);}catch(e){alert(e.message||"Il file non è valido.");}inp.value="";};r.readAsText(f);}
+/* Dall'inventario completo si ricavano le giacenze come fa l'Inventario: le uscite consumano prima ciò che scade prima. */
+function giacenzeInventario(d){
+  const lotti={};
+  for(const m of [...d.movimenti||[]].sort((a,b)=>String(a.data).localeCompare(String(b.data))||(a.n||0)-(b.n||0))){
+    const L=(lotti[m.art]??=[]);
+    if(m.tipo==="in"){L.push({q:num(m.q),scade:m.scade||""});continue;}
+    let resto=num(m.q);L.sort((a,b)=>(a.scade||"9999").localeCompare(b.scade||"9999"));
+    for(const l of L){const x=Math.min(l.q,resto);l.q-=x;resto-=x;if(!resto)break;}
+  }
+  return (d.articoli||[]).map(a=>{const L=(lotti[a.id]||[]).filter(l=>l.q>1e-9);
+    return {bene:a.nome,cat:a.cat,unita:a.unita||"",q:Math.round(L.reduce((s,l)=>s+l.q,0)*1000)/1000,scade:L.map(l=>l.scade).filter(Boolean).sort()[0]||""};}).filter(r=>r.q>0);
+}
+function importaMagazzino(inp){leggi(inp,txt=>{
+  const d=JSON.parse(txt);let righe,data=oggi(),nome=d.nome||d.magazzino||"";
+  if(d.tipo==="inventario-cerchi"||Array.isArray(d.articoli)) righe=giacenzeInventario(d);
+  else if(d.tipo==="scorte-cerchi"&&Array.isArray(d.scorte)){
+    const acc={};for(const s of d.scorte){const k=s.bene+"|"+s.cat;const r=(acc[k]??={bene:s.bene,cat:s.cat,unita:"",q:0,scade:""});r.q+=num(s.q);if(s.scade&&(!r.scade||s.scade<r.scade))r.scade=s.scade;}
+    righe=Object.values(acc);data=d.data||data;
+  } else throw new Error("Questo non è un file dell'Inventario.");
+  st.magazzino={nome,data,righe:righe.map(r=>({bene:String(r.bene),cat:String(r.cat),unita:String(r.unita||""),q:r.q,scade:String(r.scade||"")}))};tutto();
+});}
+function importaDecisioni(inp){leggi(inp,txt=>{
+  const d=JSON.parse(txt);
+  if(d.tipo!=="decisioni-cerchi"||!Array.isArray(d.decisioni)) throw new Error("Questo non è un file di decisioni della Conta dei voti.");
+  let n=0;
+  for(const x of d.decisioni){if(!x.oggetto)continue;
+    if(st.decisioni.some(y=>y.data===x.data&&y.oggetto===x.oggetto))continue;
+    st.decisioni.push({id:st.prossimo++,data:String(x.data||""),oggetto:String(x.oggetto),esito:ESITI.some(e=>e[0]===x.esito)?x.esito:"approvata",si:String(x.si??""),no:String(x.no??""),ast:String(x.ast??""),verbale:urlOk(x.verbale)?x.verbale:""});n++;}
+  tutto();alert(n?`Aggiunte ${n} decisioni.`:"Queste decisioni ci sono già.");
+});}
+function importaTurni(inp){leggi(inp,txt=>{
+  const d=JSON.parse(txt);
+  if(!Array.isArray(d.turni)||!Array.isArray(d.compiti)) throw new Error("Questo non è un file dei Turni.");
+  const comp=id=>d.compiti.find(c=>c.id===id), pers=id=>(d.persone||[]).find(p=>p.id===id);
+  const acc={};
+  for(const t of d.turni){const c=comp(t.compito);if(!c)continue;const k=t.data+"|"+t.compito;
+    const r=(acc[k]??={data:t.data,compito:c.nome,ore:num(c.ore),servono:0,chi:[]});r.servono++;const p=pers(t.chi);if(p)r.chi.push(String(p.nome));}
+  const righe=Object.values(acc).sort((a,b)=>a.data.localeCompare(b.data)||a.compito.localeCompare(b.compito));
+  if(!righe.length) throw new Error("Nel file non ci sono turni: generateli prima nello strumento dei Turni.");
+  st.turni={data:oggi(),righe};tutto();
+});}
+function apri(inp){leggi(inp,txt=>{
+  let d;
+  if(/^\s*</.test(txt)){const m=txt.match(/<script type="application\/json" id="dati-cerchi">([\s\S]*?)<\/script>/);if(!m)throw new Error("Questo sito non è stato fatto con il modello.");d=JSON.parse(m[1]);}
+  else d=JSON.parse(txt);
+  if(d.tipo!=="sito-cerchi") throw new Error("Il file non contiene i dati di un sito.");
+  delete d.tipo;st=unisci(nuovo(),d);
+  for(const k of Object.keys(CAMPI)) for(const r of st[k]) if(!r.id) r.id=st.prossimo++;
+  tutto();
+});}
+
+/* ---------- Il sito generato ---------- */
+function sito(){
+  const L=LIVELLI[st.livello], s=st, nome=s.nome.trim()||"Senza nome";
+  const sez=[], nav=[];
+  const add=(id,titolo,html)=>{if(!html)return;nav.push(`<a href="#${id}">${titolo}</a>`);sez.push(`<section id="${id}"><h2>${titolo}</h2>${html}</section>`);};
+  const a=(u,t)=>urlOk(u)?`<a href="${esc(u.trim())}">${esc(t||u)}</a>`:esc(t||"");
+
+  add("chi","Chi siamo",testo(s.chi));
+  add("partecipare","Come partecipare",testo(s.aderire));
+
+  const av=[...s.avvisi].filter(x=>x.testo).sort((x,y)=>String(y.data).localeCompare(String(x.data)));
+  add("avvisi","Avvisi",av.length?"<ul class=\"lista\">"+av.map(x=>`<li><span class="q">${dataIt(x.data)}</span> ${esc(x.testo)}</li>`).join("")+"</ul>":"");
+
+  const as=[...s.assemblee].filter(x=>x.data).sort((x,y)=>String(x.data).localeCompare(String(y.data)));
+  add("assemblee","Assemblee",as.length?`<ul class="lista" id="lista-assemblee">${as.map(x=>`<li data-data="${esc(x.data)}"><strong>${dataIt(x.data)}${x.ora?", ore "+esc(x.ora):""}</strong>${x.luogo?" · "+esc(x.luogo):""}${x.odg?`<br><span class="q">Ordine del giorno:</span> ${esc(x.odg)}`:""}<span class="passata"> · già svolta</span></li>`).join("")}</ul><p class="q" id="nessuna" hidden>Nessuna assemblea in programma per ora.</p>`:"");
+
+  const de=[...s.decisioni].filter(x=>x.oggetto).sort((x,y)=>String(y.data).localeCompare(String(x.data)));
+  const voti=x=>[["Sì",x.si],["No",x.no],["astenuti",x.ast]].filter(v=>String(v[1]??"").trim()!=="").map(v=>`${v[0]} ${esc(v[1])}`).join(" · ");
+  add("decisioni","Decisioni",de.length?`<div class="tw"><table><thead><tr><th>Data</th><th>Decisione</th><th>Esito</th></tr></thead><tbody>${de.map(x=>`<tr><td class="nw">${dataIt(x.data)}</td><td>${esc(x.oggetto)}${voti(x)?`<br><span class="q">${voti(x)}</span>`:""}${urlOk(x.verbale)?`<br>${a(x.verbale,"Verbale")}`:""}</td><td class="esito-${esc(x.esito)}">${esc((ESITI.find(e=>e[0]===x.esito)||["",""])[1])}</td></tr>`).join("")}</tbody></table></div>`:"");
+
+  if(L.membri){const m=s.membri.filter(x=>x.nome);add("membri",L.membri,m.length?"<ul class=\"lista\">"+m.map(x=>`<li><strong>${a(x.url,x.nome)}</strong>${x.note?` <span class="q">· ${esc(x.note)}</span>`:""}</li>`).join("")+"</ul>":"");}
+  const sv=s.servizi.filter(x=>x.nome);
+  add("servizi","Servizi comuni",sv.length?"<ul class=\"lista\">"+sv.map(x=>`<li><strong>${a(x.url,x.nome)}</strong>${x.descr?" — "+esc(x.descr):""}</li>`).join("")+"</ul>":"");
+
+  const mg=s.magazzino;
+  if(mg&&s.magModo!=="no"&&mg.righe.length){
+    let h;
+    if(s.magModo==="categorie"){const c={};for(const r of mg.righe)c[r.cat]=(c[r.cat]||0)+1;
+      h="<ul class=\"lista\">"+Object.entries(c).map(([k,n])=>`<li>${esc(CATEGORIE[k]||k)}: ${n} ${n===1?"articolo":"articoli"}</li>`).join("")+"</ul>";}
+    else{const per={};for(const r of mg.righe)(per[r.cat]??=[]).push(r);
+      h=Object.entries(per).map(([k,rr])=>`<h3>${esc(CATEGORIE[k]||k)}</h3><ul class="lista">${rr.sort((x,y)=>x.bene.localeCompare(y.bene)).map(r=>`<li>${esc(r.bene)}: ${fmt(r.q)} ${esc(r.unita)}${r.scade?` <span class="q">· prima scadenza: ${dataIt(r.scade)}</span>`:""}</li>`).join("")}</ul>`).join("");}
+    add("magazzino","Magazzino",`<p class="q">${esc(mg.nome||"Magazzino comune")}, aggiornato al ${dataIt(mg.data)}.</p>${h}`);
+  }
+  const tu=s.turni;
+  if(tu&&tu.righe.length){
+    const per={};for(const r of tu.righe)(per[r.data]??=[]).push(r);
+    add("turni","Turni",`<p class="q">Il lavoro comune a rotazione. I giorni già passati non vengono mostrati.</p><div id="lista-turni">${Object.entries(per).map(([d,rr])=>`<div class="giorno" data-data="${esc(d)}"><h3>${dataIt(d)}</h3><ul class="lista">${rr.map(r=>{const man=r.servono-r.chi.length;
+      return `<li>${esc(r.compito)} <span class="q">(${fmt(r.ore)} h)</span>${s.nomiTurni&&r.chi.length?" — "+r.chi.map(esc).join(", "):""}${man>0?` <span class="manca">serve ${man===1?"una persona":man+" persone"}</span>`:' <span class="coperto">coperto</span>'}</li>`;}).join("")}</ul></div>`).join("")}</div><p class="q" id="nessun-turno" hidden>Nessun turno in programma per ora.</p>`);
+  }
+
+  const c=s.contatti,ch=[];
+  if(c.email) ch.push(`<li>Email: <a href="mailto:${esc(c.email)}">${esc(c.email)}</a></li>`);
+  if(c.luogo) ch.push(`<li>Dove: ${esc(c.luogo)}</li>`);
+  if(c.orari) ch.push(`<li>Quando: ${esc(c.orari)}</li>`);
+  if(c.altro) ch.push(`<li>${testo(c.altro).replace(/^<p>|<\/p>$/g,"")}</li>`);
+  add("contatti","Contatti",ch.length?`<ul class="lista">${ch.join("")}</ul>`:"");
+
+  const co=[];
+  if(s.sup.nome||urlOk(s.sup.url)) co.push(`<li><span class="q">${esc(L.sup)}:</span> ${a(s.sup.url,s.sup.nome||s.sup.url)}</li>`);
+  const vi=s.vicini.filter(x=>x.nome||urlOk(x.url));
+  if(vi.length) co.push(`<li><span class="q">${esc(L.vicini)}:</span> ${vi.map(x=>a(x.url,x.nome||x.url)).join(", ")}</li>`);
+  if(s.linkProgetto!==false) co.push(`<li><a href="https://imthezeroit.github.io/progetto-dei-cerchi/">Progetto dei Cerchi</a> <span class="q">· le regole comuni</span></li>`);
+  add("collegamenti","Collegamenti",co.length?`<ul class="lista">${co.join("")}</ul>`:"");
+
+  const dati=Object.assign({tipo:"sito-cerchi",aggiornato:oggi()},s);
+  const json=JSON.stringify(dati).replace(/</g,"\\u003c");
+  const descr=s.motto||`${L.nome}${s.luogo?" · "+s.luogo:""}`;
+  return `<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>${esc(nome)}</title>
+<meta name="description" content="${esc(descr)}">
+<meta name="generator" content="Modello di sito del Progetto dei Cerchi">
+<style>
+:root{--bg:#fbfaf7;--card:#fff;--ink:#1d2321;--quiet:#5d6763;--line:#d9dcd6;--accent:#0e6656;--accent-soft:#e2efeb;--good:#1d7a46;--warn:#a46a00;--bad:#b3261e}
+@media (prefers-color-scheme:dark){:root{--bg:#141817;--card:#1c2120;--ink:#e7ebe8;--quiet:#a3ada8;--line:#333a37;--accent:#5fbfa8;--accent-soft:#1f3631;--good:#6cc58f;--warn:#e0b04f;--bad:#f08a80}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+header{background:var(--accent-soft);border-bottom:1px solid var(--line)}
+.w{max-width:760px;margin:0 auto;padding:0 16px}
+header .w{padding-top:28px;padding-bottom:18px}
+.liv{font-size:.85rem;color:var(--accent);font-weight:600;margin:0}
+h1{font-size:2rem;line-height:1.2;margin:.15em 0 .2em}
+.motto{margin:0;font-size:1.05rem}
+nav{display:flex;flex-wrap:wrap;gap:4px 14px;margin-top:14px;font-size:.92rem}
+nav a{color:var(--accent)}
+section{padding:22px 0;border-bottom:1px solid var(--line)}
+h2{font-size:1.3rem;margin:0 0 .5em}h3{font-size:1rem;margin:1em 0 .3em}
+a{color:inherit}p{margin:.5em 0}
+.q{color:var(--quiet)}
+.lista{padding-left:1.1em;margin:.4em 0}.lista li{margin:.35em 0}
+.tw{overflow-x:auto}table{width:100%;border-collapse:collapse;font-size:.95rem}
+th,td{text-align:left;padding:7px 6px;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--quiet);font-weight:600;font-size:.85rem}.nw{white-space:nowrap}
+.esito-approvata{color:var(--good)}.esito-respinta{color:var(--bad)}.esito-rinviata,.esito-in-mediazione{color:var(--warn)}
+.manca{font-size:.82rem;border:1px solid var(--warn);color:var(--warn);border-radius:99px;padding:0 7px;margin-left:4px;white-space:nowrap}
+.coperto{font-size:.82rem;color:var(--good);margin-left:4px}
+.passata{display:none;color:var(--quiet)}li.vecchia{color:var(--quiet)}li.vecchia .passata{display:inline}
+footer{padding:22px 0 40px;font-size:.85rem;color:var(--quiet)}
+[hidden]{display:none!important}
+@media print{header{background:none}nav{display:none}section{break-inside:avoid-page}a{text-decoration:none}}
+</style>
+</head>
+<body>
+<header><div class="w">
+<p class="liv">${esc(L.nome)}${s.luogo?" · "+esc(s.luogo):""}</p>
+<h1>${esc(nome)}</h1>
+${s.motto?`<p class="motto">${esc(s.motto)}</p>`:""}
+${nav.length>1?`<nav aria-label="Sezioni">${nav.join("")}</nav>`:""}
+</div></header>
+<main class="w">
+${sez.join("\n")||'<section><p class="q">Il sito è ancora vuoto.</p></section>'}
+</main>
+<footer class="w">Aggiornato al ${dataIt(oggi())}. Questo sito non raccoglie dati di chi lo visita. Fatto con il <a href="https://imthezeroit.github.io/progetto-dei-cerchi/reti/sito.html">modello di sito del Progetto dei Cerchi</a>.</footer>
+<script type="application/json" id="dati-cerchi">${json}<\/script>
+<script>
+(function(){var o=new Date().toISOString().slice(0,10);
+var l=document.getElementById("lista-assemblee");
+if(l){var v=[].slice.call(l.children),f=0;v.forEach(function(x){if(x.getAttribute("data-data")<o){x.className="vecchia";l.appendChild(x);}else f++;});if(!f)document.getElementById("nessuna").hidden=false;}
+var t=document.getElementById("lista-turni");
+if(t){var g=[].slice.call(t.children),n=0;g.forEach(function(x){if(x.getAttribute("data-data")<o)x.hidden=true;else n++;});if(!n)document.getElementById("nessun-turno").hidden=false;}
+})();
+<\/script>
+</body>
+</html>
+`;
+}
+let attesa=null;
+function anteprima(){clearTimeout(attesa);attesa=setTimeout(()=>{document.getElementById("anteprima").srcdoc=sito();},150);}
+function scarica(nome,testo,tipo){const b=new Blob([testo],{type:tipo}),x=document.createElement("a");x.href=URL.createObjectURL(b);x.download=nome;document.body.appendChild(x);x.click();x.remove();setTimeout(()=>URL.revokeObjectURL(x.href),1000);}
+function scaricaSito(){scarica("index.html",sito(),"text/html");}
+function salvaDati(){const n=(st.nome||"sito").toLowerCase().normalize("NFD").replace(/[^\w]+/g,"-").replace(/^-|-$/g,"")||"sito";scarica(n+"-dati-sito.json",JSON.stringify(Object.assign({tipo:"sito-cerchi"},st),null,2),"application/json");}
+function azzera(){st=nuovo();tutto();}
+function esempio(){
+  const d=new Date(),piu=n=>new Date(d.getTime()+n*864e5).toISOString().slice(0,10);
+  st=unisci(nuovo(),{livello:"c1",nome:"Comunità del Borgo Alto",luogo:"Borgo Alto",motto:"Ci aiutiamo tra vicini per il cibo, la cura e il lavoro che serve a tutti.",
+    chi:"Siamo una sessantina di persone del Borgo Alto. Abbiamo un magazzino comune, un orto e una cucina condivisa.\n\nDecidiamo insieme in assemblea, una volta al mese. Ogni decisione è scritta qui sotto.",
+    aderire:"Chiunque abita nel borgo può partecipare.\n\n- Vieni a un'assemblea e presentati.\n- Prendi qualche turno di lavoro comune, quando puoi.\n- Dal primo giorno puoi usare il magazzino secondo il bisogno.",
+    contatti:{email:"borgoalto@example.org",luogo:"Sala comune, piazza della Fontana",orari:"sabato dalle 10 alle 12",altro:""},
+    assemblee:[{id:1,data:piu(9),ora:"18:00",luogo:"Sala comune",odg:"orto d'inverno; turni di dicembre"},{id:2,data:piu(-21),ora:"18:00",luogo:"Sala comune",odg:"bilancio del magazzino"}],
+    avvisi:[{id:3,data:piu(-2),testo:"Servono due persone per la raccolta delle olive, sabato mattina."}],
+    decisioni:[{id:4,data:piu(-21),oggetto:"Apertura del magazzino anche il mercoledì sera",esito:"approvata",si:"31",no:"4",ast:"2",verbale:""},{id:5,data:piu(-50),oggetto:"Acquisto comune di un essiccatore solare",esito:"rinviata",si:"",no:"",ast:"",verbale:""}],
+    servizi:[{id:6,nome:"Magazzino comune",descr:"aperto sabato mattina e mercoledì sera",url:""},{id:7,nome:"Cucina condivisa",descr:"pranzo comune la domenica",url:""}],
+    sup:{nome:"Cerchio della Valle",url:""},vicini:[{id:8,nome:"Comunità del Ponte",url:""}],prossimo:9});
+  tutto();
+}
+document.getElementById("g-livello").innerHTML=Object.entries(LIVELLI).map(([k,l])=>`<option value="${k}">${l.nome}</option>`).join("");
+st=carica()||nuovo();tutto();
+</script>
+</body>
+</html>

@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 11 — ON LOGISTICS AND BASIC MOBILITY"
 breve: "Code 11 — Logistics and basic mobility"
-versione: "V1.5"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 11
 id: "codice-11"
 slug: "code-11"
-allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4 V1.9; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 12 V1.6; Code 13 V1.8; Code 14 V1.7; Code 15 V1.9; Code 16 V1.9."
+allineamento: "Constitution V.38; Code 1 V1.12; Code 2 V1.9; Code 3 V1.11; Code 4 V1.10; Code 5 V1.7; Code 6 V1.9; Code 7 V1.10; Code 8 V1.7; C.1-Annex A V1.7; Code 9 V3.4; Code 10 V1.8; Code 12 V1.7; Code 13 V1.9; Code 14 V1.10; Code 15 V1.12; Code 16 V1.10."
 ---
 
 ## Art. 1 — Subject matter and definitions
@@ -181,7 +181,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
 7.  A reasoned transitional derogation, of a duration not exceeding twelve months, is permitted only in order to guarantee the continuity of the Basket, only for a dependency that the STV classifies as residual and surmountable pursuant to Article 5, paragraph 2, letter b), of Code 2, and with:
 
-    a) a binding Exit Plan;
+    a) a Substitution Plan pursuant to Article 12 of Code 2, published in full where the dependency concerns closed firmware;
 
     b) a fixed final deadline;
 
@@ -189,7 +189,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
     d) the opinion of the Production Council and of the Network Council, where relevant.
 
-8.  Extension is prohibited, except in the case of documented material impossibility and a new reasoned decision of the competent body.
+8.  Extension follows Article 12, paragraphs 3 and 4, of Code 2.
 
 ## Art. 6 — Logistics infrastructure
 
@@ -273,7 +273,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
     The application of the rule is a bound technical act. No distribution may take from a Community the effective access guaranteed by Article 6, paragraph 3.
 
-3.  The railway network of Circle 3 and the transport provided for by Article 10 of Code 15 follow a railway protocol of Circle 3, approved by its General Assembly as a Technical Annex pursuant to Article 19 of Code 3 and implemented by the shared Logistics Council of Circle 3, constituted pursuant to the same paragraph 6-bis. Recourse to external carriers is entered in the Dependency Register.
+3.  The railway network of Circle 3 and the transport provided for by Article 10 of Code 15 follow a railway protocol of Circle 3, approved by its General Assembly pursuant to Article 14 of Code 3 and implemented by the shared Logistics Council of Circle 3, constituted pursuant to the same paragraph 6-bis; Article 19, paragraphs 4 and 5, of Code 3 applies to the protocol. Recourse to external carriers is entered in the Dependency Register.
 
 ## Art. 7 — Safety
 

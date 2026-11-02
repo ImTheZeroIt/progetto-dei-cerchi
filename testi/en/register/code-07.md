@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 7 — ON AUTOMATION AND THE NETWORK"
 breve: "Code 7 — Automation and the Network"
-versione: "V1.9"
+versione: "V1.10"
 gruppo: "codici"
 ordine: 7
 id: "codice-07"
 slug: "code-07"
-allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4 V1.9; Code 5 V1.6; Code 6 V1.8; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.8; Code 14 V1.7; Code 15 V1.9; Code 16 V1.9."
+allineamento: "Constitution V.38; Code 1 V1.12; Code 2 V1.9; Code 3 V1.11; Code 4 V1.10; Code 5 V1.7; Code 6 V1.9; Code 8 V1.7; C.1-Annex A V1.7; Code 9 V3.4; Code 10 V1.8; Code 11 V1.6; Code 12 V1.7; Code 13 V1.9; Code 14 V1.10; Code 15 V1.12; Code 16 V1.10."
 ---
 
 ## PRELIMINARY TITLE — FUNDAMENTAL PRINCIPLES
@@ -43,7 +43,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
 ### Art. 2 — Principles
 
-1.  **Digital sovereignty.** Servers, code, data and models used for confederal functions are hosted or managed on community infrastructures controlled by the Confederation. Temporary recourse to extractive proprietary clouds is permitted only for a transition that is reasoned and recorded in the Dependency Register provided for by Code 15.
+1.  **Digital sovereignty.** Servers, code, data and models used for confederal functions are hosted or managed on community infrastructures controlled by the Confederation. Temporary recourse to extractive proprietary clouds is permitted only during the transition governed by Code 16, pursuant to its Article 9-bis, with a statement of reasons and recording in the Dependency Register provided for by Code 15.
 
 2.  **No surveillance.** The Network may not track, classify, profile or predict individual behaviour for purposes of control, scoring, reputation or behavioural prediction.
 
@@ -83,7 +83,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
     d) the Register of Assembly Decisions provided for by Code 3;
 
-    e) the Guarantee Register in anonymised form in accordance with Code 4;
+    e) the Restorative Register and the Archive of decisions in anonymised form in accordance with Code 4;
 
     f) the Dependency Register provided for by Code 15.
 
@@ -231,7 +231,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
 ### Art. 5-ter — Community AI and Circle AI: independence, refusal and revision
 
-1.  The AIs of the Community, of the Intermediate Circle and of the Extended Circle are local Management AIs, open source, inspectable and of limited domain. They operate in advisory or technical mode and are subject to the right of local manual override.
+1.  The AIs of the Community, of the Intermediate Circle and of the Extended Circle are local Management AIs, open source, inspectable and of limited domain. They operate in advisory or technical mode and are subject to the right of local manual override. For the Storehouse balance, the water cycle and local energy, the Community AI operates exclusively in advisory mode, pursuant to Articles 10.5, 15.3 and 22.1 of the Constitution.
 2.  The establishment of a central AI or of a single generalist AI is prohibited, pursuant to Articles 19.2, 20.2 and 23.1 of the Constitution. The Global Circle is a distributed interoperability protocol: it has neither a central model nor a centralised collection of personal data.
 3.  No AI may command, subordinate or deactivate another AI. Interoperability between systems takes place by means of open protocols and with the authorisation of the Network Council of each Circle concerned. Conflicts between systems are decided by the competent human body.
 4.  Every Management AI is configured to refuse, with reasons tracked on the Network, an instruction that entails a manifest violation of the Constitution or of the applicable protocols, pursuant to Article 20.3 of the Constitution. The refusal is transmitted without delay to the Network Council and to the competent body, which decides within seventy-two hours. In the meantime the essential functions are ensured by the manual procedures provided for by Article 38 of Code 1.
@@ -367,13 +367,13 @@ vii. the maximum restoration time.
 
     a) the register of those entitled to vote, kept by each Base Community in accordance with Article 36.1 of the Constitution and Article 12, paragraph 1, of Code 3, which verifies only that whoever votes or signs is entitled to vote in that deliberation and votes or signs only once;
 
-    b) the ballot box, which receives votes and signatures without any data identifying those who cast them.
+    b) the ballot box, which receives votes and signatures without any data identifying those who cast them. The ballot box is hosted on the nodes of the federated Network of the Community or, for the votes of the higher Circles, of each Community concerned.
 
     The two parts operate on distinct systems and are administered by different persons; no one accesses both with the same credentials.
 
 3.  Logs, records, metadata or other data that make it possible to link a person to their vote or signature are prohibited, including for purposes of security, audit or appeal; Article 2, paragraphs 3 and 4, does not permit such a link. The register of those entitled to vote keeps only the fact that the person has voted or signed, for the time necessary for the closure of the vote and of appeals. The system does not issue to the voter any proof that would allow them to show others how they voted, pursuant to Article 36.1 of the Constitution.
 
-4.  The software of the register and of the ballot box is open source and is accompanied by an operating STV approved pursuant to Article 3-bis of Code 2. Code whose source is not available and residual dependencies within the meaning of Article 5, paragraph 2, letter b), of Code 2 are not permitted, not even temporarily and not even during the transition, pursuant to Article 19.4 of the Constitution and Article 9-bis, paragraph 1, letter b), of Code 16. Every update is verified before adoption pursuant to Article 5-ter, paragraph 7, and no update is installed while a vote is open.
+4.  The software of the register and of the ballot box, and the software with which persons vote or sign, are open source and are accompanied by an operating STV approved pursuant to Article 3-bis of Code 2. Code whose source is not available and residual dependencies within the meaning of Article 5, paragraph 2, letter b), of Code 2 are not permitted, not even temporarily and not even during the transition, pursuant to Article 19.4 of the Constitution and Article 9-bis, paragraph 1, letter b), of Code 16. Every update is verified before adoption pursuant to Article 5-ter, paragraph 7, and no update is installed while a vote is open.
 
 5.  The count is carried out separately for each Base Community. The number of those entitled to vote and of voters, the totals of each Community and the outcome are public and are entered in a distributed ledger replicated on nodes of different Circles pursuant to Article 3, paragraph 4, so that every Community can verify them and no node can alter them alone. The count is performed by deterministic software reproducible from the public data; an AI may not collect, count, interpret or correct the votes, pursuant to Article 2, paragraph 8.
 

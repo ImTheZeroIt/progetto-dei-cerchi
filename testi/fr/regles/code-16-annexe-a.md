@@ -1,7 +1,7 @@
 ---
 titolo: "ANNEXE TECHNIQUE A AU CODE 16 — PROTOCOLE DE DÉMARRAGE SOCIAL"
 breve: "Annexe A au Code 16 — Protocole de démarrage social"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "allegati"
 ordine: 16.1
 id: "codice-16-allegato-a"
@@ -44,7 +44,7 @@ Annexe technique adoptée en application de l’article 19 du Code 3 et visée a
 
 1.  Le Niveau 1 vise à vérifier la soutenabilité sociale initiale du Cercle pilote et à favoriser des conditions minimales de confiance et de collaboration.
 
-2.  Avant la délibération constitutive du Cercle pilote, trois rencontres non délibératives sont organisées. Chaque participant peut décrire ses motivations, sa disponibilité effective, ses limites personnelles et les éventuelles charges de soin pertinentes pour l’organisation. Les informations recueillies sont consignées au procès-verbal sous forme agrégée et non nominative.
+2.  Avant la délibération constitutive du Cercle pilote, trois rencontres non délibératives sont organisées. Chaque participant peut décrire ses motivations, sa disponibilité effective, ses limites personnelles et les éventuelles charges de soin pertinentes pour l’organisation. Les informations recueillies sont consignées au procès-verbal sous forme agrégée et non nominative. Pour le Cercle né d’un réseau en application de l’article 17 du Code 16, les rencontres ont lieu dans les quatre-vingt-dix jours suivant la conversion.
 
 3.  Une carte agrégée de la capacité de soin et d’organisation est établie ; elle peut prendre en compte :
 
@@ -121,7 +121,7 @@ Annexe technique adoptée en application de l’article 19 du Code 3 et visée a
 
 4.  Chaque Cercle pilote organise au moins un échange inter-Bassins, qui comprend la participation volontaire d’au moins une personne pendant une semaine continue dans un autre Bassin, pour des activités de contribution. Les dépenses directement nécessaires sont couvertes par la Caisse commune selon les règles applicables. Le suivi de l’échange est agrégé et sans profilage.
 
-5.  Tous les six mois, un questionnaire anonyme sur la sécurité ressentie est réalisé, selon des modalités techniques propres à empêcher l’identification des personnes. La question minimale est : « Te sens-tu en sécurité ici ? ». Les réponses ne sont pas publiées lorsque le nombre de participants ne permet pas une agrégation adéquate.
+5.  Tous les six mois, un questionnaire anonyme sur la sécurité ressentie est réalisé, selon des modalités techniques propres à empêcher l’identification des personnes. La question minimale est : « Te sens-tu en sécurité ici ? ». Les réponses ne sont pas publiées lorsque le nombre de participants ne permet pas une agrégation adéquate. Le questionnaire est réalisé et dépouillé dans chaque Cercle pilote ; le seuil de l’alinéa 6 est vérifié pour chacun d’eux et le plan correctif concerne le Cercle dans lequel il est dépassé.
 
 6.  Si plus de vingt pour cent des réponses valables sont négatives :
 

@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 2 — ON QUALITY AND VALIDATION"
 breve: "Code 2 — Quality and validation"
-versione: "V1.7"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 2
 id: "codice-02"
 slug: "code-02"
-allineamento: "Constitution V.35; Code 1 V1.10; Code 3 V1.8; Code 4 V1.9; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.8; Code 14 V1.7; Code 15 V1.9; Code 16 V1.9."
+allineamento: "Constitution V.38; Code 1 V1.12; Code 3 V1.11; Code 4 V1.10; Code 5 V1.7; Code 6 V1.9; Code 7 V1.10; Code 8 V1.7; C.1-Annex A V1.7; Code 9 V3.4; Code 10 V1.8; Code 11 V1.6; Code 12 V1.7; Code 13 V1.9; Code 14 V1.10; Code 15 V1.12; Code 16 V1.10."
 ---
 
 ## CHAPTER I — PRINCIPLES, CRITERIA AND ADMISSION
@@ -133,7 +133,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 3 V1.8; Code 4 V1.9; Code 5
 
     a) **absolute critical dependency:** it causes a total lock or an irreversible proprietary coupling, or makes offline use or community control impossible. It is prohibited and may not be admitted even on a temporary basis;
 
-    b) **residual and surmountable critical dependency:** it causes a partial limitation that can be removed by the Community by means of technically available tools, procedures or substitutions. The good may be admitted only temporarily pursuant to Article 4, paragraph 1, letter d), with a mandatory Substitution Plan. Where the dependency concerns software or firmware whose source code is not available, admission is permitted within the limits of Article 19.4 of the Constitution and of Article 12, paragraph 5, and is never permitted for systems that propose or decide on rights, voting and Commons, including Management AIs, the algorithms of Article 2, paragraph 5, of Code 7, the personal AI and the consultation and voting systems of Article 34.4 of the Constitution.
+    b) **residual and surmountable critical dependency:** it causes a partial limitation that can be removed by the Community by means of technically available tools, procedures or substitutions. The good may be admitted only temporarily pursuant to Article 4, paragraph 1, letter d), with a mandatory Substitution Plan. Where the dependency concerns software or firmware whose source code is not available, admission is permitted within the limits of Article 19.4 of the Constitution and of Article 12, paragraph 5, and is never permitted for systems that propose or decide on rights, voting and Commons, including Management AIs, the algorithms of Article 2, paragraph 5, of Code 7, the personal AI and the consultation and voting systems of Article 34.4 of the Constitution. For the purposes of Article 19.4 of the Constitution, firmware and software that execute human commands or automations covered by an STV, without formulating proposals or choices on rights, voting or the destination of the Commons, do not propose or decide.
 
 3.  The classification is recorded in the STV, on the basis of a preparatory inquiry by the Quality Council and the opinion of the Network Council. The assessment also considers the concrete possibility, the time and the costs of removing the dependency.
 
@@ -583,7 +583,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 3 V1.8; Code 4 V1.9; Code 5
 
     d) obtaining the opinion of the Health Council where the service concerns persons, health or safety;
 
-    e) decision of the Quality Council for services below the threshold and in common use, or proposal of the Quality Council and decision of the Assembly for the cases provided for by Article 15;
+    e) proposal of the Quality Council and decision of the body indicated by the matrix of Article 7 of Code 3, pursuant to Article 15;
 
     f) conclusion of the contract with clauses on exit, continuity, return of data and management of dependencies;
 

@@ -54,7 +54,7 @@ Un exemple d’heures réelles : au Rwanda, la culture du café demande enviro
 
 **Ce qui fait le coût : travail, moyens de production, transport.** Le coût réel d’un bien a trois composantes : les heures des personnes qui le produisent, la quote-part des moyens utilisés pour le produire (machines, matériaux, énergie, ramenés à des heures) et le transport. Le coefficient d’un pays ne mesure pas la distance : il estime combien d’heures sont nécessaires là-bas, avec les moyens de production qui y sont utilisés. Le café contient trois heures parce qu’il est récolté à la main, avec peu de moyens ; avec de meilleurs outils, il en contiendrait moins, où qu’il soit cultivé. Le transport est compté à part et pèse peu : en mai 2026, un conteneur de Shanghai à Gênes coûtait environ 4 100 dollars, soit environ 20 cents par kilo de marchandise pour un chargement de vingt tonnes : moins d’un centième d’UCR.
 
-Ce sont des conversions indicatives (art. 9, al. 6), à améliorer avec des données de filière.
+Le coefficient heures par euro fait partie de la méthode (art. 9, al. 4, lettres b et c) et il est certifié avec sa classe d’incertitude (art. 9, al. 5) ; il est à améliorer avec des données de filière. Seules sont indicatives, au sens de l’art. 9, al. 6, les conversions des UCR en euros, comme celles du paragraphe 6.
 
 **Ce que l’UCR ne mesure pas.** Elle ne mesure pas l’impact environnemental, qui est évalué par la STV selon le Code 2. Elle ne comprend pas le travail domestique effectué dans les Noyaux de soin. Elle ne comprend pas les fonctions civiques, qui figurent dans le Bilan du travail et non dans le coût des différents biens.
 

@@ -27,7 +27,7 @@ Dónde: Const. 0.2; Const. 38.1; Const. 4.8; Const. 26.4; Const. 10.3; Const. 8.
 
 ### ¿Cómo está hecha?
 
-Cada cual vive en un Núcleo de Cuidado (Círculo 0), donde la Comunidad no entra salvo para proteger a alguien. Los Núcleos forman Comunidades de base, por norma de 30 a 500 personas, que deciden en asamblea: cada cual vota por sí mismo. Las Comunidades se federan en círculos más amplios, que coordinan y no mandan. Los cargos se asignan por sorteo entre voluntarios y tienen duración limitada.
+Cada cual vive en un Núcleo de Cuidado (Círculo 0), donde la Comunidad no entra salvo para proteger a alguien o, en los casos graves, a un animal. Los Núcleos forman Comunidades de base, por norma de 30 a 500 personas, que deciden en asamblea: cada cual vota por sí mismo. Las Comunidades se federan en círculos más amplios, que coordinan y no mandan. Los cargos se asignan por sorteo entre voluntarios y tienen duración limitada.
 
 Palabras: estructura, organización, círculos, núcleo, familia, comunidad, niveles, federación, cómo funciona
 Dónde: Const. 5.1; Const. 4.2; Const. 4.3; Const. 6.5; Const. 4.4
@@ -51,7 +51,7 @@ Dónde: Const. 7.1; Cód. 1, art. 3, ap. 2; Const. 3.1; Const. 10.1; Const. 10.4
 Si funciona: ninguna comunidad la ha probado todavía, y muchas cifras son hipótesis por verificar. Por eso todo es público y las reglas se pueden corregir.
 
 Palabras: funciona, probado, experimentado, experimentos, ejemplos, realista, utopía, pruebas, resultados, existe, demostrado
-Dónde: [Registro de parámetros por verificar, en italiano](../registro/parametri.html); [Cómo contribuir](contribuir.html)
+Dónde: [Registro de parámetros por verificar](registro/parametros.html); [Cómo contribuir](contribuir.html)
 
 ## Decidir
 
@@ -118,14 +118,14 @@ Dónde: Const. 3.5; Const. 3.4; Const. 3.5-bis; Cód. 1, art. 18
 La Contribución de Reconocimiento (CdR) reconoce el trabajo hecho además de la Contribución Básica: una hora validada vale un CdR. Para los textos no es una moneda: no se pasa a otros, no se hereda, tiene un tope y se reduce con el tiempo. Solo da prioridad sobre bienes y servicios no esenciales. No puede comprar ni condicionar la vivienda, la comida y los cuidados.
 
 Palabras: CdR, créditos, puntos, moneda, premio, mérito, recompensa, ganar más, incentivos, gratitud, ahorrar, riqueza
-Dónde: Const. 8.1; Const. 8.2; Const. 3.5; Cód. 1, art. 43; Cód. 1, art. 44; [Tabla pública del CdR, borrador, en italiano](../registro/bozza-cdr.html)
+Dónde: Const. 8.1; Const. 8.2; Const. 3.5; Cód. 1, art. 43; Cód. 1, art. 44; [Tabla pública de la CdR, borrador](registro/borrador-cdr.html)
 
 ### ¿Qué son las UCR?
 
 Las Unidades de Coste de Reproducción (UCR) son una unidad de cuenta: miden el tiempo, los materiales, la energía y el transporte necesarios para volver a hacer un bien o prestar un servicio. Una UCR corresponde a una hora de Contribución Básica ordinaria. No son un precio ni un medio de cambio, y no se atribuyen a las personas. El método de cálculo está en un anexo que hoy es solo un borrador.
 
 Palabras: UCR, coste, precio, valor, unidad de cuenta, cuánto cuesta, contabilidad, horas de trabajo, cálculo, medida
-Dónde: Cód. 3, art. 9; [Anexo UCR, borrador, en italiano](../registro/bozza-ucr.html)
+Dónde: Cód. 3, art. 9; [Anexo UCR, borrador](registro/borrador-ucr.html)
 
 ### ¿Puedo conservar mi casa y mis cosas?
 
@@ -271,7 +271,7 @@ Dónde: Cód. 1, art. 19, ap. 3; Cód. 1, art. 32; Const. 36.3; Const. 36.4
 Puedes abrir una incidencia en GitHub o escribir a zerocirclesproject@gmail.com: basta una línea. Indica el texto y el artículo, el problema y, si la tienes, la modificación que propones. Hoy los valora quien cuida el repositorio, de forma pública y motivada: un cambio verificado se aplica y se registra con su razón. No se aceptan propuestas que contradigan el Núcleo Inviolable.
 
 Palabras: contribuir, criticar, proponer, incidencia, participar, ayudar, GitHub, correo, contacto, correcciones, traducir, comentarios, escribir
-Dónde: [Cómo contribuir](contribuir.html); [Archivo de las propuestas, en italiano](../registro/proposte.html)
+Dónde: [Cómo contribuir](contribuir.html); [Archivo de las propuestas](registro/propuestas.html)
 
 ### ¿Con qué licencia se publican los textos? ¿Puedo reutilizarlos?
 

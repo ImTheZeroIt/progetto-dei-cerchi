@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 12 — SOIN COMMUNAUTAIRE, FRAGILITÉS FONCTIONNELLES ET SANTÉ COMMUNAUTAIRE"
 breve: "Code 12 — Soin communautaire"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 12
 id: "codice-12"
 slug: "code-12"
-allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.8 ; Code 4 V1.9 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 13 V1.8 ; Code 14 V1.7 ; Code 15 V1.9 ; Code 16 V1.9."
+allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 3 V1.11 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 7 V1.10 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 15 V1.12 ; Code 16 V1.10."
 ---
 
 ## Art. 1 — Objet, définitions et champ de compétence
@@ -250,7 +250,7 @@ a) le retour dans le Cercle 0, le cas échéant avec un parcours de soutien ; 
 
 b) uniquement lorsque le retour exposerait le mineur à une violence, à une négligence grave ou à un préjudice qu’un parcours de soutien ne peut pas éviter, la garde par des personnes qui assument la responsabilité de soin en application de l’article 24.3 de la Constitution, en indiquant si cette responsabilité reste partagée avec les personnes qui l’exerçaient ou est suspendue pour elles, et comment les relations avec elles sont maintenues, sauf si cela nuit au mineur.
 
-La décision est réexaminée par le Tribunal au moins tous les six mois et à tout moment à la demande du mineur ou des personnes qui avaient la responsabilité de soin. Elle peut faire l’objet du réexamen de l’article 35, alinéa 2, du Code 4. Le présent alinéa s’applique aussi à la décision sur le lieu et les personnes avec qui vivent les enfants mineurs de la personne qui cesse d’être membre en application de l’article 29, alinéa 6-bis, du Code 4 ; la décision est prise avant que la cessation ne prenne effet et ne requiert pas la séparation de l’alinéa 3. Dans ce cas, la cessation ne constitue pas à elle seule une violence, une négligence grave ou un préjudice au sens de la lettre b), et le Tribunal peut aussi décider que le mineur vive avec la personne sur la parcelle attribuée, avec le logement, le Panier et les services qui lui reviennent en tant que membre.
+La décision est réexaminée par le Tribunal au moins tous les six mois et à tout moment à la demande du mineur ou des personnes qui avaient la responsabilité de soin. Elle peut faire l’objet du réexamen de l’article 35, alinéa 2, du Code 4. Le présent alinéa s’applique aussi à la décision sur le lieu et les personnes avec qui vivent les enfants mineurs de la personne qui cesse d’être membre en application de l’article 29, alinéa 6-bis, du Code 4 ; la décision est prise avant que la cessation ne prenne effet et ne requiert pas la séparation de l’alinéa 3. Dans ce cas, la cessation ne constitue pas à elle seule une violence, une négligence grave ou un préjudice au sens de la lettre b), et le Tribunal peut aussi décider que le mineur vive avec la personne sur la parcelle attribuée, avec le logement, le Panier et les services qui lui reviennent en tant que membre. Le présent alinéa s’applique aussi, sur signalement du Conseil Soin ou de toute personne intéressée, lorsque personne n’exerce la responsabilité de soin du mineur ou que plusieurs personnes se la disputent ; le délai court à partir du signalement et le Tribunal indique qui assume la responsabilité de soin.
 
 3-ter. Pendant la transition, la séparation contre la volonté des personnes qui ont la responsabilité de soin et les décisions de l’alinéa 3-bis relèvent des autorités compétentes de l’État, en application de l’article 37 du Code 4. Le Conseil Soin signale le cas, soutient le mineur et collabore à son accueil.
 
@@ -276,6 +276,8 @@ La décision est motivée et indique qui prend les décisions quotidiennes et co
 
 4.  Contre la décision de l’alinéa 2, ou si elle n’est pas prise dans le délai, le mineur et chaque personne qui en a la responsabilité de soin peuvent former un recours dans un délai de quatorze jours devant le Tribunal de garantie, qui statue dans un délai de trente jours avec les garanties de l’article 7-bis, alinéa 3-bis, en tenant compte de la volonté du mineur selon son âge et sa maturité. Contre la décision du Tribunal, le réexamen de l’article 35, alinéa 2, du Code 4 est admis.
 
+4-bis. Le mineur est membre dès la naissance, ou dès son arrivée dans la Communauté, si au moins l’une des personnes qui en ont la responsabilité de soin l’est. Dans les autres cas, l’adhésion se fait selon les règles d’âge de l’article 26.5 de la Constitution : à partir de seize ans révolus par le mineur lui-même, avant par les personnes qui en ont la responsabilité de soin, dans son intérêt et après l’avoir informé et entendu. Aux fins de l’article 26.4 de la Constitution, a grandi dans la Confédération la personne qui a été membre pendant au moins un an lorsqu’elle était mineure.
+
 5.  À partir de seize ans révolus, le mineur peut faire lui-même la déclaration de l’article 4.8 de la Constitution, en application de l’article 26.5 de la Constitution. La déclaration est précédée d’un entretien avec le Conseil Soin, au cours duquel le mineur peut se faire assister de la personne de confiance ; le Conseil l’informe des effets de l’article 4.8, des droits qu’il conserve en application de l’alinéa 8, du Pacte de cohabitation autonome et de la réadmission, et vérifie avec lui où et avec qui il vivra. L’entretien a lieu dans un délai de quatorze jours à compter de la demande ; à l’expiration du délai sans entretien, la déclaration peut être faite quand même. Les personnes qui ont la responsabilité de soin sont informées, sauf si cela expose le mineur à un danger. Si, avant dix-huit ans, le mineur n’est pas en mesure de décider, l’alinéa 6 s’applique.
 
 6.  Jusqu’à seize ans révolus, la déclaration de l’article 4.8 de la Constitution pour le mineur est faite par la personne qui en a la responsabilité de soin, uniquement dans l’intérêt du mineur, après l’avoir informé et entendu d’une manière adaptée à son âge ; l’avis du mineur a un poids croissant avec l’âge et la maturité, en application de l’article 26.2 de la Constitution. Si les personnes responsables sont plusieurs, elles décident d’un commun accord. La déclaration qu’une personne fait pour elle-même ne s’étend pas aux mineurs dont elle a la responsabilité de soin.
@@ -288,7 +290,7 @@ La décision est motivée et indique qui prend les décisions quotidiennes et co
 
 Contre la décision, le réexamen de l’article 35, alinéa 2, du Code 4 est admis.
 
-8.  Le mineur qui n’est plus membre conserve dans tous les cas l’eau potable, les soins d’urgence vitaux et la protection des mineurs garantis par l’article 1.3 de la Constitution, les droits de l’article 26 de la Constitution rappelés par l’article 4.9-bis, y compris l’accès aux soins et à l’apprentissage, et les autres droits de l’article 4.9. Il peut continuer à vivre dans son Cercle 0, avec le consentement de ceux qui y vivent, et peut demander à tout moment la réadmission en application de l’article 4.8 de la Constitution.
+8.  Le mineur qui n’est plus membre conserve dans tous les cas l’eau potable, les soins d’urgence vitaux et la protection des mineurs garantis par l’article 1.3 de la Constitution, les droits de l’article 26 de la Constitution rappelés par l’article 4.9-bis, y compris l’accès aux soins et à l’apprentissage, et les autres droits de l’article 4.9, sauf la limite de la lettre b). En application de l’article 26.5 de la Constitution, il peut continuer à vivre dans son Cercle 0, avec le consentement de ceux qui y vivent, jusqu’à dix-huit ans révolus ; entre-temps, il reçoit le Panier pour lui-même et l’article 4.9-ter de la Constitution ne lui est pas applicable. Il peut demander à tout moment la réadmission en application de l’article 4.8 de la Constitution.
 
 9.  Pendant la transition, le présent article s’applique dans les limites permises par la loi en vigueur sur la responsabilité de soin et sur la participation des mineurs aux organisations, en application de l’article 37 du Code 4. Le choix de résidence contre la volonté des personnes qui ont la responsabilité de soin et les décisions du Tribunal prévues aux alinéas 4 et 7 relèvent des autorités compétentes de l’État ; le Conseil Soin soutient le mineur.
 
@@ -334,7 +336,7 @@ Contre la décision, le réexamen de l’article 35, alinéa 2, du Code 4 est ad
 
     f) d’utiliser des données sur la fragilité fonctionnelle à des fins de profilage ou à des fins autres que la prise en charge et les finalités techniques expressément autorisées par le Code 7 ;
 
-    g) d’ordonner l’institutionnalisation forcée d’une personne, sauf placement temporaire strictement nécessaire face à un risque immédiat, adopté dans les conditions et avec les garanties de l’article 8, alinéas 4 à 10, du Code 6 ; pour les mineurs, l’article 7-bis, alinéa 3, s’applique. Les éventuels traitements sanitaires restent régis par le Code 6 et par les garanties correspondantes.
+    g) d’ordonner l’institutionnalisation forcée d’une personne, sauf placement temporaire strictement nécessaire face à un risque immédiat, adopté dans les conditions et avec les garanties de l’article 8, alinéas 4 à 10, du Code 6 ; pour les mineurs s’appliquent en outre l’article 8 du Code 6 et, si le placement les sépare du Cercle 0, l’article 7-bis, alinéa 3. Les éventuels traitements sanitaires restent régis par le Code 6 et par les garanties correspondantes.
 
 2.  Les violations de l’alinéa 1 constituent des violations substantielles. La constatation, les mesures conservatoires, la suspension ou la désactivation de la fonction et les recours sont décidés conformément au Code 4. Le Conseil Soin documente les faits et active les procédures prévues, sans se substituer aux organes compétents pour la constatation ou pour l’application des recours.
 

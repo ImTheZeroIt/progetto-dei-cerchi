@@ -1,12 +1,12 @@
 ---
 titolo: "CÓDIGO 13 — BIODIVERSIDAD, SANTUARIOS Y FAUNA"
 breve: "Código 13 — Biodiversidad, santuarios y fauna"
-versione: "V1.8"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 13
 id: "codice-13"
 slug: "codigo-13"
-allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1.8; Código 4 V1.9; Código 5 V1.6; Código 6 V1.8; Código 7 V1.9; Código 8 V1.6; C.1-Annex A V1.6; Código 9 V3.3; Código 10 V1.7; Código 11 V1.5; Código 12 V1.6; Código 14 V1.7; Código 15 V1.9; Código 16 V1.9."
+allineamento: "Constitución V.38; Código 1 V1.12; Código 2 V1.9; Código 3 V1.11; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 7 V1.10; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 12 V1.7; Código 14 V1.10; Código 15 V1.12; Código 16 V1.10."
 ---
 
 ## Art. 1 — Objeto, definiciones y naturaleza jurídica
@@ -82,7 +82,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
     g) asegura la coordinación técnica con el Consejo de Hábitat y Territorio del Código 10, el Consejo Agroecológico del Código 9, el Consejo de Salud del Código 6, el Consejo de Energía y Agua del Código 8 y el Consejo de Cuidado del Código 12.
 
-3.  Los dictámenes obligatorios del Consejo de Biodiversidad previstos en los Códigos 9 y 10 y en el presente Código, cuando son negativos, son vinculantes para la protección de los límites ecológicos, conforme al artículo 6.6 de la Constitución y al artículo 8 del Código 3, exclusivamente respecto de los indicadores y los parámetros de biodiversidad, de protección de la fauna silvestre y de funcionalidad biológica atribuidos expresamente al presente Código. Los parámetros de bienestar de los animales que conviven o colaboran con las personas se aprueban con la autorización del apartado 5. Dichos dictámenes no determinan la localización, la geometría, el destino de uso ni la imposición de una restricción territorial, que siguen siendo competencia del Código 10.
+3.  Los dictámenes obligatorios del Consejo de Biodiversidad previstos en los Códigos 8, 9 y 10, en cuanto al Código 8 solo respecto del artículo 6-bis, apartado 3, y en el presente Código, cuando son negativos, son vinculantes para la protección de los límites ecológicos, conforme al artículo 6.6 de la Constitución y al artículo 8 del Código 3, exclusivamente respecto de los indicadores y los parámetros de biodiversidad, de protección de la fauna silvestre y de funcionalidad biológica atribuidos expresamente al presente Código. Los parámetros de bienestar de los animales que conviven o colaboran con las personas se aprueban con la autorización del apartado 5. Dichos dictámenes no determinan la localización, la geometría, el destino de uso ni la imposición de una restricción territorial, que siguen siendo competencia del Código 10.
 
 4.  Los actos técnicos del Consejo de Biodiversidad se adoptan en aplicación de las STV vigentes. Las propuestas discrecionales se adoptan según el método del consenso por ausencia de objeciones motivadas, conforme al Código 3, previa publicación durante al menos setenta y dos horas. La publicación no comprende datos cuya difusión pueda causar perjuicio a las especies o a los sitios protegidos.
 
@@ -96,7 +96,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
     b) previo dictamen obligatorio del Consejo de Hábitat y Territorio;
 
-    c) mediante deliberación de la Asamblea General del Círculo 2 adoptada por mayoría calificada, según las reglas de la Constitución y del Código 3.
+    c) mediante deliberación de la Asamblea General del Círculo 2 adoptada por mayoría calificada, según las reglas de la Constitución y del Código 3, con el destino de uso del área deliberado por la Asamblea del Círculo 1 en cuyo territorio se encuentra, conforme al artículo 4, apartado 2, del Código 10.
 
 2.  El santuario está destinado a la máxima integridad ecológica compatible con las características del área y a la estabilidad de su función de protección. En su interior se prohíbe:
 
@@ -136,8 +136,8 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 2.  Todo animal acogido tiene derecho a la vida y al cuidado y no es transferible, salvo que el traslado sea necesario para su bienestar y esté certificado por una competencia veterinaria L3. Se prohíben el sacrificio, la supresión por conveniencia, la cesión a título oneroso, el empleo en el trabajo y la reproducción con fines de uso.
 3.  No se hace reproducir a los animales acogidos. Cuando es necesario para su bienestar y para la capacidad de cuidado, la prevención de los nacimientos se realiza con los métodos no lesivos definidos por la STV Santuarios de Acogida.
 4.  Lo que el animal produce espontáneamente solo puede recogerse en las condiciones del artículo 13.3-ter de la Constitución. No puede constituir un objetivo productivo, programarse en la Cesta ni justificar el aumento del número de animales.
-5.  Cada Círculo 2 garantiza al menos un santuario de acogida por cada tres o cuatro Círculos 1 que lo componen, dimensionado según los animales censados. El cuidado de los animales acogidos forma parte de la CBO, conforme al artículo 7.2 de la Constitución y al Código 1.
-6.  Para cada animal o grupo se lleva una Ficha de Bienestar. La alimentación y la atención veterinaria se aseguran sin comprometer los niveles 1 y 2 de la Cesta humana. En caso de escasez de agua se aplica el artículo 10, apartado 8, del Código 9.
+5.  Cada Círculo 2 garantiza al menos un santuario de acogida por cada tres o cuatro Círculos 1 que lo componen, dimensionado según los animales censados. El cuidado de los animales acogidos forma parte de la CBO, conforme al artículo 7.2 de la Constitución y al Código 1. El santuario lo sigue el Consejo de Biodiversidad de la Comunidad en cuyo territorio se encuentra o, si la Asamblea General así lo establece, un Consejo compartido conforme al artículo 12-bis, apartado 6-bis, del Código 3.
+6.  Para cada animal o grupo se lleva una Ficha de Bienestar. La alimentación y la atención veterinaria se aseguran sin comprometer los niveles 1 y 2 de la Cesta humana; la alimentación mínima y la atención urgente siguen el artículo 32, apartado 1-sexies, del Código 1. En caso de escasez de agua se aplica el artículo 10, apartado 8, del Código 9.
 7.  La eutanasia se admite exclusivamente en las condiciones del artículo 7, apartado 12, en cuanto sean aplicables. En lugar de la Ficha de Bienestar Doméstico se aplica la Ficha de Bienestar del animal acogido prevista en el apartado 6; en lugar de la persona de confianza se informa a las personas que cuidan habitualmente del animal.
 8.  El acceso de las personas al santuario de acogida se permite para el cuidado, el aprendizaje y la relación, respetando las Fichas de Bienestar.
 
@@ -215,7 +215,9 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
 2.  La convivencia con animales domésticos de proximidad se admite como convivencia no explotadora conforme al artículo 13.3 de la Constitución. La verifica y la autoriza el Consejo de Biodiversidad sobre la base de la Ficha de Bienestar Doméstico.
 
-3.  Cuando no se dan las condiciones del artículo 13.3 de la Constitución, el Consejo de Biodiversidad propone las medidas necesarias para el bienestar del animal y, si estas no se aplican, la acogida en un santuario conforme al artículo 4-bis, según los procedimientos del Código 4.
+3.  Cuando no se dan las condiciones del artículo 13.3 de la Constitución, el Consejo de Biodiversidad propone las medidas necesarias para el bienestar del animal y, si estas no se aplican, la acogida en un santuario conforme al artículo 4-bis, según el apartado 3-bis.
+
+3-bis. Cuando el Cuerpo de Tutela Cívica ha intervenido conforme al artículo 8-ter, apartado 3, del Código 14, o cuando un animal está en peligro grave e inmediato, el Consejo de Biodiversidad puede disponer la acogida provisional del animal en un santuario de acogida o en otra convivencia autorizada, por no más de treinta días. La medida se comunica al Tribunal de Garantía, que la convalida en un plazo de veinticuatro horas junto con la entrada, cuando la ha habido, conforme al artículo 34, apartado 2-bis, del Código 4. La acogida estable del apartado 3 la decide el Tribunal de Garantía, oído el núcleo de convivencia, y es impugnable. Las medidas del presente apartado no permiten entrar en un Círculo 0 fuera de los casos del artículo 5.1, letra a), de la Constitución.
 
 4.  El cuidado cotidiano del animal doméstico de proximidad corresponde al núcleo de convivencia. El Círculo 1, y el nivel federado cuando es necesario, garantiza la protección del sistema, la Ficha de Bienestar Doméstico y el balance de los recursos alimentarios según las modalidades previstas en el presente Código y en las STV.
 
@@ -247,9 +249,9 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
 9.  La acumulación individual de animales se admite solo dentro de la capacidad de cuidado definida por la Ficha de Bienestar Doméstico. La evaluación considera al menos la especie y el número de animales, el espacio disponible, las condiciones sanitarias, el tiempo disponible y la capacidad efectiva de garantizar el bienestar de cada animal. La superación de la capacidad de cuidado constituye una infracción conforme al artículo 10.
 
-10. No constituye manipulación reproductiva en el sentido de los artículos 13.2 y 13.3, letra c), de la Constitución la prevención no lesiva de los nacimientos del animal doméstico de proximidad, incluida la esterilización, realizada o prescrita por una competencia veterinaria cuando es necesaria para el bienestar del animal o cuando el cuidado de otras crías no podría garantizarse según el apartado 9. La decide el núcleo de convivencia con la competencia veterinaria, se registra en la Ficha de Bienestar Doméstico y no se impone con carácter general. Para los animales acogidos en los santuarios se aplica el artículo 4-bis, apartado 3. En los aspectos sanitarios, zoonóticos o de riesgo colectivo se aplican las competencias, los procedimientos y las garantías del Código 6, incluidas las medidas colectivas admitidas por su artículo 2-bis, apartado 3-bis. Toda medida debe respetar criterios de proporcionalidad y temporalidad, garantizar la información de la persona interesada y estar sujeta a reexamen y a las garantías previstas.
+10. No constituye manipulación reproductiva en el sentido de los artículos 13.2 y 13.3, letra c), de la Constitución la prevención no lesiva de los nacimientos del animal doméstico de proximidad, incluida la esterilización, realizada o prescrita por una competencia veterinaria cuando es necesaria para el bienestar del animal o cuando el cuidado de otras crías no podría garantizarse según el apartado 9. La decide el núcleo de convivencia con la competencia veterinaria, se registra en la Ficha de Bienestar Doméstico y no se impone con carácter general. Para los animales acogidos en los santuarios se aplica el artículo 4-bis, apartado 3. En los aspectos sanitarios, zoonóticos o de riesgo colectivo se aplican las competencias, los procedimientos y las garantías del Código 6, incluidas las medidas colectivas admitidas por su artículo 2-bis, apartado 3-bis, y el artículo 8, apartado 7, del presente Código. Toda medida debe respetar criterios de proporcionalidad y temporalidad, garantizar la información de la persona interesada y estar sujeta a reexamen y a las garantías previstas.
 
-11. La alimentación de los animales domésticos de proximidad puede asegurarse mediante recursos compatibles con la Cesta, residuos idóneos o un fondo específico. Dichos recursos no pueden comprometer la Cesta humana de los niveles 1 y 2 y se regulan en la STV Cesta del Código 9. En caso de escasez de agua se aplica el artículo 10, apartado 8, del Código 9.
+11. La alimentación de los animales domésticos de proximidad puede asegurarse mediante recursos compatibles con la Cesta, residuos idóneos o un fondo específico. Dichos recursos no pueden comprometer la Cesta humana de los niveles 1 y 2 y se regulan en la STV Cesta del Código 9. La alimentación mínima y la atención veterinaria urgente siguen el artículo 32, apartado 1-sexies, del Código 1. En caso de escasez de agua se aplica el artículo 10, apartado 8, del Código 9.
 
 12. Se prohíbe la eutanasia por mera conveniencia. Solo se admite en presencia de un sufrimiento irreversible certificado por dos competencias L3, de las cuales al menos una veterinaria, respetando las competencias sanitarias del Código 6 y la Ficha de Bienestar Doméstico. La intervención se documenta y se registra; se informa a la persona de confianza, salvo imposibilidad motivada o urgencia incompatible con el aviso previo.
 
@@ -276,6 +278,8 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
     c) nivel L3 para el diseño y la validación de las STV y de las Fichas de Bienestar, en los casos previstos.
 
 6.  Cualquier persona que detecte un riesgo grave e inmediato para la fauna, un animal o una persona puede interrumpir la actividad afectada e informa sin demora a los Consejos competentes. La interrupción efectuada de buena fe para prevenir un daño no puede dar lugar a represalias ni a perjuicios.
+
+7.  Para las zoonosis solo se admiten, a propuesta del Consejo de Salud y con la autorización del Consejo de Biodiversidad: la separación o el aislamiento temporal de los animales, en condiciones conformes a la Ficha de Bienestar; los cuidados y las vacunaciones veterinarias; las medidas de higiene de los espacios; la limitación de los contactos y de los desplazamientos. Se prohíbe matar a los animales, salvo la eutanasia de los artículos 4-bis, apartado 7, y 7, apartado 12. Se aplican las garantías de duración y de reexamen del artículo 2-bis del Código 6.
 
 ## Art. 9 — Registro de Dependencias de la biodiversidad
 
@@ -359,7 +363,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
     d) la STV Bienestar Doméstico;
 
-    e) la STV Abejas Silvestres;
+    e) la STV Abejas Silvestres y la STV Gestión de la Fauna;
 
     f) las Fichas de Seguridad y de Bienestar necesarias;
 
@@ -373,7 +377,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
     b) el plan de adecuación indica las medidas que deben adoptarse, las personas responsables y un plazo final, por regla general no superior a noventa días, salvo imposibilidad técnica documentada;
 
-    c) cuando existe un riesgo grave e inmediato para la biodiversidad o el bienestar animal, pueden adoptarse medidas urgentes proporcionadas según los procedimientos del Código 4;
+    c) cuando existe un riesgo grave e inmediato para la biodiversidad o el bienestar animal, pueden adoptarse medidas urgentes proporcionadas según el artículo 7, apartado 3-bis, para los animales y, en los demás casos, según los procedimientos del Código 4;
 
     d) cuando la adecuación es técnicamente imposible, se inicia el procedimiento de desactivación previsto en el Código 4, acompañado de un plan de sustitución;
 

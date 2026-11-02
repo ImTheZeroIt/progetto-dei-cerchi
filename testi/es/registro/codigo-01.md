@@ -1,12 +1,12 @@
 ---
 titolo: "CÓDIGO 1 — DE LA CONTRIBUCIÓN BÁSICA OBLIGATORIA Y DEL SISTEMA DE LOS ALMACENES COMUNES"
 breve: "Código 1 — Contribución básica y Almacenes comunes"
-versione: "V1.10"
+versione: "V1.12"
 gruppo: "codici"
 ordine: 1
 id: "codice-01"
 slug: "codigo-01"
-allineamento: "Constitución V.35; Código 2 V1.7; Código 3 V1.8; Código 4 V1.9; Código 5 V1.6; Código 6 V1.8; Código 7 V1.9; Código 8 V1.6; C.1-Annex A V1.6; Código 9 V3.3; Código 10 V1.7; Código 11 V1.5; Código 12 V1.6; Código 13 V1.8; Código 14 V1.7; Código 15 V1.9; Código 16 V1.9."
+allineamento: "Constitución V.38; Código 2 V1.9; Código 3 V1.11; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 7 V1.10; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 15 V1.12; Código 16 V1.10."
 ---
 
 ## TÍTULO I — PRINCIPIOS GENERALES
@@ -286,7 +286,7 @@ allineamento: "Constitución V.35; Código 2 V1.7; Código 3 V1.8; Código 4 V1.
 
     c) conservación de los bienes comunes y prevención de la acumulación privada y del desperdicio.
 
-3.  El acceso a los bienes necesarios incluidos en la Cesta no puede condicionarse a la realización de la CBO ni a la posesión de CdR. El apartado 1, el presente apartado, el artículo 18, apartado 1, letra a), y las disposiciones de los Anexos y de los demás Códigos que excluyen la subordinación de la Cesta a la CBO se refieren a los miembros y a las personas acogidas según los Códigos. A la persona que ha dejado de ser miembro conforme al artículo 7.3-bis de la Constitución y al artículo 29, apartado 6-bis, del Código 4 solo le corresponden el agua potable y la atención de urgencia vital previstas en los artículos 1.3 y 4.9 de la Constitución. Se mantienen íntegros los derechos de sus hijos menores.
+3.  El acceso a los bienes necesarios incluidos en la Cesta no puede condicionarse a la realización de la CBO ni a la posesión de CdR. El apartado 1, el presente apartado, el artículo 18, apartado 1, letra a), y las disposiciones de los Anexos y de los demás Códigos que excluyen la subordinación de la Cesta a la CBO se refieren a los miembros y a las personas acogidas según los Códigos, incluido el menor que permanece en su Círculo 0 conforme al artículo 26.5 de la Constitución. A la persona que ha dejado de ser miembro conforme al artículo 7.3-bis de la Constitución y al artículo 29, apartado 6-bis, del Código 4 solo le corresponden el agua potable y la atención de urgencia vital previstas en los artículos 1.3 y 4.9 de la Constitución y la energía esencial para la salud y la supervivencia del artículo 15.2 de la Constitución y del artículo 4, apartado 2, del Código 8. Se mantienen íntegros los derechos de sus hijos menores.
 
 ### Art. 14 — Tipologías y organización territorial
 
@@ -563,6 +563,8 @@ d) para los demás bienes y servicios de la Cesta, incluidos el agua, la salud, 
 
 Las mismas expresiones no designan a los Círculos.
 
+1-sexies. La alimentación mínima necesaria para la supervivencia y la atención veterinaria urgente de los animales que viven con la Comunidad, incluidos los acogidos en los santuarios, entran en la letra a) del apartado 1, sin comprometer los niveles 1 y 2 de la Cesta humana, como el agua mínima prevista en el artículo 10, apartado 8, del Código 9.
+
 2.  La jerarquía constituye un criterio prevalente para resolver los conflictos de capacidad, pero no opera como un automatismo sin valoración de las circunstancias concretas.
 
 3.  Se admite una excepción motivada cuando es necesario prevenir un daño mayor, inmediato y documentado, como una avería hídrica que compromete los Almacenes, un corte de energía, un riesgo de derrumbe o una interrupción de la cadena de frío. En tal caso:
@@ -612,7 +614,7 @@ Las mismas expresiones no designan a los Círculos.
 
 ### Art. 37 — Red informativa y soberanía digital
 
-1.  La Red informativa es la infraestructura común que conecta Círculos, Almacenes, Logística y sistemas de registro de las necesidades. Se gestiona sobre infraestructuras comunitarias y, en la medida de lo posible, con software libre y estándares abiertos.
+1.  La Red informativa es la infraestructura común que conecta Círculos, Almacenes, Logística y sistemas de registro de las necesidades. Se gestiona sobre infraestructuras comunitarias, con software libre y estándares abiertos, conforme al artículo 19.4 de la Constitución y al artículo 9-bis del Código 16.
 2.  Se prohíbe recurrir a plataformas privadas propietarias externas para datos o funciones esenciales, salvo transición temporal motivada y registrada según el Código 15.
 3.  Los datos generados por las actividades de las CBO y de los Almacenes se gestionan como recursos comunes, respetando los derechos de las personas a las que se refieren los datos y las reglas de los Códigos 6 y 7.
 4.  La apertura del código fuente no elimina el riesgo de concentración del control. La gobernanza de las modificaciones, de la distribución y del acceso se regula en el artículo 38 y en el Código 7.
@@ -728,7 +730,7 @@ f) se excluyen las actividades de culto, las reservadas a una parte de los miemb
 3.  Las CdR no empleadas conservan su valor durante doce meses desde su acumulación. A partir del cumplimiento del duodécimo mes el valor se reduce en proporción al tiempo, en una doceava parte del valor inicial por mes, hasta extinguirse al cumplirse el vigésimo cuarto. La acumulación coincide con el día en que se realizó la actividad. A efectos del empleo y del tope, cada CdR cuenta por el valor que tiene en ese momento.
 4.  Los parámetros de los apartados 2 y 3 los calibra cada año la Asamblea General del Círculo 2, dentro de los límites que pueda fijar la Asamblea General del Círculo 3. La calibración no puede eliminar el tope ni el decrecimiento.
 5.  Al fallecer la persona o al cesar su condición de miembro, sus CdR se extinguen.
-6.  Durante la suspensión prevista en el artículo 7.3 de la Constitución, dispuesta conforme al artículo 29, apartado 4-bis, del Código 4, las CdR no pueden acumularse ni emplearse.
+6.  Durante la suspensión prevista en el artículo 7.3 de la Constitución, dispuesta conforme al artículo 29, apartados 2 y 4-bis, del Código 4, las CdR no pueden acumularse ni emplearse.
 
 ### Art. 45 — Empleo
 
@@ -763,7 +765,7 @@ f) se excluyen las actividades de culto, las reservadas a una parte de los miemb
 2.  La propiedad de uso de una vivienda, de un taller, de un campo o de una herramienta colectiva, conforme al artículo 10.2 de la Constitución, se registra ante el Consejo de Almacén y, en los aspectos territoriales, en el Catastro previsto en el Código 10. Se funda en el uso efectivo y continuado.
 3.  La propiedad de uso cesa por renuncia, por falta de uso prolongada más de doce meses sin justificación o por infracción de los límites del artículo 10.4 de la Constitución, comprobada según el Código 4. La vivienda principal no puede revocarse sin la asignación de otra vivienda adecuada, salvo en los casos del apartado 3-bis.
 
-3-bis. La propiedad de uso de la vivienda cesa además con el traslado a otra Comunidad conforme al artículo 49, con la declaración del artículo 4.8 de la Constitución y con el cese de la condición previsto en el artículo 7.3-bis de la Constitución. Se mantiene la continuidad de la vivienda de los convivientes del mismo Círculo 0, conforme al artículo 3.7 de la Constitución. En caso de traslado, la vivienda se deja al término de la dotación de Casa Puente del artículo 49, apartado 3; en caso de la declaración del artículo 4.8, al término de la hospitalidad del artículo 4.9, letra b), de la Constitución, salvo que la persona solicite el Pacto de Convivencia Autónoma: en tal caso permanece en la vivienda hasta la entrega de la porción, conforme al artículo 4-bis, apartado 7, del Código 10, y la vivienda puede confiársele con el Pacto conforme al artículo 4.9-bis de la Constitución. A quien se queda sin Pacto se le aplica el artículo 4.9-ter de la Constitución. En el caso del artículo 7.3-bis de la Constitución se aplica el artículo 29, apartado 6-bis, del Código 4.
+3-bis. La propiedad de uso de la vivienda cesa además con el traslado a otra Comunidad conforme al artículo 49, con la declaración del artículo 4.8 de la Constitución y con el cese de la condición previsto en el artículo 7.3-bis de la Constitución. Se mantiene la continuidad de la vivienda de los convivientes del mismo Círculo 0, conforme al artículo 3.7 de la Constitución. En caso de traslado, la vivienda se deja al término de la dotación de Casa Puente del artículo 49, apartado 3; en caso de la declaración del artículo 4.8, al término de la hospitalidad del artículo 4.9, letra b), de la Constitución, salvo que la persona solicite el Pacto de Convivencia Autónoma: en tal caso permanece en la vivienda hasta la entrega de la porción, conforme al artículo 4-bis, apartado 7, del Código 10, y la vivienda puede confiársele con el Pacto conforme al artículo 4.9-bis de la Constitución. A quien se queda sin Pacto se le aplica el artículo 4.9-ter de la Constitución, salvo, para el menor, el artículo 26.5 de la Constitución. En el caso del artículo 7.3-bis de la Constitución se aplica el artículo 29, apartado 6-bis, del Código 4.
 
 4.  La prohibición de acumulación privada por encima de siete días de las necesidades familiares, prevista en el artículo 10.5 de la Constitución, se refiere a los bienes retirados de los Almacenes. Se exceptúan las necesidades motivadas, en particular sanitarias, estacionales o de aislamiento.
 
@@ -811,7 +813,7 @@ f) se excluyen las actividades de culto, las reservadas a una parte de los miemb
 
 4.  Cuando las viviendas no bastan:
 
-    a) nadie queda sin techo: a la espera de la asignación se asigna la mejor vivienda disponible conforme al artículo 47-bis, apartado 5, o una plaza en una Casa Puente, sin el límite de duración del artículo 12.3 de la Constitución, y en su defecto un área de estacionamiento equipada conforme al artículo 6-ter, apartado 6, del Código 11;
+    a) nadie queda sin techo: a la espera de la asignación se asigna la mejor vivienda disponible conforme al artículo 47-bis, apartado 5, o una plaza en una Casa Puente, sin límite de duración e incluso más allá de la dotación del artículo 49, apartado 3, y en su defecto un área de estacionamiento equipada conforme al artículo 6-ter, apartado 6, del Código 11;
 
     b) la planificación da precedencia a la reutilización y a la recuperación de los edificios, conforme a los artículos 2 y 5 del Código 10;
 
@@ -840,3 +842,4 @@ f) se excluyen las actividades de culto, las reservadas a una parte de los miemb
 3.  Durante el mismo periodo la persona tiene derecho a la dotación de Casa Puente: vivienda en una Casa Puente, acceso a la Cesta y medios necesarios para el traslado de los efectos personales, según el Código 11. La dotación no requiere CdR.
 4.  La Comunidad de destino asigna una vivienda de uso según la disponibilidad. Hasta la asignación, la hospitalidad continúa conforme al artículo 12.3 de la Constitución. Si falta disponibilidad, el Círculo 2 presta asistencia en la búsqueda de otra ubicación.
 5.  La reubicación no puede producir anotaciones ni consecuencias perjudiciales para la persona.
+6.  El apoyo para iniciar la vida autónoma del artículo 26.4 de la Constitución comprende al menos la dotación de los apartados 2 y 3. Para quien elige dejar la Confederación comprende los Bienes de Uso Personal, los medios para el traslado y una suma de la Caja común fijada cada año por la Asamblea, conforme al artículo 17 del Código 15. Lo propone el Consejo de Cuidado; contra la decisión cabe recurso ante el Círculo de Garantía.

@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 3 — ON DELIBERATION, THRESHOLDS AND THE ASSEMBLY"
 breve: "Code 3 — Deliberation, thresholds and Assembly"
-versione: "V1.8"
+versione: "V1.11"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
 slug: "code-03"
-allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 4 V1.9; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.8; Code 14 V1.7; Code 15 V1.9; Code 16 V1.9."
+allineamento: "Constitution V.38; Code 1 V1.12; Code 2 V1.9; Code 4 V1.10; Code 5 V1.7; Code 6 V1.9; Code 7 V1.10; Code 8 V1.7; C.1-Annex A V1.7; Code 9 V3.4; Code 10 V1.8; Code 11 V1.6; Code 12 V1.7; Code 13 V1.9; Code 14 V1.10; Code 15 V1.12; Code 16 V1.10."
 ---
 
 ## CHAPTER I — DELIBERATIVE PRINCIPLES
@@ -309,7 +309,7 @@ A binding negative opinion prevents the adoption of the decision until the cause
 
 2.  The UCR is not a market price. It is used to compare alternatives, to make the systemic cost transparent and to prevent accumulation.
 
-3.  The methodology is defined in the UCR Technical Annex. The calculation method is common to all the Communities of Circle 2: it is prepared by the Accounting Councils and the Quality Councils in federated coordination, proposed by Circle 2 and approved by its General Assembly pursuant to Article 14. Each Community determines its own values according to that method; they are prepared by its Accounting Council and its Quality Council and approved by the Assembly of Circle 1. Until Circle 2 is established, Article 14, paragraph 10, applies.
+3.  The methodology is defined in the UCR Technical Annex. The calculation method is common to all the Communities of Circle 2: it is prepared by the Accounting Councils and the Quality Councils in federated coordination, proposed by the shared Accounting Council of Circle 2, pursuant to Article 12-bis, paragraph 6-bis, and approved by its General Assembly pursuant to Article 14. Each Community determines its own values according to that method; they are prepared by its Accounting Council and its Quality Council and approved by the Assembly of Circle 1. For the operations of Circle 3 and between different Circles 2, the method approved by the General Assembly of Circle 3 applies or, failing that, that of the Circle 2 where the resource is held. Until Circle 2 is established, Article 14, paragraph 10, applies.
 
 4.  The UCR Technical Annex shall govern at least:
 
@@ -413,7 +413,9 @@ A binding negative opinion prevents the adoption of the decision until the cause
 
     b) an abstainer is a participating person who declares that they are not expressing a position on the decision;
 
-    c) an active participant is a person who takes part in the deliberation and does not abstain.
+    c) an active participant is a person who takes part in the deliberation and does not abstain;
+
+    d) the active participants are the voters within the meaning of Article 35.4 of the Constitution.
 
 4.  Ordinary resolutions are valid without a minimum quorum, in accordance with Article 35.1 of the Constitution.
 
@@ -433,7 +435,7 @@ A binding negative opinion prevents the adoption of the decision until the cause
 
 3.  Each Council is composed of the number of persons laid down by the Code that governs it or, failing that, of three to five persons, with the validated competences required in accordance with Code 5.
 
-4.  The members are drawn by lot, by a public and traceable procedure, from among the persons who possess the required competence, have declared their availability and are not subject to a ground of incompatibility. Personal candidacy for a specific office is prohibited. Any person drawn by lot may refuse.
+4.  The members are drawn by lot, by a public and traceable procedure, from among the persons who possess the required competence, have declared their availability and are not subject to a ground of incompatibility. Personal candidacy for a specific office is prohibited. Any person drawn by lot may refuse. Only persons who have reached eighteen years of age are drawn by lot; persons aged sixteen or over may take part alongside the members, without a vote.
 
 5.  The term of office lasts one year. Renewal takes place in stages, as a rule for half of the members every six months, with a minuted handover. A person who has completed a term of office may not be drawn by lot again for the same Council before twelve months have elapsed. If there are no other suitable persons, a single reasoned extension is permitted, not exceeding six months, accompanied by a plan for training new persons in accordance with Code 5.
 
@@ -447,7 +449,7 @@ A binding negative opinion prevents the adoption of the decision until the cause
 
 6-bis. **Shared Councils of Circles 2 and 3.** Where the Codes assign to a Council functions of Circle 2 or of Circle 3, those functions are exercised by a shared Council of the Circle, on the following conditions, except for the Storehouse Councils of Circles 2 and 3, governed by Article 9-bis of Code 15:
 
-a) the shared Council is composed of the number of persons provided for by paragraph 3, drawn by lot pursuant to paragraph 4 from among the members of the corresponding Councils of the Base Communities of the Circle and, if they are not sufficient, from among the other persons of those Communities who possess the required competence. No more than two members come from the same Base Community. Paragraphs 5, 8 and 11 and Article 16 apply; the office in the shared Council counts as membership of a Council for the purposes of paragraph 8;
+a) the shared Council is composed of the number of persons provided for by paragraph 3, drawn by lot pursuant to paragraph 4 from among the members of the corresponding Councils of the Base Communities of the Circle or of the equivalent internal bodies of the associated Communities and, if they are not sufficient, from among the other persons of those Communities who possess the required competence. No more than two members come from the same Base Community. Paragraphs 5, 8 and 11 and Article 16 apply; the office in the shared Council counts as membership of a Council for the purposes of paragraph 8;
 
 b) the shared Council adopts the bound technical acts of paragraph 9 and prepares the inquiry and the proposals for the General Assembly. Where a serious and immediate risk to persons, to the Basket or to the continuity of an essential service does not allow the General Assembly to be awaited, it may adopt the urgent decisions strictly necessary, reasoned and published without delay. The urgent decision ceases to have effect if it is not ratified by the General Assembly within thirty days; for that purpose the Assembly may be convened with the reduced notice of Article 14, paragraph 9;
 
@@ -507,7 +509,7 @@ e) the acts of the shared Council are published in accordance with Article 15 an
 
 5.  A qualified majority may not validate a decision incompatible with a mandatory rule or overcome a binding negative opinion pursuant to Article 8.
 
-6.  The minutes shall indicate the initial proposal, the objections, the outcomes of the mediation, any amendments, the quorum, the calculation of the majority and the reasons for the decision.
+6.  The minutes shall indicate the initial proposal, the objections, the outcomes of the mediation, any amendments, the quorum, the calculation of the majority and the reasons for the decision. The minutes are entered in the Register of Assembly Decisions of the Community and, for the General Assembly, of each Community concerned.
 
 ### Art. 13-bis — Conscientious or Ecological Sustainability Objection
 
@@ -521,6 +523,8 @@ e) the acts of the shared Council are published in accordance with Article 15 an
 ### Art. 14 — General Assembly
 
 1.  The General Assembly is the joint deliberation of all the persons entitled to vote of the Base Communities included in the Circle 2 or Circle 3 whose scope is affected by the decision, in accordance with Articles 32 and 34.3 of the Constitution. It is not a permanent body and has no delegates: each person votes individually, through the federated Network or in the local Assemblies. The spokespersons drawn by lot with a binding mandate are responsible for its preparatory inquiry and coordination and do not have a vote of their own.
+
+1-bis. Each Base Community of the Circle draws by lot, from among its suitable volunteers who have reached eighteen years of age, a spokesperson for a cycle of ninety days, within the limits of Article 4.4 of the Constitution; the Assembly of the Community may revoke the spokesperson at any time. The spokespersons convene the General Assembly and publish its agenda, at the request of a Circle 1, of a shared Council or of the Storehouse Council of the Circle, or of one tenth of the persons entitled to vote. When the Codes set a time limit for the General Assembly, convening it is mandatory.
 
 2.  The General Assembly is competent to:
 
@@ -538,7 +542,7 @@ e) the acts of the shared Council are published in accordance with Article 15 an
 
 5.  An extraordinary revision may be initiated, with reasons, on a proposal from the Quality Council or the Accounting Council.
 
-6.  The General Assembly shall be convened with at least twenty-one days’ notice. The resolution is valid when at least three quarters of the Base Communities concerned participate; a Community participates when at least one third of those entitled to vote in it cast a vote.
+6.  The General Assembly shall be convened with at least twenty-one days’ notice. The resolution is valid when at least three quarters of the Base Communities concerned participate; a Community participates when at least one third of those entitled to vote in it take part in the deliberation, abstainers included.
 
 7.  Pursuant to Article 35.2 of the Constitution, approval requires jointly:
 
@@ -568,7 +572,7 @@ e) the acts of the shared Council are published in accordance with Article 15 an
 
 4.  A Circle 2 that has completed the transition joins a contiguous Extended Circle by resolution of its own General Assembly. The Extended Circle verifies only the protocols of technological and logistical interoperability, pursuant to Article 4.5 of the Constitution and Article 21, paragraph 2, of Code 15.
 
-5.  For the purposes of Articles 37 and 38 of the Constitution, an Extended Circle exists from the date of the resolution of paragraph 2 or of paragraph 3, entered in the Register of Assembly Decisions. The Extended Circle resolves through the General Assembly and operates through the shared Councils of Article 12-bis, paragraph 6-bis; it has no other bodies.
+5.  For the purposes of Articles 37 and 38 of the Constitution, an Extended Circle exists from the date of the resolution of paragraph 2 or of paragraph 3, entered in the Register of Assembly Decisions. The Extended Circle resolves through the General Assembly and operates through the spokespersons of Article 14, paragraph 1-bis, the shared Councils of Article 12-bis, paragraph 6-bis, and the Storehouse Council of Article 9-bis of Code 15; it has no other permanent bodies.
 
 ### Art. 15 — Differentiated transparency
 

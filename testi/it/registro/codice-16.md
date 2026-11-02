@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 16 — TRANSIZIONE E AVVIO DELLA CONFEDERAZIONE"
 breve: "Codice 16 — Transizione e avvio"
-versione: "V1.9"
+versione: "V1.10"
 gruppo: "codici"
 ordine: 16
 id: "codice-16"
 slug: "codice-16"
-allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; Codice 4 V1.9; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.8; Codice 14 V1.7; Codice 15 V1.9."
+allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.11; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.12."
 ---
 
 ## Art. 1 — Oggetto, definizioni e natura temporanea
@@ -21,7 +21,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
     c) **Cerchio pilota**: una Comunità di Base, corrispondente al Cerchio 1, istituita ai sensi degli articoli 4–6 della Costituzione per la sperimentazione iniziale;
 
-    d) **Bacino**: un’aggregazione di tre o quattro Cerchi pilota territorialmente contigui ed ecologicamente connessi, corrispondente al Cerchio Intermedio o Cerchio 2 di cui all’articolo 5 della Costituzione;
+    d) **Bacino**: un’aggregazione di almeno tre Cerchi pilota, di norma non più di quattro, territorialmente contigui ed ecologicamente connessi, corrispondente al Cerchio Intermedio o Cerchio 2 di cui all’articolo 5 della Costituzione;
 
     e) **Federazione minima**: un’aggregazione di almeno tre Bacini;
 
@@ -97,13 +97,13 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
     e) è avviata la formazione L1 salvavita di base secondo il Codice 6;
 
-    f) sono istituiti il Cerchio di Garanzia e i Consigli previsti dai Codici attivi, inclusi il Consiglio di Magazzino, il Consiglio Salute e il Consiglio delle Competenze, anche in forma accorpata o condivisa ovvero nei tre Consigli d’area previsti dall’articolo 12-bis, comma 12, del Codice 3;
+    f) sono istituiti il Cerchio di Garanzia e i Consigli previsti dai Codici attivi, inclusi il Consiglio di Magazzino, il Consiglio Salute, che fino all’attivazione del Codice 12 svolge anche le funzioni del Consiglio Cura previste dagli articoli 26.2 e 26.3 della Costituzione e dall’articolo 7-bis del Codice 12, e il Consiglio delle Competenze, anche in forma accorpata o condivisa ovvero nei tre Consigli d’area previsti dall’articolo 12-bis, comma 12, del Codice 3. Se nel Cerchio pilota vivono o sono accolti animali, è istituito anche il Consiglio Biodiversità, anche in forma condivisa, per le sole autorizzazioni dell’articolo 13.3 della Costituzione e dell’articolo 7 del Codice 13;
 
     g) il Cerchio pilota opera secondo la Carta Operativa del Primo Anno.
 
 2.  **Fase 1 — Bacino.** La durata indicativa è da sei a diciotto mesi. In questa fase:
 
-    a) tre o quattro Cerchi pilota contigui si aggregano in un Bacino;
+    a) almeno tre Cerchi pilota contigui, di norma non più di quattro, si aggregano in un Bacino;
 
     b) sono attivati i Codici 7, 8, 9 e 10 e il C.1-Annex A, oltre ai Codici della Fase 0;
 
@@ -113,7 +113,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
     e) sono censiti in via preliminare i suoli candidabili a santuario, in preparazione all’attivazione del Codice 13;
 
-    f) sono attivati i Consigli Rete, Energia e Acqua, Agroecologico, Habitat e Territorio e Produzione;
+    f) sono attivati i Consigli Rete, Energia e Acqua, Agroecologico, Habitat e Territorio, Produzione e Biodiversità; il Consiglio Biodiversità svolge i compiti che gli attribuiscono i Codici 8, 9 e 10, secondo gli articoli 3, 4-bis e 7 del Codice 13, anche in forma condivisa nel Bacino;
 
     g) il Saldo previsto dal Codice 15 è attivato alla scala del Bacino ed è istituito il Consiglio di Magazzino del Bacino previsto dall’articolo 9-bis del Codice 15.
 
@@ -129,7 +129,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
     e) sono censiti le macchine critiche, i DPI e le protezioni collettive secondo il Codice 14;
 
-    f) sono attivati i Consigli Logistica, Cura, Biodiversità e Sicurezza;
+    f) sono attivati i Consigli Logistica, Cura e Sicurezza, e il Consiglio Biodiversità esercita tutte le funzioni del Codice 13;
 
     g) è istituita la prima versione del Registro Dipendenze, integrando i registri dei Codici di settore.
 
@@ -151,15 +151,15 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
     a) il passaggio dalla Fase 0 alla Fase 1 è deliberato congiuntamente dai Cerchi pilota che costituiscono il Bacino, ai sensi dell’articolo 14, comma 10, del Codice 3; il passaggio dalla Fase 1 alla Fase 2 dall’Assemblea Generale dei Bacini che costituiscono la Federazione minima; i passaggi successivi e la chiusura dall’Assemblea Generale della Federazione minima;
 
-    b) il Cerchio pilota che si costituisce o aderisce quando altri sono già in una fase successiva percorre la Fase 0. Superate le soglie dell’articolo 4, comma 1, entra in un Bacino contiguo o ne costituisce uno nuovo. Il Bacino che ha superato le soglie dell’articolo 4, comma 2, entra in una Federazione minima o ne costituisce una nuova con almeno altri due Bacini;
+    b) il Cerchio pilota che si costituisce o aderisce quando altri sono già in una fase successiva percorre la Fase 0. Superate le soglie dell’articolo 4, comma 1, entra in un Bacino contiguo o ne costituisce uno nuovo. Il Bacino che supera così i quattro Cerchi pilota può dividersi in più Bacini contigui, ciascuno di almeno tre Cerchi pilota, con deliberazione della sua Assemblea Generale, senza retrocedere di fase. Il Bacino che ha superato le soglie dell’articolo 4, comma 2, entra in una Federazione minima o ne costituisce una nuova con almeno altri due Bacini;
 
-    c) il Cerchio pilota o il Bacino che entra in un Bacino o in una Federazione minima ne assume la fase quando soddisfa, per la propria parte, le soglie dei passaggi già deliberati da quella. La verifica è svolta dal Consiglio Transizione dell’unità che lo accoglie e non può introdurre valutazioni ulteriori, ai sensi dell’articolo 4.5 della Costituzione. I Codici già attivati si applicano a chi entra dal giorno dell’ingresso, e i termini transitori dei singoli Codici decorrono da quella data;
+    c) il Cerchio pilota o il Bacino che entra in un Bacino o in una Federazione minima ne assume la fase quando soddisfa, per la propria parte, le soglie dei passaggi già deliberati da quella. La verifica è svolta dal Consiglio Transizione dell’unità che lo accoglie e non può introdurre valutazioni ulteriori, ai sensi dell’articolo 4.5 della Costituzione. Se il Bacino che lo accoglie fa parte di una Federazione minima, la verifica è svolta dal Consiglio Transizione di questa; se la Federazione minima ha chiuso la transizione, da un Consiglio Transizione costituito per la sola verifica ai sensi dell’articolo 5, commi 1–3, tra le persone idonee del Cerchio 2 che lo accoglie o, quando entra un Bacino, del Cerchio 3. I Codici già attivati si applicano a chi entra dal giorno dell’ingresso, e i termini transitori dei singoli Codici decorrono da quella data; per le altre unità decorrono dall’attivazione del Codice ai sensi del presente articolo;
 
     d) se la Federazione minima ha già chiuso la transizione, la verifica della lettera c) comprende le soglie dell’articolo 4, commi 3 e 4, e la chiusura della transizione per chi entra è deliberata dalla sua Assemblea Generale ai sensi dell’articolo 10, comma 1; l’ingresso nel Cerchio Esteso segue l’articolo 14-bis, comma 4, del Codice 3;
 
     e) l’ingresso di un nuovo Cerchio pilota o Bacino non fa retrocedere di fase l’unità che lo accoglie;
 
-    f) la Comunità associata ai sensi dell’articolo 21-bis del Codice 15 non percorre le fasi per la propria vita interna e non è tenuta ad attivare i Codici e i Consigli delle fasi, salvo gli strumenti che adotta. Entra in un Bacino, o concorre a costituirlo, quando l’equivalenza al confine è verificata. È contata come Cerchio pilota, se ha almeno trenta persone aderenti, o altrimenti insieme ad altre Comunità associate contigue fino a raggiungere quel numero, ai fini dell’articolo 1, commi 2, lettere a) e d), e 5, degli articoli 3, comma 7, lettera a), e 5, comma 1, e dei rinvii dei Codici al Cerchio pilota che riguardano gli organi comuni e le garanzie delle persone, compreso l’articolo 37 del Codice 4. Le soglie dell’articolo 4 si verificano, per la sua parte, sui dati e sugli impegni che essa rende al confine ai sensi dell’articolo 21-bis, comma 2, del Codice 15; non si applicano a essa le soglie dell’articolo 4, comma 1, e, per la sua parte, quelle sul Bilancio del Lavoro e sul Protocollo di Avvio Sociale, che si verificano sulle altre unità del Bacino. Nel Bacino e nella Federazione minima segue le regole degli strumenti comuni attivati nella fase.
+    f) la Comunità associata ai sensi dell’articolo 21-bis del Codice 15 non percorre le fasi per la propria vita interna e non è tenuta ad attivare i Codici e i Consigli delle fasi, salvo gli strumenti che adotta. Entra in un Bacino, o concorre a costituirlo, quando l’equivalenza al confine è verificata. È contata come Cerchio pilota, se ha almeno trenta persone aderenti, o altrimenti insieme ad altre Comunità associate contigue fino a raggiungere quel numero, ai fini dell’articolo 1, commi 2, lettere a) e d), e 5, degli articoli 3, comma 7, lettera a), e 5, comma 1, e dei rinvii dei Codici al Cerchio pilota che riguardano gli organi comuni e le garanzie delle persone, compreso l’articolo 37 del Codice 4. Le soglie dell’articolo 4 si verificano, per la sua parte, sui dati e sugli impegni che essa rende al confine ai sensi dell’articolo 21-bis, comma 2, del Codice 15; non si applicano a essa le soglie dell’articolo 4, comma 1, e, per la sua parte, quelle sul Bilancio del Lavoro e sul Protocollo di Avvio Sociale, che si verificano sulle altre unità del Bacino; se il Bacino non comprende altre unità, quelle soglie non si applicano. Nel Bacino e nella Federazione minima segue le regole degli strumenti comuni attivati nella fase.
 
 8.  **Due percorsi.** Le Fasi 0–4 dei commi 1–5 sono il percorso dei Cerchi pilota. Accanto a esso, il percorso delle reti segue le Fasi A–E degli articoli 11–20. I due percorsi si incontrano con la conversione dell’articolo 17: da quel momento ogni Cerchio 1 nato da una rete è nella Fase 0, percorre le Fasi 0–4 come un Cerchio pilota, con le soglie dell’articolo 4, e, superate le soglie dell’articolo 4, comma 1, entra in un Bacino, anche già costituito, ai sensi del comma 7, lettere b) e c).
 
@@ -215,7 +215,9 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
     d) il mantenimento documentato del Livello 3 del Protocollo di Avvio Sociale;
 
-    e) Bilanci del Lavoro che rispettino il limite dell’articolo 3 del Codice 1 per quattro trimestri consecutivi oppure, in mancanza, la presentazione di una proposta motivata di revisione di tale limite ai sensi dell’articolo 38 della Costituzione.
+    e) Bilanci del Lavoro che rispettino il limite dell’articolo 3 del Codice 1 per quattro trimestri consecutivi oppure, in mancanza, la presentazione di una proposta motivata di revisione di tale limite ai sensi degli articoli 37 e 38 della Costituzione;
+
+    f) la cessazione dell’uso dei sistemi ammessi ai sensi dell’articolo 9-bis, comma 1, lettera a).
 
 5.  La verifica delle soglie è svolta dal Consiglio Transizione, con parere obbligatorio dei Consigli competenti per materia. Il passaggio di fase costituisce una decisione costitutiva ai sensi dell’articolo 3, comma 3, del Codice 3 ed è deliberato dall’Assemblea Generale indicata dall’articolo 3, comma 7, lettera a), secondo convocazione, quorum e procedura previsti dai Codici 3 e 4. La deliberazione è pubblicata in forma aggregata e non profilante.
 
@@ -338,11 +340,13 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
     b) la gradualità non consente di usare codice chiuso o modelli non open source per le IA Gestionali, per gli algoritmi dell’articolo 2, comma 5, del Codice 7, per l’IA personale e per i sistemi di consultazione e di voto dell’articolo 34.4 della Costituzione;
 
-    c) i sistemi della lettera a) installati presso la Comunità non ricevono aggiornamenti automatici o da remoto; ogni aggiornamento è verificato dal Consiglio Rete prima dell’installazione ed è reversibile, ai sensi dell’articolo 5-ter, comma 7, del Codice 7;
+    c) nessun sistema della lettera a) riceve aggiornamenti automatici o installati da altri che dalla Comunità; ogni aggiornamento è verificato dal Consiglio Rete prima dell’installazione ed è reversibile, ai sensi dell’articolo 5-ter, comma 7, del Codice 7; i sistemi installati presso la Comunità non ricevono aggiornamenti da remoto, e un sistema ospitato su infrastrutture esterne è ammesso soltanto se il programma e i suoi aggiornamenti sono scelti, verificati e installati dalla Comunità;
 
     d) la gradualità cessa per ciascun sistema alla scadenza del suo Piano e, in ogni caso, con la chiusura della transizione.
 
 2.  L’uso di sistemi di cui non è disponibile il codice sorgente segue, durante la transizione e dopo, l’articolo 19.4 della Costituzione, l’articolo 5, comma 2, lettera b), e l’articolo 12, comma 5, del Codice 2.
+
+3.  Fino all’istituzione del Consiglio Rete, il parere dell’articolo 5, comma 3, del Codice 2 e la verifica del comma 1, lettera c), sono resi, anche in deroga all’articolo 8, comma 3, da due persone con competenza informatica L2 o L3, estranee alla proposta e sorteggiate ai sensi dell’articolo 36 del Codice 4, e sono annotati come provvisori ai sensi dell’articolo 8, comma 2; il parere negativo impedisce l’ammissione del sistema. Dalla Fase 0 le consultazioni e le votazioni tramite la Rete seguono l’articolo 7-bis del Codice 7.
 
 ## Art. 10 — Chiusura della transizione, memoria e prevalenza
 
@@ -374,7 +378,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
 4.  Dopo la chiusura della transizione, si applicano le clausole di prevalenza dei Codici di settore, incluse quelle del Codice 10, articolo 10, del Codice 13, articolo 11, e del Codice 14, articolo 10.
 
-5.  I principali collegamenti normativi del presente Codice sono: Costituzione, articoli 1.3, 3.1, 3.2, 3.5-bis, 3.5-ter, 4–6, 10.2, 16.4, 17.9, 19, 23.1, 26, 32, 36.1 e 38; Codice 1, articoli 13–22, 32, 47 e 47-ter; Codice 2, articolo 5; Codice 3, articoli 3, 4, 8, 12, 13–19; Codice 4; Codice 5, articoli 3 e 10; Codice 6, articoli 4 e 11; Codice 7, articoli 2.2, 7 e 7-bis; Codici 8 e 9; Codice C.1-Annex A; Codici 10–14, compreso l’articolo 8-sexies del Codice 14; Codice 15, Capi III e IV.
+5.  I principali collegamenti normativi del presente Codice sono: Costituzione, articoli 1.3, 3.1, 3.2, 3.5-bis, 3.5-ter, 4–6, 10.2, 13.3, 17.9, 19, 23.1, 26, 32, 36.1, 36.2, 36.4, 37 e 38; Codice 1, articoli 13–22, 32, 47 e 47-ter; Codice 2, articolo 5; Codice 3, articoli 3, 4, 8, 12, 13–19; Codice 4; Codice 5, articoli 3 e 10; Codice 6, articoli 4 e 11; Codice 7, articoli 2.2, 7 e 7-bis; Codici 8 e 9; Codice C.1-Annex A; Codici 10–14, compreso l’articolo 8-sexies del Codice 14; Codice 15, Capi III e IV.
 
 ## Art. 11 — Percorso delle reti: fasi e principi
 
@@ -400,7 +404,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
     d) le decisioni, i conti e i dati aggregati sono pubblici ai sensi dell’articolo 2, comma 5, salvo i dati che espongono a rischio le persone o le infrastrutture;
 
-    e) il magazzino di quartiere distribuisce il Paniere d’emergenza a ogni partecipante che ne ha bisogno, per qualsiasi causa, secondo regole pubbliche approvate dall’assemblea della rete e indipendenti dalla scelta dell’articolo 15; la soglia dell’articolo 14 misura soltanto se le scorte bastano a tutti i partecipanti;
+    e) il magazzino di quartiere distribuisce il Paniere d’emergenza a ogni partecipante e alle persone che vivono con lui e dipendono da lui ai sensi dell’articolo 1, comma 2, lettera o), che ne hanno bisogno, per qualsiasi causa, secondo regole pubbliche approvate dall’assemblea della rete e indipendenti dalla scelta dell’articolo 15; la soglia dell’articolo 14 misura soltanto se le scorte bastano a tutti i partecipanti;
 
     f) i servizi essenziali restano aperti a tutti, ai sensi dell’articolo 16.
 
@@ -438,7 +442,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
 2.  **Mappa delle filiere.** Le reti di un territorio fanno insieme la mappa delle filiere essenziali: da dove arrivano cibo, acqua, energia e medicine, quante scorte ci sono e chi sa fare che cosa. La mappa è pubblica in forma aggregata; ne sono esclusi i dati che espongono a rischio le persone o le infrastrutture.
 
-3.  **Patti con chi lavora nelle filiere essenziali.** Chi lavora in una filiera essenziale può firmare un patto con la rete del suo territorio. Con il patto la persona si impegna a continuare il proprio lavoro e a servire chiunque anche se le persone delle reti compiono la scelta dell’articolo 15; la rete si impegna alle tutele dell’articolo 16. Il patto è personale, volontario e revocabile in ogni momento, non contiene penali e non obbliga a nulla di contrario alla legge o al contratto di lavoro. È custodito in forma riservata; sono pubblici soltanto i conteggi aggregati per filiera e per territorio. I dati dei patti sono trattati con il consenso esplicito della persona e nel rispetto della normativa sulla protezione dei dati; sono conservati finché il patto è in vigore e cancellati alla sua revoca o alla conversione.
+3.  **Patti con chi lavora nelle filiere essenziali.** Chi lavora in una filiera essenziale può firmare un patto con la rete del suo territorio. Con il patto la persona si impegna a continuare il proprio lavoro e a servire chiunque anche se le persone delle reti compiono la scelta dell’articolo 15; la rete si impegna alle tutele dell’articolo 16. Il patto è personale, volontario e revocabile in ogni momento, non contiene penali e non obbliga a nulla di contrario alla legge o al contratto di lavoro. È custodito in forma riservata; sono pubblici soltanto i conteggi aggregati per filiera e per territorio. I dati dei patti sono trattati con il consenso esplicito della persona e nel rispetto della normativa sulla protezione dei dati; sono conservati finché il patto è in vigore e cancellati alla sua revoca; alla conversione passano, con il consenso della persona, al Cerchio del suo territorio o sono cancellati.
 
 4.  **Formazione e cambio.** Le reti insegnano le competenze che servono ai bisogni, secondo il Codice 5 in quanto applicabile, e per ogni lavoro essenziale formano in anticipo altre persone che possano dare il cambio, nei limiti delle abilitazioni richieste dalla legge.
 
@@ -472,7 +476,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
 2.  Il boicottaggio non è una regola del presente Codice. È una scelta politica, non violenta e collettiva, che spetta alle persone delle reti con il loro voto ai sensi dell’articolo 14, comma 6. Ciascuna persona decide liberamente se compierla e ne risponde personalmente secondo la legge. Il presente Codice non la prescrive, non la autorizza e non ne regola le forme, salvo il voto dell’articolo 14, comma 6, e dal non compierla non può derivare alcuna conseguenza.
 
-3.  Gli enti delle reti, i gruppi promotori e, dopo la conversione, i Cerchi nati dalle reti e i loro enti non deliberano il boicottaggio, non lo finanziano e non impiegano i beni comuni, i Magazzini o la Cassa comune per atti contrari alla legge. Prima e dopo la scelta delle persone continuano soltanto le attività lecite degli articoli 12, 13, 16 e 18, tra cui i magazzini di quartiere, la distribuzione del Paniere d’emergenza ai partecipanti, le casse di solidarietà, l’assistenza legale e i servizi essenziali aperti a tutti.
+3.  Gli enti delle reti, i gruppi promotori, i Cerchi pilota, compresi quelli nati dalle reti dopo la conversione, le Comunità associate e i loro enti non deliberano il boicottaggio, non lo finanziano e non impiegano i beni comuni, i Magazzini o la Cassa comune per atti contrari alla legge. Prima e dopo la scelta delle persone continuano soltanto le attività lecite degli articoli 12, 13, 16 e 18, tra cui i magazzini di quartiere, la distribuzione del Paniere d’emergenza ai partecipanti e a chi dipende da loro, le casse di solidarietà, l’assistenza legale e i servizi essenziali aperti a tutti.
 
 4.  **Casse di solidarietà e assistenza legale.** Fin dalla Fase A la rete può costituire, presso l’ente dell’articolo 12, comma 3, una cassa di solidarietà e una rete di assistenza legale. Aiutano, nei limiti della legge, chi è in difficoltà, per qualsiasi causa, secondo il bisogno. Le regole dell’aiuto sono pubbliche e l’aiuto non dipende da come la persona ha votato.
 

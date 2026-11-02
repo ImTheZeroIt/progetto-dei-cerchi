@@ -1,7 +1,7 @@
 ---
 titolo: "ANNEXE TECHNIQUE B AU CODE 16 — MANUEL OPÉRATIONNEL DE DÉSENGAGEMENT ET DE FÉDÉRATION"
 breve: "Annexe B au Code 16 — Manuel opérationnel de désengagement et de fédération"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "allegati"
 ordine: 16.2
 id: "codice-16-allegato-b"
@@ -23,7 +23,7 @@ Annexe technique adoptée en application de l’article 19 du Code 3. La présen
 
     c) l’article 6 s’applique au parcours de la Phase 2 à la Phase 3 ;
 
-    d) l’article 7 régit la diffusion extérieure postérieure à la transition et ne constitue pas une Phase 4 du Code 16.
+    d) l’article 7 régit la diffusion extérieure pendant la transition, demeure un guide technique après la clôture et ne constitue pas une Phase 4 du Code 16.
 
     Aucun délai opérationnel ne peut autoriser le passage à une phase institutionnelle avant le franchissement des seuils correspondants du Code 16.
 
@@ -187,9 +187,9 @@ Annexe technique adoptée en application de l’article 19 du Code 3. La présen
 
     d) la crise ou l’interruption des activités d’un bloc n’entraîne pas automatiquement l’interruption des autres blocs. Des mesures de continuité cohérentes avec le Panier et avec les Codes applicables sont prévues.
 
-## Art. 7 — Diffusion extérieure postérieure à la transition
+## Art. 7 — Diffusion extérieure
 
-1.  Le présent article régit une activité de diffusion extérieure postérieure à la transition. Il ne constitue pas une phase du Code 16 et ne modifie pas la définition de la Phase 4, qui correspond dans le Code 16 à la clôture.
+1.  Le présent article régit la diffusion extérieure pendant la transition ; après la clôture, il demeure un guide technique sans effets normatifs. Il ne constitue pas une phase du Code 16 et ne modifie pas la définition de la Phase 4, qui correspond dans le Code 16 à la clôture.
 
 2.  La diffusion extérieure est évaluée sur la base de l’adoption volontaire de solutions pour un avantage fonctionnel mesurable et ne requiert pas l’adhésion universelle.
 
@@ -211,9 +211,9 @@ Annexe technique adoptée en application de l’article 19 du Code 3. La présen
 
 1.  Les initiatives opérationnelles prévues par la présente Annexe sont suspendues, en ce qui concerne la proposition de passage ou l’activité de réduction des dépendances, lorsque l’une des conditions suivantes est remplie :
 
-    a) le Panier 1-2 n’est pas garanti pendant trois mois consécutifs ;
+    a) le Panier 1-2 n’est pas garanti pendant trois mois consécutifs dans un Cercle pilote de l’unité qui propose le passage ;
 
-    b) plus de vingt pour cent des réponses valables au questionnaire anonyme sur la sécurité ressentie sont négatives ;
+    b) plus de vingt pour cent des réponses valables au questionnaire anonyme sur la sécurité ressentie sont négatives dans un Cercle pilote de l’unité qui propose le passage ;
 
     c) un incident R4 survient qui n’a pas été géré selon les procédures applicables ou pour lequel l’analyse des causes requise fait défaut ;
 
@@ -231,7 +231,7 @@ Annexe technique adoptée en application de l’article 19 du Code 3. La présen
 
     d) pour la condition visée à l’alinéa 1, lettre d), le Conseil Transition, après avis juridique professionnel.
 
-4.  Lors du redémarrage, les conditions de la Phase 0 pertinentes au regard de la cause de la suspension sont vérifiées de nouveau. Les résultats antérieurs qui ne sont pas affectés par la cause restent valables.
+4.  Lors du redémarrage, les conditions de la phase en cours pertinentes au regard de la cause de la suspension sont vérifiées de nouveau. Les résultats antérieurs qui ne sont pas affectés par la cause restent valables.
 
 5.  Le redémarrage est délibéré par l’Assemblée générale, après avis obligatoire des Conseils compétents, et publié conformément à l’article 15 du Code 3. Lorsque la suspension pour la condition de l’alinéa 1, lettre b), ne concerne que la proposition de passage de phase, la proposition reprend avec le résultat positif de la nouvelle vérification de l’alinéa 3, lettre a), sans délibération distincte de redémarrage.
 

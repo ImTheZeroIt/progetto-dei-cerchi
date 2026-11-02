@@ -6,9 +6,135 @@ De aquí en adelante, cada cambio aceptado se anotará en esta página con la fe
 
 # Cambios
 
+## 2 de noviembre de 2026 — Quien se abstiene no está entre los votantes
+
+Elección del autor. La Constitución y el Código 3 hablaban de «votantes» sin decir si las personas que se abstienen forman parte de ellos, y la Constitución (art. 35.1) exigía la «mayoría de los participantes» mientras que el Código 3 exigía la de los «participantes activos».
+
+**Definición de votantes** (Const., nuevo art. 35.4 y art. 35.1; Cód. 3, art. 12.3 nueva letra d). Son votantes las personas que votan sí o no. Quien se abstiene toma parte en la deliberación y cuenta para el quórum, pero no se computa entre los votantes ni en el cálculo de las mayorías. Vale para todos los umbrales que se refieren a los votantes: la mayoría simple del Círculo 1, las firmas para la Objeción de Conciencia o de Sostenibilidad Ecológica (10 % de los votantes), las mayorías de la Asamblea General, del Círculo 4 y de las reformas de la Constitución.
+
+**Participación de las Comunidades en la Asamblea General** (Cód. 3, art. 14.6). Una Comunidad participa cuando al menos un tercio de sus personas con derecho a voto toma parte en la deliberación, incluidas las que se abstienen.
+
+Versiones: Constitución de V.37 a V.38; Código 3 de V1.10 a V1.11. Líneas de alineación actualizadas en todos los textos.
+
+## 1 de noviembre de 2026 — Segunda verificación de coherencia: territorio, sistemas, transición
+
+Segunda parte de la segunda verificación de coherencia completa. Se aplican todos los puntos que se sostienen de los informes sobre territorio y recursos, sistemas y transición: 42 puntos (1 alto, 17 medios, 24 bajos), con 60 modificaciones en 15 textos. Las elecciones de valor son del autor.
+
+**Animales en las Fases 0 y 1** (Cód. 16, art. 3.1 f, 3.2 f y 3.3 f; Anexo C, art. 9.3). Si en el Círculo piloto viven o se acogen animales, el Consejo de Biodiversidad se instituye desde la Fase 0 para las autorizaciones de la Const. 13.3. Desde la Fase 1 desempeña las funciones que le dan los Códigos 8, 9 y 10; desde la Fase 2 tiene todas las funciones del Código 13.
+
+**Protección de los menores en las Fases 0 y 1** (Cód. 16, art. 3.1 f; Cód. 15, art. 21-bis.5 e). Hasta la activación del Código 12, el Consejo de Salud desempeña las funciones del Consejo de Cuidado previstas en la Const. 26.2 y 26.3, también para la Comunidad asociada. Durante la transición la separación de un menor en una Comunidad asociada corresponde al Estado, como en los demás Círculos (Cód. 12, art. 7-bis.3-ter).
+
+**El animal después de la entrada del Cuerpo** (Cód. 13, art. 7.3 y nuevo 7.3-bis, art. 11.4 c; Cód. 14, art. 8-ter.3). El Consejo de Biodiversidad puede disponer una acogida provisional por no más de treinta días, que el Tribunal de Garantía convalida junto con la entrada; la acogida estable la decide el Tribunal. El nuevo apartado no permite entradas en un Círculo 0 más allá de la Const. 5.1 a).
+
+**Zoonosis** (Cód. 13, nuevo art. 8.7, art. 7.10). Sobre los animales solo se admiten la separación o el aislamiento temporal, los cuidados y las vacunaciones, la higiene de los espacios y la limitación de los contactos. Se prohíbe matar a los animales, salvo la eutanasia ya regulada.
+
+**Alimento y cuidados de los animales** (Cód. 1, nuevo art. 32.1-sexies; Cód. 13, arts. 4-bis.6 y 7.11). Elección del autor: el alimento mínimo para la supervivencia y la atención veterinaria urgente de los animales que viven con la Comunidad, incluidos los santuarios, entran en las emergencias vitales de la letra a), sin quitar nada a los niveles 1 y 2 de la Cesta de las personas, como el agua (Cód. 9, art. 10.8).
+
+**Energía y agua en los Círculos 2 y 3** (Cód. 8, nuevo art. 3-bis, art. 6-bis.7). El almacenamiento, el equilibrio, la compensación y el despacho se confían a un Consejo de Energía y Agua compartido. Las extracciones de una misma cuenca hidrográfica las delibera la Asamblea General o, si la cuenca comprende Círculos 2 distintos, sus Asambleas Generales de forma concordante.
+
+**Animales, agua y santuarios** (Cód. 9, arts. 6-bis.6, 10.8 y 10.9; Cód. 13, arts. 3.3, 4.1 c, 4-bis.5 y 11.3 e; Cód. 10, art. 4.1 g). La verificación de los animales presentes en la adhesión tiene un solo plazo, doce meses, y mientras tanto los animales permanecen con la Comunidad sin colaborar. Los animales ya acogidos solo se trasladan por su bienestar, con la certificación veterinaria. El destino del área del santuario lo decide el Círculo 1 en cuyo territorio se encuentra. El dictamen negativo del Consejo de Biodiversidad sobre las nuevas captaciones es vinculante. La STV Gestión de la Fauna tiene un plazo.
+
+**Acaparamiento de energía** (Cód. 8, art. 9.2). La acumulación por encima de los límites y el chantaje energético son una infracción de Grado 4, como dice la Const. 15.2, y no un «vicio de procedimiento grave».
+
+**Defensa y transición** (Cód. 14, arts. 8-quinquies.6 y 8-sexies.8; Cód. 15, art. 20.4). Durante la transición también la entrada del Cuerpo en un Círculo 0 sin consentimiento está limitada por la ley vigente. Un animal agredido por otro animal puede protegerse de la misma forma gradual, sin matar. La defensa civil del Cód. 15 vale dentro de los límites de la ley y se excluye el sabotaje.
+
+**Sistemas en servidores externos** (Cód. 16, art. 9-bis.1 c). Elección del autor: solo se admiten si el programa y sus actualizaciones los elige, verifica e instala la Comunidad. La Const. 19.4 no cambia.
+
+**Verificaciones antes del Consejo de la Red** (Cód. 16, nuevo art. 9-bis.3). En la Fase 0 el dictamen sobre las dependencias y la verificación de las actualizaciones los emiten, con carácter provisional, dos personas competentes sorteadas; su dictamen negativo sigue siendo una prohibición. Desde la Fase 0 el voto a través de la Red sigue el Cód. 7, art. 7-bis.
+
+**Soberanía tecnológica** (Cód. 2, art. 5.2 b; Cód. 11, art. 5.7 a y 5.8; Cód. 7, arts. 2.1, 5-ter.1 y 7-bis; Cód. 1, art. 37.1; Cód. 16, art. 4.4 f). El firmware que ejecuta órdenes o automatizaciones dotadas de STV no «propone ni decide» en el sentido de la Const. 19.4. Los vehículos con firmware cerrado siguen el Plan de Sustitución del Código 2, con una sola prórroga. La nube propietaria solo se admite durante la transición, y para cerrarla deben retirarse los sistemas admitidos con la gradualidad. El software con el que se vota es de código abierto y la urna está en los nodos de las Comunidades. Para el Almacén, el agua y la energía la IA de Comunidad es solo consultiva.
+
+**Registros y remisiones** (Cód. 3, art. 13.6; Cód. 7, art. 3.2 e; Cód. 11, art. 6-quater.3; Cód. 16, arts. 4.4 e y 10.5). Se instituye el Registro de las Decisiones de la Asamblea; el registro del Código 4 lleva su nombre; el protocolo ferroviario sigue el art. 14 del Código 3; la revisión sigue también la Const. 37; se actualiza la lista de vínculos del Código 16.
+
+**Cesta de emergencia y boicot** (Cód. 16, arts. 11.2 e y 15.3). La Cesta de emergencia va también a los niños y a las personas a cargo de los participantes. La prohibición de deliberar o financiar el boicot vale también para los Círculos piloto y las Comunidades asociadas: el boicot sigue siendo solo una decisión política de las personas y el Código regula solo actividades lícitas.
+
+**Cuencas e ingresos** (Cód. 16, arts. 1.2 d, 3.2 a, 3.7 b, c y f; Cód. 15, art. 21-bis.6). Una Cuenca tiene por regla general no más de cuatro Círculos y, si los supera, puede dividirse sin retroceder de fase. Quien entra en una Cuenca que ya está en la Fase 2, o en una Federación que ha cerrado la transición, lo verifica el Consejo de Transición de la Federación o uno constituido solo para esa verificación. Los plazos de los Códigos activados por fases corren desde su activación. Antes de que exista una Cuenca, las funciones del Círculo 2 respecto de la Comunidad asociada las ejercen los Círculos piloto y las Comunidades asociadas implicados y los colegios del Cód. 4, art. 37.5. En una Cuenca formada solo por Comunidades asociadas no se aplican los umbrales «sobre las demás unidades».
+
+**Anexos al Código 16** (Anexo A, arts. 2.2 y 4.5; Anexo B, arts. 1.2 d, 7 y 8; Anexo C, art. 10.1; Cód. 16, art. 13.3). El cuestionario sobre la seguridad percibida y la garantía de la Cesta se cuentan por Círculo piloto. Para el Círculo nacido de una red, los encuentros del Nivel 1 se celebran dentro de los noventa días siguientes a la conversión. En la reanudación se verifican las condiciones de la fase en curso. La difusión externa del Anexo B vale durante la transición. La verificación de los umbrales la realiza el Consejo de Transición. Los datos de los pactos con quienes trabajan en las cadenas de suministro esenciales pasan, con el consentimiento de la persona, al Círculo de su territorio.
+
+**Núcleo y legalidad.** Ninguna modificación toca la Constitución, el art. 37.4 ni los artículos que nombra. El nuevo art. 7.3-bis del Cód. 13 y el art. 8-quinquies.6 del Cód. 14 no amplían la excepción de la Const. 5.1 a). La Const. 38.6 no cambia.
+
+Razón: informes de la segunda verificación de coherencia (`territorio`, `sistemi`, `transizione`), con las elecciones del autor sobre el alimento y los cuidados de los animales y sobre los sistemas alojados en servidores externos. Con la parte 1, la segunda verificación completa se aplica íntegramente (VERIFICA-COERENZA.md).
+
+Versiones: Código 1 de V1.11 a V1.12; Código 2 de V1.8 a V1.9; Código 3 de V1.9 a V1.10; Código 7 de V1.9 a V1.10; Código 8 de V1.6 a V1.7; Código 9 de V3.3 a V3.4; Código 10 de V1.7 a V1.8; Código 11 de V1.5 a V1.6; Código 13 de V1.8 a V1.9; Código 14 de V1.9 a V1.10; Código 15 de V1.11 a V1.12; Código 16 de V1.9 a V1.10; Anexos A y C al Código 16 de V1.3 a V1.4; Anexo B de V1.6 a V1.7. La Constitución sigue en V.37.
+
+## 1 de noviembre de 2026 — Segunda verificación de coherencia: poder, economía, personas
+
+Primera parte de la segunda verificación de coherencia completa, que busca los efectos cruzados de las correcciones hechas entre el 19 y el 29 de octubre. Se aplican los puntos que se sostienen de los informes sobre poder y justicia, economía y trabajo, y personas. Las elecciones de valor son del autor.
+
+**El joven que sale a los dieciséis años** (Const. 26.5 y 4.9-ter; Cód. 12, art. 7-ter.8; Cód. 1, arts. 13.3 y 47.3-bis; Cód. 4, art. 32-bis.2 a). Puede quedarse en la casa familiar, con el consentimiento de quienes viven allí, hasta los dieciocho años: recibe la Cesta para sí y no se le aplica el art. 4.9-ter. A los dieciocho años elige si adherirse, vivir con el Pacto o irse; el silencio no vale como adhesión. Su permanencia no es la hospitalidad del art. 4.9 b), que no cambia.
+
+**Cómo se hace miembro un niño** (Cód. 12, nuevo art. 7-ter.4-bis). Es miembro desde el nacimiento, o desde su llegada, si lo es al menos una de las personas que lo cuidan; si no, se adhiere con las reglas de edad del art. 26.5. Ha «crecido en la Confederación» quien ha sido miembro siendo menor durante al menos un año.
+
+**Hijos de los convivientes de las Comunidades asociadas** (Cód. 15, art. 21-bis.9, nueva letra g). Tienen los mismos derechos que los hijos de quien vive con el Pacto y, para las necesidades vitales inmediatas, la cobertura de los déficits por el Pool.
+
+**Menor al que nadie cuida** (Cód. 12, art. 7-bis.3-bis). El Tribunal de Garantía decide también cuando nadie ejerce la responsabilidad del cuidado o varias personas se la disputan, e indica quién la asume.
+
+**Medidas coercitivas sobre menores** (Cód. 6, art. 2-ter.2; Cód. 12, art. 9.1 g). Quien presta el consentimiento por un menor no puede consentir una medida coercitiva: se aplican los límites del art. 8 del Código 6, como para los adultos.
+
+**Edad mínima para los cargos por sorteo** (Cód. 3, art. 12-bis.4; Cód. 4, art. 27.4; Cód. 14, art. 8-bis.3; Cód. 5, art. 6.4). Dieciocho años para los Consejos, los órganos de la justicia, el Cuerpo de Tutela Cívica y los portavoces; a partir de los dieciséis se participa como acompañante, sin voto (en el Cuerpo, sin contención ni uso de la fuerza).
+
+**Apoyo para iniciar la vida autónoma** (Cód. 1, nuevo art. 49.6; Cód. 15, art. 17.3). Comprende al menos la CBO puente y la dotación de Casa Puente; para quien deja la Confederación, los Bienes de Uso Personal, los medios para el traslado y una suma de la Caja común fijada cada año por la Asamblea. Lo propone el Consejo de Cuidado; recurso ante el Círculo de Garantía.
+
+**Quien salió siendo menor** (Cód. 5, art. 6.6-bis). Puede elegir en cualquier momento como readmisión; el silencio no lo hace miembro.
+
+**Readmisión de quien queda exento** (Cód. 4, art. 29.6-bis f). Quien perdió la condición de miembro por rechazar la CBO y entretanto está exento o impedido es readmitido sin otra condición.
+
+**Autonomía del menor en la Comunidad asociada** (Cód. 15, art. 21-bis.5 e). En la valoración participa también el Consejo de las Competencias, como en el Código 12.
+
+**Experimentación sanitaria** (Cód. 6, art. 10.5 y 10.7 e). La prohibición sin consentimiento vale para toda persona. En el caso excepcional de un solo menor o persona incapaz, autoriza el Tribunal de Garantía, de forma reservada, en siete días o veinticuatro horas, en lugar de la Asamblea General.
+
+**Energía esencial** (Cód. 1, art. 13.3; Cód. 4, art. 29.6-bis d). También quien perdió la condición de miembro por rechazar la CBO conserva la energía esencial para la salud y la supervivencia (Const. 15.2; Cód. 8, art. 4.2).
+
+**Convivientes de las Comunidades asociadas y bienes comunes** (Const. 4.5; Cód. 15, art. 21-bis.9 a). El Pool cubre también para ellos el agua, la atención de urgencia y la energía esencial; por lo demás, sus necesidades no entran en el cálculo del déficit. No hacen retiradas de los Almacenes de las demás Comunidades y de los Círculos 2 y 3; lo que reciben de la Comunidad que los acoge, también de su Almacén, corre a cargo de esta.
+
+**Servicios externos** (Cód. 2, art. 23.1 e). Como para los bienes (punto C61), el Consejo de Calidad propone y decide el órgano indicado por la matriz del Código 3.
+
+**Recursos sobre el Pool** (Cód. 15, art. 9-bis.6). Contra las decisiones de asignación, la verificación del Colegio de Reexamen sustituye al recurso del Cód. 3, art. 17.1-bis, que queda solo para los vicios de procedimiento y de competencia.
+
+**Método UCR** (Cód. 3, art. 9.3; borrador UCR, sección 2). Lo propone el Consejo de Contabilidad compartido del Círculo 2; para el Círculo 3 y entre Círculos 2 distintos se aplica el método aprobado por el Círculo 3 o, en su defecto, el del Círculo 2 que custodia el recurso. En el borrador, el coeficiente de horas por euro forma parte del método; solo son indicativas las conversiones de UCR a euros.
+
+**Palabras** (Const. 10.5 y 32.2; C.1-Annex A, art. 5.5; Cód. 1, arts. 44.6 y 47-ter.4 a). «Unión» pasa a ser «Círculo superior» y «Círculo Intermedio». La excepción del Annex A la concede la Asamblea del Círculo 1, salvo «riesgo colectivo inmediato y documentado» (ya no «emergencia extrema»). Las CdR quedan suspendidas también en la suspensión dispuesta por el Plan del Grado 3. La Casa Puente para quien no tiene vivienda no tiene límite de duración, incluso más allá de los treinta días de la dotación.
+
+**Convivientes y justicia** (Cód. 4, art. 32-bis, nuevo apartado 1-bis, art. 32-bis.2 a, art. 37.1). Al conviviente de una Comunidad asociada no se le aplican las medidas ligadas a la condición de miembro; en su lugar, el Tribunal puede disponer el alejamiento protector de la Comunidad, con la oferta del Pacto en otro lugar. El procedimiento de alejamiento del 4.9-ter no se le aplica. Durante la transición el Capítulo V vale para él si lo acepta con la acogida.
+
+**El Cuerpo de Tutela Cívica donde no lo hay** (Cód. 14, art. 8-bis.1; Cód. 15, art. 21-bis.5 f). Para la Comunidad asociada que no tiene un Cuerpo, el Círculo 2 activa a los integrantes de turno de las Comunidades más cercanas. El órgano interno que hace las veces del Cuerpo sigue las reglas del Cuerpo, y su entrada en un Círculo 0 la convalida el Tribunal.
+
+**Asamblea General y portavoces** (Cód. 3, nuevo art. 14.1-bis, art. 14-bis.5). Cada Comunidad sortea un portavoz para un ciclo de noventa días, revocable por su Asamblea. Los portavoces convocan la Asamblea General a petición de un Círculo 1, de un Consejo compartido, del Consejo de Almacén o de una décima parte de las personas con derecho a voto; cuando un Código fija un plazo, la convocatoria es obligatoria. El informe proponía un año: la Const. 4.4 a), que forma parte del Núcleo, no permite más de noventa días.
+
+**Convalidación de la entrada del Cuerpo** (Cód. 4, nuevo art. 34.2-bis; Cód. 14, arts. 8-ter.3 y 10.1 a). Queda escrito qué verifica el Tribunal cuando el Cuerpo entra en un Círculo 0, también por un animal, y qué puede disponer.
+
+**Segundo Tribunal y Colegio de Reexamen** (Const. 31.6 y 31.3 e; Cód. 4, art. 37.5). Mientras exista un solo Círculo 2, el segundo Tribunal se sortea según el Código 4; una vez constituida la Cuenca, prevalece el art. 35.2. El Colegio de Reexamen realiza también las verificaciones que le atribuyen los Códigos.
+
+**Órganos comunes y Comunidades asociadas** (Cód. 15, arts. 21-bis.5 c y 9-bis.2; Cód. 3, art. 12-bis.6-bis a). La negativa a la contribución de trabajo la tratan los órganos comunes desde el primer aviso; la suspensión de las CdR solo donde se han adoptado las CdR. Los integrantes del Consejo de Almacén de los Círculos 2 y 3 pueden ser revocados también por su Comunidad. En los Consejos compartidos las Comunidades asociadas entran en las mismas condiciones, con sus órganos internos equivalentes.
+
+**Registro.** En la entrada del 29 de octubre de 2026 se precisa que la excepción del art. 5.1 a) la protege el Núcleo, mientras que la de los convivientes remite al art. 4.5 y al Código 15, que pueden modificarse con sus propios procedimientos, y que desde el 1 de noviembre de 2026 vale también la excepción del art. 26.5 para los menores.
+
+**Núcleo Inviolable.** Ninguna modificación toca el art. 37.4 ni los artículos que nombra. El art. 4.9-ter recibe solo una remisión al art. 26.5; por prudencia se trata, como las modificaciones del 29 de octubre, como una reescritura del texto antes de cualquier adhesión (Const. 38.1).
+
+Razón: informes de la segunda verificación de coherencia (`potere`, `economia`, `persone`), con las elecciones del autor sobre la salida a los dieciséis años y sobre la edad para el sorteo. Los puntos sobre territorio, sistemas y transición siguen aparte.
+
+Versiones: Constitución de V.36 a V.37; Código 1 de V1.10 a V1.11; C.1-Annex A de V1.6 a V1.7; Código 2 de V1.7 a V1.8; Código 3 de V1.8 a V1.9; Código 4 de V1.9 a V1.10; Código 5 de V1.6 a V1.7; Código 6 de V1.8 a V1.9; Código 12 de V1.6 a V1.7; Código 14 de V1.8 a V1.9; Código 15 de V1.10 a V1.11.
+
+## 29 de octubre de 2026 — Núcleo Inviolable: animales en el Círculo 0; convivientes en las Comunidades asociadas
+
+**Animales en el Círculo 0** (Const. 5.1 a; Cód. 14, art. 8-ter.2 y 8-ter.3, art. 8-sexies.8). El Cuerpo de Tutela Cívica puede entrar en un Círculo 0, incluso sin el consentimiento de quienes viven en él, para hacer cesar un maltrato en curso que pone en peligro la vida de un animal o le causa graves sufrimientos. Interviene, cuando es posible, con la función de Socorro Sanitario y Veterinario de Comunidad, se limita a hacer cesar el maltrato y a socorrer al animal, y la entrada la convalida el Tribunal de Garantía en un plazo de veinticuatro horas, como la que protege a las personas; para ello puede usar la contención no lesiva. Quien presencia un maltrato tan grave en un Círculo 0 llama al Cuerpo, además de comunicarlo al Consejo de Biodiversidad y al Círculo de Garantía. Quien no forma parte del Cuerpo sigue sin poder entrar sin consentimiento para defender a un animal.
+
+**Convivientes en las Comunidades asociadas** (Const. 4.5, 4.9 b y 4.9-ter; Cód. 15, art. 21-bis.8 y nuevo 21-bis.9). Quien vive de forma estable en una Comunidad asociada sin adherirse puede quedarse según el ordenamiento interno. Está a cargo de la Comunidad que lo acoge: no hace retiradas de los Almacenes Comunes ni del Pool y no recibe CdR. La cuota de trabajo de la Comunidad en la frontera se calcula sobre todas las personas que viven en ella, miembros y no miembros. No vota en las Asambleas Generales y no entra en las listas de sorteo de los órganos comunes. Conserva las garantías del art. 1.3 y el recurso a los órganos comunes; el trabajo que realiza para la Comunidad es voluntario y no puede exigirse. Puede adherirse en cualquier momento y se le informa por escrito cada año de este derecho. Si quienes no se adhieren son más que los miembros, el Círculo 2 verifica cada año que no haya explotación. En todos los demás casos, también cuando el ordenamiento interno ya no acoge a la persona, el límite de catorce días de la hospitalidad (art. 4.9 b) y el art. 4.9-ter no cambian. Desde el 1 de noviembre de 2026 vale también la excepción del art. 26.5 para el menor que permanece en su Círculo 0 tras la salida.
+
+**Modificación del Núcleo Inviolable.** El art. 5.1 a) forma parte del Núcleo Inviolable (Const. 37.4 f), y también el art. 4.9 (37.4 j). El Núcleo no puede revisarse (Const. 37.4 y 38.4): no es una revisión, sino una reescritura del texto hecha por el autor antes de toda adhesión, posible solo porque el sistema todavía no ha sido adoptado por ninguna Comunidad y la Constitución no está en vigor para ninguna Comunidad (Const. 38.1). Es el mismo camino seguido el 19 de octubre de 2026 para la entrada C1-bis. Después de la primera adhesión ya no podría hacerse. Las dos excepciones se escriben de la forma más reducida: una frase en el art. 5.1 a) y, en los arts. 4.9 b) y 4.9-ter, una remisión al art. 4.5. Una vez en vigor, la excepción del art. 5.1 a) la protege el Núcleo: una revisión no podrá ampliarla; la de los convivientes remite al art. 4.5 y al Código 15, que pueden modificarse con sus propios procedimientos, pero no puede valer fuera de las Comunidades asociadas (precisión del 1 de noviembre de 2026).
+
+**Registros y preguntas frecuentes.** En la entrada del 26 de octubre de 2026 se anota que las dos propuestas que entonces no se aplicaron se aplican ahora. En la pregunta «¿Cómo está hecha?», la Comunidad entra en el Núcleo de Cuidado para proteger a alguien «o, en los casos graves, a un animal».
+
+Razón: decisiones del autor sobre la entrada D4 del informe sobre la defensa personal y sobre la entrada M1, segunda parte, del informe sobre las Comunidades asociadas (revisión de coherencia del 26 de octubre de 2026). Hasta ahora, nadie podía proteger a un animal gravemente maltratado dentro de una casa: el Código remitía al Cuerpo, que no podía entrar. Y quien vive desde hace años en una comunidad que se asocia, sin adherirse, por ejemplo un cónyuge, habría tenido que irse a los catorce días o pedir el Pacto de Convivencia Autónoma. El Núcleo Inviolable se reescribe solo porque el sistema todavía no ha sido adoptado por ninguna Comunidad (Const. 38.1).
+
+Versiones: Constitución de V.35 a V.36, Código 14 de V1.7 a V1.8, Código 15 de V1.9 a V1.10.
+
 ## 29 de octubre de 2026 — Traducción española de las reglas
 
 La Constitución, los dieciséis Códigos y los cuatro Anexos se han traducido al español (`testi/es/registro/`) y se publican en el sitio con este registro (`CAMBIOS.md`) y con los archivos PDF y ODT para descargar; las respuestas a las preguntas en español llevan ahora a los artículos españoles. Ninguna regla cambia en el fondo. Es una traducción de trabajo, que deben revisar hablantes nativos de español; los términos están fijados en `testi/es/GLOSARIO.md`. El texto de referencia es el italiano.
+
+También están traducidas las páginas de servicio: el registro de parámetros por verificar, los tres borradores técnicos (Cesta, UCR, CdR), el archivo de las propuestas y su verificación contraria (`testi/es/borradores/`); la versión española del sitio enlaza ahora estas páginas. La verificación de coherencia sigue en italiano, como para el inglés y el francés.
 
 ## 27 de octubre de 2026 — Código 3: aprobación del Anexo UCR; borradores técnicos alineados
 
@@ -71,7 +197,7 @@ Una revisión de coherencia específica volvió a leer las novedades del 19–26
 
 **Registros y preguntas frecuentes.** Se corrige la descripción de la regla sobre los objetos en la entrada del 20 de octubre sobre la defensa personal. Se corrige la pregunta frecuente «¿Una comunidad que ya existe debe cambiar su modo de vivir para entrar?».
 
-Razón: revisión de coherencia específica del 26 de octubre de 2026; decisiones del autor sobre las Comunidades asociadas, el Pool, el Bien Común vital y el animal que agrede. El Núcleo Inviolable y la Const. 38.6 no se tocan. No se aplican dos propuestas que habrían tocado el Núcleo: la entrada del Cuerpo en un Círculo 0 por un animal (Const. 5.1 a) y la excepción al límite de hospitalidad del art. 4.9 para quien vive en una Comunidad asociada sin adherirse.
+Razón: revisión de coherencia específica del 26 de octubre de 2026; decisiones del autor sobre las Comunidades asociadas, el Pool, el Bien Común vital y el animal que agrede. El Núcleo Inviolable y la Const. 38.6 no se tocan. No se aplican dos propuestas que habrían tocado el Núcleo: la entrada del Cuerpo en un Círculo 0 por un animal (Const. 5.1 a) y la excepción al límite de hospitalidad del art. 4.9 para quien vive en una Comunidad asociada sin adherirse. Las dos propuestas se aplicaron, con una reescritura del Núcleo antes de toda adhesión, en la entrada del 29 de octubre de 2026.
 
 Versiones: Constitución de V.34 a V.35, Código 1 de V1.9 a V1.10, Código 4 de V1.8 a V1.9, Código 13 de V1.7 a V1.8, Código 14 de V1.6 a V1.7, Código 15 de V1.8 a V1.9, Código 16 de V1.8 a V1.9, Anexo C del Código 16 de V1.2 a V1.3.
 
@@ -273,7 +399,7 @@ Versiones: Constitución de V.29 a V.30, Código 1 de V1.6 a V1.7, Código 4 de 
 
 ## 19 de octubre de 2026 — C.1-Annex A, art. 4, apartados 1 y 3, y nuevo apartado 1-bis; Código 1, art. 32, nuevo apartado 1-bis (propuesta 1)
 
-Vestido e higiene en la Cesta Material. El texto aceptado es el de la [propuesta 1, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html#proposta-1--vestiario-e-igiene-nel-paniere-materiale).
+Vestido e higiene en la Cesta Material. El texto aceptado es el de la [propuesta 1, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/es/registro/propuestas.html#proposta-1--vestiario-e-igiene-nel-paniere-materiale).
 
 Razón: la ropa y los productos de higiene son bienes necesarios para cualquiera, y ninguna Cesta los nombraba.
 
@@ -281,7 +407,7 @@ Discusión: no se recibió ninguna observación hasta el 19 de octubre de 2026 (
 
 ## 19 de octubre de 2026 — Código 1, nuevo art. 47-bis (propuesta 2)
 
-Estándares de la vivienda adecuada. El texto aceptado es el de la [propuesta 2, versión 4](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html#proposta-2--standard-dellalloggio-adeguato).
+Estándares de la vivienda adecuada. El texto aceptado es el de la [propuesta 2, versión 4](https://imthezeroit.github.io/progetto-dei-cerchi/es/registro/propuestas.html#proposta-2--standard-dellalloggio-adeguato).
 
 Razón: la Constitución garantiza la vivienda, pero ningún texto decía qué la hace adecuada.
 
@@ -289,7 +415,7 @@ Discusión: no se recibió ninguna observación hasta el 19 de octubre de 2026 (
 
 ## 19 de octubre de 2026 — Código 7, art. 3, nuevo apartado 9; Código 5, art. 2, nuevo apartado 4-bis (propuesta 3)
 
-Conectividad y materiales para aprender. El texto aceptado es el de la [propuesta 3, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html#proposta-3--connettività-e-materiali-per-apprendere).
+Conectividad y materiales para aprender. El texto aceptado es el de la [propuesta 3, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/es/registro/propuestas.html#proposta-3--connettività-e-materiali-per-apprendere).
 
 Razón: la conectividad es un derecho, pero el Código 7 no decía con qué se ejerce.
 
@@ -297,7 +423,7 @@ Discusión: no se recibió ninguna observación hasta el 19 de octubre de 2026 (
 
 ## 19 de octubre de 2026 — Código 8, art. 4, apartado 4 (propuesta 4)
 
-Valor de primera aplicación de la Cesta de Energía. El texto aceptado es el de la [propuesta 4, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html#proposta-4--valore-di-prima-applicazione-del-paniere-energia).
+Valor de primera aplicación de la Cesta de Energía. El texto aceptado es el de la [propuesta 4, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/es/registro/propuestas.html#proposta-4--valore-di-prima-applicazione-del-paniere-energia).
 
 Razón: la Cesta de Energía enumeraba los servicios garantizados sin ningún valor mínimo.
 
@@ -305,7 +431,7 @@ Discusión: no se recibió ninguna observación hasta el 19 de octubre de 2026 (
 
 ## 19 de octubre de 2026 — Código 1, art. 43, nuevo apartado 1-bis (propuesta 5)
 
-CdR por las actividades culturales ofrecidas a la Comunidad. El texto aceptado es el de la [propuesta 5, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html#proposta-5--cdr-per-le-attività-culturali-offerte-alla-comunità).
+CdR por las actividades culturales ofrecidas a la Comunidad. El texto aceptado es el de la [propuesta 5, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/es/registro/propuestas.html#proposta-5--cdr-per-le-attività-culturali-offerte-alla-comunità).
 
 Razón: lo que una persona ofrece a todos es una contribución; el cómputo por horas y el límite anual evitan que se convierta en una clasificación.
 
@@ -313,7 +439,7 @@ Discusión: no se recibió ninguna observación hasta el 19 de octubre de 2026 (
 
 ## 19 de octubre de 2026 — Código 10, art. 1, apartados 1, 2 y 3; art. 9, apartado 1, letra a) (propuesta 6)
 
-El subsuelo, bien común. El texto aceptado es el de la [propuesta 6, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html#proposta-6--sottosuolo-bene-comune).
+El subsuelo, bien común. El texto aceptado es el de la [propuesta 6, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/es/registro/propuestas.html#proposta-6--sottosuolo-bene-comune).
 
 Razón: ningún texto nombraba el subsuelo y los yacimientos; ahora no puede obtenerse de ellos una renta.
 
@@ -321,7 +447,7 @@ Discusión: no se recibió ninguna observación hasta el 19 de octubre de 2026 (
 
 ## 19 de octubre de 2026 — Código 10, nuevo art. 8-bis y arts. 3 y 7; Código 15, art. 12, nuevo apartado 5-bis (propuesta 7)
 
-Materias primas: recuperación e inventario. El texto aceptado es el de la [propuesta 7, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html#proposta-7--materie-prime-recupero-e-inventario).
+Materias primas: recuperación e inventario. El texto aceptado es el de la [propuesta 7, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/es/registro/propuestas.html#proposta-7--materie-prime-recupero-e-inventario).
 
 Razón: antes de preguntarse si excavar hay que saber qué se puede recuperar; el artículo no autoriza nuevas extracciones. Se alinean el Código 10, arts. 3 y 7 (inventario y acceso al Catastro).
 
@@ -329,7 +455,7 @@ Discusión: no se recibió ninguna observación hasta el 19 de octubre de 2026 (
 
 ## 19 de octubre de 2026 — Código 7, art. 1, apartado 2, nueva letra f), y nuevo art. 6-bis; Código 1, art. 8, apartado 3 (propuesta 8)
 
-Robots y máquinas autónomas. El texto aceptado es el de la [propuesta 8, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html#proposta-8--robot-e-macchine-autonome).
+Robots y máquinas autónomas. El texto aceptado es el de la [propuesta 8, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/es/registro/propuestas.html#proposta-8--robot-e-macchine-autonome).
 
 Razón: ningún texto regulaba las máquinas que actúan solas entre las personas. Se alinea el Código 1, art. 8, apartado 3.
 
@@ -337,7 +463,7 @@ Discusión: no se recibió ninguna observación hasta el 19 de octubre de 2026 (
 
 ## 19 de octubre de 2026 — Código 1, art. 44, apartado 3; art. 45, apartados 2 y 3 (propuesta 9)
 
-Decrecimiento de las CdR. El texto aceptado es el de la [propuesta 9, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html#proposta-9--decrescenza-dei-cdr-quando-comincia-e-quali-si-impiegano-per-primi).
+Decrecimiento de las CdR. El texto aceptado es el de la [propuesta 9, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/es/registro/propuestas.html#proposta-9--decrescenza-dei-cdr-quando-comincia-e-quali-si-impiegano-per-primi).
 
 Razón: el texto no decía cómo baja el valor de las CdR; la reducción gradual respeta tanto los doce meses como el vigesimocuarto.
 
@@ -345,7 +471,7 @@ Discusión: no se recibió ninguna observación hasta el 19 de octubre de 2026 (
 
 ## 19 de octubre de 2026 — Código 1, art. 44, apartado 2 (propuesta 10)
 
-Tope de las CdR y recargos. El texto aceptado es el de la [propuesta 10, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html#proposta-10--la-maggiorazione-dei-compiti-sgradevoli-per-chi-è-al-tetto).
+Tope de las CdR y recargos. El texto aceptado es el de la [propuesta 10, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/es/registro/propuestas.html#proposta-10--la-maggiorazione-dei-compiti-sgradevoli-per-chi-è-al-tetto).
 
 Razón: el texto no decía si el tope vale también para los recargos, ni cómo se mide el saldo.
 
@@ -353,7 +479,7 @@ Discusión: no se recibió ninguna observación hasta el 19 de octubre de 2026 (
 
 ## 19 de octubre de 2026 — Código 3, art. 7, apartado 3 y nuevos apartados 3-bis y 3-ter; art. 7-bis, apartado 1; art. 21, apartado 3 (propuesta 11)
 
-Umbrales económicos en proporción al tamaño de la Comunidad. El texto aceptado es el de la [propuesta 11, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html#proposta-11--soglie-economiche-in-proporzione-alla-dimensione-della-comunità).
+Umbrales económicos en proporción al tamaño de la Comunidad. El texto aceptado es el de la [propuesta 11, versión 2](https://imthezeroit.github.io/progetto-dei-cerchi/es/registro/propuestas.html#proposta-11--soglie-economiche-in-proporzione-alla-dimensione-della-comunità).
 
 Razón: los mismos umbrales fijos pesaban de modo muy distinto en una Comunidad de treinta personas y en una de quinientas. Se alinea el art. 21, apartado 3.
 
@@ -369,10 +495,10 @@ Razón: para el mismo umbral, el Código 3, art. 12-bis, apartado 12, cuenta a l
 
 # Cómo cambian las reglas
 
-Desde el 19 de octubre de 2026, los cambios verificados se aplican directamente y se registran en esta página con la fecha, el texto y la razón. Las once propuestas publicadas entre el 5 y el 19 de octubre fueron aceptadas y pueden seguir consultándose en el [archivo de las propuestas](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html). Cualquiera puede señalar un problema o proponer un cambio: véase [Cómo contribuir](https://imthezeroit.github.io/progetto-dei-cerchi/es/contribuir.html).
+Desde el 19 de octubre de 2026, los cambios verificados se aplican directamente y se registran en esta página con la fecha, el texto y la razón. Las once propuestas publicadas entre el 5 y el 19 de octubre fueron aceptadas y pueden seguir consultándose en el [archivo de las propuestas](https://imthezeroit.github.io/progetto-dei-cerchi/es/registro/propuestas.html). Cualquiera puede señalar un problema o proponer un cambio: véase [Cómo contribuir](https://imthezeroit.github.io/progetto-dei-cerchi/es/contribuir.html).
 
 # Parámetros por verificar
 
-Los números que proponen los textos están reunidos en el [registro de los parámetros por verificar](https://imthezeroit.github.io/progetto-dei-cerchi/registro/parametri.html): para cada uno indica el valor, el artículo, el origen, la incertidumbre y la prueba que haría falta para confirmarlo o corregirlo. Es un borrador de calibración, no adoptado, y no modifica ninguna norma.
+Los números que proponen los textos están reunidos en el [registro de los parámetros por verificar](https://imthezeroit.github.io/progetto-dei-cerchi/es/registro/parametros.html): para cada uno indica el valor, el artículo, el origen, la incertidumbre y la prueba que haría falta para confirmarlo o corregirlo. Es un borrador de calibración, no adoptado, y no modifica ninguna norma.
 
 Queda pendiente también la verificación sobre casos concretos que piden los Códigos 3 y 4.

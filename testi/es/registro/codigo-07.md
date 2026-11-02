@@ -1,12 +1,12 @@
 ---
 titolo: "CÓDIGO 7 — DE LA AUTOMATIZACIÓN Y DE LA RED"
 breve: "Código 7 — Automatización y Red"
-versione: "V1.9"
+versione: "V1.10"
 gruppo: "codici"
 ordine: 7
 id: "codice-07"
 slug: "codigo-07"
-allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1.8; Código 4 V1.9; Código 5 V1.6; Código 6 V1.8; Código 8 V1.6; C.1-Annex A V1.6; Código 9 V3.3; Código 10 V1.7; Código 11 V1.5; Código 12 V1.6; Código 13 V1.8; Código 14 V1.7; Código 15 V1.9; Código 16 V1.9."
+allineamento: "Constitución V.38; Código 1 V1.12; Código 2 V1.9; Código 3 V1.11; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 15 V1.12; Código 16 V1.10."
 ---
 
 ## TÍTULO PRELIMINAR — PRINCIPIOS FUNDAMENTALES
@@ -43,7 +43,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
 ### Art. 2 — Principios
 
-1.  **Soberanía digital.** Los servidores, el código, los datos y los modelos utilizados para funciones confederales se alojan o gestionan en infraestructuras comunitarias controladas por la Confederación. Solo se admite el recurso temporal a servicios en la nube propietarios extractivos para una transición motivada y anotada en el Registro de Dependencias previsto en el Código 15.
+1.  **Soberanía digital.** Los servidores, el código, los datos y los modelos utilizados para funciones confederales se alojan o gestionan en infraestructuras comunitarias controladas por la Confederación. Solo se admite el recurso temporal a servicios en la nube propietarios extractivos durante la transición regulada por el Código 16, conforme a su artículo 9-bis, de forma motivada y con anotación en el Registro de Dependencias previsto en el Código 15.
 
 2.  **No vigilancia.** La Red no puede rastrear, clasificar, perfilar ni predecir los comportamientos individuales con fines de control, puntuación, reputación o predicción del comportamiento.
 
@@ -83,7 +83,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
     d) el Registro de las Decisiones de la Asamblea previsto en el Código 3;
 
-    e) el Registro de la Garantía en forma anonimizada según el Código 4;
+    e) el Registro restaurativo y el Archivo de las decisiones en forma anonimizada según el Código 4;
 
     f) el Registro de Dependencias previsto en el Código 15.
 
@@ -231,7 +231,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
 ### Art. 5-ter — IA de Comunidad y de Círculo: independencia, rechazo y revisión
 
-1.  Las IA de Comunidad, del Círculo Intermedio y del Círculo Extendido son IA de Gestión locales, de código abierto, inspeccionables y de dominio limitado. Funcionan en modo consultivo o técnico y están sujetas al derecho de anulación manual local.
+1.  Las IA de Comunidad, del Círculo Intermedio y del Círculo Extendido son IA de Gestión locales, de código abierto, inspeccionables y de dominio limitado. Funcionan en modo consultivo o técnico y están sujetas al derecho de anulación manual local. Para el balance del Almacén, el ciclo del agua y la energía local, la IA de Comunidad funciona exclusivamente en modo consultivo, conforme a los artículos 10.5, 15.3 y 22.1 de la Constitución.
 2.  Se prohíbe la constitución de una IA central o de una IA generalista única, conforme a los artículos 19.2, 20.2 y 23.1 de la Constitución. El Círculo Global es un protocolo distribuido de interoperabilidad: no dispone de un modelo central ni de una recopilación centralizada de datos personales.
 3.  Ninguna IA puede mandar, subordinar o desactivar a otra IA. La interoperabilidad entre sistemas se realiza mediante protocolos abiertos y con la autorización del Consejo de la Red de cada Círculo interesado. Los conflictos entre sistemas los decide el órgano humano competente.
 4.  Toda IA de Gestión se configura para rechazar, con una motivación registrada en la Red, una instrucción que implique una infracción manifiesta de la Constitución o de los protocolos aplicables, conforme al artículo 20.3 de la Constitución. El rechazo se transmite sin demora al Consejo de la Red y al órgano competente, que decide en un plazo de setenta y dos horas. Mientras tanto, las funciones esenciales se aseguran con los procedimientos manuales previstos en el artículo 38 del Código 1.
@@ -367,13 +367,13 @@ vii. el tiempo máximo de restauración.
 
     a) el registro de las personas con derecho a voto, que lleva cada Comunidad de Base según el artículo 36.1 de la Constitución y el artículo 12, apartado 1, del Código 3, y que verifica únicamente que quien vota o firma tiene derecho a voto en esa deliberación y vota o firma una sola vez;
 
-    b) la urna, que recibe los votos y las firmas sin ningún dato que identifique a quien los ha emitido.
+    b) la urna, que recibe los votos y las firmas sin ningún dato que identifique a quien los ha emitido. La urna se aloja en los nodos de la Red federada de la Comunidad o, para las votaciones de los Círculos superiores, de cada Comunidad interesada.
 
     Las dos partes funcionan en sistemas distintos y las administran personas diferentes; nadie accede a ambas con las mismas credenciales de acceso.
 
 3.  Se prohíben los registros de actividad, los registros, los metadatos u otros datos que permitan vincular a una persona con su voto o con su firma, también con fines de seguridad, de auditoría o de recurso; el artículo 2, apartados 3 y 4, no permite esta vinculación. El registro de las personas con derecho a voto conserva únicamente el hecho de que la persona ha votado o firmado, durante el tiempo necesario para el cierre de la votación y de los recursos. El sistema no entrega a quien vota ninguna prueba que le permita demostrar a otros cómo ha votado, conforme al artículo 36.1 de la Constitución.
 
-4.  El software del registro y de la urna es de código abierto y va acompañado de una STV de funcionamiento aprobada conforme al artículo 3-bis del Código 2. No se admiten ni el código cuyo código fuente no esté disponible ni las dependencias residuales conforme al artículo 5, apartado 2, letra b), del Código 2, ni siquiera con carácter temporal ni durante la transición, conforme al artículo 19.4 de la Constitución y al artículo 9-bis, apartado 1, letra b), del Código 16. Cada actualización se verifica antes de su adopción conforme al artículo 5-ter, apartado 7, y ninguna actualización se instala durante una votación abierta.
+4.  El software del registro y de la urna y aquel con el que se vota o se firma son de código abierto y van acompañados de una STV de funcionamiento aprobada conforme al artículo 3-bis del Código 2. No se admiten ni el código cuyo código fuente no esté disponible ni las dependencias residuales conforme al artículo 5, apartado 2, letra b), del Código 2, ni siquiera con carácter temporal ni durante la transición, conforme al artículo 19.4 de la Constitución y al artículo 9-bis, apartado 1, letra b), del Código 16. Cada actualización se verifica antes de su adopción conforme al artículo 5-ter, apartado 7, y ninguna actualización se instala durante una votación abierta.
 
 5.  El recuento se realiza por separado para cada Comunidad de Base. El número de personas con derecho a voto y de votantes, los totales de cada Comunidad y el resultado son públicos y se inscriben en un registro distribuido replicado en nodos de Círculos distintos conforme al artículo 3, apartado 4, de modo que cada Comunidad pueda verificarlos y ningún nodo pueda modificarlos por sí solo. El recuento lo ejecuta un software determinista y reproducible a partir de los datos públicos; una IA no puede recoger, contar, interpretar ni corregir los votos, conforme al artículo 2, apartado 8.
 

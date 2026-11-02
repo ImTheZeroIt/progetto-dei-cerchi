@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 11 — DE LA LOGISTIQUE ET DE LA MOBILITÉ DE BASE"
 breve: "Code 11 — Logistique et mobilité de base"
-versione: "V1.5"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 11
 id: "codice-11"
 slug: "code-11"
-allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.8 ; Code 4 V1.9 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 12 V1.6 ; Code 13 V1.8 ; Code 14 V1.7 ; Code 15 V1.9 ; Code 16 V1.9."
+allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 3 V1.11 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 7 V1.10 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 15 V1.12 ; Code 16 V1.10."
 ---
 
 ## Art. 1 — Objet et définitions
@@ -181,7 +181,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
 7.  Une dérogation transitoire motivée, d’une durée n’excédant pas douze mois, est admise uniquement pour garantir la continuité du Panier, uniquement pour une dépendance que la STV classe comme résiduelle et surmontable en application de l’article 5, alinéa 2, lettre b), du Code 2, et avec :
 
-    a) un Plan de sortie contraignant ;
+    a) un Plan de substitution au sens de l’article 12 du Code 2, publié intégralement lorsque la dépendance porte sur un micrologiciel fermé ;
 
     b) un terme final certain ;
 
@@ -189,7 +189,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
     d) l’avis du Conseil Production et du Conseil Réseau, lorsqu’ils sont concernés.
 
-8.  La prorogation est interdite, sauf impossibilité matérielle documentée et nouvelle décision motivée de l’organe compétent.
+8.  La prorogation suit l’article 12, alinéas 3 et 4, du Code 2.
 
 ## Art. 6 — Infrastructure logistique
 
@@ -273,7 +273,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
     L’application de la règle est un acte technique lié. Aucune répartition ne peut retirer à une Communauté l’accès effectif garanti par l’article 6, alinéa 3.
 
-3.  Le réseau ferroviaire du Cercle 3 et les transports prévus par l’article 10 du Code 15 suivent un protocole ferroviaire du Cercle 3, approuvé par son Assemblée générale comme Annexe technique en application de l’article 19 du Code 3 et mis en œuvre par le Conseil Logistique commun du Cercle 3, constitué en application du même alinéa 6-bis. Le recours à des transporteurs extérieurs est inscrit au Registre des dépendances.
+3.  Le réseau ferroviaire du Cercle 3 et les transports prévus par l’article 10 du Code 15 suivent un protocole ferroviaire du Cercle 3, approuvé par son Assemblée générale en application de l’article 14 du Code 3 et mis en œuvre par le Conseil Logistique commun du Cercle 3, constitué en application du même alinéa 6-bis ; l’article 19, alinéas 4 et 5, du Code 3 s’applique au protocole. Le recours à des transporteurs extérieurs est inscrit au Registre des dépendances.
 
 ## Art. 7 — Sécurité
 

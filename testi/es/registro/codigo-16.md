@@ -1,12 +1,12 @@
 ---
 titolo: "CÓDIGO 16 — TRANSICIÓN Y PUESTA EN MARCHA DE LA CONFEDERACIÓN"
 breve: "Código 16 — Transición y puesta en marcha"
-versione: "V1.9"
+versione: "V1.10"
 gruppo: "codici"
 ordine: 16
 id: "codice-16"
 slug: "codigo-16"
-allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1.8; Código 4 V1.9; Código 5 V1.6; Código 6 V1.8; Código 7 V1.9; Código 8 V1.6; C.1-Annex A V1.6; Código 9 V3.3; Código 10 V1.7; Código 11 V1.5; Código 12 V1.6; Código 13 V1.8; Código 14 V1.7; Código 15 V1.9."
+allineamento: "Constitución V.38; Código 1 V1.12; Código 2 V1.9; Código 3 V1.11; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 7 V1.10; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 15 V1.12."
 ---
 
 ## Art. 1 — Objeto, definiciones y naturaleza temporal
@@ -21,7 +21,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
     c) **Círculo piloto**: una Comunidad de Base, correspondiente al Círculo 1, instituida conforme a los artículos 4–6 de la Constitución para la experimentación inicial;
 
-    d) **Cuenca**: una agrupación de tres o cuatro Círculos piloto territorialmente contiguos y ecológicamente conectados, correspondiente al Círculo Intermedio o Círculo 2 previsto en el artículo 5 de la Constitución;
+    d) **Cuenca**: una agrupación de al menos tres Círculos piloto, por regla general no más de cuatro, territorialmente contiguos y ecológicamente conectados, correspondiente al Círculo Intermedio o Círculo 2 previsto en el artículo 5 de la Constitución;
 
     e) **Federación mínima**: una agrupación de al menos tres Cuencas;
 
@@ -97,13 +97,13 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
     e) se inicia la formación L1 básica en primeros auxilios según el Código 6;
 
-    f) se instituyen el Círculo de Garantía y los Consejos previstos en los Códigos activos, incluidos el Consejo de Almacén, el Consejo de Salud y el Consejo de las Competencias, también en forma agrupada o compartida o bien en los tres Consejos de área previstos en el artículo 12-bis, apartado 12, del Código 3;
+    f) se instituyen el Círculo de Garantía y los Consejos previstos en los Códigos activos, incluidos el Consejo de Almacén, el Consejo de Salud, que hasta la activación del Código 12 desempeña también las funciones del Consejo de Cuidado previstas en los artículos 26.2 y 26.3 de la Constitución y en el artículo 7-bis del Código 12, y el Consejo de las Competencias, también en forma agrupada o compartida o bien en los tres Consejos de área previstos en el artículo 12-bis, apartado 12, del Código 3. Si en el Círculo piloto viven o se acogen animales, se instituye también el Consejo de Biodiversidad, también en forma compartida, solo para las autorizaciones del artículo 13.3 de la Constitución y del artículo 7 del Código 13;
 
     g) el Círculo piloto opera según la Carta Operativa del Primer Año.
 
 2.  **Fase 1 — Cuenca.** La duración indicativa es de seis a dieciocho meses. En esta fase:
 
-    a) tres o cuatro Círculos piloto contiguos se agrupan en una Cuenca;
+    a) al menos tres Círculos piloto contiguos, por regla general no más de cuatro, se agrupan en una Cuenca;
 
     b) se activan los Códigos 7, 8, 9 y 10 y el C.1-Annex A, además de los Códigos de la Fase 0;
 
@@ -113,7 +113,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
     e) se censan de forma preliminar los suelos que pueden proponerse como santuario, en preparación de la activación del Código 13;
 
-    f) se activan los Consejos de la Red, de Energía y Agua, Agroecológico, de Hábitat y Territorio y de Producción;
+    f) se activan los Consejos de la Red, de Energía y Agua, Agroecológico, de Hábitat y Territorio, de Producción y de Biodiversidad; el Consejo de Biodiversidad desempeña las funciones que le atribuyen los Códigos 8, 9 y 10, según los artículos 3, 4-bis y 7 del Código 13, también en forma compartida en la Cuenca;
 
     g) el Saldo previsto en el Código 15 se activa a la escala de la Cuenca y se instituye el Consejo de Almacén de la Cuenca previsto en el artículo 9-bis del Código 15.
 
@@ -129,7 +129,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
     e) se censan las máquinas críticas, los EPI y las protecciones colectivas según el Código 14;
 
-    f) se activan los Consejos de Logística, de Cuidado, de Biodiversidad y de Seguridad;
+    f) se activan los Consejos de Logística, de Cuidado y de Seguridad, y el Consejo de Biodiversidad ejerce todas las funciones del Código 13;
 
     g) se instituye la primera versión del Registro de Dependencias, integrando los registros de los Códigos sectoriales.
 
@@ -151,15 +151,15 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
     a) el paso de la Fase 0 a la Fase 1 lo deliberan conjuntamente los Círculos piloto que constituyen la Cuenca, conforme al artículo 14, apartado 10, del Código 3; el paso de la Fase 1 a la Fase 2, la Asamblea General de las Cuencas que constituyen la Federación mínima; los pasos sucesivos y el cierre, la Asamblea General de la Federación mínima;
 
-    b) el Círculo piloto que se constituye o se adhiere cuando otros ya están en una fase posterior recorre la Fase 0. Superados los umbrales del artículo 4, apartado 1, entra en una Cuenca contigua o constituye una nueva. La Cuenca que ha superado los umbrales del artículo 4, apartado 2, entra en una Federación mínima o constituye una nueva con al menos otras dos Cuencas;
+    b) el Círculo piloto que se constituye o se adhiere cuando otros ya están en una fase posterior recorre la Fase 0. Superados los umbrales del artículo 4, apartado 1, entra en una Cuenca contigua o constituye una nueva. La Cuenca que así supera los cuatro Círculos piloto puede dividirse en varias Cuencas contiguas, cada una de al menos tres Círculos piloto, por deliberación de su Asamblea General, sin retroceder de fase. La Cuenca que ha superado los umbrales del artículo 4, apartado 2, entra en una Federación mínima o constituye una nueva con al menos otras dos Cuencas;
 
-    c) el Círculo piloto o la Cuenca que entra en una Cuenca o en una Federación mínima asume su fase cuando cumple, en lo que le corresponde, los umbrales de los pasos ya deliberados por esta. La verificación la realiza el Consejo de Transición de la unidad que lo acoge y no puede introducir valoraciones adicionales, conforme al artículo 4.5 de la Constitución. Los Códigos ya activados se aplican a quien entra desde el día de su ingreso, y los plazos transitorios de cada Código corren desde esa fecha;
+    c) el Círculo piloto o la Cuenca que entra en una Cuenca o en una Federación mínima asume su fase cuando cumple, en lo que le corresponde, los umbrales de los pasos ya deliberados por esta. La verificación la realiza el Consejo de Transición de la unidad que lo acoge y no puede introducir valoraciones adicionales, conforme al artículo 4.5 de la Constitución. Si la Cuenca que lo acoge forma parte de una Federación mínima, la verificación la realiza el Consejo de Transición de esta; si la Federación mínima ha cerrado la transición, un Consejo de Transición constituido solo para esa verificación conforme al artículo 5, apartados 1–3, entre las personas aptas del Círculo 2 que lo acoge o, cuando entra una Cuenca, del Círculo 3. Los Códigos ya activados se aplican a quien entra desde el día de su ingreso, y los plazos transitorios de cada Código corren desde esa fecha; para las demás unidades corren desde la activación del Código conforme al presente artículo;
 
     d) si la Federación mínima ya ha cerrado la transición, la verificación de la letra c) comprende los umbrales del artículo 4, apartados 3 y 4, y el cierre de la transición para quien entra lo delibera su Asamblea General conforme al artículo 10, apartado 1; el ingreso en el Círculo Extendido sigue el artículo 14-bis, apartado 4, del Código 3;
 
     e) el ingreso de un nuevo Círculo piloto o de una nueva Cuenca no hace retroceder de fase a la unidad que lo acoge;
 
-    f) la Comunidad asociada conforme al artículo 21-bis del Código 15 no recorre las fases en su vida interna y no está obligada a activar los Códigos y los Consejos de las fases, salvo los instrumentos que adopta. Entra en una Cuenca, o contribuye a constituirla, cuando se ha verificado la equivalencia en la frontera. Se cuenta como Círculo piloto, si tiene al menos treinta personas adheridas, o en otro caso junto con otras Comunidades asociadas contiguas hasta alcanzar ese número, a efectos del artículo 1, apartados 2, letras a) y d), y 5, de los artículos 3, apartado 7, letra a), y 5, apartado 1, y de las remisiones de los Códigos al Círculo piloto que se refieren a los órganos comunes y a las garantías de las personas, incluido el artículo 37 del Código 4. Los umbrales del artículo 4 se verifican, en lo que le corresponde, sobre los datos y los compromisos que esta presenta en la frontera conforme al artículo 21-bis, apartado 2, del Código 15; no se le aplican los umbrales del artículo 4, apartado 1, ni, en lo que le corresponde, los relativos al Balance del Trabajo y al Protocolo de Arranque Social, que se verifican sobre las demás unidades de la Cuenca. En la Cuenca y en la Federación mínima sigue las reglas de los instrumentos comunes activados en la fase.
+    f) la Comunidad asociada conforme al artículo 21-bis del Código 15 no recorre las fases en su vida interna y no está obligada a activar los Códigos y los Consejos de las fases, salvo los instrumentos que adopta. Entra en una Cuenca, o contribuye a constituirla, cuando se ha verificado la equivalencia en la frontera. Se cuenta como Círculo piloto, si tiene al menos treinta personas adheridas, o en otro caso junto con otras Comunidades asociadas contiguas hasta alcanzar ese número, a efectos del artículo 1, apartados 2, letras a) y d), y 5, de los artículos 3, apartado 7, letra a), y 5, apartado 1, y de las remisiones de los Códigos al Círculo piloto que se refieren a los órganos comunes y a las garantías de las personas, incluido el artículo 37 del Código 4. Los umbrales del artículo 4 se verifican, en lo que le corresponde, sobre los datos y los compromisos que esta presenta en la frontera conforme al artículo 21-bis, apartado 2, del Código 15; no se le aplican los umbrales del artículo 4, apartado 1, ni, en lo que le corresponde, los relativos al Balance del Trabajo y al Protocolo de Arranque Social, que se verifican sobre las demás unidades de la Cuenca; si la Cuenca no comprende otras unidades, esos umbrales no se aplican. En la Cuenca y en la Federación mínima sigue las reglas de los instrumentos comunes activados en la fase.
 
 8.  **Dos itinerarios.** Las Fases 0–4 de los apartados 1–5 son el itinerario de los Círculos piloto. Junto a él, el itinerario de las redes sigue las Fases A–E de los artículos 11–20. Los dos itinerarios se encuentran con la conversión del artículo 17: desde ese momento, cada Círculo 1 nacido de una red está en la Fase 0, recorre las Fases 0–4 como un Círculo piloto, con los umbrales del artículo 4, y, superados los umbrales del artículo 4, apartado 1, entra en una Cuenca, incluso ya constituida, conforme al apartado 7, letras b) y c).
 
@@ -215,7 +215,9 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
     d) el mantenimiento documentado del Nivel 3 del Protocolo de Arranque Social;
 
-    e) Balances del Trabajo que respeten el límite del artículo 3 del Código 1 durante cuatro trimestres consecutivos o, en su defecto, la presentación de una propuesta motivada de revisión de dicho límite conforme al artículo 38 de la Constitución.
+    e) Balances del Trabajo que respeten el límite del artículo 3 del Código 1 durante cuatro trimestres consecutivos o, en su defecto, la presentación de una propuesta motivada de revisión de dicho límite conforme a los artículos 37 y 38 de la Constitución;
+
+    f) el cese del uso de los sistemas admitidos conforme al artículo 9-bis, apartado 1, letra a).
 
 5.  La verificación de los umbrales la realiza el Consejo de Transición, con dictamen obligatorio de los Consejos competentes por materia. El paso de fase constituye una decisión constitutiva conforme al artículo 3, apartado 3, del Código 3 y lo delibera la Asamblea General indicada en el artículo 3, apartado 7, letra a), según la convocatoria, el quórum y el procedimiento previstos en los Códigos 3 y 4. La deliberación se publica en forma agregada y que no permite la elaboración de perfiles.
 
@@ -338,11 +340,13 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
     b) la gradualidad no permite usar código cerrado ni modelos que no sean de código abierto para las IA de Gestión, para los algoritmos del artículo 2, apartado 5, del Código 7, para la IA personal y para los sistemas de consulta y de voto del artículo 34.4 de la Constitución;
 
-    c) los sistemas de la letra a) instalados en la Comunidad no reciben actualizaciones automáticas ni remotas; cada actualización la verifica el Consejo de la Red antes de la instalación y es reversible, conforme al artículo 5-ter, apartado 7, del Código 7;
+    c) ningún sistema de la letra a) recibe actualizaciones automáticas ni instaladas por otros que no sean la Comunidad; cada actualización la verifica el Consejo de la Red antes de la instalación y es reversible, conforme al artículo 5-ter, apartado 7, del Código 7; los sistemas instalados en la Comunidad no reciben actualizaciones remotas, y un sistema alojado en infraestructuras externas solo se admite si el programa y sus actualizaciones los elige, verifica e instala la Comunidad;
 
     d) la gradualidad cesa para cada sistema al vencimiento de su Plan y, en todo caso, con el cierre de la transición.
 
 2.  El uso de sistemas cuyo código fuente no está disponible sigue, durante la transición y después, el artículo 19.4 de la Constitución, el artículo 5, apartado 2, letra b), y el artículo 12, apartado 5, del Código 2.
+
+3.  Hasta la institución del Consejo de la Red, el dictamen del artículo 5, apartado 3, del Código 2 y la verificación del apartado 1, letra c), los emiten, también como excepción al artículo 8, apartado 3, dos personas con competencia informática L2 o L3, ajenas a la propuesta y sorteadas conforme al artículo 36 del Código 4, y se anotan como provisionales conforme al artículo 8, apartado 2; el dictamen negativo impide la admisión del sistema. Desde la Fase 0, las consultas y las votaciones a través de la Red siguen el artículo 7-bis del Código 7.
 
 ## Art. 10 — Cierre de la transición, memoria y primacía
 
@@ -374,7 +378,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
 4.  Después del cierre de la transición se aplican las cláusulas de primacía de los Códigos sectoriales, incluidas las del Código 10, artículo 10, del Código 13, artículo 11, y del Código 14, artículo 10.
 
-5.  Los principales vínculos normativos del presente Código son: Constitución, artículos 1.3, 3.1, 3.2, 3.5-bis, 3.5-ter, 4–6, 10.2, 16.4, 17.9, 19, 23.1, 26, 32, 36.1 y 38; Código 1, artículos 13–22, 32, 47 y 47-ter; Código 2, artículo 5; Código 3, artículos 3, 4, 8, 12, 13–19; Código 4; Código 5, artículos 3 y 10; Código 6, artículos 4 y 11; Código 7, artículos 2.2, 7 y 7-bis; Códigos 8 y 9; Código C.1-Annex A; Códigos 10–14, incluido el artículo 8-sexies del Código 14; Código 15, Capítulos III y IV.
+5.  Los principales vínculos normativos del presente Código son: Constitución, artículos 1.3, 3.1, 3.2, 3.5-bis, 3.5-ter, 4–6, 10.2, 13.3, 17.9, 19, 23.1, 26, 32, 36.1, 36.2, 36.4, 37 y 38; Código 1, artículos 13–22, 32, 47 y 47-ter; Código 2, artículo 5; Código 3, artículos 3, 4, 8, 12, 13–19; Código 4; Código 5, artículos 3 y 10; Código 6, artículos 4 y 11; Código 7, artículos 2.2, 7 y 7-bis; Códigos 8 y 9; Código C.1-Annex A; Códigos 10–14, incluido el artículo 8-sexies del Código 14; Código 15, Capítulos III y IV.
 
 ## Art. 11 — Itinerario de las redes: fases y principios
 
@@ -400,7 +404,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
     d) las decisiones, las cuentas y los datos agregados son públicos conforme al artículo 2, apartado 5, salvo los datos que exponen a riesgo a las personas o a las infraestructuras;
 
-    e) el almacén de barrio distribuye la Cesta de emergencia a cada participante que la necesita, por cualquier causa, según reglas públicas aprobadas por la asamblea de la red e independientes de la decisión del artículo 15; el umbral del artículo 14 mide solo si las existencias bastan para todos los participantes;
+    e) el almacén de barrio distribuye la Cesta de emergencia a cada participante y a las personas que viven con él y dependen de él conforme al artículo 1, apartado 2, letra o), que la necesitan, por cualquier causa, según reglas públicas aprobadas por la asamblea de la red e independientes de la decisión del artículo 15; el umbral del artículo 14 mide solo si las existencias bastan para todos los participantes;
 
     f) los servicios esenciales siguen abiertos a todos, conforme al artículo 16.
 
@@ -438,7 +442,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
 2.  **Mapa de las cadenas de suministro.** Las redes de un territorio elaboran juntas el mapa de las cadenas de suministro esenciales: de dónde llegan los alimentos, el agua, la energía y los medicamentos, cuántas existencias hay y quién sabe hacer qué. El mapa es público en forma agregada; se excluyen de él los datos que exponen a riesgo a las personas o a las infraestructuras.
 
-3.  **Pactos con quienes trabajan en las cadenas de suministro esenciales.** Quien trabaja en una cadena de suministro esencial puede firmar un pacto con la red de su territorio. Con el pacto, la persona se compromete a continuar su trabajo y a servir a cualquiera aunque las personas de las redes tomen la decisión del artículo 15; la red se compromete a las protecciones del artículo 16. El pacto es personal, voluntario y revocable en cualquier momento, no contiene penalizaciones y no obliga a nada contrario a la ley o al contrato de trabajo. Se custodia de forma confidencial; solo son públicos los recuentos agregados por cadena de suministro y por territorio. Los datos de los pactos se tratan con el consentimiento explícito de la persona y respetando la normativa sobre protección de datos; se conservan mientras el pacto esté en vigor y se suprimen cuando se revoca o en la conversión.
+3.  **Pactos con quienes trabajan en las cadenas de suministro esenciales.** Quien trabaja en una cadena de suministro esencial puede firmar un pacto con la red de su territorio. Con el pacto, la persona se compromete a continuar su trabajo y a servir a cualquiera aunque las personas de las redes tomen la decisión del artículo 15; la red se compromete a las protecciones del artículo 16. El pacto es personal, voluntario y revocable en cualquier momento, no contiene penalizaciones y no obliga a nada contrario a la ley o al contrato de trabajo. Se custodia de forma confidencial; solo son públicos los recuentos agregados por cadena de suministro y por territorio. Los datos de los pactos se tratan con el consentimiento explícito de la persona y respetando la normativa sobre protección de datos; se conservan mientras el pacto esté en vigor y se suprimen cuando se revoca; en la conversión pasan, con el consentimiento de la persona, al Círculo de su territorio o se suprimen.
 
 4.  **Formación y relevo.** Las redes enseñan las competencias que sirven para las necesidades, según el Código 5 en la medida en que sea aplicable, y para cada trabajo esencial forman con antelación a otras personas que puedan dar el relevo, dentro de los límites de las habilitaciones que exige la ley.
 
@@ -472,7 +476,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
 2.  El boicot no es una regla del presente Código. Es una elección política, no violenta y colectiva, que corresponde a las personas de las redes mediante su voto conforme al artículo 14, apartado 6. Cada persona decide libremente si la lleva a cabo y responde de ello personalmente según la ley. El presente Código no la prescribe, no la autoriza y no regula sus formas, salvo la votación del artículo 14, apartado 6, y no llevarla a cabo no puede acarrear ninguna consecuencia.
 
-3.  Las entidades de las redes, los grupos promotores y, después de la conversión, los Círculos nacidos de las redes y sus entidades no deliberan el boicot, no lo financian y no emplean los bienes comunes, los Almacenes ni la Caja común para actos contrarios a la ley. Antes y después de la decisión de las personas continúan solo las actividades lícitas de los artículos 12, 13, 16 y 18, entre ellas los almacenes de barrio, la distribución de la Cesta de emergencia a los participantes, las cajas de solidaridad, la asistencia jurídica y los servicios esenciales abiertos a todos.
+3.  Las entidades de las redes, los grupos promotores, los Círculos piloto, incluidos los nacidos de las redes después de la conversión, las Comunidades asociadas y sus entidades no deliberan el boicot, no lo financian y no emplean los bienes comunes, los Almacenes ni la Caja común para actos contrarios a la ley. Antes y después de la decisión de las personas continúan solo las actividades lícitas de los artículos 12, 13, 16 y 18, entre ellas los almacenes de barrio, la distribución de la Cesta de emergencia a los participantes y a quienes dependen de ellos, las cajas de solidaridad, la asistencia jurídica y los servicios esenciales abiertos a todos.
 
 4.  **Cajas de solidaridad y asistencia jurídica.** Desde la Fase A, la red puede constituir, en la entidad del artículo 12, apartado 3, una caja de solidaridad y una red de asistencia jurídica. Ayudan, dentro de los límites de la ley, a quien está en dificultad, por cualquier causa, según la necesidad. Las reglas de la ayuda son públicas y la ayuda no depende de cómo haya votado la persona.
 

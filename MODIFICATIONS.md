@@ -6,9 +6,135 @@ Ceci est la première version publique : Constitution V.29 et Codes alignés, 
 
 # Modifications
 
+## 2 novembre 2026 — Les personnes qui s’abstiennent ne sont pas des votants
+
+Choix de l’auteur. La Constitution et le Code 3 parlaient de « votants » sans dire si les abstentionnistes en font partie, et la Constitution (art. 35.1) exigeait la « majorité des participants » tandis que le Code 3 exigeait celle des « participants actifs ».
+
+**Définition des votants** (Const., nouvel art. 35.4 et art. 35.1 ; Code 3, art. 12.3 nouvelle lettre d). Sont votants les personnes qui votent oui ou non. Les personnes qui s’abstiennent prennent part à la délibération et comptent pour le quorum, mais ne sont comptées ni parmi les votants ni dans le calcul des majorités. Cela vaut pour tous les seuils qui se réfèrent aux votants : la majorité simple du Cercle 1, les signatures pour l’Objection de conscience ou de durabilité écologique (10 % des votants), les majorités de l’Assemblée générale, du Cercle 4 et des modifications de la Constitution.
+
+**Participation des Communautés à l’Assemblée générale** (Code 3, art. 14.6). Une Communauté participe lorsqu’au moins un tiers de ses ayants droit prend part à la délibération, abstentionnistes compris.
+
+Versions : Constitution de V.37 à V.38 ; Code 3 de V1.10 à V1.11. Lignes d’alignement mises à jour dans tous les textes.
+
+## 1er novembre 2026 — Seconde vérification de cohérence : territoire, systèmes, transition
+
+Seconde partie de la seconde vérification de cohérence complète. Toutes les rubriques qui tiennent des rapports sur le territoire et les ressources, les systèmes et la transition sont appliquées : 42 rubriques (1 haute, 17 moyennes, 24 basses), avec 60 modifications dans 15 textes. Les choix de valeur sont ceux de l’auteur.
+
+**Animaux dans les Phases 0 et 1** (Code 16, art. 3.1 f, 3.2 f et 3.3 f ; Annexe C, art. 9.3). Si des animaux vivent dans le Cercle pilote ou y sont accueillis, le Conseil Biodiversité est institué dès la Phase 0 pour les autorisations de la Const. 13.3. Dès la Phase 1, il exerce les fonctions que lui donnent les Codes 8, 9 et 10 ; dès la Phase 2, il a toutes les fonctions du Code 13.
+
+**Protection des mineurs dans les Phases 0 et 1** (Code 16, art. 3.1 f ; Code 15, art. 21-bis.5 e). Jusqu’à l’activation du Code 12, le Conseil Santé exerce les fonctions du Conseil Soin prévues par la Const. 26.2 et 26.3, y compris pour la Communauté associée. Pendant la transition, la séparation d’un mineur dans une Communauté associée revient à l’État, comme dans les autres Cercles (Code 12, art. 7-bis.3-ter).
+
+**L’animal après l’entrée du Corps** (Code 13, art. 7.3 et nouvel 7.3-bis, art. 11.4 c ; Code 14, art. 8-ter.3). Le Conseil Biodiversité peut ordonner un accueil provisoire de trente jours au plus, que le Tribunal de garantie valide en même temps que l’entrée ; l’accueil durable est décidé par le Tribunal. Le nouvel alinéa ne permet aucune entrée dans un Cercle 0 au-delà de la Const. 5.1 a).
+
+**Zoonoses** (Code 13, nouvel art. 8.7, art. 7.10). Sur les animaux ne sont admis que la séparation ou l’isolement temporaire, les soins et les vaccinations, l’hygiène des lieux et la limitation des contacts. La mise à mort est interdite, sauf l’euthanasie déjà réglementée.
+
+**Nourriture et soins des animaux** (Code 1, nouvel art. 32.1-sexies ; Code 13, art. 4-bis.6 et 7.11). Choix de l’auteur : la nourriture minimale pour la survie et les soins vétérinaires urgents des animaux qui vivent avec la Communauté, y compris les sanctuaires, relèvent des urgences vitales de la lettre a), sans rien retirer aux niveaux 1 et 2 du Panier des personnes, comme l’eau (Code 9, art. 10.8).
+
+**Énergie et eau dans les Cercles 2 et 3** (Code 8, nouvel art. 3-bis, art. 6-bis.7). Le stockage, l’équilibrage, la compensation et le dispatching sont confiés à un Conseil Énergie et Eau commun. Les prélèvements dans un même bassin hydrographique sont délibérés par l’Assemblée générale ou, si le bassin comprend des Cercles 2 différents, par leurs Assemblées générales de manière concordante.
+
+**Animaux, eau et sanctuaires** (Code 9, art. 6-bis.6, 10.8 et 10.9 ; Code 13, art. 3.3, 4.1 c, 4-bis.5 et 11.3 e ; Code 10, art. 4.1 g). La vérification des animaux présents lors de l’adhésion a un seul délai, douze mois, et entre-temps les animaux restent avec la Communauté sans collaborer. Les animaux déjà accueillis ne sont transférés que pour leur bien-être, avec l’attestation vétérinaire. La zone du sanctuaire est affectée par le Cercle 1 sur le territoire duquel elle se trouve. L’avis négatif du Conseil Biodiversité sur les nouveaux captages est contraignant. La STV Gestion de la faune a un délai.
+
+**Accaparement d’énergie** (Code 8, art. 9.2). L’accumulation au-delà des limites et le chantage énergétique sont une infraction de Degré 4, comme le dit la Const. 15.2, et non un « vice de procédure grave ».
+
+**Défense et transition** (Code 14, art. 8-quinquies.6 et 8-sexies.8 ; Code 15, art. 20.4). Pendant la transition, l’entrée du Corps dans un Cercle 0 sans consentement est elle aussi limitée par la loi en vigueur. Un animal agressé par un autre animal peut être protégé selon les mêmes degrés, sans mise à mort. La défense civile du Code 15 s’applique dans les limites de la loi et le sabotage est exclu.
+
+**Systèmes sur des serveurs extérieurs** (Code 16, art. 9-bis.1 c). Choix de l’auteur : ils ne sont admis que si le logiciel et ses mises à jour sont choisis, vérifiés et installés par la Communauté. La Const. 19.4 ne change pas.
+
+**Vérifications avant le Conseil Réseau** (Code 16, nouvel art. 9-bis.3). En Phase 0, l’avis sur les dépendances et la vérification des mises à jour sont rendus à titre provisoire par deux personnes compétentes tirées au sort ; leur avis négatif reste une interdiction. Dès la Phase 0, le vote par le Réseau suit le Code 7, art. 7-bis.
+
+**Souveraineté technologique** (Code 2, art. 5.2 b ; Code 11, art. 5.7 a et 5.8 ; Code 7, art. 2.1, 5-ter.1 et 7-bis ; Code 1, art. 37.1 ; Code 16, art. 4.4 f). Le micrologiciel qui exécute des commandes ou des automatisations dotées d’une STV ne « propose ni ne décide » au sens de la Const. 19.4. Les véhicules à micrologiciel fermé suivent le Plan de substitution du Code 2, avec une seule prorogation. Le cloud propriétaire n’est admis que pendant la transition, et pour la clore les systèmes admis au titre de l’application progressive doivent être retirés. Le logiciel avec lequel on vote est open source et l’urne se trouve sur les nœuds des Communautés. Pour l’Entrepôt, l’eau et l’énergie, l’IA de Communauté est seulement consultative.
+
+**Registres et renvois** (Code 3, art. 13.6 ; Code 7, art. 3.2 e ; Code 11, art. 6-quater.3 ; Code 16, art. 4.4 e et 10.5). Le Registre des décisions de l’Assemblée est institué ; le registre du Code 4 porte son nom ; le protocole ferroviaire suit l’art. 14 du Code 3 ; la révision suit aussi la Const. 37 ; la liste des liens du Code 16 est mise à jour.
+
+**Panier d’urgence et boycott** (Code 16, art. 11.2 e et 15.3). Le Panier d’urgence va aussi aux enfants et aux personnes à charge des participants. L’interdiction de délibérer sur le boycott ou de le financer vaut aussi pour les Cercles pilotes et les Communautés associées : le boycott reste seulement un choix politique des personnes et le Code ne règle que des activités licites.
+
+**Bassins et entrées** (Code 16, art. 1.2 d, 3.2 a, 3.7 b, c et f ; Code 15, art. 21-bis.6). Un Bassin compte en règle générale pas plus de quatre Cercles et, s’il les dépasse, peut se diviser sans reculer de phase. Qui entre dans un Bassin déjà en Phase 2, ou dans une Fédération qui a clos la transition, est vérifié par le Conseil Transition de la Fédération ou par un Conseil constitué pour cette seule vérification. Les délais des Codes activés par phases courent à partir de leur activation. Avant qu’un Bassin n’existe, les fonctions du Cercle 2 envers la Communauté associée sont exercées par les Cercles pilotes et les Communautés associées concernés et par les collèges du Code 4, art. 37.5. Dans un Bassin formé uniquement de Communautés associées, les seuils « sur les autres unités » ne s’appliquent pas.
+
+**Annexes au Code 16** (Annexe A, art. 2.2 et 4.5 ; Annexe B, art. 1.2 d, 7 et 8 ; Annexe C, art. 10.1 ; Code 16, art. 13.3). Le questionnaire sur la sécurité ressentie et la garantie du Panier se comptent par Cercle pilote. Pour le Cercle né d’un réseau, les rencontres du Niveau 1 ont lieu dans les quatre-vingt-dix jours suivant la conversion. Au redémarrage, on vérifie les conditions de la phase en cours. La diffusion extérieure de l’Annexe B vaut pendant la transition. La vérification des seuils est effectuée par le Conseil Transition. Les données des pactes avec celles et ceux qui travaillent dans les filières essentielles passent, avec le consentement de la personne, au Cercle de son territoire.
+
+**Noyau et légalité.** Aucune modification ne touche la Constitution, l’art. 37.4 ni les articles qu’il nomme. Le nouvel art. 7.3-bis du Code 13 et l’art. 8-quinquies.6 du Code 14 n’élargissent pas l’exception de la Const. 5.1 a). La Const. 38.6 est inchangée.
+
+Raison : rapports de la seconde vérification de cohérence (`territorio`, `sistemi`, `transizione`), avec les choix de l’auteur sur la nourriture et les soins des animaux et sur les systèmes hébergés sur des serveurs extérieurs. Avec la partie 1, la seconde vérification complète est appliquée en entier (VERIFICA-COERENZA.md).
+
+Versions : Code 1 de V1.11 à V1.12 ; Code 2 de V1.8 à V1.9 ; Code 3 de V1.9 à V1.10 ; Code 7 de V1.9 à V1.10 ; Code 8 de V1.6 à V1.7 ; Code 9 de V3.3 à V3.4 ; Code 10 de V1.7 à V1.8 ; Code 11 de V1.5 à V1.6 ; Code 13 de V1.8 à V1.9 ; Code 14 de V1.9 à V1.10 ; Code 15 de V1.11 à V1.12 ; Code 16 de V1.9 à V1.10 ; Annexes A et C au Code 16 de V1.3 à V1.4 ; Annexe B de V1.6 à V1.7. La Constitution reste en V.37.
+
+## 1er novembre 2026 — Seconde vérification de cohérence : pouvoir, économie, personnes
+
+Première partie de la seconde vérification de cohérence complète, qui cherche les effets croisés des corrections faites entre le 19 et le 29 octobre. Les rubriques qui tiennent des rapports sur le pouvoir et la justice, l’économie et le travail, et les personnes sont appliquées. Les choix de valeur sont ceux de l’auteur.
+
+**Le jeune qui sort à seize ans** (Const. 26.5 et 4.9-ter ; Code 12, art. 7-ter.8 ; Code 1, art. 13.3 et 47.3-bis ; Code 4, art. 32-bis.2 a). Il peut rester dans la maison familiale, avec le consentement de ceux qui y vivent, jusqu’à dix-huit ans : il reçoit le Panier pour lui-même et l’art. 4.9-ter ne lui est pas applicable. À dix-huit ans, il choisit d’adhérer, de vivre avec le Pacte ou de partir ; le silence ne vaut pas adhésion. Son séjour n’est pas l’hospitalité de l’art. 4.9 b), qui reste inchangé.
+
+**Comment un enfant devient membre** (Code 12, nouvel art. 7-ter.4-bis). Il est membre dès la naissance, ou dès son arrivée, si au moins l’une des personnes qui en prennent soin l’est ; sinon, il adhère selon les règles d’âge de l’art. 26.5. A « grandi dans la Confédération » qui a été membre pendant au moins un an lorsqu’il était mineur.
+
+**Enfants des cohabitants des Communautés associées** (Code 15, art. 21-bis.9, nouvelle lettre g). Ils ont les mêmes droits que les enfants de qui vit avec le Pacte et, pour les besoins vitaux immédiats, la couverture des déficits par le Pool.
+
+**Mineur dont personne ne prend soin** (Code 12, art. 7-bis.3-bis). Le Tribunal de garantie statue aussi lorsque personne n’exerce la responsabilité de soin ou que plusieurs personnes se la disputent, et indique qui l’assume.
+
+**Mesures coercitives sur les mineurs** (Code 6, art. 2-ter.2 ; Code 12, art. 9.1 g). La personne qui donne le consentement pour un mineur ne peut pas consentir à une mesure coercitive : les limites de l’art. 8 du Code 6 s’appliquent, comme pour les adultes.
+
+**Âge minimum pour les charges tirées au sort** (Code 3, art. 12-bis.4 ; Code 4, art. 27.4 ; Code 14, art. 8-bis.3 ; Code 5, art. 6.4). Dix-huit ans pour les Conseils, les organes de la justice, le Corps de protection civique et les porte-parole ; à partir de seize ans, on participe en accompagnement, sans droit de vote (dans le Corps, sans contention ni usage de la force).
+
+**Soutien au démarrage de la vie autonome** (Code 1, nouvel art. 49.6 ; Code 15, art. 17.3). Il comprend au moins la CBO relais et la dotation de Maison-relais ; pour qui quitte la Confédération, les Biens d’usage personnel, les moyens du déménagement et une somme de la Caisse commune fixée chaque année par l’Assemblée. Il est proposé par le Conseil Soin ; recours au Cercle de garantie.
+
+**Qui est sorti mineur** (Code 5, art. 6.6-bis). Il peut choisir à tout moment sous forme de réadmission ; le silence ne le rend pas membre.
+
+**Réadmission de qui devient exempté** (Code 4, art. 29.6-bis f). La personne qui a perdu le statut pour refus de la CBO et qui entre-temps est exemptée ou empêchée est réadmise sans autre condition.
+
+**Autonomie du mineur dans la Communauté associée** (Code 15, art. 21-bis.5 e). Le Conseil des Compétences participe aussi à l’évaluation, comme dans le Code 12.
+
+**Expérimentation sanitaire** (Code 6, art. 10.5 et 10.7 e). L’interdiction sans consentement vaut pour toute personne. Dans le cas exceptionnel d’un seul mineur ou d’une personne incapable, l’autorisation est donnée par le Tribunal de garantie, de manière confidentielle, dans un délai de sept jours ou de vingt-quatre heures, au lieu de l’Assemblée générale.
+
+**Énergie essentielle** (Code 1, art. 13.3 ; Code 4, art. 29.6-bis d). Même la personne qui a perdu le statut pour refus de la CBO conserve l’énergie essentielle à la santé et à la survie (Const. 15.2 ; Code 8, art. 4.2).
+
+**Cohabitants des Communautés associées et biens communs** (Const. 4.5 ; Code 15, art. 21-bis.9 a). Le Pool couvre aussi pour eux l’eau, les soins d’urgence et l’énergie essentielle ; pour le reste, leurs besoins n’entrent pas dans le calcul du déficit. Ils ne prélèvent pas dans les Entrepôts des autres Communautés et des Cercles 2 et 3 ; ce qu’ils reçoivent de la Communauté qui les accueille, y compris de son Entrepôt, est à la charge de celle-ci.
+
+**Services externes** (Code 2, art. 23.1 e). Comme pour les biens (rubrique C61), le Conseil Qualité propose et l’organe indiqué par la matrice du Code 3 décide.
+
+**Recours sur le Pool** (Code 15, art. 9-bis.6). Contre les décisions d’allocation, la vérification du Collège de réexamen remplace le recours du Code 3, art. 17.1-bis, qui reste pour les seuls vices de procédure et de compétence.
+
+**Méthode UCR** (Code 3, art. 9.3 ; brouillon UCR, paragraphe 2). Elle est proposée par le Conseil Comptabilité commun du Cercle 2 ; pour le Cercle 3 et entre Cercles 2 différents s’applique la méthode approuvée par le Cercle 3 ou, à défaut, celle du Cercle 2 qui conserve la ressource. Dans le brouillon, le coefficient heures par euro fait partie de la méthode ; seules les conversions des UCR en euros sont indicatives.
+
+**Termes** (Const. 10.5 et 32.2 ; C.1-Annex A, art. 5.5 ; Code 1, art. 44.6 et 47-ter.4 a). « Union » devient « Cercle supérieur » et « Cercle intermédiaire ». La dérogation de l’Annex A est accordée par l’Assemblée du Cercle 1, sauf « risque collectif immédiat et documenté » (et non plus « urgence extrême »). Les CdR sont aussi suspendues pendant la suspension ordonnée par le Plan du Degré 3. La Maison-relais pour qui est sans logement n’a pas de limite de durée, même au-delà des trente jours de la dotation.
+
+**Cohabitants et justice** (Code 4, art. 32-bis, nouvel alinéa 1-bis, art. 32-bis.2 a, art. 37.1). Pour le cohabitant d’une Communauté associée, les mesures liées au statut de membre ne s’appliquent pas ; à leur place, le Tribunal peut ordonner l’éloignement protecteur hors de la Communauté, avec l’offre du Pacte ailleurs. La procédure d’éloignement du 4.9-ter ne lui est pas applicable. Pendant la transition, le Chapitre V vaut pour lui s’il l’accepte avec l’accueil.
+
+**Le Corps de protection civique là où il n’existe pas** (Code 14, art. 8-bis.1 ; Code 15, art. 21-bis.5 f). Pour la Communauté associée qui n’a pas de Corps, le Cercle 2 active les membres de service des Communautés les plus proches. L’organe interne qui tient lieu de Corps suit les règles du Corps, et son entrée dans un Cercle 0 est validée par le Tribunal.
+
+**Assemblée générale et porte-parole** (Code 3, nouvel art. 14.1-bis, art. 14-bis.5). Chaque Communauté tire au sort un porte-parole pour un cycle de quatre-vingt-dix jours, révocable par son Assemblée. Les porte-parole convoquent l’Assemblée générale à la demande d’un Cercle 1, d’un Conseil commun, du Conseil des Entrepôts ou d’un dixième des personnes ayant le droit de vote ; lorsqu’un Code fixe un délai, la convocation est obligatoire. Le rapport proposait un an : la Const. 4.4 a), qui fait partie du Noyau, ne permet pas plus de quatre-vingt-dix jours.
+
+**Validation de l’entrée du Corps** (Code 4, nouvel art. 34.2-bis ; Code 14, art. 8-ter.3 et 10.1 a). Il est écrit ce que vérifie le Tribunal lorsque le Corps entre dans un Cercle 0, y compris pour un animal, et ce qu’il peut ordonner.
+
+**Second Tribunal et Collège de réexamen** (Const. 31.6 et 31.3 e ; Code 4, art. 37.5). Tant qu’il n’existe qu’un seul Cercle 2, le second Tribunal est tiré au sort selon le Code 4 ; une fois le Bassin constitué, l’art. 35.2 prévaut. Le Collège de réexamen effectue aussi les vérifications que lui attribuent les Codes.
+
+**Organes communs et Communautés associées** (Code 15, art. 21-bis.5 c et 9-bis.2 ; Code 3, art. 12-bis.6-bis a). Le refus de la contribution de travail est traité par les organes communs dès le premier signalement ; la suspension des CdR seulement là où les CdR sont adoptées. Les membres du Conseil des Entrepôts des Cercles 2 et 3 peuvent aussi être révoqués par leur Communauté. Dans les Conseils communs, les Communautés associées entrent aux mêmes conditions, avec leurs organes internes équivalents.
+
+**Registre.** Dans l’entrée du 29 octobre 2026, il est précisé que l’exception de l’art. 5.1 a) est protégée par le Noyau, tandis que celle des cohabitants renvoie à l’art. 4.5 et au Code 15, qui peuvent être modifiés selon leurs propres procédures, et qu’à partir du 1er novembre 2026 s’applique aussi l’exception de l’art. 26.5 pour les mineurs.
+
+**Noyau inviolable.** Aucune modification ne touche l’art. 37.4 ni les articles qu’il nomme. L’art. 4.9-ter reçoit seulement un renvoi à l’art. 26.5 ; par prudence, il est traité, comme les modifications du 29 octobre, comme une réécriture du texte avant toute adhésion (Const. 38.1).
+
+Raison : rapports de la seconde vérification de cohérence (`potere`, `economia`, `persone`), avec les choix de l’auteur sur la sortie à seize ans et sur l’âge pour le tirage au sort. Les rubriques sur le territoire, les systèmes et la transition suivent à part.
+
+Versions : Constitution de V.36 à V.37 ; Code 1 de V1.10 à V1.11 ; C.1-Annex A de V1.6 à V1.7 ; Code 2 de V1.7 à V1.8 ; Code 3 de V1.8 à V1.9 ; Code 4 de V1.9 à V1.10 ; Code 5 de V1.6 à V1.7 ; Code 6 de V1.8 à V1.9 ; Code 12 de V1.6 à V1.7 ; Code 14 de V1.8 à V1.9 ; Code 15 de V1.10 à V1.11.
+
+## 29 octobre 2026 — Noyau inviolable : animaux dans le Cercle 0 ; cohabitants dans les Communautés associées
+
+**Animaux dans le Cercle 0** (Const. 5.1 a ; Code 14, art. 8-ter.2 et 8-ter.3, art. 8-sexies.8). Le Corps de protection civique peut entrer dans un Cercle 0, même sans le consentement de ceux qui y vivent, pour faire cesser une maltraitance en cours qui met en danger la vie d’un animal ou lui cause de graves souffrances. Il intervient, lorsque c’est possible, avec la fonction de Secours sanitaire et vétérinaire de communauté, se limite à faire cesser la maltraitance et à secourir l’animal, et l’entrée est validée par le Tribunal de garantie dans un délai de vingt-quatre heures, comme celle qui protège les personnes ; pour cela, il peut recourir à la contention non lésionnelle. Quiconque est témoin d’une maltraitance aussi grave dans un Cercle 0 appelle le Corps, en plus de la signaler au Conseil Biodiversité et au Cercle de garantie. Qui ne fait pas partie du Corps ne peut toujours pas entrer sans consentement pour défendre un animal.
+
+**Cohabitants dans les Communautés associées** (Const. 4.5, 4.9 b et 4.9-ter ; Code 15, art. 21-bis.8 et nouvel art. 21-bis.9). Qui vit de manière stable dans une Communauté associée sans adhérer peut y rester selon l’ordre interne. Il est à la charge de la Communauté qui l’accueille : il ne prélève ni dans les Entrepôts communs ni dans le Pool et ne reçoit pas de CdR. La part de travail de la Communauté à la frontière est calculée sur toutes les personnes qui y vivent, membres et non-membres. Il ne vote pas dans les Assemblées générales et ne figure pas sur les listes de tirage au sort des organes communs. Il conserve les garanties de l’art. 1.3 et le recours aux organes communs ; le travail qu’il accomplit pour la Communauté est volontaire et ne peut pas être exigé. Il peut adhérer à tout moment et est informé par écrit chaque année de ce droit. Si les non-adhérents sont plus nombreux que les membres, le Cercle 2 vérifie chaque année qu’il n’y a pas d’exploitation. Dans tous les autres cas, y compris lorsque l’ordre interne n’accueille plus la personne, la limite de quatorze jours de l’hospitalité (art. 4.9 b) et l’art. 4.9-ter restent inchangés. À partir du 1er novembre 2026 s’applique aussi l’exception de l’art. 26.5 pour le mineur qui reste dans son Cercle 0 après sa sortie.
+
+**Modification du Noyau inviolable.** L’art. 5.1 a) fait partie du Noyau inviolable (Const. 37.4 f), de même que l’art. 4.9 (37.4 j). Le Noyau ne peut pas être révisé (Const. 37.4 et 38.4) : il ne s’agit pas d’une révision, mais d’une réécriture du texte par l’auteur avant toute adhésion, possible seulement parce que le système n’a encore été adopté par aucune Communauté et que la Constitution n’est en vigueur pour aucune Communauté (Const. 38.1). C’est la même voie que celle suivie le 19 octobre 2026 pour la rubrique C1-bis. Après la première adhésion, ce ne serait plus possible. Les deux exceptions sont écrites de la manière la plus réduite : une phrase dans l’art. 5.1 a) et, dans les art. 4.9 b) et 4.9-ter, un renvoi à l’art. 4.5. Une fois en vigueur, l’exception de l’art. 5.1 a) est protégée par le Noyau : une révision ne pourra pas l’étendre ; celle des cohabitants renvoie à l’art. 4.5 et au Code 15, qui peuvent être modifiés selon leurs propres procédures, mais elle ne peut pas valoir hors des Communautés associées (précision du 1er novembre 2026).
+
+**Registres et questions fréquentes.** Dans l’entrée du 26 octobre 2026, il est noté que les deux propositions non appliquées alors le sont maintenant. Dans la question « Comment est-elle faite ? », la Communauté entre dans le Noyau de soin pour protéger quelqu’un « ou, dans les cas graves, un animal ».
+
+Raison : décisions de l’auteur sur la rubrique D4 du rapport sur la défense personnelle et sur la rubrique M1, seconde partie, du rapport sur les Communautés associées (vérification de cohérence du 26 octobre 2026). Jusqu’ici, un animal gravement maltraité à l’intérieur d’une maison ne pouvait être protégé par personne : le Code renvoyait au Corps, qui ne pouvait pas entrer. Et qui vit depuis des années dans une communauté qui s’associe, sans adhérer, par exemple un conjoint, aurait dû partir au bout de quatorze jours ou demander le Pacte de cohabitation autonome. Le Noyau inviolable n’est réécrit que parce que le système n’a encore été adopté par aucune Communauté (Const. 38.1).
+
+Versions : Constitution de V.35 à V.36, Code 14 de V1.7 à V1.8, Code 15 de V1.9 à V1.10.
+
 ## 29 octobre 2026 — Traduction espagnole des règles
 
 La Constitution, les seize Codes et les quatre Annexes sont traduits en espagnol (`testi/es/registro/`) et publiés sur le site avec leur registre des modifications (`CAMBIOS.md`) et les fichiers PDF et ODT à télécharger ; les réponses aux questions en espagnol renvoient désormais aux articles espagnols. Aucune règle ne change sur le fond. C’est une traduction de travail, à faire relire par des locuteurs natifs de l’espagnol ; les termes sont fixés dans `testi/es/GLOSARIO.md`. Le texte qui fait foi est l’italien.
+
+Les pages de service sont traduites elles aussi : le registre des paramètres à vérifier, les trois brouillons techniques (Panier, UCR, CdR), les archives des propositions et leur vérification contradictoire (`testi/es/borradores/`) ; la version espagnole du site renvoie désormais à ces pages. La vérification de cohérence reste en italien, comme pour l’anglais et le français.
 
 ## 27 octobre 2026 — Code 3 : approbation de l’Annexe UCR ; brouillons techniques alignés
 
@@ -71,7 +197,7 @@ Une vérification de cohérence ciblée a relu les nouveautés du 19 au 26 octob
 
 **Registres et questions fréquentes.** La description de la règle sur les objets dans l’entrée du 20 octobre sur la défense personnelle est corrigée. La question fréquente « Une communauté qui existe déjà doit-elle changer sa façon de vivre pour entrer ? » est corrigée.
 
-Raison : vérification de cohérence ciblée du 26 octobre 2026 ; décisions de l’auteur sur les Communautés associées, sur le Pool, sur le Bien commun vital et sur l’animal qui agresse. Le Noyau inviolable et la Const. 38.6 ne sont pas touchés. Deux propositions qui auraient touché le Noyau ne sont pas appliquées : l’entrée du Corps dans un Cercle 0 pour un animal (Const. 5.1 a) et la dérogation à la limite d’hospitalité de l’art. 4.9 pour qui vit dans une Communauté associée sans adhérer.
+Raison : vérification de cohérence ciblée du 26 octobre 2026 ; décisions de l’auteur sur les Communautés associées, sur le Pool, sur le Bien commun vital et sur l’animal qui agresse. Le Noyau inviolable et la Const. 38.6 ne sont pas touchés. Deux propositions qui auraient touché le Noyau ne sont pas appliquées : l’entrée du Corps dans un Cercle 0 pour un animal (Const. 5.1 a) et la dérogation à la limite d’hospitalité de l’art. 4.9 pour qui vit dans une Communauté associée sans adhérer. Les deux propositions ont été appliquées, avec une réécriture du Noyau avant toute adhésion, dans l’entrée du 29 octobre 2026.
 
 Versions : Constitution de V.34 à V.35, Code 1 de V1.9 à V1.10, Code 4 de V1.8 à V1.9, Code 13 de V1.7 à V1.8, Code 14 de V1.6 à V1.7, Code 15 de V1.8 à V1.9, Code 16 de V1.8 à V1.9, Annexe C du Code 16 de V1.2 à V1.3.
 

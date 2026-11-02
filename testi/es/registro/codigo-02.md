@@ -1,12 +1,12 @@
 ---
 titolo: "CÓDIGO 2 — DE LA CALIDAD Y DE LA VALIDACIÓN"
 breve: "Código 2 — Calidad y validación"
-versione: "V1.7"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 2
 id: "codice-02"
 slug: "codigo-02"
-allineamento: "Constitución V.35; Código 1 V1.10; Código 3 V1.8; Código 4 V1.9; Código 5 V1.6; Código 6 V1.8; Código 7 V1.9; Código 8 V1.6; C.1-Annex A V1.6; Código 9 V3.3; Código 10 V1.7; Código 11 V1.5; Código 12 V1.6; Código 13 V1.8; Código 14 V1.7; Código 15 V1.9; Código 16 V1.9."
+allineamento: "Constitución V.38; Código 1 V1.12; Código 3 V1.11; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 7 V1.10; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 15 V1.12; Código 16 V1.10."
 ---
 
 ## CAPÍTULO I — PRINCIPIOS, CRITERIOS Y ADMISIÓN
@@ -133,7 +133,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 3 V1.8; Código 4 V1
 
     a) **dependencia crítica absoluta:** causa un bloqueo total o un acoplamiento propietario irreversible, o hace imposible el uso sin conexión o el control comunitario. Está prohibida y no puede admitirse ni siquiera de forma temporal;
 
-    b) **dependencia crítica residual y superable:** causa una limitación parcial que la Comunidad puede eliminar mediante herramientas, procedimientos o sustituciones técnicamente disponibles. El bien solo puede admitirse temporalmente conforme al artículo 4, apartado 1, letra d), con un Plan de Sustitución obligatorio. Cuando la dependencia se refiere a un software o a un firmware cuyo código fuente no está disponible, la admisión se permite dentro de los límites del artículo 19.4 de la Constitución y del artículo 12, apartado 5, y nunca se permite para los sistemas que proponen o deciden sobre derechos, voto y Bienes Comunes, entre ellos las IA de Gestión, los algoritmos del artículo 2, apartado 5, del Código 7, la IA personal y los sistemas de consulta y de voto del artículo 34.4 de la Constitución.
+    b) **dependencia crítica residual y superable:** causa una limitación parcial que la Comunidad puede eliminar mediante herramientas, procedimientos o sustituciones técnicamente disponibles. El bien solo puede admitirse temporalmente conforme al artículo 4, apartado 1, letra d), con un Plan de Sustitución obligatorio. Cuando la dependencia se refiere a un software o a un firmware cuyo código fuente no está disponible, la admisión se permite dentro de los límites del artículo 19.4 de la Constitución y del artículo 12, apartado 5, y nunca se permite para los sistemas que proponen o deciden sobre derechos, voto y Bienes Comunes, entre ellos las IA de Gestión, los algoritmos del artículo 2, apartado 5, del Código 7, la IA personal y los sistemas de consulta y de voto del artículo 34.4 de la Constitución. A efectos del artículo 19.4 de la Constitución, no proponen ni deciden el firmware y el software que ejecutan órdenes humanas o automatizaciones dotadas de STV, sin formular propuestas o elecciones sobre derechos, voto o destino de los Bienes Comunes.
 
 3.  La clasificación figura en la STV, sobre la base de una instrucción del Consejo de Calidad y del dictamen del Consejo de la Red. La evaluación considera también la posibilidad concreta, los plazos y los costos de la eliminación de la dependencia.
 
@@ -583,7 +583,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 3 V1.8; Código 4 V1
 
     d) la obtención del dictamen del Consejo de Salud cuando el servicio afecta a personas, a la salud o a la seguridad;
 
-    e) la decisión del Consejo de Calidad para los servicios por debajo del umbral y de uso común, o la propuesta del Consejo de Calidad y la decisión de la Asamblea para los casos previstos en el artículo 15;
+    e) la propuesta del Consejo de Calidad y la decisión del órgano indicado por la matriz del artículo 7 del Código 3, conforme al artículo 15;
 
     f) la celebración del contrato con cláusulas de salida, continuidad, devolución de los datos y gestión de las dependencias;
 

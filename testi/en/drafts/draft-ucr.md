@@ -54,7 +54,7 @@ An example of actual hours: in Rwanda coffee growing requires about 251 working 
 
 **What makes up the cost: labour, means of production, transport.** The real cost of a good has three parts: the hours of those who produce it, the share of the means used to produce it (machines, materials, energy, converted into hours) and transport. A country’s coefficient does not measure distance: it estimates how many hours are needed there, with the means of production used there. The coffee contains three hours because it is picked by hand, with few means; with better tools it would contain fewer, wherever it was grown. Transport is counted separately and weighs little: in May 2026 a container from Shanghai to Genoa cost about 4,100 dollars, that is about 20 cents per kilo of goods with a twenty-tonne load: less than one hundredth of a UCR.
 
-These are indicative conversions (Art. 9, para. 6), to be improved with supply-chain data.
+The hours-per-euro coefficient is part of the method (Art. 9, para. 4, letters b and c) and is certified with its uncertainty class (Art. 9, para. 5); it is to be improved with supply-chain data. Only conversions from UCR to euros, such as those in section 6, are indicative under Art. 9, para. 6.
 
 **What the UCR does not measure.** It does not measure environmental impact, which is assessed by the STV in accordance with Code 2. It does not include domestic work carried out in the Care Nuclei. It does not include civic functions, which appear in the Labour Balance and not in the cost of individual goods.
 

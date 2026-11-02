@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 12 — CURA DI COMUNITÀ, FRAGILITÀ FUNZIONALI E SALUTE DI COMUNITÀ"
 breve: "Codice 12 — Cura di comunità"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 12
 id: "codice-12"
 slug: "codice-12"
-allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; Codice 4 V1.9; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 13 V1.8; Codice 14 V1.7; Codice 15 V1.9; Codice 16 V1.9."
+allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.11; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.12; Codice 16 V1.10."
 ---
 
 ## Art. 1 — Oggetto, definizioni e ambito di competenza
@@ -250,7 +250,7 @@ a) il rientro nel Cerchio 0, eventualmente con un percorso di sostegno; oppure
 
 b) soltanto quando il rientro esporrebbe il minore a violenza, grave negligenza o pregiudizio che un percorso di sostegno non può evitare, l’affidamento a persone che assumono la responsabilità di cura ai sensi dell’articolo 24.3 della Costituzione, indicando se essa resta condivisa con le persone che la esercitavano o è sospesa per loro, e come sono mantenuti i rapporti con loro, salvo che ciò nuoccia al minore.
 
-La decisione è riesaminata dal Tribunale almeno ogni sei mesi e in ogni momento su richiesta del minore o delle persone che avevano la responsabilità di cura. Contro di essa è ammesso il riesame dell’articolo 35, comma 2, del Codice 4. Il presente comma si applica anche alla decisione su dove e con chi vivono i figli minori della persona che cessa di essere membro ai sensi dell’articolo 29, comma 6-bis, del Codice 4; la decisione è presa prima che la cessazione produca effetti e non richiede la separazione del comma 3. In tal caso la cessazione non costituisce, da sola, violenza, grave negligenza o pregiudizio ai sensi della lettera b), e il Tribunale può disporre anche che il minore viva con la persona sulla porzione assegnata, con l’alloggio, il Paniere e i servizi che gli spettano come membro.
+La decisione è riesaminata dal Tribunale almeno ogni sei mesi e in ogni momento su richiesta del minore o delle persone che avevano la responsabilità di cura. Contro di essa è ammesso il riesame dell’articolo 35, comma 2, del Codice 4. Il presente comma si applica anche alla decisione su dove e con chi vivono i figli minori della persona che cessa di essere membro ai sensi dell’articolo 29, comma 6-bis, del Codice 4; la decisione è presa prima che la cessazione produca effetti e non richiede la separazione del comma 3. In tal caso la cessazione non costituisce, da sola, violenza, grave negligenza o pregiudizio ai sensi della lettera b), e il Tribunale può disporre anche che il minore viva con la persona sulla porzione assegnata, con l’alloggio, il Paniere e i servizi che gli spettano come membro. Il presente comma si applica anche, su segnalazione del Consiglio Cura o di chiunque vi abbia interesse, quando nessuno esercita la responsabilità di cura del minore o più persone se la contendono; il termine decorre dalla segnalazione e il Tribunale indica chi assume la responsabilità di cura.
 
 3-ter. Durante la transizione la separazione contro la volontà di chi ha la responsabilità di cura e le decisioni del comma 3-bis spettano alle autorità dello Stato competenti, ai sensi dell’articolo 37 del Codice 4. Il Consiglio Cura segnala il caso, sostiene il minore e collabora alla sua accoglienza.
 
@@ -276,6 +276,8 @@ La decisione è motivata e indica chi prende le decisioni quotidiane e come sono
 
 4.  Contro la decisione del comma 2, o se essa non è presa nel termine, il minore e ciascuna persona che ne ha la responsabilità di cura possono ricorrere entro quattordici giorni al Tribunale di Garanzia, che decide entro trenta giorni con le garanzie dell’articolo 7-bis, comma 3-bis, tenendo conto della volontà del minore secondo l’età e la maturità. Contro la decisione del Tribunale è ammesso il riesame dell’articolo 35, comma 2, del Codice 4.
 
+4-bis. Il minore è membro dalla nascita, o dall’arrivo nella Comunità, se lo è almeno una delle persone che ne hanno la responsabilità di cura. Negli altri casi l’adesione è resa con le regole di età dell’articolo 26.5 della Costituzione: dal compimento del sedicesimo anno dal minore stesso, prima da chi ne ha la responsabilità di cura, nel suo interesse e dopo averlo informato e ascoltato. Ai fini dell’articolo 26.4 della Costituzione è cresciuta nella Confederazione la persona che è stata membro da minore per almeno un anno.
+
 5.  Dal compimento del sedicesimo anno il minore può rendere da sé la dichiarazione dell’articolo 4.8 della Costituzione, ai sensi dell’articolo 26.5 della Costituzione. La dichiarazione è preceduta da un colloquio con il Consiglio Cura, nel quale il minore può farsi assistere dalla persona di fiducia; il Consiglio lo informa degli effetti dell’articolo 4.8, dei diritti che conserva ai sensi del comma 8, del Patto di Convivenza Autonoma e della riammissione, e verifica con lui dove e con chi vivrà. Il colloquio si svolge entro quattordici giorni dalla richiesta; decorso il termine senza colloquio, la dichiarazione può essere resa comunque. Le persone che hanno la responsabilità di cura sono informate, salvo che ciò esponga il minore a pericolo. Se, prima del diciottesimo anno, il minore non è in grado di decidere, si applica il comma 6.
 
 6.  Fino al compimento del sedicesimo anno la dichiarazione dell’articolo 4.8 della Costituzione per il minore è resa da chi ne ha la responsabilità di cura, soltanto nell’interesse del minore, dopo averlo informato e ascoltato in modo adatto all’età; il parere del minore ha un peso crescente con l’età e la maturità, ai sensi dell’articolo 26.2 della Costituzione. Se le persone responsabili sono più d’una, decidono d’accordo. La dichiarazione che una persona rende per sé non si estende ai minori di cui ha la responsabilità di cura.
@@ -288,7 +290,7 @@ La decisione è motivata e indica chi prende le decisioni quotidiane e come sono
 
 Contro la decisione è ammesso il riesame dell’articolo 35, comma 2, del Codice 4.
 
-8.  Il minore che non è più membro conserva in ogni caso l’acqua potabile, le cure d’emergenza salvavita e la protezione dei minori garantite dall’articolo 1.3 della Costituzione, i diritti dell’articolo 26 della Costituzione richiamati dall’articolo 4.9-bis, compreso l’accesso alle cure e all’apprendimento, e gli altri diritti dell’articolo 4.9. Può continuare a vivere nel proprio Cerchio 0, con il consenso di chi vi abita, e può chiedere in ogni momento la riammissione ai sensi dell’articolo 4.8 della Costituzione.
+8.  Il minore che non è più membro conserva in ogni caso l’acqua potabile, le cure d’emergenza salvavita e la protezione dei minori garantite dall’articolo 1.3 della Costituzione, i diritti dell’articolo 26 della Costituzione richiamati dall’articolo 4.9-bis, compreso l’accesso alle cure e all’apprendimento, e gli altri diritti dell’articolo 4.9, salvo il limite della lettera b). Ai sensi dell’articolo 26.5 della Costituzione può continuare a vivere nel proprio Cerchio 0, con il consenso di chi vi abita, fino al compimento del diciottesimo anno; nel frattempo riceve il Paniere per sé e non gli si applica l’articolo 4.9-ter della Costituzione. Può chiedere in ogni momento la riammissione ai sensi dell’articolo 4.8 della Costituzione.
 
 9.  Durante la transizione il presente articolo si applica nei limiti consentiti dalla legge vigente sulla responsabilità di cura e sulla partecipazione dei minori agli enti, ai sensi dell’articolo 37 del Codice 4. La scelta residenziale contro la volontà di chi ha la responsabilità di cura e le decisioni del Tribunale previste dai commi 4 e 7 spettano alle autorità dello Stato competenti; il Consiglio Cura sostiene il minore.
 
@@ -334,7 +336,7 @@ Contro la decisione è ammesso il riesame dell’articolo 35, comma 2, del Codic
 
     f) utilizzare dati sulla fragilità funzionale per profilazioni o finalità diverse dalla presa in carico e dalle finalità tecniche espressamente consentite dal Codice 7;
 
-    g) disporre l’istituzionalizzazione forzata di una persona, salvo una collocazione temporanea strettamente necessaria a fronte di un rischio immediato, adottata alle condizioni e con le garanzie dell’articolo 8, commi da 4 a 10, del Codice 6; per i minori si applica l’articolo 7-bis, comma 3. Gli eventuali trattamenti sanitari restano disciplinati dal Codice 6 e dalle relative garanzie.
+    g) disporre l’istituzionalizzazione forzata di una persona, salvo una collocazione temporanea strettamente necessaria a fronte di un rischio immediato, adottata alle condizioni e con le garanzie dell’articolo 8, commi da 4 a 10, del Codice 6; per i minori si applicano inoltre l’articolo 8 del Codice 6 e, se la collocazione li separa dal Cerchio 0, l’articolo 7-bis, comma 3. Gli eventuali trattamenti sanitari restano disciplinati dal Codice 6 e dalle relative garanzie.
 
 2.  Le violazioni del comma 1 costituiscono violazioni sostanziali. L’accertamento, le misure cautelari, la sospensione o la disattivazione della funzione e i rimedi sono adottati secondo il Codice 4. Il Consiglio Cura documenta i fatti e attiva le procedure previste, senza sostituirsi agli organi competenti per l’accertamento o per l’applicazione dei rimedi.
 

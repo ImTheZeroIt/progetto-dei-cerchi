@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 5 — ON LEARNING AND COMPETENCES"
 breve: "Code 5 — Learning and competences"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 5
 id: "codice-05"
 slug: "code-05"
-allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4 V1.9; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.8; Code 14 V1.7; Code 15 V1.9; Code 16 V1.9."
+allineamento: "Constitution V.38; Code 1 V1.12; Code 2 V1.9; Code 3 V1.11; Code 4 V1.10; Code 6 V1.9; Code 7 V1.10; Code 8 V1.7; C.1-Annex A V1.7; Code 9 V3.4; Code 10 V1.8; Code 11 V1.6; Code 12 V1.7; Code 13 V1.9; Code 14 V1.10; Code 15 V1.12; Code 16 V1.10."
 ---
 
 ## PRELIMINARY TITLE — FUNDAMENTAL PRINCIPLES
@@ -217,7 +217,7 @@ The outcome shall not be expressed as a numerical mark or ranking and does not c
 
 Assessment is descriptive and considers what the minor is able to do, what they wish to learn, the supports they need and their interests, with their participation and that of the mentors.
 
-4.  From the age of fourteen and until the eighteenth year is completed, the minor may progressively access List B and C activities under the following conditions:
+4.  From the age of fourteen and until the eighteenth year is completed, the minor may progressively access List A, B and C activities under the following conditions; in the functions of List D of Code 1 the minor takes part from the age of sixteen only alongside the members, without a vote, pursuant to Article 12-bis, paragraph 4, of Code 3:
 
     a) for competences of nil or low risk they may carry out supervised practice, without this automatically entailing an autonomous validation;
 
@@ -231,7 +231,7 @@ Assessment is descriptive and considers what the minor is able to do, what they 
 
 6.  From completion of the eighteenth year the ordinary rules shall apply, including the measures of exemption, reduction or suspension provided for by Code 1. For a person who has grown up in the Confederation, the ordinary rules apply from the choice provided for by Article 26.4 of the Constitution or from the expiry of the related time limit; until then their CBO remains voluntary pursuant to paragraph 5, without the consent of the Care Council, and they retain the rights of a member.
 
-6-bis. In implementation of Article 26.4 of the Constitution, at least three months before the eighteenth birthday the Competences Council, with the Care Council, informs the person who has grown up in the Confederation in writing of the three possibilities, of the time limit, of the rights of Article 4.8 of the Constitution and of the support for starting an autonomous life, and organises at their request the period of acquaintance with other Communities and with external realities. The choice is declared in writing to the Assembly of Circle 1 or recorded in the personal AI Node; the person may review it at any time. The time limit does not run until the information has been given.
+6-bis. In implementation of Article 26.4 of the Constitution, at least three months before the eighteenth birthday the Competences Council, with the Care Council, informs the person who has grown up in the Confederation in writing of the three possibilities, of the time limit, of the rights of Article 4.8 of the Constitution and of the support for starting an autonomous life, and organises at their request the period of acquaintance with other Communities and with external realities. The choice is declared in writing to the Assembly of Circle 1 or recorded in the personal AI Node; the person may review it at any time. The time limit does not run until the information has been given. For a person who, as a minor, ceased to be a member pursuant to Article 26.5 of the Constitution and has not been readmitted, the choice remains possible at any time as readmission; silence does not count as joining and until the choice the person does not have the rights of a member.
 
 7.  Every minor learner shall be accompanied by three reference figures on quarterly rotation, belonging to different Competence Circles and not belonging to the minor’s family or Circle 0, pursuant to Article 29.3 of the Constitution. The figures shall be identified by the Competences Council with the participation of the minor.
 

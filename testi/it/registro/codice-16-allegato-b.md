@@ -1,7 +1,7 @@
 ---
 titolo: "ALLEGATO TECNICO B AL CODICE 16 — MANUALE OPERATIVO DI DISINSERIMENTO E FEDERAZIONE"
 breve: "Allegato B al Codice 16 — Manuale operativo di disinserimento e federazione"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "allegati"
 ordine: 16.2
 id: "codice-16-allegato-b"
@@ -23,7 +23,7 @@ Allegato tecnico adottato ai sensi dell’articolo 19 del Codice 3. Il presente 
 
     c) l’articolo 6 si applica nel percorso dalla Fase 2 alla Fase 3;
 
-    d) l’articolo 7 disciplina la diffusione esterna successiva alla transizione e non costituisce una Fase 4 del Codice 16.
+    d) l’articolo 7 disciplina la diffusione esterna durante la transizione, resta come guida tecnica dopo la chiusura e non costituisce una Fase 4 del Codice 16.
 
     Nessun termine operativo può autorizzare il passaggio a una fase istituzionale prima del superamento delle relative soglie del Codice 16.
 
@@ -187,9 +187,9 @@ Allegato tecnico adottato ai sensi dell’articolo 19 del Codice 3. Il presente 
 
     d) la crisi o l’interruzione delle attività di un blocco non determina automaticamente l’interruzione degli altri blocchi. Sono predisposte misure di continuità coerenti con il Paniere e con i Codici applicabili.
 
-## Art. 7 — Diffusione esterna successiva alla transizione
+## Art. 7 — Diffusione esterna
 
-1.  Il presente articolo disciplina un’attività di diffusione esterna successiva alla transizione. Non costituisce una fase del Codice 16 e non modifica la definizione della Fase 4, che nel Codice 16 corrisponde alla chiusura.
+1.  Il presente articolo disciplina la diffusione esterna durante la transizione; dopo la chiusura resta come guida tecnica senza effetti normativi. Non costituisce una fase del Codice 16 e non modifica la definizione della Fase 4, che nel Codice 16 corrisponde alla chiusura.
 
 2.  La diffusione esterna è valutata sulla base dell’adozione volontaria di soluzioni per convenienza funzionale misurabile e non richiede l’adesione universale.
 
@@ -211,9 +211,9 @@ Allegato tecnico adottato ai sensi dell’articolo 19 del Codice 3. Il presente 
 
 1.  Le iniziative operative previste dal presente Allegato sono sospese, quanto alla proposta di passaggio o all’attività di riduzione delle dipendenze, quando si verifichi una delle seguenti condizioni:
 
-    a) il Paniere 1-2 non è garantito per tre mesi continuativi;
+    a) il Paniere 1-2 non è garantito per tre mesi continuativi in un Cerchio pilota dell’unità che propone il passaggio;
 
-    b) oltre il venti per cento delle risposte valide al questionario anonimo sulla sicurezza percepita è negativo;
+    b) oltre il venti per cento delle risposte valide al questionario anonimo sulla sicurezza percepita è negativo in un Cerchio pilota dell’unità che propone il passaggio;
 
     c) si verifica un incidente R4 che non è stato gestito secondo le procedure applicabili o per il quale manca l’analisi delle cause richiesta;
 
@@ -231,7 +231,7 @@ Allegato tecnico adottato ai sensi dell’articolo 19 del Codice 3. Il presente 
 
     d) per la condizione di cui al comma 1, lettera d), il Consiglio Transizione, previo parere legale professionale.
 
-4.  Al riavvio sono nuovamente verificate le condizioni della Fase 0 pertinenti alla causa della sospensione. Restano validi gli esiti precedenti che non sono interessati dalla causa.
+4.  Al riavvio sono nuovamente verificate le condizioni della fase in corso pertinenti alla causa della sospensione. Restano validi gli esiti precedenti che non sono interessati dalla causa.
 
 5.  Il riavvio è deliberato dall’Assemblea Generale, previo parere obbligatorio dei Consigli competenti, e pubblicato secondo l’articolo 15 del Codice 3. Quando la sospensione per la condizione del comma 1, lettera b), riguarda soltanto la proposta di passaggio di fase, la proposta riprende con l’esito positivo della nuova verifica del comma 3, lettera a), senza una deliberazione separata di riavvio.
 

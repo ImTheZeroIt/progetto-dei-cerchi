@@ -1,12 +1,12 @@
 ---
 titolo: "C.1-ANNEX A — PRODUCTION MATÉRIELLE ET ATELIERS"
 breve: "Annexe A au Code 1 — Production matérielle et ateliers"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "allegati"
 ordine: 1.5
 id: "codice-01-annex-a"
 slug: "code-01-annexe-a"
-allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.8 ; Code 4 V1.9 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.8 ; Code 14 V1.7 ; Code 15 V1.9 ; Code 16 V1.9."
+allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 3 V1.11 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 7 V1.10 ; Code 8 V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 15 V1.12 ; Code 16 V1.10."
 ---
 
 ## Art. 1 — Objet, définitions et nature juridique
@@ -197,7 +197,7 @@ e) ils sont différables au sens de l’article 32, alinéa 1-bis, du Code 1, sa
 
 4.  La vérification est consignée dans la documentation technique ou dans la STV applicable. L’autoconstruction est encouragée lorsqu’elle est réalisée avec des compétences L2 validées, des composants standard et des solutions réparables et documentées.
 
-5.  Pour les niveaux 4 et 5, il est interdit de produire des objets neufs qui dépendent structurellement de composants propriétaires non réparables localement. Une dérogation peut être accordée par l’Assemblée générale à la majorité qualifiée, sur motivation technique documentée et aux conditions suivantes :
+5.  Pour les niveaux 4 et 5, il est interdit de produire des objets neufs qui dépendent structurellement de composants propriétaires non réparables localement. Une dérogation peut être accordée par l’Assemblée du Cercle 1 à la majorité qualifiée, sur motivation technique documentée et aux conditions suivantes :
 
     a) l’impossibilité d’une solution alternative adéquate est démontrée ;
 
@@ -209,7 +209,7 @@ e) ils sont différables au sens de l’article 32, alinéa 1-bis, du Code 1, sa
 
     e) le plan est réexaminé au moins tous les six mois.
 
-    La dérogation ne peut pas dépasser au total vingt-quatre mois, sauf urgence extrême au sens de l’article 2-bis du Code 6. Toute dépendance critique qui en résulte est inscrite au Registre des dépendances conformément au Code 15.
+    La dérogation ne peut pas dépasser au total vingt-quatre mois, sauf risque collectif immédiat et documenté au sens de l’article 2-bis du Code 6. Toute dépendance critique qui en résulte est inscrite au Registre des dépendances conformément au Code 15.
 
 ## Art. 6 — Ateliers, réseau fédéré et mesure
 

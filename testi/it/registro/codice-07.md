@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 7 — DELL’AUTOMAZIONE E DELLA RETE"
 breve: "Codice 7 — Automazione e Rete"
-versione: "V1.9"
+versione: "V1.10"
 gruppo: "codici"
 ordine: 7
 id: "codice-07"
 slug: "codice-07"
-allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; Codice 4 V1.9; Codice 5 V1.6; Codice 6 V1.8; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.8; Codice 14 V1.7; Codice 15 V1.9; Codice 16 V1.9."
+allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.11; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.12; Codice 16 V1.10."
 ---
 
 ## TITOLO PRELIMINARE — PRINCIPI FONDAMENTALI
@@ -43,7 +43,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
 ### Art. 2 — Principi
 
-1.  **Sovranità digitale.** Server, codice, dati e modelli utilizzati per funzioni confederali sono ospitati o gestiti su infrastrutture comunitarie controllate dalla Confederazione. È ammesso il ricorso temporaneo a cloud proprietari estrattivi solo per una transizione motivata e registrata nel Registro Dipendenze previsto dal Codice 15.
+1.  **Sovranità digitale.** Server, codice, dati e modelli utilizzati per funzioni confederali sono ospitati o gestiti su infrastrutture comunitarie controllate dalla Confederazione. È ammesso il ricorso temporaneo a cloud proprietari estrattivi solo durante la transizione disciplinata dal Codice 16, ai sensi del suo articolo 9-bis, con motivazione e registrazione nel Registro Dipendenze previsto dal Codice 15.
 
 2.  **Non sorveglianza.** La Rete non può tracciare, classificare, profilare o prevedere i comportamenti individuali per finalità di controllo, punteggio, reputazione o previsione comportamentale.
 
@@ -83,7 +83,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
     d) il Registro delle Decisioni Assembleari previsto dal Codice 3;
 
-    e) il Registro della Garanzia in forma anonimizzata secondo il Codice 4;
+    e) il Registro riparativo e l’Archivio delle decisioni in forma anonimizzata secondo il Codice 4;
 
     f) il Registro Dipendenze previsto dal Codice 15.
 
@@ -231,7 +231,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
 ### Art. 5-ter — IA di Comunità e di Cerchio: indipendenza, rifiuto e revisione
 
-1.  Le IA di Comunità, del Cerchio Intermedio e del Cerchio Esteso sono IA Gestionali locali, open source, ispezionabili e a dominio limitato. Operano in modalità consultiva o tecnica e sono soggette al diritto di override manuale locale.
+1.  Le IA di Comunità, del Cerchio Intermedio e del Cerchio Esteso sono IA Gestionali locali, open source, ispezionabili e a dominio limitato. Operano in modalità consultiva o tecnica e sono soggette al diritto di override manuale locale. Per il bilancio del Magazzino, il ciclo idrico e l’energia locale l’IA di Comunità opera esclusivamente in modalità consultiva, ai sensi degli articoli 10.5, 15.3 e 22.1 della Costituzione.
 2.  È vietata la costituzione di un’IA centrale o di un’IA generalista unica, ai sensi degli articoli 19.2, 20.2 e 23.1 della Costituzione. Il Cerchio Globale è un protocollo distribuito di interoperabilità: non dispone di un modello centrale né di una raccolta centralizzata di dati personali.
 3.  Nessuna IA può comandare, subordinare o disattivare un’altra IA. L’interoperabilità tra sistemi avviene mediante protocolli aperti e con l’autorizzazione del Consiglio Rete di ciascun Cerchio interessato. I conflitti tra sistemi sono decisi dall’organo umano competente.
 4.  Ogni IA Gestionale è configurata per rifiutare, con motivazione tracciata nella Rete, un’istruzione che comporta una violazione manifesta della Costituzione o dei protocolli applicabili, ai sensi dell’articolo 20.3 della Costituzione. Il rifiuto è trasmesso senza ritardo al Consiglio Rete e all’organo competente, che decide entro settantadue ore. Nel frattempo le funzioni essenziali sono assicurate con le procedure manuali previste dall’articolo 38 del Codice 1.
@@ -367,13 +367,13 @@ vii. del tempo massimo di ripristino.
 
     a) il registro degli aventi diritto, tenuto da ciascuna Comunità di Base secondo l’articolo 36.1 della Costituzione e l’articolo 12, comma 1, del Codice 3, che verifica soltanto che chi vota o firma abbia diritto di voto in quella deliberazione e voti o firmi una sola volta;
 
-    b) l’urna, che riceve i voti e le firme senza alcun dato che identifichi chi li ha espressi.
+    b) l’urna, che riceve i voti e le firme senza alcun dato che identifichi chi li ha espressi. L’urna è ospitata sui nodi della Rete Federata della Comunità o, per le votazioni dei Cerchi superiori, di ciascuna Comunità interessata.
 
     Le due parti operano su sistemi distinti e sono amministrate da persone diverse; nessuno accede a entrambe con le stesse credenziali.
 
 3.  Sono vietati log, registri, metadati o altri dati che consentano di collegare una persona al suo voto o alla sua firma, anche per finalità di sicurezza, di audit o di ricorso; l’articolo 2, commi 3 e 4, non consente tale collegamento. Il registro degli aventi diritto conserva soltanto il fatto che la persona ha votato o firmato, per il tempo necessario alla chiusura della votazione e dei ricorsi. Il sistema non rilascia a chi vota alcuna prova che gli consenta di dimostrare ad altri come ha votato, ai sensi dell’articolo 36.1 della Costituzione.
 
-4.  Il software del registro e dell’urna è open source ed è accompagnato da una STV di funzionamento approvata ai sensi dell’articolo 3-bis del Codice 2. Non sono ammessi codice di cui non è disponibile il sorgente né dipendenze residue ai sensi dell’articolo 5, comma 2, lettera b), del Codice 2, neppure in via temporanea e neppure durante la transizione, ai sensi dell’articolo 19.4 della Costituzione e dell’articolo 9-bis, comma 1, lettera b), del Codice 16. Ogni aggiornamento è verificato prima dell’adozione ai sensi dell’articolo 5-ter, comma 7, e nessun aggiornamento è installato durante una votazione aperta.
+4.  Il software del registro e dell’urna e quello con cui si vota o si firma sono open source e sono accompagnati da una STV di funzionamento approvata ai sensi dell’articolo 3-bis del Codice 2. Non sono ammessi codice di cui non è disponibile il sorgente né dipendenze residue ai sensi dell’articolo 5, comma 2, lettera b), del Codice 2, neppure in via temporanea e neppure durante la transizione, ai sensi dell’articolo 19.4 della Costituzione e dell’articolo 9-bis, comma 1, lettera b), del Codice 16. Ogni aggiornamento è verificato prima dell’adozione ai sensi dell’articolo 5-ter, comma 7, e nessun aggiornamento è installato durante una votazione aperta.
 
 5.  Il conteggio è svolto separatamente per ciascuna Comunità di Base. Il numero degli aventi diritto e dei votanti, i totali di ogni Comunità e l’esito sono pubblici e sono iscritti in un registro distribuito replicato su nodi di Cerchi diversi ai sensi dell’articolo 3, comma 4, in modo che ogni Comunità possa verificarli e nessun nodo possa modificarli da solo. Il conteggio è eseguito da un software deterministico e riproducibile a partire dai dati pubblici; un’IA non può raccogliere, contare, interpretare o correggere i voti, ai sensi dell’articolo 2, comma 8.
 

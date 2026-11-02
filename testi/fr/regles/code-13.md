@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 13 — BIODIVERSITÉ, SANCTUAIRES ET FAUNE"
 breve: "Code 13 — Biodiversité, sanctuaires et faune"
-versione: "V1.8"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 13
 id: "codice-13"
 slug: "code-13"
-allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.8 ; Code 4 V1.9 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 14 V1.7 ; Code 15 V1.9 ; Code 16 V1.9."
+allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 3 V1.11 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 7 V1.10 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 14 V1.10 ; Code 15 V1.12 ; Code 16 V1.10."
 ---
 
 ## Art. 1 — Objet, définitions et nature juridique
@@ -82,7 +82,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
     g) assure la coordination technique avec le Conseil Habitat et Territoire du Code 10, le Conseil agroécologique du Code 9, le Conseil Santé du Code 6, le Conseil Énergie et Eau du Code 8 et le Conseil Soin du Code 12.
 
-3.  Les avis obligatoires du Conseil Biodiversité prévus par les Codes 9 et 10 et par le présent Code, lorsqu’ils sont négatifs, sont contraignants pour la protection des limites écologiques, au sens de l’article 6.6 de la Constitution et de l’article 8 du Code 3, uniquement pour les indicateurs et les paramètres de biodiversité, de protection de la faune sauvage et de fonctionnalité biologique expressément attribués au présent Code. Les paramètres de bien-être des animaux qui cohabitent ou collaborent avec les personnes sont approuvés avec l’autorisation de l’alinéa 5. Ces avis ne déterminent ni la localisation, ni la géométrie, ni l’affectation, ni l’imposition d’une contrainte territoriale, qui restent de la compétence du Code 10.
+3.  Les avis obligatoires du Conseil Biodiversité prévus par les Codes 8, 9 et 10, pour le Code 8 dans la seule limite de l’article 6-bis, alinéa 3, et par le présent Code, lorsqu’ils sont négatifs, sont contraignants pour la protection des limites écologiques, au sens de l’article 6.6 de la Constitution et de l’article 8 du Code 3, uniquement pour les indicateurs et les paramètres de biodiversité, de protection de la faune sauvage et de fonctionnalité biologique expressément attribués au présent Code. Les paramètres de bien-être des animaux qui cohabitent ou collaborent avec les personnes sont approuvés avec l’autorisation de l’alinéa 5. Ces avis ne déterminent ni la localisation, ni la géométrie, ni l’affectation, ni l’imposition d’une contrainte territoriale, qui restent de la compétence du Code 10.
 
 4.  Les actes techniques du Conseil Biodiversité sont adoptés en application des STV en vigueur. Les propositions discrétionnaires sont adoptées selon la méthode du consensus par absence d’objections motivées, en application du Code 3, après publication pendant au moins soixante-douze heures. La publication ne comprend pas les données dont la diffusion pourrait porter préjudice aux espèces ou aux sites protégés.
 
@@ -96,7 +96,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
     b) après avis obligatoire du Conseil Habitat et Territoire ;
 
-    c) par délibération de l’Assemblée générale du Cercle 2 adoptée à la majorité qualifiée, selon les règles de la Constitution et du Code 3.
+    c) par délibération de l’Assemblée générale du Cercle 2 adoptée à la majorité qualifiée, selon les règles de la Constitution et du Code 3, l’affectation de la zone étant délibérée par l’Assemblée du Cercle 1 sur le territoire duquel elle se trouve, en application de l’article 4, alinéa 2, du Code 10.
 
 2.  Le sanctuaire est destiné à la plus grande intégrité écologique compatible avec les caractéristiques de la zone et à la stabilité de sa fonction de protection. À l’intérieur du sanctuaire, il est interdit :
 
@@ -136,8 +136,8 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 2.  Chaque animal accueilli a droit à la vie et au soin et n’est pas transférable, sauf si le transfert est nécessaire à son bien-être et attesté par une compétence vétérinaire L3. Sont interdits l’abattage, la mise à mort par convenance, la cession à titre onéreux, l’emploi au travail et la reproduction à des fins d’usage.
 3.  Les animaux accueillis ne sont pas mis à la reproduction. Lorsque cela est nécessaire à leur bien-être et à la capacité de soin, la prévention des naissances s’effectue par les méthodes non lésionnelles définies par la STV Sanctuaires d’accueil.
 4.  Ce que l’animal produit spontanément ne peut être recueilli qu’aux conditions de l’article 13.3-ter de la Constitution. Cela ne peut pas constituer un objectif de production, être programmé dans le Panier ni justifier l’augmentation du nombre d’animaux.
-5.  Chaque Cercle 2 garantit au moins un sanctuaire d’accueil pour trois ou quatre Cercles 1 qui le composent, dimensionné en fonction des animaux recensés. Le soin des animaux accueillis relève de la CBO, en application de l’article 7.2 de la Constitution et du Code 1.
-6.  Une Fiche de bien-être est tenue pour chaque animal ou groupe. L’alimentation et les soins vétérinaires sont assurés sans compromettre les niveaux 1 et 2 du Panier humain. En cas de pénurie d’eau, l’article 10, alinéa 8, du Code 9 s’applique.
+5.  Chaque Cercle 2 garantit au moins un sanctuaire d’accueil pour trois ou quatre Cercles 1 qui le composent, dimensionné en fonction des animaux recensés. Le soin des animaux accueillis relève de la CBO, en application de l’article 7.2 de la Constitution et du Code 1. Le sanctuaire est suivi par le Conseil Biodiversité de la Communauté sur le territoire de laquelle il se trouve ou, si l’Assemblée générale le décide, par un Conseil commun au sens de l’article 12-bis, alinéa 6-bis, du Code 3.
+6.  Une Fiche de bien-être est tenue pour chaque animal ou groupe. L’alimentation et les soins vétérinaires sont assurés sans compromettre les niveaux 1 et 2 du Panier humain ; l’alimentation minimale et les soins urgents suivent l’article 32, alinéa 1-sexies, du Code 1. En cas de pénurie d’eau, l’article 10, alinéa 8, du Code 9 s’applique.
 7.  L’euthanasie n’est admise qu’aux conditions de l’article 7, alinéa 12, dans la mesure où elles sont applicables. À la place de la Fiche de bien-être domestique s’applique la Fiche de bien-être de l’animal accueilli prévue à l’alinéa 6 ; à la place de la personne de confiance, sont informées les personnes qui soignent habituellement l’animal.
 8.  L’accès des personnes au sanctuaire d’accueil est autorisé pour le soin, l’apprentissage et la relation, dans le respect des Fiches de bien-être.
 
@@ -215,7 +215,9 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
 2.  La cohabitation avec des animaux de compagnie de proximité est admise en tant que cohabitation non exploitante en application de l’article 13.3 de la Constitution. Elle est vérifiée et autorisée par le Conseil Biodiversité sur la base de la Fiche de bien-être domestique.
 
-3.  Lorsque les conditions de l’article 13.3 de la Constitution ne sont pas réunies, le Conseil Biodiversité propose les mesures nécessaires au bien-être de l’animal et, si celles-ci ne sont pas mises en œuvre, l’accueil dans un sanctuaire en application de l’article 4-bis, selon les procédures du Code 4.
+3.  Lorsque les conditions de l’article 13.3 de la Constitution ne sont pas réunies, le Conseil Biodiversité propose les mesures nécessaires au bien-être de l’animal et, si celles-ci ne sont pas mises en œuvre, l’accueil dans un sanctuaire en application de l’article 4-bis, selon l’alinéa 3-bis.
+
+3-bis. Lorsque le Corps de protection civique est intervenu en application de l’article 8-ter, alinéa 3, du Code 14, ou lorsqu’un animal est en danger grave et immédiat, le Conseil Biodiversité peut ordonner l’accueil provisoire de l’animal dans un sanctuaire d’accueil ou dans une autre cohabitation autorisée, pour trente jours au plus. La mesure est communiquée au Tribunal de garantie, qui la valide dans un délai de vingt-quatre heures en même temps que l’entrée, lorsqu’il y en a eu une, en application de l’article 34, alinéa 2-bis, du Code 4. L’accueil durable prévu par l’alinéa 3 est décidé par le Tribunal de garantie, après audition du foyer de cohabitation, et peut faire l’objet d’un recours. Les mesures du présent alinéa ne permettent pas d’entrer dans un Cercle 0 en dehors des cas de l’article 5.1, lettre a), de la Constitution.
 
 4.  Le soin quotidien de l’animal de compagnie de proximité est assuré par le foyer de cohabitation. Le Cercle 1, et le niveau fédéré lorsque cela est nécessaire, garantit la protection d’ensemble, la Fiche de bien-être domestique et le bilan des ressources alimentaires selon les modalités prévues par le présent Code et par les STV.
 
@@ -247,9 +249,9 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
 9.  L’accumulation individuelle d’animaux n’est admise que dans les limites de la capacité de soin définie par la Fiche de bien-être domestique. L’évaluation prend en compte au moins l’espèce et le nombre des animaux, l’espace disponible, les conditions sanitaires, le temps disponible et la capacité effective de garantir le bien-être de chaque animal. Le dépassement de la capacité de soin constitue une violation au sens de l’article 10.
 
-10. Ne constitue pas une manipulation reproductive au sens des articles 13.2 et 13.3, lettre c), de la Constitution la prévention non lésionnelle des naissances de l’animal de compagnie de proximité, y compris la stérilisation, pratiquée ou prescrite par une compétence vétérinaire lorsqu’elle est nécessaire au bien-être de l’animal ou lorsque le soin d’autres petits ne pourrait pas être garanti selon l’alinéa 9. Elle est décidée par le foyer de cohabitation avec la compétence vétérinaire, inscrite dans la Fiche de bien-être domestique et n’est pas imposée de manière générale. Pour les animaux accueillis dans les sanctuaires, l’article 4-bis, alinéa 3, s’applique. Pour les aspects sanitaires, zoonotiques ou de risque collectif, s’appliquent les compétences, les procédures et les garanties du Code 6, y compris les mesures collectives admises par son article 2-bis, alinéa 3-bis. Toute mesure doit respecter des critères de proportionnalité et de caractère temporaire, garantir l’information de la personne concernée et être soumise à réexamen et aux garanties prévues.
+10. Ne constitue pas une manipulation reproductive au sens des articles 13.2 et 13.3, lettre c), de la Constitution la prévention non lésionnelle des naissances de l’animal de compagnie de proximité, y compris la stérilisation, pratiquée ou prescrite par une compétence vétérinaire lorsqu’elle est nécessaire au bien-être de l’animal ou lorsque le soin d’autres petits ne pourrait pas être garanti selon l’alinéa 9. Elle est décidée par le foyer de cohabitation avec la compétence vétérinaire, inscrite dans la Fiche de bien-être domestique et n’est pas imposée de manière générale. Pour les animaux accueillis dans les sanctuaires, l’article 4-bis, alinéa 3, s’applique. Pour les aspects sanitaires, zoonotiques ou de risque collectif, s’appliquent les compétences, les procédures et les garanties du Code 6, y compris les mesures collectives admises par son article 2-bis, alinéa 3-bis, et l’article 8, alinéa 7, du présent Code. Toute mesure doit respecter des critères de proportionnalité et de caractère temporaire, garantir l’information de la personne concernée et être soumise à réexamen et aux garanties prévues.
 
-11. L’alimentation des animaux de compagnie de proximité peut être assurée au moyen de ressources compatibles avec le Panier, de déchets appropriés ou d’un fonds dédié. Ces ressources ne peuvent pas compromettre le Panier humain des niveaux 1 et 2 et sont régies par la STV Panier du Code 9. En cas de pénurie d’eau, l’article 10, alinéa 8, du Code 9 s’applique.
+11. L’alimentation des animaux de compagnie de proximité peut être assurée au moyen de ressources compatibles avec le Panier, de déchets appropriés ou d’un fonds dédié. Ces ressources ne peuvent pas compromettre le Panier humain des niveaux 1 et 2 et sont régies par la STV Panier du Code 9. L’alimentation minimale et les soins vétérinaires urgents suivent l’article 32, alinéa 1-sexies, du Code 1. En cas de pénurie d’eau, l’article 10, alinéa 8, du Code 9 s’applique.
 
 12. L’euthanasie par simple convenance est interdite. Elle n’est admise qu’en présence d’une souffrance irréversible attestée par deux compétences L3, dont au moins une vétérinaire, dans le respect des compétences sanitaires du Code 6 et de la Fiche de bien-être domestique. L’intervention est documentée et tracée ; la personne de confiance est informée, sauf impossibilité motivée ou urgence incompatible avec un avertissement préalable.
 
@@ -276,6 +278,8 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
     c) niveau L3 pour la conception et la validation des STV et des Fiches de bien-être, dans les cas prévus.
 
 6.  Toute personne qui constate un risque grave et immédiat pour la faune, un animal ou une personne peut interrompre l’activité concernée et en informe sans délai les Conseils compétents. L’interruption effectuée de bonne foi pour prévenir un dommage ne peut entraîner ni représailles ni préjudice.
+
+7.  Pour les zoonoses, seules sont admises, sur proposition du Conseil Santé et avec l’autorisation du Conseil Biodiversité : la séparation ou l’isolement temporaire des animaux, dans des conditions conformes à la Fiche de bien-être ; les soins et les vaccinations vétérinaires ; les mesures d’hygiène des lieux ; la limitation des contacts et des déplacements. La mise à mort est interdite, sauf l’euthanasie prévue par les articles 4-bis, alinéa 7, et 7, alinéa 12. Les garanties de durée et de réexamen de l’article 2-bis du Code 6 s’appliquent.
 
 ## Art. 9 — Registre des dépendances de la biodiversité
 
@@ -359,7 +363,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
     d) la STV Bien-être domestique ;
 
-    e) la STV Abeilles sauvages ;
+    e) la STV Abeilles sauvages et la STV Gestion de la faune ;
 
     f) les Fiches de sécurité et de bien-être nécessaires ;
 
@@ -373,7 +377,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
     b) le plan de mise en conformité indique les mesures à adopter, les responsables et un délai final, en règle générale n’excédant pas quatre-vingt-dix jours, sauf impossibilité technique documentée ;
 
-    c) lorsqu’il existe un risque grave et immédiat pour la biodiversité ou le bien-être animal, des mesures urgentes proportionnées peuvent être adoptées selon les procédures du Code 4 ;
+    c) lorsqu’il existe un risque grave et immédiat pour la biodiversité ou le bien-être animal, des mesures urgentes proportionnées peuvent être adoptées selon l’article 7, alinéa 3-bis, pour les animaux et, dans les autres cas, selon les procédures du Code 4 ;
 
     d) lorsque la mise en conformité est techniquement impossible, la procédure de désactivation prévue par le Code 4 est engagée, accompagnée d’un plan de substitution ;
 

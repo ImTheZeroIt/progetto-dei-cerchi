@@ -1,12 +1,12 @@
 ---
 titolo: "CÓDIGO 10 — HÁBITAT Y TERRITORIO"
 breve: "Código 10 — Hábitat y territorio"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 10
 id: "codice-10"
 slug: "codigo-10"
-allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1.8; Código 4 V1.9; Código 5 V1.6; Código 6 V1.8; Código 7 V1.9; Código 8 V1.6; C.1-Annex A V1.6; Código 9 V3.3; Código 11 V1.5; Código 12 V1.6; Código 13 V1.8; Código 14 V1.7; Código 15 V1.9; Código 16 V1.9."
+allineamento: "Constitución V.38; Código 1 V1.12; Código 2 V1.9; Código 3 V1.11; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 7 V1.10; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 11 V1.6; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 15 V1.12; Código 16 V1.10."
 ---
 
 ## Art. 1 — Objeto, definiciones y naturaleza jurídica
@@ -150,7 +150,7 @@ La excepción la delibera la Asamblea a propuesta del Consejo Agroecológico, pr
 
     f) las franjas de protección;
 
-    g) los bosques, las zonas húmedas y las áreas seminaturales;
+    g) los bosques, las zonas húmedas, las áreas seminaturales y los santuarios;
 
     h) los refugios para polinizadores, los campos, los bancos de semillas y las infraestructuras previstas en los Códigos 8 y 9;
 

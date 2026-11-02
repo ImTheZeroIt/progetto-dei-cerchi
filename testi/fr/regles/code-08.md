@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 8 — DE L’ÉNERGIE ET DE L’EAU"
 breve: "Code 8 — Énergie et eau"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 8
 id: "codice-08"
 slug: "code-08"
-allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.8 ; Code 4 V1.9 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.8 ; Code 14 V1.7 ; Code 15 V1.9 ; Code 16 V1.9."
+allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 3 V1.11 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 7 V1.10 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 15 V1.12 ; Code 16 V1.10."
 ---
 
 ## Art. 1 — Objet et nature juridique
@@ -92,6 +92,10 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
     b) **propositions et décisions discrétionnaires :** elles sont adoptées selon la méthode du consensus prévue par le Code 3, après publication de la proposition, ouverture d’un délai d’au moins soixante-douze heures pour les objections et consignation du résultat au procès-verbal.
 
 7.  Le silence ne peut être considéré comme une absence d’objections que si la proposition a été publiée et si le délai prévu est écoulé. L’absence de publication ou l’absence de délai ne valent pas consentement.
+
+## Art. 3-bis — Conseil Énergie et Eau des Cercles 2 et 3
+
+1.  Les fonctions de stockage, d’équilibrage, de compensation et de dispatching du Cercle 2 et celles des grands axes de compensation du Cercle 3 sont exercées par un Conseil Énergie et Eau commun au sens de l’article 12-bis, alinéa 6-bis, du Code 3, qui constitue l’assemblée technique de l’article 15.3 de la Constitution pour ce Cercle, sans préjudice de la reprise en main manuelle locale de chaque Communauté. Le même Conseil instruit la coordination des prélèvements de l’article 6-bis, alinéa 7, qui est délibérée par l’Assemblée générale ; lorsque le bassin hydrographique comprend des Cercles 2 différents, leurs Assemblées générales délibèrent de manière concordante.
 
 ## Art. 4 — Panier énergie et détermination des besoins
 
@@ -232,7 +236,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 4.  Les eaux usées sont épurées et, lorsque cela est possible, réutilisées. La réutilisation des eaux et des résidus d’épuration n’est admise que si elle est conforme à la STV applicable et à l’avis du Conseil Santé.
 5.  La mesure des consommations d’eau suit les règles de l’article 6, alinéas 2 à 6. Le profilage individuel est interdit.
 6.  Lorsque cela est techniquement possible, deux sources indépendantes et une réserve égale à au moins soixante-douze heures du Panier eau sont prévues, en cohérence avec l’article 39 du Code 1.
-7.  Lorsque plusieurs Cercles dépendent du même bassin hydrographique, les prélèvements sont coordonnés au sein du Cercle 2 ou du Cercle 3 compétent, avec Dossier. Aucun Cercle ne peut soustraire aux Cercles situés en aval l’eau nécessaire à leur Panier.
+7.  Lorsque plusieurs Cercles dépendent du même bassin hydrographique, les prélèvements sont coordonnés au sein du Cercle 2 ou du Cercle 3 compétent, avec Dossier, en application de l’article 3-bis. Aucun Cercle ne peut soustraire aux Cercles situés en aval l’eau nécessaire à leur Panier.
 8.  Les dépendances hydriques, y compris le raccordement à des réseaux extérieurs pendant la transition, sont inscrites au Registre des dépendances conformément à l’article 8.
 
 ## Art. 7 — Sécurité, EPI et formation
@@ -288,7 +292,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
     f) céder à un acteur extérieur à la Confédération le contrôle fonctionnel du micro-réseau.
 
-2.  Les violations de l’alinéa 1 constituent un vice de procédure grave au sens du Code 4. La suspension ou la désactivation de la fonction non conforme est proportionnée et assortie, lorsque cela est techniquement possible, de la continuité des niveaux 1–3 conformément à la Fiche de sécurité.
+2.  Les violations de l’alinéa 1 sont traitées selon le Code 4 ; l’accumulation de la lettre d) et l’usage de l’énergie comme moyen de chantage constituent une infraction de Degré 4 au sens de l’article 15.2 de la Constitution ; l’article 18 du Code 3 s’applique aux actes des organes. La suspension ou la désactivation de la fonction non conforme est proportionnée et assortie, lorsque cela est techniquement possible, de la continuité des niveaux 1–3 conformément à la Fiche de sécurité.
 
 3.  L’arrêt total n’est ordonné que lorsqu’il est nécessaire pour empêcher un dommage supplémentaire. Pour les fonctions critiques ou vitales, une procédure de continuité et une fonction de substitution conforme sont activées, lorsque cela est techniquement possible.
 

@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 10 — HABITAT ET TERRITOIRE"
 breve: "Code 10 — Habitat et territoire"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 10
 id: "codice-10"
 slug: "code-10"
-allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.8 ; Code 4 V1.9 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.8 ; Code 14 V1.7 ; Code 15 V1.9 ; Code 16 V1.9."
+allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 3 V1.11 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 7 V1.10 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 15 V1.12 ; Code 16 V1.10."
 ---
 
 ## Art. 1 — Objet, définitions et nature juridique
@@ -150,7 +150,7 @@ La dérogation est délibérée par l’Assemblée sur proposition du Conseil ag
 
     f) les zones tampons ;
 
-    g) les bois, les zones humides et les zones semi-naturelles ;
+    g) les bois, les zones humides, les zones semi-naturelles et les sanctuaires ;
 
     h) les refuges pour pollinisateurs, les champs, les banques de semences et les infrastructures prévues par les Codes 8 et 9 ;
 

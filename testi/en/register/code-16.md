@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 16 — TRANSITION AND LAUNCH OF THE CONFEDERATION"
 breve: "Code 16 — Transition and launch"
-versione: "V1.9"
+versione: "V1.10"
 gruppo: "codici"
 ordine: 16
 id: "codice-16"
 slug: "code-16"
-allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4 V1.9; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.8; Code 14 V1.7; Code 15 V1.9."
+allineamento: "Constitution V.38; Code 1 V1.12; Code 2 V1.9; Code 3 V1.11; Code 4 V1.10; Code 5 V1.7; Code 6 V1.9; Code 7 V1.10; Code 8 V1.7; C.1-Annex A V1.7; Code 9 V3.4; Code 10 V1.8; Code 11 V1.6; Code 12 V1.7; Code 13 V1.9; Code 14 V1.10; Code 15 V1.12."
 ---
 
 ## Art. 1 — Subject matter, definitions and temporary nature
@@ -21,7 +21,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
     c) **pilot Circle**: a Base Community, corresponding to Circle 1, established pursuant to Articles 4–6 of the Constitution for the initial experimentation;
 
-    d) **Basin**: an aggregation of three or four pilot Circles that are territorially contiguous and ecologically connected, corresponding to the Intermediate Circle or Circle 2 referred to in Article 5 of the Constitution;
+    d) **Basin**: an aggregation of at least three pilot Circles, as a rule no more than four, that are territorially contiguous and ecologically connected, corresponding to the Intermediate Circle or Circle 2 referred to in Article 5 of the Constitution;
 
     e) **minimum Federation**: an aggregation of at least three Basins;
 
@@ -97,13 +97,13 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
     e) basic L1 life-saving training in accordance with Code 6 shall be started;
 
-    f) the Guarantee Circle and the Councils provided for by the active Codes shall be established, including the Storehouse Council, the Health Council and the Competences Council, also in merged or shared form or in the three Area Councils provided for by Article 12-bis, paragraph 12, of Code 3;
+    f) the Guarantee Circle and the Councils provided for by the active Codes shall be established, including the Storehouse Council, the Health Council, which until the activation of Code 12 also performs the functions of the Care Council provided for by Articles 26.2 and 26.3 of the Constitution and by Article 7-bis of Code 12, and the Competences Council, also in merged or shared form or in the three Area Councils provided for by Article 12-bis, paragraph 12, of Code 3. If animals live in or are received by the pilot Circle, the Biodiversity Council shall also be established, including in shared form, solely for the authorisations of Article 13.3 of the Constitution and of Article 7 of Code 13;
 
     g) the pilot Circle shall operate in accordance with the First-Year Operating Charter.
 
 2.  **Phase 1 — Basin.** The indicative duration is from six to eighteen months. In this phase:
 
-    a) three or four contiguous pilot Circles shall aggregate into a Basin;
+    a) at least three contiguous pilot Circles, as a rule no more than four, shall aggregate into a Basin;
 
     b) Codes 7, 8, 9 and 10 and C.1-Annex A shall be activated, in addition to the Codes of Phase 0;
 
@@ -113,7 +113,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
     e) the land eligible to become a sanctuary shall be surveyed on a preliminary basis, in preparation for the activation of Code 13;
 
-    f) the Network, Energy and Water, Agroecological, Habitat and Territory and Production Councils shall be activated;
+    f) the Network, Energy and Water, Agroecological, Habitat and Territory, Production and Biodiversity Councils shall be activated; the Biodiversity Council performs the tasks assigned to it by Codes 8, 9 and 10, in accordance with Articles 3, 4-bis and 7 of Code 13, also in shared form within the Basin;
 
     g) the Balance provided for by Code 15 shall be activated at the scale of the Basin and the Basin Storehouse Council provided for by Article 9-bis of Code 15 shall be established.
 
@@ -129,7 +129,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
     e) the critical machines, the PPE and the collective protections shall be surveyed in accordance with Code 14;
 
-    f) the Logistics, Care, Biodiversity and Safety Councils shall be activated;
+    f) the Logistics, Care and Safety Councils shall be activated, and the Biodiversity Council exercises all the functions of Code 13;
 
     g) the first version of the Dependency Register shall be established, integrating the registers of the sectoral Codes.
 
@@ -151,15 +151,15 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
     a) the passage from Phase 0 to Phase 1 is resolved jointly by the pilot Circles that constitute the Basin, pursuant to Article 14, paragraph 10, of Code 3; the passage from Phase 1 to Phase 2 by the General Assembly of the Basins that constitute the minimum Federation; the subsequent passages and the closure by the General Assembly of the minimum Federation;
 
-    b) a pilot Circle that is constituted or joins when others are already in a later phase goes through Phase 0. Once the thresholds of Article 4, paragraph 1, have been exceeded, it joins a contiguous Basin or constitutes a new one. A Basin that has exceeded the thresholds of Article 4, paragraph 2, joins a minimum Federation or constitutes a new one with at least two other Basins;
+    b) a pilot Circle that is constituted or joins when others are already in a later phase goes through Phase 0. Once the thresholds of Article 4, paragraph 1, have been exceeded, it joins a contiguous Basin or constitutes a new one. A Basin that thereby exceeds four pilot Circles may divide into several contiguous Basins, each of at least three pilot Circles, by resolution of its General Assembly, without going back a phase. A Basin that has exceeded the thresholds of Article 4, paragraph 2, joins a minimum Federation or constitutes a new one with at least two other Basins;
 
-    c) a pilot Circle or a Basin that joins a Basin or a minimum Federation assumes its phase when it meets, for its own part, the thresholds of the passages already resolved by that unit. The verification is carried out by the Transition Council of the receiving unit and may not introduce further assessments, pursuant to Article 4.5 of the Constitution. The Codes already activated apply to the entrant from the day of entry, and the transitional time limits of the individual Codes run from that date;
+    c) a pilot Circle or a Basin that joins a Basin or a minimum Federation assumes its phase when it meets, for its own part, the thresholds of the passages already resolved by that unit. The verification is carried out by the Transition Council of the receiving unit and may not introduce further assessments, pursuant to Article 4.5 of the Constitution. If the receiving Basin is part of a minimum Federation, the verification is carried out by the Transition Council of the latter; if the minimum Federation has closed the transition, by a Transition Council constituted for that verification alone pursuant to Article 5, paragraphs 1–3, from among the eligible persons of the receiving Circle 2 or, when a Basin enters, of Circle 3. The Codes already activated apply to the entrant from the day of entry, and the transitional time limits of the individual Codes run from that date; for the other units they run from the activation of the Code pursuant to this Article;
 
     d) if the minimum Federation has already closed the transition, the verification of letter c) includes the thresholds of Article 4, paragraphs 3 and 4, and the closure of the transition for the entrant is resolved by its General Assembly pursuant to Article 10, paragraph 1; entry into the Extended Circle follows Article 14-bis, paragraph 4, of Code 3;
 
     e) the entry of a new pilot Circle or Basin does not make the receiving unit go back a phase;
 
-    f) the associated Community pursuant to Article 21-bis of Code 15 does not go through the phases for its own internal life and is not required to activate the Codes and Councils of the phases, except for the tools it adopts. It enters a Basin, or contributes to constituting one, when the equivalence at the boundary has been verified. It counts as a pilot Circle, if it has at least thirty acceding persons, or otherwise together with other contiguous associated Communities until that number is reached, for the purposes of Article 1, paragraph 2, letters a) and d), and paragraph 5, of Article 3, paragraph 7, letter a), and Article 5, paragraph 1, and of the references of the Codes to the pilot Circle that concern the common bodies and the guarantees of persons, including Article 37 of Code 4. The thresholds of Article 4 are verified, for its part, on the data and commitments that it provides at the boundary pursuant to Article 21-bis, paragraph 2, of Code 15; the thresholds of Article 4, paragraph 1, and, for its part, those on the Labour Balance and on the Social Start-up Protocol do not apply to it and are verified on the other units of the Basin. In the Basin and in the minimum Federation it follows the rules of the common tools activated in the phase.
+    f) the associated Community pursuant to Article 21-bis of Code 15 does not go through the phases for its own internal life and is not required to activate the Codes and Councils of the phases, except for the tools it adopts. It enters a Basin, or contributes to constituting one, when the equivalence at the boundary has been verified. It counts as a pilot Circle, if it has at least thirty acceding persons, or otherwise together with other contiguous associated Communities until that number is reached, for the purposes of Article 1, paragraph 2, letters a) and d), and paragraph 5, of Article 3, paragraph 7, letter a), and Article 5, paragraph 1, and of the references of the Codes to the pilot Circle that concern the common bodies and the guarantees of persons, including Article 37 of Code 4. The thresholds of Article 4 are verified, for its part, on the data and commitments that it provides at the boundary pursuant to Article 21-bis, paragraph 2, of Code 15; the thresholds of Article 4, paragraph 1, and, for its part, those on the Labour Balance and on the Social Start-up Protocol do not apply to it and are verified on the other units of the Basin; if the Basin includes no other units, those thresholds do not apply. In the Basin and in the minimum Federation it follows the rules of the common tools activated in the phase.
 
 8.  **Two paths.** Phases 0–4 of paragraphs 1–5 are the pilot Circles path. Alongside it, the networks path follows Phases A–E of Articles 11–20. The two paths meet with the conversion of Article 17: from that moment every Circle 1 born from a network is in Phase 0, goes through Phases 0–4 as a pilot Circle, with the thresholds of Article 4, and, once the thresholds of Article 4, paragraph 1, have been passed, enters a Basin, including one already constituted, pursuant to paragraph 7, letters b) and c).
 
@@ -215,7 +215,9 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
     d) the documented maintenance of Level 3 of the Social Start-up Protocol;
 
-    e) Labour Balances that respect the limit of Article 3 of Code 1 for four consecutive quarters or, failing that, the submission of a reasoned proposal for revision of that limit pursuant to Article 38 of the Constitution.
+    e) Labour Balances that respect the limit of Article 3 of Code 1 for four consecutive quarters or, failing that, the submission of a reasoned proposal for revision of that limit pursuant to Articles 37 and 38 of the Constitution;
+
+    f) the cessation of the use of the systems admitted pursuant to Article 9-bis, paragraph 1, letter a).
 
 5.  The verification of the thresholds shall be carried out by the Transition Council, with the mandatory opinion of the Councils competent for the subject matter. The change of phase constitutes a constitutive decision pursuant to Article 3, paragraph 3, of Code 3 and shall be resolved by the General Assembly indicated by Article 3, paragraph 7, letter a), in accordance with the convening, quorum and procedure provided for by Codes 3 and 4. The resolution shall be published in aggregate and non-profiling form.
 
@@ -338,11 +340,13 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
     b) gradual application does not allow closed code or models that are not open source to be used for Management AIs, for the algorithms of Article 2, paragraph 5, of Code 7, for the personal AI and for the consultation and voting systems of Article 34.4 of the Constitution;
 
-    c) the systems of letter a) installed at the Community do not receive automatic or remote updates; every update is verified by the Network Council before installation and is reversible, pursuant to Article 5-ter, paragraph 7, of Code 7;
+    c) no system of letter a) receives automatic updates or updates installed by anyone other than the Community; every update is verified by the Network Council before installation and is reversible, pursuant to Article 5-ter, paragraph 7, of Code 7; the systems installed at the Community do not receive remote updates, and a system hosted on external infrastructure is admitted only if the software and its updates are chosen, verified and installed by the Community;
 
     d) gradual application ceases for each system on the expiry of its Plan and, in any case, with the closure of the transition.
 
 2.  The use of systems whose source code is not available follows, during the transition and after it, Article 19.4 of the Constitution, Article 5, paragraph 2, letter b), and Article 12, paragraph 5, of Code 2.
+
+3.  Until the Network Council is established, the opinion of Article 5, paragraph 3, of Code 2 and the verification of paragraph 1, letter c), are given, also by way of derogation from Article 8, paragraph 3, by two persons with L2 or L3 competence in information technology, unconnected with the proposal and drawn by lot pursuant to Article 36 of Code 4, and are recorded as provisional pursuant to Article 8, paragraph 2; a negative opinion prevents the admission of the system. From Phase 0, consultations and votes through the Network follow Article 7-bis of Code 7.
 
 ## Art. 10 — Closure of the transition, memory and precedence
 
@@ -374,7 +378,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
 4.  After the closure of the transition, the precedence clauses of the sectoral Codes apply, including those of Code 10, Article 10, of Code 13, Article 11, and of Code 14, Article 10.
 
-5.  The main normative links of this Code are: Constitution, Articles 1.3, 3.1, 3.2, 3.5-bis, 3.5-ter, 4–6, 10.2, 16.4, 17.9, 19, 23.1, 26, 32, 36.1 and 38; Code 1, Articles 13–22, 32, 47 and 47-ter; Code 2, Article 5; Code 3, Articles 3, 4, 8, 12, 13–19; Code 4; Code 5, Articles 3 and 10; Code 6, Articles 4 and 11; Code 7, Articles 2.2, 7 and 7-bis; Codes 8 and 9; Code C.1-Annex A; Codes 10–14, including Article 8-sexies of Code 14; Code 15, Chapters III and IV.
+5.  The main normative links of this Code are: Constitution, Articles 1.3, 3.1, 3.2, 3.5-bis, 3.5-ter, 4–6, 10.2, 13.3, 17.9, 19, 23.1, 26, 32, 36.1, 36.2, 36.4, 37 and 38; Code 1, Articles 13–22, 32, 47 and 47-ter; Code 2, Article 5; Code 3, Articles 3, 4, 8, 12, 13–19; Code 4; Code 5, Articles 3 and 10; Code 6, Articles 4 and 11; Code 7, Articles 2.2, 7 and 7-bis; Codes 8 and 9; Code C.1-Annex A; Codes 10–14, including Article 8-sexies of Code 14; Code 15, Chapters III and IV.
 
 ## Art. 11 — Networks path: phases and principles
 
@@ -400,7 +404,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
     d) decisions, accounts and aggregated data are public pursuant to Article 2, paragraph 5, except for data that expose persons or infrastructure to risk;
 
-    e) the neighbourhood storehouse distributes the Emergency Basket to every participant who needs it, for whatever cause, according to public rules approved by the assembly of the network and independent of the choice of Article 15; the threshold of Article 14 measures only whether the stocks are enough for all participants;
+    e) the neighbourhood storehouse distributes the Emergency Basket to every participant, and to the persons who live with them and depend on them within the meaning of Article 1, paragraph 2, letter o), who need it, for whatever cause, according to public rules approved by the assembly of the network and independent of the choice of Article 15; the threshold of Article 14 measures only whether the stocks are enough for all participants;
 
     f) essential services remain open to everyone, pursuant to Article 16.
 
@@ -438,7 +442,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
 2.  **Map of the supply chains.** The networks of a territory jointly draw up the map of the essential supply chains: where food, water, energy and medicines come from, how many stocks there are and who knows how to do what. The map is public in aggregated form; data that expose persons or infrastructure to risk are excluded from it.
 
-3.  **Pacts with those who work in the essential supply chains.** Anyone who works in an essential supply chain may sign a pact with the network of their territory. With the pact the person undertakes to continue their work and to serve everyone even if the persons of the networks make the choice of Article 15; the network undertakes to provide the protections of Article 16. The pact is personal, voluntary and revocable at any time, contains no penalties and does not oblige anything contrary to the law or to the employment contract. It is kept confidential; only the aggregated counts by supply chain and by territory are public. The data of the pacts are processed with the explicit consent of the person and in compliance with data protection legislation; they are kept as long as the pact is in force and deleted upon its revocation or at the conversion.
+3.  **Pacts with those who work in the essential supply chains.** Anyone who works in an essential supply chain may sign a pact with the network of their territory. With the pact the person undertakes to continue their work and to serve everyone even if the persons of the networks make the choice of Article 15; the network undertakes to provide the protections of Article 16. The pact is personal, voluntary and revocable at any time, contains no penalties and does not oblige anything contrary to the law or to the employment contract. It is kept confidential; only the aggregated counts by supply chain and by territory are public. The data of the pacts are processed with the explicit consent of the person and in compliance with data protection legislation; they are kept as long as the pact is in force and deleted upon its revocation; at the conversion they pass, with the consent of the person, to the Circle of their territory or are deleted.
 
 4.  **Training and relief.** The networks teach the skills that serve needs, in accordance with Code 5 insofar as applicable, and for every essential job they train in advance other persons who can provide relief, within the limits of the qualifications required by law.
 
@@ -472,7 +476,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
 2.  The boycott is not a rule of this Code. It is a political, non-violent and collective choice, which belongs to the persons of the networks through their vote pursuant to Article 14, paragraph 6. Each person decides freely whether to make it and answers for it personally according to the law. This Code neither prescribes it, nor authorises it, nor governs its forms, except for the vote of Article 14, paragraph 6, and no consequence may follow from not making it.
 
-3.  The entities of the networks, the promoting groups and, after the conversion, the Circles born from the networks and their entities shall not resolve on the boycott, shall not finance it and shall not use the common goods, the Storehouses or the Common Fund for acts contrary to the law. Before and after the choice of the persons, only the lawful activities of Articles 12, 13, 16 and 18 continue, including the neighbourhood storehouses, the distribution of the Emergency Basket to the participants, the solidarity funds, legal assistance and the essential services open to everyone.
+3.  The entities of the networks, the promoting groups, the pilot Circles, including those born from the networks after the conversion, the associated Communities and their entities shall not resolve on the boycott, shall not finance it and shall not use the common goods, the Storehouses or the Common Fund for acts contrary to the law. Before and after the choice of the persons, only the lawful activities of Articles 12, 13, 16 and 18 continue, including the neighbourhood storehouses, the distribution of the Emergency Basket to the participants and to those who depend on them, the solidarity funds, legal assistance and the essential services open to everyone.
 
 4.  **Solidarity funds and legal assistance.** From Phase A the network may set up, within the entity of Article 12, paragraph 3, a solidarity fund and a legal assistance network. They help, within the limits of the law, anyone in difficulty, for whatever cause, according to need. The rules of the help are public and the help does not depend on how the person voted.
 

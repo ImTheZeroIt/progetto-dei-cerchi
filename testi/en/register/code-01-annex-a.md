@@ -1,12 +1,12 @@
 ---
 titolo: "C.1-ANNEX A — MATERIAL PRODUCTION AND WORKSHOPS"
 breve: "Annex A to Code 1 — Material production and workshops"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "allegati"
 ordine: 1.5
 id: "codice-01-annex-a"
 slug: "code-01-annex-a"
-allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4 V1.9; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.8; Code 14 V1.7; Code 15 V1.9; Code 16 V1.9."
+allineamento: "Constitution V.38; Code 1 V1.12; Code 2 V1.9; Code 3 V1.11; Code 4 V1.10; Code 5 V1.7; Code 6 V1.9; Code 7 V1.10; Code 8 V1.7; Code 9 V3.4; Code 10 V1.8; Code 11 V1.6; Code 12 V1.7; Code 13 V1.9; Code 14 V1.10; Code 15 V1.12; Code 16 V1.10."
 ---
 
 ## Art. 1 — Subject matter, definitions and legal nature
@@ -197,7 +197,7 @@ e) they are deferrable within the meaning of Article 32, paragraph 1-bis, of Cod
 
 4.  The verification is traced in the technical documentation or in the applicable STV. Self-building is promoted when it takes place with validated L2 competences, standard components and repairable and documented solutions.
 
-5.  For levels 4 and 5, the production of new objects that depend structurally on proprietary components not repairable locally is prohibited. A derogation may be granted by the General Assembly by qualified majority, on documented technical grounds and on the following conditions:
+5.  For levels 4 and 5, the production of new objects that depend structurally on proprietary components not repairable locally is prohibited. A derogation may be granted by the Assembly of Circle 1 by qualified majority, on documented technical grounds and on the following conditions:
 
     a) the impossibility of an adequate alternative solution is demonstrated;
 
@@ -209,7 +209,7 @@ e) they are deferrable within the meaning of Article 32, paragraph 1-bis, of Cod
 
     e) the plan is reviewed at least every six months.
 
-    The derogation may not exceed twenty-four months in total, except in an extreme emergency pursuant to Article 2-bis of Code 6. Every resulting critical dependency is entered in the Dependency Register in accordance with Code 15.
+    The derogation may not exceed twenty-four months in total, except in the case of an immediate and documented collective risk pursuant to Article 2-bis of Code 6. Every resulting critical dependency is entered in the Dependency Register in accordance with Code 15.
 
 ## Art. 6 — Workshops, federated network and measurement
 

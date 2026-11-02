@@ -52,7 +52,7 @@ Un esempio di ore reali: in Ruanda la coltivazione del caffè richiede circa 251
 
 **Che cosa fa il costo: lavoro, mezzi di produzione, trasporto.** Il costo reale di un bene ha tre parti: le ore di chi lo produce, la quota dei mezzi usati per produrlo (macchine, materiali, energia, ricondotti a ore) e il trasporto. Il coefficiente di un paese non misura la distanza: stima quante ore servono là, con i mezzi di produzione che là si usano. Il caffè contiene tre ore perché è raccolto a mano, con pochi mezzi; con attrezzi migliori ne conterrebbe meno, ovunque fosse coltivato. Il trasporto si conta a parte e pesa poco: nel maggio 2026 un container da Shanghai a Genova costava circa 4.100 dollari, cioè circa 20 centesimi per chilo di merce con venti tonnellate di carico: meno di un centesimo di UCR.
 
-Sono conversioni indicative (art. 9, c. 6), da migliorare con dati di filiera.
+Il coefficiente ore per euro fa parte del metodo (art. 9, c. 4, lett. b e c) ed è certificato con la sua classe di incertezza (art. 9, c. 5); va migliorato con dati di filiera. Sono indicative, ai sensi dell’art. 9, c. 6, soltanto le conversioni da UCR a euro, come quelle del paragrafo 6.
 
 **Che cosa la UCR non misura.** Non misura l'impatto ambientale, che è valutato dalla STV secondo il Codice 2. Non comprende il lavoro domestico svolto nei Nuclei di Cura. Non comprende le funzioni civiche, che compaiono nel Bilancio del Lavoro e non nel costo dei singoli beni.
 

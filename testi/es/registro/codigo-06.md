@@ -1,12 +1,12 @@
 ---
 titolo: "CÓDIGO 6 — DE LA SALUD"
 breve: "Código 6 — Salud"
-versione: "V1.8"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 6
 id: "codice-06"
 slug: "codigo-06"
-allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1.8; Código 4 V1.9; Código 5 V1.6; Código 7 V1.9; Código 8 V1.6; C.1-Annex A V1.6; Código 9 V3.3; Código 10 V1.7; Código 11 V1.5; Código 12 V1.6; Código 13 V1.8; Código 14 V1.7; Código 15 V1.9; Código 16 V1.9."
+allineamento: "Constitución V.38; Código 1 V1.12; Código 2 V1.9; Código 3 V1.11; Código 4 V1.10; Código 5 V1.7; Código 7 V1.10; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 15 V1.12; Código 16 V1.10."
 ---
 
 ## TÍTULO PRELIMINAR — PRINCIPIOS FUNDAMENTALES
@@ -122,7 +122,7 @@ f) durante la transición, si la persona no los consiente, solo pueden disponerl
 
 1.  Desde que cumple dieciséis años, la persona presta, rechaza y revoca por sí misma el consentimiento a su propia atención sanitaria, conforme al artículo 2, apartado 2. Si, antes de cumplir dieciocho años, no está en condiciones de decidir, se aplica el apartado 2.
 
-2.  Hasta que el menor cumple dieciséis años, el consentimiento lo presta quien tiene la responsabilidad de su cuidado conforme al artículo 24.3 de la Constitución, después de haberlo informado y escuchado de modo adecuado a su edad. La opinión del menor tiene un peso creciente con la edad y la madurez, conforme al artículo 26.2 de la Constitución. Si las personas responsables son varias, deciden de común acuerdo; para la atención urgente basta el consentimiento de una de ellas. La responsabilidad de cuidado y el consentimiento del presente apartado no desaparecen por el solo cese de la condición de miembro de la persona responsable conforme al artículo 29, apartado 6-bis, del Código 4. Si nadie ejerce la responsabilidad de cuidado, o ninguna persona responsable puede ser localizada a tiempo, el consentimiento lo presta el representante temporal nombrado conforme al artículo 7-bis, apartado 5, del Código 12, hasta la decisión del Tribunal de Garantía prevista en el apartado 3-bis del mismo artículo.
+2.  Hasta que el menor cumple dieciséis años, el consentimiento lo presta quien tiene la responsabilidad de su cuidado conforme al artículo 24.3 de la Constitución, después de haberlo informado y escuchado de modo adecuado a su edad. La opinión del menor tiene un peso creciente con la edad y la madurez, conforme al artículo 26.2 de la Constitución. Si las personas responsables son varias, deciden de común acuerdo; para la atención urgente basta el consentimiento de una de ellas. La responsabilidad de cuidado y el consentimiento del presente apartado no desaparecen por el solo cese de la condición de miembro de la persona responsable conforme al artículo 29, apartado 6-bis, del Código 4. Si nadie ejerce la responsabilidad de cuidado, o ninguna persona responsable puede ser localizada a tiempo, el consentimiento lo presta el representante temporal nombrado conforme al artículo 7-bis, apartado 5, del Código 12, hasta la decisión del Tribunal de Garantía prevista en el apartado 3-bis del mismo artículo. Quien presta el consentimiento por el menor no puede consentir una medida coercitiva: solo se aplica el artículo 8.
 
 3.  En caso de desacuerdo entre el menor y quien tiene la responsabilidad de su cuidado, o entre varias personas responsables, o de conflicto de intereses entre estas y el menor, pueden dirigirse al Tribunal de Garantía el menor, cada persona responsable, el profesional sanitario que lo atiende o el Consejo de Cuidado. El Tribunal obtiene el dictamen escrito de una persona con competencia sanitaria L3, independiente y no implicada en la atención, sorteada de la lista del artículo 36, apartado 1, letra b), del Código 4; escucha al menor, asistido por la persona de confianza prevista en el artículo 31.5 de la Constitución, y a las personas responsables; decide en un plazo de siete días o, si la atención no puede esperar, de veinticuatro horas, según el interés del menor y teniendo en cuenta su opinión conforme al apartado 2. Cuando la espera expondría al menor a un peligro para la vida o a un daño grave e irreversible, la atención necesaria se presta de inmediato, conforme al artículo 28.2 de la Constitución, y se informa al Tribunal.
 
@@ -430,7 +430,7 @@ El uso tradicional, por sí solo, no constituye validación. Cada preparado vali
 
 4.  Se prohíbe la dependencia propietaria crítica de la que dependan medicamentos que salvan vidas, dispositivos de diagnóstico esenciales o EPI. Se aplican los artículos 4 y 5 del Código 2 y las disposiciones del Código 15.
 
-5.  No puede realizarse ninguna experimentación sanitaria sobre miembros sin un consentimiento libre, informado, específico y revocable. El consentimiento se documenta por escrito después de haber proporcionado información comprensible sobre los riesgos, los beneficios, las alternativas y el derecho a retirarse.
+5.  No puede realizarse ninguna experimentación sanitaria sobre ninguna persona sin un consentimiento libre, informado, específico y revocable. El consentimiento se documenta por escrito después de haber proporcionado información comprensible sobre los riesgos, los beneficios, las alternativas y el derecho a retirarse.
 
 6.  La experimentación requiere previamente:
 
@@ -450,7 +450,7 @@ El uso tradicional, por sí solo, no constituye validación. Cada preparado vali
 
     d) la autorización del Círculo de Garantía sobre los aspectos de consentimiento y proporcionalidad;
 
-    e) la deliberación de la Asamblea General según el Código 3, con mayoría calificada y trazabilidad de las posiciones expresadas;
+    e) la autorización del Tribunal de Garantía, que decide de forma reservada en un plazo de siete días o, si la atención no puede esperar, en un plazo de veinticuatro horas;
 
     f) la escucha y el respeto de la voluntad de la persona en la medida en que esté en condiciones de expresarla.
 

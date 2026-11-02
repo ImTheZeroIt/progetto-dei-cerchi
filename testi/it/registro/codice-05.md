@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 5 — DELL’APPRENDIMENTO E DELLE COMPETENZE"
 breve: "Codice 5 — Apprendimento e competenze"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 5
 id: "codice-05"
 slug: "codice-05"
-allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; Codice 4 V1.9; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.8; Codice 14 V1.7; Codice 15 V1.9; Codice 16 V1.9."
+allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.11; Codice 4 V1.10; Codice 6 V1.9; Codice 7 V1.10; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.12; Codice 16 V1.10."
 ---
 
 ## TITOLO PRELIMINARE — PRINCIPI FONDAMENTALI
@@ -217,7 +217,7 @@ L’esito non è espresso come voto numerico o graduatoria e non costituisce un 
 
 La valutazione è descrittiva e considera ciò che il minore sa fare, ciò che desidera imparare, i supporti di cui necessita e i suoi interessi, con la sua partecipazione e quella degli affiancatori.
 
-4.  Dai quattordici anni e fino al compimento del diciottesimo anno, il minore può accedere progressivamente ad attività di Lista B e C secondo le seguenti condizioni:
+4.  Dai quattordici anni e fino al compimento del diciottesimo anno, il minore può accedere progressivamente ad attività delle Liste A, B e C secondo le seguenti condizioni; alle funzioni della Lista D del Codice 1 partecipa dai sedici anni soltanto in affiancamento, senza voto, ai sensi dell’articolo 12-bis, comma 4, del Codice 3:
 
     a) per competenze a rischio nullo o basso può svolgere pratica supervisionata, senza che ciò comporti automaticamente una validazione autonoma;
 
@@ -231,7 +231,7 @@ La valutazione è descrittiva e considera ciò che il minore sa fare, ciò che d
 
 6.  Dal compimento del diciottesimo anno si applicano le regole ordinarie, comprese le misure di esenzione, riduzione o sospensione previste dal Codice 1. Per la persona cresciuta nella Confederazione le regole ordinarie si applicano dalla scelta prevista dall’articolo 26.4 della Costituzione o dalla scadenza del relativo termine; fino ad allora il suo CBO resta volontario ai sensi del comma 5, senza il consenso del Consiglio Cura, ed essa conserva i diritti di membro.
 
-6-bis. In attuazione dell’articolo 26.4 della Costituzione, almeno tre mesi prima del diciottesimo compleanno il Consiglio delle Competenze, con il Consiglio Cura, informa per iscritto la persona cresciuta nella Confederazione delle tre possibilità, del termine, dei diritti dell’articolo 4.8 della Costituzione e del sostegno all’avvio della vita autonoma, e organizza su sua richiesta il periodo di conoscenza di altre Comunità e di realtà esterne. La scelta è dichiarata per iscritto all’Assemblea del Cerchio 1 o registrata nel Nodo-IA personale; la persona può rivederla in ogni momento. Il termine non decorre finché l’informazione non è stata data.
+6-bis. In attuazione dell’articolo 26.4 della Costituzione, almeno tre mesi prima del diciottesimo compleanno il Consiglio delle Competenze, con il Consiglio Cura, informa per iscritto la persona cresciuta nella Confederazione delle tre possibilità, del termine, dei diritti dell’articolo 4.8 della Costituzione e del sostegno all’avvio della vita autonoma, e organizza su sua richiesta il periodo di conoscenza di altre Comunità e di realtà esterne. La scelta è dichiarata per iscritto all’Assemblea del Cerchio 1 o registrata nel Nodo-IA personale; la persona può rivederla in ogni momento. Il termine non decorre finché l’informazione non è stata data. Per la persona che, da minore, ha cessato di essere membro ai sensi dell’articolo 26.5 della Costituzione e non è stata riammessa, la scelta resta possibile in ogni momento come riammissione; il silenzio non vale come adesione e fino alla scelta non le spettano i diritti di membro.
 
 7.  Ogni apprendente minore è affiancato da tre figure di riferimento a rotazione trimestrale, appartenenti a Cerchi di Competenza diversi e non appartenenti alla sua famiglia o al suo Cerchio 0, ai sensi dell’articolo 29.3 della Costituzione. Le figure sono individuate dal Consiglio delle Competenze con la partecipazione del minore.
 

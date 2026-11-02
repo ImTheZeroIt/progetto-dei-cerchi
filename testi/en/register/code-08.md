@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 8 — ON ENERGY AND WATER"
 breve: "Code 8 — Energy and water"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 8
 id: "codice-08"
 slug: "code-08"
-allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4 V1.9; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.8; Code 14 V1.7; Code 15 V1.9; Code 16 V1.9."
+allineamento: "Constitution V.38; Code 1 V1.12; Code 2 V1.9; Code 3 V1.11; Code 4 V1.10; Code 5 V1.7; Code 6 V1.9; Code 7 V1.10; C.1-Annex A V1.7; Code 9 V3.4; Code 10 V1.8; Code 11 V1.6; Code 12 V1.7; Code 13 V1.9; Code 14 V1.10; Code 15 V1.12; Code 16 V1.10."
 ---
 
 ## Art. 1 — Subject matter and legal nature
@@ -92,6 +92,10 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
     b) **discretionary proposals and decisions:** these are adopted in accordance with the consensus method provided for in Code 3, after publication of the proposal, opening of a period of not less than seventy-two hours for objections and recording of the outcome in the minutes.
 
 7.  Silence may be regarded as absence of objections only if the proposal has been published and the prescribed period has elapsed. Failure to publish, or the absence of a time limit, does not constitute consensus.
+
+## Art. 3-bis — Energy and Water Council of Circles 2 and 3
+
+1.  The functions of storage, balancing, compensation and dispatching of Circle 2 and those of the balancing backbones of Circle 3 are exercised by a shared Energy and Water Council pursuant to Article 12-bis, paragraph 6-bis, of Code 3, which constitutes the technical assembly of Article 15.3 of the Constitution for that Circle, without prejudice to the local manual override of each Community. The same Council prepares the coordination of withdrawals under Article 6-bis, paragraph 7, which is resolved on by the General Assembly; where the river basin includes different Circles 2, their General Assemblies resolve in agreement.
 
 ## Art. 4 — Energy Basket and determination of requirements
 
@@ -232,7 +236,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 4.  Wastewater shall be purified and, where possible, reused. The reuse of water and of purification residues is permitted only if it complies with the applicable STV and with the opinion of the Health Council.
 5.  The metering of water consumption follows the rules of Article 6, paragraphs 2 to 6. Individual profiling is prohibited.
 6.  Where technically possible, two independent sources and a reserve equal to at least seventy-two hours of the Water Basket shall be provided, consistently with Article 39 of Code 1.
-7.  Where several Circles depend on the same river basin, withdrawals shall be coordinated in the competent Circle 2 or Circle 3, with a Dossier. No Circle may deprive the Circles downstream of the water necessary for their Basket.
+7.  Where several Circles depend on the same river basin, withdrawals shall be coordinated in the competent Circle 2 or Circle 3, with a Dossier, pursuant to Article 3-bis. No Circle may deprive the Circles downstream of the water necessary for their Basket.
 8.  Water dependencies, including connection to external networks during the transition, shall be entered in the Dependency Register in accordance with Article 8.
 
 ## Art. 7 — Safety, PPE and training
@@ -288,7 +292,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
     f) cede functional control of the microgrid to a party external to the Confederation.
 
-2.  Breaches of paragraph 1 constitute a serious procedural defect pursuant to Code 4. The suspension or deactivation of the non-compliant function shall be proportionate and accompanied, where technically possible, by the continuity of levels 1–3 in accordance with the Safety Sheet.
+2.  Breaches of paragraph 1 are dealt with in accordance with Code 4; the accumulation of letter d) and the use of energy as blackmail constitute a Grade 4 offence pursuant to Article 15.2 of the Constitution; Article 18 of Code 3 applies to the acts of bodies. The suspension or deactivation of the non-compliant function shall be proportionate and accompanied, where technically possible, by the continuity of levels 1–3 in accordance with the Safety Sheet.
 
 3.  Total shutdown shall be ordered only where necessary to prevent further harm. For critical or vital functions, a continuity procedure and a compliant substitute function shall be activated, where technically possible.
 

@@ -72,6 +72,7 @@ PARAMETRI = {
     "it": dict(md="PARAMETRI.md", pagina="parametri.html"),
     "en": dict(md="testi/en/drafts/parameters.md", pagina="parameters.html"),
     "fr": dict(md="testi/fr/brouillons/parametres.md", pagina="parametres.html"),
+    "es": dict(md="testi/es/borradores/parametros.md", pagina="parametros.html"),
 }
 
 # Bozze e proposte: allegati tecnici che i Codici citano e che non sono ancora adottati, proposte di modifica.
@@ -116,6 +117,19 @@ BOZZE = {
         dict(chiave="verifica", md="testi/fr/brouillons/verification-propositions.md",
              pagina="verification-propositions.html",
              titolo="Vérification contradictoire des propositions", nota="sur la version 1", classe=""),
+    ],
+    "es": [
+        dict(chiave="paniere", md="testi/es/borradores/borrador-cesta.md", pagina="borrador-cesta.html",
+             titolo="Anexo Técnico anual de la Cesta de Suficiencia", nota="borrador 0.2"),
+        dict(chiave="ucr", md="testi/es/borradores/borrador-ucr.md", pagina="borrador-ucr.html",
+             titolo="Anexo UCR y primer balance de las horas", nota="borrador 0.2"),
+        dict(chiave="cdr", md="testi/es/borradores/borrador-cdr.md", pagina="borrador-cdr.html",
+             titolo="Tabla pública de la CdR", nota="borrador 0.2"),
+        dict(chiave="proposte", md="testi/es/borradores/propuestas.md", pagina="propuestas.html",
+             titolo="Propuestas de cambio (archivo)", nota="aceptadas el 19 de octubre de 2026", classe=""),
+        dict(chiave="verifica", md="testi/es/borradores/verificacion-propuestas.md",
+             pagina="verificacion-propuestas.html",
+             titolo="Verificación contraria de las propuestas", nota="sobre la versión 1", classe=""),
     ],
 }
 
@@ -447,12 +461,12 @@ LINGUE = {
             guida_regole="La propuesta está escrita por entero, artículo por artículo, para que pueda verificarse "
                          "y corregirse.",
             codici_allegati="{nc} Códigos y {na} Anexos técnicos", storico="historial",
-            parametri="Parámetros por verificar", parametri_nota="borrador de calibración · en italiano",
-            h_bozze="Borradores y propuestas (en italiano)",
+            parametri="Parámetros por verificar", parametri_nota="borrador de calibración",
+            h_bozze="Borradores y propuestas",
             bozze_sotto="Borradores de los anexos técnicos que los Códigos citan y que todavía no se han adoptado, "
                         "y cambios de fondo en discusión. Ninguno está en vigor.",
             reg_parametri="Los números propuestos, con su origen y la prueba que haría falta para confirmarlos, "
-                          "están en el <a href=\"{par}\">registro de parámetros por verificar</a> (por ahora en italiano).",
+                          "están en el <a href=\"{par}\">registro de parámetros por verificar</a>.",
             h_aperto="Un proyecto abierto", h_stato="Estado", h_licenza="Licencia",
             stato="El proyecto está en la fase de escritura y verificación. Los textos no son un modelo "
                   "demostrado: deben ponerse a prueba, y corregirse allí donde fallen.",
@@ -888,7 +902,7 @@ def pagina(lingua, titolo, descrizione, corpo, profondita, sezione="", gemelle=N
 <a class="salta" href="#contenuto">%(salta)s</a>
 <header class="testata">
   <a class="marchio" href="%(radice)sindex.html">%(logo)s<span>%(nome)s</span></a>
-  <nav aria-label="%(sezioni)s">%(v1)s%(v2)s%(v4)s%(v3)s%(cambio)s</nav>
+  <nav aria-label="%(sezioni)s">%(v1)s%(v2)s%(v4)s%(v5)s%(v3)s%(cambio)s</nav>
 </header>
 %(avviso)s
 <main id="contenuto">
@@ -914,7 +928,8 @@ def pagina(lingua, titolo, descrizione, corpo, profondita, sezione="", gemelle=N
            v2=voce(t["registro"], dir_regole(lingua) + "/index.html", "registro"),
            v3=voce(t["contribuire"], lingua["pag_contribuire"], "contribuire"),
            v4=voce(ricerca.LINGUE[lingua["codice"]]["voce"], ricerca.LINGUE[lingua["codice"]]["pagina"], "domande")
-           if ha_domande(lingua) else "")
+           if ha_domande(lingua) else "",
+           v5=voce("Strumenti", "reti/index.html", "strumenti") if lingua["codice"] == "it" else "")
 
 
 # nomi con cui il progetto viene cercato: finiscono nei dati strutturati delle pagine iniziali
@@ -1254,7 +1269,7 @@ def costruisci_lingua(lingua, altre):
   <p class="senza-conto">%(senza_conto)s</p>
 </section>
 
-<section class="blocco">
+%(strumenti)s<section class="blocco">
   <h2>%(h_aperto)s</h2>
   <div class="tre">
     <div><h3>%(h_stato)s</h3><p>%(stato)s</p></div>
@@ -1277,9 +1292,18 @@ def costruisci_lingua(lingua, altre):
         upar=url_parametri(lingua), parametri=t["parametri"], parametri_nota=t["parametri_nota"],
         storico=t["storico"], h_aperto=t["h_aperto"], h_stato=t["h_stato"], stato=t["stato"], bozza=t["bozza"],
         h_licenza=t["h_licenza"], licenza=t["licenza"].format(lic=licenza, licp=licenza_p), contribuire=t["contribuire"],
-        ctesto=t["contribuire_testo"], pcon=lingua["pag_contribuire"], come=t["come_contribuire"])
+        ctesto=t["contribuire_testo"], pcon=lingua["pag_contribuire"], come=t["come_contribuire"],
+        strumenti=STRUMENTI_HOME if lingua["codice"] == "it" else "")
     scrivi(lingua, "index.html",
            pagina(lingua, TITOLO_HOME.get(lingua["codice"], nome), t["desc_home"], contenuto, 0, "", gemelle()))
+
+
+# gli strumenti per le reti esistono per ora soltanto in italiano: pagina docs/reti/
+STRUMENTI_HOME = """<section class="blocco">
+  <h2>Strumenti per cominciare</h2>
+  <p>Programmi liberi per le reti di mutuo aiuto e i Cerchi pilota: inventario del magazzino, calcolatore della soglia, turni del lavoro comune, simulatore del Pool, conta dei voti in assemblea, modello di sito per ogni comunità. Si usano dal browser, anche senza internet, e i dati restano sul dispositivo. <a href="reti/index.html">Apri gli strumenti</a>.</p>
+</section>
+"""
 
 
 def costruisci():

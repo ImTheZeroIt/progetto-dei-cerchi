@@ -1,7 +1,7 @@
 ---
 titolo: "ANEXO TÉCNICO A AL CÓDIGO 16 — PROTOCOLO DE ARRANQUE SOCIAL"
 breve: "Anexo A al Código 16 — Protocolo de arranque social"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "allegati"
 ordine: 16.1
 id: "codice-16-allegato-a"
@@ -44,7 +44,7 @@ Anexo técnico adoptado conforme al artículo 19 del Código 3 y al que remiten 
 
 1.  El Nivel 1 tiene por objeto verificar la sostenibilidad social inicial del Círculo piloto y favorecer condiciones mínimas de confianza y colaboración.
 
-2.  Antes de la deliberación constitutiva del Círculo piloto se organizan tres encuentros no deliberativos. Cada participante puede describir sus motivaciones, su disponibilidad efectiva, sus límites personales y las eventuales cargas de cuidado relevantes para la organización. La información recogida consta en acta en forma agregada y no nominativa.
+2.  Antes de la deliberación constitutiva del Círculo piloto se organizan tres encuentros no deliberativos. Cada participante puede describir sus motivaciones, su disponibilidad efectiva, sus límites personales y las eventuales cargas de cuidado relevantes para la organización. La información recogida consta en acta en forma agregada y no nominativa. Para el Círculo nacido de una red conforme al artículo 17 del Código 16, los encuentros se celebran dentro de los noventa días siguientes a la conversión.
 
 3.  Se elabora un mapa agregado de la capacidad de cuidado y de organización, que puede tener en cuenta:
 
@@ -121,7 +121,7 @@ Anexo técnico adoptado conforme al artículo 19 del Código 3 y al que remiten 
 
 4.  Cada Círculo piloto organiza al menos un intercambio entre Cuencas, que comprende la participación voluntaria de al menos una persona durante una semana continua en otra Cuenca, para actividades de contribución. Los gastos directamente necesarios los cubre la Caja común según las reglas aplicables. El seguimiento del intercambio es agregado y no permite la elaboración de perfiles.
 
-5.  Cada seis meses se realiza un cuestionario anónimo sobre la seguridad percibida, con modalidades técnicas idóneas para impedir la identificación de las personas. La pregunta mínima es: «¿Te sientes seguro aquí?». Las respuestas no se publican cuando el número de participantes no permite una agregación adecuada.
+5.  Cada seis meses se realiza un cuestionario anónimo sobre la seguridad percibida, con modalidades técnicas idóneas para impedir la identificación de las personas. La pregunta mínima es: «¿Te sientes seguro aquí?». Las respuestas no se publican cuando el número de participantes no permite una agregación adecuada. El cuestionario se realiza y se cuenta en cada Círculo piloto; el umbral del apartado 6 se verifica para cada uno de ellos y el plan correctivo se refiere al Círculo en el que se supera.
 
 6.  Si más del veinte por ciento de las respuestas válidas es negativo:
 

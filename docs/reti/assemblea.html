@@ -1,0 +1,307 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Conta dei voti in assemblea — Progetto dei Cerchi</title>
+<meta name="description" content="Strumento per le assemblee in presenza: conta dei voti anonima, quorum e maggioranze secondo il Codice 3, verbale con i dati aggregati.">
+<style>
+:root{--bg:#fbfaf7;--card:#fff;--ink:#1d2321;--quiet:#5d6763;--line:#d9dcd6;--accent:#0e6656;--accent-soft:#e2efeb;--good:#1d7a46;--warn:#a46a00;--bad:#b3261e;--field:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#141817;--card:#1c2120;--ink:#e7ebe8;--quiet:#a3ada8;--line:#333a37;--accent:#5fbfa8;--accent-soft:#1f3631;--good:#6cc58f;--warn:#e0b04f;--bad:#f08a80;--field:#161b1a}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:960px;margin:0 auto;padding:24px 16px 64px}
+h1{font-size:1.6rem;margin:.2em 0}h2{font-size:1.15rem;margin:0 0 .6em}h3{font-size:1rem;margin:1em 0 .4em}p{margin:.4em 0}a{color:inherit}
+.quiet{color:var(--quiet)}.small{font-size:.875rem}
+section{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px;margin:16px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;align-items:end}
+label{display:block;font-size:.9rem;color:var(--quiet)}
+input,select,textarea{font:inherit;color:var(--ink);background:var(--field);border:1px solid var(--line);border-radius:6px;padding:6px 8px;width:100%}
+textarea{min-height:70px;resize:vertical}
+input[type=checkbox]{width:auto}
+table{width:100%;border-collapse:collapse;font-size:.93rem}
+th,td{text-align:left;padding:6px 4px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-weight:600;color:var(--quiet);font-size:.85rem}
+td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}
+td input{padding:4px 6px}
+.table-wrap{overflow-x:auto}
+button{font:inherit;border:1px solid var(--accent);background:var(--accent);color:#fff;border-radius:6px;padding:6px 12px;cursor:pointer}
+button.secondary{background:transparent;color:var(--accent)}
+button.del{background:transparent;color:var(--bad);border-color:transparent;padding:2px 6px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:10px}
+.check{display:flex;gap:6px;align-items:center;color:var(--ink);font-size:.95rem;margin-top:8px}
+.note{background:var(--accent-soft);border-radius:8px;padding:10px 12px;font-size:.92rem}
+.lista-p{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 2px}
+.lista-p button{background:transparent;color:var(--ink);border-color:var(--line);font-size:.92rem;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.lista-p button[aria-pressed=true]{background:var(--accent);color:#fff;border-color:var(--accent)}
+.conta{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:10px}
+.conta button{font-size:1.25rem;padding:18px 6px;border-radius:10px}
+.conta .b-no{background:var(--bad);border-color:var(--bad)}
+.conta .b-ast{background:transparent;color:var(--ink);border-color:var(--line)}
+.conta .tot{display:block;font-size:2rem;font-weight:700;font-variant-numeric:tabular-nums}
+.esito{border-radius:10px;padding:14px;margin-top:12px;border:2px solid var(--line)}
+.esito h3{margin:0 0 .3em;font-size:1.2rem}
+.esito.approvata{border-color:var(--good)}.esito.approvata h3{color:var(--good)}
+.esito.respinta,.esito.bloccata{border-color:var(--bad)}.esito.respinta h3,.esito.bloccata h3{color:var(--bad)}
+.esito.senza-quorum,.esito.incompleta{border-color:var(--warn)}.esito.senza-quorum h3,.esito.incompleta h3{color:var(--warn)}
+.esito ul{margin:.3em 0;padding-left:1.2em}
+.ok{color:var(--good)}.mid{color:var(--warn)}.no{color:var(--bad)}
+pre{white-space:pre-wrap;font:inherit;font-size:.93rem;background:var(--field);border:1px solid var(--line);border-radius:8px;padding:12px;margin:8px 0}
+[hidden]{display:none!important}
+@media print{body *{visibility:hidden}#verbale,#verbale *{visibility:visible}#verbale{position:absolute;left:0;top:0;border:0}#verbale pre{border:0}}
+</style>
+</head>
+<body>
+<main>
+<p class="small quiet"><a href="../index.html">Progetto dei Cerchi</a> · <a href="index.html">Strumenti per le reti</a> · Conta dei voti</p>
+<h1>Conta dei voti in assemblea</h1>
+<p>Per le assemblee in presenza: si contano le schede, lo strumento verifica il quorum e la maggioranza secondo il <a href="../registro/codice-03.html">Codice 3</a> e prepara il verbale con i soli numeri complessivi.</p>
+<p class="note">Il voto si conta e non si registra: niente nomi, solo quanti sì, no e astenuti (Codice 3, art. 12, commi 2 e 8). Il voto è l'ultima strada: prima si cerca il consenso, poi la mediazione (art. 4 e 13). Lo strumento aiuta a contare; decide l'assemblea.</p>
+
+<section>
+<h2>L'assemblea</h2>
+<div class="grid">
+<div><label for="a-tipo">Tipo</label><select id="a-tipo" data-k="tipo"><option value="c1">Assemblea del Cerchio 1</option><option value="ag">Assemblea Generale (Cerchio 2 o 3)</option></select></div>
+<div><label for="a-nome">Comunità o Cerchio</label><input id="a-nome" data-k="nome"></div>
+<div><label for="a-conv">Convocata il</label><input id="a-conv" type="date" data-k="convocata"></div>
+<div><label for="a-data">Si tiene il</label><input id="a-data" type="date" data-k="data"></div>
+<div id="box-aventi"><label for="a-aventi">Aventi diritto di voto</label><input id="a-aventi" inputmode="numeric" data-k="aventi" placeholder="dal registro"></div>
+</div>
+<label class="check"><input type="checkbox" id="a-urg" data-k="urgente"> convocazione d'urgenza prevista dai Codici</label>
+<p class="small" id="preavviso"></p>
+<div id="box-com" hidden>
+<h3>Comunità di Base interessate</h3>
+<div class="table-wrap"><table><thead><tr><th>Comunità</th><th class="n">Aventi diritto</th><th></th></tr></thead><tbody id="t-com"></tbody></table></div>
+<div class="row"><button type="button" onclick="aggComunita()">Aggiungi una comunità</button></div>
+</div>
+</section>
+
+<section>
+<h2>Le proposte</h2>
+<div class="lista-p" id="lista-p"></div>
+<div class="row"><button type="button" onclick="aggProposta()">Aggiungi una proposta</button></div>
+<div id="proposta" hidden>
+<label for="p-ogg" style="margin-top:14px">Oggetto della proposta</label><input id="p-ogg" data-p="oggetto">
+<div class="grid">
+<div><label for="p-gen">Che decisione è</label><select id="p-gen" data-p="genere"></select></div>
+<div id="box-sit"><label for="p-sit">A che punto è</label><select id="p-sit" data-p="situazione">
+<option value="voto">Restano obiezioni dopo il confronto e la mediazione: si vota</option>
+<option value="consenso">Nessuna obiezione resta: consenso</option>
+<option value="bloccata">Resta un'obiezione per norma imperativa o rischio grave</option>
+</select></div>
+</div>
+<label class="check"><input type="checkbox" id="p-par" data-p="parere"> c'è un parere vincolante negativo di un Consiglio (art. 8)</label>
+<label class="check" id="box-dos"><input type="checkbox" id="p-dos" data-p="dossier"> il Dossier è stato pubblicato (Costituzione, art. 33)</label>
+
+<div id="box-c1">
+<div id="box-part" hidden><label for="p-part" style="margin-top:10px">Partecipanti presenti</label><input id="p-part" inputmode="numeric" data-p="part" style="max-width:180px"></div>
+<div id="box-conta">
+<h3>Conta delle schede</h3>
+<div class="conta">
+<button type="button" onclick="segna('si')">Sì<span class="tot" id="n-si">0</span></button>
+<button type="button" class="b-no" onclick="segna('no')">No<span class="tot" id="n-no">0</span></button>
+<button type="button" class="b-ast" onclick="segna('ast')">Astenuti<span class="tot" id="n-ast">0</span></button>
+</div>
+<div class="row"><button type="button" class="secondary" onclick="annulla()">Annulla l'ultima</button>
+<span class="small quiet">oppure scrivete i totali:</span>
+<input aria-label="Sì" inputmode="numeric" style="width:5em" id="m-si" oninput="manuale()"> <input aria-label="No" inputmode="numeric" style="width:5em" id="m-no" oninput="manuale()"> <input aria-label="Astenuti" inputmode="numeric" style="width:5em" id="m-ast" oninput="manuale()"></div>
+</div>
+</div>
+
+<div id="box-ag" hidden>
+<h3>Voti di ogni comunità</h3>
+<p class="small quiet">Ogni comunità conta i suoi voti (anche con questo strumento) e comunica i totali.</p>
+<div class="table-wrap"><table><thead><tr><th>Comunità</th><th class="n">Sì</th><th class="n">No</th><th class="n">Astenuti</th><th>Partecipa?</th></tr></thead><tbody id="t-voti-ag"></tbody></table></div>
+</div>
+
+<div id="esito"></div>
+
+<h3>Per il verbale</h3>
+<label for="p-obi">Obiezioni presentate</label><textarea id="p-obi" data-p="obiezioni"></textarea>
+<label for="p-med">Esito del confronto e della mediazione, modifiche</label><textarea id="p-med" data-p="mediazione"></textarea>
+<label for="p-rag">Ragioni della decisione</label><textarea id="p-rag" data-p="ragioni"></textarea>
+<div class="row"><button type="button" class="del" onclick="togliProposta()">Togli questa proposta</button></div>
+</div>
+</section>
+
+<section id="verbale">
+<h2>Verbale</h2>
+<p class="small quiet">Con i soli numeri complessivi, come chiede il Codice 3 (art. 12.8 e 13.6). Da rileggere e completare prima di iscriverlo nel Registro delle Decisioni Assembleari.</p>
+<pre id="testo-verbale"></pre>
+</section>
+
+<section>
+<h2>Salva e collega</h2>
+<div class="row">
+<button type="button" onclick="window.print()">Stampa il verbale</button>
+<button type="button" class="secondary" onclick="copia()">Copia il verbale</button>
+<button type="button" class="secondary" onclick="perSito()">Decisioni per il sito</button>
+<button type="button" class="secondary" onclick="salvaFile()">Salva il file</button>
+<label style="margin:0"><span class="small">Apri un file salvato:</span> <input type="file" accept=".json,application/json" onchange="apriFile(this)"></label>
+</div>
+<p class="small quiet">«Decisioni per il sito» crea un file da caricare nel <a href="sito.html">Modello di sito</a>, nella scheda Decisioni.</p>
+<div class="row"><button type="button" class="secondary" onclick="esempio()">Carica un esempio</button>
+<button type="button" class="del" onclick="if(confirm('Cancellare questa assemblea?'))azzera()">Nuova assemblea</button></div>
+<p class="small quiet">I dati restano in questo browser. Nessuno li riceve.</p>
+</section>
+</main>
+
+<script>
+const CHIAVE="cerchi-assemblea-v1";
+const GENERI={
+  c1:[["ordinaria","Ordinaria — senza quorum, maggioranza semplice"],["qualificata","Riservata all'Assemblea o qualificata — quorum 1/3, due terzi"],["speciale","Con garanzie speciali (art. 7-quater) — quorum 1/2, due terzi"]],
+  ag:[["ordinaria","Ordinaria — maggioranza delle persone votanti"],["qualificata","Qualificata — due terzi delle persone votanti"]]
+};
+const nuovo=()=>({tipo:"c1",nome:"",convocata:"",data:new Date().toISOString().slice(0,10),urgente:false,aventi:"",comunita:[],proposte:[],sel:null,prossimo:1});
+let st=null;
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const int=v=>{const n=parseInt(String(v??"").replace(/\D/g,""),10);return isFinite(n)?n:0;};
+const dataIt=d=>{const t=Date.parse((d||"")+"T12:00:00Z");return isFinite(t)?new Date(t).toLocaleDateString("it-IT",{day:"numeric",month:"long",year:"numeric",timeZone:"UTC"}):"";};
+function carica(){try{const s=localStorage.getItem(CHIAVE);if(s)return Object.assign(nuovo(),JSON.parse(s));}catch(e){}return nuovo();}
+function salva(){try{localStorage.setItem(CHIAVE,JSON.stringify(st));}catch(e){}}
+const prop=()=>st.proposte.find(p=>p.id===st.sel);
+const nuovaProposta=()=>({id:st.prossimo++,oggetto:"",genere:"ordinaria",situazione:"voto",parere:false,dossier:false,part:"",si:0,no:0,ast:0,storia:[],voti:{},obiezioni:"",mediazione:"",ragioni:""});
+
+/* ---------- Il calcolo: Codice 3, art. 12, 13 e 14 ---------- */
+function esito(p){
+  const r=[];
+  if(p.parere) return {stato:"bloccata",titolo:"Non si può adottare",righe:["C'è un parere vincolante negativo: non si supera con il voto, neppure a maggioranza qualificata (art. 8). Si può modificare la proposta e ripresentarla con le prove che la causa è rimossa."]};
+  return st.tipo==="ag"?esitoAG(p,r):esitoC1(p,r);
+}
+function esitoC1(p,r){
+  if(p.situazione==="bloccata") return {stato:"bloccata",titolo:"Non si vota",righe:["Un'obiezione per violazione di norma imperativa o per rischio grave non rimediabile impedisce l'approvazione a maggioranza: la proposta è rinviata per adeguarla o archiviata (art. 13.3, lettera a)."]};
+  const aventi=int(st.aventi), consenso=p.situazione==="consenso";
+  const P=consenso?int(p.part):p.si+p.no+p.ast, attivi=p.si+p.no;
+  if(!P) return {stato:"incompleta",titolo:"Mancano i numeri",righe:[consenso?"Scrivete quante persone partecipano.":"Contate le schede."]};
+  if(p.genere!=="ordinaria"){
+    const frazione=p.genere==="speciale"?2:3, nome=frazione===2?"metà":"un terzo";
+    if(!aventi) return {stato:"incompleta",titolo:"Manca il numero degli aventi diritto",righe:[`Questa decisione richiede che partecipi almeno ${nome} degli aventi diritto (art. 12.5): scrivete quanti sono, in alto.`]};
+    const serve=Math.ceil(aventi/frazione);
+    if(P<serve) return {stato:"senza-quorum",titolo:"Quorum non raggiunto",righe:[`Partecipano ${P} persone su ${aventi} aventi diritto; ne servono almeno ${serve} (${nome}, art. 12.5).`,"La proposta si ripubblica con un nuovo termine di almeno sette giorni. Se il quorum manca di nuovo, decade e si può ripresentare (art. 12.6)."]};
+    r.push(`Quorum raggiunto: partecipano ${P} persone su ${aventi} aventi diritto; ne servivano ${serve} (art. 12.5).`);
+  } else r.push(`Partecipano ${P} persone. Per le decisioni ordinarie non c'è quorum (Costituzione, art. 35.1).`);
+  if(consenso){r.push("Nessuna obiezione motivata resta dopo la procedura del consenso (art. 13.2).");return {stato:"approvata",titolo:"Approvata per consenso",righe:r,dati:{P}};}
+  if(!attivi) return {stato:"incompleta",titolo:"Nessun voto sì o no",righe:r.concat(["Tutte le persone si sono astenute: non c'è una maggioranza da calcolare."])};
+  const qual=p.genere!=="ordinaria", serve=qual?Math.ceil(attivi*2/3):Math.floor(attivi/2)+1, ok=p.si>=serve;
+  r.push(`Sì ${p.si}, no ${p.no}, astenuti ${p.ast}. Gli astenuti contano per il quorum ma non per la maggioranza: i votanti sono ${attivi} (Costituzione, art. 35.4; Codice 3, art. 12.3 e 13.4).`);
+  r.push(qual?`Serve la maggioranza dei due terzi dei votanti: almeno ${serve} sì (art. 13.3, lettera b, e 13.4). Ci sono ${p.si} sì.`:`Serve la maggioranza semplice dei votanti: almeno ${serve} sì (art. 13.3, lettera b). Ci sono ${p.si} sì.`);
+  if(qual) r.push("La decisione a maggioranza qualificata richiede una motivazione rafforzata: scrivetela nelle ragioni.");
+  const firme=Math.ceil(attivi/10);
+  if(ok) r.push(`Entro 72 ore dalla proclamazione, almeno ${firme===1?"1 persona":firme+" persone"} con diritto di voto (il 10% dei votanti) possono firmare un'Obiezione di Coscienza o di Sostenibilità Ecologica, che sospende la parte contestata (art. 13-bis).`);
+  return {stato:ok?"approvata":"respinta",titolo:ok?"Approvata a maggioranza":"Respinta",righe:r,dati:{P,attivi,serve,firme}};
+}
+function esitoAG(p,r){
+  if(!st.comunita.length) return {stato:"incompleta",titolo:"Mancano le comunità",righe:["Aggiungete in alto le Comunità di Base interessate e i loro aventi diritto."]};
+  let partC=0,favC=0,S=0,N=0,A=0;const manca=[];
+  for(const c of st.comunita){const v=p.voti[c.id]||{};const si=int(v.si),no=int(v.no),ast=int(v.ast),vot=si+no+ast,av=int(c.aventi);
+    if(!av) manca.push(c.nome||"senza nome");
+    if(av&&vot*3>=av){partC++;S+=si;N+=no;A+=ast;if(si>no)favC++;}}
+  if(manca.length) return {stato:"incompleta",titolo:"Mancano gli aventi diritto",righe:["Scrivete gli aventi diritto di: "+manca.join(", ")+"."]};
+  const tot=st.comunita.length, servC=Math.ceil(tot*3/4);
+  if(partC<servC) return {stato:"senza-quorum",titolo:"Deliberazione non valida",righe:[`Partecipano ${partC} comunità su ${tot}; ne servono almeno ${servC} (tre quarti). Una comunità partecipa quando prende parte almeno un terzo dei suoi aventi diritto, astenuti compresi (art. 14.6).`]};
+  r.push(`Partecipano ${partC} comunità su ${tot}; ne servivano ${servC} (art. 14.6).`);
+  const servF=Math.ceil(partC*2/3), okC=favC>=servF;
+  r.push(`${okC?"Sì":"No"}: le comunità favorevoli (dove i sì superano i no) sono ${favC}; ne servono almeno ${servF}, i due terzi di quelle che partecipano (art. 14.7, lettera a).`);
+  const vot=S+N, qual=p.genere==="qualificata", servP=qual?Math.ceil(vot*2/3):Math.floor(vot/2)+1, okP=vot>0&&S>=servP;
+  r.push(`${okP?"Sì":"No"}: ${S} sì e ${N} no${A?` (${A} astenuti: non sono votanti, Costituzione art. 35.4)`:""}; servono almeno ${servP} sì, ${qual?"i due terzi":"la maggioranza"} delle persone votanti (art. 14.7, lettera b${qual?", e 14.8":""}).`);
+  r.push(`${p.dossier?"Sì":"No"}: Dossier pubblicato (art. 14.7, lettera c).`);
+  const ok=okC&&okP&&p.dossier;
+  if(ok) r.push(`Entro 72 ore, almeno ${Math.ceil(vot/10)===1?"1 persona":Math.ceil(vot/10)+" persone"} con diritto di voto (il 10% dei votanti) possono firmare un'Obiezione di Coscienza o di Sostenibilità Ecologica (art. 13-bis).`);
+  return {stato:ok?"approvata":"respinta",titolo:ok?"Approvata":"Non approvata",righe:r,dati:{partC,favC,S,N,A}};
+}
+function preavviso(){
+  const el=document.getElementById("preavviso");
+  if(!st.convocata||!st.data){el.innerHTML="";return;}
+  const g=Math.round((Date.parse(st.data)-Date.parse(st.convocata))/864e5), min=st.urgente?2:(st.tipo==="ag"?21:7);
+  const rif=st.tipo==="ag"?(st.urgente?"art. 14.9":"art. 14.6"):(st.urgente?"convocazione d'urgenza":"art. 13.1");
+  el.innerHTML=g>=min?`<span class="ok">Preavviso di ${g} giorni: va bene (almeno ${st.urgente?"48 ore":min+" giorni"}, ${rif}).</span>`:`<span class="no">Preavviso di ${g} giorni: ne servono almeno ${st.urgente?"2 (48 ore)":min} (${rif}).</span>`;
+}
+
+/* ---------- Disegno ---------- */
+function disegna(){
+  salva();
+  const fa=document.activeElement, fk=fa&&fa.dataset?fa.dataset.f:null, fc=fk?fa.selectionStart:null;
+  const ag=st.tipo==="ag";
+  document.querySelectorAll("[data-k]").forEach(el=>{if(el.type==="checkbox")el.checked=!!st[el.dataset.k];else if(document.activeElement!==el)el.value=st[el.dataset.k]??"";});
+  document.getElementById("box-com").hidden=!ag;document.getElementById("box-aventi").hidden=ag;
+  document.getElementById("t-com").innerHTML=st.comunita.map(c=>`<tr><td><input data-f="c${c.id}n" value="${esc(c.nome)}" oninput="com(${c.id},'nome',this.value)"></td><td class="n"><input data-f="c${c.id}a" inputmode="numeric" style="width:7em;text-align:right" value="${esc(c.aventi)}" oninput="com(${c.id},'aventi',this.value)"></td><td><button type="button" class="del" aria-label="Togli" onclick="togliCom(${c.id})">✕</button></td></tr>`).join("")||'<tr><td colspan="3" class="quiet small">Ancora nessuna.</td></tr>';
+  preavviso();
+  document.getElementById("lista-p").innerHTML=st.proposte.map((p,i)=>`<button type="button" aria-pressed="${p.id===st.sel}" onclick="st.sel=${p.id};disegna()">${i+1}. ${esc(p.oggetto||"Senza oggetto")}</button>`).join("");
+  const p=prop();document.getElementById("proposta").hidden=!p;
+  if(p){
+    const g=document.getElementById("p-gen");g.innerHTML=GENERI[st.tipo].map(x=>`<option value="${x[0]}">${x[1]}</option>`).join("");
+    if(!GENERI[st.tipo].some(x=>x[0]===p.genere))p.genere="ordinaria";
+    document.querySelectorAll("[data-p]").forEach(el=>{if(el.type==="checkbox")el.checked=!!p[el.dataset.p];else if(document.activeElement!==el)el.value=p[el.dataset.p]??"";});
+    document.getElementById("box-sit").hidden=ag;document.getElementById("box-dos").hidden=!ag;
+    document.getElementById("box-c1").hidden=ag||p.situazione==="bloccata";document.getElementById("box-ag").hidden=!ag;
+    document.getElementById("box-part").hidden=p.situazione!=="consenso";document.getElementById("box-conta").hidden=p.situazione!=="voto";
+    for(const k of["si","no","ast"]){document.getElementById("n-"+k).textContent=p[k];const m=document.getElementById("m-"+k);if(document.activeElement!==m)m.value=p[k]||"";}
+    document.getElementById("t-voti-ag").innerHTML=st.comunita.map(c=>{const v=p.voti[c.id]||{},vot=int(v.si)+int(v.no)+int(v.ast),av=int(c.aventi),part=av&&vot*3>=av;
+      return `<tr><td>${esc(c.nome||"Senza nome")}</td>${["si","no","ast"].map(k=>`<td class="n"><input data-f="v${c.id}${k}" inputmode="numeric" style="width:4.2em;text-align:right" value="${esc(v[k]??"")}" oninput="votoAG(${c.id},'${k}',this.value)"></td>`).join("")}<td class="small">${!av?'<span class="quiet">aventi?</span>':part?`<span class="ok">sì</span> <span class="quiet">(${vot} su ${av})</span>`:`<span class="mid">no</span> <span class="quiet">(${vot} su ${av}, serve ${Math.ceil(av/3)})</span>`}</td></tr>`;}).join("")||'<tr><td colspan="5" class="quiet small">Aggiungete le comunità in alto.</td></tr>';
+    const e=esito(p);
+    document.getElementById("esito").innerHTML=`<div class="esito ${e.stato}" role="status"><h3>${e.titolo}</h3><ul>${e.righe.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>`;
+  }
+  document.getElementById("testo-verbale").textContent=verbale();
+  if(fk){const n=document.querySelector(`[data-f="${fk}"]`);if(n){n.focus();try{n.setSelectionRange(fc,fc);}catch(e){}}}
+}
+function verbale(){
+  const L=[];const ag=st.tipo==="ag";
+  L.push(`${ag?"ASSEMBLEA GENERALE":"ASSEMBLEA DEL CERCHIO 1"}${st.nome?" — "+st.nome:""}`);
+  L.push(`Data: ${dataIt(st.data)||"—"}. Convocata il ${dataIt(st.convocata)||"—"}${st.urgente?", con procedura d'urgenza":""}.`);
+  if(ag) L.push(`Comunità di Base interessate: ${st.comunita.map(c=>`${c.nome||"senza nome"} (${int(c.aventi)} aventi diritto)`).join(", ")||"—"}.`);
+  else if(int(st.aventi)) L.push(`Aventi diritto di voto: ${int(st.aventi)}.`);
+  st.proposte.forEach((p,i)=>{
+    const e=esito(p),g=(GENERI[st.tipo].find(x=>x[0]===p.genere)||["",""])[1].split(" — ")[0];
+    L.push("",`${i+1}. ${p.oggetto||"Senza oggetto"}`,`Tipo di decisione: ${g}.`);
+    if(p.obiezioni.trim()) L.push(`Obiezioni: ${p.obiezioni.trim()}`);
+    if(p.mediazione.trim()) L.push(`Confronto e mediazione: ${p.mediazione.trim()}`);
+    if(!ag&&p.situazione==="voto"&&p.si+p.no+p.ast) L.push(`Voti: sì ${p.si}, no ${p.no}, astenuti ${p.ast}.`);
+    if(ag) for(const c of st.comunita){const v=p.voti[c.id]||{};L.push(`  ${c.nome||"senza nome"}: sì ${int(v.si)}, no ${int(v.no)}, astenuti ${int(v.ast)}.`);}
+    for(const r of e.righe) L.push("- "+r);
+    L.push(`ESITO: ${e.titolo.toUpperCase()}.`);
+    if(p.ragioni.trim()) L.push(`Ragioni: ${p.ragioni.trim()}`);
+  });
+  if(!st.proposte.length) L.push("","Nessuna proposta.");
+  L.push("","Il voto è stato espresso in forma anonima. Il verbale riporta soltanto dati complessivi.");
+  return L.join("\n");
+}
+
+/* ---------- Azioni ---------- */
+function aggProposta(){const p=nuovaProposta();st.proposte.push(p);st.sel=p.id;disegna();document.getElementById("p-ogg").focus();}
+function togliProposta(){if(!confirm("Togliere questa proposta e i suoi voti?"))return;st.proposte=st.proposte.filter(p=>p.id!==st.sel);st.sel=st.proposte[0]?.id??null;disegna();}
+function aggComunita(){st.comunita.push({id:st.prossimo++,nome:"",aventi:""});disegna();}
+function togliCom(id){st.comunita=st.comunita.filter(c=>c.id!==id);disegna();}
+function com(id,k,v){const c=st.comunita.find(x=>x.id===id);if(c){c[k]=v;disegna();}}
+function votoAG(id,k,v){const p=prop();(p.voti[id]??={})[k]=v;disegna();}
+function segna(k){const p=prop();p[k]++;p.storia.push(k);disegna();}
+function annulla(){const p=prop(),k=p.storia.pop();if(k&&p[k]>0)p[k]--;disegna();}
+function manuale(){const p=prop();for(const k of["si","no","ast"])p[k]=int(document.getElementById("m-"+k).value);p.storia=[];disegna();}
+document.querySelectorAll("[data-k]").forEach(el=>{el.addEventListener(el.type==="checkbox"||el.tagName==="SELECT"?"change":"input",()=>{st[el.dataset.k]=el.type==="checkbox"?el.checked:el.value;disegna();});});
+document.querySelectorAll("[data-p]").forEach(el=>{el.addEventListener(el.type==="checkbox"||el.tagName==="SELECT"?"change":"input",()=>{const p=prop();if(!p)return;p[el.dataset.p]=el.type==="checkbox"?el.checked:el.value;disegna();});});
+function scarica(nome,testo,tipo){const b=new Blob([testo],{type:tipo}),a=document.createElement("a");a.href=URL.createObjectURL(b);a.download=nome;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),1000);}
+const base=()=>`assemblea-${st.data||"senza-data"}`;
+function salvaFile(){scarica(base()+".json",JSON.stringify(Object.assign({tipo:"assemblea-cerchi"},st),null,2),"application/json");}
+function apriFile(inp){const f=inp.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{const d=JSON.parse(r.result);if(d.tipo!=="assemblea-cerchi"||!Array.isArray(d.proposte))throw 0;delete d.tipo;st=Object.assign(nuovo(),d);disegna();}catch(e){alert("Il file non è un'assemblea salvata con questo strumento.");}};r.readAsText(f);inp.value="";}
+function perSito(){
+  const mappa={approvata:"approvata",respinta:"respinta"};
+  const decisioni=st.proposte.filter(p=>p.oggetto&&esito(p).stato!=="incompleta").map(p=>{const e=esito(p),voto=st.tipo==="c1"&&p.situazione==="voto";
+    let si=voto?p.si:"",no=voto?p.no:"",ast=voto?p.ast:"";
+    if(st.tipo==="ag"&&e.dati){si=e.dati.S;no=e.dati.N;ast=e.dati.A;}
+    return {data:st.data,oggetto:p.oggetto,esito:mappa[e.stato]||"rinviata",si:String(si),no:String(no),ast:String(ast),verbale:""};});
+  if(!decisioni.length){alert("Non ci sono proposte con un oggetto e un esito.");return;}
+  scarica(base()+"-decisioni.json",JSON.stringify({tipo:"decisioni-cerchi",fonte:st.nome,decisioni},null,2),"application/json");
+}
+function copia(){const t=verbale();try{navigator.clipboard.writeText(t).then(()=>alert("Verbale copiato."),()=>alert("Non riesco a copiare: selezionate il testo a mano."));}catch(e){alert("Non riesco a copiare: selezionate il testo a mano.");}}
+function azzera(){st=nuovo();disegna();}
+function esempio(){
+  st=nuovo();const d=new Date(),g=n=>new Date(d.getTime()+n*864e5).toISOString().slice(0,10);
+  Object.assign(st,{nome:"Comunità del Borgo Alto",convocata:g(-8),data:g(0),aventi:"120"});
+  const a=nuovaProposta();Object.assign(a,{oggetto:"Aprire il magazzino anche il mercoledì sera",genere:"ordinaria",situazione:"consenso",part:"64"});
+  const b=nuovaProposta();Object.assign(b,{oggetto:"Costruire un essiccatore solare comune",genere:"qualificata",situazione:"voto",si:54,no:26,ast:40,
+    obiezioni:"Due obiezioni sul consumo di legname per la struttura.",mediazione:"Struttura ridotta e legname di recupero; un'obiezione resta.",ragioni:""});
+  st.proposte=[a,b];st.sel=b.id;disegna();
+}
+st=carica();disegna();
+</script>
+</body>
+</html>

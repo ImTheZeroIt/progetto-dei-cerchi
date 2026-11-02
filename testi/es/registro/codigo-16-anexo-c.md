@@ -1,7 +1,7 @@
 ---
 titolo: "ANEXO TÉCNICO C AL CÓDIGO 16 — CARTA OPERATIVA DEL PRIMER AÑO"
 breve: "Anexo C al Código 16 — Carta operativa del primer año"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "allegati"
 ordine: 16.3
 id: "codice-16-allegato-c"
@@ -80,10 +80,10 @@ Anexo técnico adoptado conforme al artículo 19 del Código 3 y al que remiten 
 
 1.  Los bienes aportados se inscriben en el inventario provisional del artículo 6 del Código 16. La aportación es voluntaria e indica si es definitiva o en uso temporal.
 2.  En el primer año no se adoptan decisiones que hagan irreversible el destino de bienes ecológicos o territoriales.
-3.  Los animales presentes permanecen con la Comunidad si se cumplen las condiciones del artículo 6-bis del Código 9. Toda práctica prohibida cesa sin demora.
+3.  Los animales presentes permanecen con la Comunidad si se cumplen las condiciones del artículo 6-bis del Código 9, verificadas por el Consejo de Biodiversidad instituido conforme al artículo 3, apartado 1, letra f), del Código 16. Toda práctica prohibida cesa sin demora.
 
 ## Art. 10 — Verificación a los doce meses
 
-1.  Al final del primer año la Asamblea verifica los umbrales del artículo 4 del Código 16, también con el Protocolo de Arranque Social, y publica un informe.
+1.  Al final del primer año la Asamblea examina la verificación de los umbrales del artículo 4 del Código 16 realizada por el Consejo de Transición, también con el Protocolo de Arranque Social, y publica un informe.
 2.  El informe indica qué ha funcionado, qué reglas han resultado inaplicables o demasiado gravosas y qué simplificaciones se proponen, también a efectos del artículo 38 de la Constitución.
 3.  La Carta se actualiza sobre la base del informe.

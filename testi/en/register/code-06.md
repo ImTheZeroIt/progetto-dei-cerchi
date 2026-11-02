@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 6 — ON HEALTH"
 breve: "Code 6 — Health"
-versione: "V1.8"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 6
 id: "codice-06"
 slug: "code-06"
-allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4 V1.9; Code 5 V1.6; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 13 V1.8; Code 14 V1.7; Code 15 V1.9; Code 16 V1.9."
+allineamento: "Constitution V.38; Code 1 V1.12; Code 2 V1.9; Code 3 V1.11; Code 4 V1.10; Code 5 V1.7; Code 7 V1.10; Code 8 V1.7; C.1-Annex A V1.7; Code 9 V3.4; Code 10 V1.8; Code 11 V1.6; Code 12 V1.7; Code 13 V1.9; Code 14 V1.10; Code 15 V1.12; Code 16 V1.10."
 ---
 
 ## PRELIMINARY TITLE — FUNDAMENTAL PRINCIPLES
@@ -122,7 +122,7 @@ f) during the transition, if the person does not consent, are ordered only by th
 
 1.  From completion of the sixteenth year the person gives, refuses and revokes consent to their own care themselves, pursuant to Article 2, paragraph 2. If, before the eighteenth year, the person is unable to decide, paragraph 2 applies.
 
-2.  Until completion of the sixteenth year consent is given by those who hold responsibility for the care of the minor pursuant to Article 24.3 of the Constitution, after informing and hearing the minor in a manner suited to his or her age. The opinion of the minor carries increasing weight with age and maturity, pursuant to Article 26.2 of the Constitution. If there is more than one responsible person, they decide by agreement; for urgent care the consent of one of them suffices. Responsibility for care and the consent of this paragraph do not cease by reason only of the cessation of the member status of the responsible person pursuant to Article 29, paragraph 6-bis, of Code 4. If no one exercises responsibility for care, or no responsible person can be reached in good time, consent is given by the temporary representative appointed pursuant to Article 7-bis, paragraph 5, of Code 12, until the decision of the Guarantee Tribunal provided for by paragraph 3-bis of that Article.
+2.  Until completion of the sixteenth year consent is given by those who hold responsibility for the care of the minor pursuant to Article 24.3 of the Constitution, after informing and hearing the minor in a manner suited to his or her age. The opinion of the minor carries increasing weight with age and maturity, pursuant to Article 26.2 of the Constitution. If there is more than one responsible person, they decide by agreement; for urgent care the consent of one of them suffices. Responsibility for care and the consent of this paragraph do not cease by reason only of the cessation of the member status of the responsible person pursuant to Article 29, paragraph 6-bis, of Code 4. If no one exercises responsibility for care, or no responsible person can be reached in good time, consent is given by the temporary representative appointed pursuant to Article 7-bis, paragraph 5, of Code 12, until the decision of the Guarantee Tribunal provided for by paragraph 3-bis of that Article. Whoever gives consent for the minor may not consent to a coercive measure: only Article 8 applies.
 
 3.  In the event of disagreement between the minor and those who hold responsibility for his or her care, or between several responsible persons, or of a conflict of interest between them and the minor, the minor, each responsible person, the treating practitioner or the Care Council may apply to the Guarantee Tribunal. The Tribunal obtains the written opinion of a person with L3 health competence, independent and not involved in the care, drawn by lot from the list of Article 36, paragraph 1, letter b), of Code 4; it hears the minor, assisted by the trusted person provided for by Article 31.5 of the Constitution, and the responsible persons; it decides within seven days or, if the care cannot wait, within twenty-four hours, according to the interest of the minor and taking account of his or her opinion pursuant to paragraph 2. Where waiting would expose the minor to a danger to life or to serious and irreversible harm, the necessary care is provided immediately, pursuant to Article 28.2 of the Constitution, and the Tribunal is informed.
 
@@ -430,7 +430,7 @@ Traditional use, on its own, does not constitute validation. Every validated pre
 
 4.  Critical proprietary dependency on which life-saving medicines, essential diagnostic devices or PPE depend is prohibited. Articles 4 and 5 of Code 2 and the provisions of Code 15 apply.
 
-5.  No health experimentation may be carried out on members without free, informed, specific and revocable consent. Consent is documented in writing after comprehensible information has been provided on risks, benefits, alternatives and the right of withdrawal.
+5.  No health experimentation may be carried out on any person without free, informed, specific and revocable consent. Consent is documented in writing after comprehensible information has been provided on risks, benefits, alternatives and the right of withdrawal.
 
 6.  Experimentation requires in advance:
 
@@ -450,7 +450,7 @@ Traditional use, on its own, does not constitute validation. Every validated pre
 
     d) authorisation of the Guarantee Circle as regards consent and proportionality;
 
-    e) a resolution of the General Assembly in accordance with Code 3, by qualified majority and with tracking of the positions expressed;
+    e) authorisation by the Guarantee Tribunal, which decides confidentially within seven days or, if the care cannot wait, within twenty-four hours;
 
     f) hearing and respecting the will of the person to the extent that they are able to express it.
 

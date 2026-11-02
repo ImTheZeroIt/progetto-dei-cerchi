@@ -1,7 +1,7 @@
 ---
 titolo: "ANNEXE TECHNIQUE C AU CODE 16 — CHARTE OPÉRATIONNELLE DE LA PREMIÈRE ANNÉE"
 breve: "Annexe C au Code 16 — Charte opérationnelle de la première année"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "allegati"
 ordine: 16.3
 id: "codice-16-allegato-c"
@@ -80,10 +80,10 @@ Annexe technique adoptée en application de l’article 19 du Code 3 et visée a
 
 1.  Les biens apportés sont inscrits dans l’inventaire provisoire de l’article 6 du Code 16. L’apport est volontaire et précise s’il est définitif ou s’il s’agit d’un usage temporaire.
 2.  Au cours de la première année, aucune décision rendant irréversible l’affectation de biens écologiques ou territoriaux n’est adoptée.
-3.  Les animaux présents restent avec la Communauté si les conditions de l’article 6-bis du Code 9 sont réunies. Toute pratique interdite cesse sans délai.
+3.  Les animaux présents restent avec la Communauté si les conditions de l’article 6-bis du Code 9 sont réunies, ce que vérifie le Conseil Biodiversité institué en application de l’article 3, alinéa 1, lettre f), du Code 16. Toute pratique interdite cesse sans délai.
 
 ## Art. 10 — Vérification à douze mois
 
-1.  Au terme de la première année, l’Assemblée vérifie les seuils de l’article 4 du Code 16, y compris au moyen du Protocole de démarrage social, et publie un rapport.
+1.  Au terme de la première année, l’Assemblée examine la vérification des seuils de l’article 4 du Code 16 effectuée par le Conseil Transition, y compris au moyen du Protocole de démarrage social, et publie un rapport.
 2.  Le rapport indique ce qui a fonctionné, quelles règles se sont révélées inapplicables ou trop lourdes et quelles simplifications sont proposées, y compris aux fins de l’article 38 de la Constitution.
 3.  La Charte est mise à jour sur la base du rapport.

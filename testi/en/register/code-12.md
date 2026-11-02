@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 12 — COMMUNITY CARE, FUNCTIONAL FRAILTIES AND COMMUNITY HEALTH"
 breve: "Code 12 — Community care"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 12
 id: "codice-12"
 slug: "code-12"
-allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4 V1.9; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 13 V1.8; Code 14 V1.7; Code 15 V1.9; Code 16 V1.9."
+allineamento: "Constitution V.38; Code 1 V1.12; Code 2 V1.9; Code 3 V1.11; Code 4 V1.10; Code 5 V1.7; Code 6 V1.9; Code 7 V1.10; Code 8 V1.7; C.1-Annex A V1.7; Code 9 V3.4; Code 10 V1.8; Code 11 V1.6; Code 13 V1.9; Code 14 V1.10; Code 15 V1.12; Code 16 V1.10."
 ---
 
 ## Art. 1 — Subject matter, definitions and scope of competence
@@ -250,7 +250,7 @@ a) the return to Circle 0, where appropriate with a support pathway; or
 
 b) only where the return would expose the minor to violence, serious neglect or harm that a support pathway cannot prevent, custody with persons who assume responsibility for care pursuant to Article 24.3 of the Constitution, indicating whether that responsibility remains shared with the persons who exercised it or is suspended for them, and how relations with them are maintained, unless this harms the minor.
 
-The decision shall be reviewed by the Tribunal at least every six months and at any time at the request of the minor or of the persons who held responsibility for care. Review under Article 35, paragraph 2, of Code 4 is permitted against it. This paragraph also applies to the decision on where and with whom the minor children of a person who ceases to be a member pursuant to Article 29, paragraph 6-bis, of Code 4 live; the decision is taken before the cessation takes effect and does not require the separation of paragraph 3. In that case the cessation does not, by itself, constitute violence, serious neglect or harm within the meaning of letter b), and the Tribunal may also order that the minor live with the person on the portion assigned, with the housing, the Basket and the services due to him or her as a member.
+The decision shall be reviewed by the Tribunal at least every six months and at any time at the request of the minor or of the persons who held responsibility for care. Review under Article 35, paragraph 2, of Code 4 is permitted against it. This paragraph also applies to the decision on where and with whom the minor children of a person who ceases to be a member pursuant to Article 29, paragraph 6-bis, of Code 4 live; the decision is taken before the cessation takes effect and does not require the separation of paragraph 3. In that case the cessation does not, by itself, constitute violence, serious neglect or harm within the meaning of letter b), and the Tribunal may also order that the minor live with the person on the portion assigned, with the housing, the Basket and the services due to him or her as a member. This paragraph also applies, upon a report by the Care Council or by anyone with an interest, when no one exercises responsibility for the care of the minor or more than one person claims it; the time limit runs from the report and the Tribunal indicates who assumes responsibility for care.
 
 3-ter. During the transition the separation against the will of those who hold responsibility for care and the decisions of paragraph 3-bis fall to the competent authorities of the State, pursuant to Article 37 of Code 4. The Care Council reports the case, supports the minor and cooperates in his or her reception.
 
@@ -276,6 +276,8 @@ The decision shall state reasons and indicate who takes everyday decisions and h
 
 4.  Against the decision of paragraph 2, or if it is not taken within the time limit, the minor and each person who holds responsibility for his or her care may appeal within fourteen days to the Guarantee Tribunal, which shall decide within thirty days with the guarantees of Article 7-bis, paragraph 3-bis, taking account of the will of the minor according to age and maturity. Review under Article 35, paragraph 2, of Code 4 is permitted against the decision of the Tribunal.
 
+4-bis. A minor is a member from birth, or from arrival in the Community, if at least one of the persons who hold responsibility for his or her care is a member. In the other cases joining takes place under the age rules of Article 26.5 of the Constitution: from completion of the sixteenth year by the minor personally, before then by those who hold responsibility for his or her care, in the minor’s interest and after informing and hearing the minor. For the purposes of Article 26.4 of the Constitution, a person who has been a member as a minor for at least one year has grown up in the Confederation.
+
 5.  From completion of the sixteenth year the minor may personally make the declaration of Article 4.8 of the Constitution, pursuant to Article 26.5 of the Constitution. The declaration is preceded by an interview with the Care Council, in which the minor may be assisted by the trusted person; the Council informs the minor of the effects of Article 4.8, of the rights retained pursuant to paragraph 8, of the Autonomous Coexistence Pact and of readmission, and verifies with the minor where and with whom he or she will live. The interview takes place within fourteen days of the request; if the time limit expires without an interview, the declaration may be made in any case. The persons who hold responsibility for care are informed, unless this exposes the minor to danger. If, before the eighteenth year, the minor is not able to decide, paragraph 6 applies.
 
 6.  Until completion of the sixteenth year the declaration of Article 4.8 of the Constitution for the minor is made by the person who holds responsibility for his or her care, solely in the interest of the minor, after informing and hearing the minor in a manner suited to his or her age; the opinion of the minor carries increasing weight with age and maturity, pursuant to Article 26.2 of the Constitution. If there is more than one responsible person, they decide by agreement. The declaration that a person makes for himself or herself does not extend to the minors for whom he or she holds responsibility for care.
@@ -288,7 +290,7 @@ The decision shall state reasons and indicate who takes everyday decisions and h
 
 Review under Article 35, paragraph 2, of Code 4 is permitted against the decision.
 
-8.  A minor who is no longer a member retains in any case drinking water, life-saving emergency care and the protection of minors guaranteed by Article 1.3 of the Constitution, the rights of Article 26 of the Constitution referred to in Article 4.9-bis, including access to care and learning, and the other rights of Article 4.9. The minor may continue to live in his or her own Circle 0, with the consent of those who live there, and may apply at any time for readmission pursuant to Article 4.8 of the Constitution.
+8.  A minor who is no longer a member retains in any case drinking water, life-saving emergency care and the protection of minors guaranteed by Article 1.3 of the Constitution, the rights of Article 26 of the Constitution referred to in Article 4.9-bis, including access to care and learning, and the other rights of Article 4.9, except for the limit of letter b). Pursuant to Article 26.5 of the Constitution the minor may continue to live in his or her own Circle 0, with the consent of those who live there, until completion of the eighteenth year; in the meantime the minor receives the Basket in his or her own right and Article 4.9-ter of the Constitution does not apply. The minor may apply at any time for readmission pursuant to Article 4.8 of the Constitution.
 
 9.  During the transition this Article applies within the limits permitted by the law in force on responsibility for care and on the participation of minors in organisations, pursuant to Article 37 of Code 4. The choice of residence against the will of those who hold responsibility for care and the decisions of the Tribunal provided for by paragraphs 4 and 7 fall to the competent authorities of the State; the Care Council supports the minor.
 
@@ -334,7 +336,7 @@ Review under Article 35, paragraph 2, of Code 4 is permitted against the decisio
 
     f) use data on functional frailty for profiling or for purposes other than the taking into care and the technical purposes expressly permitted by Code 7;
 
-    g) order the forced institutionalisation of a person, except for a temporary placement strictly necessary in the face of an immediate risk, adopted on the conditions and with the guarantees of Article 8, paragraphs 4 to 10, of Code 6; for minors Article 7-bis, paragraph 3, applies. Any health treatments remain governed by Code 6 and by the related guarantees.
+    g) order the forced institutionalisation of a person, except for a temporary placement strictly necessary in the face of an immediate risk, adopted on the conditions and with the guarantees of Article 8, paragraphs 4 to 10, of Code 6; for minors Article 8 of Code 6 also applies and, if the placement separates them from Circle 0, Article 7-bis, paragraph 3. Any health treatments remain governed by Code 6 and by the related guarantees.
 
 2.  Violations of paragraph 1 constitute substantial violations. The ascertainment, the precautionary measures, the suspension or deactivation of the function and the remedies shall be adopted in accordance with Code 4. The Care Council shall document the facts and activate the procedures provided for, without taking the place of the bodies competent for the ascertainment or for the application of the remedies.
 

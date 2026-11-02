@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 1 — DE LA CONTRIBUTION DE BASE OBLIGATOIRE ET DU SYSTÈME DES ENTREPÔTS COMMUNS"
 breve: "Code 1 — Contribution de base et Entrepôts communs"
-versione: "V1.10"
+versione: "V1.12"
 gruppo: "codici"
 ordine: 1
 id: "codice-01"
 slug: "code-01"
-allineamento: "Constitution V.35 ; Code 2 V1.7 ; Code 3 V1.8 ; Code 4 V1.9 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.8 ; Code 14 V1.7 ; Code 15 V1.9 ; Code 16 V1.9."
+allineamento: "Constitution V.38 ; Code 2 V1.9 ; Code 3 V1.11 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 7 V1.10 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 15 V1.12 ; Code 16 V1.10."
 ---
 
 ## TITRE I — PRINCIPES GÉNÉRAUX
@@ -286,7 +286,7 @@ allineamento: "Constitution V.35 ; Code 2 V1.7 ; Code 3 V1.8 ; Code 4 V1.9
 
     c) conservation des biens communs et prévention de l’accumulation privée et du gaspillage.
 
-3.  L’accès aux biens nécessaires inclus dans le Panier ne peut pas être subordonné à l’accomplissement de la CBO ou à la détention de CdR. L’alinéa 1, le présent alinéa, l’article 18, alinéa 1, lettre a), et les dispositions des Annexes et des autres Codes qui excluent la subordination du Panier à la CBO concernent les membres et les personnes accueillies conformément aux Codes. À la personne qui a cessé d’être membre en application de l’article 7.3-bis de la Constitution et de l’article 29, alinéa 6-bis, du Code 4 ne reviennent que l’eau potable et les soins d’urgence vitale prévus par les articles 1.3 et 4.9 de la Constitution. Les droits de ses enfants mineurs restent intacts.
+3.  L’accès aux biens nécessaires inclus dans le Panier ne peut pas être subordonné à l’accomplissement de la CBO ou à la détention de CdR. L’alinéa 1, le présent alinéa, l’article 18, alinéa 1, lettre a), et les dispositions des Annexes et des autres Codes qui excluent la subordination du Panier à la CBO concernent les membres et les personnes accueillies conformément aux Codes, y compris le mineur qui reste dans son Cercle 0 en application de l’article 26.5 de la Constitution. À la personne qui a cessé d’être membre en application de l’article 7.3-bis de la Constitution et de l’article 29, alinéa 6-bis, du Code 4 ne reviennent que l’eau potable et les soins d’urgence vitale prévus par les articles 1.3 et 4.9 de la Constitution et l’énergie essentielle à la santé et à la survie de l’article 15.2 de la Constitution et de l’article 4, alinéa 2, du Code 8. Les droits de ses enfants mineurs restent intacts.
 
 ### Art. 14 — Types et organisation territoriale
 
@@ -563,6 +563,8 @@ d) pour les autres biens et services du Panier, y compris l’eau, la santé, le
 
 Les mêmes expressions ne désignent pas les Cercles.
 
+1-sexies. L’alimentation minimale nécessaire à la survie et les soins vétérinaires urgents des animaux qui vivent avec la Communauté, y compris ceux qui sont accueillis dans les sanctuaires, relèvent de la lettre a) de l’alinéa 1, sans compromettre les niveaux 1 et 2 du Panier humain, comme l’eau minimale prévue par l’article 10, alinéa 8, du Code 9.
+
 2.  La hiérarchie constitue un critère prépondérant pour résoudre les conflits de capacité, mais ne fonctionne pas comme un automatisme dispensé de l’évaluation des circonstances concrètes.
 
 3.  Une dérogation motivée est admise lorsqu’il est nécessaire de prévenir un dommage plus grave, immédiat et documenté, tel qu’une panne hydraulique qui compromet les Entrepôts, une interruption énergétique, un risque d’effondrement ou une rupture de la chaîne du froid. Dans ce cas :
@@ -612,7 +614,7 @@ Les mêmes expressions ne désignent pas les Cercles.
 
 ### Art. 37 — Réseau d’information et souveraineté numérique
 
-1.  Le Réseau d’information est l’infrastructure commune qui relie les Cercles, les Entrepôts, la Logistique et les systèmes de relevé des besoins. Il est géré sur des infrastructures communautaires et, dans la mesure du possible, avec des logiciels libres et des standards ouverts.
+1.  Le Réseau d’information est l’infrastructure commune qui relie les Cercles, les Entrepôts, la Logistique et les systèmes de relevé des besoins. Il est géré sur des infrastructures communautaires, avec des logiciels libres et des standards ouverts, en application de l’article 19.4 de la Constitution et de l’article 9-bis du Code 16.
 2.  Le recours à des plateformes privées propriétaires extérieures pour des données ou des fonctions essentielles est interdit, sauf transition temporaire motivée et enregistrée conformément au Code 15.
 3.  Les données générées par les activités de CBO et des Entrepôts sont gérées comme des ressources communes, dans le respect des droits des personnes auxquelles les données se rapportent et des règles des Codes 6 et 7.
 4.  L’ouverture du code source n’élimine pas le risque de concentration du contrôle. La gouvernance des modifications, de la distribution et de l’accès est régie par l’article 38 et par le Code 7.
@@ -728,7 +730,7 @@ f) sont exclus les activités de culte, celles qui sont réservées à une parti
 3.  Les CdR non utilisées conservent leur valeur pendant douze mois à compter de leur acquisition. À partir de la fin du douzième mois, la valeur diminue proportionnellement au temps, d’un douzième de la valeur initiale par mois, jusqu’à s’éteindre à la fin du vingt-quatrième. L’acquisition coïncide avec le jour où l’activité a été accomplie. Aux fins de l’utilisation et du plafond, chaque CdR compte pour la valeur qu’elle a à ce moment.
 4.  Les paramètres des alinéas 2 et 3 sont calibrés chaque année par l’Assemblée générale du Cercle 2, dans les limites éventuellement fixées par l’Assemblée générale du Cercle 3. Le calibrage ne peut supprimer ni le plafond ni la décroissance.
 5.  Au décès de la personne ou à la cessation du statut de membre, les CdR s’éteignent.
-6.  Pendant la suspension prévue par l’article 7.3 de la Constitution, ordonnée en application de l’article 29, alinéa 4-bis, du Code 4, les CdR ne peuvent être ni acquises ni utilisées.
+6.  Pendant la suspension prévue par l’article 7.3 de la Constitution, ordonnée en application de l’article 29, alinéas 2 et 4-bis, du Code 4, les CdR ne peuvent être ni acquises ni utilisées.
 
 ### Art. 45 — Utilisation
 
@@ -763,7 +765,7 @@ f) sont exclus les activités de culte, celles qui sont réservées à une parti
 2.  La propriété d’usage d’un logement, d’un atelier, d’un champ ou d’un outil collectif, en application de l’article 10.2 de la Constitution, est enregistrée auprès du Conseil des Entrepôts et, pour les aspects territoriaux, dans le Cadastre prévu par le Code 10. Elle se fonde sur l’usage effectif et continu.
 3.  La propriété d’usage cesse par renonciation, par défaut d’usage prolongé au-delà de douze mois sans justification ou par violation des limites de l’article 10.4 de la Constitution, constatée conformément au Code 4. Le logement principal ne peut pas être retiré sans l’attribution d’un autre logement adéquat, sauf dans les cas de l’alinéa 3-bis.
 
-3-bis. La propriété d’usage du logement cesse en outre avec le transfert dans une autre Communauté en application de l’article 49, avec la déclaration de l’article 4.8 de la Constitution et avec la cessation du statut prévue par l’article 7.3-bis de la Constitution. La continuité du logement des personnes qui vivent dans le même Cercle 0 est sauvegardée, en application de l’article 3.7 de la Constitution. En cas de transfert, le logement est libéré à la fin de la dotation de Maison-relais de l’article 49, alinéa 3 ; en cas de déclaration de l’article 4.8, à la fin de l’hospitalité de l’article 4.9, lettre b), de la Constitution, sauf si la personne demande le Pacte de cohabitation autonome : elle reste alors dans le logement jusqu’à la remise de la parcelle, en application de l’article 4-bis, alinéa 7, du Code 10, et le logement peut lui être confié avec le Pacte en application de l’article 4.9-bis de la Constitution. Pour la personne qui reste sans Pacte, l’article 4.9-ter de la Constitution s’applique. Dans le cas de l’article 7.3-bis de la Constitution, l’article 29, alinéa 6-bis, du Code 4 s’applique.
+3-bis. La propriété d’usage du logement cesse en outre avec le transfert dans une autre Communauté en application de l’article 49, avec la déclaration de l’article 4.8 de la Constitution et avec la cessation du statut prévue par l’article 7.3-bis de la Constitution. La continuité du logement des personnes qui vivent dans le même Cercle 0 est sauvegardée, en application de l’article 3.7 de la Constitution. En cas de transfert, le logement est libéré à la fin de la dotation de Maison-relais de l’article 49, alinéa 3 ; en cas de déclaration de l’article 4.8, à la fin de l’hospitalité de l’article 4.9, lettre b), de la Constitution, sauf si la personne demande le Pacte de cohabitation autonome : elle reste alors dans le logement jusqu’à la remise de la parcelle, en application de l’article 4-bis, alinéa 7, du Code 10, et le logement peut lui être confié avec le Pacte en application de l’article 4.9-bis de la Constitution. Pour la personne qui reste sans Pacte, l’article 4.9-ter de la Constitution s’applique, sauf, pour le mineur, l’article 26.5 de la Constitution. Dans le cas de l’article 7.3-bis de la Constitution, l’article 29, alinéa 6-bis, du Code 4 s’applique.
 
 4.  L’interdiction de l’accumulation privée au-delà de sept jours des besoins du foyer, prévue par l’article 10.5 de la Constitution, concerne les biens prélevés dans les Entrepôts. Les nécessités motivées, notamment sanitaires, saisonnières ou d’isolement, sont réservées.
 
@@ -811,7 +813,7 @@ f) sont exclus les activités de culte, celles qui sont réservées à une parti
 
 4.  Lorsque les logements ne suffisent pas :
 
-    a) personne ne reste sans abri : dans l’attente de l’attribution, le meilleur logement disponible au sens de l’article 47-bis, alinéa 5, ou une place dans une Maison-relais est attribué, sans la limite de durée de l’article 12.3 de la Constitution, et à défaut une aire d’accueil équipée en application de l’article 6-ter, alinéa 6, du Code 11 ;
+    a) personne ne reste sans abri : dans l’attente de l’attribution, le meilleur logement disponible au sens de l’article 47-bis, alinéa 5, ou une place dans une Maison-relais est attribué, sans limite de durée et même au-delà de la dotation de l’article 49, alinéa 3, et à défaut une aire d’accueil équipée en application de l’article 6-ter, alinéa 6, du Code 11 ;
 
     b) la planification donne la priorité au réemploi et à la réhabilitation des bâtiments, en application des articles 2 et 5 du Code 10 ;
 
@@ -840,3 +842,4 @@ f) sont exclus les activités de culte, celles qui sont réservées à une parti
 3.  Pendant la même période, la personne a droit à la dotation de Maison-relais : hébergement dans une Maison-relais, accès au Panier et moyens nécessaires au transfert des effets personnels, conformément au Code 11. La dotation ne requiert pas de CdR.
 4.  La Communauté de destination attribue un logement d’usage selon les disponibilités. Jusqu’à l’attribution, l’hébergement se poursuit en application de l’article 12.3 de la Constitution. À défaut de disponibilité, le Cercle 2 apporte son aide pour la recherche d’un autre lieu d’installation.
 5.  La relocalisation ne peut entraîner aucune mention ou conséquence préjudiciable pour la personne.
+6.  Le soutien au démarrage de la vie autonome de l’article 26.4 de la Constitution comprend au moins la dotation des alinéas 2 et 3. Pour la personne qui choisit de quitter la Confédération, il comprend les Biens d’usage personnel, les moyens du déménagement et une somme de la Caisse commune fixée chaque année par l’Assemblée, en application de l’article 17 du Code 15. Il est proposé par le Conseil Soin ; contre la décision, un recours au Cercle de garantie est admis.

@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 8 — DELL’ENERGIA E DELL’ACQUA"
 breve: "Codice 8 — Energia e acqua"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 8
 id: "codice-08"
 slug: "codice-08"
-allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; Codice 4 V1.9; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.8; Codice 14 V1.7; Codice 15 V1.9; Codice 16 V1.9."
+allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.11; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.12; Codice 16 V1.10."
 ---
 
 ## Art. 1 — Oggetto e natura giuridica
@@ -92,6 +92,10 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
     b) **proposte e decisioni discrezionali:** sono adottate secondo il metodo del consenso previsto dal Codice 3, previa pubblicazione della proposta, apertura di un termine non inferiore a settantadue ore per le obiezioni e verbalizzazione dell’esito.
 
 7.  Il silenzio può essere considerato assenza di obiezioni solo se la proposta è stata pubblicata e il termine previsto è decorso. La mancata pubblicazione o l’assenza di un termine non costituiscono consenso.
+
+## Art. 3-bis — Consiglio Energia e Acqua dei Cerchi 2 e 3
+
+1.  Le funzioni di accumulo, bilanciamento, compensazione e dispacciamento del Cerchio 2 e quelle delle dorsali di compensazione del Cerchio 3 sono esercitate da un Consiglio Energia e Acqua condiviso ai sensi dell’articolo 12-bis, comma 6-bis, del Codice 3, che costituisce l’assemblea tecnica dell’articolo 15.3 della Costituzione per quel Cerchio, fermo l’override manuale locale di ogni Comunità. Lo stesso Consiglio istruisce il coordinamento dei prelievi dell’articolo 6-bis, comma 7, che è deliberato dall’Assemblea Generale; quando il bacino idrografico comprende Cerchi 2 diversi, deliberano in modo concorde le loro Assemblee Generali.
 
 ## Art. 4 — Paniere Energia e determinazione del fabbisogno
 
@@ -232,7 +236,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 4.  I reflui sono depurati e, ove possibile, riutilizzati. Il riuso delle acque e dei residui della depurazione è ammesso solo se conforme alla STV applicabile e al parere del Consiglio Salute.
 5.  La misurazione dei consumi idrici segue le regole dell’articolo 6, commi da 2 a 6. È vietata la profilazione individuale.
 6.  Ove tecnicamente possibile sono previste due fonti indipendenti e una riserva pari ad almeno settantadue ore del Paniere Acqua, in coerenza con l’articolo 39 del Codice 1.
-7.  Quando più Cerchi dipendono dallo stesso bacino idrografico, i prelievi sono coordinati nel Cerchio 2 o nel Cerchio 3 competente, con Dossier. Nessun Cerchio può sottrarre ai Cerchi a valle l’acqua necessaria al loro Paniere.
+7.  Quando più Cerchi dipendono dallo stesso bacino idrografico, i prelievi sono coordinati nel Cerchio 2 o nel Cerchio 3 competente, con Dossier, ai sensi dell’articolo 3-bis. Nessun Cerchio può sottrarre ai Cerchi a valle l’acqua necessaria al loro Paniere.
 8.  Le dipendenze idriche, compreso l’allacciamento a reti esterne durante la transizione, sono iscritte nel Registro Dipendenze secondo l’articolo 8.
 
 ## Art. 7 — Sicurezza, DPI e formazione
@@ -288,7 +292,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
     f) cedere a un soggetto esterno alla Confederazione il controllo funzionale della microrete.
 
-2.  Le violazioni del comma 1 costituiscono vizio procedurale grave ai sensi del Codice 4. La sospensione o disattivazione della funzione non conforme è proporzionata e accompagnata, quando tecnicamente possibile, dalla continuità dei livelli 1–3 secondo la Scheda di Sicurezza.
+2.  Le violazioni del comma 1 sono trattate secondo il Codice 4; l’accumulo della lettera d) e l’uso dell’energia come ricatto costituiscono illecito di Grado 4 ai sensi dell’articolo 15.2 della Costituzione; per gli atti degli organi si applica l’articolo 18 del Codice 3. La sospensione o disattivazione della funzione non conforme è proporzionata e accompagnata, quando tecnicamente possibile, dalla continuità dei livelli 1–3 secondo la Scheda di Sicurezza.
 
 3.  Lo spegnimento totale è disposto solo quando necessario a impedire un danno ulteriore. Per le funzioni critiche o vitali sono attivate, ove tecnicamente possibile, una procedura di continuità e una funzione sostitutiva conforme.
 

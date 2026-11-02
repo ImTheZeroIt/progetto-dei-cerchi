@@ -1,12 +1,12 @@
 ---
 titolo: "CÓDIGO 11 — DE LA LOGÍSTICA Y DE LA MOVILIDAD BÁSICA"
 breve: "Código 11 — Logística y movilidad básica"
-versione: "V1.5"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 11
 id: "codice-11"
 slug: "codigo-11"
-allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1.8; Código 4 V1.9; Código 5 V1.6; Código 6 V1.8; Código 7 V1.9; Código 8 V1.6; C.1-Annex A V1.6; Código 9 V3.3; Código 10 V1.7; Código 12 V1.6; Código 13 V1.8; Código 14 V1.7; Código 15 V1.9; Código 16 V1.9."
+allineamento: "Constitución V.38; Código 1 V1.12; Código 2 V1.9; Código 3 V1.11; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 7 V1.10; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 15 V1.12; Código 16 V1.10."
 ---
 
 ## Art. 1 — Objeto y definiciones
@@ -181,7 +181,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
 7.  Se admite una excepción transitoria motivada, de duración no superior a doce meses, solo para garantizar la continuidad de la Cesta, solo para una dependencia que la STV clasifica como residual y superable conforme al artículo 5, apartado 2, letra b), del Código 2, y con:
 
-    a) un Plan de Salida vinculante;
+    a) un Plan de Sustitución conforme al artículo 12 del Código 2, publicado íntegramente cuando la dependencia se refiere a un firmware cerrado;
 
     b) un plazo final cierto;
 
@@ -189,7 +189,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
     d) el dictamen del Consejo de Producción y del Consejo de la Red, cuando proceda.
 
-8.  Se prohíbe la prórroga, salvo imposibilidad material documentada y nueva decisión motivada del órgano competente.
+8.  La prórroga sigue el artículo 12, apartados 3 y 4, del Código 2.
 
 ## Art. 6 — Infraestructura logística
 
@@ -273,7 +273,7 @@ allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1
 
     La aplicación de la regla es un acto técnico reglado. Ningún reparto puede privar a una Comunidad del acceso efectivo garantizado por el artículo 6, apartado 3.
 
-3.  La red ferroviaria del Círculo 3 y los transportes previstos en el artículo 10 del Código 15 siguen un protocolo ferroviario del Círculo 3, aprobado por su Asamblea General como Anexo Técnico conforme al artículo 19 del Código 3 y aplicado por el Consejo de Logística compartido del Círculo 3, constituido conforme al mismo apartado 6-bis. El recurso a transportistas externos se inscribe en el Registro de Dependencias.
+3.  La red ferroviaria del Círculo 3 y los transportes previstos en el artículo 10 del Código 15 siguen un protocolo ferroviario del Círculo 3, aprobado por su Asamblea General conforme al artículo 14 del Código 3 y aplicado por el Consejo de Logística compartido del Círculo 3, constituido conforme al mismo apartado 6-bis; al protocolo se aplica el artículo 19, apartados 4 y 5, del Código 3. El recurso a transportistas externos se inscribe en el Registro de Dependencias.
 
 ## Art. 7 — Seguridad
 

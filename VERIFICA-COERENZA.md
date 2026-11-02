@@ -297,3 +297,27 @@ Una verifica di coerenza mirata ha riletto le novità del 19–26 ottobre: difes
 | Percorso delle reti | 6 | 13 | 11 |
 
 Le correzioni sono state applicate il 26 ottobre 2026 (Costituzione V.35 e Codici allineati); l'elenco è nel Registro delle modifiche, voce «26 ottobre 2026 — verifica di coerenza delle novità». Due proposte che avrebbero toccato il Nucleo Inviolabile non sono state applicate; una voce non chiedeva modifiche.
+
+## Seconda verifica completa (1 novembre 2026)
+
+Una seconda verifica di coerenza completa ha riletto tutti i testi dopo le correzioni del 19–29 ottobre (Costituzione V.36 e Codici allineati). Ha cercato ciò che sfugge ai controlli fatti una correzione alla volta: due correzioni giuste che insieme si contraddicono, rinvii diventati sbagliati, organi che mancano in una fase, procedure che si bloccano. Le letture sono state sei, una per area, e ogni voce è stata riletta da un secondo lettore che ha provato a smontarla. Sono rimaste 75 voci: 3 di gravità alta, 30 media e 42 bassa.
+
+| Area | Alta | Media | Bassa |
+|---|---|---|---|
+| Potere e giustizia | 0 | 3 | 7 |
+| Economia e lavoro | 1 | 4 | 7 |
+| Persone | 1 | 6 | 4 |
+| Territorio e risorse | 0 | 5 | 8 |
+| Sistemi | 0 | 4 | 5 |
+| Transizione | 1 | 8 | 11 |
+| **Totale** | **3** | **30** | **42** |
+
+Le tre voci alte riguardano l’energia essenziale di chi ha perso lo status per rifiuto del CBO, il ragazzo che lascia la Confederazione a sedici anni e la protezione dei minori nelle Fasi 0 e 1 della transizione, quando il Consiglio Cura non esiste ancora.
+
+Tutte le 75 voci sono state applicate il 1 novembre 2026, in due parti: potere, economia e persone (Costituzione V.37), poi territorio, sistemi e transizione (Codici e Allegati allineati; la Costituzione resta V.37). Testi, ragioni e versioni sono nelle due voci «1 novembre 2026 — Seconda verifica di coerenza» del [registro delle modifiche](https://imthezeroit.github.io/progetto-dei-cerchi/registro/modifiche.html). Tre punti sono segnalati nel registro:
+
+- il mandato dei portavoce dell’Assemblea Generale è di novanta giorni e non di un anno, come proponeva il rapporto, perché la Cost. 4.4 a), che fa parte del Nucleo Inviolabile, non consente di più;
+- il Nucleo Inviolabile riceve soltanto un allineamento: il rinvio dell’art. 4.9-ter all’art. 26.5, trattato come riscrittura del testo prima di ogni adesione (Cost. 38.1);
+- per scelta dell’autore la Cost. 19.4 non cambia: i sistemi ospitati su server esterni sono ammessi solo se il programma e i suoi aggiornamenti sono scelti, verificati e installati dalla Comunità.
+
+La Cost. 38.6 è invariata. Il Codice 16 regola soltanto attività lecite e il boicottaggio resta una scelta politica delle persone; il divieto di deliberarlo o di finanziarlo vale ora anche per i Cerchi pilota e le Comunità associate.

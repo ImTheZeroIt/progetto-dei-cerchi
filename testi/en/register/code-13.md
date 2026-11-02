@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 13 — BIODIVERSITY, SANCTUARIES AND FAUNA"
 breve: "Code 13 — Biodiversity, sanctuaries and fauna"
-versione: "V1.8"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 13
 id: "codice-13"
 slug: "code-13"
-allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4 V1.9; Code 5 V1.6; Code 6 V1.8; Code 7 V1.9; Code 8 V1.6; C.1-Annex A V1.6; Code 9 V3.3; Code 10 V1.7; Code 11 V1.5; Code 12 V1.6; Code 14 V1.7; Code 15 V1.9; Code 16 V1.9."
+allineamento: "Constitution V.38; Code 1 V1.12; Code 2 V1.9; Code 3 V1.11; Code 4 V1.10; Code 5 V1.7; Code 6 V1.9; Code 7 V1.10; Code 8 V1.7; C.1-Annex A V1.7; Code 9 V3.4; Code 10 V1.8; Code 11 V1.6; Code 12 V1.7; Code 14 V1.10; Code 15 V1.12; Code 16 V1.10."
 ---
 
 ## Art. 1 — Subject matter, definitions and legal nature
@@ -82,7 +82,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
     g) ensure technical coordination with the Habitat and Territory Council of Code 10, the Agroecological Council of Code 9, the Health Council of Code 6, the Energy and Water Council of Code 8 and the Care Council of Code 12.
 
-3.  The mandatory opinions of the Biodiversity Council provided for by Codes 9 and 10 and by this Code, where negative, are binding for the protection of ecological limits, pursuant to Article 6.6 of the Constitution and Article 8 of Code 3, exclusively as regards the indicators and parameters of biodiversity, of protection of wildlife and of biological functionality expressly assigned to this Code. The welfare parameters of animals that live or collaborate with people are approved with the authorisation of paragraph 5. Such opinions do not determine the location, the geometry, the intended use or the imposition of a territorial constraint, which remain within the competence of Code 10.
+3.  The mandatory opinions of the Biodiversity Council provided for by Codes 8, 9 and 10, as regards Code 8 limited to Article 6-bis, paragraph 3, and by this Code, where negative, are binding for the protection of ecological limits, pursuant to Article 6.6 of the Constitution and Article 8 of Code 3, exclusively as regards the indicators and parameters of biodiversity, of protection of wildlife and of biological functionality expressly assigned to this Code. The welfare parameters of animals that live or collaborate with people are approved with the authorisation of paragraph 5. Such opinions do not determine the location, the geometry, the intended use or the imposition of a territorial constraint, which remain within the competence of Code 10.
 
 4.  The technical acts of the Biodiversity Council shall be adopted in implementation of the STVs in force. Discretionary proposals shall be adopted by the consensus method through the absence of reasoned objections, pursuant to Code 3, after publication for at least seventy-two hours. Publication shall not include data whose disclosure could cause harm to the protected species or sites.
 
@@ -96,7 +96,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
     b) after the mandatory opinion of the Habitat and Territory Council;
 
-    c) by resolution of the General Assembly of Circle 2 adopted by qualified majority, in accordance with the rules of the Constitution and of Code 3.
+    c) by resolution of the General Assembly of Circle 2 adopted by qualified majority, in accordance with the rules of the Constitution and of Code 3, with the intended use of the area resolved on by the Assembly of the Circle 1 in whose territory it lies, pursuant to Article 4, paragraph 2, of Code 10.
 
 2.  The sanctuary is dedicated to the maximum ecological integrity compatible with the characteristics of the area and to the stability of the related protective function. Within it, it is prohibited to:
 
@@ -136,8 +136,8 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 2.  Every animal received has the right to life and to care and is not transferable, unless the transfer is necessary for its welfare and attested by an L3 veterinary competence. Slaughter, killing for convenience, transfer for consideration, use in work and breeding for purposes of use are prohibited.
 3.  The animals received shall not be bred. Where necessary for their welfare and for the capacity for care, the prevention of births shall take place by the non-harmful methods defined by the Refuge Sanctuaries STV.
 4.  What the animal produces spontaneously may be collected only under the conditions of Article 13.3-ter of the Constitution. It may not constitute a production objective, be planned in the Basket or justify an increase in the number of animals.
-5.  Every Circle 2 shall guarantee at least one refuge sanctuary for every three or four Circles 1 of which it is composed, sized according to the animals recorded in the census. The care of the animals received falls within the CBO, pursuant to Article 7.2 of the Constitution and Code 1.
-6.  A Welfare Sheet shall be kept for each animal or group. Feeding and veterinary care shall be ensured without compromising levels 1 and 2 of the human Basket. In the event of water scarcity, Article 10, paragraph 8, of Code 9 applies.
+5.  Every Circle 2 shall guarantee at least one refuge sanctuary for every three or four Circles 1 of which it is composed, sized according to the animals recorded in the census. The care of the animals received falls within the CBO, pursuant to Article 7.2 of the Constitution and Code 1. The sanctuary is overseen by the Biodiversity Council of the Community in whose territory it lies or, if the General Assembly so decides, by a shared Council pursuant to Article 12-bis, paragraph 6-bis, of Code 3.
+6.  A Welfare Sheet shall be kept for each animal or group. Feeding and veterinary care shall be ensured without compromising levels 1 and 2 of the human Basket; minimum feeding and urgent care follow Article 32, paragraph 1-sexies, of Code 1. In the event of water scarcity, Article 10, paragraph 8, of Code 9 applies.
 7.  Euthanasia is permitted exclusively under the conditions of Article 7, paragraph 12, in so far as applicable. In place of the Domestic Welfare Sheet, the Welfare Sheet of the received animal provided for by paragraph 6 applies; in place of the trusted person, the persons who habitually care for the animal are informed.
 8.  Access by persons to the refuge sanctuary is permitted for care, learning and relationship, in compliance with the Welfare Sheets.
 
@@ -215,7 +215,9 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
 2.  Cohabitation with proximity companion animals is permitted as non-exploitative cohabitation pursuant to Article 13.3 of the Constitution. It shall be verified and authorised by the Biodiversity Council on the basis of the Domestic Welfare Sheet.
 
-3.  In the absence of the conditions of Article 13.3 of the Constitution, the Biodiversity Council shall propose the measures necessary for the animal’s welfare and, if these are not implemented, its reception in a sanctuary pursuant to Article 4-bis, in accordance with the procedures of Code 4.
+3.  In the absence of the conditions of Article 13.3 of the Constitution, the Biodiversity Council shall propose the measures necessary for the animal’s welfare and, if these are not implemented, its reception in a sanctuary pursuant to Article 4-bis, in accordance with paragraph 3-bis.
+
+3-bis. Where the Civic Protection Corps has intervened pursuant to Article 8-ter, paragraph 3, of Code 14, or where an animal is in serious and immediate danger, the Biodiversity Council may order the provisional reception of the animal in a refuge sanctuary or in another authorised cohabitation, for no more than thirty days. The measure shall be communicated to the Guarantee Tribunal, which validates it within twenty-four hours together with the entry, where there has been one, pursuant to Article 34, paragraph 2-bis, of Code 4. Permanent reception under paragraph 3 is decided by the Guarantee Tribunal, after hearing the cohabitation nucleus, and may be challenged. The measures of this paragraph do not allow entry into a Circle 0 outside the cases of Article 5.1, letter a), of the Constitution.
 
 4.  The daily care of the proximity companion animal shall be ensured by the cohabitation nucleus. Circle 1, and the federated level where necessary, shall guarantee system-level protection, the Domestic Welfare Sheet and the balance of food resources in the manner provided for by this Code and by the STVs.
 
@@ -247,9 +249,9 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
 9.  The individual accumulation of animals is permitted only within the capacity for care defined by the Domestic Welfare Sheet. The assessment shall consider at least the species and number of the animals, the space available, the health conditions, the time available and the actual capacity to guarantee the welfare of each animal. Exceeding the capacity for care constitutes a violation pursuant to Article 10.
 
-10. The non-harmful prevention of births of the proximity companion animal, including sterilisation, performed or prescribed by a veterinary competence where it is necessary for the welfare of the animal or where the care of further offspring could not be guaranteed in accordance with paragraph 9, does not constitute reproductive manipulation within the meaning of Articles 13.2 and 13.3, letter c), of the Constitution. It is decided by the cohabitation nucleus together with the veterinary competence, recorded in the Domestic Welfare Sheet and not imposed as a general rule. For animals received in sanctuaries, Article 4-bis, paragraph 3, applies. As regards health, zoonotic or collective-risk aspects, the competences, procedures and guarantees of Code 6 shall apply, including the collective measures permitted by its Article 2-bis, paragraph 3-bis. Every measure shall comply with criteria of proportionality and temporariness, guarantee that the person concerned is informed and be subject to review and to the guarantees provided for.
+10. The non-harmful prevention of births of the proximity companion animal, including sterilisation, performed or prescribed by a veterinary competence where it is necessary for the welfare of the animal or where the care of further offspring could not be guaranteed in accordance with paragraph 9, does not constitute reproductive manipulation within the meaning of Articles 13.2 and 13.3, letter c), of the Constitution. It is decided by the cohabitation nucleus together with the veterinary competence, recorded in the Domestic Welfare Sheet and not imposed as a general rule. For animals received in sanctuaries, Article 4-bis, paragraph 3, applies. As regards health, zoonotic or collective-risk aspects, the competences, procedures and guarantees of Code 6 shall apply, including the collective measures permitted by its Article 2-bis, paragraph 3-bis, and Article 8, paragraph 7, of this Code. Every measure shall comply with criteria of proportionality and temporariness, guarantee that the person concerned is informed and be subject to review and to the guarantees provided for.
 
-11. The feeding of proximity companion animals may be ensured by means of resources compatible with the Basket, suitable scraps or a dedicated fund. Such resources may not compromise the human Basket of levels 1 and 2 and are governed by the Basket STV of Code 9. In the event of water scarcity, Article 10, paragraph 8, of Code 9 applies.
+11. The feeding of proximity companion animals may be ensured by means of resources compatible with the Basket, suitable scraps or a dedicated fund. Such resources may not compromise the human Basket of levels 1 and 2 and are governed by the Basket STV of Code 9. Minimum feeding and urgent veterinary care follow Article 32, paragraph 1-sexies, of Code 1. In the event of water scarcity, Article 10, paragraph 8, of Code 9 applies.
 
 12. Euthanasia for mere convenience is prohibited. It is permitted exclusively in the presence of irreversible suffering attested by two L3 competences, at least one of which is veterinary, in compliance with the health competences of Code 6 and with the Domestic Welfare Sheet. The intervention shall be documented and tracked; the trusted person shall be informed, except in the case of reasoned impossibility or of urgency incompatible with prior notice.
 
@@ -276,6 +278,8 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
     c) level L3 for the design and validation of the STVs and the Welfare Sheets, in the cases provided for.
 
 6.  Anyone who detects a serious and immediate risk to fauna, an animal or a person may interrupt the activity concerned and shall inform the competent Councils without delay. An interruption carried out in good faith to prevent harm may not give rise to retaliation or detriment.
+
+7.  For zoonoses, only the following are permitted, on a proposal of the Health Council and with the authorisation of the Biodiversity Council: the temporary separation or isolation of animals, in conditions consistent with the Welfare Sheet; veterinary care and vaccinations; hygiene measures for the premises; the limitation of contacts and movements. Killing is prohibited, except for euthanasia under Articles 4-bis, paragraph 7, and 7, paragraph 12. The guarantees of duration and review of Article 2-bis of Code 6 apply.
 
 ## Art. 9 — Biodiversity Dependency Register
 
@@ -359,7 +363,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
     d) the Domestic Welfare STV;
 
-    e) the Wild Bees STV;
+    e) the Wild Bees STV and the Wildlife Management STV;
 
     f) the necessary Safety Sheets and Welfare Sheets;
 
@@ -373,7 +377,7 @@ allineamento: "Constitution V.35; Code 1 V1.10; Code 2 V1.7; Code 3 V1.8; Code 4
 
     b) the compliance plan shall indicate the measures to be adopted, the persons responsible and a final deadline, as a rule not exceeding ninety days, except in the case of documented technical impossibility;
 
-    c) where there is a serious and immediate risk to biodiversity or animal welfare, proportionate urgent measures may be adopted in accordance with the procedures of Code 4;
+    c) where there is a serious and immediate risk to biodiversity or animal welfare, proportionate urgent measures may be adopted in accordance with Article 7, paragraph 3-bis, for animals and, in other cases, in accordance with the procedures of Code 4;
 
     d) where compliance is technically impossible, the deactivation procedure provided for by Code 4 shall be initiated, accompanied by a substitute plan;
 

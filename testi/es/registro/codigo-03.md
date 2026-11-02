@@ -1,12 +1,12 @@
 ---
 titolo: "CÓDIGO 3 — DE LA DELIBERACIÓN, DE LOS UMBRALES Y DE LA ASAMBLEA"
 breve: "Código 3 — Deliberación, umbrales y Asamblea"
-versione: "V1.8"
+versione: "V1.11"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
 slug: "codigo-03"
-allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 4 V1.9; Código 5 V1.6; Código 6 V1.8; Código 7 V1.9; Código 8 V1.6; C.1-Annex A V1.6; Código 9 V3.3; Código 10 V1.7; Código 11 V1.5; Código 12 V1.6; Código 13 V1.8; Código 14 V1.7; Código 15 V1.9; Código 16 V1.9."
+allineamento: "Constitución V.38; Código 1 V1.12; Código 2 V1.9; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 7 V1.10; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 15 V1.12; Código 16 V1.10."
 ---
 
 ## CAPÍTULO I — PRINCIPIOS DELIBERATIVOS
@@ -309,7 +309,7 @@ El dictamen vinculante negativo impide la adopción de la decisión mientras no 
 
 2.  La UCR no es un precio de mercado. Se utiliza para comparar alternativas, hacer transparente el costo sistémico y prevenir la acumulación.
 
-3.  La metodología se define en el Anexo Técnico UCR. El método de cálculo es común a todas las Comunidades del Círculo 2: lo elaboran los Consejos de Contabilidad y los Consejos de Calidad en coordinación federada, lo propone el Círculo 2 y lo aprueba su Asamblea General conforme al artículo 14. Cada Comunidad determina según ese método sus propios valores, que elaboran su Consejo de Contabilidad y su Consejo de Calidad y aprueba la Asamblea del Círculo 1. Hasta la constitución del Círculo 2 se aplica el artículo 14, apartado 10.
+3.  La metodología se define en el Anexo Técnico UCR. El método de cálculo es común a todas las Comunidades del Círculo 2: lo elaboran los Consejos de Contabilidad y los Consejos de Calidad en coordinación federada, lo propone el Consejo de Contabilidad compartido del Círculo 2, conforme al artículo 12-bis, apartado 6-bis, y lo aprueba su Asamblea General conforme al artículo 14. Cada Comunidad determina según ese método sus propios valores, que elaboran su Consejo de Contabilidad y su Consejo de Calidad y aprueba la Asamblea del Círculo 1. Para las operaciones del Círculo 3 y entre Círculos 2 distintos se aplica el método aprobado por la Asamblea General del Círculo 3 o, en su defecto, el del Círculo 2 en el que se custodia el recurso. Hasta la constitución del Círculo 2 se aplica el artículo 14, apartado 10.
 
 4.  El Anexo Técnico UCR regula al menos:
 
@@ -413,7 +413,9 @@ El dictamen vinculante negativo impide la adopción de la decisión mientras no 
 
     b) se abstiene la persona participante que declara no pronunciarse sobre la decisión;
 
-    c) es participante activo la persona que toma parte en la deliberación y no se abstiene.
+    c) es participante activo la persona que toma parte en la deliberación y no se abstiene;
+
+    d) son votantes, en el sentido del artículo 35.4 de la Constitución, los participantes activos.
 
 4.  Las deliberaciones ordinarias son válidas sin quórum mínimo, según el artículo 35.1 de la Constitución.
 
@@ -433,7 +435,7 @@ El dictamen vinculante negativo impide la adopción de la decisión mientras no 
 
 3.  Cada Consejo está compuesto por el número de personas que establece el Código que lo regula o, en su defecto, por entre tres y cinco personas, con las competencias validadas exigidas según el Código 5.
 
-4.  Los integrantes se sortean mediante un procedimiento público y trazable entre las personas que poseen la competencia requerida, han declarado su disponibilidad y no se encuentran en una causa de incompatibilidad. Se prohíbe la candidatura personal a un cargo específico. Toda persona sorteada puede rechazar el cargo.
+4.  Los integrantes se sortean mediante un procedimiento público y trazable entre las personas que poseen la competencia requerida, han declarado su disponibilidad y no se encuentran en una causa de incompatibilidad. Se prohíbe la candidatura personal a un cargo específico. Toda persona sorteada puede rechazar el cargo. Solo se sortean personas que han cumplido dieciocho años; las personas a partir de los dieciséis años pueden participar como acompañantes, sin voto.
 
 5.  El mandato dura un año. La renovación se realiza de forma escalonada, por regla general por la mitad de los integrantes cada seis meses, con un traspaso de funciones recogido en acta. Quien ha concluido el mandato no puede ser sorteado de nuevo en el mismo Consejo antes de que hayan transcurrido doce meses. Si faltan otras personas aptas, se admite una sola prórroga motivada, no superior a seis meses, acompañada de un plan de formación de nuevas personas según el Código 5.
 
@@ -447,7 +449,7 @@ El dictamen vinculante negativo impide la adopción de la decisión mientras no 
 
 6-bis. **Consejos compartidos de los Círculos 2 y 3.** Cuando los Códigos atribuyen a un Consejo funciones del Círculo 2 o del Círculo 3, las ejerce un Consejo compartido del Círculo, en las condiciones siguientes, salvo los Consejos de Almacén de los Círculos 2 y 3, regulados en el artículo 9-bis del Código 15:
 
-a) el Consejo compartido está compuesto por el número de personas previsto en el apartado 3, sorteadas conforme al apartado 4 entre los integrantes de los Consejos homólogos de las Comunidades de Base del Círculo y, si no son suficientes, entre las demás personas de esas Comunidades que poseen la competencia requerida. No más de dos integrantes proceden de la misma Comunidad de Base. Se aplican los apartados 5, 8 y 11 y el artículo 16; el cargo en el Consejo compartido cuenta como pertenencia a un Consejo a efectos del apartado 8;
+a) el Consejo compartido está compuesto por el número de personas previsto en el apartado 3, sorteadas conforme al apartado 4 entre los integrantes de los Consejos homólogos de las Comunidades de Base del Círculo o de los órganos internos equivalentes de las Comunidades asociadas y, si no son suficientes, entre las demás personas de esas Comunidades que poseen la competencia requerida. No más de dos integrantes proceden de la misma Comunidad de Base. Se aplican los apartados 5, 8 y 11 y el artículo 16; el cargo en el Consejo compartido cuenta como pertenencia a un Consejo a efectos del apartado 8;
 
 b) el Consejo compartido adopta los actos técnicos reglados del apartado 9 y se encarga de la instrucción y de las propuestas para la Asamblea General. Cuando un riesgo grave e inmediato para las personas, para la Cesta o para la continuidad de un servicio esencial no permite esperar a la Asamblea General, puede adoptar las decisiones urgentes estrictamente necesarias, motivadas y publicadas sin demora. La decisión urgente deja de surtir efecto si la Asamblea General no la ratifica en un plazo de treinta días; a tal fin la Asamblea puede convocarse con el preaviso reducido del artículo 14, apartado 9;
 
@@ -507,7 +509,7 @@ e) los actos del Consejo compartido se publican según el artículo 15 y pueden 
 
 5.  La mayoría calificada no puede convalidar una decisión incompatible con una norma imperativa ni superar un dictamen vinculante negativo conforme al artículo 8.
 
-6.  El acta indica la propuesta inicial, las objeciones, los resultados de la mediación, las posibles modificaciones, el quórum, el cálculo de la mayoría y las razones de la decisión.
+6.  El acta indica la propuesta inicial, las objeciones, los resultados de la mediación, las posibles modificaciones, el quórum, el cálculo de la mayoría y las razones de la decisión. Las actas se inscriben en el Registro de las Decisiones de la Asamblea de la Comunidad y, para la Asamblea General, de cada Comunidad interesada.
 
 ### Art. 13-bis — Objeción de Conciencia o de Sostenibilidad Ecológica
 
@@ -521,6 +523,8 @@ e) los actos del Consejo compartido se publican según el artículo 15 y pueden 
 ### Art. 14 — Asamblea General
 
 1.  La Asamblea General es la deliberación conjunta de todas las personas con derecho a voto de las Comunidades de Base comprendidas en el Círculo 2 o en el Círculo 3 cuyo ámbito afecta la decisión, según los artículos 32 y 34.3 de la Constitución. No es un órgano permanente y no tiene delegados: cada persona vota individualmente, a través de la Red federada o en las Asambleas locales. Los portavoces sorteados con mandato imperativo se encargan de su instrucción y coordinación y no disponen de un voto propio.
+
+1-bis. Cada Comunidad de Base del Círculo sortea entre sus voluntarios idóneos que han cumplido dieciocho años un portavoz para un ciclo de noventa días, dentro de los límites del artículo 4.4 de la Constitución; la Asamblea de la Comunidad puede revocarlo en cualquier momento. Los portavoces convocan la Asamblea General y publican su orden del día, a petición de un Círculo 1, de un Consejo compartido o del Consejo de Almacén del Círculo, o de una décima parte de las personas con derecho a voto. Cuando los Códigos fijan un plazo a la Asamblea General, la convocatoria es obligatoria.
 
 2.  La Asamblea General es competente para:
 
@@ -538,7 +542,7 @@ e) los actos del Consejo compartido se publican según el artículo 15 y pueden 
 
 5.  Puede iniciarse una revisión extraordinaria, con motivación, a propuesta del Consejo de Calidad o del Consejo de Contabilidad.
 
-6.  La Asamblea General se convoca con al menos veintiún días de preaviso. La deliberación es válida cuando participan al menos tres cuartas partes de las Comunidades de Base interesadas; una Comunidad participa cuando vota al menos un tercio de sus personas con derecho a voto.
+6.  La Asamblea General se convoca con al menos veintiún días de preaviso. La deliberación es válida cuando participan al menos tres cuartas partes de las Comunidades de Base interesadas; una Comunidad participa cuando al menos un tercio de sus personas con derecho a voto toma parte en la deliberación, incluidas las que se abstienen.
 
 7.  Conforme al artículo 35.2 de la Constitución, la aprobación requiere conjuntamente:
 
@@ -568,7 +572,7 @@ e) los actos del Consejo compartido se publican según el artículo 15 y pueden 
 
 4.  Un Círculo 2 que ha concluido la transición entra en un Círculo Extendido contiguo mediante deliberación de su propia Asamblea General. El Círculo Extendido solo verifica los protocolos de interoperabilidad tecnológica y logística, conforme al artículo 4.5 de la Constitución y al artículo 21, apartado 2, del Código 15.
 
-5.  A efectos de los artículos 37 y 38 de la Constitución, un Círculo Extendido existe desde la fecha de la deliberación del apartado 2 o del apartado 3, inscrita en el Registro de las Decisiones de la Asamblea. El Círculo Extendido delibera a través de la Asamblea General y actúa a través de los Consejos compartidos del artículo 12-bis, apartado 6-bis; no tiene otros órganos.
+5.  A efectos de los artículos 37 y 38 de la Constitución, un Círculo Extendido existe desde la fecha de la deliberación del apartado 2 o del apartado 3, inscrita en el Registro de las Decisiones de la Asamblea. El Círculo Extendido delibera a través de la Asamblea General y actúa a través de los portavoces del artículo 14, apartado 1-bis, los Consejos compartidos del artículo 12-bis, apartado 6-bis, y el Consejo de Almacén del artículo 9-bis del Código 15; no tiene otros órganos permanentes.
 
 ### Art. 15 — Transparencia diferenciada
 

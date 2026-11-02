@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 3 — DE LA DÉLIBÉRATION, DES SEUILS ET DE L’ASSEMBLÉE"
 breve: "Code 3 — Délibération, seuils et Assemblée"
-versione: "V1.8"
+versione: "V1.11"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
 slug: "code-03"
-allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 4 V1.9 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.8 ; Code 14 V1.7 ; Code 15 V1.9 ; Code 16 V1.9."
+allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 7 V1.10 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 15 V1.12 ; Code 16 V1.10."
 ---
 
 ## CHAPITRE I — PRINCIPES DÉLIBÉRATIFS
@@ -309,7 +309,7 @@ L’avis contraignant négatif empêche l’adoption de la décision tant que la
 
 2.  L’UCR n’est pas un prix de marché. Elle sert à comparer des alternatives, à rendre transparent le coût systémique et à prévenir l’accumulation.
 
-3.  La méthodologie est définie dans l’Annexe technique UCR. La méthode de calcul est commune à toutes les Communautés du Cercle 2 : elle est élaborée par les Conseils Comptabilité et par les Conseils Qualité en coordination fédérée, proposée par le Cercle 2 et approuvée par son Assemblée générale en application de l’article 14. Chaque Communauté détermine selon cette méthode ses propres valeurs, qui sont élaborées par son Conseil Comptabilité et par son Conseil Qualité et approuvées par l’Assemblée du Cercle 1. Jusqu’à la constitution du Cercle 2, l’article 14, alinéa 10, s’applique.
+3.  La méthodologie est définie dans l’Annexe technique UCR. La méthode de calcul est commune à toutes les Communautés du Cercle 2 : elle est élaborée par les Conseils Comptabilité et par les Conseils Qualité en coordination fédérée, proposée par le Conseil Comptabilité commun du Cercle 2, en application de l’article 12-bis, alinéa 6-bis, et approuvée par son Assemblée générale en application de l’article 14. Chaque Communauté détermine selon cette méthode ses propres valeurs, qui sont élaborées par son Conseil Comptabilité et par son Conseil Qualité et approuvées par l’Assemblée du Cercle 1. Pour les opérations du Cercle 3 et entre Cercles 2 différents, s’applique la méthode approuvée par l’Assemblée générale du Cercle 3 ou, à défaut, celle du Cercle 2 auprès duquel la ressource est conservée. Jusqu’à la constitution du Cercle 2, l’article 14, alinéa 10, s’applique.
 
 4.  L’Annexe technique UCR régit au moins :
 
@@ -413,7 +413,9 @@ L’avis contraignant négatif empêche l’adoption de la décision tant que la
 
     b) est abstentionniste la personne participante qui déclare ne pas se prononcer sur la décision ;
 
-    c) est participant actif la personne qui prend part à la délibération et ne s’abstient pas.
+    c) est participant actif la personne qui prend part à la délibération et ne s’abstient pas ;
+
+    d) sont votants, au sens de l’article 35.4 de la Constitution, les participants actifs.
 
 4.  Les délibérations ordinaires sont valables sans quorum minimal, conformément à l’article 35.1 de la Constitution.
 
@@ -433,7 +435,7 @@ L’avis contraignant négatif empêche l’adoption de la décision tant que la
 
 3.  Chaque Conseil se compose du nombre de personnes fixé par le Code qui le régit ou, à défaut, de trois à cinq personnes, possédant les compétences validées requises conformément au Code 5.
 
-4.  Les membres sont tirés au sort, selon une procédure publique et traçable, parmi les personnes qui possèdent la compétence requise, ont déclaré leur disponibilité et ne se trouvent dans aucun cas d’incompatibilité. Il est interdit de se porter candidat à une charge déterminée. Toute personne tirée au sort peut refuser.
+4.  Les membres sont tirés au sort, selon une procédure publique et traçable, parmi les personnes qui possèdent la compétence requise, ont déclaré leur disponibilité et ne se trouvent dans aucun cas d’incompatibilité. Il est interdit de se porter candidat à une charge déterminée. Toute personne tirée au sort peut refuser. Seules sont tirées au sort des personnes ayant dix-huit ans révolus ; les personnes à partir de seize ans peuvent participer en accompagnement, sans droit de vote.
 
 5.  Le mandat dure un an. Le renouvellement se fait par tranches échelonnées, en règle générale pour la moitié des membres tous les six mois, avec une passation des consignes consignée au procès-verbal. La personne dont le mandat a pris fin ne peut pas être de nouveau tirée au sort dans le même Conseil avant l’expiration d’un délai de douze mois. À défaut d’autres personnes aptes, une seule prorogation motivée, d’une durée maximale de six mois, est admise, accompagnée d’un plan de formation de nouvelles personnes conformément au Code 5.
 
@@ -447,7 +449,7 @@ L’avis contraignant négatif empêche l’adoption de la décision tant que la
 
 6-bis. **Conseils communs des Cercles 2 et 3.** Lorsque les Codes attribuent à un Conseil des fonctions du Cercle 2 ou du Cercle 3, ces fonctions sont exercées par un Conseil commun du Cercle, aux conditions suivantes, sauf pour les Conseils des Entrepôts des Cercles 2 et 3, régis par l’article 9-bis du Code 15 :
 
-a) le Conseil commun est composé du nombre de personnes prévu par l’alinéa 3, tirées au sort en application de l’alinéa 4 parmi les membres des Conseils homologues des Communautés de base du Cercle et, s’ils ne sont pas en nombre suffisant, parmi les autres personnes de ces Communautés qui possèdent la compétence requise. Deux membres au plus proviennent de la même Communauté de base. Les alinéas 5, 8 et 11 et l’article 16 s’appliquent ; la charge au sein du Conseil commun compte comme appartenance à un Conseil aux fins de l’alinéa 8 ;
+a) le Conseil commun est composé du nombre de personnes prévu par l’alinéa 3, tirées au sort en application de l’alinéa 4 parmi les membres des Conseils homologues des Communautés de base du Cercle ou des organes internes équivalents des Communautés associées et, s’ils ne sont pas en nombre suffisant, parmi les autres personnes de ces Communautés qui possèdent la compétence requise. Deux membres au plus proviennent de la même Communauté de base. Les alinéas 5, 8 et 11 et l’article 16 s’appliquent ; la charge au sein du Conseil commun compte comme appartenance à un Conseil aux fins de l’alinéa 8 ;
 
 b) le Conseil commun adopte les actes techniques liés de l’alinéa 9 et prépare l’instruction et les propositions pour l’Assemblée générale. Lorsqu’un risque grave et immédiat pour les personnes, pour le Panier ou pour la continuité d’un service essentiel ne permet pas d’attendre l’Assemblée générale, il peut adopter les décisions urgentes strictement nécessaires, motivées et publiées sans délai. La décision urgente cesse de produire ses effets si elle n’est pas ratifiée par l’Assemblée générale dans un délai de trente jours ; à cette fin, l’Assemblée peut être convoquée avec le préavis réduit de l’article 14, alinéa 9 ;
 
@@ -507,7 +509,7 @@ e) les actes du Conseil commun sont publiés conformément à l’article 15 et 
 
 5.  La majorité qualifiée ne peut pas valider une décision incompatible avec une règle impérative ni surmonter un avis contraignant négatif rendu en application de l’article 8.
 
-6.  Le procès-verbal indique la proposition initiale, les objections, les résultats de la médiation, les éventuelles modifications, le quorum, le calcul de la majorité et les motifs de la décision.
+6.  Le procès-verbal indique la proposition initiale, les objections, les résultats de la médiation, les éventuelles modifications, le quorum, le calcul de la majorité et les motifs de la décision. Les procès-verbaux sont inscrits au Registre des décisions de l’Assemblée de la Communauté et, pour l’Assemblée générale, de chaque Communauté concernée.
 
 ### Art. 13-bis — Objection de conscience ou de durabilité écologique
 
@@ -521,6 +523,8 @@ e) les actes du Conseil commun sont publiés conformément à l’article 15 et 
 ### Art. 14 — Assemblée générale
 
 1.  L’Assemblée générale est la délibération conjointe de toutes les personnes ayant le droit de vote des Communautés de base comprises dans le Cercle 2 ou dans le Cercle 3 dont le territoire est concerné par la décision, conformément aux articles 32 et 34.3 de la Constitution. Elle n’est pas un organe permanent et n’a pas de délégués : chaque personne vote individuellement, par l’intermédiaire du Réseau fédéré ou dans les Assemblées locales. Les porte-parole tirés au sort avec un mandat impératif en assurent l’instruction et la coordination et ne disposent pas d’un vote propre.
+
+1-bis. Chaque Communauté de base du Cercle tire au sort, parmi ses volontaires aptes ayant dix-huit ans révolus, un porte-parole pour un cycle de quatre-vingt-dix jours, dans les limites de l’article 4.4 de la Constitution ; l’Assemblée de la Communauté peut le révoquer à tout moment. Les porte-parole convoquent l’Assemblée générale et en publient l’ordre du jour, à la demande d’un Cercle 1, d’un Conseil commun ou du Conseil des Entrepôts du Cercle, ou d’un dixième des personnes ayant le droit de vote. Lorsque les Codes fixent un délai à l’Assemblée générale, la convocation est obligatoire.
 
 2.  L’Assemblée générale est compétente pour :
 
@@ -538,7 +542,7 @@ e) les actes du Conseil commun sont publiés conformément à l’article 15 et 
 
 5.  Une révision extraordinaire peut être engagée, avec motivation, sur proposition du Conseil Qualité ou du Conseil Comptabilité.
 
-6.  L’Assemblée générale est convoquée avec un préavis d’au moins vingt et un jours. La délibération est valable lorsque participent au moins les trois quarts des Communautés de base concernées ; une Communauté participe lorsque vote au moins un tiers de ses ayants droit.
+6.  L’Assemblée générale est convoquée avec un préavis d’au moins vingt et un jours. La délibération est valable lorsque participent au moins les trois quarts des Communautés de base concernées ; une Communauté participe lorsqu’au moins un tiers de ses ayants droit prend part à la délibération, abstentionnistes compris.
 
 7.  En application de l’article 35.2 de la Constitution, l’approbation requiert conjointement :
 
@@ -568,7 +572,7 @@ e) les actes du Conseil commun sont publiés conformément à l’article 15 et 
 
 4.  Un Cercle 2 qui a achevé la transition entre dans un Cercle étendu contigu par délibération de sa propre Assemblée générale. Le Cercle étendu vérifie uniquement les protocoles d’interopérabilité technologique et logistique, en application de l’article 4.5 de la Constitution et de l’article 21, alinéa 2, du Code 15.
 
-5.  Aux fins des articles 37 et 38 de la Constitution, un Cercle étendu existe à partir de la date de la délibération de l’alinéa 2 ou de l’alinéa 3, inscrite au Registre des décisions de l’Assemblée. Le Cercle étendu délibère par l’Assemblée générale et agit par les Conseils communs de l’article 12-bis, alinéa 6-bis ; il n’a pas d’autres organes.
+5.  Aux fins des articles 37 et 38 de la Constitution, un Cercle étendu existe à partir de la date de la délibération de l’alinéa 2 ou de l’alinéa 3, inscrite au Registre des décisions de l’Assemblée. Le Cercle étendu délibère par l’Assemblée générale et agit par les porte-parole de l’article 14, alinéa 1-bis, les Conseils communs de l’article 12-bis, alinéa 6-bis, et le Conseil des Entrepôts de l’article 9-bis du Code 15 ; il n’a pas d’autres organes permanents.
 
 ### Art. 15 — Transparence différenciée
 

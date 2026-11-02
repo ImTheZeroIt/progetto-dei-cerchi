@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 2 — DELLA QUALITÀ E DELLA VALIDAZIONE"
 breve: "Codice 2 — Qualità e validazione"
-versione: "V1.7"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 2
 id: "codice-02"
 slug: "codice-02"
-allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 3 V1.8; Codice 4 V1.9; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.8; Codice 14 V1.7; Codice 15 V1.9; Codice 16 V1.9."
+allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 3 V1.11; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.12; Codice 16 V1.10."
 ---
 
 ## CAPO I — PRINCIPI, CRITERI E AMMISSIONE
@@ -133,7 +133,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 3 V1.8; Codice 4 V1.9; 
 
     a) **dipendenza critica assoluta:** determina un blocco totale o un accoppiamento proprietario irreversibile, oppure rende impossibile l’uso offline o il controllo comunitario. È vietata e non può essere ammessa neppure in via temporanea;
 
-    b) **dipendenza critica residua e superabile:** determina una limitazione parziale che può essere rimossa dalla Comunità mediante strumenti, procedure o sostituzioni tecnicamente disponibili. Il bene può essere ammesso solo temporaneamente ai sensi dell’articolo 4, comma 1, lettera d), con Piano di Sostituzione obbligatorio. Quando la dipendenza riguarda un software o un firmware di cui non è disponibile il codice sorgente, l’ammissione è consentita nei limiti dell’articolo 19.4 della Costituzione e dell’articolo 12, comma 5, e non è mai consentita per i sistemi che propongono o decidono su diritti, voto e Beni Comuni, tra cui le IA Gestionali, gli algoritmi dell’articolo 2, comma 5, del Codice 7, l’IA personale e i sistemi di consultazione e di voto dell’articolo 34.4 della Costituzione.
+    b) **dipendenza critica residua e superabile:** determina una limitazione parziale che può essere rimossa dalla Comunità mediante strumenti, procedure o sostituzioni tecnicamente disponibili. Il bene può essere ammesso solo temporaneamente ai sensi dell’articolo 4, comma 1, lettera d), con Piano di Sostituzione obbligatorio. Quando la dipendenza riguarda un software o un firmware di cui non è disponibile il codice sorgente, l’ammissione è consentita nei limiti dell’articolo 19.4 della Costituzione e dell’articolo 12, comma 5, e non è mai consentita per i sistemi che propongono o decidono su diritti, voto e Beni Comuni, tra cui le IA Gestionali, gli algoritmi dell’articolo 2, comma 5, del Codice 7, l’IA personale e i sistemi di consultazione e di voto dell’articolo 34.4 della Costituzione. Ai fini dell’articolo 19.4 della Costituzione non propongono né decidono il firmware e il software che eseguono comandi umani o automazioni dotate di STV, senza formulare proposte o scelte su diritti, voto o destinazione dei Beni Comuni.
 
 3.  La classificazione è riportata nella STV, sulla base di un’istruttoria del Consiglio Qualità e del parere del Consiglio Rete. La valutazione considera anche la possibilità concreta, i tempi e i costi della rimozione della dipendenza.
 
@@ -583,7 +583,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 3 V1.8; Codice 4 V1.9; 
 
     d) acquisizione del parere del Consiglio Salute quando il servizio riguarda persone, salute o sicurezza;
 
-    e) decisione del Consiglio Qualità per i servizi sotto soglia e di uso comune, oppure proposta del Consiglio Qualità e decisione dell’Assemblea per i casi previsti dall’articolo 15;
+    e) proposta del Consiglio Qualità e decisione dell’organo indicato dalla matrice dell’articolo 7 del Codice 3, ai sensi dell’articolo 15;
 
     f) stipula del contratto con clausole di uscita, continuità, restituzione dei dati e gestione delle dipendenze;
 

@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Simulatore del Saldo e del Pool — Progetto dei Cerchi</title>
+<meta name="description" content="Simulatore didattico del Codice 15: le comunità dichiarano produzione, bisogno e riserva; il Pool propone come spostare le risorse, prima ai bisogni vitali.">
+<style>
+:root{--bg:#fbfaf7;--card:#fff;--ink:#1d2321;--quiet:#5d6763;--line:#d9dcd6;--accent:#0e6656;--accent-soft:#e2efeb;--good:#1d7a46;--warn:#a46a00;--bad:#b3261e;--field:#fff;--flow:#0e6656}
+@media (prefers-color-scheme:dark){:root{--bg:#141817;--card:#1c2120;--ink:#e7ebe8;--quiet:#a3ada8;--line:#333a37;--accent:#5fbfa8;--accent-soft:#1f3631;--good:#6cc58f;--warn:#e0b04f;--bad:#f08a80;--field:#232927;--flow:#5fbfa8}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:1080px;margin:0 auto;padding:24px 16px 64px}
+h1{font-size:1.6rem;margin:.2em 0}h2{font-size:1.15rem;margin:0 0 .6em}h3{font-size:1rem;margin:1em 0 .4em}p{margin:.4em 0}a{color:inherit}
+.quiet{color:var(--quiet)}.small{font-size:.875rem}
+section{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px;margin:16px 0}
+input,select{font:inherit;color:var(--ink);background:var(--field);border:1px solid var(--line);border-radius:6px;padding:4px 6px;width:100%}
+input[type=checkbox]{width:auto}
+table{width:100%;border-collapse:collapse;font-size:.92rem}
+th,td{text-align:left;padding:5px 4px;border-bottom:1px solid var(--line);vertical-align:middle}
+th{font-weight:600;color:var(--quiet);font-size:.82rem}
+td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}
+td input{min-width:64px}
+.table-wrap{overflow-x:auto}
+button{font:inherit;border:1px solid var(--accent);background:var(--accent);color:#fff;border-radius:6px;padding:6px 12px;cursor:pointer}
+button.secondary{background:transparent;color:var(--accent)}
+button.del{background:transparent;color:var(--bad);border-color:transparent;padding:2px 6px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:10px}
+.note{background:var(--accent-soft);border-radius:8px;padding:10px 12px;font-size:.92rem}
+.ok{color:var(--good)}.mid{color:var(--warn)}.no{color:var(--bad)}
+.pill{display:inline-block;font-size:.75rem;padding:0 7px;border-radius:99px;border:1px solid currentColor;white-space:nowrap}
+.cols{display:grid;grid-template-columns:1fr;gap:12px}
+td.n{white-space:nowrap}
+svg{width:100%;height:auto;display:block}
+@media print{button,.row{display:none}section{break-inside:avoid}}
+</style>
+</head>
+<body>
+<main>
+<p class="small quiet"><a href="../index.html">Progetto dei Cerchi</a> · <a href="index.html">Strumenti per le reti</a> · simulatore didattico 0.1</p>
+<h1>Simulatore del Saldo e del Pool</h1>
+<p>Ogni comunità dichiara, per ogni risorsa, quanto produce, di quanto ha bisogno e quanto tiene come riserva tecnica. Ciò che avanza va nel Pool; il Pool propone come coprire i deficit, <strong>prima i bisogni vitali</strong>, poi ciò che rischia di andare sprecato, poi i bisogni produttivi, con il percorso che consuma meno energia (Codice 15, artt. 3–8).</p>
+<p class="note">È un simulatore per capire e mettere alla prova le regole, non il sistema vero. Anche nel sistema vero il calcolo <strong>propone soltanto</strong>: decide il Consiglio di Magazzino sorteggiato (Cod. 15, artt. 9 e 9-bis). I dati restano su questo dispositivo.</p>
+
+<section>
+<h2>1. Comunità</h2>
+<p class="small quiet">La posizione serve solo a stimare le distanze (in km, su una mappa semplificata).</p>
+<div class="table-wrap"><table>
+<thead><tr><th>Comunità</th><th class="n">Est (km)</th><th class="n">Nord (km)</th><th></th></tr></thead>
+<tbody id="tab-com"></tbody>
+</table></div>
+<div class="row"><button class="secondary" onclick="st.comunita.push({id:nid(),nome:'Nuova comunità',x:0,y:0});tutto()">+ Comunità</button></div>
+</section>
+
+<section>
+<h2>2. Risorse</h2>
+<div class="table-wrap"><table>
+<thead><tr><th>Risorsa</th><th>Unità</th><th>Bisogno vitale</th><th class="n">Si conserva (giorni)</th><th class="n">Energia per unità ogni 100 km</th><th></th></tr></thead>
+<tbody id="tab-ris"></tbody>
+</table></div>
+<p class="small quiet">«Bisogno vitale»: la risorsa serve ai bisogni dell'art. 32, c. 1, lett. a) del Codice 1 (cibo, acqua, cure). «Si conserva»: il tempo residuo di utilizzo (TRU); sotto i 7 giorni c'è rischio di spreco. L'energia è un'ipotesi da cambiare: serve solo a confrontare i percorsi.</p>
+<div class="row"><button class="secondary" onclick="st.risorse.push({id:nid(),nome:'Nuova risorsa',unita:'kg',vitale:false,tru:365,energia:1});tutto()">+ Risorsa</button></div>
+</section>
+
+<section>
+<h2>3. Dichiarazioni del trimestre</h2>
+<p class="small quiet">Per ogni comunità e risorsa: <strong>P</strong> = prodotto, <strong>B</strong> = bisogno validato, <strong>R</strong> = riserva tecnica (esclusa dal Pool). Saldo federabile = P − B − R, se positivo; deficit = B − P, se positivo.</p>
+<div class="table-wrap"><table id="tab-dich"></table></div>
+</section>
+
+<section>
+<div class="row" style="margin-top:0"><button onclick="calcola()">Calcola le proposte del Pool</button><span class="small quiet">Velocità di trasporto ipotizzata: <input id="vel" type="number" min="1" style="width:80px;display:inline-block"> km al giorno</span></div>
+<div id="esito"></div>
+</section>
+
+<section>
+<h2>Salva e prova</h2>
+<div class="row">
+<button class="secondary" onclick="esempio()">Carica l'esempio</button>
+<button class="secondary" onclick="salvaFile()">Salva (file)</button>
+<button class="secondary" onclick="document.getElementById('apri').click()">Apri file</button>
+<input id="apri" type="file" accept="application/json" hidden onchange="apriFile(this)">
+<button class="secondary" onclick="if(confirm('Cancellare tutto su questo dispositivo?')){st=vuoto();tutto();}">Ricomincia da zero</button>
+</div>
+</section>
+
+<p class="small quiet">Codice aperto, licenza del progetto. Regole: <a href="../registro/codice-15.html">Codice 15</a>. Proposte e correzioni: <a href="https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues">segnalazioni su GitHub</a>.</p>
+</main>
+
+<script>
+"use strict";
+const CHIAVE="cerchi-pool-v1";
+let st=null, ultimo=null;
+const vuoto=()=>({comunita:[],risorse:[],dich:{},vel:300,prossimo:1});
+const nid=()=>"k"+(st.prossimo++);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const num=v=>{const n=parseFloat(String(v).replace(",","."));return isFinite(n)?n:0;};
+const pos=v=>Math.max(0,num(v));
+const fmt=(n,d=0)=>n.toLocaleString("it-IT",{maximumFractionDigits:d});
+const com=id=>st.comunita.find(c=>c.id===id), ris=id=>st.risorse.find(r=>r.id===id);
+const D=(c,r)=>(st.dich[c+"|"+r]??={P:0,B:0,R:0});
+function carica(){try{const s=localStorage.getItem(CHIAVE);if(s)return Object.assign(vuoto(),JSON.parse(s));}catch(e){}return null;}
+function salva(){try{localStorage.setItem(CHIAVE,JSON.stringify(st));}catch(e){}}
+
+function esempio(){
+  st=vuoto();
+  const c=[["Valle",0,0],["Collina",40,30],["Pianura",90,-10],["Costa",160,40]].map(([nome,x,y])=>({id:nid(),nome,x,y}));
+  const r=[["Cereali","kg",true,300,1],["Ortaggi freschi","kg",true,5,1.2],["Medicine di base","kit",true,700,0.2],["Pannelli solari","pezzi",false,3650,8]].map(([nome,unita,vitale,tru,energia])=>({id:nid(),nome,unita,vitale,tru,energia}));
+  st.comunita=c;st.risorse=r;
+  const dati={Valle:[[9000,6000,500],[1200,800,0],[40,60,10],[2,6,0]],Collina:[[3000,5000,300],[900,900,0],[70,40,10],[10,3,1]],Pianura:[[12000,7000,800],[2500,1500,0],[30,50,5],[0,4,0]],Costa:[[2000,4500,200],[300,1100,0],[90,45,10],[6,2,1]]};
+  for(const cc of c) dati[cc.nome].forEach((v,i)=>{st.dich[cc.id+"|"+r[i].id]={P:v[0],B:v[1],R:v[2]};});
+  tutto();calcola();
+}
+
+function disegnaInput(){
+  document.getElementById("tab-com").innerHTML=st.comunita.map((c,i)=>`<tr>
+   <td><input value="${esc(c.nome)}" onchange="st.comunita[${i}].nome=this.value;tutto()"></td>
+   <td class="n"><input type="number" value="${c.x}" onchange="st.comunita[${i}].x=num(this.value);tutto()"></td>
+   <td class="n"><input type="number" value="${c.y}" onchange="st.comunita[${i}].y=num(this.value);tutto()"></td>
+   <td><button class="del" aria-label="Togli" onclick="st.comunita.splice(${i},1);tutto()">✕</button></td></tr>`).join("");
+  document.getElementById("tab-ris").innerHTML=st.risorse.map((r,i)=>`<tr>
+   <td><input value="${esc(r.nome)}" onchange="st.risorse[${i}].nome=this.value;tutto()"></td>
+   <td><input value="${esc(r.unita)}" style="max-width:80px" onchange="st.risorse[${i}].unita=this.value;tutto()"></td>
+   <td><input type="checkbox" ${r.vitale?"checked":""} onchange="st.risorse[${i}].vitale=this.checked;tutto()"></td>
+   <td class="n"><input type="number" min="0" value="${r.tru}" onchange="st.risorse[${i}].tru=pos(this.value);tutto()"></td>
+   <td class="n"><input type="number" min="0" step="any" value="${r.energia}" onchange="st.risorse[${i}].energia=pos(this.value);tutto()"></td>
+   <td><button class="del" aria-label="Togli" onclick="st.risorse.splice(${i},1);tutto()">✕</button></td></tr>`).join("");
+  const t=document.getElementById("tab-dich");
+  if(!st.comunita.length||!st.risorse.length){t.innerHTML=`<tr><td class="quiet">Aggiungi comunità e risorse, oppure carica l'esempio.</td></tr>`;return;}
+  t.innerHTML=`<thead><tr><th>Comunità</th>${st.risorse.map(r=>`<th colspan="3">${esc(r.nome)} <span class="quiet">(${esc(r.unita)})</span></th>`).join("")}</tr>
+   <tr><th></th>${st.risorse.map(()=>`<th class="n">P</th><th class="n">B</th><th class="n">R</th>`).join("")}</tr></thead><tbody>${
+   st.comunita.map(c=>`<tr><td>${esc(c.nome)}</td>${st.risorse.map(r=>{const d=D(c.id,r.id);return ["P","B","R"].map(k=>`<td class="n"><input type="number" min="0" value="${d[k]}" onchange="D('${c.id}','${r.id}').${k}=pos(this.value);salva()" aria-label="${k} ${esc(c.nome)} ${esc(r.nome)}"></td>`).join("");}).join("")}</tr>`).join("")}</tbody>`;
+}
+function tutto(){document.getElementById("vel").value=st.vel;salva();disegnaInput();if(ultimo)calcola();}
+
+/* Il calcolo segue il Codice 15:
+   - Saldo federabile = P − B − R se positivo (art. 3–4); la riserva tecnica resta fuori (art. 5).
+   - Deficit = B − P se positivo; il Pool lo copre secondo le priorità dell'art. 8.2:
+     a) bisogni vitali; b) risorse con TRU sotto i 7 giorni (rischio di spreco); c) bisogni produttivi;
+     d) ciò che resta diventa Riserva Federata (o, se si guasta, va trasformato entro 72 ore: art. 6).
+   - A parità di priorità, si sceglie la provenienza che richiede meno energia (art. 8.3),
+     purché la risorsa arrivi prima di guastarsi (TRU). */
+function calcola(){
+  st.vel=pos(document.getElementById("vel").value)||300;salva();
+  const dist=(a,b)=>Math.hypot(a.x-b.x,a.y-b.y);
+  const surplus=[],deficit=[];
+  for(const r of st.risorse)for(const c of st.comunita){const d=D(c.id,r.id);
+    const f=pos(d.P)-pos(d.B)-pos(d.R), def=pos(d.B)-pos(d.P);
+    if(f>0)surplus.push({c,r,q:f}); if(def>0)deficit.push({c,r,q:def,coperto:0});}
+  const prio=x=>x.r.vitale?0:(num(x.r.tru)<7?1:2);
+  const nomeP=["a) bisogno vitale","b) rischio di spreco","c) bisogno produttivo"];
+  deficit.sort((a,b)=>prio(a)-prio(b)||b.q-a.q);
+  const flussi=[];
+  for(const d of deficit){
+    const fonti=surplus.filter(s=>s.r.id===d.r.id&&s.q>1e-9&&s.c.id!==d.c.id)
+      .map(s=>({s,km:dist(s.c,d.c)})).filter(o=>o.km/st.vel<=num(d.r.tru)).sort((a,b)=>a.km-b.km);
+    for(const o of fonti){ if(d.q-d.coperto<=1e-9)break;
+      const q=Math.min(o.s.q,d.q-d.coperto); o.s.q-=q; d.coperto+=q;
+      flussi.push({da:o.s.c,a:d.c,r:d.r,q,km:o.km,energia:q*o.km/100*num(d.r.energia),giorni:o.km/st.vel,prio:nomeP[prio(d)]});}
+  }
+  const avanzi=surplus.filter(s=>s.q>1e-9);
+  ultimo={flussi,deficit,avanzi};
+  disegnaEsito();
+}
+function mappa(flussi){
+  if(!st.comunita.length)return"";
+  const xs=st.comunita.map(c=>c.x),ys=st.comunita.map(c=>c.y),minx=Math.min(...xs),maxx=Math.max(...xs),miny=Math.min(...ys),maxy=Math.max(...ys);
+  const W=760,H=320,m=70,sx=v=>m+(maxx===minx?0.5:(v-minx)/(maxx-minx))*(W-2*m),sy=v=>H-m-(maxy===miny?0.5:(v-miny)/(maxy-miny))*(H-2*m);
+  const coppie={};flussi.forEach(f=>{const k=f.da.id+">"+f.a.id;(coppie[k]??={da:f.da,a:f.a,voci:[]}).voci.push(f);});
+  let s=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Mappa dei trasferimenti proposti"><defs><marker id="fr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="var(--flow)"/></marker></defs>`;
+  for(const k in coppie){const p=coppie[k],x1=sx(p.da.x),y1=sy(p.da.y),x2=sx(p.a.x),y2=sy(p.a.y),L=Math.hypot(x2-x1,y2-y1)||1,ux=(x2-x1)/L,uy=(y2-y1)/L,ox=-uy*6,oy=ux*6;
+    s+=`<line x1="${x1+ux*14+ox}" y1="${y1+uy*14+oy}" x2="${x2-ux*16+ox}" y2="${y2-uy*16+oy}" stroke="var(--flow)" stroke-width="1.6" marker-end="url(#fr)"><title>${esc(p.voci.map(v=>`${p.da.nome} → ${p.a.nome}: ${fmt(v.q)} ${v.r.unita} di ${v.r.nome}`).join("\n"))}</title></line>`;}
+  for(const c of st.comunita){const x=sx(c.x),y=sy(c.y);s+=`<circle cx="${x}" cy="${y}" r="9" fill="var(--card)" stroke="var(--ink)" stroke-width="1.4"/><text x="${x}" y="${y+28}" text-anchor="middle" font-size="14" font-weight="600" fill="var(--ink)" paint-order="stroke" stroke="var(--card)" stroke-width="4">${esc(c.nome)}</text>`;}
+  return s+`</svg>`;
+}
+function disegnaEsito(){
+  const {flussi,deficit,avanzi}=ultimo, el=document.getElementById("esito");
+  const scop=deficit.filter(d=>d.q-d.coperto>1e-9), vit=scop.filter(d=>d.r.vitale);
+  let h=`<h2 style="margin-top:16px">Proposte del Pool</h2>`;
+  h+=`<p>${flussi.length} trasferimenti proposti. ${vit.length?`<strong class="no">${vit.length} bisogni vitali restano scoperti.</strong>`:`<span class="ok">Tutti i bisogni vitali coperti.</span>`} ${scop.length-vit.length?`<span class="mid">${scop.length-vit.length} bisogni non vitali restano scoperti.</span>`:""}</p>`;
+  h+=`<div class="cols"><div style="max-width:760px">${mappa(flussi)}<p class="small quiet">Ogni freccia è un trasferimento proposto; passa il mouse per i dettagli.</p></div><div class="table-wrap"><table><thead><tr><th>Da → a</th><th>Risorsa</th><th class="n">Quantità</th><th class="n">km</th><th>Priorità</th></tr></thead><tbody>${
+    flussi.map(f=>`<tr><td>${esc(f.da.nome)} → ${esc(f.a.nome)}</td><td>${esc(f.r.nome)}</td><td class="n">${fmt(f.q)} ${esc(f.r.unita)}</td><td class="n">${fmt(f.km)}</td><td class="small">${f.prio}</td></tr>`).join("")||`<tr><td colspan="5" class="quiet">Nessun trasferimento possibile.</td></tr>`}</tbody></table></div></div>`;
+  if(scop.length)h+=`<h3>Bisogni scoperti</h3><ul>${scop.map(d=>`<li class="${d.r.vitale?"no":"mid"}">${esc(d.c.nome)}: mancano ${fmt(d.q-d.coperto)} ${esc(d.r.unita)} di ${esc(d.r.nome)}${d.r.vitale?" — <strong>bisogno vitale</strong>: si attivano il mutualismo federato e il Protocollo di Solidarietà (Cost. 36.2)":""}${num(d.r.tru)<7&&d.coperto<d.q?" (si guasta prima di arrivare da più lontano)":""}.</li>`).join("")}</ul>`;
+  if(avanzi.length){
+    const spreco=avanzi.filter(a=>num(a.r.tru)<7), ris=avanzi.filter(a=>num(a.r.tru)>=7);
+    if(spreco.length)h+=`<h3>A rischio di spreco</h3><ul>${spreco.map(a=>`<li class="mid">${esc(a.c.nome)}: ${fmt(a.q)} ${esc(a.r.unita)} di ${esc(a.r.nome)} — il Consiglio di Magazzino decide entro 72 ore trasformazione, riciclo o dono (Cod. 15, art. 6; Cod. 1, art. 15.2).</li>`).join("")}</ul>`;
+    if(ris.length)h+=`<h3>Riserva Federata</h3><p class="small quiet">Ciò che avanza resta custodito dove si trova, ma è del Pool, per bisogni futuri (Cod. 15, art. 5.4). Non si può trattenere per creare scarsità (art. 5.6).</p><ul>${ris.map(a=>`<li>${esc(a.c.nome)}: ${fmt(a.q)} ${esc(a.r.unita)} di ${esc(a.r.nome)}</li>`).join("")}</ul>`;
+  }
+  const en=flussi.reduce((s,f)=>s+f.energia,0);
+  h+=`<p class="small quiet">Energia di trasporto stimata, in unità relative: ${fmt(en,1)}. Tra più provenienze possibili è scelta la più vicina che arriva in tempo (Cod. 15, art. 8.3). Proposte da verificare e deliberare: decide il Consiglio di Magazzino (art. 9-bis).</p>`;
+  el.innerHTML=h;
+}
+function salvaFile(){const b=new Blob([JSON.stringify(Object.assign({tipo:"pool-cerchi"},st),null,2)],{type:"application/json"}),a=document.createElement("a");a.href=URL.createObjectURL(b);a.download="simulazione-pool.json";a.click();URL.revokeObjectURL(a.href);}
+function apriFile(inp){const f=inp.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{const d=JSON.parse(r.result);if(!Array.isArray(d.comunita))throw 0;st=Object.assign(vuoto(),d);ultimo=null;document.getElementById("esito").innerHTML="";tutto();}catch(e){alert("Il file non è valido.");}};r.readAsText(f);inp.value="";}
+st=carica(); if(st){tutto();} else {st=vuoto();esempio();}
+</script>
+</body>
+</html>

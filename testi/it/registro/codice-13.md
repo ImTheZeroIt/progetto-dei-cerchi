@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 13 — BIODIVERSITÀ, SANTUARI E FAUNA"
 breve: "Codice 13 — Biodiversità, santuari e fauna"
-versione: "V1.8"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 13
 id: "codice-13"
 slug: "codice-13"
-allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; Codice 4 V1.9; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 14 V1.7; Codice 15 V1.9; Codice 16 V1.9."
+allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.11; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 14 V1.10; Codice 15 V1.12; Codice 16 V1.10."
 ---
 
 ## Art. 1 — Oggetto, definizioni e natura giuridica
@@ -82,7 +82,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
     g) assicura il coordinamento tecnico con il Consiglio Habitat e Territorio del Codice 10, il Consiglio Agroecologico del Codice 9, il Consiglio Salute del Codice 6, il Consiglio Energia e Acqua del Codice 8 e il Consiglio Cura del Codice 12.
 
-3.  I pareri obbligatori del Consiglio Biodiversità previsti dai Codici 9 e 10 e dal presente Codice, quando negativi, sono vincolanti a tutela dei limiti ecologici, ai sensi dell’articolo 6.6 della Costituzione e dell’articolo 8 del Codice 3, esclusivamente per gli indicatori e i parametri di biodiversità, di tutela della fauna selvatica e di funzionalità biologica attribuiti espressamente al presente Codice. I parametri di benessere degli animali che convivono o collaborano con le persone sono approvati con l’autorizzazione del comma 5. Tali pareri non determinano la localizzazione, la geometria, la destinazione d’uso o l’imposizione di un vincolo territoriale, che restano di competenza del Codice 10.
+3.  I pareri obbligatori del Consiglio Biodiversità previsti dai Codici 8, 9 e 10, quanto al Codice 8 limitatamente all’articolo 6-bis, comma 3, e dal presente Codice, quando negativi, sono vincolanti a tutela dei limiti ecologici, ai sensi dell’articolo 6.6 della Costituzione e dell’articolo 8 del Codice 3, esclusivamente per gli indicatori e i parametri di biodiversità, di tutela della fauna selvatica e di funzionalità biologica attribuiti espressamente al presente Codice. I parametri di benessere degli animali che convivono o collaborano con le persone sono approvati con l’autorizzazione del comma 5. Tali pareri non determinano la localizzazione, la geometria, la destinazione d’uso o l’imposizione di un vincolo territoriale, che restano di competenza del Codice 10.
 
 4.  Gli atti tecnici del Consiglio Biodiversità sono adottati in attuazione delle STV vigenti. Le proposte discrezionali sono assunte secondo il metodo del consenso per assenza di obiezioni motivate, ai sensi del Codice 3, previa pubblicazione per almeno settantadue ore. La pubblicazione non comprende dati la cui diffusione possa arrecare pregiudizio alle specie o ai siti tutelati.
 
@@ -96,7 +96,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
     b) previo parere obbligatorio del Consiglio Habitat e Territorio;
 
-    c) con deliberazione dell’Assemblea Generale del Cerchio 2 adottata a maggioranza qualificata, secondo le regole della Costituzione e del Codice 3.
+    c) con deliberazione dell’Assemblea Generale del Cerchio 2 adottata a maggioranza qualificata, secondo le regole della Costituzione e del Codice 3, con la destinazione dell’area deliberata dall’Assemblea del Cerchio 1 nel cui territorio si trova, ai sensi dell’articolo 4, comma 2, del Codice 10.
 
 2.  Il santuario è destinato alla massima integrità ecologica compatibile con le caratteristiche dell’area e alla stabilità della relativa funzione di tutela. Al suo interno è vietato:
 
@@ -136,8 +136,8 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 2.  Ogni animale accolto ha diritto alla vita e alla cura e non è trasferibile, salvo che il trasferimento sia necessario al suo benessere e attestato da una competenza veterinaria L3. Sono vietati la macellazione, la soppressione per convenienza, la cessione a titolo oneroso, l’impiego nel lavoro e la riproduzione a fini d’uso.
 3.  Gli animali accolti non sono fatti riprodurre. Quando è necessario al loro benessere e alla capacità di cura, la prevenzione delle nascite avviene con i metodi non lesivi definiti dalla STV Santuari di Accoglienza.
 4.  Ciò che l’animale produce spontaneamente può essere raccolto solo alle condizioni dell’articolo 13.3-ter della Costituzione. Non può costituire un obiettivo produttivo, essere programmato nel Paniere né giustificare l’aumento del numero degli animali.
-5.  Ogni Cerchio 2 garantisce almeno un santuario di accoglienza ogni tre o quattro Cerchi 1 che lo compongono, dimensionato sugli animali censiti. La cura degli animali accolti rientra nel CBO, ai sensi dell’articolo 7.2 della Costituzione e del Codice 1.
-6.  Per ciascun animale o gruppo è tenuta una Scheda Benessere. L’alimentazione e le cure veterinarie sono assicurate senza compromettere i livelli 1 e 2 del Paniere umano. In caso di scarsità d’acqua si applica l’articolo 10, comma 8, del Codice 9.
+5.  Ogni Cerchio 2 garantisce almeno un santuario di accoglienza ogni tre o quattro Cerchi 1 che lo compongono, dimensionato sugli animali censiti. La cura degli animali accolti rientra nel CBO, ai sensi dell’articolo 7.2 della Costituzione e del Codice 1. Il santuario è seguito dal Consiglio Biodiversità della Comunità nel cui territorio si trova o, se l’Assemblea Generale lo stabilisce, da un Consiglio condiviso ai sensi dell’articolo 12-bis, comma 6-bis, del Codice 3.
+6.  Per ciascun animale o gruppo è tenuta una Scheda Benessere. L’alimentazione e le cure veterinarie sono assicurate senza compromettere i livelli 1 e 2 del Paniere umano; l’alimentazione minima e le cure urgenti seguono l’articolo 32, comma 1-sexies, del Codice 1. In caso di scarsità d’acqua si applica l’articolo 10, comma 8, del Codice 9.
 7.  L’eutanasia è ammessa esclusivamente alle condizioni dell’articolo 7, comma 12, in quanto applicabili. In luogo della Scheda Benessere Domestico si applica la Scheda Benessere dell’animale accolto prevista dal comma 6; in luogo della persona di fiducia sono informate le persone che curano abitualmente l’animale.
 8.  L’accesso delle persone al santuario di accoglienza è consentito per la cura, l’apprendimento e la relazione, nel rispetto delle Schede Benessere.
 
@@ -215,7 +215,9 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
 2.  La convivenza con animali domestici di prossimità è ammessa come convivenza non sfruttante ai sensi dell’articolo 13.3 della Costituzione. È verificata e autorizzata dal Consiglio Biodiversità sulla base della Scheda Benessere Domestico.
 
-3.  In assenza delle condizioni dell’articolo 13.3 della Costituzione, il Consiglio Biodiversità propone le misure necessarie al benessere dell’animale e, se queste non sono attuate, l’accoglienza in un santuario ai sensi dell’articolo 4-bis, secondo le procedure del Codice 4.
+3.  In assenza delle condizioni dell’articolo 13.3 della Costituzione, il Consiglio Biodiversità propone le misure necessarie al benessere dell’animale e, se queste non sono attuate, l’accoglienza in un santuario ai sensi dell’articolo 4-bis, secondo il comma 3-bis.
+
+3-bis. Quando il Corpo di Tutela Civica è intervenuto ai sensi dell’articolo 8-ter, comma 3, del Codice 14, o quando un animale è in pericolo grave e immediato, il Consiglio Biodiversità può disporre l’accoglienza provvisoria dell’animale in un santuario di accoglienza o in un’altra convivenza autorizzata, per non più di trenta giorni. La misura è comunicata al Tribunale di Garanzia, che la convalida entro ventiquattro ore insieme all’ingresso, quando vi è stato, ai sensi dell’articolo 34, comma 2-bis, del Codice 4. L’accoglienza stabile del comma 3 è decisa dal Tribunale di Garanzia, sentito il nucleo di convivenza, ed è impugnabile. Le misure del presente comma non consentono di entrare in un Cerchio 0 fuori dai casi dell’articolo 5.1, lettera a), della Costituzione.
 
 4.  La cura quotidiana dell’animale domestico di prossimità è assicurata dal nucleo di convivenza. Il Cerchio 1, e il livello federato quando necessario, garantisce la tutela di sistema, la Scheda Benessere Domestico e il bilancio delle risorse alimentari secondo le modalità previste dal presente Codice e dalle STV.
 
@@ -247,9 +249,9 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
 9.  L’accumulo individuale di animali è ammesso soltanto entro la capacità di cura definita dalla Scheda Benessere Domestico. La valutazione considera almeno la specie e il numero degli animali, lo spazio disponibile, le condizioni sanitarie, il tempo a disposizione e la capacità effettiva di garantire il benessere di ciascun animale. Il superamento della capacità di cura costituisce violazione ai sensi dell’articolo 10.
 
-10. Non costituisce manipolazione riproduttiva ai sensi degli articoli 13.2 e 13.3, lettera c), della Costituzione la prevenzione non lesiva delle nascite dell’animale domestico di prossimità, compresa la sterilizzazione, eseguita o prescritta da una competenza veterinaria quando è necessaria al benessere dell’animale o quando la cura di altri nati non potrebbe essere garantita secondo il comma 9. La decide il nucleo di convivenza con la competenza veterinaria, è registrata nella Scheda Benessere Domestico e non è imposta in via generale. Per gli animali accolti nei santuari si applica l’articolo 4-bis, comma 3. Per i profili sanitari, zoonotici o di rischio collettivo si applicano le competenze, le procedure e le garanzie del Codice 6, comprese le misure collettive ammesse dal suo articolo 2-bis, comma 3-bis. Ogni misura deve rispettare criteri di proporzionalità e temporaneità, garantire l’informazione della persona interessata ed essere soggetta a riesame e alle garanzie previste.
+10. Non costituisce manipolazione riproduttiva ai sensi degli articoli 13.2 e 13.3, lettera c), della Costituzione la prevenzione non lesiva delle nascite dell’animale domestico di prossimità, compresa la sterilizzazione, eseguita o prescritta da una competenza veterinaria quando è necessaria al benessere dell’animale o quando la cura di altri nati non potrebbe essere garantita secondo il comma 9. La decide il nucleo di convivenza con la competenza veterinaria, è registrata nella Scheda Benessere Domestico e non è imposta in via generale. Per gli animali accolti nei santuari si applica l’articolo 4-bis, comma 3. Per i profili sanitari, zoonotici o di rischio collettivo si applicano le competenze, le procedure e le garanzie del Codice 6, comprese le misure collettive ammesse dal suo articolo 2-bis, comma 3-bis, e l’articolo 8, comma 7, del presente Codice. Ogni misura deve rispettare criteri di proporzionalità e temporaneità, garantire l’informazione della persona interessata ed essere soggetta a riesame e alle garanzie previste.
 
-11. L’alimentazione degli animali domestici di prossimità può essere assicurata mediante risorse compatibili con il Paniere, scarti idonei o un fondo dedicato. Tali risorse non possono compromettere il Paniere umano dei livelli 1 e 2 e sono disciplinate dalla STV Paniere del Codice 9. In caso di scarsità d’acqua si applica l’articolo 10, comma 8, del Codice 9.
+11. L’alimentazione degli animali domestici di prossimità può essere assicurata mediante risorse compatibili con il Paniere, scarti idonei o un fondo dedicato. Tali risorse non possono compromettere il Paniere umano dei livelli 1 e 2 e sono disciplinate dalla STV Paniere del Codice 9. L’alimentazione minima e le cure veterinarie urgenti seguono l’articolo 32, comma 1-sexies, del Codice 1. In caso di scarsità d’acqua si applica l’articolo 10, comma 8, del Codice 9.
 
 12. L’eutanasia per mera convenienza è vietata. Essa è ammessa esclusivamente in presenza di sofferenza irreversibile attestata da due competenze L3, di cui almeno una veterinaria, nel rispetto delle competenze sanitarie del Codice 6 e della Scheda Benessere Domestico. L’intervento è documentato e tracciato; la persona di fiducia è informata, salvo impossibilità motivata o urgenza incompatibile con il previo avviso.
 
@@ -276,6 +278,8 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
     c) livello L3 per la progettazione e la validazione delle STV e delle Schede Benessere, nei casi previsti.
 
 6.  Chiunque rilevi un rischio grave e immediato per la fauna, un animale o una persona può interrompere l’attività interessata e informa senza ritardo i Consigli competenti. L’interruzione effettuata in buona fede per prevenire un danno non può comportare ritorsioni o pregiudizi.
+
+7.  Per le zoonosi sono ammesse soltanto, su proposta del Consiglio Salute e con l’autorizzazione del Consiglio Biodiversità: la separazione o l’isolamento temporaneo degli animali, in condizioni conformi alla Scheda Benessere; le cure e le vaccinazioni veterinarie; le misure di igiene degli ambienti; la limitazione dei contatti e degli spostamenti. È vietata l’uccisione, salvo l’eutanasia degli articoli 4-bis, comma 7, e 7, comma 12. Si applicano le garanzie di durata e di riesame dell’articolo 2-bis del Codice 6.
 
 ## Art. 9 — Registro Dipendenze della biodiversità
 
@@ -359,7 +363,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
     d) la STV Benessere Domestico;
 
-    e) la STV Api Selvatiche;
+    e) la STV Api Selvatiche e la STV Gestione della Fauna;
 
     f) le Schede Sicurezza e Benessere necessarie;
 
@@ -373,7 +377,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
     b) il piano di adeguamento indica le misure da adottare, i responsabili e un termine finale, di norma non superiore a novanta giorni, salvo impossibilità tecnica documentata;
 
-    c) quando sussiste un rischio grave e immediato per la biodiversità o il benessere animale, possono essere adottate misure urgenti proporzionate secondo le procedure del Codice 4;
+    c) quando sussiste un rischio grave e immediato per la biodiversità o il benessere animale, possono essere adottate misure urgenti proporzionate secondo l’articolo 7, comma 3-bis, per gli animali e, negli altri casi, secondo le procedure del Codice 4;
 
     d) quando l’adeguamento sia tecnicamente impossibile, è avviata la procedura di disattivazione prevista dal Codice 4, accompagnata da un piano sostitutivo;
 

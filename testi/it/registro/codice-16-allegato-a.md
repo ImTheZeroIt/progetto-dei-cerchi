@@ -1,7 +1,7 @@
 ---
 titolo: "ALLEGATO TECNICO A AL CODICE 16 — PROTOCOLLO DI AVVIO SOCIALE"
 breve: "Allegato A al Codice 16 — Protocollo di avvio sociale"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "allegati"
 ordine: 16.1
 id: "codice-16-allegato-a"
@@ -44,7 +44,7 @@ Allegato tecnico adottato ai sensi dell’articolo 19 del Codice 3 e richiamato 
 
 1.  Il Livello 1 mira a verificare la sostenibilità sociale iniziale del Cerchio pilota e a favorire condizioni minime di fiducia e collaborazione.
 
-2.  Prima della deliberazione costitutiva del Cerchio pilota sono organizzati tre incontri non deliberativi. Ogni partecipante può descrivere le proprie motivazioni, la disponibilità effettiva, i limiti personali e gli eventuali carichi di cura rilevanti per l’organizzazione. Le informazioni raccolte sono verbalizzate in forma aggregata e non nominativa.
+2.  Prima della deliberazione costitutiva del Cerchio pilota sono organizzati tre incontri non deliberativi. Ogni partecipante può descrivere le proprie motivazioni, la disponibilità effettiva, i limiti personali e gli eventuali carichi di cura rilevanti per l’organizzazione. Le informazioni raccolte sono verbalizzate in forma aggregata e non nominativa. Per il Cerchio nato da una rete ai sensi dell’articolo 17 del Codice 16, gli incontri si svolgono entro novanta giorni dalla conversione.
 
 3.  È predisposta una mappa aggregata della capacità di cura e organizzazione, che può considerare:
 
@@ -121,7 +121,7 @@ Allegato tecnico adottato ai sensi dell’articolo 19 del Codice 3 e richiamato 
 
 4.  Ogni Cerchio pilota organizza almeno uno scambio inter-Bacino, che comprende la partecipazione volontaria di almeno una persona per una settimana continuativa in un altro Bacino, per attività di contributo. Le spese direttamente necessarie sono coperte dalla Cassa comune secondo le regole applicabili. Il tracciamento dello scambio è aggregato e non profilante.
 
-5.  Ogni sei mesi è svolto un questionario anonimo sulla sicurezza percepita, con modalità tecniche idonee a impedire l’identificazione delle persone. La domanda minima è: «Ti senti al sicuro qui?». Le risposte non sono pubblicate quando il numero dei partecipanti non consente un’aggregazione adeguata.
+5.  Ogni sei mesi è svolto un questionario anonimo sulla sicurezza percepita, con modalità tecniche idonee a impedire l’identificazione delle persone. La domanda minima è: «Ti senti al sicuro qui?». Le risposte non sono pubblicate quando il numero dei partecipanti non consente un’aggregazione adeguata. Il questionario è svolto e contato in ciascun Cerchio pilota; la soglia del comma 6 si verifica per ciascuno di essi e il piano correttivo riguarda il Cerchio in cui è superata.
 
 6.  Se oltre il venti per cento delle risposte valide è negativo:
 

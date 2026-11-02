@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 5 — DE L’APPRENTISSAGE ET DES COMPÉTENCES"
 breve: "Code 5 — Apprentissage et compétences"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 5
 id: "codice-05"
 slug: "code-05"
-allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.8 ; Code 4 V1.9 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.8 ; Code 14 V1.7 ; Code 15 V1.9 ; Code 16 V1.9."
+allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 3 V1.11 ; Code 4 V1.10 ; Code 6 V1.9 ; Code 7 V1.10 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 15 V1.12 ; Code 16 V1.10."
 ---
 
 ## TITRE PRÉLIMINAIRE — PRINCIPES FONDAMENTAUX
@@ -217,7 +217,7 @@ Le résultat n’est pas exprimé sous forme de note chiffrée ou de classement 
 
 L’évaluation est descriptive et prend en compte ce que le mineur sait faire, ce qu’il souhaite apprendre, les soutiens dont il a besoin et ses centres d’intérêt, avec sa participation et celle des tuteurs.
 
-4.  À partir de quatorze ans et jusqu’à l’âge de dix-huit ans révolus, le mineur peut accéder progressivement à des activités des Listes B et C dans les conditions suivantes :
+4.  À partir de quatorze ans et jusqu’à l’âge de dix-huit ans révolus, le mineur peut accéder progressivement à des activités des Listes A, B et C dans les conditions suivantes ; aux fonctions de la Liste D du Code 1, il ne participe qu’à partir de seize ans, en accompagnement, sans droit de vote, en application de l’article 12-bis, alinéa 4, du Code 3 :
 
     a) pour les compétences à risque nul ou faible, il peut exercer une pratique supervisée, sans que cela entraîne automatiquement une validation autonome ;
 
@@ -231,7 +231,7 @@ L’évaluation est descriptive et prend en compte ce que le mineur sait faire, 
 
 6.  À partir de l’âge de dix-huit ans révolus, les règles ordinaires s’appliquent, y compris les mesures d’exemption, de réduction ou de suspension prévues par le Code 1. Pour la personne qui a grandi dans la Confédération, les règles ordinaires s’appliquent à partir du choix prévu par l’article 26.4 de la Constitution ou de l’expiration du délai correspondant ; jusque-là, sa CBO reste volontaire au sens de l’alinéa 5, sans le consentement du Conseil Soin, et elle conserve les droits de membre.
 
-6-bis. En application de l’article 26.4 de la Constitution, au moins trois mois avant le dix-huitième anniversaire, le Conseil des Compétences, avec le Conseil Soin, informe par écrit la personne qui a grandi dans la Confédération des trois possibilités, du délai, des droits de l’article 4.8 de la Constitution et du soutien au démarrage de la vie autonome, et organise à sa demande la période de découverte d’autres Communautés et de réalités extérieures. Le choix est déclaré par écrit à l’Assemblée du Cercle 1 ou enregistré dans le Nœud-IA personnel ; la personne peut le revoir à tout moment. Le délai ne court pas tant que l’information n’a pas été donnée.
+6-bis. En application de l’article 26.4 de la Constitution, au moins trois mois avant le dix-huitième anniversaire, le Conseil des Compétences, avec le Conseil Soin, informe par écrit la personne qui a grandi dans la Confédération des trois possibilités, du délai, des droits de l’article 4.8 de la Constitution et du soutien au démarrage de la vie autonome, et organise à sa demande la période de découverte d’autres Communautés et de réalités extérieures. Le choix est déclaré par écrit à l’Assemblée du Cercle 1 ou enregistré dans le Nœud-IA personnel ; la personne peut le revoir à tout moment. Le délai ne court pas tant que l’information n’a pas été donnée. Pour la personne qui, mineure, a cessé d’être membre en application de l’article 26.5 de la Constitution et n’a pas été réadmise, le choix reste possible à tout moment sous forme de réadmission ; le silence ne vaut pas adhésion et, jusqu’au choix, les droits de membre ne lui reviennent pas.
 
 7.  Chaque apprenant mineur est accompagné par trois figures de référence en rotation trimestrielle, appartenant à des Cercles de compétence différents et n’appartenant ni à sa famille ni à son Cercle 0, en application de l’article 29.3 de la Constitution. Ces figures sont désignées par le Conseil des Compétences avec la participation du mineur.
 

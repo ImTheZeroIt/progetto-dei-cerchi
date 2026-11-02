@@ -1,7 +1,7 @@
 ---
 titolo: "ANEXO TÉCNICO B AL CÓDIGO 16 — MANUAL OPERATIVO DE DESVINCULACIÓN Y FEDERACIÓN"
 breve: "Anexo B al Código 16 — Manual operativo de desvinculación y federación"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "allegati"
 ordine: 16.2
 id: "codice-16-allegato-b"
@@ -23,7 +23,7 @@ Anexo técnico adoptado conforme al artículo 19 del Código 3. El presente Anex
 
     c) el artículo 6 se aplica en el itinerario de la Fase 2 a la Fase 3;
 
-    d) el artículo 7 regula la difusión externa posterior a la transición y no constituye una Fase 4 del Código 16.
+    d) el artículo 7 regula la difusión externa durante la transición, queda como guía técnica después del cierre y no constituye una Fase 4 del Código 16.
 
     Ningún plazo operativo puede autorizar el paso a una fase institucional antes de que se superen los umbrales correspondientes del Código 16.
 
@@ -187,9 +187,9 @@ Anexo técnico adoptado conforme al artículo 19 del Código 3. El presente Anex
 
     d) la crisis o la interrupción de las actividades de un bloque no determina automáticamente la interrupción de los demás bloques. Se preparan medidas de continuidad coherentes con la Cesta y con los Códigos aplicables.
 
-## Art. 7 — Difusión externa posterior a la transición
+## Art. 7 — Difusión externa
 
-1.  El presente artículo regula una actividad de difusión externa posterior a la transición. No constituye una fase del Código 16 y no modifica la definición de la Fase 4, que en el Código 16 corresponde al cierre.
+1.  El presente artículo regula la difusión externa durante la transición; después del cierre queda como guía técnica sin efectos normativos. No constituye una fase del Código 16 y no modifica la definición de la Fase 4, que en el Código 16 corresponde al cierre.
 
 2.  La difusión externa se evalúa sobre la base de la adopción voluntaria de soluciones por una conveniencia funcional medible y no requiere la adhesión universal.
 
@@ -211,9 +211,9 @@ Anexo técnico adoptado conforme al artículo 19 del Código 3. El presente Anex
 
 1.  Las iniciativas operativas previstas en el presente Anexo se suspenden, en lo que respecta a la propuesta de paso o a la actividad de reducción de las dependencias, cuando se dé una de las condiciones siguientes:
 
-    a) la Cesta 1-2 no está garantizada durante tres meses continuos;
+    a) la Cesta 1-2 no está garantizada durante tres meses continuos en un Círculo piloto de la unidad que propone el paso;
 
-    b) más del veinte por ciento de las respuestas válidas al cuestionario anónimo sobre la seguridad percibida es negativo;
+    b) más del veinte por ciento de las respuestas válidas al cuestionario anónimo sobre la seguridad percibida es negativo en un Círculo piloto de la unidad que propone el paso;
 
     c) se produce un incidente R4 que no se ha gestionado según los procedimientos aplicables o para el que falta el análisis de las causas requerido;
 
@@ -231,7 +231,7 @@ Anexo técnico adoptado conforme al artículo 19 del Código 3. El presente Anex
 
     d) para la condición a que se refiere el apartado 1, letra d), el Consejo de Transición, previo dictamen jurídico profesional.
 
-4.  En la reanudación se verifican de nuevo las condiciones de la Fase 0 pertinentes para la causa de la suspensión. Siguen siendo válidos los resultados anteriores que no se ven afectados por la causa.
+4.  En la reanudación se verifican de nuevo las condiciones de la fase en curso pertinentes para la causa de la suspensión. Siguen siendo válidos los resultados anteriores que no se ven afectados por la causa.
 
 5.  La reanudación la delibera la Asamblea General, previo dictamen obligatorio de los Consejos competentes, y se publica según el artículo 15 del Código 3. Cuando la suspensión por la condición del apartado 1, letra b), concierne solo a la propuesta de paso de fase, la propuesta se reanuda con el resultado positivo de la nueva verificación del apartado 3, letra a), sin una deliberación separada de reanudación.
 

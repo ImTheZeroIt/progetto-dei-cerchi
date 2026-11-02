@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Calcolatore della soglia — Progetto dei Cerchi</title>
+<meta name="description" content="Strumento per le reti di mutuo aiuto: quanti mesi di Paniere d'emergenza garantiscono le scorte e gli impegni della rete (Codice 16, art. 14).">
+<style>
+:root{--bg:#fbfaf7;--card:#fff;--ink:#1d2321;--quiet:#5d6763;--line:#d9dcd6;--accent:#0e6656;--accent-soft:#e2efeb;--good:#1d7a46;--warn:#a46a00;--bad:#b3261e;--field:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#141817;--card:#1c2120;--ink:#e7ebe8;--quiet:#a3ada8;--line:#333a37;--accent:#5fbfa8;--accent-soft:#1f3631;--good:#6cc58f;--warn:#e0b04f;--bad:#f08a80;--field:#232927}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:960px;margin:0 auto;padding:24px 16px 64px}
+h1{font-size:1.6rem;margin:.2em 0}
+h2{font-size:1.15rem;margin:0 0 .6em}
+p{margin:.4em 0}
+.quiet{color:var(--quiet)}
+.small{font-size:.875rem}
+section{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px;margin:16px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+label{display:block;font-size:.9rem;color:var(--quiet)}
+input,select{font:inherit;color:var(--ink);background:var(--field);border:1px solid var(--line);border-radius:6px;padding:6px 8px;width:100%}
+input[type=checkbox]{width:auto;margin-right:6px}
+table{width:100%;border-collapse:collapse;font-size:.95rem}
+th,td{text-align:left;padding:6px 4px;border-bottom:1px solid var(--line);vertical-align:middle}
+th{font-weight:600;color:var(--quiet);font-size:.85rem}
+td input,td select{padding:4px 6px}
+.table-wrap{overflow-x:auto}
+button{font:inherit;border:1px solid var(--accent);background:var(--accent);color:#fff;border-radius:6px;padding:6px 12px;cursor:pointer}
+button.secondary{background:transparent;color:var(--accent)}
+button.del{background:transparent;color:var(--bad);border-color:transparent;padding:2px 6px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:10px}
+.result{border-left:4px solid var(--accent)}
+.big{font-size:1.4rem;font-weight:700}
+.ok{color:var(--good)}.no{color:var(--bad)}.mid{color:var(--warn)}
+.bar{position:relative;height:22px;margin-right:28px;background:var(--accent-soft);border-radius:4px;margin:4px 0 12px}
+.bar span{position:absolute;left:0;top:0;bottom:0;background:var(--accent);border-radius:4px}
+.bar i{position:absolute;top:-4px;bottom:-4px;width:2px;background:var(--ink);opacity:.6}
+.bar.etich{margin-bottom:28px}
+.bar b{position:absolute;top:26px;white-space:nowrap;font-size:.75rem;font-weight:400;color:var(--quiet);transform:translateX(-50%)}
+.cat{display:flex;justify-content:space-between;gap:8px;font-size:.95rem}
+details{margin-top:8px}
+summary{cursor:pointer;color:var(--accent)}
+.note{background:var(--accent-soft);border-radius:8px;padding:10px 12px;font-size:.92rem}
+@media print{button,.row,details{display:none}section{break-inside:avoid}}
+</style>
+</head>
+<body>
+<main>
+<p class="small quiet"><a href="../index.html" style="color:inherit">Progetto dei Cerchi</a> · <a href="index.html" style="color:inherit">Strumenti per le reti</a> · versione di prova 0.1</p>
+<h1>Calcolatore della soglia</h1>
+<p>Quanti mesi di <strong>Paniere d'emergenza</strong> riesce a garantire la rete a tutti i partecipanti? La soglia del Codice 16, art. 14, è di <strong>6 mesi</strong> (12 mesi per un paese che parte da solo), insieme ai patti firmati nelle filiere dell'acqua, dell'energia, del cibo e della sanità.</p>
+<p class="note">Lo strumento conta e basta: non decide e non raccomanda niente (Cod. 16, art. 14.5). I dati restano su questo dispositivo: nessuno li riceve, a meno che tu non salvi il file e lo condivida. La verifica vera la fanno tre persone sorteggiate in altre reti (art. 14.4).</p>
+
+<section>
+<h2>1. La rete</h2>
+<div class="grid">
+<div><label for="nome">Nome della rete</label><input id="nome" placeholder="es. Rete di via Roma"></div>
+<div><label for="partecipanti">Partecipanti iscritti nel registro</label><input id="partecipanti" type="number" min="0" value="100"></div>
+<div><label for="data">Data dei dati</label><input id="data" type="date"></div>
+</div>
+</section>
+
+<section>
+<h2>2. Paniere d'emergenza per persona</h2>
+<p class="small quiet">La lista vera la adottano le reti collegate con il parere di persone competenti in nutrizione e salute (art. 14.2). Questi sono valori di partenza da cambiare.</p>
+<div class="table-wrap"><table>
+<thead><tr><th>Bene</th><th>Serve?</th><th>Quantità per persona</th><th>Unità</th><th>Da dove viene il valore</th></tr></thead>
+<tbody id="paniere"></tbody>
+</table></div>
+</section>
+
+<section>
+<h2>3. Scorte nei magazzini della rete</h2>
+<p class="small quiet">Per il cibo scrivi i chili e le calorie per chilo (alcuni valori indicativi sono già proposti). Per gli altri beni scrivi direttamente la quantità nell'unità del Paniere.</p>
+<div class="table-wrap"><table>
+<thead><tr><th>Bene</th><th>Categoria</th><th>Quantità</th><th>kcal per kg (solo cibo)</th><th>Scade il</th><th></th></tr></thead>
+<tbody id="scorte"></tbody>
+</table></div>
+<div class="row"><button class="secondary" onclick="aggiungiScorta()">+ Aggiungi scorta</button>
+<select id="preset" onchange="aggiungiPreset(this)"><option value="">+ Cibo con valore indicativo…</option></select></div>
+</section>
+
+<section>
+<h2>4. Impegni scritti dei produttori</h2>
+<p class="small quiet">Contano solo gli impegni firmati per consegnare nei prossimi 6 mesi (art. 14.1 a). Un impegno che serve più reti va diviso tra loro (art. 14.1-bis).</p>
+<div class="table-wrap"><table>
+<thead><tr><th>Produttore</th><th>Categoria</th><th>Quantità nei 6 mesi</th><th>Firmato</th><th></th></tr></thead>
+<tbody id="impegni"></tbody>
+</table></div>
+<div class="row"><button class="secondary" onclick="aggiungiImpegno()">+ Aggiungi impegno</button></div>
+</section>
+
+<section>
+<h2>5. Casse e patti</h2>
+<div class="grid">
+<div><label for="cassa">Denaro nelle casse della rete (€)</label><input id="cassa" type="number" min="0" value="0"></div>
+<div><label for="costi">Costi che restano per 6 mesi: conservazione, trasporto… (€)</label><input id="costi" type="number" min="0" value="0"></div>
+</div>
+<p class="small quiet" style="margin-top:12px">Patti firmati da chi lavora nelle filiere essenziali del territorio, in numero sufficiente a tenerle in funzione per tutti, con i cambi formati (art. 14.1 b; art. 13.3):</p>
+<div class="grid" id="patti"></div>
+</section>
+
+<section class="result" id="risultato" aria-live="polite"></section>
+
+<section>
+<h2>Salva e condividi</h2>
+<p class="small quiet">I dati si salvano da soli su questo dispositivo. Per passarli ad altri, o per la verifica pubblica in forma aggregata, salva il file. Con «Apri file» puoi anche caricare le scorte esportate dall'<a href="inventario.html" style="color:inherit">inventario del magazzino</a>.</p>
+<div class="row">
+<button onclick="salvaFile()">Salva file</button>
+<button class="secondary" onclick="document.getElementById('apri').click()">Apri file</button>
+<input id="apri" type="file" accept="application/json" hidden onchange="apriFile(this)">
+<button class="secondary" onclick="window.print()">Stampa</button>
+<button class="secondary" onclick="if(confirmare())azzera()">Ricomincia</button>
+</div>
+<details><summary>Riepilogo aggregato da pubblicare sul portale</summary><pre id="aggregato" class="small" style="white-space:pre-wrap"></pre></details>
+</section>
+
+<p class="small quiet">Codice aperto, licenza del progetto. Regole: <a href="../registro/codice-16.html" style="color:inherit">Codice 16</a>, artt. 11–20. Proposte e correzioni: <a href="https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues" style="color:inherit">segnalazioni su GitHub</a>.</p>
+</main>
+
+<script>
+"use strict";
+const CATEGORIE = [
+  {id:"cibo", nome:"Cibo", unita:"kcal al giorno", q:2100, base:"2.100 kcal: minimo usato nelle emergenze da UNHCR e PAM (bozza del Paniere)", serve:true, mese:30.4},
+  {id:"acqua", nome:"Acqua potabile", unita:"litri al giorno", q:50, base:"50 litri: minimo del Codice 8, art. 4-bis.3. Serve solo dove la rete deve garantirla", serve:false, mese:30.4},
+  {id:"energia", nome:"Energia per cucinare e scaldarsi", unita:"kWh al giorno", q:0, base:"Da calcolare clima per clima. Serve solo dove la rete deve garantirla", serve:false, mese:30.4},
+  {id:"medicine", nome:"Medicine di base", unita:"kit al mese", q:1, base:"Contenuto del kit da definire con chi lavora in sanità", serve:true, mese:1},
+  {id:"igiene", nome:"Beni per l'igiene", unita:"kit al mese", q:1, base:"Contenuto del kit da definire", serve:true, mese:1}
+];
+const CIBI = [["Riso",3600],["Pasta",3600],["Farina",3500],["Legumi secchi",3400],["Fiocchi d'avena",3800],["Olio",8800],["Zucchero",4000],["Frutta secca",6000],["Patate",770],["Conserve di pomodoro",300]];
+const FILIERE = ["Acqua","Energia","Cibo","Sanità"];
+const CHIAVE = "cerchi-soglia-v1";
+let stato = null;
+
+function nuovo(){
+  return {nome:"", partecipanti:100, data:new Date().toISOString().slice(0,10),
+    paniere:Object.fromEntries(CATEGORIE.map(c=>[c.id,{serve:c.serve,q:c.q}])),
+    scorte:[], impegni:[], cassa:0, costi:0, patti:Object.fromEntries(FILIERE.map(f=>[f,false]))};
+}
+function carica(){ try{ const s=localStorage.getItem(CHIAVE); if(s) return Object.assign(nuovo(), JSON.parse(s)); }catch(e){} return nuovo(); }
+function salva(){ try{ localStorage.setItem(CHIAVE, JSON.stringify(stato)); }catch(e){} }
+function esc(s){ return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+function num(v){ const n=parseFloat(String(v).replace(",",".")); return isFinite(n)&&n>0?n:0; }
+function fmt(n,d=0){ return n.toLocaleString("it-IT",{maximumFractionDigits:d,minimumFractionDigits:d}); }
+function catOpts(sel){ return CATEGORIE.map(c=>`<option value="${c.id}"${c.id===sel?" selected":""}>${c.nome}</option>`).join(""); }
+
+function disegnaParniere(){
+  document.getElementById("paniere").innerHTML = CATEGORIE.map(c=>{
+    const p=stato.paniere[c.id];
+    return `<tr><td>${c.nome}</td><td><input type="checkbox" ${p.serve?"checked":""} onchange="stato.paniere['${c.id}'].serve=this.checked;aggiorna()"></td>
+    <td><input type="number" min="0" step="any" value="${p.q}" oninput="stato.paniere['${c.id}'].q=this.value;aggiorna()"></td>
+    <td>${c.unita}</td><td class="small quiet">${c.base}</td></tr>`;}).join("");
+}
+function disegnaScorte(){
+  document.getElementById("scorte").innerHTML = stato.scorte.map((s,i)=>`<tr>
+    <td><input value="${esc(s.bene)}" oninput="stato.scorte[${i}].bene=this.value;aggiorna(false)" aria-label="Bene"></td>
+    <td><select onchange="stato.scorte[${i}].cat=this.value;disegnaScorte();aggiorna()" aria-label="Categoria">${catOpts(s.cat)}</select></td>
+    <td><input type="number" min="0" step="any" value="${esc(s.q)}" oninput="stato.scorte[${i}].q=this.value;aggiorna()" aria-label="Quantità"> <span class="small quiet">${s.cat==="cibo"?"kg":CATEGORIE.find(c=>c.id===s.cat).unita.split(" ")[0]}</span></td>
+    <td>${s.cat==="cibo"?`<input type="number" min="0" step="any" value="${esc(s.kcal)}" oninput="stato.scorte[${i}].kcal=this.value;aggiorna()" aria-label="kcal per kg">`:"<span class='quiet'>—</span>"}</td>
+    <td><input type="date" value="${esc(s.scade)}" onchange="stato.scorte[${i}].scade=this.value;aggiorna()" aria-label="Scadenza"></td>
+    <td><button class="del" onclick="stato.scorte.splice(${i},1);disegnaScorte();aggiorna()" aria-label="Togli">✕</button></td></tr>`).join("");
+}
+function disegnaImpegni(){
+  document.getElementById("impegni").innerHTML = stato.impegni.map((m,i)=>`<tr>
+    <td><input value="${esc(m.chi)}" oninput="stato.impegni[${i}].chi=this.value;aggiorna(false)" aria-label="Produttore"></td>
+    <td><select onchange="stato.impegni[${i}].cat=this.value;disegnaImpegni();aggiorna()" aria-label="Categoria">${catOpts(m.cat)}</select></td>
+    <td><input type="number" min="0" step="any" value="${esc(m.q)}" oninput="stato.impegni[${i}].q=this.value;aggiorna()" aria-label="Quantità"> <span class="small quiet">${CATEGORIE.find(c=>c.id===m.cat).unita.split(" ")[0]}</span></td>
+    <td><input type="checkbox" ${m.firmato?"checked":""} onchange="stato.impegni[${i}].firmato=this.checked;aggiorna()" aria-label="Firmato"></td>
+    <td><button class="del" onclick="stato.impegni.splice(${i},1);disegnaImpegni();aggiorna()" aria-label="Togli">✕</button></td></tr>`).join("");
+}
+function disegnaPatti(){
+  document.getElementById("patti").innerHTML = FILIERE.map(f=>`<label style="color:var(--ink)"><input type="checkbox" ${stato.patti[f]?"checked":""} onchange="stato.patti['${f}']=this.checked;aggiorna()">${f}</label>`).join("");
+}
+function aggiungiScorta(cat="cibo",bene="",kcal=""){ stato.scorte.push({bene,cat,q:"",kcal,scade:""}); disegnaScorte(); aggiorna(); }
+function aggiungiPreset(sel){ const c=CIBI.find(x=>x[0]===sel.value); if(c) aggiungiScorta("cibo",c[0],c[1]); sel.value=""; }
+function aggiungiImpegno(){ stato.impegni.push({chi:"",cat:"cibo",q:"",firmato:false}); disegnaImpegni(); aggiorna(); }
+
+function calcola(){
+  const n=num(stato.partecipanti), oggi=stato.data||new Date().toISOString().slice(0,10);
+  const fine6=new Date(Date.parse(oggi)+182*864e5).toISOString().slice(0,10);
+  const res=[]; const avvisi=[];
+  for(const c of CATEGORIE){
+    const p=stato.paniere[c.id]; if(!p.serve) continue;
+    let scorta=0;
+    for(const s of stato.scorte){ if(s.cat!==c.id) continue;
+      if(s.scade && s.scade<oggi){ avvisi.push(`«${s.bene||"senza nome"}» è già scaduto e non è contato.`); continue; }
+      if(s.scade && s.scade<fine6) avvisi.push(`«${s.bene||"senza nome"}» scade prima di 6 mesi (${s.scade}): conta solo se si consuma prima.`);
+      scorta += c.id==="cibo" ? num(s.q)*num(s.kcal) : num(s.q);
+      if(c.id==="cibo" && num(s.q)>0 && !num(s.kcal)) avvisi.push(`«${s.bene||"senza nome"}»: mancano le kcal per kg, quindi vale zero.`);
+    }
+    const impegni = stato.impegni.filter(m=>m.cat===c.id && m.firmato).reduce((a,m)=>a+num(m.q),0);
+    const alMese = n*num(p.q)*c.mese;
+    const mesi = alMese>0 ? (scorta+impegni)/alMese : (num(p.q)>0?0:Infinity);
+    res.push({c,scorta,impegni,alMese,mesi});
+  }
+  const mesi = res.length ? Math.min(...res.map(r=>r.mesi)) : 0;
+  const casse = num(stato.cassa)>=num(stato.costi);
+  const patti = FILIERE.filter(f=>stato.patti[f]);
+  return {n,res,mesi,casse,patti,avvisi};
+}
+function barra(m,etichette){
+  const max=Math.max(12, isFinite(m)?Math.ceil(m):12), w=Math.min(100,(isFinite(m)?m:max)/max*100);
+  const tacca=v=>`<i style="left:${v/max*100}%"></i>`+(etichette?`<b style="left:${v/max*100}%;transform:translateX(${v>=max?-100:-50}%)">${v} mesi</b>`:"");
+  return `<div class="bar${etichette?" etich":""}" role="img" aria-label="${isFinite(m)?fmt(m,1):"oltre"} mesi su ${max}"><span style="width:${w}%"></span>${tacca(6)}${tacca(12)}</div>`;
+}
+function aggiorna(ridisegna=true){
+  salva();
+  const r=calcola(), m=r.mesi, ok6=m>=6&&r.casse&&r.patti.length===4, ok12=m>=12&&r.casse&&r.patti.length===4;
+  let h=`<h2>Risultato${stato.nome?" — "+esc(stato.nome):""}</h2>`;
+  if(!r.n){ h+=`<p>Scrivi quanti sono i partecipanti.</p>`; document.getElementById("risultato").innerHTML=h; return; }
+  h+=`<p class="big ${m>=6?"ok":m>=3?"mid":"no"}">${isFinite(m)?fmt(m,1):"—"} mesi di Paniere d'emergenza</p>`;
+  h+=`<p class="small quiet">per ${fmt(r.n)} partecipanti. Conta il bene che finisce per primo.</p>`;
+  h+=barra(m,true);
+  h+=r.res.map(x=>`<div class="cat"><span>${x.c.nome}</span><span class="${x.mesi>=6?"ok":"no"}">${isFinite(x.mesi)?fmt(x.mesi,1):"—"} mesi</span></div>${barra(x.mesi)}`).join("");
+  const manca=r.res.filter(x=>x.mesi<6).map(x=>`${x.c.nome}: mancano ${fmt(Math.max(0,6*x.alMese-x.scorta-x.impegni))} ${x.c.id==="cibo"?"kcal":x.c.unita.split(" ")[0]}`);
+  h+=`<h2 style="margin-top:16px">Le condizioni della soglia</h2><ul>
+    <li class="${m>=6?"ok":"no"}">Paniere d'emergenza per 6 mesi: ${m>=6?"sì":"no"}${manca.length?" — "+manca.join("; "):""}</li>
+    <li class="${r.casse?"ok":"no"}">Le casse coprono i costi che restano: ${r.casse?"sì":"no, mancano "+fmt(num(stato.costi)-num(stato.cassa))+" €"}</li>
+    <li class="${r.patti.length===4?"ok":"no"}">Patti firmati in tutte e quattro le filiere: ${r.patti.length===4?"sì":"no, mancano "+FILIERE.filter(f=>!stato.patti[f]).join(", ")}</li></ul>`;
+  h+=`<p><strong class="${ok6?"ok":"no"}">Soglia di 6 mesi: ${ok6?"raggiunta secondo questi dati":"non ancora raggiunta"}.</strong><br><span class="${ok12?"ok":"quiet"}">Soglia di 12 mesi (paese che parte da solo, serve anche il piano per le importazioni): ${ok12?"raggiunta secondo questi dati":"non raggiunta"}.</span></p>`;
+  if(r.avvisi.length) h+=`<details open><summary>Da controllare (${r.avvisi.length})</summary><ul class="small">${r.avvisi.map(a=>`<li>${esc(a)}</li>`).join("")}</ul></details>`;
+  document.getElementById("risultato").innerHTML=h;
+  document.getElementById("aggregato").textContent = JSON.stringify({rete:stato.nome||null, data:stato.data, partecipanti:r.n,
+    mesi_garantiti: isFinite(m)?Math.round(m*10)/10:null,
+    per_bene:Object.fromEntries(r.res.map(x=>[x.c.id, isFinite(x.mesi)?Math.round(x.mesi*10)/10:null])),
+    casse_sufficienti:r.casse, patti:Object.fromEntries(FILIERE.map(f=>[f,!!stato.patti[f]])),
+    paniere_per_persona:Object.fromEntries(CATEGORIE.filter(c=>stato.paniere[c.id].serve).map(c=>[c.id, num(stato.paniere[c.id].q)+" "+c.unita]))}, null, 2);
+}
+function sincronizzaCampi(){
+  for(const id of ["nome","partecipanti","data","cassa","costi"]){
+    const el=document.getElementById(id); el.value=stato[id]??"";
+    el.oninput=()=>{stato[id]=el.value; aggiorna();};
+  }
+}
+function tutto(){ sincronizzaCampi(); disegnaParniere(); disegnaScorte(); disegnaImpegni(); disegnaPatti(); aggiorna(); }
+function salvaFile(){
+  const b=new Blob([JSON.stringify(stato,null,2)],{type:"application/json"}), a=document.createElement("a");
+  a.href=URL.createObjectURL(b); a.download=(stato.nome||"rete").replace(/[^\wàèéìòù-]+/gi,"-")+"-soglia.json"; a.click(); URL.revokeObjectURL(a.href);
+}
+function apriFile(inp){
+  const f=inp.files[0]; if(!f) return; const r=new FileReader();
+  r.onload=()=>{ try{ const d=JSON.parse(r.result);
+    if(d.tipo==="scorte-cerchi"){ if(!Array.isArray(d.scorte)) throw 0;
+      if(stato.scorte.length && !confirm("Sostituire le scorte attuali con quelle dell'inventario «"+(d.magazzino||"senza nome")+"» del "+d.data+"?")) return;
+      stato.scorte=d.scorte.map(s=>({bene:String(s.bene||""),cat:String(s.cat||"cibo"),q:s.q,kcal:s.kcal||"",scade:s.scade||""})); tutto(); return; }
+    stato=Object.assign(nuovo(), d); tutto(); }catch(e){ alert("Il file non è valido."); } };
+  r.readAsText(f); inp.value="";
+}
+function confirmare(){ return confirm("Cancellare tutti i dati inseriti su questo dispositivo?"); }
+function azzera(){ stato=nuovo(); tutto(); }
+
+document.getElementById("preset").innerHTML += CIBI.map(c=>`<option value="${c[0]}">${c[0]} (${fmt(c[1])} kcal/kg)</option>`).join("");
+stato=carica(); tutto();
+</script>
+</body>
+</html>

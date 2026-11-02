@@ -6,9 +6,135 @@ From here on, every accepted change will be recorded on this page with its date,
 
 # Changes
 
+## 2 November 2026 — Those who abstain are not among the voters
+
+Author’s choice. The Constitution and Code 3 spoke of «voters» without saying whether abstainers are included, and the Constitution (Art. 35.1) required the «majority of the participants» while Code 3 required that of the «active participants».
+
+**Definition of voters** (Const., new Art. 35.4 and Art. 35.1; Code 3, Art. 12.3 new letter d). Voters are the persons who vote yes or no. Those who abstain take part in the deliberation and count towards the quorum, but are counted neither among the voters nor in the calculation of majorities. This applies to every threshold that refers to voters: the simple majority of Circle 1, the signatures for the Objection of Conscience or of Ecological Sustainability (10% of voters), the majorities of the General Assembly, of Circle 4 and of amendments to the Constitution.
+
+**Participation of Communities in the General Assembly** (Code 3, Art. 14.6). A Community participates when at least one third of those entitled to vote in it take part in the deliberation, abstainers included.
+
+Versions: Constitution from V.37 to V.38; Code 3 from V1.10 to V1.11. Alignment lines updated in all texts.
+
+## 1 November 2026 — Second consistency review: territory, systems, transition
+
+Second part of the second complete consistency review. All the items that hold up from the reports on territory and resources, systems and transition are applied: 42 items (1 high, 17 medium, 24 low), with 60 changes in 15 texts. The value choices are the author’s.
+
+**Animals in Phases 0 and 1** (Code 16, Art. 3.1 f, 3.2 f and 3.3 f; Annex C, Art. 9.3). If animals live in or are received by the pilot Circle, the Biodiversity Council is established from Phase 0 for the authorisations of Const. 13.3. From Phase 1 it performs the tasks given to it by Codes 8, 9 and 10; from Phase 2 it has all the functions of Code 13.
+
+**Protection of minors in Phases 0 and 1** (Code 16, Art. 3.1 f; Code 15, Art. 21-bis.5 e). Until Code 12 is activated, the Health Council performs the functions of the Care Council under Const. 26.2 and 26.3, also for the associated Community. During the transition the separation of a minor in an associated Community rests with the State, as in the other Circles (Code 12, Art. 7-bis.3-ter).
+
+**The animal after the Corps has entered** (Code 13, Art. 7.3 and new 7.3-bis, Art. 11.4 c; Code 14, Art. 8-ter.3). The Biodiversity Council may order provisional reception for no more than thirty days, which the Guarantee Tribunal validates together with the entry; permanent reception is decided by the Tribunal. The new paragraph allows no entry into a Circle 0 beyond Const. 5.1 a).
+
+**Zoonoses** (Code 13, new Art. 8.7, Art. 7.10). On animals only temporary separation or isolation, care and vaccinations, hygiene of the premises and limitation of contacts are permitted. Killing is prohibited, except for the euthanasia already regulated.
+
+**Food and care of animals** (Code 1, new Art. 32.1-sexies; Code 13, Arts. 4-bis.6 and 7.11). The author’s choice: the minimum food for survival and the urgent veterinary care of the animals that live with the Community, including sanctuaries, fall among the vital emergencies of letter a), without taking anything from levels 1 and 2 of the persons’ Basket, like water (Code 9, Art. 10.8).
+
+**Energy and water in Circles 2 and 3** (Code 8, new Art. 3-bis, Art. 6-bis.7). Storage, balancing, compensation and dispatching are entrusted to a shared Energy and Water Council. Withdrawals from the same river basin are resolved on by the General Assembly or, if the basin includes different Circles 2, by their General Assemblies in agreement.
+
+**Animals, water and sanctuaries** (Code 9, Arts. 6-bis.6, 10.8 and 10.9; Code 13, Arts. 3.3, 4.1 c, 4-bis.5 and 11.3 e; Code 10, Art. 4.1 g). The verification of the animals present at accession has a single time limit, twelve months, and meanwhile the animals remain with the Community without collaborating. Animals already received are transferred only for their welfare, with the veterinary attestation. The area of a sanctuary is designated by the Circle 1 in whose territory it lies. The negative opinion of the Biodiversity Council on new abstractions is binding. The Wildlife Management STV has a time limit.
+
+**Hoarding of energy** (Code 8, Art. 9.2). Accumulation beyond the limits and energy blackmail are a Grade 4 offence, as Const. 15.2 states, and not a “serious procedural defect”.
+
+**Defence and transition** (Code 14, Arts. 8-quinquies.6 and 8-sexies.8; Code 15, Art. 20.4). During the transition the entry of the Corps into a Circle 0 without consent is also limited by the law in force. An animal attacked by another animal may be protected by the same degrees, without killing. The civil defence of Code 15 applies within the limits of the law and sabotage is excluded.
+
+**Systems on external servers** (Code 16, Art. 9-bis.1 c). The author’s choice: they are admitted only if the software and its updates are chosen, verified and installed by the Community. Const. 19.4 does not change.
+
+**Checks before the Network Council exists** (Code 16, new Art. 9-bis.3). In Phase 0 the opinion on dependencies and the verification of updates are given provisionally by two competent persons drawn by lot; their negative opinion remains a prohibition. From Phase 0 voting through the Network follows Code 7, Art. 7-bis.
+
+**Technological sovereignty** (Code 2, Art. 5.2 b; Code 11, Art. 5.7 a and 5.8; Code 7, Arts. 2.1, 5-ter.1 and 7-bis; Code 1, Art. 37.1; Code 16, Art. 4.4 f). Firmware that executes commands or automations covered by an STV does not “propose or decide” within the meaning of Const. 19.4. Vehicles with closed firmware follow the Substitution Plan of Code 2, with a single extension. Proprietary cloud is admitted only during the transition, and to close it the systems admitted under gradual application must be phased out. The software used to vote is open source and the ballot box sits on the nodes of the Communities. For the Storehouse, water and energy the Community AI is advisory only.
+
+**Registers and references** (Code 3, Art. 13.6; Code 7, Art. 3.2 e; Code 11, Art. 6-quater.3; Code 16, Arts. 4.4 e and 10.5). The Register of Assembly Decisions is established; the register of Code 4 has its proper name; the railway protocol follows Art. 14 of Code 3; revision also follows Const. 37; the list of links of Code 16 is updated.
+
+**Emergency Basket and boycott** (Code 16, Arts. 11.2 e and 15.3). The Emergency Basket also goes to the children and dependants of participants. The prohibition on resolving on or financing the boycott also applies to pilot Circles and associated Communities: the boycott remains solely a political choice of persons and the Code regulates only lawful activities.
+
+**Basins and entries** (Code 16, Arts. 1.2 d, 3.2 a, 3.7 b, c and f; Code 15, Art. 21-bis.6). A Basin as a rule has no more than four Circles and, if it exceeds them, may divide without going back a phase. Whoever enters a Basin already in Phase 2, or a Federation that has closed the transition, is verified by the Transition Council of the Federation or by one constituted for that verification alone. The time limits of the Codes activated by phases run from their activation. Before a Basin exists, the tasks of Circle 2 towards the associated Community are performed by the pilot Circles and associated Communities involved and by the panels of Code 4, Art. 37.5. In a Basin made up only of associated Communities the thresholds “on the other units” do not apply.
+
+**Annexes to Code 16** (Annex A, Arts. 2.2 and 4.5; Annex B, Arts. 1.2 d, 7 and 8; Annex C, Art. 10.1; Code 16, Art. 13.3). The questionnaire on perceived safety and the guarantee of the Basket are counted per pilot Circle. For a Circle born from a network the Level 1 meetings take place within ninety days of the conversion. On restart the conditions of the current phase are verified. The external dissemination of Annex B applies during the transition. The verification of thresholds is carried out by the Transition Council. The data of the pacts with those who work in the essential supply chains pass, with the person’s consent, to the Circle of their territory.
+
+**Core and legality.** No change touches the Constitution, Art. 37.4 or the articles it names. The new Code 13, Art. 7.3-bis and Code 14, Art. 8-quinquies.6 do not widen the exception of Const. 5.1 a). Const. 38.6 is unchanged.
+
+Reason: reports of the second consistency review (`territorio`, `sistemi`, `transizione`), with the author’s choices on the food and care of animals and on systems hosted on external servers. With part 1, the second complete review is applied in full (VERIFICA-COERENZA.md).
+
+Versions: Code 1 from V1.11 to V1.12; Code 2 from V1.8 to V1.9; Code 3 from V1.9 to V1.10; Code 7 from V1.9 to V1.10; Code 8 from V1.6 to V1.7; Code 9 from V3.3 to V3.4; Code 10 from V1.7 to V1.8; Code 11 from V1.5 to V1.6; Code 13 from V1.8 to V1.9; Code 14 from V1.9 to V1.10; Code 15 from V1.11 to V1.12; Code 16 from V1.9 to V1.10; Annexes A and C to Code 16 from V1.3 to V1.4; Annex B from V1.6 to V1.7. The Constitution remains V.37.
+
+## 1 November 2026 — Second consistency review: power, economy, persons
+
+First part of the second complete consistency review, which looks for the cross-effects of the corrections made between 19 and 29 October. The items that hold up from the reports on power and justice, economy and work, and persons are applied. The value choices are the author’s.
+
+**The young person who leaves at sixteen** (Const. 26.5 and 4.9-ter; Code 12, Art. 7-ter.8; Code 1, Arts. 13.3 and 47.3-bis; Code 4, Art. 32-bis.2 a). They may stay in the family home, with the consent of those who live there, until eighteen: they receive the Basket in their own right and Art. 4.9-ter does not apply to them. At eighteen they choose whether to join, to live with the Pact or to leave; silence does not count as joining. Their stay is not the hospitality of Art. 4.9 b), which remains unchanged.
+
+**How a child becomes a member** (Code 12, new Art. 7-ter.4-bis). A child is a member from birth, or from arrival, if at least one of the persons caring for them is a member; otherwise the child joins under the age rules of Art. 26.5. A person who was a member as a minor for at least one year has “grown up in the Confederation”.
+
+**Children of cohabitants in associated Communities** (Code 15, Art. 21-bis.9, new letter g). They have the same rights as the children of those living with the Pact and, for immediate vital needs, coverage of deficits by the Pool.
+
+**A minor whom no one is caring for** (Code 12, Art. 7-bis.3-bis). The Guarantee Tribunal also decides when no one exercises responsibility for care or more than one person claims it, and indicates who assumes it.
+
+**Coercive measures on minors** (Code 6, Art. 2-ter.2; Code 12, Art. 9.1 g). Whoever gives consent for a minor may not consent to a coercive measure: the limits of Art. 8 of Code 6 apply, as for adults.
+
+**Minimum age for offices drawn by lot** (Code 3, Art. 12-bis.4; Code 4, Art. 27.4; Code 14, Art. 8-bis.3; Code 5, Art. 6.4). Eighteen for the Councils, the bodies of justice, the Civic Protection Corps and the spokespersons; from sixteen, people take part alongside the members, without a vote (in the Corps without containment or use of force).
+
+**Support for starting an autonomous life** (Code 1, new Art. 49.6; Code 15, Art. 17.3). It comprises at least the bridge CBO and the Bridge House allocation; for those who leave the Confederation, the Personal-Use Goods, the means for the move and a sum from the common Fund set every year by the Assembly. It is proposed by the Care Council; appeal to the Guarantee Circle.
+
+**Those who left as minors** (Code 5, Art. 6.6-bis). They may choose at any time as readmission; silence does not make them members.
+
+**Readmission of those who become exempt** (Code 4, Art. 29.6-bis f). Someone who lost member status for refusing the CBO and has since become exempt or prevented is readmitted without any other condition.
+
+**Autonomy of a minor in an associated Community** (Code 15, Art. 21-bis.5 e). The Competences Council also takes part in the assessment, as in Code 12.
+
+**Health experimentation** (Code 6, Art. 10.5 and 10.7 e). The prohibition without consent applies to every person. In the exceptional case of a single minor or incapacitated person, authorisation is given by the Guarantee Tribunal, confidentially, within seven days or twenty-four hours, instead of by the General Assembly.
+
+**Essential energy** (Code 1, Art. 13.3; Code 4, Art. 29.6-bis d). Even a person who lost member status for refusing the CBO retains the energy essential to health and survival (Const. 15.2; Code 8, Art. 4.2).
+
+**Cohabitants in associated Communities and common goods** (Const. 4.5; Code 15, Art. 21-bis.9 a). The Pool also covers drinking water, emergency care and essential energy for them; otherwise their needs are not included in calculating the deficit. They do not draw from the Storehouses of the other Communities and of Circles 2 and 3; what they receive from the Community that hosts them, including from its Storehouse, is borne by that Community.
+
+**External services** (Code 2, Art. 23.1 e). As for goods (item C61), the Quality Council proposes and the body indicated by the matrix of Code 3 decides.
+
+**Appeals on the Pool** (Code 15, Art. 9-bis.6). Against allocation decisions the verification by the Review Panel replaces the appeal of Code 3, Art. 17.1-bis, which remains only for defects of procedure and of competence.
+
+**UCR method** (Code 3, Art. 9.3; UCR draft, section 2). It is proposed by the shared Accounting Council of Circle 2; for Circle 3 and between different Circles 2 the method approved by Circle 3 applies or, failing that, that of the Circle 2 that holds the resource. In the draft, the hours-per-euro coefficient is part of the method; only conversions from UCR to euros are indicative.
+
+**Wording** (Const. 10.5 and 32.2; C.1-Annex A, Art. 5.5; Code 1, Arts. 44.6 and 47-ter.4 a). “Union” becomes “higher Circle” and “Intermediate Circle”. The derogation of Annex A is granted by the Assembly of Circle 1, except in an “immediate and documented collective risk” (no longer an “extreme emergency”). CdR are also suspended during a suspension ordered by the Grade 3 Plan. The Bridge House for those without a home has no time limit, even beyond the thirty days of the allocation.
+
+**Cohabitants and justice** (Code 4, Art. 32-bis, new paragraph 1-bis, Art. 32-bis.2 a, Art. 37.1). For a cohabitant of an associated Community the measures linked to member status do not apply; instead the Tribunal may order protective removal from the Community, with the offer of the Pact elsewhere. The removal procedure of 4.9-ter does not apply to them. During the transition Chapter V applies to them if they accept it when they are accommodated.
+
+**The Civic Protection Corps where there is none** (Code 14, Art. 8-bis.1; Code 15, Art. 21-bis.5 f). For an associated Community that has no Corps, Circle 2 activates the members on duty in the nearest Communities. An internal body that stands in for the Corps follows the rules of the Corps, and its entry into a Circle 0 is validated by the Tribunal.
+
+**General Assembly and spokespersons** (Code 3, new Art. 14.1-bis, Art. 14-bis.5). Each Community draws by lot a spokesperson for a cycle of ninety days, revocable by its Assembly. The spokespersons convene the General Assembly at the request of a Circle 1, a shared Council, the Storehouse Council or one tenth of those entitled to vote; when a Code sets a time limit, convening it is mandatory. The report proposed one year: Const. 4.4 a), which is in the Core, does not allow more than ninety days.
+
+**Validation of the entry of the Corps** (Code 4, new Art. 34.2-bis; Code 14, Arts. 8-ter.3 and 10.1 a). It is now written what the Tribunal verifies when the Corps enters a Circle 0, including for an animal, and what it may order.
+
+**Second Tribunal and Review Panel** (Const. 31.6 and 31.3 e; Code 4, Art. 37.5). As long as there is only one Circle 2, the second Tribunal is drawn by lot in accordance with Code 4; once the Basin is constituted, Art. 35.2 prevails. The Review Panel also carries out the verifications that the Codes assign to it.
+
+**Common bodies and associated Communities** (Code 15, Arts. 21-bis.5 c and 9-bis.2; Code 3, Art. 12-bis.6-bis a). Refusal of the contribution of work is dealt with by the common bodies from the first report; suspension of the CdR only where the CdR has been adopted. The members of the Storehouse Council of Circles 2 and 3 may also be revoked by their Community. In the shared Councils associated Communities take part on the same conditions, through their equivalent internal bodies.
+
+**Register.** The entry of 29 October 2026 now states that the exception of Art. 5.1 a) is protected by the Core, while that for cohabitants refers to Art. 4.5 and to Code 15, which can be amended by their own procedures, and that from 1 November 2026 the exception of Art. 26.5 for minors also applies.
+
+**Inviolable Core.** No change touches Art. 37.4 or the articles it names. Art. 4.9-ter receives only a reference to Art. 26.5; as a precaution it is treated, like the changes of 29 October, as a rewriting of the text before any accession (Const. 38.1).
+
+Reason: reports of the second consistency review (`potere`, `economia`, `persone`), with the author’s choices on leaving at sixteen and on the age for sortition. The items on territory, systems and transition follow separately.
+
+Versions: Constitution from V.36 to V.37; Code 1 from V1.10 to V1.11; C.1-Annex A from V1.6 to V1.7; Code 2 from V1.7 to V1.8; Code 3 from V1.8 to V1.9; Code 4 from V1.9 to V1.10; Code 5 from V1.6 to V1.7; Code 6 from V1.8 to V1.9; Code 12 from V1.6 to V1.7; Code 14 from V1.8 to V1.9; Code 15 from V1.10 to V1.11.
+
+## 29 October 2026 — Inviolable Core: animals in Circle 0; cohabitants in associated Communities
+
+**Animals in Circle 0** (Const. 5.1 a; Code 14, Art. 8-ter.2 and 8-ter.3, Art. 8-sexies.8). The Civic Protection Corps may enter a Circle 0, even without the consent of those who live there, to bring to an end ongoing ill-treatment that endangers the life of an animal or causes it severe suffering. It acts, where possible, through the Community Medical and Veterinary Rescue function, limits itself to ending the ill-treatment and rescuing the animal, and the entry is validated by the Guarantee Tribunal within twenty-four hours, like an entry to protect persons; to do so it may use non-injurious containment. Anyone who witnesses ill-treatment this serious in a Circle 0 calls the Corps, as well as reporting it to the Biodiversity Council and to the Guarantee Circle. Anyone who is not part of the Corps still may not enter without consent to defend an animal.
+
+**Cohabitants in associated Communities** (Const. 4.5, 4.9 b and 4.9-ter; Code 15, Art. 21-bis.8 and new 21-bis.9). Anyone who lives permanently in an associated Community without joining may stay there in accordance with its internal order. They are the responsibility of the Community that hosts them: they do not draw from the Common Storehouses or from the Pool and do not receive CdR. The Community’s share of work at the boundary is calculated on all the persons who live there, members and non-members. They do not vote in the General Assemblies and are not entered on the sortition lists of the common bodies. They retain the guarantees of Art. 1.3 and appeal to the common bodies; the work they do for the Community is voluntary and may not be demanded. They may join at any time and are informed in writing every year of this right. If non-members outnumber members, Circle 2 verifies every year that there is no exploitation. In all other cases, including when the internal order no longer accommodates the person, the fourteen-day hospitality limit (Art. 4.9 b) and Art. 4.9-ter remain unchanged. From 1 November 2026 the exception of Art. 26.5 also applies to a minor who remains in his or her own Circle 0 after leaving.
+
+**Change to the Inviolable Core.** Art. 5.1 a) is part of the Inviolable Core (Const. 37.4 f), and so is Art. 4.9 (37.4 j). The Core cannot be revised (Const. 37.4 and 38.4): this is not a revision, but a rewriting of the text by the author before any accession, possible only because the system has not yet been adopted by any Community and the Constitution is not in force for any Community (Const. 38.1). It is the same route followed on 19 October 2026 for item C1-bis. After the first accession it could no longer be done. The two exceptions are written in the smallest possible way: one sentence in Art. 5.1 a) and, in Arts. 4.9 b) and 4.9-ter, a reference to Art. 4.5. Once in force, the exception of Art. 5.1 a) is protected by the Core: a revision will not be able to extend it; the one for cohabitants refers to Art. 4.5 and to Code 15, which can be amended by their own procedures, but it cannot apply outside associated Communities (clarification of 1 November 2026).
+
+**Registers and frequently asked questions.** The entry of 26 October 2026 now notes that the two proposals not applied at the time are applied now. In the question “How is it built?” the Community enters the Care Nucleus to protect someone “or, in serious cases, an animal”.
+
+Reason: the author’s decisions on item D4 of the report on personal defence and on item M1, second part, of the report on associated Communities (consistency review of 26 October 2026). Until now an animal seriously ill-treated inside a home could not be protected by anyone: the Code referred to the Corps, which could not enter. And someone who has lived for years in a community that becomes associated, without joining, for example a spouse, would have had to leave after fourteen days or request the Autonomous Coexistence Pact. The Inviolable Core is rewritten only because the system has not yet been adopted by any Community (Const. 38.1).
+
+Versions: Constitution from V.35 to V.36, Code 14 from V1.7 to V1.8, Code 15 from V1.9 to V1.10.
+
 ## 29 October 2026 — Spanish translation of the rules
 
 The Constitution, the sixteen Codes and the four Annexes have been translated into Spanish (`testi/es/registro/`) and published on the website with their change log (`CAMBIOS.md`) and the PDF and ODT files to download; the answers to the questions in Spanish now link to the Spanish articles. No rule changes in substance. This is a working translation, to be reviewed by native Spanish speakers; the terminology is fixed in `testi/es/GLOSARIO.md`. The Italian text is the authoritative one.
+
+The service pages are translated too: the register of parameters to be verified, the three technical drafts (Basket, UCR, CdR), the archive of the proposals and their adversarial review (`testi/es/borradores/`); the Spanish version of the website now links to these pages. The consistency review remains in Italian, as for English and French.
 
 ## 27 October 2026 — Code 3: approval of the UCR Annex; technical drafts aligned
 
@@ -71,7 +197,7 @@ A targeted consistency review re-read the new provisions of 19–26 October (per
 
 **Registers and frequently asked questions.** The description of the rule on objects in the entry of 20 October on personal defence is corrected. The frequently asked question “Does a community that already exists have to change its way of life to join?” is corrected.
 
-Reason: targeted consistency review of 26 October 2026; the author’s decisions on associated Communities, on the Pool, on the vital Common Good and on the attacking animal. The Inviolable Core and Const. 38.6 are not touched. Two proposals that would have touched the Core are not applied: the entry of the Corps into a Circle 0 for an animal (Const. 5.1 a) and the derogation from the hospitality limit of Art. 4.9 for those who live in an associated Community without joining.
+Reason: targeted consistency review of 26 October 2026; the author’s decisions on associated Communities, on the Pool, on the vital Common Good and on the attacking animal. The Inviolable Core and Const. 38.6 are not touched. Two proposals that would have touched the Core are not applied: the entry of the Corps into a Circle 0 for an animal (Const. 5.1 a) and the derogation from the hospitality limit of Art. 4.9 for those who live in an associated Community without joining. The two proposals were applied, with a rewriting of the Core before any accession, in the entry of 29 October 2026.
 
 Versions: Constitution from V.34 to V.35, Code 1 from V1.9 to V1.10, Code 4 from V1.8 to V1.9, Code 13 from V1.7 to V1.8, Code 14 from V1.6 to V1.7, Code 15 from V1.8 to V1.9, Code 16 from V1.8 to V1.9, Annex C to Code 16 from V1.2 to V1.3.
 

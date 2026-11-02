@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 10 — HABITAT E TERRITORIO"
 breve: "Codice 10 — Habitat e territorio"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "codici"
 ordine: 10
 id: "codice-10"
 slug: "codice-10"
-allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; Codice 4 V1.9; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.8; Codice 14 V1.7; Codice 15 V1.9; Codice 16 V1.9."
+allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.11; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.12; Codice 16 V1.10."
 ---
 
 ## Art. 1 — Oggetto, definizioni e natura giuridica
@@ -150,7 +150,7 @@ La deroga è deliberata dall’Assemblea su proposta del Consiglio Agroecologico
 
     f) fasce di rispetto;
 
-    g) boschi, aree umide e aree seminaturali;
+    g) boschi, aree umide, aree seminaturali e santuari;
 
     h) rifugi per impollinatori, campi, banche semi e infrastrutture previste dai Codici 8 e 9;
 

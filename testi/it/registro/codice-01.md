@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 1 — DEL CONTRIBUTO DI BASE OBBLIGATORIO E DEL SISTEMA DEI MAGAZZINI COMUNI"
 breve: "Codice 1 — Contributo di base e Magazzini comuni"
-versione: "V1.10"
+versione: "V1.12"
 gruppo: "codici"
 ordine: 1
 id: "codice-01"
 slug: "codice-01"
-allineamento: "Costituzione V.35; Codice 2 V1.7; Codice 3 V1.8; Codice 4 V1.9; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.8; Codice 14 V1.7; Codice 15 V1.9; Codice 16 V1.9."
+allineamento: "Costituzione V.38; Codice 2 V1.9; Codice 3 V1.11; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.12; Codice 16 V1.10."
 ---
 
 ## TITOLO I — PRINCIPI GENERALI
@@ -286,7 +286,7 @@ allineamento: "Costituzione V.35; Codice 2 V1.7; Codice 3 V1.8; Codice 4 V1.9; C
 
     c) conservazione dei beni comuni e prevenzione dell’accumulo privato e dello spreco.
 
-3.  L’accesso ai beni necessari inclusi nel Paniere non può essere condizionato allo svolgimento del CBO o al possesso di CdR. Il comma 1, il presente comma, l’articolo 18, comma 1, lettera a), e le disposizioni degli Allegati e degli altri Codici che escludono la subordinazione del Paniere al CBO riguardano i membri e le persone accolte secondo i Codici. Alla persona che ha cessato di essere membro ai sensi dell’articolo 7.3-bis della Costituzione e dell’articolo 29, comma 6-bis, del Codice 4 spettano soltanto l’acqua potabile e le cure d’emergenza salvavita previste dagli articoli 1.3 e 4.9 della Costituzione. Restano integri i diritti dei suoi figli minori.
+3.  L’accesso ai beni necessari inclusi nel Paniere non può essere condizionato allo svolgimento del CBO o al possesso di CdR. Il comma 1, il presente comma, l’articolo 18, comma 1, lettera a), e le disposizioni degli Allegati e degli altri Codici che escludono la subordinazione del Paniere al CBO riguardano i membri e le persone accolte secondo i Codici, compreso il minore che resta nel proprio Cerchio 0 ai sensi dell’articolo 26.5 della Costituzione. Alla persona che ha cessato di essere membro ai sensi dell’articolo 7.3-bis della Costituzione e dell’articolo 29, comma 6-bis, del Codice 4 spettano soltanto l’acqua potabile e le cure d’emergenza salvavita previste dagli articoli 1.3 e 4.9 della Costituzione e l’energia essenziale alla salute e alla sopravvivenza dell’articolo 15.2 della Costituzione e dell’articolo 4, comma 2, del Codice 8. Restano integri i diritti dei suoi figli minori.
 
 ### Art. 14 — Tipologie e articolazione territoriale
 
@@ -563,6 +563,8 @@ d) per gli altri beni e servizi del Paniere, compresi l’acqua, la salute, il P
 
 Le stesse espressioni non indicano i Cerchi.
 
+1-sexies. L’alimentazione minima necessaria alla sopravvivenza e le cure veterinarie urgenti degli animali che vivono con la Comunità, compresi quelli accolti nei santuari, rientrano nella lettera a) del comma 1, senza compromettere i livelli 1 e 2 del Paniere umano, come l’acqua minima prevista dall’articolo 10, comma 8, del Codice 9.
+
 2.  La gerarchia costituisce un criterio prevalente per risolvere i conflitti di capacità, ma non opera come automatismo privo di valutazione delle circostanze concrete.
 
 3.  È ammessa una deroga motivata quando sia necessario prevenire un danno maggiore, immediato e documentato, come un guasto idrico che comprometta i Magazzini, un’interruzione energetica, un rischio di crollo o un’interruzione della catena del freddo. In tal caso:
@@ -612,7 +614,7 @@ Le stesse espressioni non indicano i Cerchi.
 
 ### Art. 37 — Rete informativa e sovranità digitale
 
-1.  La Rete informativa è l’infrastruttura comune che collega Cerchi, Magazzini, Logistica e sistemi di rilevazione dei fabbisogni. È gestita su infrastrutture comunitarie e, per quanto possibile, con software libero e standard aperti.
+1.  La Rete informativa è l’infrastruttura comune che collega Cerchi, Magazzini, Logistica e sistemi di rilevazione dei fabbisogni. È gestita su infrastrutture comunitarie, con software libero e standard aperti, ai sensi dell’articolo 19.4 della Costituzione e dell’articolo 9-bis del Codice 16.
 2.  Il ricorso a piattaforme private proprietarie esterne per dati o funzioni essenziali è vietato, salvo transizione temporanea motivata e registrata secondo il Codice 15.
 3.  I dati generati dalle attività dei CBO e dei Magazzini sono gestiti come risorse comuni, nel rispetto dei diritti delle persone cui i dati si riferiscono e delle regole dei Codici 6 e 7.
 4.  L’apertura del codice sorgente non elimina il rischio di concentrazione del controllo. La governance delle modifiche, della distribuzione e dell’accesso è disciplinata dall’articolo 38 e dal Codice 7.
@@ -728,7 +730,7 @@ f) sono escluse le attività di culto, quelle riservate a una parte dei membri e
 3.  I CdR non impiegati conservano il proprio valore per dodici mesi dalla maturazione. Dal compimento del dodicesimo mese il valore si riduce in proporzione al tempo, di un dodicesimo del valore iniziale al mese, fino a estinguersi al compimento del ventiquattresimo. La maturazione coincide con il giorno in cui l’attività è stata svolta. Ai fini dell’impiego e del tetto ogni CdR conta per il valore che ha in quel momento.
 4.  I parametri dei commi 2 e 3 sono calibrati ogni anno dall’Assemblea Generale del Cerchio 2, entro i limiti eventualmente posti dall’Assemblea Generale del Cerchio 3. La calibrazione non può eliminare il tetto né la decrescenza.
 5.  Alla morte della persona o alla cessazione dello status di membro i CdR si estinguono.
-6.  Durante la sospensione prevista dall’articolo 7.3 della Costituzione, disposta ai sensi dell’articolo 29, comma 4-bis, del Codice 4, i CdR non possono essere maturati né impiegati.
+6.  Durante la sospensione prevista dall’articolo 7.3 della Costituzione, disposta ai sensi dell’articolo 29, commi 2 e 4-bis, del Codice 4, i CdR non possono essere maturati né impiegati.
 
 ### Art. 45 — Impiego
 
@@ -763,7 +765,7 @@ f) sono escluse le attività di culto, quelle riservate a una parte dei membri e
 2.  La proprietà d’uso di un’abitazione, di un laboratorio, di un campo o di uno strumento collettivo, ai sensi dell’articolo 10.2 della Costituzione, è registrata presso il Consiglio di Magazzino e, per i profili territoriali, nel Catasto previsto dal Codice 10. Si fonda sull’uso effettivo e continuativo.
 3.  La proprietà d’uso cessa per rinuncia, per mancato uso protratto oltre dodici mesi senza giustificazione o per violazione dei limiti dell’articolo 10.4 della Costituzione, accertata secondo il Codice 4. L’abitazione principale non può essere revocata senza l’assegnazione di un altro alloggio adeguato, salvo i casi del comma 3-bis.
 
-3-bis. La proprietà d’uso dell’abitazione cessa inoltre con il trasferimento in un’altra Comunità ai sensi dell’articolo 49, con la dichiarazione dell’articolo 4.8 della Costituzione e con la cessazione dello status prevista dall’articolo 7.3-bis della Costituzione. Resta salva la continuità abitativa dei conviventi dello stesso Cerchio 0, ai sensi dell’articolo 3.7 della Costituzione. Nel caso del trasferimento l’abitazione è lasciata al termine della dotazione di Casa Ponte dell’articolo 49, comma 3; nel caso della dichiarazione dell’articolo 4.8, al termine dell’ospitalità dell’articolo 4.9, lettera b), della Costituzione, salvo che la persona chieda il Patto di Convivenza Autonoma: in tal caso resta nell’abitazione fino alla consegna della porzione, ai sensi dell’articolo 4-bis, comma 7, del Codice 10, e l’abitazione può esserle affidata con il Patto ai sensi dell’articolo 4.9-bis della Costituzione. Per chi resta senza Patto si applica l’articolo 4.9-ter della Costituzione. Nel caso dell’articolo 7.3-bis della Costituzione si applica l’articolo 29, comma 6-bis, del Codice 4.
+3-bis. La proprietà d’uso dell’abitazione cessa inoltre con il trasferimento in un’altra Comunità ai sensi dell’articolo 49, con la dichiarazione dell’articolo 4.8 della Costituzione e con la cessazione dello status prevista dall’articolo 7.3-bis della Costituzione. Resta salva la continuità abitativa dei conviventi dello stesso Cerchio 0, ai sensi dell’articolo 3.7 della Costituzione. Nel caso del trasferimento l’abitazione è lasciata al termine della dotazione di Casa Ponte dell’articolo 49, comma 3; nel caso della dichiarazione dell’articolo 4.8, al termine dell’ospitalità dell’articolo 4.9, lettera b), della Costituzione, salvo che la persona chieda il Patto di Convivenza Autonoma: in tal caso resta nell’abitazione fino alla consegna della porzione, ai sensi dell’articolo 4-bis, comma 7, del Codice 10, e l’abitazione può esserle affidata con il Patto ai sensi dell’articolo 4.9-bis della Costituzione. Per chi resta senza Patto si applica l’articolo 4.9-ter della Costituzione, salvo, per il minore, l’articolo 26.5 della Costituzione. Nel caso dell’articolo 7.3-bis della Costituzione si applica l’articolo 29, comma 6-bis, del Codice 4.
 
 4.  Il divieto di accumulo privato oltre sette giorni del fabbisogno familiare, previsto dall’articolo 10.5 della Costituzione, riguarda i beni prelevati dai Magazzini. Sono fatte salve le necessità motivate, in particolare sanitarie, stagionali o di isolamento.
 
@@ -811,7 +813,7 @@ f) sono escluse le attività di culto, quelle riservate a una parte dei membri e
 
 4.  Quando gli alloggi non bastano:
 
-    a) nessuno resta senza riparo: in attesa dell’assegnazione è assegnato il migliore alloggio disponibile ai sensi dell’articolo 47-bis, comma 5, o un posto in una Casa Ponte, senza il limite di durata dell’articolo 12.3 della Costituzione, e in mancanza un’area di sosta attrezzata ai sensi dell’articolo 6-ter, comma 6, del Codice 11;
+    a) nessuno resta senza riparo: in attesa dell’assegnazione è assegnato il migliore alloggio disponibile ai sensi dell’articolo 47-bis, comma 5, o un posto in una Casa Ponte, senza limite di durata e anche oltre la dotazione dell’articolo 49, comma 3, e in mancanza un’area di sosta attrezzata ai sensi dell’articolo 6-ter, comma 6, del Codice 11;
 
     b) la pianificazione dà la precedenza al riuso e al recupero degli edifici, ai sensi degli articoli 2 e 5 del Codice 10;
 
@@ -840,3 +842,4 @@ f) sono escluse le attività di culto, quelle riservate a una parte dei membri e
 3.  Per lo stesso periodo la persona ha diritto alla dotazione di Casa Ponte: alloggio in una Casa Ponte, accesso al Paniere e mezzi necessari al trasferimento degli effetti personali, secondo il Codice 11. La dotazione non richiede CdR.
 4.  La Comunità di destinazione assegna un alloggio d’uso secondo la disponibilità. Fino all’assegnazione l’ospitalità prosegue ai sensi dell’articolo 12.3 della Costituzione. Se la disponibilità manca, il Cerchio 2 assiste nella ricerca di un’altra collocazione.
 5.  La ricollocazione non può produrre annotazioni o conseguenze pregiudizievoli per la persona.
+6.  Il sostegno all’avvio della vita autonoma dell’articolo 26.4 della Costituzione comprende almeno la dotazione dei commi 2 e 3. Per chi sceglie di lasciare la Confederazione comprende i Beni d’Uso Personale, i mezzi per il trasferimento e una somma della Cassa comune stabilita ogni anno dall’Assemblea, ai sensi dell’articolo 17 del Codice 15. Lo propone il Consiglio Cura; contro la decisione è ammesso ricorso al Cerchio di Garanzia.

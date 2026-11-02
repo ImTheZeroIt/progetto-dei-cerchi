@@ -1,12 +1,12 @@
 ---
 titolo: "C.1-ANNEX A — PRODUCCIÓN MATERIAL Y TALLERES"
 breve: "Anexo A al Código 1 — Producción material y talleres"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "allegati"
 ordine: 1.5
 id: "codice-01-annex-a"
 slug: "codigo-01-anexo-a"
-allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1.8; Código 4 V1.9; Código 5 V1.6; Código 6 V1.8; Código 7 V1.9; Código 8 V1.6; Código 9 V3.3; Código 10 V1.7; Código 11 V1.5; Código 12 V1.6; Código 13 V1.8; Código 14 V1.7; Código 15 V1.9; Código 16 V1.9."
+allineamento: "Constitución V.38; Código 1 V1.12; Código 2 V1.9; Código 3 V1.11; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 7 V1.10; Código 8 V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 15 V1.12; Código 16 V1.10."
 ---
 
 ## Art. 1 — Objeto, definiciones y naturaleza jurídica
@@ -197,7 +197,7 @@ e) son aplazables conforme al artículo 32, apartado 1-bis, del Código 1, salvo
 
 4.  La verificación se registra en la documentación técnica o en la STV aplicable. Se promueve la autoconstrucción cuando se realiza con competencias L2 validadas, componentes estándar y soluciones reparables y documentadas.
 
-5.  Para los niveles 4 y 5 se prohíbe la producción de objetos nuevos que dependan estructuralmente de componentes propietarios no reparables localmente. La Asamblea General puede conceder una excepción por mayoría calificada, con motivación técnica documentada y en las condiciones siguientes:
+5.  Para los niveles 4 y 5 se prohíbe la producción de objetos nuevos que dependan estructuralmente de componentes propietarios no reparables localmente. La Asamblea del Círculo 1 puede conceder una excepción por mayoría calificada, con motivación técnica documentada y en las condiciones siguientes:
 
     a) se demuestra la imposibilidad de una solución alternativa adecuada;
 
@@ -209,7 +209,7 @@ e) son aplazables conforme al artículo 32, apartado 1-bis, del Código 1, salvo
 
     e) el plan se reexamina al menos cada seis meses.
 
-    La excepción no puede superar en total veinticuatro meses, salvo emergencia extrema conforme al artículo 2-bis del Código 6. Toda dependencia crítica resultante se inscribe en el Registro de Dependencias según el Código 15.
+    La excepción no puede superar en total veinticuatro meses, salvo riesgo colectivo inmediato y documentado conforme al artículo 2-bis del Código 6. Toda dependencia crítica resultante se inscribe en el Registro de Dependencias según el Código 15.
 
 ## Art. 6 — Talleres, red federada y medición
 

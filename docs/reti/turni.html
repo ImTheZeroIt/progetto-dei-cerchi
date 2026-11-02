@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Turni del lavoro comune — Progetto dei Cerchi</title>
+<meta name="description" content="Strumento per le reti di mutuo aiuto e i Cerchi pilota: turni a rotazione del lavoro comune, distribuiti in modo equo, senza classifiche.">
+<style>
+:root{--bg:#fbfaf7;--card:#fff;--ink:#1d2321;--quiet:#5d6763;--line:#d9dcd6;--accent:#0e6656;--accent-soft:#e2efeb;--good:#1d7a46;--warn:#a46a00;--bad:#b3261e;--field:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#141817;--card:#1c2120;--ink:#e7ebe8;--quiet:#a3ada8;--line:#333a37;--accent:#5fbfa8;--accent-soft:#1f3631;--good:#6cc58f;--warn:#e0b04f;--bad:#f08a80;--field:#232927}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:1060px;margin:0 auto;padding:24px 16px 64px}
+h1{font-size:1.6rem;margin:.2em 0}h2{font-size:1.15rem;margin:0 0 .6em}p{margin:.4em 0}a{color:inherit}
+.quiet{color:var(--quiet)}.small{font-size:.875rem}
+section{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px;margin:16px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;align-items:end}
+label{display:block;font-size:.9rem;color:var(--quiet)}
+input,select{font:inherit;color:var(--ink);background:var(--field);border:1px solid var(--line);border-radius:6px;padding:6px 8px;width:100%}
+input[type=checkbox]{width:auto}
+table{width:100%;border-collapse:collapse;font-size:.93rem}
+th,td{text-align:left;padding:6px 4px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-weight:600;color:var(--quiet);font-size:.85rem}
+td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}
+.table-wrap{overflow-x:auto}
+button{font:inherit;border:1px solid var(--accent);background:var(--accent);color:#fff;border-radius:6px;padding:6px 12px;cursor:pointer}
+button.secondary{background:transparent;color:var(--accent)}
+button.del{background:transparent;color:var(--bad);border-color:transparent;padding:2px 6px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:10px}
+.tabs{display:flex;gap:4px;flex-wrap:wrap;margin-top:16px}
+.tabs button{background:transparent;color:var(--ink);border-color:var(--line)}
+.tabs button[aria-selected=true]{background:var(--accent);color:#fff;border-color:var(--accent)}
+.days{display:flex;gap:4px;flex-wrap:wrap}
+.days label{display:flex;align-items:center;gap:2px;color:var(--ink);font-size:.85rem}
+.note{background:var(--accent-soft);border-radius:8px;padding:10px 12px;font-size:.92rem}
+.ok{color:var(--good)}.mid{color:var(--warn)}.no{color:var(--bad)}
+.slot{display:block;margin:2px 0}
+.slot select{padding:2px 4px;font-size:.88rem;width:auto;min-width:160px}
+.tag{font-size:.75rem;border:1px solid currentColor;border-radius:99px;padding:0 6px;margin-left:4px;color:var(--warn)}
+[hidden]{display:none!important}
+@media print{button,.row,.tabs,.no-print{display:none}section{break-inside:avoid}.slot select{border:none;appearance:none}}
+</style>
+</head>
+<body>
+<main>
+<p class="small quiet"><a href="../index.html">Progetto dei Cerchi</a> · <a href="index.html">Strumenti per le reti</a> · versione di prova 0.1</p>
+<h1>Turni del lavoro comune</h1>
+<p>Il lavoro che serve a tutti, diviso a rotazione tra chi può, in modo che a ciascuno ne resti poco e i compiti pesanti girino (Costituzione, art. 7; Codice 1). Nelle reti di quartiere il lavoro è volontario; nei Cerchi pilota è il Contributo di Base.</p>
+<p class="note">I dati restano su questo dispositivo. Basta un nome o un soprannome: niente dati personali. Le ore di ciascuno servono solo a dividere il lavoro in modo giusto e sono mostrate in ordine alfabetico, mai come classifica (Cod. 7, art. 2).</p>
+
+<div class="tabs" role="tablist">
+<button role="tab" aria-selected="true" data-tab="persone">1. Persone</button>
+<button role="tab" aria-selected="false" data-tab="compiti">2. Compiti</button>
+<button role="tab" aria-selected="false" data-tab="turni">3. Turni</button>
+<button role="tab" aria-selected="false" data-tab="file">Salva</button>
+</div>
+
+<section data-pane="persone">
+<h2>Persone disponibili</h2>
+<div class="grid no-print">
+<div><label for="p-nome">Nome o soprannome</label><input id="p-nome"></div>
+<div><button onclick="nuovaPersona()">Aggiungi</button></div>
+</div>
+<div class="table-wrap" style="margin-top:12px"><table>
+<thead><tr><th>Nome</th><th>Giorni in cui può</th><th>Ore massime a settimana</th><th>In pausa</th><th></th></tr></thead>
+<tbody id="tab-persone"></tbody>
+</table></div>
+<p class="small quiet">«In pausa»: malattia, gravidanza, lutto, cura di qualcuno, studio… La persona non riceve turni e non deve spiegare il motivo.</p>
+</section>
+
+<section data-pane="compiti" hidden>
+<h2>Compiti</h2>
+<div class="grid no-print">
+<div><label for="c-nome">Compito</label><input id="c-nome" placeholder="es. Apertura del magazzino"></div>
+<div><label for="c-ore">Ore per turno</label><input id="c-ore" type="number" min="0.5" step="0.5" value="2"></div>
+<div><label for="c-pers">Persone per turno</label><input id="c-pers" type="number" min="1" value="1"></div>
+<div><label><input type="checkbox" id="c-pesante"> Pesante o sgradevole</label></div>
+<div><button onclick="nuovoCompito()">Aggiungi</button></div>
+</div>
+<div class="table-wrap" style="margin-top:12px"><table>
+<thead><tr><th>Compito</th><th>Giorni</th><th class="n">Ore</th><th class="n">Persone</th><th>Pesante</th><th></th></tr></thead>
+<tbody id="tab-compiti"></tbody>
+</table></div>
+<p class="small quiet">I compiti pesanti o sgradevoli sono divisi a parte, in modo che tocchino a tutti allo stesso modo.</p>
+</section>
+
+<section data-pane="turni" hidden>
+<h2>Turni</h2>
+<div class="grid no-print">
+<div><label for="t-inizio">Dal</label><input id="t-inizio" type="date"></div>
+<div><label for="t-settimane">Settimane</label><select id="t-settimane"><option>1</option><option selected>2</option><option>4</option></select></div>
+<div><button onclick="genera()">Prepara i turni</button></div>
+</div>
+<div id="t-avvisi"></div>
+<div class="table-wrap" style="margin-top:12px"><table>
+<thead><tr><th>Giorno</th><th>Turni</th></tr></thead>
+<tbody id="tab-turni"></tbody>
+</table></div>
+<h2 style="margin-top:20px">Come è diviso il lavoro</h2>
+<div id="riparto"></div>
+<p class="small quiet">Si può cambiare a mano ogni turno: il riparto si aggiorna. Gli scambi tra persone si fanno così, d'accordo tra loro.</p>
+</section>
+
+<section data-pane="file" hidden>
+<h2>Salva e condividi</h2>
+<div class="grid"><div><label for="nome-gruppo">Nome del gruppo</label><input id="nome-gruppo" placeholder="es. Rete di via Roma"></div></div>
+<div class="row">
+<button onclick="salvaFile()">Salva (file)</button>
+<button class="secondary" onclick="document.getElementById('apri').click()">Apri file</button>
+<input id="apri" type="file" accept="application/json" hidden onchange="apriFile(this)">
+<button class="secondary" onclick="esportaCSV()">Esporta turni (CSV)</button>
+<button class="secondary" onclick="window.print()">Stampa i turni</button>
+<button class="secondary" onclick="if(confirm('Cancellare tutto su questo dispositivo?'))azzera()">Ricomincia</button>
+</div>
+</section>
+
+<p class="small quiet">Codice aperto, licenza del progetto. Proposte e correzioni: <a href="https://github.com/ImTheZeroIt/progetto-dei-cerchi/issues">segnalazioni su GitHub</a>.</p>
+</main>
+
+<script>
+"use strict";
+const GIORNI=["Lun","Mar","Mer","Gio","Ven","Sab","Dom"];
+const CHIAVE="cerchi-turni-v1";
+let st=null;
+const nuovo=()=>({nome:"",persone:[],compiti:[],turni:[],inizio:"",prossimo:1});
+function carica(){try{const s=localStorage.getItem(CHIAVE);if(s)return Object.assign(nuovo(),JSON.parse(s));}catch(e){}return nuovo();}
+function salva(){try{localStorage.setItem(CHIAVE,JSON.stringify(st));}catch(e){}}
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const num=v=>{const n=parseFloat(String(v).replace(",","."));return isFinite(n)&&n>0?n:0;};
+const fmt=(n,d=1)=>n.toLocaleString("it-IT",{maximumFractionDigits:d});
+const pers=id=>st.persone.find(p=>p.id===id);
+const comp=id=>st.compiti.find(c=>c.id===id);
+const giornoSett=d=>(new Date(d+"T12:00:00Z").getUTCDay()+6)%7;
+const lunedi=()=>{const d=new Date();d.setUTCDate(d.getUTCDate()-((d.getUTCDay()+6)%7));return d.toISOString().slice(0,10);};
+const piu=(d,n)=>new Date(Date.parse(d+"T12:00:00Z")+n*864e5).toISOString().slice(0,10);
+const giorniBox=(tipo,id,arr)=>`<div class="days">${GIORNI.map((g,i)=>`<label><input type="checkbox" ${arr.includes(i)?"checked":""} onchange="toggleG('${tipo}','${id}',${i},this.checked)">${g}</label>`).join("")}</div>`;
+function toggleG(tipo,id,i,v){setGiorno((tipo==="p"?pers(id):comp(id)).giorni,i,v);}
+
+function disegnaPersone(){
+  document.getElementById("tab-persone").innerHTML=[...st.persone].sort((a,b)=>a.nome.localeCompare(b.nome)).map(p=>`<tr>
+    <td>${esc(p.nome)}</td><td>${giorniBox('p',p.id,p.giorni)})($1,this.checked)"')}</td>
+    <td><input type="number" min="0" step="0.5" value="${esc(p.max)}" style="max-width:90px" onchange="pers('${p.id}').max=this.value;tutto()"></td>
+    <td><input type="checkbox" ${p.pausa?"checked":""} onchange="pers('${p.id}').pausa=this.checked;tutto()"></td>
+    <td><button class="del" aria-label="Togli" onclick="togliPersona('${p.id}')">✕</button></td></tr>`).join("")||`<tr><td colspan="5" class="quiet">Nessuna persona.</td></tr>`;
+}
+function setGiorno(arr,i,v){const k=arr.indexOf(i);if(v&&k<0)arr.push(i);if(!v&&k>=0)arr.splice(k,1);tutto();}
+function disegnaCompiti(){
+  document.getElementById("tab-compiti").innerHTML=st.compiti.map(c=>`<tr>
+    <td>${esc(c.nome)}</td><td>${giorniBox('c',c.id,c.giorni)})($1,this.checked)"')}</td>
+    <td class="n">${fmt(num(c.ore))}</td><td class="n">${c.persone}</td><td>${c.pesante?"sì":""}</td>
+    <td><button class="del" aria-label="Togli" onclick="st.compiti=st.compiti.filter(x=>x.id!=='${c.id}');st.turni=st.turni.filter(t=>t.compito!=='${c.id}');tutto()">✕</button></td></tr>`).join("")||`<tr><td colspan="6" class="quiet">Nessun compito.</td></tr>`;
+}
+function nuovaPersona(){const n=document.getElementById("p-nome").value.trim();if(!n)return;st.persone.push({id:"p"+(st.prossimo++),nome:n,giorni:[0,1,2,3,4,5,6],max:4,pausa:false});document.getElementById("p-nome").value="";tutto();}
+function togliPersona(id){if(!confirm("Togliere questa persona? I suoi turni restano scoperti."))return;st.persone=st.persone.filter(p=>p.id!==id);st.turni.forEach(t=>{if(t.chi===id)t.chi="";});tutto();}
+function nuovoCompito(){const n=document.getElementById("c-nome").value.trim();if(!n)return;
+  st.compiti.push({id:"c"+(st.prossimo++),nome:n,ore:document.getElementById("c-ore").value,persone:Math.max(1,parseInt(document.getElementById("c-pers").value)||1),pesante:document.getElementById("c-pesante").checked,giorni:[0,1,2,3,4,5,6]});
+  document.getElementById("c-nome").value="";document.getElementById("c-pesante").checked=false;tutto();}
+
+/* Riparto: ogni posto va alla persona disponibile quel giorno con meno ore assegnate nella settimana
+   (per i compiti pesanti: con meno ore pesanti), senza superare le sue ore massime e senza due turni
+   dello stesso compito nello stesso giorno. A parità, chi ha fatto quel compito meno di recente. */
+function genera(){
+  const inizio=document.getElementById("t-inizio").value||lunedi(), sett=parseInt(document.getElementById("t-settimane").value);
+  st.inizio=inizio;st.turni=[];
+  const ore={},pesanti={},ultimo={};
+  for(let g=0;g<7*sett;g++){
+    const d=piu(inizio,g), gs=giornoSett(d);
+    if(gs===0||g===0) for(const p of st.persone) ore[p.id]=0;
+    for(const c of st.compiti){ if(!c.giorni.includes(gs)) continue;
+      const presi=new Set();
+      for(let k=0;k<c.persone;k++){
+        const cand=st.persone.filter(p=>!p.pausa&&p.giorni.includes(gs)&&!presi.has(p.id)&&(ore[p.id]+num(c.ore))<=num(p.max)+1e-9)
+          .sort((a,b)=>(c.pesante?(pesanti[a.id]||0)-(pesanti[b.id]||0):0)||ore[a.id]-ore[b.id]||((ultimo[a.id+c.id]||"")).localeCompare(ultimo[b.id+c.id]||"")||a.nome.localeCompare(b.nome));
+        const p=cand[0]; const t={data:d,compito:c.id,chi:p?p.id:""};
+        if(p){presi.add(p.id);ore[p.id]+=num(c.ore);if(c.pesante)pesanti[p.id]=(pesanti[p.id]||0)+num(c.ore);ultimo[p.id+c.id]=d;}
+        st.turni.push(t);
+      }
+    }
+  }
+  tutto();
+}
+function disegnaTurni(){
+  document.getElementById("t-inizio").value=st.inizio||lunedi();
+  const perGiorno={};st.turni.forEach((t,i)=>(perGiorno[t.data]??=[]).push([t,i]));
+  const opz=sel=>`<option value="">— scoperto —</option>`+[...st.persone].sort((a,b)=>a.nome.localeCompare(b.nome)).map(p=>`<option value="${p.id}"${p.id===sel?" selected":""}>${esc(p.nome)}</option>`).join("");
+  document.getElementById("tab-turni").innerHTML=Object.keys(perGiorno).sort().map(d=>`<tr><td style="white-space:nowrap">${GIORNI[giornoSett(d)]} ${d.slice(8)}/${d.slice(5,7)}</td><td>${
+    perGiorno[d].map(([t,i])=>{const c=comp(t.compito);return `<span class="slot">${esc(c?.nome)} · ${fmt(num(c?.ore))} h${c?.pesante?"<span class='tag'>pesante</span>":""} — <select aria-label="Chi" onchange="st.turni[${i}].chi=this.value;tutto()">${opz(t.chi)}</select></span>`;}).join("")}</td></tr>`).join("")||`<tr><td colspan="2" class="quiet">Aggiungi persone e compiti, poi «Prepara i turni».</td></tr>`;
+  const sc=st.turni.filter(t=>!t.chi).length;
+  document.getElementById("t-avvisi").innerHTML=sc?`<p class="note no" style="margin-top:12px">${sc} turni scoperti: servono più persone, più giorni disponibili o meno ore per turno.</p>`:"";
+  const tot={},pes={};let somma=0;
+  for(const t of st.turni){if(!t.chi)continue;const c=comp(t.compito);const h=num(c?.ore);tot[t.chi]=(tot[t.chi]||0)+h;if(c?.pesante)pes[t.chi]=(pes[t.chi]||0)+h;somma+=h;}
+  const attive=st.persone.filter(p=>!p.pausa), sett=Math.max(1,new Set(st.turni.map(t=>t.data)).size/7);
+  if(!st.turni.length){document.getElementById("riparto").innerHTML="";return;}
+  const media=attive.length?somma/attive.length/sett:0, vals=attive.map(p=>(tot[p.id]||0)/sett);
+  const scarto=vals.length?Math.max(...vals)-Math.min(...vals):0;
+  document.getElementById("riparto").innerHTML=`<p>In media <strong>${fmt(media)} ore a settimana</strong> per persona attiva; differenza tra chi ne fa di più e chi di meno: ${fmt(scarto)} ore.</p>
+   <div class="table-wrap"><table><thead><tr><th>Persona</th><th class="n">Ore a settimana</th><th class="n">di cui pesanti</th></tr></thead><tbody>${
+   [...st.persone].sort((a,b)=>a.nome.localeCompare(b.nome)).map(p=>`<tr><td>${esc(p.nome)}${p.pausa?" <span class='quiet small'>(in pausa)</span>":""}</td><td class="n">${fmt((tot[p.id]||0)/sett)}</td><td class="n">${fmt((pes[p.id]||0)/sett)}</td></tr>`).join("")}</tbody></table></div>`;
+}
+function tutto(){salva();disegnaPersone();disegnaCompiti();disegnaTurni();document.getElementById("nome-gruppo").value=st.nome||"";}
+function scarica(nome,testo,tipo){const b=new Blob([testo],{type:tipo}),a=document.createElement("a");a.href=URL.createObjectURL(b);a.download=nome;a.click();URL.revokeObjectURL(a.href);}
+const base=()=>(st.nome||"gruppo").replace(/[^\wàèéìòù-]+/gi,"-");
+function salvaFile(){scarica(base()+"-turni.json",JSON.stringify(Object.assign({tipo:"turni-cerchi"},st),null,2),"application/json");}
+function apriFile(inp){const f=inp.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{const d=JSON.parse(r.result);if(!Array.isArray(d.persone))throw 0;st=Object.assign(nuovo(),d);tutto();}catch(e){alert("Il file non è valido.");}};r.readAsText(f);inp.value="";}
+function esportaCSV(){const r=[["data","compito","ore","persona"]].concat(st.turni.map(t=>[t.data,comp(t.compito)?.nome??"",String(num(comp(t.compito)?.ore)).replace(".",","),pers(t.chi)?.nome??"scoperto"]));
+  scarica(base()+"-turni.csv",r.map(c=>c.map(v=>`"${String(v).replace(/"/g,'""')}"`).join(";")).join("\n"),"text/csv");}
+function azzera(){st=nuovo();tutto();}
+document.getElementById("nome-gruppo").addEventListener("input",e=>{st.nome=e.target.value;salva();});
+document.querySelectorAll("[role=tab]").forEach(b=>b.addEventListener("click",()=>{
+  document.querySelectorAll("[role=tab]").forEach(x=>x.setAttribute("aria-selected",x===b));
+  document.querySelectorAll("[data-pane]").forEach(p=>p.hidden=p.dataset.pane!==b.dataset.tab);
+}));
+st=carica();tutto();
+</script>
+</body>
+</html>

@@ -1,12 +1,12 @@
 ---
 titolo: "C.1-ANNEX A — PRODUZIONE MATERIALE E OFFICINE"
 breve: "Annex A al Codice 1 — Produzione materiale e officine"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "allegati"
 ordine: 1.5
 id: "codice-01-annex-a"
 slug: "codice-01-annex-a"
-allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; Codice 4 V1.9; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.8; Codice 14 V1.7; Codice 15 V1.9; Codice 16 V1.9."
+allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.11; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; Codice 8 V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.12; Codice 16 V1.10."
 ---
 
 ## Art. 1 — Oggetto, definizioni e natura giuridica
@@ -197,7 +197,7 @@ e) sono differibili ai sensi dell’articolo 32, comma 1-bis, del Codice 1, salv
 
 4.  La verifica è tracciata nella documentazione tecnica o nella STV applicabile. L’autocostruzione è promossa quando avviene con competenze L2 validate, componenti standard e soluzioni riparabili e documentate.
 
-5.  Per i livelli 4 e 5 è vietata la produzione di nuovi oggetti che dipendano strutturalmente da componenti proprietari non riparabili localmente. Una deroga può essere concessa dall’Assemblea Generale a maggioranza qualificata, su motivazione tecnica documentata e alle seguenti condizioni:
+5.  Per i livelli 4 e 5 è vietata la produzione di nuovi oggetti che dipendano strutturalmente da componenti proprietari non riparabili localmente. Una deroga può essere concessa dall’Assemblea del Cerchio 1 a maggioranza qualificata, su motivazione tecnica documentata e alle seguenti condizioni:
 
     a) è dimostrata l’impossibilità di una soluzione alternativa adeguata;
 
@@ -209,7 +209,7 @@ e) sono differibili ai sensi dell’articolo 32, comma 1-bis, del Codice 1, salv
 
     e) il piano è riesaminato almeno ogni sei mesi.
 
-    La deroga non può superare complessivamente ventiquattro mesi, salvo emergenza estrema ai sensi dell’articolo 2-bis del Codice 6. Ogni dipendenza critica risultante è iscritta nel Registro Dipendenze secondo il Codice 15.
+    La deroga non può superare complessivamente ventiquattro mesi, salvo rischio collettivo immediato e documentato ai sensi dell’articolo 2-bis del Codice 6. Ogni dipendenza critica risultante è iscritta nel Registro Dipendenze secondo il Codice 15.
 
 ## Art. 6 — Officine, rete federata e misurazione
 

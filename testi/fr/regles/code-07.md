@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 7 — DE L’AUTOMATISATION ET DU RÉSEAU"
 breve: "Code 7 — Automatisation et Réseau"
-versione: "V1.9"
+versione: "V1.10"
 gruppo: "codici"
 ordine: 7
 id: "codice-07"
 slug: "code-07"
-allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.8 ; Code 4 V1.9 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.8 ; Code 14 V1.7 ; Code 15 V1.9 ; Code 16 V1.9."
+allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 3 V1.11 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 15 V1.12 ; Code 16 V1.10."
 ---
 
 ## TITRE PRÉLIMINAIRE — PRINCIPES FONDAMENTAUX
@@ -43,7 +43,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
 ### Art. 2 — Principes
 
-1.  **Souveraineté numérique.** Les serveurs, le code, les données et les modèles utilisés pour des fonctions confédérales sont hébergés ou gérés sur des infrastructures communautaires contrôlées par la Confédération. Le recours temporaire à des clouds propriétaires extractifs n’est admis que pour une transition motivée et inscrite au Registre des dépendances prévu par le Code 15.
+1.  **Souveraineté numérique.** Les serveurs, le code, les données et les modèles utilisés pour des fonctions confédérales sont hébergés ou gérés sur des infrastructures communautaires contrôlées par la Confédération. Le recours temporaire à des clouds propriétaires extractifs n’est admis que pendant la transition régie par le Code 16, en application de son article 9-bis, de manière motivée et avec inscription au Registre des dépendances prévu par le Code 15.
 
 2.  **Non-surveillance.** Le Réseau ne peut pas tracer, classer, profiler ou prédire les comportements individuels à des fins de contrôle, de notation, de réputation ou de prédiction comportementale.
 
@@ -83,7 +83,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
     d) le Registre des décisions de l’Assemblée prévu par le Code 3 ;
 
-    e) le Registre de la Garantie sous forme anonymisée conformément au Code 4 ;
+    e) le Registre réparateur et les Archives des décisions sous forme anonymisée conformément au Code 4 ;
 
     f) le Registre des dépendances prévu par le Code 15.
 
@@ -231,7 +231,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
 ### Art. 5-ter — IA de Communauté et de Cercle : indépendance, refus et révision
 
-1.  Les IA de Communauté, du Cercle intermédiaire et du Cercle étendu sont des IA de gestion locales, open source, inspectables et à domaine limité. Elles fonctionnent en mode consultatif ou technique et sont soumises au droit de reprise en main manuelle locale.
+1.  Les IA de Communauté, du Cercle intermédiaire et du Cercle étendu sont des IA de gestion locales, open source, inspectables et à domaine limité. Elles fonctionnent en mode consultatif ou technique et sont soumises au droit de reprise en main manuelle locale. Pour le bilan de l’Entrepôt, le cycle de l’eau et l’énergie locale, l’IA de Communauté fonctionne exclusivement en mode consultatif, en application des articles 10.5, 15.3 et 22.1 de la Constitution.
 2.  La constitution d’une IA centrale ou d’une IA généraliste unique est interdite, en application des articles 19.2, 20.2 et 23.1 de la Constitution. Le Cercle global est un protocole distribué d’interopérabilité : il ne dispose ni d’un modèle central ni d’une collecte centralisée de données personnelles.
 3.  Aucune IA ne peut commander, subordonner ou désactiver une autre IA. L’interopérabilité entre systèmes s’effectue au moyen de protocoles ouverts et avec l’autorisation du Conseil Réseau de chaque Cercle concerné. Les conflits entre systèmes sont tranchés par l’organe humain compétent.
 4.  Toute IA de gestion est configurée pour refuser, avec une motivation tracée dans le Réseau, une instruction qui entraîne une violation manifeste de la Constitution ou des protocoles applicables, en application de l’article 20.3 de la Constitution. Le refus est transmis sans délai au Conseil Réseau et à l’organe compétent, qui statue dans un délai de soixante-douze heures. Dans l’intervalle, les fonctions essentielles sont assurées au moyen des procédures manuelles prévues par l’article 38 du Code 1.
@@ -367,13 +367,13 @@ vii. du délai maximal de restauration.
 
     a) le registre des ayants droit, tenu par chaque Communauté de base conformément à l’article 36.1 de la Constitution et à l’article 12, alinéa 1, du Code 3, qui vérifie uniquement que la personne qui vote ou signe a le droit de vote dans cette délibération et ne vote ou ne signe qu’une seule fois ;
 
-    b) l’urne, qui reçoit les votes et les signatures sans aucune donnée permettant d’identifier ceux qui les ont exprimés.
+    b) l’urne, qui reçoit les votes et les signatures sans aucune donnée permettant d’identifier ceux qui les ont exprimés. L’urne est hébergée sur les nœuds du Réseau fédéré de la Communauté ou, pour les votes des Cercles supérieurs, de chaque Communauté concernée.
 
     Les deux parties fonctionnent sur des systèmes distincts et sont administrées par des personnes différentes ; nul n’accède aux deux avec les mêmes identifiants.
 
 3.  Sont interdits les journaux, registres, métadonnées ou autres données qui permettent de relier une personne à son vote ou à sa signature, y compris à des fins de sécurité, d’audit ou de recours ; l’article 2, alinéas 3 et 4, ne permet pas un tel lien. Le registre des ayants droit conserve uniquement le fait que la personne a voté ou signé, pendant le temps nécessaire à la clôture du vote et des recours. Le système ne remet à l’électeur aucune preuve qui lui permettrait de montrer à d’autres comment il a voté, en application de l’article 36.1 de la Constitution.
 
-4.  Le logiciel du registre et de l’urne est open source et il est accompagné d’une STV de fonctionnement approuvée en application de l’article 3-bis du Code 2. Ne sont admis ni le code dont la source n’est pas disponible ni les dépendances résiduelles au sens de l’article 5, alinéa 2, lettre b), du Code 2, même à titre temporaire et même pendant la transition, en application de l’article 19.4 de la Constitution et de l’article 9-bis, alinéa 1, lettre b), du Code 16. Chaque mise à jour est vérifiée avant son adoption en application de l’article 5-ter, alinéa 7, et aucune mise à jour n’est installée pendant un vote ouvert.
+4.  Les logiciels du registre et de l’urne et celui avec lequel on vote ou on signe sont open source et sont accompagnés d’une STV de fonctionnement approuvée en application de l’article 3-bis du Code 2. Ne sont admis ni le code dont la source n’est pas disponible ni les dépendances résiduelles au sens de l’article 5, alinéa 2, lettre b), du Code 2, même à titre temporaire et même pendant la transition, en application de l’article 19.4 de la Constitution et de l’article 9-bis, alinéa 1, lettre b), du Code 16. Chaque mise à jour est vérifiée avant son adoption en application de l’article 5-ter, alinéa 7, et aucune mise à jour n’est installée pendant un vote ouvert.
 
 5.  Le décompte est effectué séparément pour chaque Communauté de base. Le nombre des ayants droit et des votants, les totaux de chaque Communauté et le résultat sont publics et sont inscrits sur un registre distribué répliqué sur des nœuds de Cercles différents en application de l’article 3, alinéa 4, de sorte que chaque Communauté puisse les vérifier et qu’aucun nœud ne puisse les modifier seul. Le décompte est effectué par un logiciel déterministe et reproductible à partir des données publiques ; une IA ne peut ni recueillir, ni compter, ni interpréter, ni corriger les votes, en application de l’article 2, alinéa 8.
 

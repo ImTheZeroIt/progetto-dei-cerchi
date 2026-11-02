@@ -1,7 +1,7 @@
 ---
 titolo: "TECHNICAL ANNEX A TO CODE 16 — SOCIAL START-UP PROTOCOL"
 breve: "Annex A to Code 16 — Social start-up protocol"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "allegati"
 ordine: 16.1
 id: "codice-16-allegato-a"
@@ -43,7 +43,7 @@ Technical annex adopted pursuant to Article 19 of Code 3 and referred to in Arti
 
 1.  Level 1 aims to verify the initial social sustainability of the pilot Circle and to foster minimum conditions of trust and collaboration.
 
-2.  Before the constitutive resolution of the pilot Circle, three non-deliberative meetings are organised. Every participant may describe their own motivations, actual availability, personal limits and any care burdens relevant to the organisation. The information collected is minuted in aggregated form, without identifying persons by name.
+2.  Before the constitutive resolution of the pilot Circle, three non-deliberative meetings are organised. Every participant may describe their own motivations, actual availability, personal limits and any care burdens relevant to the organisation. The information collected is minuted in aggregated form, without identifying persons by name. For a Circle born from a network pursuant to Article 17 of Code 16, the meetings take place within ninety days of the conversion.
 
 3.  An aggregate map of the capacity for care and organisation is prepared, which may take into account:
 
@@ -120,7 +120,7 @@ Technical annex adopted pursuant to Article 19 of Code 3 and referred to in Arti
 
 4.  Every pilot Circle organises at least one inter-Basin exchange, which comprises the voluntary participation of at least one person for one continuous week in another Basin, for contribution activities. The directly necessary expenses are covered by the Common Fund in accordance with the applicable rules. The tracking of the exchange is aggregated and non-profiling.
 
-5.  Every six months an anonymous questionnaire on perceived safety is carried out, by technical means suitable for preventing the identification of persons. The minimum question is: “Do you feel safe here?”. The answers are not published when the number of participants does not allow adequate aggregation.
+5.  Every six months an anonymous questionnaire on perceived safety is carried out, by technical means suitable for preventing the identification of persons. The minimum question is: “Do you feel safe here?”. The answers are not published when the number of participants does not allow adequate aggregation. The questionnaire is carried out and counted in each pilot Circle; the threshold of paragraph 6 is verified for each of them, and the corrective plan concerns the Circle in which it is exceeded.
 
 6.  If more than twenty per cent of the valid answers are negative:
 

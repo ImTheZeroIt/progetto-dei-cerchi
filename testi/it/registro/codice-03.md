@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 3 — DELLA DELIBERAZIONE, DELLE SOGLIE E DELL’ASSEMBLEA"
 breve: "Codice 3 — Deliberazione, soglie e Assemblea"
-versione: "V1.8"
+versione: "V1.11"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
 slug: "codice-03"
-allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 4 V1.9; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.8; Codice 14 V1.7; Codice 15 V1.9; Codice 16 V1.9."
+allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.12; Codice 16 V1.10."
 ---
 
 ## CAPO I — PRINCIPI DELIBERATIVI
@@ -309,7 +309,7 @@ Il parere vincolante negativo impedisce l’adozione della decisione finché non
 
 2.  La UCR non è un prezzo di mercato. È utilizzata per comparare alternative, rendere trasparente il costo sistemico e prevenire l’accumulo.
 
-3.  La metodologia è definita nell’Allegato Tecnico UCR. Il metodo di calcolo è comune a tutte le Comunità del Cerchio 2: è predisposto dai Consigli Contabilità e dai Consigli Qualità in coordinamento federato, è proposto dal Cerchio 2 ed è approvato dalla sua Assemblea Generale ai sensi dell’articolo 14. Ogni Comunità determina secondo quel metodo i propri valori, che sono predisposti dal suo Consiglio Contabilità e dal suo Consiglio Qualità e approvati dall’Assemblea del Cerchio 1. Fino alla costituzione del Cerchio 2 si applica l’articolo 14, comma 10.
+3.  La metodologia è definita nell’Allegato Tecnico UCR. Il metodo di calcolo è comune a tutte le Comunità del Cerchio 2: è predisposto dai Consigli Contabilità e dai Consigli Qualità in coordinamento federato, è proposto dal Consiglio Contabilità condiviso del Cerchio 2, ai sensi dell’articolo 12-bis, comma 6-bis, ed è approvato dalla sua Assemblea Generale ai sensi dell’articolo 14. Ogni Comunità determina secondo quel metodo i propri valori, che sono predisposti dal suo Consiglio Contabilità e dal suo Consiglio Qualità e approvati dall’Assemblea del Cerchio 1. Per le operazioni del Cerchio 3 e tra Cerchi 2 diversi si applica il metodo approvato dall’Assemblea Generale del Cerchio 3 o, in mancanza, quello del Cerchio 2 presso cui la risorsa è custodita. Fino alla costituzione del Cerchio 2 si applica l’articolo 14, comma 10.
 
 4.  L’Allegato Tecnico UCR disciplina almeno:
 
@@ -413,7 +413,9 @@ Il parere vincolante negativo impedisce l’adozione della decisione finché non
 
     b) è astenuta la persona partecipante che dichiara di non esprimersi sulla decisione;
 
-    c) è partecipante attivo la persona che prende parte alla deliberazione e non si astiene.
+    c) è partecipante attivo la persona che prende parte alla deliberazione e non si astiene;
+
+    d) sono votanti, ai sensi dell’articolo 35.4 della Costituzione, i partecipanti attivi.
 
 4.  Le deliberazioni ordinarie sono valide senza quorum minimo, secondo l’articolo 35.1 della Costituzione.
 
@@ -433,7 +435,7 @@ Il parere vincolante negativo impedisce l’adozione della decisione finché non
 
 3.  Ogni Consiglio è composto dal numero di persone stabilito dal Codice che lo disciplina o, in mancanza, da tre a cinque persone, con le competenze validate richieste secondo il Codice 5.
 
-4.  I componenti sono sorteggiati con procedura pubblica e tracciata tra le persone che possiedono la competenza richiesta, hanno dichiarato la propria disponibilità e non si trovano in una causa di incompatibilità. È vietata la candidatura personale a uno specifico incarico. Ogni persona sorteggiata può rifiutare.
+4.  I componenti sono sorteggiati con procedura pubblica e tracciata tra le persone che possiedono la competenza richiesta, hanno dichiarato la propria disponibilità e non si trovano in una causa di incompatibilità. È vietata la candidatura personale a uno specifico incarico. Ogni persona sorteggiata può rifiutare. Sono sorteggiate soltanto persone che hanno compiuto diciotto anni; le persone dai sedici anni possono partecipare in affiancamento, senza voto.
 
 5.  Il mandato dura un anno. Il rinnovo avviene a scaglioni, di norma per metà dei componenti ogni sei mesi, con passaggio di consegne verbalizzato. Chi ha concluso il mandato non può essere nuovamente sorteggiato nello stesso Consiglio prima che siano trascorsi dodici mesi. Se mancano altre persone idonee, è ammessa una sola proroga motivata, non superiore a sei mesi, accompagnata da un piano di formazione di nuove persone secondo il Codice 5.
 
@@ -447,7 +449,7 @@ Il parere vincolante negativo impedisce l’adozione della decisione finché non
 
 6-bis. **Consigli condivisi dei Cerchi 2 e 3.** Quando i Codici attribuiscono a un Consiglio funzioni del Cerchio 2 o del Cerchio 3, esse sono esercitate da un Consiglio condiviso del Cerchio, alle condizioni seguenti, salvo i Consigli di Magazzino dei Cerchi 2 e 3, disciplinati dall’articolo 9-bis del Codice 15:
 
-a) il Consiglio condiviso è composto dal numero di persone previsto dal comma 3, sorteggiate ai sensi del comma 4 tra i componenti dei Consigli omologhi delle Comunità di Base del Cerchio e, se non sono sufficienti, tra le altre persone di quelle Comunità che possiedono la competenza richiesta. Non più di due componenti provengono dalla stessa Comunità di Base. Si applicano i commi 5, 8 e 11 e l’articolo 16; l’incarico nel Consiglio condiviso conta come appartenenza a un Consiglio ai fini del comma 8;
+a) il Consiglio condiviso è composto dal numero di persone previsto dal comma 3, sorteggiate ai sensi del comma 4 tra i componenti dei Consigli omologhi delle Comunità di Base del Cerchio o degli organi interni equivalenti delle Comunità associate e, se non sono sufficienti, tra le altre persone di quelle Comunità che possiedono la competenza richiesta. Non più di due componenti provengono dalla stessa Comunità di Base. Si applicano i commi 5, 8 e 11 e l’articolo 16; l’incarico nel Consiglio condiviso conta come appartenenza a un Consiglio ai fini del comma 8;
 
 b) il Consiglio condiviso adotta gli atti tecnici vincolati del comma 9 e cura l’istruttoria e le proposte per l’Assemblea Generale. Quando un rischio grave e immediato per le persone, per il Paniere o per la continuità di un servizio essenziale non consente di attendere l’Assemblea Generale, può adottare le decisioni urgenti strettamente necessarie, motivate e pubblicate senza ritardo. La decisione urgente cessa di avere effetto se non è ratificata dall’Assemblea Generale entro trenta giorni; a tal fine l’Assemblea può essere convocata con il preavviso ridotto dell’articolo 14, comma 9;
 
@@ -507,7 +509,7 @@ e) gli atti del Consiglio condiviso sono pubblicati secondo l’articolo 15 e so
 
 5.  La maggioranza qualificata non può convalidare una decisione incompatibile con una norma imperativa o superare un parere vincolante negativo ai sensi dell’articolo 8.
 
-6.  Il verbale indica la proposta iniziale, le obiezioni, gli esiti della mediazione, le eventuali modifiche, il quorum, il calcolo della maggioranza e le ragioni della decisione.
+6.  Il verbale indica la proposta iniziale, le obiezioni, gli esiti della mediazione, le eventuali modifiche, il quorum, il calcolo della maggioranza e le ragioni della decisione. I verbali sono iscritti nel Registro delle Decisioni Assembleari della Comunità e, per l’Assemblea Generale, di ciascuna Comunità interessata.
 
 ### Art. 13-bis — Obiezione di Coscienza o di Sostenibilità Ecologica
 
@@ -521,6 +523,8 @@ e) gli atti del Consiglio condiviso sono pubblicati secondo l’articolo 15 e so
 ### Art. 14 — Assemblea Generale
 
 1.  L’Assemblea Generale è la deliberazione congiunta di tutte le persone aventi diritto di voto delle Comunità di Base comprese nel Cerchio 2 o nel Cerchio 3 il cui ambito è interessato dalla decisione, secondo gli articoli 32 e 34.3 della Costituzione. Non è un organo permanente e non ha delegati: ogni persona vota individualmente, tramite la Rete federata o nelle Assemblee locali. I portavoce sorteggiati con mandato vincolato ne curano l’istruttoria e il coordinamento e non dispongono di un voto proprio.
+
+1-bis. Ogni Comunità di Base del Cerchio sorteggia tra i propri volontari idonei che hanno compiuto diciotto anni un portavoce per un ciclo di novanta giorni, nei limiti dell’articolo 4.4 della Costituzione; l’Assemblea della Comunità può revocarlo in ogni momento. I portavoce convocano l’Assemblea Generale e ne pubblicano l’ordine del giorno, su richiesta di un Cerchio 1, di un Consiglio condiviso o del Consiglio di Magazzino del Cerchio, o di un decimo delle persone aventi diritto. Quando i Codici fissano un termine all’Assemblea Generale, la convocazione è dovuta.
 
 2.  L’Assemblea Generale è competente per:
 
@@ -538,7 +542,7 @@ e) gli atti del Consiglio condiviso sono pubblicati secondo l’articolo 15 e so
 
 5.  Può essere avviata una revisione straordinaria, con motivazione, su proposta del Consiglio Qualità o del Consiglio Contabilità.
 
-6.  L’Assemblea Generale è convocata con almeno ventuno giorni di preavviso. La deliberazione è valida quando partecipano almeno tre quarti delle Comunità di Base interessate; una Comunità partecipa quando vota almeno un terzo dei suoi aventi diritto.
+6.  L’Assemblea Generale è convocata con almeno ventuno giorni di preavviso. La deliberazione è valida quando partecipano almeno tre quarti delle Comunità di Base interessate; una Comunità partecipa quando prende parte alla deliberazione almeno un terzo dei suoi aventi diritto, compresi gli astenuti.
 
 7.  Ai sensi dell’articolo 35.2 della Costituzione, l’approvazione richiede congiuntamente:
 
@@ -568,7 +572,7 @@ e) gli atti del Consiglio condiviso sono pubblicati secondo l’articolo 15 e so
 
 4.  Un Cerchio 2 che ha concluso la transizione entra in un Cerchio Esteso contiguo con deliberazione della propria Assemblea Generale. Il Cerchio Esteso verifica soltanto i protocolli di interoperabilità tecnologica e logistica, ai sensi dell’articolo 4.5 della Costituzione e dell’articolo 21, comma 2, del Codice 15.
 
-5.  Ai fini degli articoli 37 e 38 della Costituzione, un Cerchio Esteso esiste dalla data della deliberazione del comma 2 o del comma 3, iscritta nel Registro delle Decisioni Assembleari. Il Cerchio Esteso delibera tramite l’Assemblea Generale e opera tramite i Consigli condivisi dell’articolo 12-bis, comma 6-bis; non ha altri organi.
+5.  Ai fini degli articoli 37 e 38 della Costituzione, un Cerchio Esteso esiste dalla data della deliberazione del comma 2 o del comma 3, iscritta nel Registro delle Decisioni Assembleari. Il Cerchio Esteso delibera tramite l’Assemblea Generale e opera tramite i portavoce dell’articolo 14, comma 1-bis, i Consigli condivisi dell’articolo 12-bis, comma 6-bis, e il Consiglio di Magazzino dell’articolo 9-bis del Codice 15; non ha altri organi permanenti.
 
 ### Art. 15 — Trasparenza differenziata
 

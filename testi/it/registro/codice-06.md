@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 6 — DELLA SALUTE"
 breve: "Codice 6 — Salute"
-versione: "V1.8"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 6
 id: "codice-06"
 slug: "codice-06"
-allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; Codice 4 V1.9; Codice 5 V1.6; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 11 V1.5; Codice 12 V1.6; Codice 13 V1.8; Codice 14 V1.7; Codice 15 V1.9; Codice 16 V1.9."
+allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.11; Codice 4 V1.10; Codice 5 V1.7; Codice 7 V1.10; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.12; Codice 16 V1.10."
 ---
 
 ## TITOLO PRELIMINARE — PRINCIPI FONDAMENTALI
@@ -122,7 +122,7 @@ f) durante la transizione, se la persona non vi acconsente, sono disposti soltan
 
 1.  Dal compimento del sedicesimo anno la persona presta, rifiuta e revoca da sé il consenso alle proprie cure, ai sensi dell’articolo 2, comma 2. Se, prima del diciottesimo anno, non è in grado di decidere, si applica il comma 2.
 
-2.  Fino al compimento del sedicesimo anno il consenso è prestato da chi ha la responsabilità di cura del minore ai sensi dell’articolo 24.3 della Costituzione, dopo averlo informato e ascoltato in modo adatto all’età. Il parere del minore ha un peso crescente con l’età e la maturità, ai sensi dell’articolo 26.2 della Costituzione. Se le persone responsabili sono più d’una, decidono d’accordo; per le cure urgenti basta il consenso di una di esse. La responsabilità di cura e il consenso del presente comma non vengono meno per la sola cessazione dello status di membro della persona responsabile ai sensi dell’articolo 29, comma 6-bis, del Codice 4. Se nessuno esercita la responsabilità di cura, o nessuna persona responsabile è raggiungibile in tempo utile, il consenso è prestato dal rappresentante temporaneo nominato ai sensi dell’articolo 7-bis, comma 5, del Codice 12, fino alla decisione del Tribunale di Garanzia prevista dal comma 3-bis del medesimo articolo.
+2.  Fino al compimento del sedicesimo anno il consenso è prestato da chi ha la responsabilità di cura del minore ai sensi dell’articolo 24.3 della Costituzione, dopo averlo informato e ascoltato in modo adatto all’età. Il parere del minore ha un peso crescente con l’età e la maturità, ai sensi dell’articolo 26.2 della Costituzione. Se le persone responsabili sono più d’una, decidono d’accordo; per le cure urgenti basta il consenso di una di esse. La responsabilità di cura e il consenso del presente comma non vengono meno per la sola cessazione dello status di membro della persona responsabile ai sensi dell’articolo 29, comma 6-bis, del Codice 4. Se nessuno esercita la responsabilità di cura, o nessuna persona responsabile è raggiungibile in tempo utile, il consenso è prestato dal rappresentante temporaneo nominato ai sensi dell’articolo 7-bis, comma 5, del Codice 12, fino alla decisione del Tribunale di Garanzia prevista dal comma 3-bis del medesimo articolo. Chi presta il consenso per il minore non può acconsentire a una misura coercitiva: si applica soltanto l’articolo 8.
 
 3.  In caso di disaccordo tra il minore e chi ne ha la responsabilità di cura, o tra più persone responsabili, o di conflitto di interessi tra queste e il minore, possono rivolgersi al Tribunale di Garanzia il minore, ciascuna persona responsabile, il curante o il Consiglio Cura. Il Tribunale acquisisce il parere scritto di una persona con competenza sanitaria L3, indipendente e non coinvolta nella cura, sorteggiata dall’elenco dell’articolo 36, comma 1, lettera b), del Codice 4; ascolta il minore, assistito dalla persona di fiducia prevista dall’articolo 31.5 della Costituzione, e le persone responsabili; decide entro sette giorni o, se la cura non può attendere, entro ventiquattro ore, secondo l’interesse del minore e tenendo conto del suo parere ai sensi del comma 2. Quando l’attesa esporrebbe il minore a un pericolo per la vita o a un danno grave e irreversibile, le cure necessarie sono prestate subito, ai sensi dell’articolo 28.2 della Costituzione, e il Tribunale ne è informato.
 
@@ -430,7 +430,7 @@ L’uso tradizionale, da solo, non costituisce validazione. Ogni preparato valid
 
 4.  È vietata la dipendenza proprietaria critica da cui dipendano farmaci salvavita, dispositivi diagnostici essenziali o DPI. Si applicano gli articoli 4 e 5 del Codice 2 e le disposizioni del Codice 15.
 
-5.  Nessuna sperimentazione sanitaria può essere svolta su membri senza consenso libero, informato, specifico e revocabile. Il consenso è documentato per iscritto dopo aver fornito informazioni comprensibili su rischi, benefici, alternative e diritto di recesso.
+5.  Nessuna sperimentazione sanitaria può essere svolta su alcuna persona senza consenso libero, informato, specifico e revocabile. Il consenso è documentato per iscritto dopo aver fornito informazioni comprensibili su rischi, benefici, alternative e diritto di recesso.
 
 6.  La sperimentazione richiede preventivamente:
 
@@ -450,7 +450,7 @@ L’uso tradizionale, da solo, non costituisce validazione. Ogni preparato valid
 
     d) autorizzazione del Cerchio di Garanzia sui profili di consenso e proporzionalità;
 
-    e) deliberazione dell’Assemblea Generale secondo il Codice 3, con maggioranza qualificata e tracciamento delle posizioni espresse;
+    e) autorizzazione del Tribunale di Garanzia, che decide in forma riservata entro sette giorni o, se la cura non può attendere, entro ventiquattro ore;
 
     f) ascolto e rispetto della volontà della persona nella misura in cui sia in grado di esprimerla.
 

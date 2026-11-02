@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 6 — DE LA SANTÉ"
 breve: "Code 6 — Santé"
-versione: "V1.8"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 6
 id: "codice-06"
 slug: "code-06"
-allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.8 ; Code 4 V1.9 ; Code 5 V1.6 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.8 ; Code 14 V1.7 ; Code 15 V1.9 ; Code 16 V1.9."
+allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 3 V1.11 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 7 V1.10 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 15 V1.12 ; Code 16 V1.10."
 ---
 
 ## TITRE PRÉLIMINAIRE — PRINCIPES FONDAMENTAUX
@@ -122,7 +122,7 @@ f) pendant la transition, si la personne n’y consent pas, ne sont ordonnés qu
 
 1.  À partir de seize ans révolus, la personne donne, refuse et révoque elle-même son consentement à ses propres soins, en application de l’article 2, alinéa 2. Si, avant dix-huit ans, elle n’est pas en mesure de décider, l’alinéa 2 s’applique.
 
-2.  Jusqu’à seize ans révolus, le consentement est donné par les personnes qui ont la responsabilité de soin du mineur au sens de l’article 24.3 de la Constitution, après l’avoir informé et entendu d’une manière adaptée à son âge. L’avis du mineur a un poids croissant avec l’âge et la maturité, en application de l’article 26.2 de la Constitution. Si les personnes responsables sont plusieurs, elles décident d’un commun accord ; pour les soins urgents, le consentement de l’une d’elles suffit. La responsabilité de soin et le consentement du présent alinéa ne prennent pas fin du seul fait de la cessation du statut de membre de la personne responsable en application de l’article 29, alinéa 6-bis, du Code 4. Si personne n’exerce la responsabilité de soin, ou si aucune personne responsable ne peut être jointe en temps utile, le consentement est donné par le représentant temporaire nommé en application de l’article 7-bis, alinéa 5, du Code 12, jusqu’à la décision du Tribunal de garantie prévue par l’alinéa 3-bis du même article.
+2.  Jusqu’à seize ans révolus, le consentement est donné par les personnes qui ont la responsabilité de soin du mineur au sens de l’article 24.3 de la Constitution, après l’avoir informé et entendu d’une manière adaptée à son âge. L’avis du mineur a un poids croissant avec l’âge et la maturité, en application de l’article 26.2 de la Constitution. Si les personnes responsables sont plusieurs, elles décident d’un commun accord ; pour les soins urgents, le consentement de l’une d’elles suffit. La responsabilité de soin et le consentement du présent alinéa ne prennent pas fin du seul fait de la cessation du statut de membre de la personne responsable en application de l’article 29, alinéa 6-bis, du Code 4. Si personne n’exerce la responsabilité de soin, ou si aucune personne responsable ne peut être jointe en temps utile, le consentement est donné par le représentant temporaire nommé en application de l’article 7-bis, alinéa 5, du Code 12, jusqu’à la décision du Tribunal de garantie prévue par l’alinéa 3-bis du même article. La personne qui donne le consentement pour le mineur ne peut pas consentir à une mesure coercitive : seul l’article 8 s’applique.
 
 3.  En cas de désaccord entre le mineur et les personnes qui en ont la responsabilité de soin, ou entre plusieurs personnes responsables, ou de conflit d’intérêts entre celles-ci et le mineur, peuvent saisir le Tribunal de garantie le mineur, chaque personne responsable, le soignant traitant ou le Conseil Soin. Le Tribunal recueille l’avis écrit d’une personne ayant une compétence sanitaire L3, indépendante et non impliquée dans les soins, tirée au sort sur la liste de l’article 36, alinéa 1, lettre b), du Code 4 ; il entend le mineur, assisté de la personne de confiance prévue par l’article 31.5 de la Constitution, et les personnes responsables ; il décide dans un délai de sept jours ou, si les soins ne peuvent pas attendre, de vingt-quatre heures, selon l’intérêt du mineur et en tenant compte de son avis conformément à l’alinéa 2. Lorsque l’attente exposerait le mineur à un danger pour sa vie ou à un dommage grave et irréversible, les soins nécessaires sont prodigués immédiatement, en application de l’article 28.2 de la Constitution, et le Tribunal en est informé.
 
@@ -430,7 +430,7 @@ L’usage traditionnel, à lui seul, ne constitue pas une validation. Chaque pr�
 
 4.  La dépendance propriétaire critique dont dépendraient des médicaments vitaux, des dispositifs de diagnostic essentiels ou des EPI est interdite. Les articles 4 et 5 du Code 2 et les dispositions du Code 15 s’appliquent.
 
-5.  Aucune expérimentation sanitaire ne peut être menée sur des membres sans un consentement libre, éclairé, spécifique et révocable. Le consentement est documenté par écrit après la fourniture d’informations compréhensibles sur les risques, les bénéfices, les alternatives et le droit de retrait.
+5.  Aucune expérimentation sanitaire ne peut être menée sur aucune personne sans un consentement libre, éclairé, spécifique et révocable. Le consentement est documenté par écrit après la fourniture d’informations compréhensibles sur les risques, les bénéfices, les alternatives et le droit de retrait.
 
 6.  L’expérimentation requiert au préalable :
 
@@ -450,7 +450,7 @@ L’usage traditionnel, à lui seul, ne constitue pas une validation. Chaque pr�
 
     d) l’autorisation du Cercle de garantie sur les aspects de consentement et de proportionnalité ;
 
-    e) la délibération de l’Assemblée générale conformément au Code 3, à la majorité qualifiée et avec traçage des positions exprimées ;
+    e) l’autorisation du Tribunal de garantie, qui statue de manière confidentielle dans un délai de sept jours ou, si le soin ne peut pas attendre, dans un délai de vingt-quatre heures ;
 
     f) l’écoute et le respect de la volonté de la personne dans la mesure où elle est en état de l’exprimer.
 

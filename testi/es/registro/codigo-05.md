@@ -1,12 +1,12 @@
 ---
 titolo: "CÓDIGO 5 — DEL APRENDIZAJE Y DE LAS COMPETENCIAS"
 breve: "Código 5 — Aprendizaje y competencias"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 5
 id: "codice-05"
 slug: "codigo-05"
-allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1.8; Código 4 V1.9; Código 6 V1.8; Código 7 V1.9; Código 8 V1.6; C.1-Annex A V1.6; Código 9 V3.3; Código 10 V1.7; Código 11 V1.5; Código 12 V1.6; Código 13 V1.8; Código 14 V1.7; Código 15 V1.9; Código 16 V1.9."
+allineamento: "Constitución V.38; Código 1 V1.12; Código 2 V1.9; Código 3 V1.11; Código 4 V1.10; Código 6 V1.9; Código 7 V1.10; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 15 V1.12; Código 16 V1.10."
 ---
 
 ## TÍTULO PRELIMINAR — PRINCIPIOS FUNDAMENTALES
@@ -217,7 +217,7 @@ El resultado no se expresa como nota numérica ni como clasificación y no const
 
 La evaluación es descriptiva y considera lo que el menor sabe hacer, lo que desea aprender, los apoyos que necesita y sus intereses, con su participación y la de sus tutores.
 
-4.  Desde los catorce años y hasta que cumple dieciocho, el menor puede acceder progresivamente a actividades de las Listas B y C en las siguientes condiciones:
+4.  Desde los catorce años y hasta que cumple dieciocho, el menor puede acceder progresivamente a actividades de las Listas A, B y C en las siguientes condiciones; en las funciones de la Lista D del Código 1 participa a partir de los dieciséis años solo como acompañante, sin voto, conforme al artículo 12-bis, apartado 4, del Código 3:
 
     a) para competencias de riesgo nulo o bajo puede realizar práctica supervisada, sin que ello conlleve automáticamente una validación autónoma;
 
@@ -231,7 +231,7 @@ La evaluación es descriptiva y considera lo que el menor sabe hacer, lo que des
 
 6.  Desde que se cumplen dieciocho años se aplican las reglas ordinarias, incluidas las medidas de exención, reducción o suspensión previstas en el Código 1. Para la persona que ha crecido en la Confederación las reglas ordinarias se aplican desde la elección prevista en el artículo 26.4 de la Constitución o desde el vencimiento del plazo correspondiente; hasta entonces su CBO sigue siendo voluntaria conforme al apartado 5, sin el consentimiento del Consejo de Cuidado, y la persona conserva los derechos de miembro.
 
-6-bis. En aplicación del artículo 26.4 de la Constitución, al menos tres meses antes del decimoctavo cumpleaños el Consejo de las Competencias, con el Consejo de Cuidado, informa por escrito a la persona que ha crecido en la Confederación de las tres posibilidades, del plazo, de los derechos del artículo 4.8 de la Constitución y del apoyo para iniciar la vida autónoma, y organiza a petición suya el periodo de conocimiento de otras Comunidades y de realidades externas. La elección se declara por escrito ante la Asamblea del Círculo 1 o se registra en el Nodo-IA personal; la persona puede revisarla en cualquier momento. El plazo no corre mientras no se haya dado la información.
+6-bis. En aplicación del artículo 26.4 de la Constitución, al menos tres meses antes del decimoctavo cumpleaños el Consejo de las Competencias, con el Consejo de Cuidado, informa por escrito a la persona que ha crecido en la Confederación de las tres posibilidades, del plazo, de los derechos del artículo 4.8 de la Constitución y del apoyo para iniciar la vida autónoma, y organiza a petición suya el periodo de conocimiento de otras Comunidades y de realidades externas. La elección se declara por escrito ante la Asamblea del Círculo 1 o se registra en el Nodo-IA personal; la persona puede revisarla en cualquier momento. El plazo no corre mientras no se haya dado la información. Para la persona que, siendo menor, ha dejado de ser miembro conforme al artículo 26.5 de la Constitución y no ha sido readmitida, la elección sigue siendo posible en cualquier momento como readmisión; el silencio no vale como adhesión y hasta la elección no le corresponden los derechos de miembro.
 
 7.  Cada aprendiz menor cuenta con la tutoría de tres figuras de referencia con rotación trimestral, pertenecientes a Círculos de Competencia distintos y ajenas a su familia y a su Círculo 0, conforme al artículo 29.3 de la Constitución. Las figuras las designa el Consejo de las Competencias con la participación del menor.
 

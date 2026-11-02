@@ -27,7 +27,7 @@ Dove: Cost. 0.2; Cost. 38.1; Cost. 4.8; Cost. 26.4; Cost. 10.3; Cost. 8.1
 
 ### Come è fatta?
 
-Ognuno vive in un Nucleo di Cura (Cerchio 0), dove la Comunità non entra se non per proteggere qualcuno. I Nuclei formano Comunità di base, di norma da 30 a 500 persone, che decidono in assemblea: ognuno vota per sé. Le Comunità si federano in cerchi più ampi, che coordinano e non comandano. Gli incarichi si sorteggiano tra volontari e hanno durata limitata.
+Ognuno vive in un Nucleo di Cura (Cerchio 0), dove la Comunità non entra se non per proteggere qualcuno o, nei casi gravi, un animale. I Nuclei formano Comunità di base, di norma da 30 a 500 persone, che decidono in assemblea: ognuno vota per sé. Le Comunità si federano in cerchi più ampi, che coordinano e non comandano. Gli incarichi si sorteggiano tra volontari e hanno durata limitata.
 
 Parole: struttura, organizzazione, cerchi, nucleo, famiglia, comunità, livelli, federazione, come funziona, com'è fatta
 Dove: Cost. 5.1; Cost. 4.2; Cost. 4.3; Cost. 6.5; Cost. 4.4

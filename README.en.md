@@ -27,27 +27,27 @@ Then come the rules.
 
 | Text | Version |
 |---|---|
-| [Constitution](testi/en/register/constitution.md) | V.35 |
-| [Code 1 — Base contribution and Common Storehouses](testi/en/register/code-01.md) | V1.10 |
-| [Annex A to Code 1 — Material production and workshops](testi/en/register/code-01-annex-a.md) | V1.6 |
-| [Code 2 — Quality and validation](testi/en/register/code-02.md) | V1.7 |
-| [Code 3 — Deliberation, thresholds and Assembly](testi/en/register/code-03.md) | V1.8 |
-| [Code 4 — Restorative justice and guarantee](testi/en/register/code-04.md) | V1.9 |
-| [Code 5 — Learning and competences](testi/en/register/code-05.md) | V1.6 |
-| [Code 6 — Health](testi/en/register/code-06.md) | V1.8 |
-| [Code 7 — Automation and the Network](testi/en/register/code-07.md) | V1.9 |
-| [Code 8 — Energy and water](testi/en/register/code-08.md) | V1.6 |
-| [Code 9 — Agroecology and food](testi/en/register/code-09.md) | V3.3 |
-| [Code 10 — Habitat and territory](testi/en/register/code-10.md) | V1.7 |
-| [Code 11 — Logistics and basic mobility](testi/en/register/code-11.md) | V1.5 |
-| [Code 12 — Community care](testi/en/register/code-12.md) | V1.6 |
-| [Code 13 — Biodiversity, sanctuaries and fauna](testi/en/register/code-13.md) | V1.8 |
-| [Code 14 — General safety](testi/en/register/code-14.md) | V1.7 |
-| [Code 15 — External relations and Balance](testi/en/register/code-15.md) | V1.9 |
-| [Code 16 — Transition and launch](testi/en/register/code-16.md) | V1.9 |
-| [Annex A to Code 16 — Social start-up protocol](testi/en/register/code-16-annex-a.md) | V1.3 |
-| [Annex B to Code 16 — Operating manual for disengagement and federation](testi/en/register/code-16-annex-b.md) | V1.6 |
-| [Annex C to Code 16 — First-year operating charter](testi/en/register/code-16-annex-c.md) | V1.3 |
+| [Constitution](testi/en/register/constitution.md) | V.38 |
+| [Code 1 — Base contribution and Common Storehouses](testi/en/register/code-01.md) | V1.12 |
+| [Annex A to Code 1 — Material production and workshops](testi/en/register/code-01-annex-a.md) | V1.7 |
+| [Code 2 — Quality and validation](testi/en/register/code-02.md) | V1.9 |
+| [Code 3 — Deliberation, thresholds and Assembly](testi/en/register/code-03.md) | V1.11 |
+| [Code 4 — Restorative justice and guarantee](testi/en/register/code-04.md) | V1.10 |
+| [Code 5 — Learning and competences](testi/en/register/code-05.md) | V1.7 |
+| [Code 6 — Health](testi/en/register/code-06.md) | V1.9 |
+| [Code 7 — Automation and the Network](testi/en/register/code-07.md) | V1.10 |
+| [Code 8 — Energy and water](testi/en/register/code-08.md) | V1.7 |
+| [Code 9 — Agroecology and food](testi/en/register/code-09.md) | V3.4 |
+| [Code 10 — Habitat and territory](testi/en/register/code-10.md) | V1.8 |
+| [Code 11 — Logistics and basic mobility](testi/en/register/code-11.md) | V1.6 |
+| [Code 12 — Community care](testi/en/register/code-12.md) | V1.7 |
+| [Code 13 — Biodiversity, sanctuaries and fauna](testi/en/register/code-13.md) | V1.9 |
+| [Code 14 — General safety](testi/en/register/code-14.md) | V1.10 |
+| [Code 15 — External relations and Balance](testi/en/register/code-15.md) | V1.12 |
+| [Code 16 — Transition and launch](testi/en/register/code-16.md) | V1.10 |
+| [Annex A to Code 16 — Social start-up protocol](testi/en/register/code-16-annex-a.md) | V1.4 |
+| [Annex B to Code 16 — Operating manual for disengagement and federation](testi/en/register/code-16-annex-b.md) | V1.7 |
+| [Annex C to Code 16 — First-year operating charter](testi/en/register/code-16-annex-c.md) | V1.4 |
 
 The Constitution sets out the principles and the general structure. The Codes turn those principles into operating rules. The Technical Annexes develop procedures, criteria and specifications. In case of conflict, the Constitution prevails.
 

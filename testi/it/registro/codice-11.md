@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 11 — DELLA LOGISTICA E DELLA MOBILITÀ DI BASE"
 breve: "Codice 11 — Logistica e mobilità di base"
-versione: "V1.5"
+versione: "V1.6"
 gruppo: "codici"
 ordine: 11
 id: "codice-11"
 slug: "codice-11"
-allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; Codice 4 V1.9; Codice 5 V1.6; Codice 6 V1.8; Codice 7 V1.9; Codice 8 V1.6; C.1-Annex A V1.6; Codice 9 V3.3; Codice 10 V1.7; Codice 12 V1.6; Codice 13 V1.8; Codice 14 V1.7; Codice 15 V1.9; Codice 16 V1.9."
+allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.11; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.12; Codice 16 V1.10."
 ---
 
 ## Art. 1 — Oggetto e definizioni
@@ -181,7 +181,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
 7.  È ammessa una deroga transitoria motivata, di durata non superiore a dodici mesi, solo per garantire la continuità del Paniere, solo per una dipendenza che la STV classifica come residua e superabile ai sensi dell’articolo 5, comma 2, lettera b), del Codice 2, e con:
 
-    a) Piano di Uscita vincolante;
+    a) Piano di Sostituzione ai sensi dell’articolo 12 del Codice 2, pubblicato integralmente quando la dipendenza riguarda un firmware chiuso;
 
     b) termine finale certo;
 
@@ -189,7 +189,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
     d) parere del Consiglio Produzione e del Consiglio Rete, quando pertinenti.
 
-8.  La proroga è vietata, salvo impossibilità materiale documentata e nuova decisione motivata dell’organo competente.
+8.  La proroga segue l’articolo 12, commi 3 e 4, del Codice 2.
 
 ## Art. 6 — Infrastruttura logistica
 
@@ -273,7 +273,7 @@ allineamento: "Costituzione V.35; Codice 1 V1.10; Codice 2 V1.7; Codice 3 V1.8; 
 
     L’applicazione della regola è un atto tecnico vincolato. Nessuna ripartizione può togliere a una Comunità l’accesso effettivo garantito dall’articolo 6, comma 3.
 
-3.  La rete ferroviaria del Cerchio 3 e i trasporti previsti dall’articolo 10 del Codice 15 seguono un protocollo ferroviario del Cerchio 3, approvato dalla sua Assemblea Generale come Allegato Tecnico ai sensi dell’articolo 19 del Codice 3 e attuato dal Consiglio Logistica condiviso del Cerchio 3, costituito ai sensi del medesimo comma 6-bis. Il ricorso a vettori esterni è iscritto nel Registro Dipendenze.
+3.  La rete ferroviaria del Cerchio 3 e i trasporti previsti dall’articolo 10 del Codice 15 seguono un protocollo ferroviario del Cerchio 3, approvato dalla sua Assemblea Generale ai sensi dell’articolo 14 del Codice 3 e attuato dal Consiglio Logistica condiviso del Cerchio 3, costituito ai sensi del medesimo comma 6-bis; al protocollo si applica l’articolo 19, commi 4 e 5, del Codice 3. Il ricorso a vettori esterni è iscritto nel Registro Dipendenze.
 
 ## Art. 7 — Sicurezza
 

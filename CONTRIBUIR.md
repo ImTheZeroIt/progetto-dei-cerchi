@@ -9,7 +9,7 @@ Las reglas (la Constitución, los Códigos y los Anexos) están traducidas al es
 1. **Casos concretos.** Los Códigos 3 y 4 piden que las reglas se prueben con casos reales antes de considerarse definitivas. Un caso es una situación descrita con precisión (un conflicto, una escasez de agua, una negativa, una objeción en la Asamblea) que se somete a los procedimientos, para ver dónde resisten y dónde no.
 2. **Revisiones de especialistas.** Quien conoce una materia puede revisar el Código que la trata: qué está mal, qué falta, qué no es aplicable.
 3. **Contradicciones y remisiones.** Un artículo que contradice a otro, una remisión que lleva al apartado equivocado, un término usado en dos sentidos.
-4. **Números.** Muchos parámetros son propuestas iniciales. El [registro de parámetros por verificar](https://imthezeroit.github.io/progetto-dei-cerchi/registro/parametri.html) (por ahora en italiano) dice de dónde viene cada uno y qué prueba haría falta. Son útiles los datos y las experiencias que los confirmen o los desmientan.
+4. **Números.** Muchos parámetros son propuestas iniciales. El [registro de parámetros por verificar](https://imthezeroit.github.io/progetto-dei-cerchi/es/registro/parametros.html) dice de dónde viene cada uno y qué prueba haría falta. Son útiles los datos y las experiencias que los confirmen o los desmientan.
 5. **Claridad.** Frases oscuras, pasajes que un lector no experto no consigue seguir.
 6. **Traducción.** Las versiones inglesa, española y francesa son traducciones de trabajo. Son bienvenidas las correcciones de hablantes nativos, mejor si tienen formación jurídica, y las traducciones de las reglas a otras lenguas. El texto de referencia es el italiano; los términos están fijados en `testi/es/GLOSARIO.md`, en `testi/en/GLOSSARY.md` y en `testi/fr/GLOSSAIRE.md`.
 
@@ -54,7 +54,7 @@ Una propuesta de cambio de las reglas se acepta cuando cumple todos estos criter
 Los plazos dependen del tipo de cambio:
 
 - **Correcciones materiales** (erratas, remisiones equivocadas, términos no alineados): se aceptan de inmediato.
-- **Cambios de fondo:** se aplican cuando han sido verificados según los criterios anteriores, por regla general con una lectura contraria que intenta desmontarlos. Las propuestas ya decididas están, en italiano, en el [archivo de las propuestas](https://imthezeroit.github.io/progetto-dei-cerchi/registro/proposte.html).
+- **Cambios de fondo:** se aplican cuando han sido verificados según los criterios anteriores, por regla general con una lectura contraria que intenta desmontarlos. Las propuestas ya decididas están en el [archivo de las propuestas](https://imthezeroit.github.io/progetto-dei-cerchi/es/registro/propuestas.html).
 
 Cuando una propuesta se rechaza, el motivo queda escrito en la incidencia, que sigue siendo consultable. Un cambio ya aceptado puede retirarse si un caso de prueba muestra que ha empeorado el texto.
 

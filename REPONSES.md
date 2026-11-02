@@ -27,7 +27,7 @@ Où: Const. 0.2; Const. 38.1; Const. 4.8; Const. 26.4; Const. 10.3; Const. 8.1
 
 ### Comment est-elle faite ?
 
-Chacun vit dans un Noyau de soin (Cercle 0), où la Communauté n’entre que pour protéger quelqu’un. Les Noyaux forment des Communautés de base, en règle générale de 30 à 500 personnes, qui décident en assemblée : chacun vote pour soi. Les Communautés se fédèrent en cercles plus larges, qui coordonnent et ne commandent pas. Les charges sont tirées au sort parmi des volontaires et ont une durée limitée.
+Chacun vit dans un Noyau de soin (Cercle 0), où la Communauté n’entre que pour protéger quelqu’un ou, dans les cas graves, un animal. Les Noyaux forment des Communautés de base, en règle générale de 30 à 500 personnes, qui décident en assemblée : chacun vote pour soi. Les Communautés se fédèrent en cercles plus larges, qui coordonnent et ne commandent pas. Les charges sont tirées au sort parmi des volontaires et ont une durée limitée.
 
 Mots: structure, organisation, cercles, noyau, famille, communauté, niveaux, fédération, comment ça marche, comment c’est organisé, fonctionnement
 Où: Const. 5.1; Const. 4.2; Const. 4.3; Const. 6.5; Const. 4.4

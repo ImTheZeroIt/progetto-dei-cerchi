@@ -1,7 +1,7 @@
 ---
 titolo: "ALLEGATO TECNICO C AL CODICE 16 — CARTA OPERATIVA DEL PRIMO ANNO"
 breve: "Allegato C al Codice 16 — Carta operativa del primo anno"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "allegati"
 ordine: 16.3
 id: "codice-16-allegato-c"
@@ -80,10 +80,10 @@ Allegato tecnico adottato ai sensi dell’articolo 19 del Codice 3 e richiamato 
 
 1.  I beni conferiti sono iscritti nell’inventario provvisorio dell’articolo 6 del Codice 16. Il conferimento è volontario e indica se è definitivo o in uso temporaneo.
 2.  Nel primo anno non si adottano decisioni che rendono irreversibile la destinazione di beni ecologici o territoriali.
-3.  Gli animali presenti restano con la Comunità se ricorrono le condizioni dell’articolo 6-bis del Codice 9. Ogni pratica vietata cessa senza ritardo.
+3.  Gli animali presenti restano con la Comunità se ricorrono le condizioni dell’articolo 6-bis del Codice 9, verificate dal Consiglio Biodiversità istituito ai sensi dell’articolo 3, comma 1, lettera f), del Codice 16. Ogni pratica vietata cessa senza ritardo.
 
 ## Art. 10 — Verifica a dodici mesi
 
-1.  Al termine del primo anno l’Assemblea verifica le soglie dell’articolo 4 del Codice 16, anche con il Protocollo di Avvio Sociale, e pubblica un rapporto.
+1.  Al termine del primo anno l’Assemblea esamina la verifica delle soglie dell’articolo 4 del Codice 16 svolta dal Consiglio Transizione, anche con il Protocollo di Avvio Sociale, e pubblica un rapporto.
 2.  Il rapporto indica che cosa ha funzionato, quali regole si sono rivelate inapplicabili o troppo onerose e quali semplificazioni sono proposte, anche ai fini dell’articolo 38 della Costituzione.
 3.  La Carta è aggiornata sulla base del rapporto.

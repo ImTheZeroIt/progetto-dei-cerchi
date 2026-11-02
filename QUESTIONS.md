@@ -27,7 +27,7 @@ Where: Const. 0.2; Const. 38.1; Const. 4.8; Const. 26.4; Const. 10.3; Const. 8.1
 
 ### How is it built?
 
-Everyone lives in a Care Nucleus (Circle 0), which the Community does not enter except to protect someone. Nuclei form Base Communities, as a rule of 30 to 500 people, which decide in assembly: everyone votes for themselves. Communities federate into wider circles, which coordinate and do not command. Roles are assigned by lot among volunteers and are of limited duration.
+Everyone lives in a Care Nucleus (Circle 0), which the Community does not enter except to protect someone or, in serious cases, an animal. Nuclei form Base Communities, as a rule of 30 to 500 people, which decide in assembly: everyone votes for themselves. Communities federate into wider circles, which coordinate and do not command. Roles are assigned by lot among volunteers and are of limited duration.
 
 Words: structure, organisation, organization, circles, nucleus, family, community, levels, federation, how it works
 Where: Const. 5.1; Const. 4.2; Const. 4.3; Const. 6.5; Const. 4.4

@@ -1,7 +1,7 @@
 ---
 titolo: "TECHNICAL ANNEX C TO CODE 16 — FIRST-YEAR OPERATING CHARTER"
 breve: "Annex C to Code 16 — First-year operating charter"
-versione: "V1.3"
+versione: "V1.4"
 gruppo: "allegati"
 ordine: 16.3
 id: "codice-16-allegato-c"
@@ -79,10 +79,10 @@ Technical annex adopted pursuant to Article 19 of Code 3 and referred to in Arti
 
 1.  Goods conferred are entered in the provisional inventory of Article 6 of Code 16. The conferral of goods is voluntary and states whether it is definitive or for temporary use.
 2.  In the first year no decisions are adopted that make the destination of ecological or territorial goods irreversible.
-3.  The animals present remain with the Community if the conditions of Article 6-bis of Code 9 are met. Every prohibited practice ceases without delay.
+3.  The animals present remain with the Community if the conditions of Article 6-bis of Code 9 are met, as verified by the Biodiversity Council established pursuant to Article 3, paragraph 1, letter f), of Code 16. Every prohibited practice ceases without delay.
 
 ## Art. 10 — Verification at twelve months
 
-1.  At the end of the first year the Assembly verifies the thresholds of Article 4 of Code 16, also by means of the Social Start-up Protocol, and publishes a report.
+1.  At the end of the first year the Assembly examines the verification of the thresholds of Article 4 of Code 16 carried out by the Transition Council, also by means of the Social Start-up Protocol, and publishes a report.
 2.  The report indicates what has worked, which rules have proved inapplicable or too burdensome and which simplifications are proposed, also for the purposes of Article 38 of the Constitution.
 3.  The Charter is updated on the basis of the report.

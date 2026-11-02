@@ -1,12 +1,12 @@
 ---
 titolo: "CÓDIGO 12 — CUIDADO COMUNITARIO, FRAGILIDADES FUNCIONALES Y SALUD COMUNITARIA"
 breve: "Código 12 — Cuidado comunitario"
-versione: "V1.6"
+versione: "V1.7"
 gruppo: "codici"
 ordine: 12
 id: "codice-12"
 slug: "codigo-12"
-allineamento: "Constitución V.35; Código 1 V1.10; Código 2 V1.7; Código 3 V1.8; Código 4 V1.9; Código 5 V1.6; Código 6 V1.8; Código 7 V1.9; Código 8 V1.6; C.1-Annex A V1.6; Código 9 V3.3; Código 10 V1.7; Código 11 V1.5; Código 13 V1.8; Código 14 V1.7; Código 15 V1.9; Código 16 V1.9."
+allineamento: "Constitución V.38; Código 1 V1.12; Código 2 V1.9; Código 3 V1.11; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 7 V1.10; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 13 V1.9; Código 14 V1.10; Código 15 V1.12; Código 16 V1.10."
 ---
 
 ## Art. 1 — Objeto, definiciones y ámbito de competencia
@@ -250,7 +250,7 @@ a) el regreso al Círculo 0, en su caso con un itinerario de apoyo; o bien
 
 b) solo cuando el regreso expondría al menor a violencia, negligencia grave o perjuicio que un itinerario de apoyo no puede evitar, la guarda por personas que asumen la responsabilidad de su cuidado conforme al artículo 24.3 de la Constitución, indicando si esa responsabilidad sigue compartida con las personas que la ejercían o queda suspendida para ellas, y cómo se mantienen las relaciones con ellas, salvo que ello perjudique al menor.
 
-El Tribunal reexamina la decisión al menos cada seis meses y en cualquier momento a petición del menor o de las personas que tenían la responsabilidad de su cuidado. Contra ella cabe el reexamen del artículo 35, apartado 2, del Código 4. El presente apartado se aplica también a la decisión sobre dónde y con quién viven los hijos menores de la persona que cesa de ser miembro conforme al artículo 29, apartado 6-bis, del Código 4; la decisión se adopta antes de que el cese produzca efectos y no requiere la separación del apartado 3. En ese caso, el cese no constituye, por sí solo, violencia, negligencia grave o perjuicio en el sentido de la letra b), y el Tribunal puede disponer también que el menor viva con la persona en la porción asignada, con la vivienda, la Cesta y los servicios que le corresponden como miembro.
+El Tribunal reexamina la decisión al menos cada seis meses y en cualquier momento a petición del menor o de las personas que tenían la responsabilidad de su cuidado. Contra ella cabe el reexamen del artículo 35, apartado 2, del Código 4. El presente apartado se aplica también a la decisión sobre dónde y con quién viven los hijos menores de la persona que cesa de ser miembro conforme al artículo 29, apartado 6-bis, del Código 4; la decisión se adopta antes de que el cese produzca efectos y no requiere la separación del apartado 3. En ese caso, el cese no constituye, por sí solo, violencia, negligencia grave o perjuicio en el sentido de la letra b), y el Tribunal puede disponer también que el menor viva con la persona en la porción asignada, con la vivienda, la Cesta y los servicios que le corresponden como miembro. El presente apartado se aplica también, previo aviso del Consejo de Cuidado o de cualquier persona interesada, cuando nadie ejerce la responsabilidad del cuidado del menor o varias personas se la disputan; el plazo corre desde el aviso y el Tribunal indica quién asume la responsabilidad del cuidado.
 
 3-ter. Durante la transición, la separación contra la voluntad de quien tiene la responsabilidad del cuidado y las decisiones del apartado 3-bis corresponden a las autoridades competentes del Estado, conforme al artículo 37 del Código 4. El Consejo de Cuidado comunica el caso, apoya al menor y colabora en su acogida.
 
@@ -276,6 +276,8 @@ La decisión es motivada e indica quién toma las decisiones cotidianas y cómo 
 
 4.  Contra la decisión del apartado 2, o si no se adopta en el plazo, el menor y cada persona que tiene la responsabilidad de su cuidado pueden recurrir en un plazo de catorce días ante el Tribunal de Garantía, que decide en un plazo de treinta días con las garantías del artículo 7-bis, apartado 3-bis, teniendo en cuenta la voluntad del menor según su edad y su madurez. Contra la decisión del Tribunal cabe el reexamen del artículo 35, apartado 2, del Código 4.
 
+4-bis. El menor es miembro desde el nacimiento, o desde su llegada a la Comunidad, si lo es al menos una de las personas que tienen la responsabilidad de su cuidado. En los demás casos la adhesión se hace con las reglas de edad del artículo 26.5 de la Constitución: a partir de los dieciséis años por el propio menor, antes por quien tiene la responsabilidad de su cuidado, en su interés y después de haberlo informado y escuchado. A efectos del artículo 26.4 de la Constitución, ha crecido en la Confederación la persona que ha sido miembro siendo menor durante al menos un año.
+
 5.  A partir de los dieciséis años cumplidos, el menor puede hacer por sí mismo la declaración del artículo 4.8 de la Constitución, conforme al artículo 26.5 de la Constitución. La declaración va precedida de una entrevista con el Consejo de Cuidado, en la que el menor puede hacerse asistir por la persona de confianza; el Consejo le informa de los efectos del artículo 4.8, de los derechos que conserva conforme al apartado 8, del Pacto de Convivencia Autónoma y de la readmisión, y verifica con él dónde y con quién vivirá. La entrevista tiene lugar en un plazo de catorce días desde la solicitud; transcurrido el plazo sin entrevista, la declaración puede hacerse de todos modos. Se informa a las personas que tienen la responsabilidad de su cuidado, salvo que ello exponga al menor a peligro. Si, antes de cumplir dieciocho años, el menor no está en condiciones de decidir, se aplica el apartado 6.
 
 6.  Hasta cumplir dieciséis años, la declaración del artículo 4.8 de la Constitución por el menor la hace quien tiene la responsabilidad de su cuidado, solo en interés del menor, después de haberlo informado y escuchado de forma adecuada a su edad; la opinión del menor tiene un peso creciente con la edad y la madurez, conforme al artículo 26.2 de la Constitución. Si las personas responsables son más de una, deciden de común acuerdo. La declaración que una persona hace por sí misma no se extiende a los menores de cuyo cuidado es responsable.
@@ -288,7 +290,7 @@ La decisión es motivada e indica quién toma las decisiones cotidianas y cómo 
 
 Contra la decisión cabe el reexamen del artículo 35, apartado 2, del Código 4.
 
-8.  El menor que ya no es miembro conserva en todo caso el agua potable, la atención de urgencia vital y la protección de los menores garantizadas por el artículo 1.3 de la Constitución, los derechos del artículo 26 de la Constitución a los que remite el artículo 4.9-bis, incluido el acceso a la atención sanitaria y al aprendizaje, y los demás derechos del artículo 4.9. Puede seguir viviendo en su Círculo 0, con el consentimiento de quienes viven allí, y puede solicitar en cualquier momento la readmisión conforme al artículo 4.8 de la Constitución.
+8.  El menor que ya no es miembro conserva en todo caso el agua potable, la atención de urgencia vital y la protección de los menores garantizadas por el artículo 1.3 de la Constitución, los derechos del artículo 26 de la Constitución a los que remite el artículo 4.9-bis, incluido el acceso a la atención sanitaria y al aprendizaje, y los demás derechos del artículo 4.9, salvo el límite de la letra b). Conforme al artículo 26.5 de la Constitución puede seguir viviendo en su Círculo 0, con el consentimiento de quienes viven allí, hasta que cumple dieciocho años; mientras tanto recibe la Cesta para sí y no se le aplica el artículo 4.9-ter de la Constitución. Puede solicitar en cualquier momento la readmisión conforme al artículo 4.8 de la Constitución.
 
 9.  Durante la transición, el presente artículo se aplica dentro de los límites permitidos por la ley vigente sobre la responsabilidad del cuidado y sobre la participación de los menores en las entidades, conforme al artículo 37 del Código 4. La elección de residencia contra la voluntad de quien tiene la responsabilidad del cuidado y las decisiones del Tribunal previstas en los apartados 4 y 7 corresponden a las autoridades competentes del Estado; el Consejo de Cuidado apoya al menor.
 
@@ -334,7 +336,7 @@ Contra la decisión cabe el reexamen del artículo 35, apartado 2, del Código 4
 
     f) utilizar datos sobre la fragilidad funcional para la elaboración de perfiles o con finalidades distintas de la toma a cargo y de las finalidades técnicas expresamente permitidas por el Código 7;
 
-    g) disponer la institucionalización forzosa de una persona, salvo una ubicación temporal estrictamente necesaria ante un riesgo inmediato, adoptada en las condiciones y con las garantías del artículo 8, apartados 4 a 10, del Código 6; para los menores se aplica el artículo 7-bis, apartado 3. Los eventuales tratamientos sanitarios siguen regulados por el Código 6 y por sus garantías.
+    g) disponer la institucionalización forzosa de una persona, salvo una ubicación temporal estrictamente necesaria ante un riesgo inmediato, adoptada en las condiciones y con las garantías del artículo 8, apartados 4 a 10, del Código 6; para los menores se aplican además el artículo 8 del Código 6 y, si la ubicación los separa del Círculo 0, el artículo 7-bis, apartado 3. Los eventuales tratamientos sanitarios siguen regulados por el Código 6 y por sus garantías.
 
 2.  Las infracciones del apartado 1 constituyen infracciones sustanciales. La comprobación, las medidas cautelares, la suspensión o la desactivación de la función y los remedios se adoptan según el Código 4. El Consejo de Cuidado documenta los hechos y activa los procedimientos previstos, sin sustituir a los órganos competentes para la comprobación o para la aplicación de los remedios.
 

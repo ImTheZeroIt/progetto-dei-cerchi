@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 2 — DE LA QUALITÉ ET DE LA VALIDATION"
 breve: "Code 2 — Qualité et validation"
-versione: "V1.7"
+versione: "V1.9"
 gruppo: "codici"
 ordine: 2
 id: "codice-02"
 slug: "code-02"
-allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 3 V1.8 ; Code 4 V1.9 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.8 ; Code 14 V1.7 ; Code 15 V1.9 ; Code 16 V1.9."
+allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 3 V1.11 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 7 V1.10 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 15 V1.12 ; Code 16 V1.10."
 ---
 
 ## CHAPITRE I — PRINCIPES, CRITÈRES ET ADMISSION
@@ -133,7 +133,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 3 V1.8 ; Code 4 V1.
 
     a) **dépendance critique absolue :** elle entraîne un blocage total ou un couplage propriétaire irréversible, ou rend impossible l’usage hors ligne ou le contrôle communautaire. Elle est interdite et ne peut pas être admise, même à titre temporaire ;
 
-    b) **dépendance critique résiduelle et surmontable :** elle entraîne une limitation partielle que la Communauté peut lever au moyen d’outils, de procédures ou de substitutions techniquement disponibles. Le bien ne peut être admis que temporairement en application de l’article 4, alinéa 1, lettre d), avec un Plan de substitution obligatoire. Lorsque la dépendance porte sur un logiciel ou un micrologiciel dont le code source n’est pas disponible, l’admission est permise dans les limites de l’article 19.4 de la Constitution et de l’article 12, alinéa 5, et n’est jamais permise pour les systèmes qui proposent ou décident en matière de droits, de vote et de Biens communs, parmi lesquels les IA de gestion, les algorithmes de l’article 2, alinéa 5, du Code 7, l’IA personnelle et les systèmes de consultation et de vote de l’article 34.4 de la Constitution.
+    b) **dépendance critique résiduelle et surmontable :** elle entraîne une limitation partielle que la Communauté peut lever au moyen d’outils, de procédures ou de substitutions techniquement disponibles. Le bien ne peut être admis que temporairement en application de l’article 4, alinéa 1, lettre d), avec un Plan de substitution obligatoire. Lorsque la dépendance porte sur un logiciel ou un micrologiciel dont le code source n’est pas disponible, l’admission est permise dans les limites de l’article 19.4 de la Constitution et de l’article 12, alinéa 5, et n’est jamais permise pour les systèmes qui proposent ou décident en matière de droits, de vote et de Biens communs, parmi lesquels les IA de gestion, les algorithmes de l’article 2, alinéa 5, du Code 7, l’IA personnelle et les systèmes de consultation et de vote de l’article 34.4 de la Constitution. Aux fins de l’article 19.4 de la Constitution, ne proposent ni ne décident le micrologiciel et le logiciel qui exécutent des commandes humaines ou des automatisations dotées d’une STV, sans formuler de propositions ou de choix en matière de droits, de vote ou d’affectation des Biens communs.
 
 3.  La classification est consignée dans la STV, sur la base d’une instruction du Conseil Qualité et de l’avis du Conseil Réseau. L’évaluation prend également en compte la possibilité concrète, les délais et les coûts de la suppression de la dépendance.
 
@@ -583,7 +583,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 3 V1.8 ; Code 4 V1.
 
     d) le recueil de l’avis du Conseil Santé lorsque le service concerne des personnes, la santé ou la sécurité ;
 
-    e) la décision du Conseil Qualité pour les services d’usage courant en dessous du seuil, ou la proposition du Conseil Qualité et la décision de l’Assemblée dans les cas prévus par l’article 15 ;
+    e) la proposition du Conseil Qualité et la décision de l’organe indiqué par la matrice de l’article 7 du Code 3, en application de l’article 15 ;
 
     f) la conclusion du contrat avec des clauses de sortie, de continuité, de restitution des données et de gestion des dépendances ;
 

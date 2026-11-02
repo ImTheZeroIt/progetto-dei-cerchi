@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 16 — TRANSITION ET LANCEMENT DE LA CONFÉDÉRATION"
 breve: "Code 16 — Transition et lancement"
-versione: "V1.9"
+versione: "V1.10"
 gruppo: "codici"
 ordine: 16
 id: "codice-16"
 slug: "code-16"
-allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.8 ; Code 4 V1.9 ; Code 5 V1.6 ; Code 6 V1.8 ; Code 7 V1.9 ; Code 8 V1.6 ; C.1-Annex A V1.6 ; Code 9 V3.3 ; Code 10 V1.7 ; Code 11 V1.5 ; Code 12 V1.6 ; Code 13 V1.8 ; Code 14 V1.7 ; Code 15 V1.9."
+allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 3 V1.11 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 7 V1.10 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 15 V1.12."
 ---
 
 ## Art. 1 — Objet, définitions et nature temporaire
@@ -21,7 +21,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
     c) **Cercle pilote** : une Communauté de base, correspondant au Cercle 1, instituée en application des articles 4–6 de la Constitution pour l’expérimentation initiale ;
 
-    d) **Bassin** : un regroupement de trois ou quatre Cercles pilotes territorialement contigus et écologiquement reliés, correspondant au Cercle intermédiaire ou Cercle 2 visé à l’article 5 de la Constitution ;
+    d) **Bassin** : un regroupement d’au moins trois Cercles pilotes, en règle générale pas plus de quatre, territorialement contigus et écologiquement reliés, correspondant au Cercle intermédiaire ou Cercle 2 visé à l’article 5 de la Constitution ;
 
     e) **Fédération minimale** : un regroupement d’au moins trois Bassins ;
 
@@ -97,13 +97,13 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
     e) la formation L1 de base aux gestes qui sauvent est lancée conformément au Code 6 ;
 
-    f) le Cercle de garantie et les Conseils prévus par les Codes actifs sont institués, y compris le Conseil des Entrepôts, le Conseil Santé et le Conseil des Compétences, même sous une forme regroupée ou partagée ou bien au sein des trois Conseils de secteur prévus par l’article 12-bis, alinéa 12, du Code 3 ;
+    f) le Cercle de garantie et les Conseils prévus par les Codes actifs sont institués, y compris le Conseil des Entrepôts, le Conseil Santé, qui, jusqu’à l’activation du Code 12, exerce aussi les fonctions du Conseil Soin prévues par les articles 26.2 et 26.3 de la Constitution et par l’article 7-bis du Code 12, et le Conseil des Compétences, même sous une forme regroupée ou partagée ou bien au sein des trois Conseils de secteur prévus par l’article 12-bis, alinéa 12, du Code 3. Si des animaux vivent dans le Cercle pilote ou y sont accueillis, le Conseil Biodiversité est également institué, y compris sous forme commune, pour les seules autorisations de l’article 13.3 de la Constitution et de l’article 7 du Code 13 ;
 
     g) le Cercle pilote fonctionne conformément à la Charte opérationnelle de la première année.
 
 2.  **Phase 1 — Bassin.** La durée indicative est de six à dix-huit mois. Au cours de cette phase :
 
-    a) trois ou quatre Cercles pilotes contigus se regroupent en un Bassin ;
+    a) au moins trois Cercles pilotes contigus, en règle générale pas plus de quatre, se regroupent en un Bassin ;
 
     b) les Codes 7, 8, 9 et 10 et le C.1-Annex A sont activés, en plus des Codes de la Phase 0 ;
 
@@ -113,7 +113,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
     e) les sols susceptibles de devenir des sanctuaires font l’objet d’un recensement préliminaire, en préparation de l’activation du Code 13 ;
 
-    f) les Conseils Réseau, Énergie et Eau, agroécologique, Habitat et Territoire et Production sont activés ;
+    f) les Conseils Réseau, Énergie et Eau, agroécologique, Habitat et Territoire, Production et Biodiversité sont activés ; le Conseil Biodiversité exerce les fonctions que lui attribuent les Codes 8, 9 et 10, selon les articles 3, 4-bis et 7 du Code 13, y compris sous forme commune au sein du Bassin ;
 
     g) le Solde prévu par le Code 15 est activé à l’échelle du Bassin et le Conseil des Entrepôts du Bassin prévu par l’article 9-bis du Code 15 est institué.
 
@@ -129,7 +129,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
     e) les machines critiques, les EPI et les protections collectives sont recensés conformément au Code 14 ;
 
-    f) les Conseils Logistique, Soin, Biodiversité et Sécurité sont activés ;
+    f) les Conseils Logistique, Soin et Sécurité sont activés, et le Conseil Biodiversité exerce toutes les fonctions du Code 13 ;
 
     g) la première version du Registre des dépendances est instituée, en intégrant les registres des Codes sectoriels.
 
@@ -151,15 +151,15 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
     a) le passage de la Phase 0 à la Phase 1 est délibéré conjointement par les Cercles pilotes qui constituent le Bassin, en application de l’article 14, alinéa 10, du Code 3 ; le passage de la Phase 1 à la Phase 2 par l’Assemblée générale des Bassins qui constituent la Fédération minimale ; les passages suivants et la clôture par l’Assemblée générale de la Fédération minimale ;
 
-    b) le Cercle pilote qui se constitue ou adhère alors que d’autres sont déjà dans une phase ultérieure parcourt la Phase 0. Une fois dépassés les seuils de l’article 4, alinéa 1, il entre dans un Bassin contigu ou en constitue un nouveau. Le Bassin qui a dépassé les seuils de l’article 4, alinéa 2, entre dans une Fédération minimale ou en constitue une nouvelle avec au moins deux autres Bassins ;
+    b) le Cercle pilote qui se constitue ou adhère alors que d’autres sont déjà dans une phase ultérieure parcourt la Phase 0. Une fois dépassés les seuils de l’article 4, alinéa 1, il entre dans un Bassin contigu ou en constitue un nouveau. Le Bassin qui dépasse ainsi quatre Cercles pilotes peut se diviser en plusieurs Bassins contigus, chacun d’au moins trois Cercles pilotes, par délibération de son Assemblée générale, sans reculer de phase. Le Bassin qui a dépassé les seuils de l’article 4, alinéa 2, entre dans une Fédération minimale ou en constitue une nouvelle avec au moins deux autres Bassins ;
 
-    c) le Cercle pilote ou le Bassin qui entre dans un Bassin ou dans une Fédération minimale en prend la phase lorsqu’il satisfait, pour sa propre part, aux seuils des passages déjà délibérés par celui-ci ou celle-ci. La vérification est effectuée par le Conseil Transition de l’unité qui l’accueille et ne peut pas introduire d’appréciations supplémentaires, en application de l’article 4.5 de la Constitution. Les Codes déjà activés s’appliquent à l’entrant à partir du jour de l’entrée, et les délais transitoires de chaque Code courent à partir de cette date ;
+    c) le Cercle pilote ou le Bassin qui entre dans un Bassin ou dans une Fédération minimale en prend la phase lorsqu’il satisfait, pour sa propre part, aux seuils des passages déjà délibérés par celui-ci ou celle-ci. La vérification est effectuée par le Conseil Transition de l’unité qui l’accueille et ne peut pas introduire d’appréciations supplémentaires, en application de l’article 4.5 de la Constitution. Si le Bassin qui l’accueille fait partie d’une Fédération minimale, la vérification est effectuée par le Conseil Transition de celle-ci ; si la Fédération minimale a clos la transition, par un Conseil Transition constitué pour cette seule vérification en application de l’article 5, alinéas 1–3, parmi les personnes éligibles du Cercle 2 qui l’accueille ou, lorsqu’un Bassin entre, du Cercle 3. Les Codes déjà activés s’appliquent à l’entrant à partir du jour de l’entrée, et les délais transitoires de chaque Code courent à partir de cette date ; pour les autres unités, ils courent à partir de l’activation du Code en application du présent article ;
 
     d) si la Fédération minimale a déjà clos la transition, la vérification de la lettre c) comprend les seuils de l’article 4, alinéas 3 et 4, et la clôture de la transition pour l’entrant est délibérée par son Assemblée générale en application de l’article 10, alinéa 1 ; l’entrée dans le Cercle étendu suit l’article 14-bis, alinéa 4, du Code 3 ;
 
     e) l’entrée d’un nouveau Cercle pilote ou d’un nouveau Bassin ne fait pas reculer de phase l’unité qui l’accueille ;
 
-    f) la Communauté associée en application de l’article 21-bis du Code 15 ne parcourt pas les phases pour sa propre vie interne et n’est pas tenue d’activer les Codes et les Conseils des phases, sauf les outils qu’elle adopte. Elle entre dans un Bassin, ou concourt à en constituer un, lorsque l’équivalence à la frontière a été vérifiée. Elle est comptée comme Cercle pilote, si elle compte au moins trente personnes adhérentes, ou sinon avec d’autres Communautés associées contiguës jusqu’à atteindre ce nombre, aux fins de l’article 1, alinéa 2, lettres a) et d), et alinéa 5, de l’article 3, alinéa 7, lettre a), et de l’article 5, alinéa 1, ainsi que des renvois des Codes au Cercle pilote qui concernent les organes communs et les garanties des personnes, y compris l’article 37 du Code 4. Les seuils de l’article 4 sont vérifiés, pour sa part, sur les données et les engagements qu’elle fournit à la frontière en application de l’article 21-bis, alinéa 2, du Code 15 ; les seuils de l’article 4, alinéa 1, et, pour sa part, ceux relatifs au Bilan du travail et au Protocole de démarrage social ne s’appliquent pas à elle et sont vérifiés sur les autres unités du Bassin. Dans le Bassin et dans la Fédération minimale, elle suit les règles des outils communs activés dans la phase.
+    f) la Communauté associée en application de l’article 21-bis du Code 15 ne parcourt pas les phases pour sa propre vie interne et n’est pas tenue d’activer les Codes et les Conseils des phases, sauf les outils qu’elle adopte. Elle entre dans un Bassin, ou concourt à en constituer un, lorsque l’équivalence à la frontière a été vérifiée. Elle est comptée comme Cercle pilote, si elle compte au moins trente personnes adhérentes, ou sinon avec d’autres Communautés associées contiguës jusqu’à atteindre ce nombre, aux fins de l’article 1, alinéa 2, lettres a) et d), et alinéa 5, de l’article 3, alinéa 7, lettre a), et de l’article 5, alinéa 1, ainsi que des renvois des Codes au Cercle pilote qui concernent les organes communs et les garanties des personnes, y compris l’article 37 du Code 4. Les seuils de l’article 4 sont vérifiés, pour sa part, sur les données et les engagements qu’elle fournit à la frontière en application de l’article 21-bis, alinéa 2, du Code 15 ; les seuils de l’article 4, alinéa 1, et, pour sa part, ceux relatifs au Bilan du travail et au Protocole de démarrage social ne s’appliquent pas à elle et sont vérifiés sur les autres unités du Bassin ; si le Bassin ne comprend pas d’autres unités, ces seuils ne s’appliquent pas. Dans le Bassin et dans la Fédération minimale, elle suit les règles des outils communs activés dans la phase.
 
 8.  **Deux parcours.** Les Phases 0–4 des alinéas 1–5 constituent le parcours des Cercles pilotes. À côté de lui, le parcours des réseaux suit les Phases A–E des articles 11–20. Les deux parcours se rejoignent avec la conversion de l’article 17 : à partir de ce moment, chaque Cercle 1 né d’un réseau est en Phase 0, parcourt les Phases 0–4 comme un Cercle pilote, avec les seuils de l’article 4, et, une fois franchis les seuils de l’article 4, alinéa 1, entre dans un Bassin, même déjà constitué, en application de l’alinéa 7, lettres b) et c).
 
@@ -215,7 +215,9 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
     d) le maintien documenté du Niveau 3 du Protocole de démarrage social ;
 
-    e) des Bilans du travail qui respectent la limite de l’article 3 du Code 1 pendant quatre trimestres consécutifs ou, à défaut, la présentation d’une proposition motivée de révision de cette limite en application de l’article 38 de la Constitution.
+    e) des Bilans du travail qui respectent la limite de l’article 3 du Code 1 pendant quatre trimestres consécutifs ou, à défaut, la présentation d’une proposition motivée de révision de cette limite en application des articles 37 et 38 de la Constitution ;
+
+    f) la cessation de l’utilisation des systèmes admis en application de l’article 9-bis, alinéa 1, lettre a).
 
 5.  La vérification des seuils est effectuée par le Conseil Transition, avec l’avis obligatoire des Conseils compétents en la matière. Le passage de phase constitue une décision constitutive au sens de l’article 3, alinéa 3, du Code 3 et est délibéré par l’Assemblée générale indiquée par l’article 3, alinéa 7, lettre a), selon la convocation, le quorum et la procédure prévus par les Codes 3 et 4. La délibération est publiée sous une forme agrégée et sans profilage.
 
@@ -338,11 +340,13 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
     b) l’application progressive ne permet pas d’utiliser du code fermé ou des modèles non open source pour les IA de gestion, pour les algorithmes de l’article 2, alinéa 5, du Code 7, pour l’IA personnelle et pour les systèmes de consultation et de vote de l’article 34.4 de la Constitution ;
 
-    c) les systèmes de la lettre a) installés auprès de la Communauté ne reçoivent pas de mises à jour automatiques ou à distance ; toute mise à jour est vérifiée par le Conseil Réseau avant l’installation et elle est réversible, en application de l’article 5-ter, alinéa 7, du Code 7 ;
+    c) aucun système de la lettre a) ne reçoit de mises à jour automatiques ni de mises à jour installées par d’autres que la Communauté ; toute mise à jour est vérifiée par le Conseil Réseau avant l’installation et elle est réversible, en application de l’article 5-ter, alinéa 7, du Code 7 ; les systèmes installés auprès de la Communauté ne reçoivent pas de mises à jour à distance, et un système hébergé sur des infrastructures extérieures n’est admis que si le logiciel et ses mises à jour sont choisis, vérifiés et installés par la Communauté ;
 
     d) l’application progressive cesse pour chaque système à l’échéance de son Plan et, en tout cas, avec la clôture de la transition.
 
 2.  L’utilisation de systèmes dont le code source n’est pas disponible suit, pendant la transition et après celle-ci, l’article 19.4 de la Constitution, l’article 5, alinéa 2, lettre b), et l’article 12, alinéa 5, du Code 2.
+
+3.  Jusqu’à l’institution du Conseil Réseau, l’avis de l’article 5, alinéa 3, du Code 2 et la vérification de l’alinéa 1, lettre c), sont rendus, y compris par dérogation à l’article 8, alinéa 3, par deux personnes ayant une compétence informatique L2 ou L3, étrangères à la proposition et tirées au sort en application de l’article 36 du Code 4, et sont consignés comme provisoires en application de l’article 8, alinéa 2 ; l’avis négatif empêche l’admission du système. Dès la Phase 0, les consultations et les votes par le Réseau suivent l’article 7-bis du Code 7.
 
 ## Art. 10 — Clôture de la transition, mémoire et primauté
 
@@ -374,7 +378,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
 4.  Après la clôture de la transition, les clauses de primauté des Codes sectoriels s’appliquent, y compris celles du Code 10, article 10, du Code 13, article 11, et du Code 14, article 10.
 
-5.  Les principaux liens normatifs du présent Code sont : Constitution, articles 1.3, 3.1, 3.2, 3.5-bis, 3.5-ter, 4–6, 10.2, 16.4, 17.9, 19, 23.1, 26, 32, 36.1 et 38 ; Code 1, articles 13–22, 32, 47 et 47-ter ; Code 2, article 5 ; Code 3, articles 3, 4, 8, 12, 13–19 ; Code 4 ; Code 5, articles 3 et 10 ; Code 6, articles 4 et 11 ; Code 7, articles 2.2, 7 et 7-bis ; Codes 8 et 9 ; Code C.1-Annex A ; Codes 10–14, y compris l’article 8-sexies du Code 14 ; Code 15, Chapitres III et IV.
+5.  Les principaux liens normatifs du présent Code sont : Constitution, articles 1.3, 3.1, 3.2, 3.5-bis, 3.5-ter, 4–6, 10.2, 13.3, 17.9, 19, 23.1, 26, 32, 36.1, 36.2, 36.4, 37 et 38 ; Code 1, articles 13–22, 32, 47 et 47-ter ; Code 2, article 5 ; Code 3, articles 3, 4, 8, 12, 13–19 ; Code 4 ; Code 5, articles 3 et 10 ; Code 6, articles 4 et 11 ; Code 7, articles 2.2, 7 et 7-bis ; Codes 8 et 9 ; Code C.1-Annex A ; Codes 10–14, y compris l’article 8-sexies du Code 14 ; Code 15, Chapitres III et IV.
 
 ## Art. 11 — Parcours des réseaux : phases et principes
 
@@ -400,7 +404,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
     d) les décisions, les comptes et les données agrégées sont publics en application de l’article 2, alinéa 5, sauf les données qui exposent à un risque les personnes ou les infrastructures ;
 
-    e) l’entrepôt de quartier distribue le Panier d’urgence à chaque participant qui en a besoin, pour quelque cause que ce soit, selon des règles publiques approuvées par l’assemblée du réseau et indépendantes du choix de l’article 15 ; le seuil de l’article 14 mesure seulement si les stocks suffisent à tous les participants ;
+    e) l’entrepôt de quartier distribue le Panier d’urgence à chaque participant et aux personnes qui vivent avec lui et dépendent de lui au sens de l’article 1, alinéa 2, lettre o), qui en ont besoin, pour quelque cause que ce soit, selon des règles publiques approuvées par l’assemblée du réseau et indépendantes du choix de l’article 15 ; le seuil de l’article 14 mesure seulement si les stocks suffisent à tous les participants ;
 
     f) les services essentiels restent ouverts à tous, en application de l’article 16.
 
@@ -438,7 +442,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
 2.  **Carte des filières.** Les réseaux d’un territoire dressent ensemble la carte des filières essentielles : d’où viennent la nourriture, l’eau, l’énergie et les médicaments, combien de stocks il y a et qui sait faire quoi. La carte est publique sous forme agrégée ; en sont exclues les données qui exposent à un risque les personnes ou les infrastructures.
 
-3.  **Pactes avec celles et ceux qui travaillent dans les filières essentielles.** Toute personne qui travaille dans une filière essentielle peut signer un pacte avec le réseau de son territoire. Par le pacte, la personne s’engage à poursuivre son travail et à servir chacun même si les personnes des réseaux font le choix de l’article 15 ; le réseau s’engage aux protections de l’article 16. Le pacte est personnel, volontaire et révocable à tout moment, ne contient pas de pénalités et n’oblige à rien de contraire à la loi ou au contrat de travail. Il est conservé de manière confidentielle ; seuls les décomptes agrégés par filière et par territoire sont publics. Les données des pactes sont traitées avec le consentement explicite de la personne et dans le respect de la réglementation sur la protection des données ; elles sont conservées tant que le pacte est en vigueur et effacées lors de sa révocation ou à la conversion.
+3.  **Pactes avec celles et ceux qui travaillent dans les filières essentielles.** Toute personne qui travaille dans une filière essentielle peut signer un pacte avec le réseau de son territoire. Par le pacte, la personne s’engage à poursuivre son travail et à servir chacun même si les personnes des réseaux font le choix de l’article 15 ; le réseau s’engage aux protections de l’article 16. Le pacte est personnel, volontaire et révocable à tout moment, ne contient pas de pénalités et n’oblige à rien de contraire à la loi ou au contrat de travail. Il est conservé de manière confidentielle ; seuls les décomptes agrégés par filière et par territoire sont publics. Les données des pactes sont traitées avec le consentement explicite de la personne et dans le respect de la réglementation sur la protection des données ; elles sont conservées tant que le pacte est en vigueur et effacées lors de sa révocation ; à la conversion, elles passent, avec le consentement de la personne, au Cercle de son territoire ou sont effacées.
 
 4.  **Formation et relève.** Les réseaux enseignent les compétences qui servent aux besoins, selon le Code 5 dans la mesure où il est applicable, et pour chaque travail essentiel forment à l’avance d’autres personnes capables d’assurer la relève, dans les limites des habilitations requises par la loi.
 
@@ -472,7 +476,7 @@ allineamento: "Constitution V.35 ; Code 1 V1.10 ; Code 2 V1.7 ; Code 3 V1.
 
 2.  Le boycott n’est pas une règle du présent Code. C’est un choix politique, non violent et collectif, qui appartient aux personnes des réseaux par leur vote en application de l’article 14, alinéa 6. Chaque personne décide librement de le faire ou non et en répond personnellement selon la loi. Le présent Code ne le prescrit pas, ne l’autorise pas et n’en régit pas les formes, sauf le vote de l’article 14, alinéa 6, et aucune conséquence ne peut découler du fait de ne pas le faire.
 
-3.  Les entités des réseaux, les groupes promoteurs et, après la conversion, les Cercles nés des réseaux et leurs entités ne délibèrent pas sur le boycott, ne le financent pas et n’emploient pas les biens communs, les Entrepôts ou la Caisse commune pour des actes contraires à la loi. Avant et après le choix des personnes, seules continuent les activités licites des articles 12, 13, 16 et 18, parmi lesquelles les entrepôts de quartier, la distribution du Panier d’urgence aux participants, les caisses de solidarité, l’assistance juridique et les services essentiels ouverts à tous.
+3.  Les entités des réseaux, les groupes promoteurs, les Cercles pilotes, y compris ceux qui sont nés des réseaux après la conversion, les Communautés associées et leurs entités ne délibèrent pas sur le boycott, ne le financent pas et n’emploient pas les biens communs, les Entrepôts ou la Caisse commune pour des actes contraires à la loi. Avant et après le choix des personnes, seules continuent les activités licites des articles 12, 13, 16 et 18, parmi lesquelles les entrepôts de quartier, la distribution du Panier d’urgence aux participants et à ceux qui dépendent d’eux, les caisses de solidarité, l’assistance juridique et les services essentiels ouverts à tous.
 
 4.  **Caisses de solidarité et assistance juridique.** Dès la Phase A, le réseau peut constituer, auprès de l’entité de l’article 12, alinéa 3, une caisse de solidarité et un réseau d’assistance juridique. Ils aident, dans les limites de la loi, quiconque est en difficulté, pour quelque cause que ce soit, selon le besoin. Les règles de l’aide sont publiques et l’aide ne dépend pas de la manière dont la personne a voté.
 
