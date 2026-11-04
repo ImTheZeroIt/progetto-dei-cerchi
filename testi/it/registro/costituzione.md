@@ -1,7 +1,7 @@
 ---
 titolo: "COSTITUZIONE DELLA CONFEDERAZIONE DEI CERCHI"
 breve: "Costituzione"
-versione: "V.38"
+versione: "V.39"
 gruppo: "costituzione"
 ordine: 0
 id: "costituzione"
@@ -659,7 +659,7 @@ g) il principio di deliberazione scientifica di cui all’articolo 33 e il princ
 
 h) il divieto di IA che decide in luogo delle persone di cui all’articolo 19.6, il principio di indipendenza e non subordinazione delle IA di cui all’articolo 20.1 e il diritto ai facilitatori e alla persona di fiducia di cui all’articolo 31.5;
 
-i) il carattere acefalo e non gerarchico della Confederazione, la sovranità della Comunità di Base e la sussidiarietà di cui agli articoli 4.1, 4.2 e 32.1, nonché il sorteggio, la rotazione e il divieto di esercizio professionale e permanente della politica e della funzione giudiziaria di cui agli articoli 4.3, 4.4, 6.5 e 31.2;
+i) il carattere acefalo e non gerarchico della Confederazione, la sovranità della Comunità di Base e la sussidiarietà di cui agli articoli 4.1, 4.2 e 32.1, nonché il sorteggio, la rotazione, la temporaneità degli incarichi e il divieto di esercizio professionale e permanente della politica e della funzione giudiziaria di cui agli articoli 4.3, 4.4, 6.5 e 31.2. Le durate, gli intervalli e i limiti numerici fissati in quegli articoli possono essere modificati con la Doppia Maggioranza Lunga, purché ogni incarico resti temporaneo, a rotazione e non immediatamente rinnovabile, nessuna durata superi il doppio di quella prevista dal presente testo e nessun intervallo tra due mandati scenda sotto la metà;
 
 j) il diritto di lasciare la Confederazione e di vivere mediante Patto di Convivenza Autonoma di cui agli articoli 4.8, 4.9 e 4.9-bis, il diritto di recesso delle Comunità di cui all’articolo 4.6 e il diritto di lasciare una Comunità di cui all’articolo 5.2;
 

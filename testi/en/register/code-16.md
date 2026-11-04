@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 16 — TRANSITION AND LAUNCH OF THE CONFEDERATION"
 breve: "Code 16 — Transition and launch"
-versione: "V1.10"
+versione: "V1.11"
 gruppo: "codici"
 ordine: 16
 id: "codice-16"
 slug: "code-16"
-allineamento: "Constitution V.38; Code 1 V1.12; Code 2 V1.9; Code 3 V1.11; Code 4 V1.10; Code 5 V1.7; Code 6 V1.9; Code 7 V1.10; Code 8 V1.7; C.1-Annex A V1.7; Code 9 V3.4; Code 10 V1.8; Code 11 V1.6; Code 12 V1.7; Code 13 V1.9; Code 14 V1.10; Code 15 V1.12."
+allineamento: "Constitution V.39; Code 1 V1.12; Code 2 V1.9; Code 3 V1.13; Code 4 V1.10; Code 5 V1.7; Code 6 V1.9; Code 7 V1.10; Code 8 V1.7; C.1-Annex A V1.7; Code 9 V3.4; Code 10 V1.8; Code 11 V1.6; Code 12 V1.7; Code 13 V1.9; Code 14 V1.10; Code 15 V1.13."
 ---
 
 ## Art. 1 — Subject matter, definitions and temporary nature
@@ -207,9 +207,9 @@ allineamento: "Constitution V.38; Code 1 V1.12; Code 2 V1.9; Code 3 V1.11; Code 
 
 4.  **Passage from Phase 3 to Phase 4.** The following are required:
 
-    a) a positive federated audit on autonomy, carried out after at least six continuous months of operation without non-substitutable critical dependencies that compromise the continuity of the Basket;
+    a) a positive federated audit on autonomy, carried out after at least six continuous months of operation without non-substitutable critical dependencies that compromise the continuity of the Basket; a structural dependency covered by a Guarantee Plan that has been implemented, pursuant to Code 15, Article 12, paragraph 5-ter, does not compromise it;
 
-    b) the entry in the Dependency Register of an exit plan with a definite time limit for each critical dependency still present;
+    b) the entry in the Dependency Register of an exit plan with a definite time limit for each critical dependency still present, or a Guarantee Plan for structural ones pursuant to Code 15, Article 12, paragraph 5-ter;
 
     c) the functioning of the nodes of the federated Network in all the Basins;
 

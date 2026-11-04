@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 15 — EXTERNAL RELATIONS AND WORLD BALANCE"
 breve: "Code 15 — External relations and Balance"
-versione: "V1.12"
+versione: "V1.13"
 gruppo: "codici"
 ordine: 15
 id: "codice-15"
 slug: "code-15"
-allineamento: "Constitution V.38; Code 1 V1.12; Code 2 V1.9; Code 3 V1.11; Code 4 V1.10; Code 5 V1.7; Code 6 V1.9; Code 7 V1.10; Code 8 V1.7; C.1-Annex A V1.7; Code 9 V3.4; Code 10 V1.8; Code 11 V1.6; Code 12 V1.7; Code 13 V1.9; Code 14 V1.10; Code 16 V1.10."
+allineamento: "Constitution V.39; Code 1 V1.12; Code 2 V1.9; Code 3 V1.13; Code 4 V1.10; Code 5 V1.7; Code 6 V1.9; Code 7 V1.10; Code 8 V1.7; C.1-Annex A V1.7; Code 9 V3.4; Code 10 V1.8; Code 11 V1.6; Code 12 V1.7; Code 13 V1.9; Code 14 V1.10; Code 16 V1.11."
 ---
 
 ## PRELIMINARY TITLE — GENERAL PROVISIONS
@@ -277,6 +277,8 @@ allineamento: "Constitution V.38; Code 1 V1.12; Code 2 V1.9; Code 3 V1.11; Code 
 5.  Every critical dependency shall be accompanied by an Exit Plan indicating the verifiable objective, the person responsible, the resources, the intermediate measures and a definite final time limit. The Plan is approved by the Assembly on a proposal from the competent Council. If exit is not technically possible within the time limit, the Plan shall be reviewed with a statement of reasons; the review may not be limited to extending the dependency.
 
 5-bis. For raw materials, the Exit Plan indicates reduction of the requirement, reuse, recycling and recovery. It may not indicate new extraction. Paragraph 5 applies.
+
+5-ter. **Structural dependencies.** A critical dependency is structural when the good, component or competence cannot, in the foreseeable future, be produced or replaced at a scale within the reach of the Confederation, as is the case for many medicines, electronic components, metals and batteries. The classification is justified in the Register by the competent Council, with the opinion of the corresponding Council of another Community. For a structural dependency the Exit Plan of paragraph 5 is replaced by a Guarantee Plan, which indicates: a) the safety stocks; b) at least two independent sources of supply, where they exist; c) the measures for reducing the requirement, reuse and repair; d) the alternatives under trial and the competences to be trained; e) for each measure, a person responsible and a definite time limit. The Guarantee Plan is approved by the Assembly and is reviewed at least every twenty-four months; at each review it is verified whether the dependency is still structural or whether it can have an Exit Plan. Paragraph 5-bis applies.
 
 6.  The Register shall be published in aggregate form. Information that exposes vulnerabilities of infrastructure is accessible in accordance with Article 15 of Code 3.
 

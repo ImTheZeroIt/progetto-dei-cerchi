@@ -1,7 +1,7 @@
 ---
 titolo: "TECHNICAL ANNEX B TO CODE 16 — OPERATING MANUAL FOR DISENGAGEMENT AND FEDERATION"
 breve: "Annex B to Code 16 — Operating manual for disengagement and federation"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "allegati"
 ordine: 16.2
 id: "codice-16-allegato-b"
@@ -168,7 +168,7 @@ Technical annex adopted pursuant to Article 19 of Code 3. This Annex does not co
 
     a) the aggregation of at least three Basins;
 
-    b) the first version of the Dependency Register in accordance with Code 15, with a plan with a fixed time limit for each critical dependency;
+    b) the first version of the Dependency Register in accordance with Code 15, with a plan with a fixed time limit for each critical dependency, or a Guarantee Plan for structural ones pursuant to Code 15, Article 12, paragraph 5-ter;
 
     c) L3 audits on ecological, safety and food autonomy;
 

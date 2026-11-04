@@ -6,6 +6,34 @@ Da qui in avanti ogni modifica accolta sarà annotata in questa pagina con la da
 
 # Modifiche
 
+## 3 novembre 2026 — Quattro punti deboli: decisioni lente, Assemblea Generale, dipendenze, rigidità
+
+Scelte dell’autore, dopo l’elenco dei punti deboli del sistema.
+
+**Termine della procedura** (Cod. 3, nuovo art. 13, c. 1-bis). Una decisione contestata poteva durare mesi. Ora la procedura del consenso si chiude entro 45 giorni, prorogabili una volta di 30 con motivazione; le sessioni di confronto e la mediazione si possono convocare anche fuori dall’Assemblea mensile, con 48 ore di preavviso. Scaduto il termine, decide la prima Assemblea utile.
+
+**Decisioni urgenti** (Cod. 3, nuovo art. 13, c. 1-ter). Il Cerchio 1 non aveva una via urgente generale. Ora, se il ritardo danneggia persone, Paniere, servizi essenziali o beni che andrebbero perduti: Assemblea con 48 ore di preavviso, 24 ore per le obiezioni, una sola sessione di confronto, poi la decisione. È provvisoria per 30 giorni, mentre la proposta segue la procedura ordinaria. Le obiezioni per norma imperativa o rischio grave e i pareri vincolanti negativi bloccano anche la via urgente; quorum e voti favorevoli minimi restano.
+
+**Seconda convocazione dell’Assemblea Generale** (Cod. 3, art. 14, c. 6). Se mancano i tre quarti delle Comunità, l’Assemblea Generale si riconvoca entro 30 giorni e basta la metà delle Comunità. Restano le maggioranze dei commi 7 e 8.
+
+**Dipendenze strutturali** (Cod. 15, nuovo art. 12, c. 5-ter; Cod. 16, art. 4, c. 4, lett. a e b; All. B al Cod. 16). Per farmaci, componenti elettronici, metalli o batterie che non si possono produrre a questa scala, un termine certo di uscita era irrealistico. Ora queste dipendenze, se riconosciute strutturali con il parere di un’altra Comunità, hanno un Piano di Garanzia: scorte, almeno due fornitori indipendenti, riduzione d’uso, riparazione, alternative in prova, ciascuna misura con un termine certo. Il Piano si riesamina ogni 24 mesi. Le altre dipendenze critiche restano con il termine certo di uscita.
+
+**Nucleo Inviolabile: principi sì, numeri no** (Cost. 37.4, lett. i). Restano intoccabili il sorteggio, la rotazione, la temporaneità degli incarichi e il divieto della politica di mestiere. Durate e intervalli (90 giorni, 180 l’anno, 12 mesi di pausa, un anno nei Consigli) si possono cambiare con la Doppia Maggioranza Lunga, ma solo entro limiti: ogni incarico resta temporaneo, a rotazione e non subito rinnovabile, nessuna durata supera il doppio di oggi, nessun intervallo scende sotto la metà.
+
+Versioni: Costituzione da V.38 a V.39; Codice 3 da V1.12 a V1.13; Codice 15 da V1.12 a V1.13; Codice 16 da V1.10 a V1.11; Allegato B al Codice 16 da V1.7 a V1.8. Righe di allineamento aggiornate.
+
+## 2 novembre 2026 — Consigli delle Comunità piccole; voti favorevoli minimi
+
+Due incoerenze emerse aggiornando le schede per esperti.
+
+**Intervallo tra due mandati** (Cod. 3, art. 12-bis, c. 12). Il Codice riduceva a sei mesi, nelle Comunità piccole, l’intervallo prima di poter essere sorteggiati di nuovo nello stesso Consiglio. La Costituzione (art. 6.5) chiede dodici mesi in ogni Comunità. La riduzione è tolta: vale dodici mesi ovunque. Dove mancano persone idonee restano gli strumenti del c. 5 e del c. 6 (proroga motivata, Consigli accorpati o condivisi nel Cerchio 2).
+
+**Soglia dei 150** (All. C al Cod. 16, art. 1, c. 1). La Carta del primo anno contava 150 «persone», la Costituzione (art. 6.5) e il Codice 3 (art. 12-bis, c. 12) contano 150 «aventi diritto di voto». Ora anche la Carta conta gli aventi diritto di voto.
+
+**Voti favorevoli minimi** (Cod. 3, nuovo art. 13, c. 4-bis). Scelta dell’autore. Dopo la definizione di votanti (Cost. 35.4), con molti astenuti una decisione importante poteva passare con pochissimi voti: con 150 aventi diritto, 50 partecipanti e 44 astenuti bastavano 4 sì. Ora, quando si vota una decisione che richiede un quorum, i sì devono essere almeno la metà del quorum: un sesto degli aventi diritto per le decisioni a maggioranza qualificata, un quarto per quelle con garanzie speciali. Con 150 aventi diritto servono almeno 25 sì. Le decisioni ordinarie, che non hanno quorum, non cambiano.
+
+Versioni: Codice 3 da V1.11 a V1.12; Allegato C al Codice 16 da V1.4 a V1.5. Righe di allineamento aggiornate.
+
 ## 2 novembre 2026 — Chi si astiene non è tra i votanti
 
 Scelta dell’autore. La Costituzione e il Codice 3 parlavano di «votanti» senza dire se gli astenuti ne fanno parte, e la Costituzione (art. 35.1) chiedeva la «maggioranza dei partecipanti» mentre il Codice 3 chiedeva quella dei «partecipanti attivi».

@@ -1,7 +1,7 @@
 ---
 titolo: "CONSTITUCIÓN DE LA CONFEDERACIÓN DE LOS CÍRCULOS"
 breve: "Constitución"
-versione: "V.38"
+versione: "V.39"
 gruppo: "costituzione"
 ordine: 0
 id: "costituzione"
@@ -659,7 +659,7 @@ g) el principio de deliberación científica previsto en el artículo 33 y el pr
 
 h) la prohibición de una IA que decida en lugar de las personas prevista en el artículo 19.6, el principio de independencia y no subordinación de las IA previsto en el artículo 20.1 y el derecho a los facilitadores y a la persona de confianza previsto en el artículo 31.5;
 
-i) el carácter acéfalo y no jerárquico de la Confederación, la soberanía de la Comunidad de Base y la subsidiariedad previstas en los artículos 4.1, 4.2 y 32.1, así como el sorteo, la rotación y la prohibición del ejercicio profesional y permanente de la política y de la función judicial previstos en los artículos 4.3, 4.4, 6.5 y 31.2;
+i) el carácter acéfalo y no jerárquico de la Confederación, la soberanía de la Comunidad de Base y la subsidiariedad previstas en los artículos 4.1, 4.2 y 32.1, así como el sorteo, la rotación, el carácter temporal de los cargos y la prohibición del ejercicio profesional y permanente de la política y de la función judicial previstos en los artículos 4.3, 4.4, 6.5 y 31.2. Las duraciones, los intervalos y los límites numéricos fijados en esos artículos pueden modificarse con la Doble Mayoría Larga, siempre que todo cargo siga siendo temporal, rotatorio y no inmediatamente renovable, que ninguna duración supere el doble de la prevista en el presente texto y que ningún intervalo entre dos mandatos baje de la mitad;
 
 j) el derecho a dejar la Confederación y a vivir mediante un Pacto de Convivencia Autónoma previsto en los artículos 4.8, 4.9 y 4.9-bis, el derecho de retiro de las Comunidades previsto en el artículo 4.6 y el derecho a dejar una Comunidad previsto en el artículo 5.2;
 

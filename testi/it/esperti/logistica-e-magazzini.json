@@ -1,0 +1,178 @@
+{
+ "chiave": "logistica",
+ "titolo": "Logistica e magazzini",
+ "a_chi": "esperti di logistica, gestione dei magazzini e delle scorte, distribuzione alimentare, banchi alimentari e mense collettive",
+ "perche": "Nel progetto i beni necessari non si comprano: si prendono gratis dai Magazzini Comuni, secondo il bisogno, senza condizioni. Tutto dipende quindi dal fatto che i Magazzini abbiano le scorte giuste al momento giusto, che le perdite restino basse e che nessuno accumuli a scapito degli altri, senza sorvegliare le persone. Le regole sono scritte per una Comunità di 30–500 persone, con una Dispensa per ogni gruppo di convivenza e un Magazzino Centrale, e con mezzi e scorte condivisi tra Comunità vicine. Si chiede a chi gestisce scorte e distribuzione di verificare se le procedure sono praticabili e dove si rompono. I conti delle bozze sono fatti su una Comunità tipo di 150 persone: conviene ragionare su quella, e dire se qualcosa cambia ai due estremi.",
+ "come_funziona": [
+  "I beni del Paniere di Sufficienza sono ad accesso libero, gratuito e secondo il bisogno effettivo; non dipendono dal lavoro svolto. I beni non necessari e scarsi passano per prenotazione o lista d'attesa. Fa eccezione solo chi ha perso lo status di membro per rifiuto persistente del lavoro comune: riceve soltanto acqua potabile, cure d'emergenza ed energia essenziale (Cod. 1, artt. 13 e 18).",
+  "Ogni Cerchio 0 (gruppo di convivenza da 1 a 15 persone) ha una Dispensa di Prossimità per i beni ad alta rotazione; la Comunità ha un Magazzino Centrale. Quando la Dispensa scende sotto soglia chiede al Centrale (Cod. 1, artt. 14 e 22; Cost. 5.1, lett. a).",
+  "Il sistema registra entrate, uscite, giacenze e scadenze e può proporre soglie di riordino; ogni proposta di acquisto, dismissione o razionamento è validata da persone, e oltre certe soglie dall'Assemblea. Per ogni bene si pubblicano il costo di riproduzione in ore e un indicatore di scarsità, che non sono prezzi (Cod. 1, artt. 17 e 20).",
+  "Contro spreco e accaparramento si usano soglie di prelievo per nucleo, non punitive: chi le supera più volte è invitato a un colloquio. In caso di scarsità accertata l'Assemblea approva un razionamento temporaneo, basato sul bisogno e non su parti uguali. È vietato tenere beni presi dai Magazzini oltre sette giorni di fabbisogno familiare, salvo necessità motivate (Cod. 1, art. 19; art. 47, c. 4; Cost. 10.5).",
+  "Giacenze, flussi, scadenze e sprechi sono pubblicati; ogni trimestre una revisione incrociata coinvolge il Cerchio 0, il Consiglio di Magazzino e tre persone sorteggiate (Cod. 1, art. 20).",
+  "Quando mezzi, persone o tempo non bastano vale un ordine unico: emergenze vitali, poi distribuzione del Paniere, poi cura delle persone fragili, poi deperibili a rischio di spreco, poi manutenzione di energia, acqua e Rete, poi beni del Paniere differibili (come vestiario e igiene non sanitaria) e il resto. Le scale dei Codici di settore valgono solo dentro il settore. Una deroga per evitare un danno maggiore e immediato la decide il Consiglio di Magazzino (Cod. 1, art. 32).",
+  "Le eccedenze federabili vanno prima al Pool tra Comunità, deciso dai Consigli di Magazzino dei Cerchi 2 e 3; il resto va, nell'ordine, a donazione, riuso interno, scambio con l'esterno, messa in sicurezza. Le risorse a rischio di spreco si riassegnano di norma entro 72 ore (Cod. 1, art. 15; Cod. 15, artt. 6 e 9-bis).",
+  "Il Codice 11 aggiunge le consegne: entro 24 ore per le persone fragili ed entro 72 ore per gli altri, a domicilio o a un punto di scambio per i beni non differibili; almeno due cargo bike per Comunità e accesso a un furgone elettrico condiviso, di norma uno ogni tre-quattro Comunità; un ordine dei mezzi dal più leggero al più pesante. L'ordine delle consegne segue quello del Codice 1: i ricambi per le infrastrutture passano davanti al Paniere solo con la deroga (Cod. 11, artt. 2, 4 e 6).",
+  "Furgoni, carovane e cabotaggio del Cerchio 2 sono gestiti da un Consiglio Logistica condiviso, con una regola scritta per dividere il tempo dei mezzi tra le Comunità (Cod. 11, art. 6-quater).",
+  "Ogni Cerchio 0 punta ad avere 72 ore di autonomia per beni vitali ed energia; le dipendenze da fornitori esterni vanno registrate con un piano per uscirne (Cod. 1, art. 39; Cod. 11, art. 8)."
+ ],
+ "numeri": [
+  {
+   "valore": "72 ore di autonomia per beni vitali ed energia in ogni Cerchio 0",
+   "dove": "Cod. 1, art. 39, c. 2",
+   "nota": "Registro dei parametri: per i beni vitali coincide con l'obiettivo della strategia europea di preparazione (JOIN(2025) 130); l'UE parla però di scorte, non di autonomia energetica, che è molto più impegnativa. Incertezza bassa come minimo; da adattare a clima e isolamento."
+  },
+  {
+   "valore": "divieto di accumulo oltre sette giorni di fabbisogno familiare",
+   "dove": "Cod. 1, art. 47, c. 4",
+   "nota": "Viene dalla Costituzione (art. 10.5); non ha una fonte esterna."
+  },
+  {
+   "valore": "scorte di Magazzino: cereali, legumi, olio e frutta secca fino al raccolto successivo più tre mesi; altri alimenti trenta giorni",
+   "dove": "Bozza dell'Allegato del Paniere, § 1",
+   "nota": "Scelte di redazione, non adottate; i giorni di scorta sono da fissare (Cod. 9, art. 4, c. 2)."
+  },
+  {
+   "valore": "consegna del Paniere entro 24 ore per le persone fragili, 72 ore per gli altri",
+   "dove": "Cod. 11, art. 4, c. 1",
+   "nota": "Scelta di redazione; i termini decorrono dalla registrazione della richiesta."
+  },
+  {
+   "valore": "almeno due cargo bike per Comunità; di norma un furgone elettrico condiviso ogni tre-quattro Comunità",
+   "dove": "Cod. 11, art. 6, cc. 1 e 4",
+   "nota": "Scelte di redazione. Il numero minimo di cargo bike non dipende dalla popolazione; i furgoni vanno dimensionati su popolazione, territorio e domanda."
+  },
+  {
+   "valore": "risorse a rischio di spreco: decisione e riassegnazione entro 72 ore; senza ritardo se restano meno di sette giorni",
+   "dove": "Cod. 15, art. 6, cc. 2–3",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "Pool: proposte di flusso decise entro 48 ore, bisogni vitali entro 24 ore; Consigli di Magazzino dei Cerchi 2 e 3 di 5–7 persone",
+   "dove": "Cod. 15, art. 9-bis, cc. 2 e 5",
+   "nota": "Registro dei parametri: incertezza media; serve una simulazione dei flussi del Pool di un Bacino."
+  },
+  {
+   "valore": "assegnazione dei compiti, di norma, entro 30 minuti di percorrenza dal Cerchio 0",
+   "dove": "Cod. 1, art. 25, c. 4",
+   "nota": "I criteri di calcolo stanno nell'Allegato Tecnico Mobilità, non ancora scritto."
+  },
+  {
+   "valore": "Consiglio di Magazzino della Comunità di 3–5 persone sorteggiate",
+   "dove": "Cod. 1, art. 24, c. 1",
+   "nota": "Sorteggio secondo il Cod. 3, art. 12-bis. Incertezza media: continuità delle competenze con mandati brevi."
+  },
+  {
+   "valore": "logistica: un turno di sei ore al Magazzino e un'ora di consegne al giorno, circa 2.560 ore l'anno per 150 persone",
+   "dove": "Bozza dell'Allegato UCR, § 4.2",
+   "nota": "Ipotesi della bozza, non misurata."
+  }
+ ],
+ "domande": [
+  "La rilevazione ordinaria del fabbisogno è trimestrale (Cod. 1, art. 2, c. 2), mentre il sistema dei Magazzini registra i movimenti «tempestivamente» e propone soglie di riordino (art. 17, c. 3). Per una Comunità tipo di 150 persone (e ai due estremi previsti, 30 e 500), quale metodo di previsione e di riordino (punto di riordino, scorta minima e massima, riordino periodico) è adatto ai diversi tipi di bene, e quali dati minimi serve registrare per farlo funzionare?",
+  "L'art. 17, c. 4, sottopone a validazione umana «ogni proposta di acquisto, dismissione o razionamento». Per i riordini quotidiani dei freschi e dei beni ad alta rotazione è praticabile? Serve una classe di riordini di routine, entro parametri approvati, che non richieda una decisione caso per caso?",
+  "Soglie per nucleo e riservatezza (Cod. 1, art. 19, cc. 1–2; Cost. 5.1, lett. a; Cod. 11, art. 2, c. 6; C.1-Annex A, art. 4, c. 1-bis, lett. d). L'art. 19 parla di «superamento reiterato» delle soglie di prelievo «per nucleo», e la Costituzione dà a ogni Cerchio 0 un «conto di Magazzino»; ma il registro delle consegne è senza identificativi individuali e i prelievi dei prodotti per l'igiene non possono essere comunicati in forma che identifichi la persona. Che cosa dovrebbe registrare il conto di Magazzino per accertare un superamento ripetuto senza diventare un registro dei consumi delle persone? Quali sistemi esistenti (banchi alimentari, empori solidali) risolvono questo problema?",
+  "Ogni Cerchio 0 deve avere 72 ore di autonomia (Cod. 1, art. 39, c. 2), i beni presi dai Magazzini non possono superare sette giorni di fabbisogno (art. 47, c. 4) e le consegne possono richiedere fino a 72 ore (Cod. 11, art. 4, c. 1). Questi tre numeri sono coerenti tra loro? Con consegne a 72 ore, una scorta domestica di 72 ore basta a non restare senza beni vitali?",
+  "Chi decide la deroga sull'ordine dei mezzi (Cod. 1, art. 32, cc. 1 e 3; art. 24, c. 5; Cod. 11, art. 2, cc. 4–5). Ora i ricambi per energia, acqua e Rete passano dopo la consegna del Paniere, salvo la deroga dell'art. 32, c. 3, per un danno maggiore, immediato e documentato, che decide il Consiglio di Magazzino. Dall'attivazione del Codice 11 però la flotta e le consegne sono gestite dal Consiglio Logistica. Se c'è un solo furgone e una pompa dell'acqua è guasta, chi può disporre in pochi minuti che il furgone porti il ricambio invece del Paniere? La regola del «danno maggiore» è abbastanza precisa per essere applicata da persone sorteggiate?",
+  "Eccedenze e deperibili (Cod. 1, art. 15, cc. 1-bis, 2 e 5; Cod. 15, art. 6, cc. 1–3). Quando il Saldo è attivo, le eccedenze federabili vanno al Pool e il Cerchio non ne sceglie il destinatario; la riassegnazione tramite il Pool è decisa di norma entro 72 ore, poi si applica l'ordine dell'art. 15, c. 2 (donazione, riuso, scambio, messa in sicurezza). Per i freschi con pochi giorni di vita, la catena segnalazione dell'IA, decisione del Consiglio di Magazzino, decisione del Consiglio del Cerchio 2 e trasporto è compatibile con la scadenza? Il tempo per registrare ogni destinazione con motivazione e quantità (art. 15, c. 5) è sostenibile? E per i beni durevoli, donare prima di riparare o scambiare è un ordine sensato per una Comunità che dipende da acquisti esterni?",
+  "Con Cerchi 0 da 1 a 15 persone, una Comunità di 150 persone avrebbe almeno dieci Dispense di Prossimità, una di 500 più di trenta, oltre al Magazzino Centrale (art. 14, c. 3; art. 22). Quanto costa in ore, in perdite per scadenza e in controlli di qualità (art. 21) una rete di Dispense così fitta? A questa scala conviene un solo punto di distribuzione?",
+  "Indicatori e inventari (Cod. 1, art. 20, cc. 1, 3 e 6). La revisione incrociata è trimestrale e coinvolge tre persone sorteggiate. Quali indicatori minimi di perdita e di differenza inventariale andrebbero pubblicati, con quale frequenza servono inventari fisici, e quale livello di perdita si dovrebbe considerare anomalo per i diversi tipi di bene? L'«indicatore di scarsità», che esprime il rapporto tra disponibilità e richieste e i tempi di attesa, come si calcola senza registrare chi chiede che cosa?",
+  "In caso di scarsità accertata, il razionamento è proposto dal Cerchio di Competenza e approvato dall'Assemblea (Cod. 1, art. 19, c. 3), e le soglie conservative non possono ridurre l'accesso minimo al Paniere (art. 19, c. 6). Se una fornitura si interrompe all'improvviso, quanto tempo passa prima che una regola di distribuzione sia in vigore? Serve una misura provvisoria che il Consiglio di Magazzino possa adottare subito, per esempio con la deroga dell'art. 32, c. 3? La richiesta al Pool per i bisogni vitali, decisa entro 24 ore (Cod. 15, art. 9-bis, c. 5), basta a coprire il vuoto?",
+  "Il Codice 11 chiede consegne entro 24 o 72 ore, a domicilio o a un punto di scambio per i beni del Paniere non differibili (art. 4, cc. 1 e 5; Cod. 1, art. 32, c. 1-quinquies), con un minimo di due cargo bike (art. 6, c. 1). Per 300 persone, quante consegne a settimana ne derivano e quante ore e quanti mezzi servono? Le dotazioni minime vanno legate al numero di persone?",
+  "Mezzi condivisi tra Comunità (Cod. 11, art. 6, cc. 3–5, e art. 6-quater, c. 2). Il furgone elettrico è condiviso, di norma, tra tre o quattro Comunità e gestito dal Consiglio Logistica condiviso del Cerchio 2. Finché l'Assemblea Generale non decide un'altra regola, si servono prima, in ordine di registrazione, le consegne del Paniere e gli spostamenti essenziali; le altre richieste in ordine di registrazione e, quando superano la disponibilità del mese, nessuna Comunità ottiene più della quota proporzionale ai suoi membri. Questa regola funziona per un mezzo con viaggi lunghi e prenotazioni da più paesi? Quali regole usano i sistemi di condivisione di flotte (car sharing, cooperative di trasporto) per evitare che chi prenota per primo occupi il mezzo?",
+  "I beni strategici non autoproducibili hanno scorte di sicurezza differenziate, con criteri fissati da un regolamento del Consiglio di Magazzino con il parere del Consiglio Salute (Cod. 1, art. 16, c. 2). Per farmaci, ricambi e componenti con domanda bassa e irregolare, quali criteri (tempi di riordino, variabilità, criticità) e quali metodi di dimensionamento sono adatti a una Comunità piccola? Conviene tenere queste scorte nella singola Comunità o in un deposito comune del Cerchio 2?"
+ ],
+ "modifiche_recenti": [
+  "Cod. 1, art. 32, cc. 1-bis–1-quinquies: la cura delle persone fragili passa davanti ai deperibili; i beni del Paniere differibili vengono dopo la manutenzione delle infrastrutture; una sola definizione di «Paniere 1-2»; le scale dei Codici di settore valgono solo dentro il settore.",
+  "Cod. 11, art. 1, c. 4, lett. e, e art. 2, cc. 4–5: l'ordine delle consegne è riallineato al Codice 1; i ricambi per le infrastrutture precedono il Paniere solo con la deroga dell'art. 32, c. 3, del Codice 1.",
+  "Cod. 11, art. 6-quater; Cod. 15, art. 9-bis: un Consiglio Logistica condiviso del Cerchio 2 gestisce furgoni, carovane e cabotaggio con una regola per dividere il tempo dei mezzi; i Consigli di Magazzino dei Cerchi 2 e 3 decidono le assegnazioni del Pool.",
+  "Cod. 1, art. 15, c. 1-bis, e art. 13, c. 3: le eccedenze federabili vanno prima al Pool; chi ha perso lo status per rifiuto del CBO non accede al Paniere, salvo acqua, cure d'emergenza ed energia essenziale."
+ ],
+ "testi": [
+  {
+   "file": "codice-01",
+   "articoli": [
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "39",
+    "47"
+   ]
+  },
+  {
+   "file": "codice-11",
+   "articoli": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "6-quater",
+    "8",
+    "9"
+   ]
+  },
+  {
+   "file": "codice-15",
+   "articoli": [
+    "6",
+    "9-bis"
+   ]
+  },
+  {
+   "file": "codice-01-annex-a",
+   "articoli": [
+    "4"
+   ]
+  },
+  {
+   "file": "costituzione",
+   "articoli": [
+    "5",
+    "10"
+   ]
+  }
+ ],
+ "approfondire": [
+  {
+   "titolo": "Bozza dell'Allegato del Paniere (quantità e scorte)",
+   "pagina": "registro/bozza-paniere.html"
+  },
+  {
+   "titolo": "Bozza dell'Allegato UCR e primo bilancio delle ore",
+   "pagina": "registro/bozza-ucr.html"
+  },
+  {
+   "titolo": "Codice 1 completo",
+   "pagina": "registro/codice-01.html"
+  },
+  {
+   "titolo": "Codice 11 completo",
+   "pagina": "registro/codice-11.html"
+  },
+  {
+   "titolo": "Registro dei parametri da verificare",
+   "pagina": "registro/parametri.html"
+  }
+ ],
+ "aggiornata": "2026-11-02",
+ "slug": "logistica-e-magazzini",
+ "ordine": 4
+}

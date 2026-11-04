@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 3 — ON DELIBERATION, THRESHOLDS AND THE ASSEMBLY"
 breve: "Code 3 — Deliberation, thresholds and Assembly"
-versione: "V1.11"
+versione: "V1.13"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
 slug: "code-03"
-allineamento: "Constitution V.38; Code 1 V1.12; Code 2 V1.9; Code 4 V1.10; Code 5 V1.7; Code 6 V1.9; Code 7 V1.10; Code 8 V1.7; C.1-Annex A V1.7; Code 9 V3.4; Code 10 V1.8; Code 11 V1.6; Code 12 V1.7; Code 13 V1.9; Code 14 V1.10; Code 15 V1.12; Code 16 V1.10."
+allineamento: "Constitution V.39; Code 1 V1.12; Code 2 V1.9; Code 4 V1.10; Code 5 V1.7; Code 6 V1.9; Code 7 V1.10; Code 8 V1.7; C.1-Annex A V1.7; Code 9 V3.4; Code 10 V1.8; Code 11 V1.6; Code 12 V1.7; Code 13 V1.9; Code 14 V1.10; Code 15 V1.13; Code 16 V1.11."
 ---
 
 ## CHAPTER I — DELIBERATIVE PRINCIPLES
@@ -477,7 +477,7 @@ e) the acts of the shared Council are published in accordance with Article 15 an
 
     c) the Technical Safeguards Council, which combines the Quality, Safety, Network and Biodiversity Councils.
 
-    Each Area Council is composed of three to seven persons and exercises the functions that the Codes assign to the combined Councils; the expressions used in the Codes shall be understood as referring to it. The Accounting Council, which may be established in shared form within Circle 2, and the Guarantee Circle remain separate. Where a Code requires the opinion of a Council other than the one making the proposal and the two are combined in the same area, the opinion is given by two competent persons not involved in the preparatory inquiry. In small Communities the interval provided for in paragraph 5 is reduced to six months.
+    Each Area Council is composed of three to seven persons and exercises the functions that the Codes assign to the combined Councils; the expressions used in the Codes shall be understood as referring to it. The Accounting Council, which may be established in shared form within Circle 2, and the Guarantee Circle remain separate. Where a Code requires the opinion of a Council other than the one making the proposal and the two are combined in the same area, the opinion is given by two competent persons not involved in the preparatory inquiry.
 
 13. **Limit on administrative time.** The total time devoted to Council, guarantee, facilitation and accounting functions and to mandatory documentation shall not exceed one tenth of the total CBO of the Community, calculated on a quarterly basis in the Labour Balance provided for in Article 2 of Code 1. If the limit is exceeded, before assigning new hours the Assembly shall simplify: it shall merge bodies, reduce the frequency of formalities and abolish duplicate registers. Formalities protecting health, safety, personal data and the guarantees of Code 4 may not be reduced. Every proposal for a new rule shall indicate in the Dossier the administrative time it requires.
 
@@ -497,6 +497,10 @@ e) the acts of the shared Council are published in accordance with Article 15 an
 
     f) the arrangements for submitting objections.
 
+1-bis. **Time limit of the procedure.** The procedure of Article 4 and of this Article is concluded within forty-five days of the publication of the proposal. The sessions of facilitated discussion and the mediation may also be convened outside the ordinary sittings of the Assembly, with at least forty-eight hours’ notice. The time limit may be extended once only, by no more than thirty days, by a reasoned resolution, when the complexity of the inquiry or a pending opinion so requires. Once the time limit has expired, the proposal is placed of right on the agenda of the first available Assembly, which decides in accordance with paragraph 3.
+
+1-ter. **Urgent decisions.** When delay would cause concrete harm to persons, to the Basket, to an essential service or to goods that would be lost, the Assembly may be convened with forty-eight hours’ notice, stating the reasons for the urgency. The window for objections lasts twenty-four hours; if objections remain, a single session of facilitated discussion is held, without mediation, and the Assembly then decides in accordance with paragraph 3, letters a) and b). The decision is provisional: it has effect for no more than thirty days, within which the proposal follows the ordinary procedure; if it is not confirmed it lapses, without prejudice to the effects already produced. An objection for breach of a mandatory rule or for a serious risk that cannot be remedied, and the binding negative opinion of Article 8, prevent adoption even by the urgent route. The quorum of Article 12 and paragraph 4-bis remain applicable. Urgency declared without its preconditions is a defect that may be challenged in accordance with Article 17.
+
 2.  The decision is adopted by consensus, understood as the absence of valid reasoned objections persisting after the procedure of Article 4.
 
 3.  If objections remain after two sessions of facilitated discussion, the following rules apply:
@@ -506,6 +510,8 @@ e) the acts of the shared Council are published in accordance with Article 15 an
     b) if the objection concerns an aspect that is technically resolvable and no serious risk or breach of a mandatory rule remains, mandatory mediation shall be carried out. If, after the mediation, the objection persists, the Assembly shall decide: for ordinary resolutions, by simple majority of the active participants pursuant to Article 35.1 of the Constitution; for decisions that the matrix in Article 7 assigns to the Assembly and in the other cases in which the Codes require a qualified majority, by a majority of two thirds of the active participants, with reinforced and traceable reasons.
 
 4.  For the purposes of the qualified majority, the denominator consists of the active participants in the deliberation; abstainers are excluded. By way of example: if one hundred and twenty persons participate, forty abstain and eighty participate actively, the two-thirds majority is reached with at least fifty-four votes in favour.
+
+4-bis. When a vote is taken, decisions for which Article 12, paragraph 5, requires a quorum are approved only if, in addition to the required majority, the votes in favour amount to at least half of the quorum: one sixth of those entitled to vote when the participation of one third is required, one quarter when the participation of half is required. By way of example: with one hundred and fifty persons entitled to vote, a decision by qualified majority requires at least twenty-five votes in favour, even if two thirds of the active participants are reached with fewer votes.
 
 5.  A qualified majority may not validate a decision incompatible with a mandatory rule or overcome a binding negative opinion pursuant to Article 8.
 
@@ -542,7 +548,7 @@ e) the acts of the shared Council are published in accordance with Article 15 an
 
 5.  An extraordinary revision may be initiated, with reasons, on a proposal from the Quality Council or the Accounting Council.
 
-6.  The General Assembly shall be convened with at least twenty-one days’ notice. The resolution is valid when at least three quarters of the Base Communities concerned participate; a Community participates when at least one third of those entitled to vote in it take part in the deliberation, abstainers included.
+6.  The General Assembly shall be convened with at least twenty-one days’ notice. The resolution is valid when at least three quarters of the Base Communities concerned participate; a Community participates when at least one third of those entitled to vote in it take part in the deliberation, abstainers included. If the resolution is not valid for lack of participation, the General Assembly is convened again on the same proposal within thirty days; at the second convocation the resolution is valid when at least half of the Base Communities concerned participate. Paragraphs 7 and 8 remain applicable.
 
 7.  Pursuant to Article 35.2 of the Constitution, approval requires jointly:
 

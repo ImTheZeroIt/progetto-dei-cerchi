@@ -26,6 +26,7 @@ import shutil
 import subprocess
 import sys
 
+import esperti
 import ricerca
 
 RADICE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -1258,7 +1259,7 @@ def costruisci_lingua(lingua, altre):
   <div class="tre">
 %(prova)s
   </div>
-  <p class="senza-conto">%(senza_conto)s</p>
+  <p class="senza-conto">%(senza_conto)s</p>%(esperti_home)s
 </section>
 
 %(strumenti)s<section class="blocco">
@@ -1285,7 +1286,9 @@ def costruisci_lingua(lingua, altre):
         storico=t["storico"], h_aperto=t["h_aperto"], h_stato=t["h_stato"], stato=t["stato"], bozza=t["bozza"],
         h_licenza=t["h_licenza"], licenza=t["licenza"].format(lic=licenza, licp=licenza_p), contribuire=t["contribuire"],
         ctesto=t["contribuire_testo"], pcon=lingua["pag_contribuire"], come=t["come_contribuire"],
-        strumenti=STRUMENTI_HOME if lingua["codice"] == "it" else "")
+        strumenti=STRUMENTI_HOME if lingua["codice"] == "it" else "",
+        esperti_home=('\n  <p class="senza-conto">Conosci bene una materia? C\u2019è una <a href="esperti/index.html">scheda per esperti</a> '
+                      'con le domande aperte, una per ciascuna delle sedici materie.</p>') if lingua["codice"] == "it" else "")
     scrivi(lingua, "index.html",
            pagina(lingua, TITOLO_HOME.get(lingua["codice"], nome), t["desc_home"], contenuto, 0, "", gemelle()))
 
@@ -1302,6 +1305,9 @@ def costruisci():
     presenti = [c for c in LINGUE if os.path.isdir(os.path.join(TESTI, c))]
     for codice in presenti:
         costruisci_lingua(LINGUE[codice], [LINGUE[c] for c in presenti if c != codice])
+    # schede per esperti: per ora soltanto in italiano
+    if "it" in presenti:
+        esperti.costruisci(LINGUE["it"], pagina, scrivi, RADICE, SITO_DIR)
     # foglio di stile e file che evita l'elaborazione Jekyll su alcuni servizi
     os.makedirs(os.path.join(SITO_DIR, "assets"), exist_ok=True)
     shutil.copy(os.path.join(RADICE, "strumenti", "stile.css"), os.path.join(SITO_DIR, "assets", "stile.css"))

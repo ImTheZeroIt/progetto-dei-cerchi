@@ -1,7 +1,7 @@
 ---
 titolo: "ANEXO TÉCNICO C AL CÓDIGO 16 — CARTA OPERATIVA DEL PRIMER AÑO"
 breve: "Anexo C al Código 16 — Carta operativa del primer año"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "allegati"
 ordine: 16.3
 id: "codice-16-allegato-c"
@@ -13,7 +13,7 @@ Anexo técnico adoptado conforme al artículo 19 del Código 3 y al que remiten 
 
 ## Art. 1 — A quién sirve y qué contiene
 
-1.  La presente Carta está destinada a un Círculo piloto compuesto por entre treinta y quinientas personas en la Fase 0 prevista en el artículo 3 del Código 16; por encima de ciento cincuenta personas no se aplica la agrupación de los Consejos del artículo 3, apartado 2, salvo deliberación de la Asamblea.
+1.  La presente Carta está destinada a un Círculo piloto compuesto por entre treinta y quinientas personas en la Fase 0 prevista en el artículo 3 del Código 16; por encima de ciento cincuenta personas con derecho a voto no se aplica la agrupación de los Consejos del artículo 3, apartado 2, salvo deliberación de la Asamblea.
 2.  Indica solo lo que es necesario para empezar. Todo lo que no se indica se activa por fases, cuando se alcanzan los umbrales correspondientes, según los artículos 3 y 4 del Código 16.
 3.  Cada regla de la Carta remite a la disposición de la que deriva. La Carta no puede usarse para imponer conductas no previstas en los Códigos.
 

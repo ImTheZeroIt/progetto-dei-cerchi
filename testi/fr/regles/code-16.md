@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 16 — TRANSITION ET LANCEMENT DE LA CONFÉDÉRATION"
 breve: "Code 16 — Transition et lancement"
-versione: "V1.10"
+versione: "V1.11"
 gruppo: "codici"
 ordine: 16
 id: "codice-16"
 slug: "code-16"
-allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 3 V1.11 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 7 V1.10 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 15 V1.12."
+allineamento: "Constitution V.39 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 3 V1.13 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 7 V1.10 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 15 V1.13."
 ---
 
 ## Art. 1 — Objet, définitions et nature temporaire
@@ -207,9 +207,9 @@ allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 3 V1.
 
 4.  **Passage de la Phase 3 à la Phase 4.** Sont requis :
 
-    a) un audit fédéré positif sur l’autonomie, réalisé après au moins six mois continus de fonctionnement sans dépendances critiques non substituables compromettant la continuité du Panier ;
+    a) un audit fédéré positif sur l’autonomie, réalisé après au moins six mois continus de fonctionnement sans dépendances critiques non substituables compromettant la continuité du Panier ; la dépendance structurelle couverte par un Plan de garantie mis en œuvre, au sens de l’article 12, alinéa 5-ter, du Code 15, ne la compromet pas ;
 
-    b) l’inscription au Registre des dépendances d’un plan de sortie à échéance certaine pour chaque dépendance critique encore présente ;
+    b) l’inscription au Registre des dépendances d’un plan de sortie à échéance certaine pour chaque dépendance critique encore présente, ou un Plan de garantie pour les dépendances structurelles au sens de l’article 12, alinéa 5-ter, du Code 15 ;
 
     c) le fonctionnement des nœuds du Réseau fédéré dans tous les Bassins ;
 

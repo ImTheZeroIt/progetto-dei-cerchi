@@ -1,0 +1,132 @@
+{
+ "chiave": "energia",
+ "titolo": "Energia e acqua",
+ "a_chi": "ingegneri elettrici ed energetici, esperti di microreti e accumulo, ingegneri idraulici e chi gestisce acquedotti e depuratori",
+ "perche": "Ogni Comunità deve produrre la propria energia da fonti rinnovabili, con una piccola rete locale che si può separare dalle altre, e gestire da sé il ciclo dell'acqua. Senza energia e acqua non funzionano la conservazione del cibo, la sanità e la rete informativa. I testi fissano priorità, divieti e garanzie contro la sorveglianza dei consumi, ma non sono mai stati confrontati con un dimensionamento tecnico. Si chiede di verificare se le regole sono realizzabili con impianti reali, in climi reali e con il personale che una Comunità di 30–500 persone può avere.",
+ "come_funziona": [
+  "L'energia essenziale e l'acqua sono beni comuni e non sono merce. Nessuno può essere privato dell'energia o dell'acqua come sanzione; l'energia essenziale alla salute e l'acqua potabile spettano a chiunque si trovi nel territorio, anche se non è membro. L'accumulo oltre i limiti e il ricatto energetico sono illecito di Grado 4 (Cost. 15.2; Cod. 8, art. 1, cc. 4 e 6; art. 4, c. 2; art. 4-bis, c. 2; art. 9).",
+  "Ogni Comunità punta a produrre da sé, da fonti rinnovabili, con accumulo di breve durata e una microrete separabile. I collegamenti con le altre Comunità servono al mutuo soccorso: nessuna Comunità deve dipendere stabilmente da un'altra. Prima si riducono i consumi, poi si aumenta la produzione. Accumulo, bilanciamento, compensazione e dispacciamento del Cerchio 2 (e le dorsali del Cerchio 3) li gestisce un Consiglio Energia e Acqua condiviso, fermo l'override manuale di ogni Comunità (Cost. 15.1; Cod. 8, art. 2, cc. 1–2; art. 3-bis; art. 6, cc. 1, 7–10).",
+  "Il Paniere Energia è l'energia garantita a tutti. Copre conservazione e cottura dei cibi, acqua calda, luce, ricarica dei dispositivi essenziali, riscaldamento e raffrescamento minimi per la salute, Magazzino Salute e nodo della Rete. La quota la decide l'Assemblea; in prima applicazione almeno 20 litri di acqua calda per persona al giorno e almeno 18 °C nei locali abitati in inverno. Il Consiglio Salute indica la temperatura pericolosa per la salute. Il Paniere Acqua vale almeno 50 litri per persona al giorno (Cod. 8, art. 4; art. 4-bis).",
+  "Quando l'energia non basta l'Assemblea taglia a partire dagli usi meno importanti: prima gli altri usi, poi i compiti di Lista A, la sicurezza e la manutenzione, le infrastrutture critiche, e per ultimo il livello 1 (emergenze vitali e quota minima del Paniere). Il livello 1 si riduce solo per impossibilità tecnica temporanea, con il mutuo aiuto e l'avviso al Cerchio di Garanzia. Questa scala ordina solo gli usi dell'energia: tra settori diversi prevale la gerarchia generale del Cod. 1, art. 32 (Cod. 8, art. 2, cc. 3–5; Cod. 1, art. 32, c. 1-quater).",
+  "Sono vietati i nuovi impianti a fonti non rinnovabili. Quelli fossili esistenti si usano solo in via transitoria: per le funzioni vitali con un Piano di Uscita, per gli altri usi al massimo dodici mesi, ventiquattro in tutto (Cost. 15.4; Cod. 8, art. 5, cc. 3–6).",
+  "I consumi si misurano solo per sicurezza, bilancio e manutenzione, di norma per impianto, edificio o microrete. Il singolo alloggio si misura solo se serve al Paniere o alla sicurezza, con dati non pubblicati e protetti, in particolare per chi vive da solo. Per l'energia locale e il ciclo idrico l'IA di Comunità è solo consultiva (Cod. 8, art. 6, cc. 2–6; Cod. 7, art. 5-ter, c. 1; Cost. 15.3).",
+  "Per l'acqua: prelievi entro la ricarica delle falde e con deflusso ecologico; controlli di qualità pubblicati secondo una STV adottata con il parere vincolante del Consiglio Salute, e sospensione immediata se l'acqua non è conforme; dove possibile due fonti indipendenti e 72 ore di riserva. I prelievi dallo stesso bacino idrografico li delibera l'Assemblea Generale del Cerchio 2 o, se il bacino comprende Cerchi 2 diversi, le loro Assemblee Generali in modo concorde; i Cerchi a monte non possono togliere l'acqua al Paniere di quelli a valle. Sotto i 50 litri si scende solo per impossibilità tecnica temporanea, con decisione dell'Assemblea e richiesta di aiuto (Cod. 8, art. 3-bis; art. 4-bis, c. 6; art. 6-bis).",
+  "Un Consiglio Energia e Acqua di 3–5 persone sorteggiate tra chi ha competenze L2 o L3 gestisce impianti, schede tecniche, sicurezza e dispacciamento ordinario. Entro sei mesi ogni Comunità deve garantire il Paniere Energia minimo, anche con una fonte transitoria; entro dodici una microrete minima, un accumulo per i livelli 1–3 e un nodo Rete con alimentazione d'emergenza (Cod. 8, art. 3; art. 10, cc. 2–3)."
+ ],
+ "numeri": [
+  {
+   "valore": "Paniere Acqua: almeno 50 litri per persona al giorno, di cui almeno 20 di acqua calda",
+   "dove": "Cod. 8, art. 4-bis, c. 3; art. 4, c. 4",
+   "nota": "Registro dei parametri: per l'OMS (2020) 50 litri sono un accesso intermedio, a rischio medio per la salute, e oltre 100 l'accesso ottimale, a rischio basso; Sphere fissa 15 litri nelle emergenze. Incertezza bassa come minimo sanitario, media per clima e usi locali. Per 150 persone servono almeno 7,5 m³ al giorno, circa 8,6 con gli ospiti (bozza del Paniere, sez. 2)."
+  },
+  {
+   "valore": "Paniere Energia: almeno 20 litri di acqua calda per persona al giorno e almeno 18 °C nei locali abitati in inverno; gli altri servizi senza un valore",
+   "dove": "Cod. 8, art. 4, cc. 4–6",
+   "nota": "Registro dei parametri: incertezza media; i 20 litri vengono da Millward-Hopkins e altri (2020), i 18 °C dall'OMS (2018), che li propone senza dimostrarli come soglia. Da verificare se 20 litri bastano per una doccia. Come termine di confronto lo stesso studio stima 15,3 GJ di energia finale per persona all'anno per una vita dignitosa, circa 11,6 kWh al giorno, di cui la parte domestica è solo una quota."
+  },
+  {
+   "valore": "72 ore di autonomia per beni vitali ed energia in ogni Cerchio 0; 72 ore di riserva del Paniere Acqua",
+   "dove": "Cod. 1, art. 39, c. 2; Cod. 8, art. 6-bis, c. 6",
+   "nota": "Registro dei parametri: coincide con l'obiettivo della strategia europea di preparazione del 26 marzo 2025, che però parla di scorte e non di autonomia energetica; 72 ore di energia per ogni Nucleo richiedono accumuli o generatori. Incertezza bassa come minimo."
+  },
+  {
+   "valore": "fossili per usi non vitali: al massimo 12 mesi, riesame ogni 6, 24 mesi in tutto",
+   "dove": "Cod. 8, art. 5, cc. 5–6",
+   "nota": "Scelta di redazione. Per le funzioni vitali dei livelli 1–2 il testo non fissa una durata massima, solo un Piano di Uscita con termine certo (art. 5, c. 3)."
+  },
+  {
+   "valore": "sistemi senza codice sorgente (per esempio firmware chiusi): al più 12 mesi, prorogabili una volta di 12, con Piano di Sostituzione pubblico",
+   "dove": "Cost. 19.4; Cod. 2, art. 5, c. 2, lett. b), e art. 12",
+   "nota": "Registro dei parametri: incertezza media; da verificare per quali dispositivi non esiste un'alternativa aperta."
+  },
+  {
+   "valore": "transizione: bilancio e Paniere minimo in 6 mesi, microrete e accumulo in 12, Piano di Uscita dai fossili in 24",
+   "dove": "Cod. 8, art. 10, cc. 2–4",
+   "nota": "Non compare nel registro dei parametri: scelta di redazione."
+  },
+  {
+   "valore": "Consiglio Energia e Acqua di 3–5 persone, mandato di un anno, non risorteggiabili prima di 12 mesi",
+   "dove": "Cod. 8, art. 3, cc. 1–2",
+   "nota": "Registro dei parametri (Consigli tecnici): incertezza media. Da verificare la continuità delle competenze e quante persone idonee ci sono nelle Comunità piccole."
+  },
+  {
+   "valore": "3.350 ore l'anno per energia e acqua in una Comunità di 150 persone; fotovoltaico di 2 kW per persona",
+   "dove": "Bozza dell'Allegato UCR, par. 4.2 e 4.3",
+   "nota": "Ipotesi di redazione: il doppio delle ore medie europee del settore, per tenere conto della piccola scala. Stime di calibrazione, non adottate."
+  }
+ ],
+ "domande": [
+  "Il Cod. 8, art. 2, c. 1, e art. 6, c. 7, prevedono solo un accumulo di breve durata, e l'art. 6, c. 10, usa i collegamenti tra microreti per il mutuo soccorso nelle emergenze. In un clima con riscaldamento invernale e produzione soprattutto solare, una Comunità può coprire il Paniere Energia di gennaio, con i 18 °C dell'art. 4, c. 4, senza accumulo stagionale e senza importazioni ordinarie? L'art. 3-bis affida accumulo e bilanciamento del Cerchio 2 a un Consiglio condiviso: dipendere ogni inverno da quell'accumulo è compatibile con il divieto di «dipendenza strutturale» dell'art. 2, c. 1, e dell'art. 6, c. 9?",
+  "La Cost. 15.3 dice che il dispacciamento è supportato da sistemi «esclusivamente consultivi» e che nessun sistema automatico può disporre da solo un distacco coercitivo; per l'energia locale anche l'IA di Comunità è solo consultiva (Cod. 7, art. 5-ter, c. 1). Una microrete in isola ha però bisogno di protezioni e distacchi automatici dei carichi in frazioni di secondo. Il Cod. 2, art. 5, c. 2, lett. b), dice che il firmware che esegue «automazioni dotate di STV» non propone né decide. Basta a distinguere le protezioni tecniche automatiche dal distacco coercitivo, o va scritta una regola esplicita nel Cod. 8, art. 6, c. 1?",
+  "Il Cod. 8, art. 2, c. 3, mette sicurezza e manutenzione al livello 3 della scala dell'energia, ma la scala vale solo dentro il settore (Cod. 1, art. 32, c. 1-quater). Tra settori diversi la manutenzione delle infrastrutture di energia e acqua (Cod. 1, art. 32, c. 1, lett. e) viene dopo la distribuzione del Paniere (lett. b) e dopo la cura delle persone fragili (lett. d); la deroga del c. 3 vale solo per un danno «maggiore, immediato e documentato». Durante una carenza di persone o di ore che dura mesi, questo ordine rischia di far degradare lentamente gli impianti da cui il Paniere dipende? Che cosa andrebbe scritto?",
+  "Il Cod. 8, art. 5, c. 4, e la Cost. 15.4 vietano nuovi impianti non rinnovabili; l'art. 5, c. 3, ammette i fossili esistenti per le funzioni vitali senza durata massima, e l'art. 10, c. 2, lett. d), consente una «fonte transitoria sicura» per il Paniere minimo. Un gruppo elettrogeno nuovo per il Magazzino Salute o per la potabilizzazione è un «nuovo impianto» vietato? Esistono alternative rinnovabili programmabili (biomassa residuale, biogas, idroelettrico piccolo, art. 5, c. 2) che garantiscano il livello 1 in ogni stagione?",
+  "Il Cod. 8, art. 6, cc. 3–5, ammette di norma solo misure aggregate per impianto, edificio o microrete. Senza contatori per alloggio si possono ancora individuare guasti, dispersioni o carichi anomali, e far rispettare il divieto di accumulo individuale oltre i limiti (art. 9, c. 1, lett. d), che ora è un illecito di Grado 4 (art. 9, c. 2)? Quale misurazione minima serve al bilancio e alla sicurezza senza profilare chi vive da solo (art. 6, c. 5, lett. d)?",
+  "Il Cod. 8, art. 9, c. 1, lett. f), vieta di cedere a un soggetto esterno il controllo funzionale della microrete. Una Comunità che nasce dentro uno Stato e resta allacciata alla rete pubblica deve di norma accettare le regole e i dispositivi del gestore di rete (protezioni, telecontrollo, distacco a distanza). Il divieto è compatibile con l'allacciamento, o costringe a funzionare in isola fin dal primo anno (art. 10, c. 3)? Lo stesso vale per l'allacciamento alle reti idriche esterne (art. 6-bis, c. 8).",
+  "Il Cod. 8, art. 8, c. 1, lett. b), iscrive tra le dipendenze tecnologiche gli inverter proprietari e i sistemi di gestione delle batterie (BMS) chiusi, e l'art. 8, c. 2, lett. c), chiede per ognuna un termine finale certo. Per i firmware di cui non c'è il codice sorgente il Cod. 2, art. 5, c. 2, lett. b), e la Cost. 19.4 ammettono solo un tempo limitato con Piano di Sostituzione (il registro dei parametri indica 12 mesi più 12). Oggi esistono inverter e BMS aperti, affidabili e certificati per accumuli stazionari LFP di taglia comunitaria (art. 6, c. 7)? Un termine così breve è realistico per componenti che la Confederazione non sa produrre?",
+  "Il Cod. 8, art. 3, c. 1, chiede 3–5 persone L2 o L3 in energia, idraulica o qualità delle acque per ogni Comunità; l'art. 7, c. 5, chiede L2 per installare e L3 per progettare; l'art. 8, c. 4, chiede revisori L3 indipendenti ogni anno. In una Comunità di 150 persone quante figure qualificate servono davvero per gestire fotovoltaico, accumulo, potabilizzazione e depurazione? Le 3.350 ore l'anno stimate nella bozza UCR sono plausibili?",
+  "Il Cod. 8, art. 4-bis, c. 1, fa rientrare nei 50 litri bere, cucinare e l'igiene personale e domestica, e la bozza del Paniere vi conta anche i 20 litri di acqua calda. Lo sciacquone di un WC tradizionale consuma da solo 25–40 litri per persona al giorno. I 50 litri comprendono gli scarichi e il bucato? Se sì, la regola presuppone servizi igienici a secco o il riuso delle acque grigie (art. 6-bis, c. 4), e il testo dovrebbe dirlo?",
+  "Il Cod. 8, art. 6-bis, c. 2, chiede controlli periodici secondo la STV Acqua Potabile, adottata con il parere vincolante del Consiglio Salute, e la sospensione immediata della distribuzione in caso di non conformità, con una fonte alternativa. Quali parametri e quale frequenza sono indispensabili per una piccola rete, quali analisi richiedono un laboratorio che la Comunità non ha, e a quale livello (Comunità o Cerchio 2) va collocato? E per il riuso dei fanghi di depurazione, che possono contenere metalli, farmaci e PFAS (art. 6-bis, c. 4), quali condizioni minime vanno scritte nel Codice invece che lasciate alla STV?",
+  "Per il Cod. 8, art. 3-bis, i prelievi da un bacino idrografico che comprende Cerchi 2 diversi li deliberano «in modo concorde» le loro Assemblee Generali, e l'art. 6-bis, c. 7, vieta di togliere ai Cerchi a valle l'acqua del loro Paniere. Se le Assemblee non trovano un accordo, nessuna norma dice che cosa succede né chi decide. In una siccità, quale regola o quale organo dovrebbe decidere, e in quali tempi? Il criterio del Paniere a valle basta, quando anche i Cerchi a monte sono sotto i 50 litri?",
+  "Il Cod. 8, art. 4, c. 4, fissa 18 °C nei locali abitati e 20 litri di acqua calda al giorno. L'art. 10, c. 2, lett. d), chiede di garantire il Paniere Energia minimo entro sei mesi, e l'art. 2, c. 2, chiede di ridurre il fabbisogno prima di aumentare la produzione. In edifici esistenti poco isolati, sei mesi bastano a raggiungere i 18 °C senza ricorrere alle fonti fossili transitorie dell'art. 5, c. 3? Quanta energia serve, per clima ed edificio, per mantenere 18 °C e 20 litri di acqua calda?"
+ ],
+ "modifiche_recenti": [
+  "Cod. 8, art. 4, c. 4: valori di prima applicazione del Paniere Energia, almeno 20 litri di acqua calda per persona al giorno e almeno 18 °C nei locali abitati; il Consiglio Salute indica la temperatura pericolosa per la salute.",
+  "Cod. 8, art. 2, cc. 3–5, e art. 4-bis, c. 6: la scala dell'energia vale ferma la gerarchia del Cod. 1, art. 32; il livello 1 e l'acqua sotto i 50 litri si riducono solo per impossibilità tecnica temporanea, con il mutuo aiuto e l'avviso al Cerchio di Garanzia.",
+  "Cod. 8, art. 3-bis: un Consiglio Energia e Acqua condiviso gestisce accumulo, bilanciamento, compensazione e dispacciamento dei Cerchi 2 e 3; i prelievi dallo stesso bacino li delibera l'Assemblea Generale, o più Assemblee Generali in modo concorde.",
+  "Cod. 8, art. 9, c. 2, e Cod. 7, art. 5-ter, c. 1: l'accumulo oltre i limiti e il ricatto energetico sono illecito di Grado 4; per l'energia locale e il ciclo idrico l'IA di Comunità è solo consultiva."
+ ],
+ "testi": [
+  {
+   "file": "codice-08",
+   "articoli": "tutti"
+  },
+  {
+   "file": "codice-01",
+   "articoli": [
+    "32",
+    "34",
+    "39"
+   ]
+  },
+  {
+   "file": "codice-02",
+   "articoli": [
+    "5"
+   ]
+  },
+  {
+   "file": "codice-07",
+   "articoli": [
+    "5-ter"
+   ]
+  },
+  {
+   "file": "costituzione",
+   "articoli": [
+    "15",
+    "19"
+   ]
+  }
+ ],
+ "approfondire": [
+  {
+   "titolo": "Codice 8 — Energia e acqua",
+   "pagina": "registro/codice-08.html"
+  },
+  {
+   "titolo": "Bozza dell'Allegato del Paniere (Paniere Acqua e Paniere Energia)",
+   "pagina": "registro/bozza-paniere.html"
+  },
+  {
+   "titolo": "Bozza dell'Allegato UCR (ore per energia e acqua, manufatti)",
+   "pagina": "registro/bozza-ucr.html"
+  },
+  {
+   "titolo": "Registro dei parametri da verificare",
+   "pagina": "registro/parametri.html"
+  }
+ ],
+ "aggiornata": "2026-11-02",
+ "slug": "energia-e-acqua",
+ "ordine": 6
+}

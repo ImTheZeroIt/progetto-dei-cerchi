@@ -25,11 +25,11 @@ Poi vengono le regole.
 
 | Testo | Versione |
 |---|---|
-| [Costituzione](testi/it/registro/costituzione.md) | V.38 |
+| [Costituzione](testi/it/registro/costituzione.md) | V.39 |
 | [Codice 1 — Contributo di base e Magazzini comuni](testi/it/registro/codice-01.md) | V1.12 |
 | [Annex A al Codice 1 — Produzione materiale e officine](testi/it/registro/codice-01-annex-a.md) | V1.7 |
 | [Codice 2 — Qualità e validazione](testi/it/registro/codice-02.md) | V1.9 |
-| [Codice 3 — Deliberazione, soglie e Assemblea](testi/it/registro/codice-03.md) | V1.11 |
+| [Codice 3 — Deliberazione, soglie e Assemblea](testi/it/registro/codice-03.md) | V1.13 |
 | [Codice 4 — Giustizia riparativa e garanzia](testi/it/registro/codice-04.md) | V1.10 |
 | [Codice 5 — Apprendimento e competenze](testi/it/registro/codice-05.md) | V1.7 |
 | [Codice 6 — Salute](testi/it/registro/codice-06.md) | V1.9 |
@@ -41,11 +41,11 @@ Poi vengono le regole.
 | [Codice 12 — Cura di comunità](testi/it/registro/codice-12.md) | V1.7 |
 | [Codice 13 — Biodiversità, santuari e fauna](testi/it/registro/codice-13.md) | V1.9 |
 | [Codice 14 — Sicurezza generale](testi/it/registro/codice-14.md) | V1.10 |
-| [Codice 15 — Rapporti esterni e Saldo](testi/it/registro/codice-15.md) | V1.12 |
-| [Codice 16 — Transizione e avvio](testi/it/registro/codice-16.md) | V1.10 |
+| [Codice 15 — Rapporti esterni e Saldo](testi/it/registro/codice-15.md) | V1.13 |
+| [Codice 16 — Transizione e avvio](testi/it/registro/codice-16.md) | V1.11 |
 | [Allegato A al Codice 16 — Protocollo di avvio sociale](testi/it/registro/codice-16-allegato-a.md) | V1.4 |
-| [Allegato B al Codice 16 — Manuale operativo di disinserimento e federazione](testi/it/registro/codice-16-allegato-b.md) | V1.7 |
-| [Allegato C al Codice 16 — Carta operativa del primo anno](testi/it/registro/codice-16-allegato-c.md) | V1.4 |
+| [Allegato B al Codice 16 — Manuale operativo di disinserimento e federazione](testi/it/registro/codice-16-allegato-b.md) | V1.8 |
+| [Allegato C al Codice 16 — Carta operativa del primo anno](testi/it/registro/codice-16-allegato-c.md) | V1.5 |
 
 La Costituzione stabilisce i principi e la struttura generale. I Codici trasformano quei principi in regole operative. Gli Allegati tecnici sviluppano procedure, criteri e specifiche. In caso di conflitto prevale la Costituzione.
 

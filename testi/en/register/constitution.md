@@ -1,7 +1,7 @@
 ---
 titolo: "CONSTITUTION OF THE CONFEDERATION OF CIRCLES"
 breve: "Constitution"
-versione: "V.38"
+versione: "V.39"
 gruppo: "costituzione"
 ordine: 0
 id: "costituzione"
@@ -659,7 +659,7 @@ g) the principle of scientific deliberation referred to in Article 33 and the pr
 
 h) the prohibition of AI that decides in place of persons referred to in Article 19.6, the principle of independence and non-subordination of AIs referred to in Article 20.1 and the right to the facilitators and to the trusted person referred to in Article 31.5;
 
-i) the acephalous and non-hierarchical character of the Confederation, the sovereignty of the Base Community and the subsidiarity referred to in Articles 4.1, 4.2 and 32.1, as well as sortition, rotation and the prohibition of the professional and permanent exercise of politics and of the judicial function referred to in Articles 4.3, 4.4, 6.5 and 31.2;
+i) the acephalous and non-hierarchical character of the Confederation, the sovereignty of the Base Community and the subsidiarity referred to in Articles 4.1, 4.2 and 32.1, as well as sortition, rotation, the temporary nature of offices and the prohibition of the professional and permanent exercise of politics and of the judicial function referred to in Articles 4.3, 4.4, 6.5 and 31.2. The durations, intervals and numerical limits laid down in those Articles may be amended by the Double Long Majority, provided that every office remains temporary, rotating and not immediately renewable, no duration exceeds twice that provided for in this text and no interval between two mandates falls below half;
 
 j) the right to leave the Confederation and to live by means of an Autonomous Coexistence Pact referred to in Articles 4.8, 4.9 and 4.9-bis, the right of withdrawal of the Communities referred to in Article 4.6 and the right to leave a Community referred to in Article 5.2;
 

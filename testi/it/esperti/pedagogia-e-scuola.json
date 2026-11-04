@@ -1,0 +1,155 @@
+{
+ "chiave": "pedagogia",
+ "titolo": "Pedagogia, scuola e formazione professionale",
+ "a_chi": "pedagogisti, insegnanti, educatori, esperti di formazione professionale e di valutazione delle competenze",
+ "perche": "Il progetto toglie alla scuola il ruolo di istituzione separata: niente obbligo scolastico standardizzato, niente classi per età, niente voti. Si impara facendo, in affiancamento, e chi sa insegna a turno. Le competenze non si certificano con titoli ma con prove pratiche, su tre livelli secondo il rischio del compito. Si chiede di verificare se questo modello può dare a tutti i bambini una formazione di base solida, e alla Comunità abbastanza persone competenti nei mestieri ad alto rischio.",
+ "come_funziona": [
+  "Sono aboliti l'obbligo scolastico standardizzato, la divisione ordinaria in classi per età e il voto come strumento ordinario di valutazione. Tutta la Comunità è luogo di apprendimento: officine, campi, cucine, Magazzini (Cost. 29.1–29.2; Cod. 5, art. 2, c. 2).",
+  "Non esiste il ruolo permanente di insegnante. Insegna chi appartiene a un Cerchio di Competenza ed è in turno di trasmissione; ognuno di loro dedica almeno il 20% del proprio Contributo di Base (CBO) a trasmettere le competenze. Il tempo per apprendere e insegnare conta come CBO (Cod. 5, art. 2, cc. 3 e 6; Cost. 6.3 e 29.6–29.7).",
+  "Ogni minore ha tre figure di riferimento, a rotazione trimestrale, di Cerchi di Competenza diversi, esterne alla sua famiglia e al suo Cerchio 0. Le sceglie il Consiglio delle Competenze con la partecipazione del minore. Gli adulti non hanno figure di riferimento (Cod. 5, art. 6, c. 7; Cost. 29.3).",
+  "Entro gli 11 anni è garantita l'alfabetizzazione: lettura e scrittura, matematica di base, uso delle IA locali, riparazione di un oggetto complesso, coltivazione di un alimento a ciclo completo, primo soccorso umano e animale, mediazione non violenta. La prova è pratica, davanti a persone designate dall'Assemblea, e la valutazione descrittiva; se un traguardo manca si offre un sostegno senza conseguenze. Materiali, strumenti e spazi per l'alfabetizzazione e per la formazione alla sicurezza fanno parte del Paniere; per gli altri percorsi dipendono dalla disponibilità dei Magazzini. Dai 12 anni accesso libero a corsi e cantieri; il portfolio sostituisce il diploma (Cod. 5, art. 2, c. 4-bis, e art. 6, cc. 8–9).",
+  "Ai minori non si assegna mai CBO obbligatorio: il loro CBO è volontario e revocabile. Fino a 14 anni sono vietati voti numerici, classifiche, graduatorie, test selettivi standardizzati e bocciature, ed è ammessa solo la partecipazione volontaria. Dai 14 anni è ammessa la pratica supervisionata; dai 16 l'esercizio autonomo dei compiti a rischio medio o alto, con la validazione richiesta, e la partecipazione in affiancamento, senza voto, alle funzioni civiche conferite per sorteggio, come i Consigli e la garanzia (Cod. 5, art. 6, cc. 2–5; Cod. 1, art. 4, c. 1, lett. d).",
+  "Le competenze si validano su tre livelli secondo il rischio. L1: prova pratica davanti a due persone competenti. L2: conferma di almeno due persone già validate L2 nella stessa competenza, anche di altre Comunità. L3, per i compiti ad alto rischio: validazione del Consiglio delle Competenze. Le classi di rischio R0–R3 del Codice 14 corrispondono ai livelli di rischio nullo, basso, medio e alto. L'esito è descrittivo, nel Portfolio Personale, con data di riesame. Una validazione L3 si sospende dopo 12 mesi senza esercizio, una L2 dopo 24 (Cod. 5, art. 4).",
+  "Il Consiglio delle Competenze (3–7 persone sorteggiate, un anno) è l'articolazione locale dei Cerchi di Competenza Infanzia ed Educazione e Apprendimento e Trasmissione dei Saperi. Cura il Magazzino del Sapere, organizza gli affiancamenti e valida le competenze L3. Il rifiuto di accesso a un percorso è ammesso solo per sicurezza o capacità di accoglienza; dopo tre rifiuti decide una revisione esterna. Contro diniego, sospensione o decadenza c'è ricorso al Cerchio di Garanzia entro 14 giorni (Cod. 5, artt. 7, 9 e 9-bis).",
+  "Le competenze non danno rendita né privilegi; chi ha una competenza critica deve trasmetterla. Prima del CBO generico serve una formazione di base (4 ore in prima applicazione, provvisorie). I titoli già ottenuti valgono solo come documentazione; chi esercita già funzioni ad alto rischio riceve una validazione provvisoria (Cod. 5, artt. 8 e 10; Cod. 1, art. 28).",
+  "A 18 anni la persona cresciuta nella Confederazione sceglie se restare, vivere con il Patto di Convivenza Autonoma o andare. Almeno tre mesi prima il Consiglio delle Competenze e il Consiglio Cura la informano per iscritto; fino alla scelta il suo CBO resta volontario. Chi va riceve un sostegno per l'avvio della vita autonoma (Cost. 26.4; Cod. 5, art. 6, cc. 6 e 6-bis; Cod. 1, art. 49, c. 6)."
+ ],
+ "numeri": [
+  {
+   "valore": "almeno il 20% del CBO di ogni membro di un Cerchio di Competenza dedicato alla trasmissione",
+   "dove": "Cod. 5, art. 2, c. 6; Cost. 6.3 e 29.6",
+   "nota": "Non compare nel registro dei parametri: scelta di redazione. La bozza dell'Allegato UCR conta il turno di trasmissione dentro le ore di apprendimento dei minori e non lo somma."
+  },
+  {
+   "valore": "da 3.020 a 6.780 ore l'anno di apprendimento dei minori per una Comunità di 150 persone",
+   "dove": "Bozza dell'Allegato UCR, par. 4.2",
+   "nota": "Scenario minimo: un adulto ogni 12,2 minori (media UE). Scenario europeo: ore di tutta l'istruzione nell'UE, università comprese. Comprende il turno di trasmissione. Stime di calibrazione, non adottate."
+  },
+  {
+   "valore": "tre figure di riferimento per ogni minore, a rotazione trimestrale",
+   "dove": "Cod. 5, art. 6, c. 7; Cost. 29.3",
+   "nota": "Scritto nella Costituzione; non compare nel registro dei parametri. Nessuna fonte indicata."
+  },
+  {
+   "valore": "alfabetizzazione garantita entro gli 11 anni; accesso libero a corsi e cantieri dai 12",
+   "dove": "Cod. 5, art. 6, cc. 8–9; Cost. 29.4–29.5",
+   "nota": "Scritto nella Costituzione; non compare nel registro dei parametri."
+  },
+  {
+   "valore": "14 anni: fine del divieto di voti e test, inizio della pratica supervisionata; 16 anni: esercizio autonomo di compiti a rischio medio e alto",
+   "dove": "Cod. 5, art. 6, cc. 3–4",
+   "nota": "Non compare nel registro dei parametri: scelta di redazione."
+  },
+  {
+   "valore": "incarichi a sorteggio dai 18 anni; dai 16 in affiancamento, senza voto",
+   "dove": "Cod. 5, art. 6, c. 4; Cod. 3, art. 12-bis, c. 4",
+   "nota": "Registro dei parametri: decisione dell'autore del 1 novembre 2026 (età del CBO); incertezza media, da provare in una Comunità con molti giovani."
+  },
+  {
+   "valore": "scelta di adesione entro 12 mesi dai 18 anni; informazione scritta almeno 3 mesi prima dei 18 anni, senza la quale il termine non decorre",
+   "dove": "Cost. 26.4; Cod. 5, art. 6, c. 6-bis",
+   "nota": "Registro dei parametri: incertezza media; da valutare se il silenzio come adesione sia compatibile con la libertà della scelta."
+  },
+  {
+   "valore": "sospensione per mancato esercizio: L3 dopo 12 mesi, L2 dopo 24; decadenza dopo altri 24 (L3) o 48 mesi (L2); riesame ogni 2 anni (L3) e ogni 4 (L2)",
+   "dove": "Cod. 5, art. 4, c. 5",
+   "nota": "Non compare nel registro dei parametri: valori uguali per tutte le competenze dello stesso livello."
+  },
+  {
+   "valore": "Consiglio delle Competenze di 3–7 persone, in carica un anno",
+   "dove": "Cod. 5, art. 7, cc. 1–2",
+   "nota": "Registro dei parametri (Consigli tecnici, di norma 3–5 persone): incertezza media; da verificare la continuità delle competenze con mandati annuali e le persone idonee disponibili nelle Comunità piccole."
+  },
+  {
+   "valore": "formazione di base prima del CBO generico: 4 ore in prima applicazione",
+   "dove": "Cod. 1, art. 28, c. 2",
+   "nota": "Dichiarata provvisoria nel testo. L'Allegato Tecnico Formativo che dovrebbe fissarla è, nel registro dei parametri, «da scrivere»."
+  },
+  {
+   "valore": "validazione provvisoria per chi esercita già: 6 mesi (L3), 12 mesi (L2); iscrizione al percorso entro 30 giorni",
+   "dove": "Cod. 5, art. 10, cc. 2–3",
+   "nota": "Non compare nel registro dei parametri: scelta di redazione."
+  }
+ ],
+ "domande": [
+  "Il Cod. 5, art. 6, c. 7 (e Cost. 29.3), dà a ogni minore tre figure di riferimento che ruotano ogni tre mesi. Per un bambino di sei anni, un cambio così frequente permette una relazione educativa stabile? Il testo non dice se le tre figure cambiano insieme o a scaglioni, né che cosa fanno in concreto: tutor, insegnanti, educatori. Che cosa dovrebbe precisare?",
+  "Il Cod. 5, art. 6, c. 8, mette insieme, entro gli 11 anni, abilità di base (lettura, scrittura, matematica) e competenze pratiche impegnative (riparare un oggetto complesso, coltivare a ciclo completo, primo soccorso anche animale, mediazione). È un traguardo adeguato all'età? Senza un programma scritto (l'Allegato Tecnico Formativo manca), chi stabilisce che cosa vuol dire «matematica di base» e quale livello di lettura basta?",
+  "Il Cod. 5, art. 2, c. 4-bis, mette nel Paniere soltanto i materiali, gli strumenti e gli spazi per l'alfabetizzazione e per la formazione alla sicurezza; per gli altri percorsi i materiali dipendono dalla «disponibilità dei Magazzini». Il dispositivo personale di comunicazione dai 12 anni è differibile (Cod. 7, art. 3, c. 9). Dopo gli 11 anni, i libri, gli strumenti e gli spazi per l'apprendimento tra i 12 e i 18 anni (art. 6, c. 9) sono garantiti abbastanza? Che cosa dovrebbe entrare nel Paniere perché l'accesso libero a corsi e cantieri sia reale?",
+  "Per il Cod. 5, art. 2, c. 6, insegna chi ha una competenza ed è in turno. Tra i criteri di validazione c'è la «capacità di trasmettere» (art. 4, c. 4, lett. e), ma nessun articolo chiede una preparazione pedagogica a chi insegna a leggere o segue i bambini piccoli. È sufficiente? Serve un percorso di competenza specifico per l'insegnamento di base? La Cost. 6.2, lett. i), prevede un Cerchio «Infanzia ed Educazione», di cui il Consiglio delle Competenze è l'articolazione locale (Cod. 5, art. 7, c. 1).",
+  "Il 20% del CBO dei membri dei Cerchi di Competenza (Cod. 5, art. 2, c. 6) è circa tre ore a settimana, se il CBO medio è di 15 ore. Basta a coprire l'affiancamento di tutti i minori? La bozza dell'Allegato UCR stima 3.020 ore l'anno per 150 persone con un adulto ogni 12,2 minori, turno di trasmissione compreso. Quale rapporto adulti/bambini, per fascia d'età, si dovrebbe usare per fare il conto?",
+  "Il Cod. 5, art. 6, c. 3, lett. d), vieta i «test selettivi standardizzati» fino a 14 anni. Il divieto comprende anche gli strumenti di screening standardizzati ma non selettivi (per dislessia, discalculia, disturbi del linguaggio)? Se sì, con una valutazione solo descrittiva, come si riconoscono in tempo le difficoltà di apprendimento?",
+  "La Cost. 29.1 abolisce la divisione ordinaria in classi per età, e il Cod. 5, art. 2, c. 2, fa dell'attività pratica il modo ordinario di imparare. Che cosa dice la ricerca sui gruppi di età mista e sull'apprendimento quasi solo in affiancamento tra i 6 e gli 11 anni? Dove e come i bambini incontrano con regolarità i coetanei?",
+  "Il Cod. 5, art. 6, c. 4, lett. c), ammette dai 16 anni l'esercizio autonomo dei compiti ad alto rischio con validazione L3; l'art. 4, c. 2, lett. c), vi comprende la conduzione di mezzi, i fitofarmaci, l'energia e l'edilizia strutturale, e l'art. 4, c. 2-bis, vi fa rientrare tutte le attività di classe R3 del Codice 14. La soglia unica dei 16 anni è adeguata, o alcune competenze richiedono un'età minima più alta?",
+  "Il Cod. 5, art. 4, c. 2, lett. c), e art. 7, cc. 1–3, affidano la validazione L3 di ogni competenza ad alto rischio, dalla sanità agli impianti elettrici, a un Consiglio di 3–7 persone sorteggiate per un anno con competenze «diversificate»; per il Livello 2, invece, servono due persone già validate nella stessa competenza (art. 4, c. 2, lett. b). Come si valuta una prova L3 in un campo dove nessun componente è esperto? Chi la conduce, e come si garantisce che due Comunità valutino nello stesso modo? E se all'inizio tutte le persone competenti hanno solo una validazione provvisoria, che non consente di validare altri (art. 10, cc. 2–4), chi valida le prime L3? L'abbreviazione per chi ha più di cinque anni di pratica (art. 10, c. 6) basta, e in che tempi?",
+  "Le regole del Cod. 5, art. 4, c. 5, sospendono una validazione L3 dopo 12 mesi senza esercizio, qualunque sia la competenza. Per competenze critiche ma rare in una Comunità piccola (assistere un parto, un soccorso in quota) dodici mesi passano facilmente. La soglia dovrebbe dipendere dalla competenza? Come si mantiene la pratica senza casi reali: simulazione, affiancamento in altri Cerchi?",
+  "Per il Cod. 5, art. 6, c. 9, il portfolio sostituisce il diploma; per la Cost. 26.4, a 18 anni la persona sceglie se restare o lasciare la Confederazione. Chi lascia riceve Beni d'Uso Personale, mezzi per il trasferimento e una somma della Cassa comune (Cod. 1, art. 49, c. 6), ma nessun titolo riconosciuto dallo Stato, e il Cod. 5, art. 10, c. 1, tratta i titoli esterni solo come documentazione. Come si evita che uscire diventi di fatto impossibile? Il portfolio si può rendere leggibile per scuole e datori di lavoro esterni, o si devono preparare agli esami di Stato quelli che lo chiedono? L'informazione scritta tre mesi prima dei 18 anni (Cod. 5, art. 6, c. 6-bis) dovrebbe comprendere anche questo?",
+  "Le figure di riferimento del Cod. 5, art. 6, c. 7, sono adulti esterni alla famiglia, scelti dal Consiglio delle Competenze con il minore. Nessun articolo fissa requisiti di tutela dei minori per chi assume questo ruolo: verifiche preliminari, regole sul tempo da soli con il bambino, obblighi di segnalazione. Il Cod. 12, art. 7-bis, interviene dopo una violenza, una grave negligenza o un pregiudizio. Che cosa serve prima?"
+ ],
+ "modifiche_recenti": [
+  "Cod. 5, art. 2, c. 4-bis: materiali, strumenti e spazi per l'alfabetizzazione e per la formazione alla sicurezza fanno parte del Paniere, senza condizioni di CBO o CdR; il Cod. 7, art. 3, c. 9, aggiunge un dispositivo personale di comunicazione dai 12 anni, su richiesta.",
+  "Cod. 5, art. 4, c. 2, lett. b, e c. 2-bis: il Livello 2 lo confermano due persone già validate L2, anche di altre Comunità, al posto del «Cerchio di pratica»; le classi di rischio R0–R4 del Codice 14 sono collegate ai Livelli.",
+  "Cost. 29.3 e Cod. 5, art. 6, c. 7: le tre figure di riferimento spettano soltanto ai minori.",
+  "Cod. 5, art. 6, cc. 4, 6 e 6-bis: fino alla scelta dei 18 anni il CBO resta volontario, con un'informazione scritta almeno tre mesi prima; dai 16 anni si partecipa alle funzioni della Lista D solo in affiancamento, senza voto."
+ ],
+ "testi": [
+  {
+   "file": "codice-05",
+   "articoli": "tutti"
+  },
+  {
+   "file": "costituzione",
+   "articoli": [
+    "6",
+    "26",
+    "29"
+   ]
+  },
+  {
+   "file": "codice-01",
+   "articoli": [
+    "4",
+    "28",
+    "49"
+   ]
+  },
+  {
+   "file": "codice-03",
+   "articoli": [
+    "12-bis"
+   ]
+  },
+  {
+   "file": "codice-07",
+   "articoli": [
+    "3"
+   ]
+  },
+  {
+   "file": "codice-12",
+   "articoli": [
+    "7-bis"
+   ]
+  }
+ ],
+ "approfondire": [
+  {
+   "titolo": "Codice 5 — Apprendimento e competenze",
+   "pagina": "registro/codice-05.html"
+  },
+  {
+   "titolo": "Bozza dell'Allegato UCR: ore per l'apprendimento",
+   "pagina": "registro/bozza-ucr.html"
+  },
+  {
+   "titolo": "Bozza dell'Allegato del Paniere: istruzione, connettività e Nodo-IA",
+   "pagina": "registro/bozza-paniere.html"
+  },
+  {
+   "titolo": "Registro dei parametri da verificare",
+   "pagina": "registro/parametri.html"
+  }
+ ],
+ "aggiornata": "2026-11-02",
+ "slug": "pedagogia-e-scuola",
+ "ordine": 8
+}

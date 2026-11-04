@@ -6,15 +6,43 @@ Ceci est la première version publique : Constitution V.29 et Codes alignés, 
 
 # Modifications
 
+## 3 novembre 2026 — Quatre points faibles : décisions lentes, Assemblée générale, dépendances, rigidité
+
+Choix de l’auteur, après la liste des points faibles du système.
+
+**Délai de la procédure** (Code 3, nouvel art. 13, al. 1-bis). Une décision contestée pouvait durer des mois. La procédure du consensus se conclut désormais dans les 45 jours, prorogeables une fois de 30 avec motivation ; les séances de discussion et la médiation peuvent aussi être convoquées en dehors de l’Assemblée mensuelle, avec 48 heures de préavis. À l’expiration du délai, la première Assemblée utile décide.
+
+**Décisions urgentes** (Code 3, nouvel art. 13, al. 1-ter). Le Cercle 1 n’avait pas de voie urgente générale. Désormais, si le retard nuit aux personnes, au Panier, aux services essentiels ou à des biens qui seraient perdus : Assemblée avec 48 heures de préavis, 24 heures pour les objections, une seule séance de discussion, puis la décision. Elle est provisoire pendant 30 jours, tandis que la proposition suit la procédure ordinaire. Les objections pour norme impérative ou risque grave et les avis contraignants négatifs bloquent aussi la voie urgente ; le quorum et les voix favorables minimales restent.
+
+**Seconde convocation de l’Assemblée générale** (Code 3, art. 14, al. 6). Si les trois quarts des Communautés ne participent pas, l’Assemblée générale est reconvoquée dans les 30 jours et la moitié des Communautés suffit. Les majorités des al. 7 et 8 restent.
+
+**Dépendances structurelles** (Code 15, nouvel art. 12, al. 5-ter ; Code 16, art. 4, al. 4, lettres a et b ; Annexe B au Code 16). Pour les médicaments, composants électroniques, métaux ou batteries qu’on ne peut produire à cette échelle, un terme certain de sortie était irréaliste. Ces dépendances, si elles sont reconnues structurelles avec l’avis d’une autre Communauté, ont désormais un Plan de garantie : stocks, au moins deux fournisseurs indépendants, réduction de l’usage, réparation, alternatives à l’essai, chaque mesure avec un terme certain. Le Plan est réexaminé tous les 24 mois. Les autres dépendances critiques gardent le terme certain de sortie.
+
+**Noyau inviolable : les principes oui, les chiffres non** (Const. 37.4, lettre i). Le tirage au sort, la rotation, le caractère temporaire des charges et l’interdiction de la politique comme métier restent intouchables. Les durées et intervalles (90 jours, 180 par an, 12 mois de pause, un an dans les Conseils) peuvent être modifiés à la Double majorité longue, mais dans des limites : toute charge reste temporaire, tournante et non immédiatement renouvelable, aucune durée ne dépasse le double d’aujourd’hui, aucun intervalle ne descend sous la moitié.
+
+Versions : Constitution de V.38 à V.39 ; Code 3 de V1.12 à V1.13 ; Code 15 de V1.12 à V1.13 ; Code 16 de V1.10 à V1.11 ; Annexe B au Code 16 de V1.7 à V1.8. Lignes d’alignement mises à jour.
+
+## 2 novembre 2026 — Conseils des petites Communautés ; voix favorables minimales
+
+Deux incohérences relevées en mettant à jour les fiches pour experts.
+
+**Intervalle entre deux mandats** (Code 3, art. 12-bis, al. 12). Le Code réduisait à six mois, dans les petites Communautés, l’intervalle avant de pouvoir être tiré au sort à nouveau dans le même Conseil. La Constitution (art. 6.5) exige douze mois dans toute Communauté. La réduction est supprimée : douze mois partout. Là où manquent des personnes aptes, restent les outils des al. 5 et 6 (prorogation motivée, Conseils regroupés ou partagés dans le Cercle 2).
+
+**Seuil de 150** (Annexe C au Code 16, art. 1, al. 1). La Charte de la première année comptait 150 « personnes », tandis que la Constitution (art. 6.5) et le Code 3 (art. 12-bis, al. 12) comptent 150 « personnes ayant le droit de vote ». La Charte compte désormais elle aussi les personnes ayant le droit de vote.
+
+**Voix favorables minimales** (Code 3, nouvel art. 13, al. 4-bis). Choix de l’auteur. Après la définition des votants (Const. 35.4), avec beaucoup d’abstentions une décision importante pouvait passer avec très peu de voix : avec 150 ayants droit, 50 participants et 44 abstentions, 4 oui suffisaient. Désormais, lorsqu’une décision exigeant un quorum est mise aux voix, les oui doivent atteindre au moins la moitié du quorum : un sixième des ayants droit pour les décisions à la majorité qualifiée, un quart pour celles soumises aux garanties spéciales. Avec 150 ayants droit, il faut au moins 25 oui. Les décisions ordinaires, qui n’ont pas de quorum, ne changent pas.
+
+Versions : Code 3 de V1.11 à V1.12 ; Annexe C au Code 16 de V1.4 à V1.5. Lignes d’alignement mises à jour.
+
 ## 2 novembre 2026 — Les personnes qui s’abstiennent ne sont pas des votants
 
 Choix de l’auteur. La Constitution et le Code 3 parlaient de « votants » sans dire si les abstentionnistes en font partie, et la Constitution (art. 35.1) exigeait la « majorité des participants » tandis que le Code 3 exigeait celle des « participants actifs ».
 
-**Définition des votants** (Const., nouvel art. 35.4 et art. 35.1 ; Code 3, art. 12.3 nouvelle lettre d). Sont votants les personnes qui votent oui ou non. Les personnes qui s’abstiennent prennent part à la délibération et comptent pour le quorum, mais ne sont comptées ni parmi les votants ni dans le calcul des majorités. Cela vaut pour tous les seuils qui se réfèrent aux votants : la majorité simple du Cercle 1, les signatures pour l’Objection de conscience ou de durabilité écologique (10 % des votants), les majorités de l’Assemblée générale, du Cercle 4 et des modifications de la Constitution.
+**Définition des votants** (Const., nouvel art. 35.4 et art. 35.1 ; Code 3, art. 12.3 nouvelle lettre d). Sont votants les personnes qui votent oui ou non. Les personnes qui s’abstiennent prennent part à la délibération et comptent pour le quorum, mais ne sont comptées ni parmi les votants ni dans le calcul des majorités. Cela vaut pour tous les seuils qui se réfèrent aux votants : la majorité simple du Cercle 1, les signatures pour l’Objection de conscience ou de durabilité écologique (10 % des votants), les majorités de l’Assemblée générale, du Cercle 4 et des modifications de la Constitution.
 
 **Participation des Communautés à l’Assemblée générale** (Code 3, art. 14.6). Une Communauté participe lorsqu’au moins un tiers de ses ayants droit prend part à la délibération, abstentionnistes compris.
 
-Versions : Constitution de V.37 à V.38 ; Code 3 de V1.10 à V1.11. Lignes d’alignement mises à jour dans tous les textes.
+Versions : Constitution de V.37 à V.38 ; Code 3 de V1.10 à V1.11. Lignes d’alignement mises à jour dans tous les textes.
 
 ## 1er novembre 2026 — Seconde vérification de cohérence : territoire, systèmes, transition
 
@@ -134,7 +162,7 @@ Versions : Constitution de V.35 à V.36, Code 14 de V1.7 à V1.8, Code 15 de V
 
 La Constitution, les seize Codes et les quatre Annexes sont traduits en espagnol (`testi/es/registro/`) et publiés sur le site avec leur registre des modifications (`CAMBIOS.md`) et les fichiers PDF et ODT à télécharger ; les réponses aux questions en espagnol renvoient désormais aux articles espagnols. Aucune règle ne change sur le fond. C’est une traduction de travail, à faire relire par des locuteurs natifs de l’espagnol ; les termes sont fixés dans `testi/es/GLOSARIO.md`. Le texte qui fait foi est l’italien.
 
-Les pages de service sont traduites elles aussi : le registre des paramètres à vérifier, les trois brouillons techniques (Panier, UCR, CdR), les archives des propositions et leur vérification contradictoire (`testi/es/borradores/`) ; la version espagnole du site renvoie désormais à ces pages. La vérification de cohérence reste en italien, comme pour l’anglais et le français.
+Les pages de service sont traduites elles aussi : le registre des paramètres à vérifier, les trois brouillons techniques (Panier, UCR, CdR), les archives des propositions et leur vérification contradictoire (`testi/es/borradores/`) ; la version espagnole du site renvoie désormais à ces pages. La vérification de cohérence reste en italien, comme pour l’anglais et le français.
 
 ## 27 octobre 2026 — Code 3 : approbation de l’Annexe UCR ; brouillons techniques alignés
 

@@ -1,7 +1,7 @@
 ---
 titolo: "ANEXO TÉCNICO B AL CÓDIGO 16 — MANUAL OPERATIVO DE DESVINCULACIÓN Y FEDERACIÓN"
 breve: "Anexo B al Código 16 — Manual operativo de desvinculación y federación"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "allegati"
 ordine: 16.2
 id: "codice-16-allegato-b"
@@ -169,7 +169,7 @@ Anexo técnico adoptado conforme al artículo 19 del Código 3. El presente Anex
 
     a) la agregación de al menos tres Cuencas;
 
-    b) la primera versión del Registro de Dependencias según el Código 15, con un plan de plazo cierto para cada dependencia crítica;
+    b) la primera versión del Registro de Dependencias según el Código 15, con un plan de plazo cierto para cada dependencia crítica, o un Plan de Garantía para las estructurales según el artículo 12, apartado 5-ter, del Código 15;
 
     c) auditorías L3 sobre la autonomía ecológica, de seguridad y alimentaria;
 

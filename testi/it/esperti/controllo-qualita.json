@@ -1,0 +1,148 @@
+{
+ "chiave": "qualita",
+ "titolo": "Controllo qualità e normazione tecnica",
+ "a_chi": "esperti di controllo qualità, normazione tecnica, valutazione della conformità, sicurezza dei prodotti e appalti di servizi",
+ "perche": "Nel progetto un bene entra nei Magazzini Comuni solo se una scheda tecnica (STV) ne ha valutato durata, riparabilità, sicurezza, consumi e dipendenze dal produttore. I beni riparati o riutilizzati vengono prima di quelli nuovi, e sono vietati i beni che un produttore può bloccare da remoto. Le stesse schede servono anche per procedure, automazioni e regole di sicurezza, e i servizi esterni, come connettività o manutenzione specialistica, hanno una scheda propria e una durata limitata. Gran parte di questo lavoro è affidata a un Consiglio Qualità di poche persone sorteggiate. Si chiede a chi lavora nella normazione e nella valutazione della conformità di verificare se le procedure sono praticabili, se proteggono davvero le persone e se il carico di lavoro è sostenibile per una Comunità di 150–300 persone.",
+ "come_funziona": [
+  "La qualità si valuta su cinque criteri insieme: utilità rispetto al bisogno, durata, riparabilità, non nocività, sobrietà nell'uso di risorse. I conflitti tra criteri si risolvono con una procedura multicriterio, da scrivere in un Allegato Tecnico Qualità; nessuna formula automatica sostituisce una valutazione motivata (Cod. 2, art. 2).",
+  "Ogni tipologia o modello di bene destinato al Magazzino Centrale ha una STV pubblica, istruita dal Consiglio Qualità con il parere del Consiglio Salute e, per logistica e conservazione, del Consiglio di Magazzino; per i beni a rischio basso basta una STV semplificata. Le STV sono condivise tra Comunità (Cod. 2, art. 3).",
+  "Le STV di procedure, servizi interni, automazioni, sistemi e regole di sicurezza seguono la stessa matrice delle decisioni del Codice 3, con il costo di attuazione e manutenzione per 24 mesi come valore; chi scrive una STV non può approvarla da solo (Cod. 2, art. 3-bis).",
+  "Prima dell'ammissione di un bene c'è una verifica d'uso: la STV provvisoria è pubblicata per almeno 72 ore per le osservazioni di chi userà il bene; per i beni non semplici si invitano gli interessati a una prova o a un confronto (Cod. 2, art. 14, c. 1-bis; Cost. 9.2).",
+  "Si preferisce, nell'ordine: bene riutilizzato o ricondizionato, bene autoprodotto, bene esterno durevole e riparabile, bene esterno con criticità ammesso solo in via temporanea. È vietato comprare nuovo se esiste un usato equivalente (Cod. 2, art. 4).",
+  "La dipendenza proprietaria «assoluta» (blocco totale, impossibilità d'uso offline o di controllo comunitario) è vietata; quella «residua e superabile» è ammessa temporaneamente con un Piano di Sostituzione di non oltre dodici mesi, prorogabile una volta. Un software o firmware senza codice sorgente è ammesso solo così, con il Piano pubblicato per intero, e mai per i sistemi che propongono o decidono su diritti, voto e Beni Comuni (Cod. 2, artt. 5 e 12; Cost. 19.4).",
+  "La STV vale per la tipologia; ogni esemplare o lotto è controllato all'arrivo, anche nel lavoro ordinario con una lista di verifica. I beni non conformi non sono distribuiti (Cod. 2, art. 6; Cod. 1, art. 21).",
+  "Tre segnalazioni indipendenti sulla stessa tipologia obbligano al riesame; una sola segnalazione grave di rischio sanitario o di sicurezza porta a valutare subito la sospensione. Ogni STV è sottoposta ad audit almeno ogni 24 mesi (Cod. 2, artt. 7, 8 e 13).",
+  "Il Consiglio Qualità istruisce e propone; decide l'organo indicato dalla matrice del Codice 3, secondo il valore e il rischio: il Cerchio di Competenza, il Consiglio Qualità con il Cerchio di Competenza o l'Assemblea. Sopra la soglia alta, per i beni ad alto impatto e per quelli con dipendenza residua decide l'Assemblea. Le soglie crescono con il numero delle persone. Il valore comprende manutenzione per 24 mesi e fine vita, ed è vietato frazionare gli acquisti (Cod. 2, art. 15; Cod. 3, art. 7).",
+  "I servizi esterni sono ammessi solo se mancano persone o competenze interne, con una Scheda di Validazione del Servizio, requisiti precisi sui dati, durata ordinaria di dodici mesi con un solo rinnovo, e un piano di sostituzione fin dall'inizio; decide l'organo della stessa matrice (Cod. 2, artt. 19–24)."
+ ],
+ "numeri": [
+  {
+   "valore": "Consiglio Qualità di 3–5 persone sorteggiate",
+   "dove": "Cod. 2, art. 1, c. 5",
+   "nota": "Come gli altri Consigli tecnici, sorteggiati secondo il Cod. 3, art. 12-bis; incertezza media sulla continuità delle competenze."
+  },
+  {
+   "valore": "12 mesi per dotare di STV i beni già presenti nei Magazzini",
+   "dove": "Cod. 2, art. 11",
+   "nota": "Termine iniziale, ricalibrabile dall'Assemblea secondo la capacità istruttoria."
+  },
+  {
+   "valore": "osservazioni sulla STV provvisoria di un bene per almeno 72 ore",
+   "dove": "Cod. 2, art. 14, c. 1-bis",
+   "nota": "Registro dei parametri: incertezza bassa; viene dalla finestra di pubblicazione del Cod. 3, art. 4. Da provare su un caso di ammissione."
+  },
+  {
+   "valore": "riesame dopo tre segnalazioni indipendenti; riesame entro sette giorni in caso di rischio grave",
+   "dove": "Cod. 2, art. 7, c. 2",
+   "nota": "Scelte di redazione, non legate al numero di esemplari in uso."
+  },
+  {
+   "valore": "valutazione della sospensione cautelare entro 48 ore su contestazione per rischio grave",
+   "dove": "Cod. 2, art. 16, c. 2, lett. b",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "Piano di Sostituzione non oltre 12 mesi, una sola proroga di non oltre 12 mesi",
+   "dove": "Cod. 2, art. 12, cc. 2–3",
+   "nota": "Registro dei parametri: per i sistemi senza codice sorgente incertezza media; serve l'elenco dei dispositivi per cui non esiste un'alternativa aperta."
+  },
+  {
+   "valore": "audit di ogni STV almeno ogni 24 mesi; audit dei servizi almeno ogni 12 mesi",
+   "dove": "Cod. 2, art. 13, c. 1; art. 23, c. 1, lett. h",
+   "nota": "Scelte di redazione."
+  },
+  {
+   "valore": "servizio esterno: 12 mesi, un rinnovo; oltre 24 mesi internalizzazione, alternativa o rinnovo eccezionale di non oltre 12 mesi",
+   "dove": "Cod. 2, art. 22, cc. 2–4",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "soglia bassa 100 UCR + 1 per persona (al massimo 500); soglia alta 500 UCR + 5 per persona (al massimo 2.500); per 150 persone 250 e 1.250 UCR",
+   "dove": "Cod. 3, art. 7, cc. 3-bis e 3-ter; Cod. 2, art. 15",
+   "nota": "Registro dei parametri: incertezza alta. Per 150 persone le soglie sono lo 0,7% e il 3,4% del lavoro annuo necessario stimato dalla bozza UCR. Nel Codice 2 «la soglia» è la soglia alta."
+  },
+  {
+   "valore": "STV di procedure e sistemi: valore = costo di attuazione e manutenzione per 24 mesi",
+   "dove": "Cod. 2, art. 3-bis, c. 2",
+   "nota": "Registro dei parametri: incertezza bassa; da provare su una STV di automazione."
+  },
+  {
+   "valore": "Allegato Tecnico Qualità",
+   "dove": "Cod. 2, artt. 2 e 3",
+   "nota": "Citato e non ancora scritto: mancano la procedura multicriterio e i criteri della STV semplificata."
+  }
+ ],
+ "domande": [
+  "Carico del Consiglio Qualità (Cod. 2, art. 1, c. 5; art. 3, cc. 1, 7 e 8; art. 3-bis, c. 3; art. 11). Serve una STV per «ogni tipologia o modello» di bene destinato al Magazzino Centrale, con dodici mesi per i beni già presenti. Ora il Consiglio Qualità deve anche approvare insieme al Cerchio di Competenza le STV di procedure, automazioni, sistemi e regole di sicurezza scritte dagli altri Consigli. Una Comunità di 150–300 persone può avere migliaia di articoli diversi, e il Consiglio ha 3–5 persone sorteggiate. Quante STV può istruire realisticamente? Il riuso delle STV di altri Cerchi e la STV semplificata bastano a ridurre il carico?",
+  "La comparazione tra criteri in conflitto è rinviata a una «procedura multicriterio» dell'Allegato Tecnico Qualità, ancora da scrivere (art. 2, c. 2). Quale metodo esistente (analisi multicriterio, analisi del ciclo di vita semplificata, criteri ambientali minimi per gli acquisti) è adatto a persone non specialiste? E come si applica l'art. 2, c. 4 («la mancanza di dati non può essere trasformata in prova automatica di conformità») ai beni importati, per cui i dati mancano quasi sempre?",
+  "Verifica d'uso (art. 14, c. 1-bis; art. 16, c. 6; Cost. 9.2). Prima dell'ammissione la STV provvisoria resta pubblica per almeno 72 ore per le osservazioni di chi userà il bene; per i beni non semplici il Consiglio invita gli interessati a una prova o a un confronto, e nella Dispensa pilota si raccolgono le opinioni. Questo modo di coinvolgere gli utenti produce informazioni utili sulla sicurezza e sull'idoneità, o rischia di restare formale? Quali metodi di prova con gli utenti (per esempio quelli della progettazione centrata sull'utente) sarebbero proporzionati a una Comunità piccola?",
+  "Controlli sull'esemplare e beni ricondizionati (art. 6, c. 4; art. 4, cc. 2–3; Cod. 1, art. 21). Il controllo dell'esemplare o del lotto può essere svolto nel lavoro generico con una lista di verifica derivata dalla STV, ed è vietato comprare nuovo quando nella Rete c'è un usato «funzionalmente equivalente». Per quali categorie (apparecchi elettrici, dispositivi a pressione, beni sanitari, alimenti) la lista di verifica non basta e servono prove strumentali o persone qualificate? Quali piani di campionamento per lotti sarebbero proporzionati a quantità così piccole? Per gli apparecchi elettrici ed elettronici ricondizionati, chi verifica la sicurezza dopo la riparazione, con quali prove, e chi ne risponde se il bene causa un danno?",
+  "Firmware chiuso e aggiornamenti (Cod. 2, art. 5, c. 2; art. 12, c. 5; Cost. 19.4; Cod. 16, art. 9-bis, c. 1, lett. c). Un firmware senza codice sorgente è ammesso solo come dipendenza residua, con Piano di Sostituzione pubblico, e mai se «propone o decide» su diritti, voto e Beni Comuni; non propone né decide quello che «esegue comandi umani o automazioni dotate di STV». Un inverter o un sistema di accumulo che decide da solo quando caricare e cedere energia rientra nell'eccezione o nel divieto? Inoltre, durante la transizione, nessun sistema riceve aggiornamenti da remoto e ogni aggiornamento è verificato dal Consiglio Rete prima dell'installazione. Questa regola vale anche per gli apparecchi di uso comune, come telefoni e router? È compatibile con la necessità di installare in fretta le correzioni di sicurezza, che il regolamento europeo sulla resilienza informatica (Cyber Resilience Act) chiede ai produttori di fornire?",
+  "Confine tra dipendenza assoluta e residua (art. 5, cc. 2–4). È vietata, anche in via temporanea, la dipendenza che rende impossibile «l'uso offline o il controllo comunitario». Molti beni di oggi (veicoli, apparecchi medici, elettrodomestici connessi) dipendono da servizi in rete o da chiavi di attivazione. Quali di questi ricadrebbero nel divieto, e per quali categorie esiste oggi un'alternativa conforme? Il confine dell'art. 5, c. 2, è abbastanza preciso da essere applicato in modo uniforme da Consigli diversi, visto che in mancanza di informazioni dal fornitore la STV «non presume l'assenza della dipendenza» (c. 4)?",
+  "L'art. 7, c. 2, lett. a, chiede il riesame dopo tre segnalazioni indipendenti sulla stessa tipologia, qualunque sia il numero di esemplari in uso. In una Comunità piccola, con pochi esemplari, tre segnalazioni possono non arrivare mai; in una grande, arrivano subito. La soglia andrebbe legata al numero di esemplari o alla gravità? Come si integra con le segnalazioni raccolte in altri Cerchi che usano la stessa STV (art. 3, c. 7)?",
+  "In caso di rischio grave, l'art. 7, c. 2, lett. b, prevede la sospensione «senza ritardo» e il riesame entro sette giorni, mentre l'art. 16, c. 2, lett. b, dà al Consiglio Qualità e al Consiglio Salute 48 ore per valutare la sospensione chiesta con una contestazione. Chi può sospendere un lotto di notte o nei giorni festivi? I due percorsi sono coerenti, e serve un potere di sospensione immediata affidato a chi gestisce il Magazzino (art. 6, c. 5)?",
+  "Il Piano di Sostituzione ha una scadenza di dodici mesi, prorogabile una sola volta (art. 12, cc. 2–3); scaduto, il bene passa automaticamente a riesame per sospensione o esclusione (art. 12, c. 4). Per beni complessi senza alternativa conforme, ventiquattro mesi sono realistici? Che cosa succede se l'esclusione lascia scoperto un servizio essenziale, visto che il riesame «considera» la continuità ma non la garantisce?",
+  "Soglie e organo che decide (art. 15, cc. 1–3; Cod. 3, art. 7, cc. 3–3-ter). Le soglie ora crescono con il numero delle persone: per una Comunità di 150 persone valgono 250 e 1.250 UCR. Il valore comprende costo del lotto, trasporto, manutenzione per 24 mesi, formazione, dati e fine vita, ed è vietato il frazionamento. Con questi valori, quante decisioni sui beni andrebbero ogni anno al Cerchio di Competenza, al Consiglio Qualità e all'Assemblea? Il calcolo del costo complessivo è praticabile prima dell'acquisto? Il criterio per individuare il «Cerchio di Competenza pertinente» di un bene, cioè il Consiglio del settore in cui il bene è usato o, in mancanza, il Consiglio di Magazzino (art. 15, c. 1, lett. a), è sufficiente per i beni usati in più settori?",
+  "Indipendenza del riesame (art. 16, cc. 3–4; art. 3-bis, c. 3). Chi ha redatto o approvato una STV non può essere l'unico decisore del riesame, che si svolge in modo collegiale o con un componente indipendente; se il Consiglio Qualità e il Cerchio di Competenza sono riuniti, servono due persone competenti estranee alla redazione. Con Consigli di 3–5 persone e una Comunità piccola, è possibile trovare persone competenti e indipendenti per ogni riesame? Serve un ricorso sistematico ai Consigli Qualità di altre Comunità o all'elenco federato delle persone L3?",
+  "Servizi esterni: dati e durata (art. 20, cc. 1, lett. g, e 4; art. 22, cc. 2–5). Per i servizi che trattano dati si chiedono insieme localizzazione dichiarata, controllo dei dati da parte della Comunità, cifratura con chiavi controllate dalla Comunità o con escrow, dichiarazione dei subfornitori, cancellazione certificata e restituzione in formato interoperabile. Quali fornitori di connettività, posta, archiviazione o servizi sanitari specialistici li soddisfano oggi tutti? Se nessuno li soddisfa, la deroga dell'art. 20, c. 4, rischia di diventare la regola? Inoltre la durata ordinaria è di dodici mesi con un solo rinnovo, e oltre i ventiquattro mesi si deve internalizzare, cambiare fornitore o rinnovare in via eccezionale: per servizi che una Comunità piccola non potrà internalizzare, il cambio di fornitore ogni due o tre anni è un costo giustificato?"
+ ],
+ "modifiche_recenti": [
+  "Cod. 2, art. 3-bis: le STV di procedure, servizi interni, automazioni, sistemi e sicurezza seguono la matrice del Codice 3, con il costo di 24 mesi come valore; chi scrive una STV non può approvarla da solo.",
+  "Cod. 2, art. 14, c. 1-bis, e art. 3, c. 2: verifica d'uso prima dell'ammissione, con la STV provvisoria pubblica per almeno 72 ore, e parere del Consiglio di Magazzino.",
+  "Cod. 2, art. 15, c. 1, lett. a, e art. 23, c. 1, lett. e; Cod. 3, art. 7, c. 3-bis: il Consiglio Qualità propone e decide l'organo della matrice; le soglie economiche crescono con il numero delle persone.",
+  "Cod. 2, art. 5, c. 2, lett. b, e art. 12, c. 5: software e firmware senza codice sorgente sono ammessi solo come dipendenza residua, con Piano pubblico, e mai per i sistemi che propongono o decidono su diritti, voto e Beni Comuni."
+ ],
+ "testi": [
+  {
+   "file": "codice-02",
+   "articoli": "tutti"
+  },
+  {
+   "file": "codice-01",
+   "articoli": [
+    "16",
+    "21"
+   ]
+  },
+  {
+   "file": "codice-03",
+   "articoli": [
+    "7"
+   ]
+  },
+  {
+   "file": "costituzione",
+   "articoli": [
+    "9",
+    "19"
+   ]
+  },
+  {
+   "file": "codice-16",
+   "articoli": [
+    "9-bis"
+   ]
+  }
+ ],
+ "approfondire": [
+  {
+   "titolo": "Codice 2 completo",
+   "pagina": "registro/codice-02.html"
+  },
+  {
+   "titolo": "Codice 3 — matrice delle decisioni e soglie (art. 7)",
+   "pagina": "registro/codice-03.html"
+  },
+  {
+   "titolo": "Registro dei parametri da verificare",
+   "pagina": "registro/parametri.html"
+  },
+  {
+   "titolo": "Bozza dell'Allegato UCR (soglie in ore, § 6)",
+   "pagina": "registro/bozza-ucr.html"
+  }
+ ],
+ "aggiornata": "2026-11-02",
+ "slug": "controllo-qualita",
+ "ordine": 12
+}

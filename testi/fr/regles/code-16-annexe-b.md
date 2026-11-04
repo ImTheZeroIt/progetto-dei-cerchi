@@ -1,7 +1,7 @@
 ---
 titolo: "ANNEXE TECHNIQUE B AU CODE 16 — MANUEL OPÉRATIONNEL DE DÉSENGAGEMENT ET DE FÉDÉRATION"
 breve: "Annexe B au Code 16 — Manuel opérationnel de désengagement et de fédération"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "allegati"
 ordine: 16.2
 id: "codice-16-allegato-b"
@@ -169,7 +169,7 @@ Annexe technique adoptée en application de l’article 19 du Code 3. La présen
 
     a) l’agrégation d’au moins trois Bassins ;
 
-    b) la première version du Registre des dépendances conformément au Code 15, avec un plan à terme certain pour chaque dépendance critique ;
+    b) la première version du Registre des dépendances conformément au Code 15, avec un plan à terme certain pour chaque dépendance critique, ou un Plan de garantie pour les dépendances structurelles au sens de l’article 12, alinéa 5-ter, du Code 15 ;
 
     c) des audits L3 sur l’autonomie écologique, de sécurité et alimentaire ;
 

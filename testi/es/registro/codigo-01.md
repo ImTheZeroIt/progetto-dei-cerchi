@@ -6,7 +6,7 @@ gruppo: "codici"
 ordine: 1
 id: "codice-01"
 slug: "codigo-01"
-allineamento: "Constitución V.38; Código 2 V1.9; Código 3 V1.11; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 7 V1.10; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 15 V1.12; Código 16 V1.10."
+allineamento: "Constitución V.39; Código 2 V1.9; Código 3 V1.13; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 7 V1.10; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 15 V1.13; Código 16 V1.11."
 ---
 
 ## TÍTULO I — PRINCIPIOS GENERALES

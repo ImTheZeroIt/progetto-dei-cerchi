@@ -1,0 +1,139 @@
+{
+ "chiave": "agronomia",
+ "titolo": "Agronomia e agroecologia",
+ "a_chi": "agronomi, esperti di agricoltura biologica e agroecologia, di sementi, di difesa delle colture, di irrigazione e di conservazione delle derrate",
+ "perche": "Ogni Comunità deve produrre da sé la parte essenziale del proprio cibo, senza chimica di sintesi persistente, senza allevamento e con semi riproducibili. Dal campo dipende il Paniere Alimentare, cioè il cibo garantito a tutti, e dalle ore di campo dipende il limite di quindici ore settimanali di lavoro obbligatorio. I testi fissano divieti e procedure, ma rese, fertilità, semi, acqua e difesa delle colture non sono mai stati messi alla prova. Si chiede di verificare se le regole sono coltivabili, cioè se un agronomo potrebbe applicarle su un terreno vero.",
+ "come_funziona": [
+  "Il suolo fertile, l'infrastruttura dell'acqua agricola, il fondo semi e le conoscenze agroecologiche essenziali sono beni comuni che non si possono vendere né affittare (Cod. 9, art. 1, c. 3; art. 9).",
+  "Ogni Comunità attiva una produzione di base: orti, cereali e legumi proporzionati al fabbisogno, frutteti, compostiere, cucina di trasformazione, deposito e un rifugio per impollinatori. Banca semi, vivaio, essiccatoio, mulino e frantoio sono garantiti nel Cerchio 2, di norma una dotazione ogni tre o quattro Comunità (Cod. 9, art. 6, cc. 1 e 4).",
+  "Il Paniere Alimentare è garantito su base vegetale. Non c'è allevamento: letame, uova o latte si raccolgono solo se l'animale li produce spontaneamente e senza danno, e non entrano nel calcolo del fabbisogno. La fertilità si regge prima di tutto su compost, sovescio, rotazioni e biofertilizzanti vegetali (Cod. 9, art. 4, c. 1; art. 6-bis, cc. 4 e 7).",
+  "Ogni trattamento deve essere previsto da una scheda tecnica (STV Fitosanitaria). Sono vietati, senza deroga, i pesticidi di sintesi persistenti e tutti i prodotti sistemici. In un'emergenza fitosanitaria estrema l'Assemblea può ammettere per un tempo limitato prodotti di sintesi non persistenti e non sistemici (Cod. 9, art. 2, c. 4; art. 9, c. 1, lett. g).",
+  "Gli OGM sono vietati per i livelli 1–3 del Paniere. Per gli altri usi sono vietati gli OGM proprietari e gli ibridi sterili che creano dipendenza. Le deroghe durano al massimo dodici mesi e la dipendenza autorizzata non supera in tutto ventiquattro mesi (Cod. 9, art. 2, c. 3; art. 5, cc. 6–9).",
+  "Attorno a ogni rifugio per impollinatori c'è una fascia di rispetto di almeno 500 metri, riducibile fino a 200, in cui valgono i divieti di trattamento. Chi vi fa un trattamento ammesso lo comunica 48 ore prima. Nella fascia si deroga solo in emergenza fitosanitaria estrema e solo per i prodotti che il Codice 9 ammette in quel caso (Cod. 10, art. 2, cc. 4 e 6; art. 6, cc. 2–5).",
+  "Se l'acqua scarseggia, prima viene l'acqua potabile per le persone e per le cure (almeno 50 litri a persona al giorno). Poi, alla pari, l'acqua minima per la sopravvivenza degli animali e degli impollinatori e quella minima per mantenere le colture del livello 1; se non basta per entrambe si divide in proporzione al fabbisogno minimo. Gli altri usi si tagliano per primi (Cod. 9, art. 10, c. 8).",
+  "Ogni Comunità riserva al Patto di Convivenza Autonoma una quota di terra sufficiente all'autosufficienza di almeno una persona ogni cento residenti. Finché non è affidata, la Comunità la può usare solo con occupazione reversibile, e la deve rendere disponibile entro novanta giorni dalla stipula (Cod. 10, art. 4-bis, cc. 4–5).",
+  "I tempi della transizione: entro sei mesi un censimento e un Paniere minimo, anche con il recupero delle eccedenze; entro dodici mesi il Consiglio Agroecologico, una banca semi minima e le STV definitive per i livelli 1–2; entro ventiquattro mesi i Piani di Uscita dalle dipendenze critiche per semi e input (Cod. 9, art. 10, cc. 2, 3 e 10). Il Codice 9 si attiva nella Fase 1 della transizione (Cod. 16, art. 3, c. 2, lett. b)."
+ ],
+ "numeri": [
+  {
+   "valore": "circa 2.500 kcal per persona al giorno: 275 g di cereali, 100 g di legumi, 75 g di frutta secca, 300 g di ortaggi, 200 g di frutta, 50 g di patate, 40 g di olio",
+   "dove": "Cod. 9, art. 4; bozza dell'Allegato del Paniere",
+   "nota": "Bozza non adottata. Parte dalla dieta EAT-Lancet (2019) e sostituisce gli alimenti animali con cereali, legumi e frutta secca; va confrontata con il nuovo rapporto EAT-Lancet dell'ottobre 2025. Il minimo usato nelle emergenze da OMS, UNHCR e PAM è 2.100 kcal."
+  },
+  {
+   "valore": "24 ettari e 4.570 ore di campo all'anno per 150 persone",
+   "dove": "Cod. 9, art. 6, c. 1; bozza dell'Allegato UCR, par. 4.2",
+   "nota": "Stima di redazione: rese italiane del 2024 ridotte di un quinto, più il 15% per perdite e semente, ore per ettaro dalle tabelle regionali. La sola frutta secca occupa 9,4 ettari e 2.830 ore. Un altro metodo (Peters e altri, 2016) dà 0,13–0,14 ettari per persona, circa 20 ettari."
+  },
+  {
+   "valore": "10.930 ore l'anno per l'alimentazione di 150 persone: campo 4.570, trasformazione 1.800, un pasto collettivo al giorno 4.560",
+   "dove": "bozza dell'Allegato UCR, par. 4.2",
+   "nota": "Ipotesi di redazione. Per le stesse 150 persone l'Unione europea impiega oggi circa 14.100 ore tra agricoltura, industria alimentare e ristorazione."
+  },
+  {
+   "valore": "scorte di cereali, legumi, olio e frutta secca fino al raccolto successivo più tre mesi; trenta giorni per gli altri alimenti",
+   "dove": "Cod. 9, art. 4, cc. 2 e 4; bozza dell'Allegato del Paniere",
+   "nota": "Scelta di redazione. Il testo chiede di fissare i giorni di scorta, ma non li fissa."
+  },
+  {
+   "valore": "fascia di rispetto di almeno 500 metri, riducibile fino a 200",
+   "dove": "Cod. 10, art. 6, cc. 2–3",
+   "nota": "Scelta di redazione, senza fonte indicata."
+  },
+  {
+   "valore": "quota di terra per il Patto di Convivenza Autonoma: autosufficienza di almeno una persona ogni cento residenti, disponibile entro 90 giorni",
+   "dove": "Cod. 10, art. 4-bis, cc. 5–6",
+   "nota": "Dal registro dei parametri: incertezza alta. Servono terra e acqua necessarie all'autosufficienza di una persona e di un nucleo nei diversi climi."
+  },
+  {
+   "valore": "un'infrastruttura avanzata (banca semi, vivaio, essiccatoio, mulino, frantoio) di norma ogni tre o quattro Comunità del Cerchio 2",
+   "dove": "Cod. 9, art. 6, c. 4",
+   "nota": "Scelta di redazione. Le Comunità hanno di norma tra 30 e 500 persone (Cost. 5.1): il bacino servito può variare di molto."
+  },
+  {
+   "valore": "suolo temporaneamente non fertile: dodici mesi, prorogabili una sola volta",
+   "dove": "Cod. 10, art. 1, c. 6",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "deroghe per OGM non proprietari o input proprietari: dodici mesi per delibera, ventiquattro in tutto",
+   "dove": "Cod. 9, art. 5, cc. 7 e 9",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "picco di lavoro fino a 25 ore a settimana per non più di due settimane consecutive",
+   "dove": "Cod. 1, art. 6",
+   "nota": "Dal registro dei parametri: incertezza media. Va confrontato con le settimane di raccolta reali."
+  }
+ ],
+ "domande": [
+  "Il Cod. 9, art. 2, c. 4, lett. b vieta i pesticidi «di sintesi persistenti» e ogni prodotto sistemico. Il rame è inorganico e si accumula nel suolo: con questa formulazione è ammesso o vietato? Con zolfo, rame (se ammesso), estratti naturali e lotta biologica (lett. c) si possono difendere vite, pomodoro e patata dalla peronospora nei climi umidi, o il divieto lascia scoperte colture del Paniere?",
+  "Nella fascia di 500 metri attorno al rifugio valgono i divieti del Cod. 9, art. 2, c. 4, lett. b (Cod. 10, art. 2, c. 4), che però valgono già ovunque; il Cod. 9, art. 2, c. 4, lett. c ammette gli estratti naturali, tra cui le piretrine, tossiche per le api. La fascia dovrebbe vietare in più i prodotti naturali tossici per gli impollinatori? Con un rifugio obbligatorio per Comunità (Cod. 9, art. 6, c. 1, lett. h) e un cerchio di 500 metri di raggio (circa 78 ettari), quanta parte dei campi del Paniere ricadrebbe nella fascia?",
+  "L'impiego d'emergenza di prodotti di sintesi non persistenti richiede una delibera dell'Assemblea (Cod. 9, art. 2, c. 4, lett. d); nella fascia servono anche l'intesa con il Consiglio Habitat e Territorio e il parere del Consiglio Biodiversità (Cod. 10, art. 2, c. 6), e le decisioni discrezionali del Consiglio richiedono 72 ore per le obiezioni (Cod. 9, art. 3, c. 5, lett. b). Questi passaggi sono compatibili con un attacco che va trattato entro uno o due giorni dall'avviso? Che cosa dovrebbe prevedere la STV Fitosanitaria come atto tecnico già autorizzato?",
+  "Il Cod. 9, art. 2, c. 3, lett. a vieta gli OGM per i livelli 1–3 senza definire che cosa sia un OGM. Sono comprese le varietà ottenute per mutagenesi, presenti in molti cereali coltivati oggi, e quelle ottenute con le nuove tecniche genomiche? Dove va posto il confine perché la regola sia applicabile al momento della scelta del seme?",
+  "Cod. 9, art. 10, c. 3, lett. b e c. 10: banca semi minima entro dodici mesi e uscita dalla dipendenza da semi esterni entro ventiquattro. Per una trentina di specie, comprese le biennali (carota, cavoli) e quelle a impollinazione incrociata che richiedono distanze di isolamento (mais, brassiche, cucurbitacee), questi termini sono realistici su 20–25 ettari? Quante persone con competenza L2 servono (art. 7, c. 5)?",
+  "Senza allevamento la fertilità poggia su compost, sovescio, rotazioni e biofertilizzanti vegetali (Cod. 9, art. 6-bis, c. 4, lett. e; art. 5, c. 2). L'azoto si può fissare con le leguminose, ma fosforo e potassio escono dal campo con il raccolto. Un sistema senza animali può mantenere il bilancio dei nutrienti senza riportare al campo le deiezioni umane? Il Codice dovrebbe prevederlo, e con quali garanzie sanitarie?",
+  "La bozza UCR conta 24 ettari per 150 persone, con rese convenzionali ridotte di un quinto. Per un sistema senza animali e senza concimi di sintesi, una riduzione del 20% è prudente o ottimistica, in particolare per i cereali? I 24 ettari comprendono gli anni di rotazione a sovescio (Cod. 9, art. 6, c. 1, lett. b)? E l'alimentazione minima degli animali che vivono con la Comunità e nei santuari, che il Cod. 1, art. 32, c. 1-sexies mette tra le emergenze vitali e il Cod. 9, art. 4, c. 4 tra le scorte, quanta terra in più richiede?",
+  "La bozza mette 75 g di frutta secca al giorno: 9,4 ettari di noccioleto e 2.830 ore l'anno, più di metà del lavoro di campo. Un noccioleto nuovo entra in piena produzione dopo diversi anni, mentre il Cod. 9, art. 10, c. 2, lett. c chiede un Paniere minimo entro sei mesi. Quale combinazione di colture copre grassi e proteine del Paniere (art. 4, c. 1) con meno terra e meno ore nel clima italiano, e che cosa serve nei primi anni?",
+  "Le ore della bozza per cereali, legumi e girasole (circa 46 ore per ettaro) presuppongono trattrici e mietitrebbie. Il Cod. 9, art. 5, c. 5, lett. a affida al C.1-Annex A attrezzi manuali, aratri leggeri, essiccatoi, mulini e frantoi, e l'art. 6, c. 4 garantisce nel Cerchio 2 banca semi, vivaio, essiccatoio, mulino e frantoio, ma nessuno dei due nomina le macchine per la raccolta. Con quali macchine si lavorano 6–10 ettari di seminativi senza gasolio, e chi le ripara? Un solo essiccatoio, mulino o frantoio ogni tre o quattro Comunità regge i picchi di raccolta, quando il grano va essiccato in pochi giorni e le olive frante entro uno o due?",
+  "Il Cod. 9, art. 10, c. 8, lett. b mette alla pari l'acqua minima per la sopravvivenza degli animali e «l'acqua minima necessaria a mantenere le colture destinate al livello 1», da accertare dal Consiglio Energia e Acqua con il Consiglio Agroecologico. Come si definisce in modo misurabile questo minimo (irrigazione di soccorso, deficit controllato, sola sopravvivenza della pianta o raccolto minimo)? Va fissato per coltura e per fase, ed entra nella STV di ogni coltura (art. 5, c. 1)?",
+  "Il Cod. 10, art. 4-bis, c. 5 chiede una quota di terra «sufficiente all'autosufficienza» di una persona ogni cento residenti; la capacità di carico la documenta il Consiglio Habitat e Territorio con il parere del Consiglio Agroecologico (c. 4). Quanta terra e quanta acqua servono a una persona, senza attrezzi della Comunità (c. 10) e senza i Magazzini, nei diversi climi italiani? La quota usata nel frattempo dalla Comunità «con occupazione reversibile» si può coltivare e rendere entro novanta giorni senza perdere un raccolto in corso?",
+  "Cod. 9, art. 4, c. 4 e bozza del Paniere: scorte di cereali e legumi fino al raccolto successivo più tre mesi, senza i fumiganti vietati dall'art. 2, c. 4. Con quali metodi (freddo, atmosfera controllata, ermeticità) si conservano 15–20 mesi di derrate senza perdite superiori al 15% previsto dalla bozza UCR, e quanta energia richiedono? E per i suoli compattati o contaminati, i dodici mesi più dodici del Cod. 10, art. 1, cc. 6–7 bastano a ripristinare la fertilità, o il termine va legato al tipo di degrado?"
+ ],
+ "modifiche_recenti": [
+  "Cod. 9, art. 10, c. 8 e art. 2, c. 5: una sola regola per l'acqua scarsa, che vale per ogni uso: l'acqua minima degli animali e degli impollinatori ha la stessa priorità di quella delle colture del livello 1.",
+  "Cod. 10, art. 2, c. 6 e Cod. 9, art. 9, c. 1, lett. g: i prodotti sistemici non hanno mai deroga, nemmeno nella fascia di rispetto; in emergenza estrema si ammettono solo prodotti non persistenti e non sistemici.",
+  "Cod. 10, art. 4-bis: ogni Comunità riserva una quota di terra al Patto di Convivenza Autonoma (una persona ogni cento residenti).",
+  "Cod. 1, art. 32, c. 1-sexies: il cibo minimo e le cure urgenti degli animali che vivono con la Comunità sono emergenze vitali, senza togliere ai livelli 1 e 2 del Paniere delle persone."
+ ],
+ "testi": [
+  {
+   "file": "codice-09",
+   "articoli": "tutti"
+  },
+  {
+   "file": "codice-10",
+   "articoli": [
+    "1",
+    "2",
+    "4",
+    "4-bis",
+    "6"
+   ]
+  },
+  {
+   "file": "codice-01",
+   "articoli": [
+    "6",
+    "32"
+   ]
+  },
+  {
+   "file": "codice-16",
+   "articoli": [
+    "3"
+   ]
+  }
+ ],
+ "approfondire": [
+  {
+   "titolo": "Codice 9 — Agroecologia e alimentazione",
+   "pagina": "registro/codice-09.html"
+  },
+  {
+   "titolo": "Bozza dell'Allegato del Paniere (Paniere Alimentare)",
+   "pagina": "registro/bozza-paniere.html"
+  },
+  {
+   "titolo": "Bozza dell'Allegato UCR (il campo, voce per voce)",
+   "pagina": "registro/bozza-ucr.html"
+  },
+  {
+   "titolo": "Registro dei parametri da verificare",
+   "pagina": "registro/parametri.html"
+  }
+ ],
+ "aggiornata": "2026-11-02",
+ "slug": "agronomia",
+ "ordine": 5
+}

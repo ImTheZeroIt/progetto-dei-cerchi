@@ -27,11 +27,11 @@ Then come the rules.
 
 | Text | Version |
 |---|---|
-| [Constitution](testi/en/register/constitution.md) | V.38 |
+| [Constitution](testi/en/register/constitution.md) | V.39 |
 | [Code 1 — Base contribution and Common Storehouses](testi/en/register/code-01.md) | V1.12 |
 | [Annex A to Code 1 — Material production and workshops](testi/en/register/code-01-annex-a.md) | V1.7 |
 | [Code 2 — Quality and validation](testi/en/register/code-02.md) | V1.9 |
-| [Code 3 — Deliberation, thresholds and Assembly](testi/en/register/code-03.md) | V1.11 |
+| [Code 3 — Deliberation, thresholds and Assembly](testi/en/register/code-03.md) | V1.13 |
 | [Code 4 — Restorative justice and guarantee](testi/en/register/code-04.md) | V1.10 |
 | [Code 5 — Learning and competences](testi/en/register/code-05.md) | V1.7 |
 | [Code 6 — Health](testi/en/register/code-06.md) | V1.9 |
@@ -43,11 +43,11 @@ Then come the rules.
 | [Code 12 — Community care](testi/en/register/code-12.md) | V1.7 |
 | [Code 13 — Biodiversity, sanctuaries and fauna](testi/en/register/code-13.md) | V1.9 |
 | [Code 14 — General safety](testi/en/register/code-14.md) | V1.10 |
-| [Code 15 — External relations and Balance](testi/en/register/code-15.md) | V1.12 |
-| [Code 16 — Transition and launch](testi/en/register/code-16.md) | V1.10 |
+| [Code 15 — External relations and Balance](testi/en/register/code-15.md) | V1.13 |
+| [Code 16 — Transition and launch](testi/en/register/code-16.md) | V1.11 |
 | [Annex A to Code 16 — Social start-up protocol](testi/en/register/code-16-annex-a.md) | V1.4 |
-| [Annex B to Code 16 — Operating manual for disengagement and federation](testi/en/register/code-16-annex-b.md) | V1.7 |
-| [Annex C to Code 16 — First-year operating charter](testi/en/register/code-16-annex-c.md) | V1.4 |
+| [Annex B to Code 16 — Operating manual for disengagement and federation](testi/en/register/code-16-annex-b.md) | V1.8 |
+| [Annex C to Code 16 — First-year operating charter](testi/en/register/code-16-annex-c.md) | V1.5 |
 
 The Constitution sets out the principles and the general structure. The Codes turn those principles into operating rules. The Technical Annexes develop procedures, criteria and specifications. In case of conflict, the Constitution prevails.
 

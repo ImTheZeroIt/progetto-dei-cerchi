@@ -1,0 +1,186 @@
+{
+ "chiave": "costituzionale",
+ "titolo": "Diritto costituzionale e scienze politiche",
+ "a_chi": "costituzionalisti, politologi, studiosi di democrazia deliberativa, di sorteggio e di federalismo",
+ "perche": "La Costituzione dei Cerchi descrive un ordinamento senza governo centrale, senza partiti e senza cariche elettive: decide l'Assemblea di tutti, gli incarichi sono sorteggiati e ruotano, i livelli superiori coordinano e non comandano. La revisione è possibile solo dopo prove sul campo, e un ampio Nucleo Inviolabile non si può cambiare in nessun caso. Una comunità che esiste già può entrare come Comunità associata e conservare il proprio ordinamento interno. Si chiede a chi studia costituzioni, istituzioni e partecipazione di verificare se questo assetto produce decisioni valide e legittime, se le garanzie delle minoranze funzionano senza un organo di controllo di costituzionalità, e se le regole di revisione permettono di correggere gli errori.",
+ "come_funziona": [
+  "L'unità sovrana è la Comunità di Base (Cerchio 1), di norma da 30 a 500 persone. Sopra ci sono il Cerchio 2 (almeno tre Comunità), il Cerchio 3 e il Cerchio 4, che coordinano senza potere generale di comando. Sotto c'è il Cerchio 0, il Nucleo di Cura da 1 a 15 persone, che è inviolabile: vi si entra solo per tutelare diritti inviolabili secondo il Titolo VIII e, soltanto per il Corpo di Tutela Civica, per far cessare un maltrattamento grave in corso su un animale, con la convalida del Tribunale di Garanzia (Cost. 4.1–4.2, 5.1, 32.1).",
+  "Gli incarichi di coordinamento sono sorteggiati tra volontari idonei, durano al massimo 90 giorni consecutivi (180 in un anno) e non si ripetono prima di dodici mesi. Sono vietati partiti, correnti stabili e candidature. I Consigli tecnici durano un anno, possono essere revocati dall'Assemblea in qualsiasi momento e danno pareri vincolanti negativi solo su salute, sicurezza, dati e limiti ecologici; la revoca dei componenti non fa cadere un parere già reso. Sono sorteggiate solo persone maggiorenni; dai 16 anni si partecipa in affiancamento, senza voto (Cost. 4.3–4.4-bis, 6.5–6.6; Cod. 3, artt. 8 e 12-bis).",
+  "Si decide per consenso, inteso come assenza di obiezioni motivate valide; se manca, si vota dopo due sessioni facilitate. Sono «votanti» solo le persone che votano sì o no: chi si astiene conta per il quorum ma non per le maggioranze. Le deliberazioni ordinarie non hanno quorum; quelle qualificate richiedono un terzo degli aventi diritto e i due terzi dei votanti. Il 10% dei votanti può sospendere una decisione con un'obiezione di coscienza o ecologica, con firme anonime (Cost. 34–35; Cod. 3, artt. 4, 12, 13 e 13-bis).",
+  "Nei Cerchi 2 e 3 non ci sono deputati: l'Assemblea Generale è il voto individuale di tutte le persone delle Comunità interessate. Ogni Comunità sorteggia un portavoce per 90 giorni, che convoca l'Assemblea su richiesta. Servono i due terzi delle Comunità e la maggioranza dei votanti, e la deliberazione è valida solo se partecipano tre quarti delle Comunità (Cost. 34.3, 35.2; Cod. 3, art. 14). Il Cerchio Esteso nasce quando una Federazione minima chiude la transizione o quando tre Cerchi 2 lo costituiscono (Cod. 3, art. 14-bis).",
+  "Si vota dai quattordici anni, tramite una rete informatica open source: il registro degli aventi diritto è separato dall'urna, nessun dato collega la persona al voto e il conteggio per Comunità è pubblico. Delega, acquisto e scambio di voti sono vietati. Le emergenze durano al massimo trenta giorni senza rinnovo assembleare e non sospendono i diritti fondamentali (Cost. 34.4, 36; Cod. 7, art. 7-bis).",
+  "La revisione parte solo da una Comunità che ha applicato la norma per ventiquattro mesi. Segue una sperimentazione di dodici mesi in cinque Comunità e un voto aperto per novanta giorni: servono i due terzi delle Comunità, in tre Cerchi Estesi, e i due terzi dei votanti. Il Nucleo Inviolabile, in undici lettere, non è modificabile (Cost. 37).",
+  "Finché non esistono tre Cerchi Estesi vale un regime di fondazione più leggero, con ratifica successiva. Le Comunità possono recedere con i tre quarti degli aventi diritto; ogni persona può uscire in qualsiasi momento. Una comunità esterna può aderire come Comunità associata: rispetta le regole fondamentali (Titoli I, IV, V e VII, alcuni articoli e il Nucleo) e garantisce l'«equivalenza al confine», ma conserva il proprio ordinamento interno (Cost. 4.5–4.8, 38; Cod. 15, artt. 21 e 21-bis).",
+  "Le decisioni viziate sono nulle, annullabili o irregolari; ricorsi e qualificazione dei vizi spettano al Cerchio di Garanzia, un organo sorteggiato a rotazione. I ricorsi contro le decisioni dei Cerchi 2 e 3 li decidono tre componenti sorteggiati dai Cerchi di Garanzia di Comunità diverse (Cod. 3, artt. 15–18; Cost. 4.4)."
+ ],
+ "numeri": [
+  {
+   "valore": "Comunità di Base di norma da 30 a 500 persone",
+   "dove": "Cost. 5.1, lett. b",
+   "nota": "Registro dei parametri: incertezza alta. Il numero di Dunbar è contestato (revisione del 2021: stime da 16 a 109)."
+  },
+  {
+   "valore": "nessun quorum per le deliberazioni ordinarie; un terzo degli aventi diritto per le qualificate, metà per quelle con garanzie speciali; gli astenuti contano per il quorum ma non tra i votanti",
+   "dove": "Cost. 35.1 e 35.4; Cod. 3, art. 12, cc. 3–5",
+   "nota": "Registro dei parametri: incertezza alta; nelle assemblee cittadine del Vermont la partecipazione media è intorno al 20%."
+  },
+  {
+   "valore": "Assemblea Generale valida con tre quarti delle Comunità; una Comunità partecipa se prende parte alla deliberazione un terzo dei suoi aventi diritto, astenuti compresi",
+   "dove": "Cod. 3, art. 14, c. 6",
+   "nota": "Scelta di redazione; stesso problema di partecipazione del quorum del Cerchio 1."
+  },
+  {
+   "valore": "incarichi di coordinamento: massimo 90 giorni consecutivi e 180 in un anno, pausa di 12 mesi",
+   "dove": "Cost. 4.4, lett. a–b",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "un portavoce per Comunità nell'Assemblea Generale, ciclo di 90 giorni; convocazione su richiesta di un Cerchio 1, di un Consiglio condiviso, del Consiglio di Magazzino o di un decimo degli aventi diritto",
+   "dove": "Cod. 3, art. 14, c. 1-bis",
+   "nota": "Registro dei parametri: incertezza media; i 90 giorni vengono dal limite della Cost. 4.4 a)."
+  },
+  {
+   "valore": "Consigli tecnici: un anno, non risorteggiabili prima di 12 mesi; nelle Comunità sotto i 150 aventi diritto tre Consigli d'area",
+   "dove": "Cost. 6.5; Cod. 3, art. 12-bis, cc. 5 e 12",
+   "nota": "Registro dei parametri: incertezza media; la soglia di 150 non ha un fondamento solido."
+  },
+  {
+   "valore": "età minima per gli incarichi a sorteggio: 18 anni; dai 16 in affiancamento, senza voto",
+   "dove": "Cod. 3, art. 12-bis, c. 4; art. 14, c. 1-bis",
+   "nota": "Registro dei parametri: incertezza media; decisione dell'autore del 1 novembre 2026. Il voto resta dai 14 anni (Cost. 36.1)."
+  },
+  {
+   "valore": "obiezione di almeno il 10% dei votanti entro 72 ore",
+   "dove": "Cost. 34.2; Cod. 3, art. 13-bis, c. 1",
+   "nota": "Registro dei parametri: incertezza media, da provare su un caso."
+  },
+  {
+   "valore": "recesso di una Comunità con i tre quarti degli aventi diritto; stessa maggioranza per passare da Comunità che applica i Codici a Comunità associata",
+   "dove": "Cost. 4.6; Cod. 15, art. 21-bis, c. 3",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "revisione: 24 mesi di applicazione, 12 mesi di sperimentazione in 5 Comunità, voto di 90 giorni, due terzi più due terzi",
+   "dove": "Cost. 37.1–37.3",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "regime di fondazione: 6 mesi in 2 Comunità (o nell'unica), voto di 30 giorni, due terzi più due terzi, ratifica entro 24 mesi dal terzo Cerchio Esteso",
+   "dove": "Cost. 38.2–38.3; Cod. 3, art. 14-bis",
+   "nota": "Registro dei parametri: incertezza alta; solo l'esperienza delle prime Comunità può dirlo."
+  },
+  {
+   "valore": "voto dai 14 anni",
+   "dove": "Cost. 36.1",
+   "nota": "Scelta di principio."
+  }
+ ],
+ "domande": [
+  "Nucleo Inviolabile (Cost. 37.4 e 38.4). Undici lettere sono sottratte a ogni revisione, compresi il metodo del Dossier (lett. g) e il comma stesso (lett. k). Dal 3 novembre 2026 la lett. i) protegge il sorteggio, la rotazione e la temporaneità degli incarichi come principi, mentre durate e intervalli (90 giorni, 12 mesi di pausa, un anno nei Consigli) si possono cambiare con la Doppia Maggioranza Lunga, ma non oltre il doppio delle durate e non sotto la metà degli intervalli di oggi. La lett. a) vieta però ancora di estendere l'eccezione dell'art. 7.3-bis (perdita dello status per rifiuto del CBO) e la lett. f) protegge il Cerchio 0, compreso il nuovo ingresso del Corpo per un animale (art. 5.1, lett. a). La distinzione tra principi intoccabili e numeri modificabili entro limiti è una soluzione solida, o i limiti stessi irrigidiscono di nuovo il sistema? Se una regola protetta si rivela sbagliata dopo la prima adesione, l'unica strada è il recesso? Che cosa insegna il confronto con le clausole di eternità esistenti (art. 139 della Costituzione italiana, art. 79, c. 3, della Legge fondamentale tedesca)?",
+  "Iniziativa di revisione (Cost. 37.1 e 38.2, lett. a). La proposta è ammessa solo da una Comunità che ha applicato la norma per ventiquattro mesi, o, per le norme che un Cerchio 1 non applica direttamente, che appartiene alla Confederazione da altrettanto tempo; è «inammissibile» se fondata «esclusivamente su ideologia». Chi decide sull'ammissibilità, con quale procedura e con quale rimedio? Nel regime di fondazione si può proporre anche documentando con Dossier «l'impossibilità di applicarla» (38.2, lett. a), ma il 37.1 non prevede questa strada: dopo la fondazione, come si rivede una norma che non si riesce ad applicare?",
+  "Regime di fondazione (Cost. 38.2–38.3; Cod. 3, art. 14-bis). Nell'«unica Comunità esistente», trenta persone possono modificare Costituzione e Codici (tranne il Nucleo) con i due terzi. La ratifica è richiesta entro ventiquattro mesi dalla nascita del terzo Cerchio Esteso, e un Cerchio Esteso nasce solo da Cerchi 2 che hanno chiuso la transizione (art. 14-bis, cc. 1–3). Se il terzo Cerchio Esteso non nasce mai, le modifiche restano in vigore senza ratifica? È un equilibrio accettabile tra flessibilità iniziale e stabilità?",
+  "Sorteggio e rotazione (Cost. 4.3, 4.4, lett. d, 6.5; Cod. 3, art. 12-bis, cc. 4 e 5; art. 14, c. 1-bis). Il sorteggio avviene solo tra volontari maggiorenni idonei e ognuno può rifiutare. Che cosa dicono le esperienze di sorteggio (assemblee dei cittadini, giurie) sull'autoselezione dei volontari? Con mandati di novanta giorni, il potere informale si sposta verso chi conosce le procedure o custodisce i sistemi, per esempio i componenti dei Consigli tecnici che restano un anno? Inoltre la Cost. 6.5 dice che i componenti dei Consigli «restano in carica un anno», mentre il Cod. 3, art. 12-bis, c. 5, ammette una proroga motivata fino a sei mesi quando mancano persone idonee: è compatibile con la Costituzione, o la proroga andrebbe scritta in Costituzione?",
+  "Assemblea Generale e partecipazione (Cod. 3, art. 14, cc. 6–8; Cost. 35.2). In prima convocazione la deliberazione è valida solo se partecipano tre quarti delle Comunità, e una Comunità partecipa solo se prende parte un terzo dei suoi aventi diritto, astenuti compresi. Se manca, dal 3 novembre 2026 l'Assemblea Generale si riconvoca entro trenta giorni e basta la metà delle Comunità. La seconda convocazione risolve il rischio di paralisi, o consente a metà delle Comunità di decidere per tutte su materie che toccano anche le altre? Il criterio «Comunità favorevole se vi prevalgono i voti favorevoli» (c. 7, lett. a) dà lo stesso peso a una Comunità di 30 e a una di 500 persone, e, poiché gli astenuti non contano, in una Comunità dove quasi tutti si astengono bastano tre sì contro due no: è voluto, ed è difendibile?",
+  "Astensione, quorum e decadenza nel Cerchio 1 (Cost. 35.1 e 35.4; Cod. 3, art. 12, cc. 3, 5 e 6; art. 13, cc. 4 e 4-bis). Dal 2 novembre 2026 chi si astiene conta per il quorum ma non tra i votanti. Per evitare che una decisione qualificata passi con pochi voti quando molti si astengono, il Cod. 3, art. 13, c. 4-bis, chiede sì pari almeno alla metà del quorum (un sesto degli aventi diritto; un quarto con garanzie speciali). La soglia è adeguata, o rende troppo difficili le decisioni nelle Comunità con partecipazione bassa? Se il quorum manca due volte, la proposta decade: per decisioni che lasciano in vigore uno stato di fatto dannoso, chi decide? Una minoranza organizzata può ottenere un veto non partecipando?",
+  "Controllo di costituzionalità (Cod. 3, art. 4, cc. 1 e 3; art. 13, c. 3, lett. a; art. 17, c. 1-bis; art. 18, c. 2; Cod. 16, art. 10, c. 3, lett. b). Un'obiezione che segnala la violazione di una «norma imperativa» impedisce l'approvazione a maggioranza. La validità dell'obiezione è decisa dal facilitatore e dal Consiglio Qualità; la nullità è qualificata dal Cerchio di Garanzia, le cui funzioni durano al massimo novanta giorni consecutivi (Cost. 4.4, lett. a); i ricorsi sulle decisioni dei Cerchi 2 e 3 li decidono tre persone sorteggiate, caso per caso. Il Codice 16 definisce le norme imperative solo in generale («quelle che non ammettono deroga da parte degli organi che decidono») e nessun testo le elenca. Senza un organo stabile, come si evita che la stessa questione riceva risposte diverse? Basta un archivio di decisioni non vincolanti?",
+  "Consigli tecnici: pareri vincolanti e revoca (Cost. 6.5–6.6; Cod. 3, art. 8, cc. 1–3; art. 12-bis, c. 10). Ora la revoca o la sostituzione dei componenti non fa cadere un parere vincolante negativo già reso, ma il Consiglio nella nuova composizione riesamina la proposta ripresentata (art. 8, c. 2). Una maggioranza può quindi revocare il Consiglio «in qualsiasi momento» e ripresentare la stessa proposta a un Consiglio più favorevole? Servono limiti alla revoca (tempi, maggioranze, divieto mentre un parere è pendente)? La Cost. 6.6 estende inoltre i pareri vincolanti ai «limiti ecologici», affidati ai Consigli Agroecologico e Biodiversità: è un equilibrio accettabile tra organi tecnici e Assemblea?",
+  "Cerchio 0 inviolabile (Cost. 5.1, lett. a; 37.4, lett. f). Nessuno può entrare nel Nucleo di Cura, registrarne le dinamiche o condizionarne la composizione, salvo interventi «strettamente necessari» alla tutela dei diritti inviolabili «secondo il Titolo VIII» e, per il solo Corpo di Tutela Civica, a far cessare un maltrattamento grave su un animale; è nulla la parte di una deliberazione che lede questa inviolabilità. La formula protegge in modo sufficiente chi subisce violenza dentro il Nucleo, in particolare i minori? È coerente che per un animale la Costituzione nomini espressamente chi entra e con quale convalida, mentre per le persone rinvia al Titolo VIII? E la nullità può essere usata per contestare decisioni ordinarie, per esempio sull'assegnazione degli alloggi?",
+  "Comunità associate, recesso e cessazione (Cost. 4.5–4.7, 38.1; Cod. 15, art. 21-bis, cc. 1, 3, 7, 8 e 9). La Comunità associata è una Comunità di Base, conta quindi nelle maggioranze delle revisioni (Cost. 37.3, lett. a; 38.2, lett. c), ma le sue «assemblee e quorum interni» sono strumenti facoltativi: il Titolo IX (consenso, Obiezione del 10%, quorum) non è tra le regole fondamentali. Chi vi vive senza aderire non vota nelle Assemblee Generali che decidono anche per lui. È un federalismo asimmetrico coerente? Inoltre la Costituzione prevede solo il recesso volontario (4.6), mentre il Cod. 15, art. 21-bis, c. 7, permette all'Assemblea Generale del Cerchio 2 di dichiarare «cessata l'associazione»: su quale base costituzionale? Dopo il recesso, chi garantisce i diritti dell'art. 1.2 alle persone che restano membri (4.7, lett. c), e con quali strumenti, se la Confederazione non ha potere di comando sulla Comunità recedente?",
+  "Voto elettronico e segretezza (Cost. 34.4; Cod. 3, art. 12, cc. 2 e 8; Cod. 7, art. 7-bis). Registro degli aventi diritto e urna sono separati, nessun dato collega la persona al voto e chi vota non riceve una prova da mostrare ad altri (art. 7-bis, cc. 2–3). Ma il numero dei votanti e i totali di ogni Comunità sono pubblici (c. 5): in una Comunità di trenta persone, con un esito unanime o quasi, la segretezza regge? Il sistema protegge anche dalla coercizione nel voto da casa, per esempio all'interno del Nucleo di Cura, dove nessuno può entrare?",
+  "Emergenza (Cost. 36.2–36.4; Cod. 16, art. 1, c. 5; Cod. 1, art. 3, c. 3). Il Protocollo di Solidarietà è attivato dal Cerchio 3 o da dieci Cerchi 1 limitrofi (durante la transizione dall'Assemblea Generale del Bacino colpito), dura trenta giorni salvo «rinnovo assembleare», permette di riallocare scorte e CBO e di superare il limite delle ore di CBO. Nessun testo dice quale Assemblea rinnova, con quale maggioranza e per quanto: chi lo decide? Il limite dei trenta giorni regge in una pandemia o in una carestia di lunga durata?"
+ ],
+ "modifiche_recenti": [
+  "Cost. 35.4; Cod. 3, art. 12, c. 3, lett. d, e art. 14, c. 6: sono «votanti» solo le persone che votano sì o no; chi si astiene conta per il quorum e per la partecipazione delle Comunità all'Assemblea Generale, non per le maggioranze.",
+  "Cod. 3, art. 12-bis, c. 4, e art. 14, c. 1-bis: sono sorteggiate soltanto persone maggiorenni; ogni Comunità sorteggia un portavoce per 90 giorni che convoca l'Assemblea Generale.",
+  "Cost. 4.5 e 38.1; Cod. 15, art. 21-bis: una comunità può aderire come Comunità associata, che conserva il proprio ordinamento interno e garantisce l'equivalenza al confine.",
+  "Cost. 5.1, lett. a, e 37.4, lett. a: il Nucleo Inviolabile è stato riscritto prima di ogni adesione (perdita dello status per rifiuto del CBO; ingresso del Corpo nel Cerchio 0 per un animale).",
+  "Cod. 3, art. 12-bis, c. 12: tolta la riduzione a sei mesi dell'intervallo tra due mandati nelle Comunità piccole; vale ovunque il limite di dodici mesi della Cost. 6.5.",
+  "Cod. 3, art. 13, c. 4-bis: nelle decisioni con quorum i voti favorevoli devono essere almeno la metà del quorum (un sesto degli aventi diritto; un quarto con garanzie speciali).",
+  "Cost. 37.4, lett. i: nel Nucleo Inviolabile restano sorteggio, rotazione e temporaneità degli incarichi; durate e intervalli si possono cambiare con la Doppia Maggioranza Lunga entro limiti fissi.",
+  "Cod. 3, art. 14, c. 6: se l'Assemblea Generale non raggiunge i tre quarti delle Comunità, si riconvoca entro trenta giorni e basta la metà."
+ ],
+ "testi": [
+  {
+   "file": "costituzione",
+   "articoli": [
+    "4",
+    "5",
+    "6",
+    "32",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38"
+   ]
+  },
+  {
+   "file": "codice-03",
+   "articoli": [
+    "4",
+    "8",
+    "12",
+    "12-bis",
+    "13",
+    "13-bis",
+    "14",
+    "14-bis",
+    "15",
+    "16",
+    "17",
+    "18"
+   ]
+  },
+  {
+   "file": "codice-07",
+   "articoli": [
+    "7-bis"
+   ]
+  },
+  {
+   "file": "codice-15",
+   "articoli": [
+    "21",
+    "21-bis"
+   ]
+  },
+  {
+   "file": "codice-16",
+   "articoli": [
+    "1",
+    "10"
+   ]
+  },
+  {
+   "file": "codice-01",
+   "articoli": [
+    "3"
+   ]
+  }
+ ],
+ "approfondire": [
+  {
+   "titolo": "Costituzione (testo completo)",
+   "pagina": "registro/costituzione.html"
+  },
+  {
+   "titolo": "Codice 3 — Deliberazione (testo completo)",
+   "pagina": "registro/codice-03.html"
+  },
+  {
+   "titolo": "Codice 15 — Rapporti esterni e Comunità associate",
+   "pagina": "registro/codice-15.html"
+  },
+  {
+   "titolo": "Registro dei parametri da verificare",
+   "pagina": "registro/parametri.html"
+  },
+  {
+   "titolo": "Registro delle modifiche",
+   "pagina": "registro/modifiche.html"
+  }
+ ],
+ "aggiornata": "2026-11-02",
+ "slug": "diritto-costituzionale-scienze-politiche",
+ "ordine": 2
+}

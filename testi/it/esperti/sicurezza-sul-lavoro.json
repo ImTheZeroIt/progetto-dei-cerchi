@@ -1,0 +1,150 @@
+{
+ "chiave": "sicurezza_lavoro",
+ "titolo": "Sicurezza sul lavoro e protezione civile",
+ "a_chi": "esperti di salute e sicurezza sul lavoro, prevenzione incendi, protezione civile e soccorso tecnico",
+ "perche": "Nel progetto non ci sono datori di lavoro. Il lavoro necessario (Contributo di Base, CBO) è distribuito a turno tra tutti, spesso tra persone non specializzate. La sicurezza poggia su schede per ogni attività, livelli di rischio, dispositivi gratuiti, diritto di interrompere e un Consiglio Sicurezza sorteggiato. Non c'è polizia né un corpo permanente di vigili del fuoco: soccorso, antincendio e protezione civile spettano a un Corpo di Tutela Civica di volontari, con turni di non più di novanta giorni. Si chiede di verificare se tutto questo regge negli incidenti gravi e nei disastri.",
+ "come_funziona": [
+  "Il rischio si classifica in cinque livelli, da R0 (trascurabile) a R4 (grave e immediato: sospensione). Da R1 in su serve una Scheda Sicurezza Generale vigente, semplificata per R1 e completa per R2 e R3; R2 richiede formazione specifica e DPI o protezioni collettive, R3 formazione L2 e controlli rafforzati (Cod. 14, artt. 1 e 4).",
+  "Ogni Cerchio 1 ha un Consiglio Sicurezza di 3–5 persone sorteggiate per un anno, con competenze L2 o L3 in una o più materie (sicurezza del lavoro, incendi, rischio elettrico o meccanico, cantieri, organizzazione). Valida le Schede, tiene il catasto dei rischi e l'inventario delle macchine critiche. Opera con almeno due terzi dei componenti: atti tecnici, pareri e validazione delle Schede a maggioranza semplice; proposte e decisioni discrezionali con il metodo del consenso e dopo 72 ore di pubblicazione. Il suo parere negativo è vincolante per i parametri di sicurezza generale (Cod. 14, art. 3).",
+  "DPI e protezioni collettive sono gratuiti. Se manca un DPI essenziale l'attività si sospende, e la colpa non è di chi non l'ha ricevuto. Le macchine critiche senza verifica periodica non si usano. Ogni robot ha un arresto fisico indipendente dal software, che chiunque può azionare (Cod. 14, art. 4; Cod. 6, art. 4; Cod. 7, art. 6-bis, c. 3).",
+  "Chiunque può interrompere un'attività per un rischio grave e immediato, senza ritorsioni. Se l'attività garantisce prestazioni dei livelli 1 e 2 del Paniere, la sospensione è accompagnata quando possibile da una funzione sostitutiva (Cod. 14, artt. 2, c. 6, e 9; Cod. 6, art. 4, c. 5).",
+  "Formazione: una formazione di base prima del CBO generico (4 ore in prima applicazione, provvisorie); L1 obbligatoria per le attività R1 o superiori; L2 per R3 e per le funzioni di supervisione; L3 per scrivere le STV e validare le Schede critiche. La formazione alla sicurezza si aggiunge alla validazione della competenza del Codice 5, che chiede la validazione L2 per i compiti in attività R2 e la L3 per quelli in attività R3 (Cod. 1, art. 28; Cod. 14, art. 6; Cod. 5, art. 4, c. 2-bis).",
+  "Incidenti: un registro riservato (al massimo 36 mesi) e un registro pubblico aggregato. Per gli incidenti gravi il Consiglio Sicurezza analizza le cause entro sette giorni; i Consigli Salute fanno ogni trimestre un'analisi aggregata. I quasi-incidenti si possono segnalare in forma anonima. Non si presume una colpa individuale (Cod. 14, art. 7; Cod. 6, art. 9).",
+  "Il Corpo di Tutela Civica è disarmato e non permanente, con cinque funzioni a rotazione: soccorso tecnico e antincendio, protezione civile e ambientale, tutela dei beni comuni, mediazione, soccorso sanitario e veterinario. Lo compongono volontari maggiorenni formati e sorteggiati, con turni fino a 90 giorni non rinnovabili subito. Gli interventi programmati li delibera l'Assemblea; nell'urgenza parte il referente di turno. Ogni attivazione è rivista entro 24 ore da sei persone di due Comunità vicine e, se la revisione non si conclude in tempo, non è convalidata; le registrazioni sono pubblicate entro 48 ore (Cod. 14, artt. 8-bis–8-quater; Cost. 17).",
+  "Transizione: censimento di rischi, macchine, DPI e competenze entro sei mesi; Consiglio Sicurezza e STV minime entro dodici. Le attività non conformi hanno almeno trenta giorni per adeguarsi, salvo il rischio R4. Fino alla fine della transizione gli interventi fisici del Corpo sulle persone sono limitati a quanto consente la legge vigente (Cod. 14, artt. 8-quinquies, c. 6, e 10)."
+ ],
+ "numeri": [
+  {
+   "valore": "turno nel Corpo di Tutela Civica: al massimo 90 giorni, non rinnovabile consecutivamente, con rotazione delle funzioni; poi 12 mesi senza incarichi di coordinamento",
+   "dove": "Cod. 14, art. 8-bis, cc. 2 e 4; Cost. 17.2 e 17.7",
+   "nota": "Scritto nella Costituzione; non compare nel registro dei parametri. Nessuna fonte indicata."
+  },
+  {
+   "valore": "componenti del Corpo sorteggiati dai 18 anni; dai 16 in affiancamento, senza contenimento né uso della forza",
+   "dove": "Cod. 14, art. 8-bis, c. 3",
+   "nota": "Registro dei parametri: decisione dell'autore del 1 novembre 2026 (età del CBO); incertezza media, da provare in una Comunità con molti giovani."
+  },
+  {
+   "valore": "revisione di ogni attivazione del Corpo entro 24 ore da sei persone sorteggiate in due Comunità limitrofe, a maggioranza in ciascuna; pubblicazione delle registrazioni entro 48 ore",
+   "dove": "Cod. 14, art. 8-quater, cc. 2–3",
+   "nota": "Non compare nel registro dei parametri: scelta di redazione."
+  },
+  {
+   "valore": "Consiglio Sicurezza di 3–5 persone, in carica un anno; quorum di due terzi; maggioranza semplice per atti tecnici, pareri e validazione delle Schede",
+   "dove": "Cod. 14, art. 3, cc. 1–3",
+   "nota": "Registro dei parametri (Consigli tecnici): incertezza media; da verificare la continuità delle competenze con mandati annuali e le persone idonee nelle Comunità piccole."
+  },
+  {
+   "valore": "formazione di base prima del CBO generico: 4 ore in prima applicazione",
+   "dove": "Cod. 1, art. 28, c. 2",
+   "nota": "Dichiarata provvisoria. L'Allegato Tecnico Formativo che deve fissarla è, nel registro dei parametri, «da scrivere»."
+  },
+  {
+   "valore": "lavoro in quota: protezioni obbligatorie oltre 2 metri di dislivello",
+   "dove": "Cod. 14, art. 5, c. 4",
+   "nota": "Non compare nel registro dei parametri. È la stessa soglia della normativa italiana (d.lgs. 81/2008)."
+  },
+  {
+   "valore": "conservazione: registro DPI 12 mesi; verbali del Consiglio 24 mesi; registro operativo degli incidenti al massimo 36 mesi",
+   "dove": "Cod. 14, art. 3, c. 3; art. 4, c. 5; art. 7, c. 2, lett. a)",
+   "nota": "Non compaiono nel registro dei parametri: scelte di redazione."
+  },
+  {
+   "valore": "analisi delle cause di un incidente grave entro 7 giorni, prorogabile di norma di 14",
+   "dove": "Cod. 14, art. 7, c. 3",
+   "nota": "Non compare nel registro dei parametri: scelta di redazione."
+  },
+  {
+   "valore": "termine per correggere una violazione sostanziale: da 7 a 30 giorni",
+   "dove": "Cod. 14, art. 9, c. 2, lett. b)",
+   "nota": "Non compare nel registro dei parametri: scelta di redazione."
+  }
+ ],
+ "domande": [
+  "Il Cod. 14, art. 4, c. 1, chiede una Scheda Sicurezza Generale solo per le attività R1 o superiori; per le R0 bastano le misure generali di prudenza. Il Cod. 6, art. 4, c. 1, e il Cod. 1, art. 27, c. 1, chiedono invece una Scheda vigente per ogni attività o compito delle Liste A, B e C. Quale regola deve prevalere? Una Scheda per ogni compito a rischio trascurabile è un carico amministrativo sostenibile?",
+  "Il rischio è definito come combinazione di gravità, probabilità ed esposizione «secondo la formula e i parametri della STV» (Cod. 14, art. 1, c. 2, lett. f), che ancora non esiste. Dalla classe dipendono la Scheda, la formazione e le verifiche (art. 1, c. 3) e, dal Cod. 5, art. 4, c. 2-bis, anche il livello di validazione della competenza. Quali metodi consolidati di valutazione del rischio si potrebbero adottare? Come si evita che due Comunità classifichino in modo diverso la stessa attività?",
+  "Il Consiglio Sicurezza è sorteggiato tra persone con competenze in «una o più» delle materie elencate (Cod. 14, art. 3, c. 1), ma valida tutte le Schede: incendio, rischio elettrico, spazi confinati, macchine (art. 3, c. 5). Se i sorteggiati sono tutti esperti di cantiere, chi valida una Scheda sul rischio elettrico? Serve una regola di composizione per materia, o una validazione affidata caso per caso a persone L3 della materia?",
+  "Nel sistema non c'è datore di lavoro. La Scheda indica il «responsabile dell'emissione» (Cod. 14, art. 4, c. 2, lett. g), e la formazione L2 serve per il «presidio operativo o supervisione» (art. 6, c. 2). Nessun articolo dice però chi, sul posto e durante il turno, deve far rispettare la Scheda e fermare il lavoro: la figura che in Italia è il preposto. Con persone che ruotano su compiti diversi, chi verifica che chi arriva abbia la formazione e i DPI richiesti (Cod. 1, art. 27, c. 4)?",
+  "La formazione di base prima del CBO generico è di quattro ore in prima applicazione (Cod. 1, art. 28, c. 2); la L1 è obbligatoria dal livello R1 (Cod. 14, art. 6, c. 1). In Italia la formazione minima dei lavoratori prevede 4 ore di parte generale più una parte specifica che cresce con il rischio. Quattro ore bastano per persone che, a turno, passano da cucina a officina a campo? Inoltre per un'attività R3 il Cod. 14 chiede formazione L2 (art. 1, c. 3, lett. d; art. 6, c. 2), mentre il Cod. 5, art. 4, c. 2-bis, chiede la validazione L3 della competenza e dice che la formazione di sicurezza «si aggiunge». I due percorsi sono chiari per chi deve applicarli? Che cosa dovrebbe contenere l'Allegato Tecnico Formativo?",
+  "Il Cod. 14 conserva il registro DPI per 12 mesi (art. 4, c. 5) e il registro operativo degli incidenti per non più di 36 (art. 7, c. 2, lett. a). Le malattie professionali da amianto, silice, rumore o agenti chimici (art. 5, c. 6) emergono dopo anni o decenni e richiedono dati di esposizione individuali; il Cod. 6, art. 9, chiede di registrare anche le sospette malattie professionali, ma non fissa durate. Come conciliare la minimizzazione dei dati con la ricostruzione delle esposizioni? E poiché gli infortuni sono registrati e analizzati sia dal Consiglio Sicurezza (Cod. 14, art. 7, c. 3) sia dai Consigli Salute (Cod. 6, art. 9, c. 5), chi fa l'analisi delle cause, su quale registro, e con quale indipendenza dal Consiglio che ha validato la Scheda dell'attività?",
+  "Antincendio e soccorso tecnico richiedono un addestramento lungo e continuo: autoprotettori, incendi in edifici, estricazione, soccorso in acqua. Con turni di massimo novanta giorni non rinnovabili subito, la rotazione delle funzioni dentro il turno (Cod. 14, art. 8-bis, cc. 2 e 4; Cost. 17.2) e una formazione d'ingresso centrata su mediazione, de-escalation, soccorso e diritto (art. 8-bis, c. 3), si può mantenere una squadra competente? I corpi di vigili del fuoco volontari esistenti si reggono su persone che restano per anni: quale organizzazione sarebbe compatibile con queste regole?",
+  "In un'alluvione o in un terremoto che colpisce più Comunità, il Corpo è attivato dal Cerchio 1 o, per le funzioni sovralocali, dal Cerchio 2 con i componenti in turno delle Comunità più vicine; nell'urgenza parte il referente di turno (Cod. 14, art. 8-bis, cc. 1 e 5). Ogni attivazione va rivista entro 24 ore da due Comunità limitrofe «estranee all'evento» e, se la revisione non si conclude in tempo, non è convalidata e i suoi effetti cessano (art. 8-quater, cc. 2 e 4); ma le Comunità vicine possono essere colpite anche loro. Le deroghe alle priorità spettano al Consiglio di Magazzino (Cod. 1, art. 32, c. 3). Chi decide un'evacuazione? C'è una catena di comando sufficiente per le prime ore e per i giorni seguenti?",
+  "Ogni intervento del Corpo è registrato integralmente (Cost. 17.4; Cod. 14, art. 8-quater, c. 1). Le registrazioni pubblicate oscurano la persona destinataria, le persone offese, i minori e i terzi; la versione integrale la vedono le sei persone della revisione, sorteggiate in due Comunità vicine, e il Tribunale di Garanzia (c. 3). In un soccorso sanitario la versione integrale contiene dati clinici: è compatibile con la riservatezza sanitaria del Cod. 6, art. 11? E registrare integralmente un soccorso tecnico o sanitario è praticabile?",
+  "Se manca un DPI essenziale l'attività si sospende subito (Cod. 14, art. 4, c. 5), e chiunque può interrompere per un rischio grave (art. 2, c. 6). Per le attività che garantiscono i livelli 1 e 2 del Paniere, l'art. 9, c. 4, e l'art. 4, c. 4, chiedono una funzione sostitutiva «quando tecnicamente possibile». Se non è possibile (per esempio in un impianto idrico durante un guasto), che cosa prevale, la sospensione o la continuità? Chi decide, e in quanto tempo?",
+  "Il Cod. 7, art. 6-bis, chiede per ogni robot un arresto fisico indipendente dal software (c. 3) e rinvia alla STV Macchine del Cod. 14 per i limiti di forza, velocità e distanza dalle persone (c. 4); vieta di assegnare una persona a un compito a rischio se un robot disponibile può svolgerlo in sicurezza (c. 6). Quali norme tecniche sui robot collaborativi dovrebbe richiamare la STV Macchine? Chi accerta che il robot svolga il compito «in sicurezza», e con quali prove, prima che il c. 6 renda vietato assegnarlo a una persona?",
+  "Le Comunità vivranno a lungo dentro uno Stato. Nei testi di questa scheda la legge vigente è richiamata per gli interventi del Corpo (Cod. 14, art. 8-quinquies, c. 6) e per la difesa personale (art. 8-sexies, c. 13), e il Cod. 4, art. 37, riguarda la giustizia. Le norme statali sulla sicurezza del lavoro (in Italia il d.lgs. 81/2008) si applicano anche al CBO in cantieri, officine e impianti? Le Schede e le STV del Codice 14 possono sostituirle, o devono almeno non scendere sotto i loro requisiti? L'art. 10, c. 1, non le nomina tra i coordinamenti."
+ ],
+ "modifiche_recenti": [
+  "Cod. 14, art. 3, c. 3: nel Consiglio Sicurezza la maggioranza vale solo per atti tecnici, pareri e validazione delle Schede; proposte e decisioni discrezionali richiedono il consenso e 72 ore di pubblicazione.",
+  "Cod. 5, art. 4, c. 2-bis: le classi R0–R4 del Codice 14 sono collegate ai Livelli di validazione del Codice 5; la formazione alla sicurezza si aggiunge alla validazione e non la sostituisce.",
+  "Cod. 14, artt. 8-bis, cc. 1 e 3, e 8-quater, cc. 2–3: è scritto chi attiva il Corpo; la revisione la fanno sei persone di due Comunità, a maggioranza in ciascuna, e senza revisione nei termini l'attivazione non è convalidata; la registrazione pubblicata oscura anche la persona destinataria; nel Corpo si entra a 18 anni.",
+  "Cod. 7, art. 6-bis: ogni robot ha un arresto fisico indipendente dal software; i limiti di forza, velocità e distanza vanno nella STV Macchine; un compito a rischio non si assegna a una persona se un robot può svolgerlo in sicurezza."
+ ],
+ "testi": [
+  {
+   "file": "codice-14",
+   "articoli": "tutti"
+  },
+  {
+   "file": "costituzione",
+   "articoli": [
+    "17"
+   ]
+  },
+  {
+   "file": "codice-01",
+   "articoli": [
+    "27",
+    "28",
+    "32"
+   ]
+  },
+  {
+   "file": "codice-05",
+   "articoli": [
+    "4"
+   ]
+  },
+  {
+   "file": "codice-06",
+   "articoli": [
+    "4",
+    "9",
+    "11"
+   ]
+  },
+  {
+   "file": "codice-07",
+   "articoli": [
+    "6-bis"
+   ]
+  },
+  {
+   "file": "codice-04",
+   "articoli": [
+    "37"
+   ]
+  }
+ ],
+ "approfondire": [
+  {
+   "titolo": "Codice 14 — Sicurezza generale",
+   "pagina": "registro/codice-14.html"
+  },
+  {
+   "titolo": "Codice 6 — Salute",
+   "pagina": "registro/codice-06.html"
+  },
+  {
+   "titolo": "Codice 7 — Automazione e Rete: robot e macchine autonome",
+   "pagina": "registro/codice-07.html"
+  },
+  {
+   "titolo": "Registro dei parametri da verificare",
+   "pagina": "registro/parametri.html"
+  }
+ ],
+ "aggiornata": "2026-11-02",
+ "slug": "sicurezza-sul-lavoro",
+ "ordine": 13
+}

@@ -1,0 +1,167 @@
+{
+ "chiave": "architettura",
+ "titolo": "Architettura, edilizia e urbanistica",
+ "a_chi": "architetti, ingegneri edili e strutturisti, urbanisti, esperti di recupero edilizio e di consumo di suolo",
+ "perche": "La Costituzione garantisce a ogni membro un alloggio. Dal 19 ottobre 2026 il Codice 1 dice che cosa lo rende adeguato (art. 47-bis) e come si assegnano le case (art. 47-ter). Il Codice 10 vieta il consumo netto di suolo fertile e mette il riuso degli edifici prima di ogni nuova costruzione. Insieme, queste regole decidono dove e come una Comunità potrà abitare. Si chiede di verificare se le misure sono sensate, se si possono raggiungere con gli edifici che esistono oggi e se le regole sul suolo sono abbastanza precise da applicarle.",
+ "come_funziona": [
+  "Ogni membro ha diritto a un alloggio d'uso, individuale o familiare. L'abitazione non si vende, non si affitta e non si eredita: torna alla pianificazione abitativa della Comunità, che la assegna secondo i bisogni (Cost. 1.2, lett. a; 3.2, 3.3 e 3.7; Cod. 1, art. 48, c. 3).",
+  "Un alloggio è adeguato se ha uno spazio riservato e chiudibile per ogni persona dai quattordici anni, protezione da freddo, caldo e umidità, acqua ed energia del Paniere, spazi per cucinare e per l'igiene (propri o condivisi nel Cerchio 0) e l'accessibilità necessaria. In prima applicazione: soggiorno e camera separata (niente monolocale), superfici minime crescenti con il numero di persone, un bagno ogni quattro persone del Cerchio 0 (Cod. 1, art. 47-bis, cc. 1–2).",
+  "Un alloggio che non rispetta lo standard non si toglie e non si nega: la Comunità lo adegua entro 36 mesi, prorogabili una volta. L'abitazione principale si revoca solo assegnandone una che rispetta il c. 1; se non c'è, si assegna la migliore disponibile. Il riuso e il recupero vengono prima di ogni nuova edificazione (Cod. 1, art. 47, c. 3; art. 47-bis, cc. 4–6).",
+  "La pianificazione abitativa la propone il Consiglio di Magazzino, con il parere del Consiglio Habitat e Territorio e del Consiglio Cura, e la approva l'Assemblea almeno una volta l'anno. Comprende l'inventario degli alloggi e della loro adeguatezza. Si assegna per bisogno, mai per ore di CBO, CdR o incarichi; nessuno resta senza riparo: in attesa, il migliore alloggio disponibile, una Casa Ponte senza limite di durata o un'area di sosta attrezzata (Cod. 1, art. 47-ter, cc. 1, 2 e 4).",
+  "Il Nucleo di Cura (Cerchio 0) va da una a quindici persone, anche in coabitazione, ed è inviolabile (Cost. 5.1, lett. a). Ogni Comunità destina dal 10 al 15% dell'abitato alle Case Ponte (Cost. 12.1; Cod. 11, art. 6-ter, c. 1).",
+  "È vietato il consumo netto di suolo fertile: ogni occupazione irreversibile va compensata nello stesso bacino territoriale, cioè nel territorio del Cerchio 2, con una rigenerazione equivalente. Riuso, recupero, densificazione ecologica e de-impermeabilizzazione vengono prima di ogni nuova edificazione (Cod. 10, art. 1, c. 2, lett. c e h; art. 2, cc. 1–2; art. 5).",
+  "Per trasformare suolo agricolo fertile in edificabile servono insieme: nessuna alternativa di riuso, compensazione equivalente sia fertile sia ecologica, parere del Consiglio Agroecologico (vincolante se negativo) e voto a maggioranza qualificata dell'Assemblea Generale (Cod. 10, art. 4, c. 4). Un'occupazione è reversibile solo se lo strato fertile è ripristinato entro 24 mesi (art. 1, c. 2, lett. e). Le aree di infiltrazione strategica non si impermeabilizzano (art. 8, c. 4).",
+  "Il Consiglio Habitat e Territorio (3–5 persone: pedologia, ecologia, urbanistica ecologica, cartografia, rigenerazione) tiene la mappa e il Catasto, che ha un livello pubblico aggregato e uno tecnico riservato. Tiene anche l'inventario annuale dei materiali recuperabili da edifici, veicoli e impianti dismessi (Cod. 10, artt. 3, 7 e 8-bis).",
+  "Durante la transizione il Codice 1 vale dalla Fase 0, il Codice 10 dalla Fase 1 e il Codice 14 (sicurezza, compreso il cedimento strutturale) dalla Fase 2. Sui beni conferiti sono inefficaci gli atti che vanno oltre la manutenzione ordinaria e l'uso conforme a una Scheda vigente (Cod. 16, art. 3, cc. 1–3; art. 6, c. 4)."
+ ],
+ "numeri": [
+  {
+   "valore": "30 m² per una persona, 45 per due, 60 per tre, poi +15 m² a persona fino alla quinta e +10 oltre; almeno soggiorno e camera separata",
+   "dove": "Cod. 1, art. 47-bis, c. 2",
+   "nota": "In vigore dal 19 ottobre 2026. Il DM 5 luglio 1975 chiede 14 m² per ciascuno dei primi quattro abitanti (10 per i successivi) e un soggiorno di almeno 14 m²; per il monolocale 28 m² per una persona e 38 per due. Incertezza media."
+  },
+  {
+   "valore": "un bagno ogni quattro persone del Cerchio 0 o frazione; dal secondo bastano wc e lavabo",
+   "dove": "Cod. 1, art. 47-bis, c. 2",
+   "nota": "I bagni possono essere comuni agli alloggi dello stesso Cerchio 0. Se un Cerchio 0 abita più alloggi, la superficie si calcola sul totale delle sue persone."
+  },
+  {
+   "valore": "uno spazio riservato chiudibile di almeno 9 m² per ogni persona dai quattordici anni",
+   "dove": "Cod. 1, art. 47-bis, c. 1, lett. a, e c. 2",
+   "nota": "9 m² è la camera singola minima del DM 5 luglio 1975. Due persone lo condividono solo se entrambe lo chiedono."
+  },
+  {
+   "valore": "adeguamento entro 36 mesi, prorogabile una volta",
+   "dove": "Cod. 1, art. 47-bis, c. 4",
+   "nota": "Scelta di redazione. Gli adeguamenti che non riguardano la salute sono differibili (art. 47-ter, c. 6)."
+  },
+  {
+   "valore": "3,5 m² coperti per persona (4,5–5,5 nei climi freddi)",
+   "dove": "standard Sphere, citato nella bozza del Paniere per le aree di sosta attrezzate",
+   "nota": "È un minimo per l'accoglienza d'emergenza. Lo standard dell'alloggio non si applica alle aree di sosta (Cod. 1, art. 47-bis, c. 3)."
+  },
+  {
+   "valore": "Case Ponte dal 10 al 15% dell'abitato",
+   "dove": "Cost. 12.1; Cod. 11, art. 6-ter, c. 1",
+   "nota": "Scelta di redazione, incertezza media. Nel primo bilancio delle ore il 12,5% vale circa 76 ore l'anno per 150 persone."
+  },
+  {
+   "valore": "materiali per 22 m² di abitazione a persona, più il 12,5% per le Case Ponte e 5 m² di edifici comuni a persona, ammortizzati su 80 anni: 820 ore l'anno per 150 persone",
+   "dove": "bozza dell'Allegato UCR, par. 4.3",
+   "nota": "Prezzi e durate sono ipotesi di redazione. I 22 m² medi si ottengono se i Cerchi 0 sono come le famiglie italiane di oggi. La bozza chiede la verifica di un tecnico edile."
+  },
+  {
+   "valore": "occupazione reversibile: ripristino entro 24 mesi",
+   "dove": "Cod. 10, art. 1, c. 2, lett. e",
+   "nota": "Scelta di redazione. Se il ripristino non avviene, l'occupazione conta come consumo lordo dal primo giorno."
+  },
+  {
+   "valore": "periodo di riferimento per il saldo netto zero: di norma un anno",
+   "dove": "Cod. 10, art. 1, c. 2, lett. c",
+   "nota": "Scelta di redazione. L'equivalenza è affidata alla STV Rigenerazione, non ancora scritta (art. 5, c. 3)."
+  },
+  {
+   "valore": "Nucleo di Cura da 1 a 15 persone; Comunità di norma tra 30 e 500",
+   "dove": "Cost. 5.1",
+   "nota": "Dal registro dei parametri: incertezza media per il Nucleo, alta per la Comunità."
+  }
+ ],
+ "domande": [
+  "Il Cod. 1, art. 47-bis, c. 2 esclude il monolocale e chiede per una persona sola almeno 30 m² con camera separata, sopra i 28 m² che il DM 5 luglio 1975 ammette per un monolocale. In una città italiana, quale quota degli alloggi esistenti abitati da una o due persone risulterebbe non adeguata? Il termine di 36 mesi, prorogabile una volta (c. 4), è realistico per adeguarli tutti?",
+  "Le metrature del Cod. 1, art. 47-bis, c. 2 (30, 45, 60 m², poi +15 e +10 a persona) sono coerenti tra loro e con l'uso reale degli spazi? Per un Cerchio 0 di cinque persone (una coppia che condivide la camera e tre ragazzi sopra i quattordici anni) bastano 90 m² per un soggiorno, quattro spazi riservati da almeno 9 m², cucina e due bagni? La superficie «abitabile» va definita (netta, calpestabile, con o senza accessori) perché la regola sia verificabile?",
+  "Per un Cerchio 0 di quindici adulti in coabitazione (Cost. 5.1, lett. a) la regola del Cod. 1, art. 47-bis, c. 2 dà 190 m² in tutto, con quindici spazi riservati da 9 m² (135 m²) e quattro bagni. Restano circa 55 m² per soggiorno, cucina, bagni e passaggi: è sufficiente? La crescita di 10 m² a persona oltre la quinta va rivista per i Cerchi 0 numerosi?",
+  "Il Cod. 1, art. 47-bis, c. 1, lett. d e c. 2 ammette cucine e bagni condivisi solo «nel Cerchio 0». Un cohousing dove più Cerchi 0 distinti condividono cucina, lavanderia e bagni non rispetterebbe quindi lo standard. Come andrebbe scritta la regola per ammettere servizi comuni tra Cerchi 0 diversi senza abbassare le garanzie?",
+  "Edifici fatti solo di monolocali (residence, ex alberghi, studentati): unirli a due a due dimezza il numero degli alloggi, e i lavori toccano impianti, scarichi e a volte strutture. Il Cod. 1, art. 47-bis, cc. 4 e 6 e il Cod. 10, art. 2, c. 2 mettono il riuso prima di ogni nuova costruzione, mentre il Cod. 10, art. 4, c. 4 rende molto difficile costruire su suolo fertile. Dove manca lo spazio, l'obbligo di adeguare entro 36 mesi si può rispettare? Che cosa succede alla scadenza della proroga se l'adeguamento resta impossibile?",
+  "Il Cod. 1, art. 47-ter, c. 4, lett. a consente di restare in una Casa Ponte senza limite di durata quando gli alloggi non bastano, ma l'art. 47-bis, c. 3 esclude dallo standard soltanto le aree di sosta. Le Case Ponte devono rispettare lo standard dell'alloggio adeguato, uno standard proprio o nessuno? Con il 10–15% dell'abitato (Cost. 12.1) quali tipologie edilizie sono adatte? E i 5 m² di edifici comuni a persona della bozza UCR (750 m² per 150 persone) bastano per mense, lavanderia, officine, nido, Magazzino e sala dell'Assemblea (Cod. 1, artt. 14 e 36)?",
+  "Il Cod. 1, art. 47-ter, c. 1 chiede un inventario degli alloggi e della loro adeguatezza, aggiornato ogni anno. Come si verificano superfici, umidità e temperature senza entrare nel Cerchio 0, che è inviolabile (Cost. 5.1, lett. a)? Bastano planimetrie, rilievi catastali e autodichiarazione? L'inventario dovrebbe stare anche nel Catasto del Cod. 10, art. 7, che oggi comprende i materiali recuperabili (art. 8-bis) ma non lo stato degli edifici abitati?",
+  "L'alloggio adeguato del Cod. 1, art. 47-bis, c. 1 non comprende la sicurezza statica e sismica né quella antincendio. Il cedimento strutturale è nella sicurezza generale del Cod. 14, art. 1, c. 2, lett. a, ma il Codice 14 si attiva solo nella Fase 2 (Cod. 16, art. 3, c. 3, lett. b), mentre si assegnano case dalla Fase 0. Il Consiglio Habitat e Territorio (Cod. 10, art. 3, c. 1) non ha competenze strutturali. Dove va collocata la valutazione della vulnerabilità degli edifici, e deve entrare tra i requisiti del c. 1?",
+  "Il Cod. 1, art. 47-bis, c. 1, lett. b chiede una protezione dal freddo e dal caldo «sufficiente a non nuocere alla salute», e il Cod. 8, art. 4, c. 4 fissa 18 °C nei locali abitati, con la riduzione del fabbisogno prima dell'aumento della produzione. La bozza UCR ammortizza i materiali per l'abitare su 80 anni e conta la manutenzione come metà delle ore europee delle costruzioni. Ottant'anni sono realistici per tetti, serramenti e impianti? Quante ore di lavoro richiederebbe portare a 18 °C un condominio degli anni Sessanta senza aumentare la produzione di energia?",
+  "Il Cod. 10, art. 1, c. 2, lett. b conta come consumo solo l'occupazione di suolo fertile. Costruire su aree seminaturali, prati non coltivati o margini boscati non è quindi «consumo», salvo i corridoi ecologici (art. 9, c. 1, lett. c). È una lacuna? La definizione andrebbe estesa ad altri suoli non impermeabilizzati?",
+  "Il Cod. 10, art. 1, c. 2, lett. c e h e art. 5, c. 1 chiedono di compensare il consumo con superfici a «funzionalità fertile equivalente» nel territorio del Cerchio 2, di norma entro un anno. Un suolo urbano de-impermeabilizzato, spesso compattato o contaminato, può raggiungere una fertilità equivalente in un anno? La compensazione dovrebbe precedere l'occupazione e avvenire più vicino al suolo perso? Il ripristino in 24 mesi dopo un cantiere con mezzi pesanti (art. 1, c. 2, lett. e) è realistico, e che cosa dovrebbe prescrivere la STV Rigenerazione (art. 5, c. 3) su accantonamento e ricollocazione del terreno?",
+  "Il Cod. 16, art. 6, c. 4 rende inefficaci, durante la transizione, gli atti sui beni conferiti che eccedono la manutenzione ordinaria e l'uso conforme a una Scheda vigente. Per lo scavo delle discariche il Cod. 10, art. 8-bis, c. 4 dice espressamente che è uso conforme; per gli adeguamenti degli alloggi non c'è una regola simile. La fusione di due monolocali, il cappotto termico o un consolidamento strutturale sono bloccati fino alla chiusura della Fase 2, oppure no? Il testo va chiarito perché non impedisca i 36 mesi del Cod. 1, art. 47-bis, c. 4?"
+ ],
+ "modifiche_recenti": [
+  "Cod. 1, art. 47-bis: è in vigore lo standard dell'alloggio adeguato (superfici, camera separata, bagni, spazio riservato di 9 m², adeguamento entro 36 mesi).",
+  "Cod. 1, art. 47-ter: la pianificazione abitativa ha una procedura, con inventario degli alloggi, assegnazione per bisogno, lista d'attesa anonima e ricorso al Cerchio di Garanzia.",
+  "Cod. 1, art. 47-ter, c. 4, lett. a: chi è senza casa può restare in una Casa Ponte senza limite di durata, anche oltre i trenta giorni della dotazione.",
+  "Cod. 10, artt. 7 e 8-bis: il Catasto contiene l'inventario annuale dei materiali recuperabili da edifici, veicoli e impianti dismessi."
+ ],
+ "testi": [
+  {
+   "file": "codice-01",
+   "articoli": [
+    "14",
+    "36",
+    "47",
+    "47-bis",
+    "47-ter",
+    "48",
+    "49"
+   ]
+  },
+  {
+   "file": "codice-10",
+   "articoli": "tutti"
+  },
+  {
+   "file": "costituzione",
+   "articoli": [
+    "1",
+    "3",
+    "5",
+    "12",
+    "14"
+   ]
+  },
+  {
+   "file": "codice-08",
+   "articoli": [
+    "4"
+   ]
+  },
+  {
+   "file": "codice-11",
+   "articoli": [
+    "6-ter"
+   ]
+  },
+  {
+   "file": "codice-14",
+   "articoli": [
+    "1"
+   ]
+  },
+  {
+   "file": "codice-16",
+   "articoli": [
+    "3",
+    "6"
+   ]
+  }
+ ],
+ "approfondire": [
+  {
+   "titolo": "Codice 1 (alloggio adeguato e assegnazione, artt. 47-bis e 47-ter)",
+   "pagina": "registro/codice-01.html"
+  },
+  {
+   "titolo": "Codice 10 — Habitat e territorio",
+   "pagina": "registro/codice-10.html"
+  },
+  {
+   "titolo": "Bozza dell'Allegato del Paniere (Alloggio)",
+   "pagina": "registro/bozza-paniere.html"
+  },
+  {
+   "titolo": "Bozza dell'Allegato UCR (manufatti e voce Abitare)",
+   "pagina": "registro/bozza-ucr.html"
+  },
+  {
+   "titolo": "Registro dei parametri da verificare",
+   "pagina": "registro/parametri.html"
+  }
+ ],
+ "aggiornata": "2026-11-02",
+ "slug": "architettura-e-urbanistica",
+ "ordine": 9
+}

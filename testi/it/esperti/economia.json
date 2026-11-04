@@ -1,0 +1,178 @@
+{
+ "chiave": "economia",
+ "titolo": "Economia",
+ "a_chi": "economisti, esperti di pianificazione, di economia del lavoro e di contabilità del tempo di lavoro",
+ "perche": "Il progetto promette che il lavoro necessario a tutti (il Contributo di Base, CBO) resti in media sotto le quindici ore a settimana, e che il resto del tempo sia libero. Il fabbisogno di ore è stimato ogni trimestre e ripartito tra le persone abilitate, senza salari e senza prezzi. Il lavoro reso oltre il CBO è riconosciuto con un'unità personale, il CdR, che non è moneta e serve solo a ottenere precedenza su pochi beni non necessari. Si chiede a chi conosce la pianificazione, i bilanci del tempo di lavoro e gli incentivi di verificare se i conti tornano, se la ripartizione regge quando mancano persone con una certa competenza e se il CdR basta a richiamare lavoro volontario nei momenti di bisogno.",
+ "come_funziona": [
+  "Ogni trimestre si rilevano consumi, scorte e bisogni; un sistema informatico propone il fabbisogno di ore, ma decide l'Assemblea. Insieme si pubblica un Bilancio del Lavoro con ore necessarie, ore disponibili e scostamento; il tempo amministrativo è indicato a parte e non supera un decimo del CBO totale, mentre la tutela civica si conta fuori da quel decimo (Cod. 1, art. 2).",
+  "Il CBO non può superare una media di quindici ore settimanali per persona, calcolata sul trimestre. Si deroga solo con il Protocollo di Solidarietà della Costituzione, che la Comunità può chiedere ma non attivare da sola (Cod. 1, art. 3; Cost. 36.2).",
+  "I compiti sono divisi in quattro liste: generici (A), specialistici (B), stagionali o d'emergenza (C), funzioni civiche e documentazione (D). Le ore generiche si dividono tra tutti gli abilitati; quelle specialistiche tra chi ha quella competenza (Cod. 1, artt. 4–6).",
+  "Se le ore necessarie superano quelle disponibili, l'Assemblea riduce le attività differibili a partire dall'ultima priorità dell'art. 32, semplifica la documentazione, ricorre al volontariato, al mutualismo tra Cerchi e al Pool, e solo per ultimo chiede il Protocollo di Solidarietà. Nella gerarchia dell'art. 32 i beni del Paniere indicati come differibili, cioè vestiario e prodotti per l'igiene salvo quelli necessari alla salute, vengono dopo la manutenzione delle infrastrutture (Cod. 1, art. 2, c. 8; art. 32, cc. 1–1-ter; C.1-Annex A, art. 4, c. 1-bis).",
+  "Sono previsti picchi fino a 25 ore per non più di due settimane consecutive, compensati con riposo, ed esenzioni o riduzioni per età, nascita, cura, malattia, gravidanza, lutto o crisi; le ore non prestate sono coperte dalla Comunità senza debito personale (Cod. 1, artt. 6 e 11).",
+  "Il lavoro oltre il CBO, se validato da chi ne fruisce, vale un CdR per ora; i compiti sgradevoli, usuranti o notturni hanno una maggiorazione dal 30 al 100%. Maturano CdR, entro 60 l'anno, anche le attività culturali offerte a tutta la Comunità. I compiti rischiosi che un robot può svolgere in sicurezza non si assegnano alle persone (Cod. 1, artt. 8, 10 e 43; Cod. 7, art. 6-bis, c. 6).",
+  "Il CdR non si trasferisce e non si eredita, ha un tetto (240 in prima applicazione) che vale anche per le maggiorazioni e perde valore dal dodicesimo mese, di un dodicesimo al mese, fino a estinguersi al ventiquattresimo; si usano per primi i più vecchi. Serve solo per beni non necessari scarsi, uso esclusivo di spazi e ospitalità ordinaria, e dà precedenza su non più di metà della disponibilità. Tetto e decrescenza li calibra ogni anno l'Assemblea Generale del Cerchio 2 (Cod. 1, artt. 42–46).",
+  "Il costo dei beni è espresso in UCR, un'unità di conto non monetaria: un'ora di CBO, più materiali, energia e logistica ricondotti a ore. Il metodo di calcolo è comune a tutte le Comunità del Cerchio 2 e lo approva la sua Assemblea Generale; ogni Comunità vi calcola i propri valori. Un CdR a valore pieno, impiegato, vale una UCR (Cod. 3, art. 9; Cod. 1, art. 45, c. 2)."
+ ],
+ "numeri": [
+  {
+   "valore": "media non oltre 15 ore a settimana, su base trimestrale",
+   "dove": "Cod. 1, art. 3, c. 2",
+   "nota": "Registro dei parametri: scelta di redazione, incertezza alta. La bozza dell'Allegato UCR stima tra 9 e 14 ore per una Comunità di 150 persone, manufatti compresi e lavoro di casa nei Nuclei escluso; uno studio indipendente (McElroy e O'Neill, 2025), con il modo di produrre di oggi, porta a circa 27 ore."
+  },
+  {
+   "valore": "picco fino a 25 ore a settimana per non più di due settimane consecutive",
+   "dove": "Cod. 1, art. 6, c. 5",
+   "nota": "Registro dei parametri: scelta di redazione, incertezza media. Da verificare sulla stagionalità agricola: quante settimane di picco servono davvero."
+  },
+  {
+   "valore": "93 contributori equivalenti su 150 persone (62%)",
+   "dove": "Bozza dell'Allegato UCR, § 4.1, su Cod. 1, art. 11",
+   "nota": "Calcolo della bozza con la struttura per età dell'Unione europea, i diciottenni con CBO volontario e un'ipotesi del 5% per disabilità, cura, malattia e riduzioni modulate. Dà circa 72.700 ore l'anno con 52 settimane, 67.100 con 48."
+  },
+  {
+   "valore": "tempo amministrativo non oltre un decimo del CBO totale; tutela civica contata a parte",
+   "dove": "Cod. 1, art. 2, c. 7, lett. e; Cod. 3, art. 12-bis, c. 13",
+   "nota": "Registro dei parametri: incertezza alta. La bozza dell'Allegato UCR usa il tetto come stima prudente (3.720 ore l'anno per 150 persone nello scenario minimo) e stima la tutela civica in 730 ore, senza fonte."
+  },
+  {
+   "valore": "maggiorazione dal 30 al 100%: da 0,3 a 1 CdR per ora dentro il CBO, da 1,3 a 2 fuori",
+   "dove": "Cod. 1, art. 10, cc. 2–3",
+   "nota": "Intervallo fissato dal Codice; la bozza della tabella propone tre classi (30, 50 e 100%), scelte di redazione."
+  },
+  {
+   "valore": "tetto di 240 CdR, maggiorazioni comprese",
+   "dove": "Cod. 1, art. 44, c. 2",
+   "nota": "Registro dei parametri: incertezza media. La simulazione della bozza della tabella CdR mostra che si raggiunge con circa 3,1 ore a settimana oltre il CBO e tiene il 5% più attivo al 17% dei CdR."
+  },
+  {
+   "valore": "valore pieno per 12 mesi, poi un dodicesimo in meno al mese, zero al 24° mese",
+   "dove": "Cod. 1, art. 44, c. 3",
+   "nota": "Registro dei parametri: incertezza media; da rivedere con i dati trimestrali reali. Si impiegano per primi i CdR più vecchi (art. 45, c. 3)."
+  },
+  {
+   "valore": "CdR per attività culturali: non più di 60 l'anno per persona",
+   "dove": "Cod. 1, art. 43, c. 1-bis, lett. e",
+   "nota": "Registro dei parametri: scelta di redazione, incertezza media. La bozza della tabella propone di limitare a 30 l'anno il riconoscimento di utilità."
+  },
+  {
+   "valore": "riesame se più di un quinto dei CdR è in mano a meno di un ventesimo delle persone",
+   "dove": "Cod. 1, art. 46, c. 3",
+   "nota": "Soglia di redazione. Nella simulazione, con il tetto a 300 la soglia è appena superata."
+  },
+  {
+   "valore": "precedenza con CdR su non più di metà della disponibilità",
+   "dove": "Cod. 1, art. 45, c. 4",
+   "nota": "Scelta di redazione: l'altra metà resta in lista d'attesa per chi non usa CdR."
+  },
+  {
+   "valore": "coefficiente ore per euro: 0,020 nell'Unione europea, 0,064 per la Cina, 0,33 per India e Bangladesh",
+   "dove": "Bozza dell'Allegato UCR, § 2, su Cod. 3, art. 9, c. 4, lett. b–c",
+   "nota": "Ricavato dal prodotto per abitante con le ore lavorate per abitante dell'Unione europea; fa parte del metodo e va migliorato con dati di filiera."
+  },
+  {
+   "valore": "in transizione, se il 10% dei contributori lavora nelle filiere essenziali esterne, il lavoro interno sale da 7,7 a 8,5 ore a settimana (scenario minimo)",
+   "dove": "Bozza dell'Allegato UCR, § 4.1, su Cod. 15, art. 19, c. 3, e Cod. 16, art. 16, c. 2, lett. d",
+   "nota": "Ipotesi della bozza, senza fonte."
+  }
+ ],
+ "domande": [
+  "Il limite delle quindici ore (Cod. 1, art. 3, c. 2) è verificato solo con i Bilanci del Lavoro trimestrali (art. 2, cc. 7 e 9). La bozza dell'Allegato UCR arriva a 9–14 ore escludendo il lavoro di casa nei Nuclei, la riparazione degli attrezzi e la formazione obbligatoria, e stima la tutela civica e le funzioni comuni del Bacino solo con un valore minimo. Si chiede di verificare se il metodo della bozza è corretto e quali voci mancanti, con dati misurati, sposterebbero il risultato oltre le quindici ore.",
+  "Ripartizione delle ore specialistiche (Cod. 1, art. 5, c. 4; art. 6, c. 3, lett. a–b; art. 2, c. 8). Il monte ore specialistico si divide tra le sole persone abilitate a quella competenza: in una Comunità di 150 persone con una o due persone abilitate all'assistenza sanitaria, il loro carico può superare da solo le quindici ore. Le misure dell'art. 2, c. 8, riguardano il totale: bastano quando la carenza riguarda una sola competenza? Inoltre l'art. 5, c. 4, consente di assegnare lo specialista anche a compiti generici, e l'art. 6, c. 3, calcola i due monti ore con divisioni separate: lo stesso specialista può comparire in entrambi i denominatori? Se sì, il calcolo sottostima il suo carico reale; quale regola di ripartizione lo evita?",
+  "La banca ore dell'art. 6, c. 5, ammette 25 ore a settimana per due settimane consecutive, con riposo equivalente e media trimestrale entro quindici ore. La bozza UCR nota che la raccolta della frutta secca si concentra in poche settimane. Con una media ordinaria stimata tra 9 e 14 ore, quale margine reale resta per un picco di raccolta di quattro-sei settimane, e il vincolo delle due settimane consecutive è compatibile con i calendari agricoli?",
+  "Ordine dei tagli (Cod. 1, art. 2, c. 8; art. 32, cc. 1, 1-bis e 1-ter; C.1-Annex A, art. 4, c. 1-bis). Se le ore mancano, l'Assemblea riduce prima le attività differibili «a partire dall'ultima priorità» dell'art. 32 e solo dopo ricorre al volontariato, al mutualismo e al Pool (art. 2, c. 8, lett. c). Ora i beni del Paniere indicati come differibili, cioè vestiario e prodotti per l'igiene salvo quelli che il Consiglio Salute indica come necessari alla salute (C.1-Annex A, art. 4, c. 1-bis, lett. e), sono collocati subito sopra l'ultima priorità e dopo la manutenzione delle infrastrutture. In una carenza che dura più trimestri (art. 2, c. 9), questo ordine porta a togliere beni del Paniere prima di chiedere aiuto ad altri Cerchi? La manutenzione della lett. e) è un'attività «differibile» ai fini del c. 8, lett. a)? È l'ordine giusto?",
+  "Il volontariato incentivato con CdR (art. 6, c. 6) è la prima risorsa per i fabbisogni straordinari. Ma i CdR servono solo per tre impieghi (art. 45, c. 1) e danno precedenza su non più di metà della disponibilità (art. 45, c. 4). Ci sono evidenze, da banche del tempo, sistemi a punti o comunità a reddito condiviso, che un riconoscimento così limitato richiami ore di lavoro in misura prevedibile?",
+  "Con il tetto di 240 CdR (art. 44, c. 2) chi lavora più di circa tre ore a settimana oltre il CBO smette di maturare riconoscimento, e oltre il tetto non si attribuiscono nemmeno le maggiorazioni dei compiti sgradevoli. Sono proprio le persone più disponibili a cui si chiederebbe aiuto nei picchi (art. 6, c. 6). Il tetto indebolisce l'incentivo dove serve di più? Che effetto hanno la regola dell'art. 45, c. 3, per cui i CdR impiegati sono annullati e chi li usa torna a maturarne, e i 60 CdR l'anno per le attività culturali (art. 43, c. 1-bis), che occupano una parte del tetto?",
+  "L'art. 45, c. 5, vieta prezzi variabili, aste e scambi di CdR; il costo in CdR è fisso e pari al costo di riproduzione in UCR (art. 45, c. 2; Cod. 3, art. 9). Quando la domanda di un bene non necessario supera di molto l'offerta, che cosa produce una lista d'attesa con quota di precedenza a costo fisso: code lunghe, uso dei CdR solo da parte di chi è vicino al tetto, scambi informali? Quali indicatori andrebbero pubblicati, oltre ai dati trimestrali dell'art. 46, c. 2, per accorgersene?",
+  "La soglia dell'art. 46, c. 3 (un quinto dei CdR in mano a meno di un ventesimo delle persone) è l'unico controllo sulla concentrazione. Con un tetto che comprime la distribuzione, è un indicatore adatto? Ne servirebbe un altro, per esempio sulla quota di persone che non matura mai CdR o sull'uso effettivo della precedenza?",
+  "Il fabbisogno di ore è proposto dai Cerchi di Competenza (art. 2, c. 2, lett. c), che poi lo svolgono, e il controllo sul «gonfiamento delle ore» è affidato ai Cerchi 0 e alla revisione incrociata dei Cerchi di Competenza (art. 12, c. 2). Senza prezzi né bilanci monetari, quali indicatori di produttività o confronti tra Comunità permetterebbero di accorgersi di un fabbisogno sovrastimato o sottostimato?",
+  "Le esenzioni e riduzioni dell'art. 11 (oltre 75 anni esenti, metà del CBO tra 70 e 75, genitori di bambini sotto i tre anni, riduzione modulata per gravidanza, lutto o crisi) e la Banca Ore Solidale (art. 11, c. 2) riducono le ore disponibili e spostano il carico su chi lavora, sempre dentro le quindici ore. La bozza conta 93 contributori su 150. Con quale quota di contributori il conto non torna più? Si chiede una stima di sensibilità alla struttura per età.",
+  "Lavoro esterno contato come CBO (Cod. 15, art. 19, c. 3; Cod. 16, art. 16, c. 2, lett. d). Durante la coesistenza il lavoro dei membri che hanno firmato il patto nelle filiere essenziali (acqua, energia, cibo, sanità) vale come CBO, anche nei Cerchi pilota, ma serve il territorio e non la Comunità. La bozza stima che, se è il 10% dei contributori, il lavoro interno degli altri sale da 7,7 a 8,5 ore nello scenario minimo e da 10,9 a 12,1 nell'altro. Quale quota è realistica in un territorio tipo? Il Codice dovrebbe porre un limite, o indicare come si copre il fabbisogno interno quando quella quota cresce?",
+  "Coefficiente ore per euro e decisioni sui robot (Cod. 3, art. 9, cc. 3–6; Cod. 7, art. 6-bis, cc. 6–7). Per i beni acquistati fuori, la bozza dell'Allegato UCR converte il prezzo in ore con un coefficiente del paese di produzione, ricavato dal prodotto per abitante e supponendo le stesse ore lavorate per abitante dell'Unione europea; il coefficiente fa parte del metodo che l'Assemblea Generale del Cerchio 2 approva. È una stima accettabile, o servono tavole input-output multiregionali dei contenuti di lavoro? Quanto può cambiare il valore in UCR di un bene importato? Lo stesso valore decide se introdurre un robot, perché le ore per costruirlo e mantenerlo si confrontano in UCR con le ore che fa risparmiare: se i componenti di un robot sono prodotti in Cina invece che in Europa, le ore stimate per acquistarli sono circa tre volte tante. Il confronto regge?"
+ ],
+ "modifiche_recenti": [
+  "Cod. 1, art. 44, cc. 2–3, e art. 45, c. 3: il tetto vale anche per le maggiorazioni, il saldo è la somma dei valori attuali, la decrescenza è di un dodicesimo al mese dal dodicesimo mese e si usano per primi i CdR più vecchi.",
+  "Cod. 1, art. 32, cc. 1-bis–1-sexies: i beni del Paniere differibili vengono dopo la manutenzione delle infrastrutture, la cura delle persone fragili passa davanti ai beni deperibili e una sola definizione indica il «Paniere 1-2».",
+  "Cod. 7, art. 6-bis, cc. 6–7; Cod. 1, art. 8, c. 3: nessuna persona è assegnata a un compito rischioso che un robot disponibile svolge in sicurezza; prima di introdurre un robot si confrontano le ore in UCR.",
+  "Cod. 3, art. 9, c. 3: il metodo UCR è comune al Cerchio 2, proposto dal suo Consiglio Contabilità condiviso e approvato dalla sua Assemblea Generale; ogni Comunità approva i propri valori."
+ ],
+ "testi": [
+  {
+   "file": "codice-01",
+   "articoli": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "32",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+   ]
+  },
+  {
+   "file": "codice-01-annex-a",
+   "articoli": [
+    "4"
+   ]
+  },
+  {
+   "file": "codice-03",
+   "articoli": [
+    "9"
+   ]
+  },
+  {
+   "file": "codice-07",
+   "articoli": [
+    "6-bis"
+   ]
+  },
+  {
+   "file": "codice-15",
+   "articoli": [
+    "19"
+   ]
+  },
+  {
+   "file": "codice-16",
+   "articoli": [
+    "16"
+   ]
+  }
+ ],
+ "approfondire": [
+  {
+   "titolo": "Bozza dell'Allegato UCR e primo bilancio delle ore",
+   "pagina": "registro/bozza-ucr.html"
+  },
+  {
+   "titolo": "Bozza della tabella pubblica del CdR e simulazione",
+   "pagina": "registro/bozza-cdr.html"
+  },
+  {
+   "titolo": "Registro dei parametri da verificare",
+   "pagina": "registro/parametri.html"
+  },
+  {
+   "titolo": "Codice 1 completo",
+   "pagina": "registro/codice-01.html"
+  },
+  {
+   "titolo": "Codice 3 — Deliberazione (testo completo)",
+   "pagina": "registro/codice-03.html"
+  }
+ ],
+ "aggiornata": "2026-11-02",
+ "slug": "economia",
+ "ordine": 3
+}

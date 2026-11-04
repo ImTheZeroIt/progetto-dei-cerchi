@@ -1,0 +1,179 @@
+{
+ "chiave": "medicina",
+ "titolo": "Medicina, sanità pubblica e assistenza agli anziani",
+ "a_chi": "medici, infermieri, esperti di sanità pubblica e di psichiatria, geriatri ed esperti di assistenza agli anziani e alle persone non autosufficienti",
+ "perche": "Il progetto vuole garantire a tutti cure e assistenza senza pagamento e senza condizioni, organizzate il più possibile dentro la Comunità. Le competenze sanitarie sono validate con prove pratiche invece che con titoli. Nessun trattamento si può imporre e la coercizione è ammessa solo nella crisi psichica acuta, in casi stretti e con la convalida di un Tribunale. La parte clinica è nel Codice 6; la cura quotidiana delle persone non autosufficienti è nel Codice 12. Si chiede di verificare se questo assetto regge nei casi difficili: emergenze, epidemie, crisi psichiatriche, demenza, carenza di personale.",
+ "come_funziona": [
+  "La salute è un bene comune e non una merce. Ogni trattamento richiede un consenso libero, informato e revocabile; dai sedici anni si decide da soli sulle proprie cure, prima decide chi ha la responsabilità di cura dopo aver ascoltato il minore. Malattia e infortunio non riducono il Paniere. Le cure sono il più vicino possibile alla persona, su tre livelli: IA personale offline con funzione preventiva, curanti della Comunità, centri di alta specializzazione del Cerchio 3 (Cod. 6, artt. 2, 2-ter e 6).",
+  "Ogni Cerchio 1 ha un Consiglio Salute di 3–7 persone sorteggiate per un anno, con competenze L2 o L3 in sanità, cura, agroecologia o sicurezza sul lavoro. Gestisce il Magazzino e il Paniere Salute e organizza la sorveglianza sanitaria. Non ha poteri disciplinari e non può negare il Paniere. Nelle Comunità con meno di 150 aventi diritto è riunito con i Consigli Cura e delle Competenze nel Consiglio delle Persone (Cod. 6, art. 3; Cod. 3, art. 12-bis, c. 12).",
+  "La sorveglianza sanitaria è volontaria. L'idoneità serve solo per le mansioni a rischio medio o alto. L'inidoneità definitiva può dichiararla solo un Collegio esterno, dopo due pareri L3 indipendenti (Cod. 6, art. 5).",
+  "Le misure collettive di sanità pubblica richiedono un dossier, due pareri L3 di altri Cerchi e una delibera dell'Assemblea Generale con procedura d'urgenza. L'elenco delle misure ammesse è chiuso e non comprende mai un trattamento, un test o una vaccinazione senza consenso: chi rifiuta la protezione indicata può essere escluso solo dalle mansioni e dai luoghi a rischio. Isolamento e quarantena durano al massimo 14 giorni, con una proroga di altri 14; se la persona non è d'accordo li dispone il Consiglio Salute e li convalida il Tribunale di Garanzia entro 24 ore. La misura dura al massimo trenta giorni (Cod. 6, art. 2-bis).",
+  "Nella crisi psichica acuta vale un protocollo non coercitivo. La coercizione è ammessa solo con un rischio vitale documentato da due persone L3, di cui almeno una sanitaria, con la persona incapace di consentire e senza alternative meno invasive. Il Tribunale di Garanzia la convalida entro 24 ore, altrimenti cessa. Dura al massimo 72 ore per volta, 14 giorni in tutto e 28 giorni in 90. Il rappresentante non può acconsentire a una misura coercitiva. Durante la transizione non si eseguono misure coercitive interne (Cod. 6, art. 8).",
+  "Farmaci: si punta a produrre o procurare in modo federato i farmaci essenziali non brevettati; la fitoterapia entra solo con una specifica tecnica (STV). Il testamento biologico è vincolante. I dati sanitari restano sotto il controllo della persona: il Consiglio Salute vede di norma solo i giudizi di idoneità. La sperimentazione su un singolo minore o incapace la autorizza il Tribunale di Garanzia (Cod. 6, artt. 8-bis, 10 e 11).",
+  "Cura di comunità (Cod. 12): la fragilità funzionale è distinta dalla diagnosi. Chiunque può segnalarla; le prestazioni essenziali partono subito per un massimo di 72 ore e il Consiglio Cura valuta entro 72 ore. Il piano individuale di una fragilità temporanea si riesamina entro novanta giorni. Per chi non può decidere il Cerchio di Garanzia nomina in urgenza un rappresentante temporaneo; se l'incapacità dura oltre sessanta giorni il Tribunale nomina un rappresentante stabile (Cod. 12, artt. 2, 4 e 7-bis; Cod. 6, art. 2-ter, c. 5).",
+  "Il Cerchio 1 è responsabile in forma collettiva delle ore di cura, ma ognuno partecipa secondo disponibilità, senza imposizioni. È garantito il diritto al domicilio con turni comunitari conteggiati nel CBO. Formazione L1 per la cura di base, L2 per infanzia, grande età e disabilità. In ogni Cerchio 2 c'è almeno una struttura federata con competenze avanzate ogni 3–4 Cerchi 1. In carenza di ore le prestazioni del Paniere Cura dei livelli 1 e 2 stanno con la distribuzione dei beni del Paniere (Cod. 1, art. 32, c. 1, lett. b); le altre attività di cura vengono dopo, ma prima dei beni deperibili (Cod. 12, artt. 5, 6 e 7; Cod. 6, art. 7; Cod. 1, art. 32, cc. 1-ter e 1-quinquies)."
+ ],
+ "numeri": [
+  {
+   "valore": "4,45 tra medici, infermieri e ostetriche ogni 1.000 persone: una Comunità di 150 persone non arriva a un operatore a tempo pieno",
+   "dove": "Bozza dell'Allegato del Paniere, sez. 6 (rif. Cod. 6, artt. 6 e 10)",
+   "nota": "Soglia della strategia OMS sul personale sanitario al 2030, pensata per individuare i paesi con gravi carenze. La bozza ne deduce che la sanità va organizzata nel Bacino e che in Europa ne serviranno di più."
+  },
+  {
+   "valore": "da 1.080 a 6.850 ore l'anno di sanità e da 2.610 a 4.510 ore di assistenza ad anziani e non autosufficienti, per 150 persone",
+   "dove": "Bozza dell'Allegato UCR, par. 4.2",
+   "nota": "Due scenari: minimo (soglia OMS; 5 addetti ogni 100 persone sopra i 65 anni, media OCSE) e livello europeo di oggi. Stime di calibrazione, non adottate."
+  },
+  {
+   "valore": "isolamento e quarantena: non oltre 14 giorni per persona e per esposizione, una proroga di 14 su attestazione di due persone L3; oltre 28 giorni soltanto il Tribunale di Garanzia, per periodi di 14",
+   "dove": "Cod. 6, art. 2-bis, c. 3-quater",
+   "nota": "Registro dei parametri: durata d'uso comune legata all'incubazione; incertezza media, perché l'incubazione cambia da un agente all'altro e il tetto può risultare corto o lungo."
+  },
+  {
+   "valore": "misura collettiva di sanità pubblica: al massimo 30 giorni, rinnovabile solo con nuova delibera",
+   "dove": "Cod. 6, art. 2-bis, c. 4",
+   "nota": "Non compare nel registro dei parametri: scelta di redazione."
+  },
+  {
+   "valore": "misura coercitiva nella crisi psichica: convalida del Tribunale di Garanzia entro 24 ore; 72 ore per volta; non oltre 14 giorni in tutto e 28 giorni in 90; rivalutazione ogni 12 ore e ogni ora durante la contenzione fisica",
+   "dove": "Cod. 6, art. 8, cc. 7 e 10",
+   "nota": "Registro dei parametri: più stretta del TSO italiano (legge 180/1978: 7 giorni, convalida entro 48 ore). Incertezza alta: il tetto di 28 giorni in 90 lascia solo misure volontarie a chi resta in pericolo dopo."
+  },
+  {
+   "valore": "risposta al reperimento federato di una competenza mancante: entro 24 ore per le emergenze vitali, 72 negli altri casi",
+   "dove": "Cod. 15, art. 13, c. 1",
+   "nota": "Non compare nel registro dei parametri: scelta di redazione."
+  },
+  {
+   "valore": "prestazioni provvisorie per 72 ore dalla segnalazione e valutazione funzionale entro 72 ore; riesame della fragilità temporanea entro 90 giorni",
+   "dove": "Cod. 12, art. 4, cc. 3–5",
+   "nota": "Non compaiono nel registro dei parametri. La bozza del Paniere lascia le ore di assistenza «da quantificare con i primi casi reali»."
+  },
+  {
+   "valore": "in ogni Cerchio 2 almeno una struttura federata con competenze avanzate ogni 3–4 Cerchi 1",
+   "dove": "Cod. 12, art. 6, c. 3",
+   "nota": "Registro dei parametri (Bacino, di norma almeno 3 Comunità): incertezza media; da verificare quali servizi un Bacino deve garantire e con quale popolazione minima."
+  },
+  {
+   "valore": "età del consenso alle cure: 16 anni; rappresentante stabile quando l'incapacità dura o si prevede che duri oltre 60 giorni, con riesame almeno ogni 12 mesi",
+   "dove": "Cod. 6, art. 2-ter, cc. 1 e 5; Cod. 12, art. 7-bis, c. 5",
+   "nota": "Registro dei parametri: incertezza media; confronto con le soglie di altri ordinamenti e casi di prova con persone che non possono decidere in modo permanente."
+  },
+  {
+   "valore": "validazione provvisoria per chi esercita già: 6 mesi per le funzioni L3, 12 per le L2",
+   "dove": "Cod. 6, art. 12, c. 2",
+   "nota": "Non compare nel registro dei parametri. Nel periodo provvisorio non si possono validare altri."
+  },
+  {
+   "valore": "Consiglio Salute di 3–7 persone, in carica un anno",
+   "dove": "Cod. 6, art. 3, c. 1",
+   "nota": "Registro dei parametri (Consigli tecnici, di norma 3–5 persone): incertezza media; continuità delle competenze con mandati annuali da verificare."
+  }
+ ],
+ "domande": [
+  "Il Cod. 6, art. 8, c. 4, lett. a), ammette una misura coercitiva solo se il rischio vitale è documentato «al momento» da due persone L3, di cui una sanitaria; nell'attesa sono ammesse solo misure non coercitive (c. 5), e il reperimento federato risponde entro 24 ore nelle emergenze vitali (Cod. 15, art. 13, c. 1). In una Comunità di 150 persone, di notte, una persona agitata che minaccia altri può restare per ore senza due L3. Il regime regge? Il tele-affiancamento (Cod. 6, art. 6, c. 4, lett. c) può valere come documentazione «al momento»? Serve un tempo di risposta molto più breve, o una norma ponte?",
+  "Il Cod. 6, art. 8, c. 10, lett. c), fa cessare la misura coercitiva dopo 14 giorni «anche se il rischio persiste» e non ammette più di 28 giorni in 90; una nuova misura richiede un nuovo episodio, due L3 diverse e un Tribunale in diversa composizione. Ogni proroga di 72 ore richiede una nuova convalida (lett. b), e il Tribunale è un organo sorteggiato. Nella pratica clinica dell'urgenza psichiatrica questi tetti sono sostenibili? Quali casi resterebbero senza tutela, e la sola presenza continuativa di persone formate prevista dalla lett. c) basta a proteggere la persona e gli altri?",
+  "Per una misura di sanità pubblica il Cod. 6, art. 2-bis, cc. 2–3, chiede un dossier, due pareri L3 di altri Cerchi e una delibera dell'Assemblea Generale con procedura d'urgenza. In un focolaio di morbillo i primi giorni contano. In quanto tempo, realisticamente, si arriva a una delibera? L'articolo non prevede misure provvisorie prima della delibera: che cosa si può fare nel frattempo? E poiché le vaccinazioni restano volontarie anche per i minori (art. 2-ter, c. 4) e chi non è protetto può essere escluso solo dai luoghi a rischio e solo durante la misura (art. 2-bis, c. 3-ter), come si proteggono i bambini che non possono essere vaccinati?",
+  "Il Cod. 6, art. 2-bis, c. 3-quater, regola l'isolamento delle persone contagiose solo dentro una misura collettiva deliberata dall'Assemblea Generale (c. 3-bis, lett. d) e «non oltre la durata della misura collettiva» (lett. b), che dura al massimo trenta giorni (c. 4). L'isolamento non si fa rispettare con la forza, salvo il Corpo di Tutela Civica nei limiti del Cod. 14 (lett. e). Per una sola persona con una tubercolosi attiva che rifiuta cure e isolamento, e resta contagiosa per mesi, serve ogni volta una delibera collettiva? Il regime è adeguato, o serve una norma per il caso singolo, e con quali garanzie?",
+  "Il Cod. 6, art. 11, c. 2, dà accesso ai dati sanitari alla persona, alla sua persona di fiducia, al Consiglio Salute (di norma solo per l'idoneità, e senza consenso solo per eseguire una misura collettiva dell'art. 2-bis) e al Cerchio di Garanzia. Il curante non compare. Con quale base un medico o un infermiere, anche di un altro Cerchio (art. 6, c. 2), conosce storia clinica, allergie e terapie in corso? E in emergenza, con la persona incosciente e la persona di fiducia irraggiungibile? Lo stesso vale per il testamento biologico custodito nel Nodo personale (art. 8-bis, c. 1).",
+  "Per il Cod. 6, art. 3, c. 1, il Consiglio Salute può essere composto da persone con competenze di cura, agroecologiche o di sicurezza sul lavoro, senza nessun clinico; nelle Comunità con meno di 150 aventi diritto è riunito con i Consigli Cura e delle Competenze (Cod. 3, art. 12-bis, c. 12, lett. b). Eppure propone le misure di sanità pubblica (Cod. 6, art. 2-bis, c. 2), dispone l'isolamento e la quarantena di chi non è d'accordo (c. 3-quater, lett. c) e gestisce il Paniere Salute (art. 10). Serve una quota minima di competenze cliniche? Che cosa succede dove non c'è?",
+  "Il Cod. 6, art. 12, c. 2, dà a chi esercita già una funzione sanitaria L3 una validazione provvisoria di sei mesi, durante la quale non può validare altri. Se nella Comunità o nel Bacino nessuno ha una validazione definitiva, chi valida medici e infermieri entro sei mesi? Per professioni già regolate e verificate dallo Stato, il rinvio al Cod. 5 (dove i titoli valgono solo come documentazione) è proporzionato?",
+  "Il Cod. 6, art. 10, c. 2, punta all'autonomia nella produzione di farmaci essenziali non brevettati. È realistico ottenere, in una federazione di Comunità, controlli di qualità paragonabili a quelli richiesti oggi (purezza, dosaggio, stabilità)? Quali farmaci della lista essenziale si prestano e quali no? Per la fitoterapia il c. 3, lett. e), chiede di indicare «le evidenze disponibili e i relativi limiti»: basta, o serve una soglia minima di evidenza per entrare nel Paniere Salute?",
+  "Il Cod. 1, art. 32, c. 1-quinquies, lett. c), mette tutte le prestazioni del Paniere Cura dell'art. 4, c. 1, del Cod. 12 nei «livelli 1 e 2», che stanno con la distribuzione dei beni del Paniere (art. 32, c. 1, lett. b; Cod. 6, art. 7, c. 2). Ma la scala interna del Cod. 12, art. 4, c. 7, mette la convalescenza e il periodo dopo il parto al livello 3, e l'art. 2, c. 4, taglia per primi i livelli più bassi. Dopo una dimissione o un parto, l'igiene assistita e l'aiuto nei pasti sono garantiti come livello 1–2 o possono essere differiti? E dentro la lett. b), se le ore non bastano, viene prima l'igiene di una persona allettata o la consegna del Paniere a chi è autonomo, visto che l'art. 32, c. 2, esclude automatismi?",
+  "Il Cod. 12, art. 5, cc. 2 e 6, affida l'assistenza a domicilio a turni comunitari, con partecipazione «secondo disponibilità» e senza imposizioni. Una persona con demenza ha bisogno di continuità delle persone, presenza notturna e competenze (L2, art. 7, c. 4, lett. b). Turni volontari e a rotazione possono garantirla? Chi copre le ore quando le disponibilità non bastano, se l'art. 5, c. 2, esclude le imposizioni?",
+  "Il Cod. 12, art. 4, c. 4, affida la valutazione funzionale al Consiglio Cura, entro 72 ore, senza un sanitario salvo «profili di rischio clinico». Nell'anziano un peggioramento improvviso dell'autonomia (cadute, confusione) è spesso il segno di una malattia acuta: infezione, delirium, effetto di un farmaco. C'è il rischio di trattare come bisogno di assistenza un problema clinico? Quali segnali dovrebbero rendere obbligatorio il coinvolgimento del Consiglio Salute?",
+  "Gli articoli di questa scheda non disciplinano l'emergenza-urgenza: mezzi di soccorso, centrale operativa, tempi di arrivo per infarto, ictus, trauma grave. Il Cod. 6 prevede la rete tra Cerchi (art. 6, c. 4) e i centri di alta specializzazione del Cerchio 3 (art. 6, c. 6); nel resto dei testi compaiono solo il «Soccorso Sanitario e Veterinario di Comunità» del Corpo di Tutela Civica, fatto di volontari sorteggiati a turni di non più di novanta giorni (Cod. 14, art. 8-bis, cc. 2–4), e l'ospedale di distretto del Cerchio 2 (Cost. 5.1, lett. c). Questo basta per le patologie in cui conta il tempo? Che cosa dovrebbe prevedere una norma specifica?"
+ ],
+ "modifiche_recenti": [
+  "Cod. 6, art. 2-bis, cc. 3-bis–3-quinquies: nessun trattamento, test o vaccinazione senza consenso; elenco chiuso delle misure collettive; isolamento e quarantena al massimo 14 giorni più 14, con la convalida del Tribunale di Garanzia entro 24 ore se la persona non è d'accordo.",
+  "Cod. 6, art. 8, cc. 7 e 10: la misura coercitiva nella crisi psichica la convalida il Tribunale di Garanzia entro 24 ore e non più l'Assemblea; 72 ore per volta, 14 giorni in tutto, 28 giorni in 90.",
+  "Cod. 6, art. 2-ter: consenso alle cure da soli dai 16 anni; vaccinazioni dei minori mai obbligatorie; rappresentante stabile per l'incapacità oltre 60 giorni; chi decide per un minore non può acconsentire a una misura coercitiva.",
+  "Cod. 1, art. 32, cc. 1-ter e 1-quinquies; Cod. 6, art. 7, cc. 2–3: il Paniere Cura dei livelli 1 e 2 sta con la distribuzione dei beni del Paniere; le altre attività di cura vengono prima dei beni deperibili."
+ ],
+ "testi": [
+  {
+   "file": "codice-06",
+   "articoli": [
+    "2",
+    "2-bis",
+    "2-ter",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "8-bis",
+    "10",
+    "11",
+    "12"
+   ]
+  },
+  {
+   "file": "codice-12",
+   "articoli": [
+    "1",
+    "2",
+    "4",
+    "5",
+    "6",
+    "7",
+    "7-bis"
+   ]
+  },
+  {
+   "file": "codice-01",
+   "articoli": [
+    "32"
+   ]
+  },
+  {
+   "file": "codice-03",
+   "articoli": [
+    "12-bis"
+   ]
+  },
+  {
+   "file": "codice-14",
+   "articoli": [
+    "8-bis"
+   ]
+  },
+  {
+   "file": "codice-15",
+   "articoli": [
+    "13"
+   ]
+  },
+  {
+   "file": "costituzione",
+   "articoli": [
+    "5"
+   ]
+  }
+ ],
+ "approfondire": [
+  {
+   "titolo": "Codice 6 — Salute",
+   "pagina": "registro/codice-06.html"
+  },
+  {
+   "titolo": "Codice 12 — Cura di comunità",
+   "pagina": "registro/codice-12.html"
+  },
+  {
+   "titolo": "Bozza dell'Allegato del Paniere: Paniere Salute e Paniere Cura",
+   "pagina": "registro/bozza-paniere.html"
+  },
+  {
+   "titolo": "Bozza dell'Allegato UCR: ore di sanità e di assistenza",
+   "pagina": "registro/bozza-ucr.html"
+  },
+  {
+   "titolo": "Registro dei parametri da verificare",
+   "pagina": "registro/parametri.html"
+  }
+ ],
+ "aggiornata": "2026-11-02",
+ "slug": "medicina-e-sanita",
+ "ordine": 7
+}

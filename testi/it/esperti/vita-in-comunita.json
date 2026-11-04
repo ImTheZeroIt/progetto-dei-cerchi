@@ -1,0 +1,177 @@
+{
+ "chiave": "comunita",
+ "titolo": "Vita in comunità",
+ "a_chi": "persone che vivono o hanno vissuto in comunità intenzionali, ecovillaggi, cohousing, comuni e cooperative di lavoro, e chi le ha facilitate",
+ "perche": "Il primo passo del progetto è un Cerchio pilota di trenta-cinquecento persone che vive insieme, decide in assemblea, ruota gli incarichi e affronta i conflitti con una procedura riparativa. Le regole sono state scritte a tavolino e non sono mai state provate. Chi ha vissuto in una comunità sa quanto tempo costano le riunioni, che cosa succede quando gli incarichi ruotano, come nascono e si risolvono i conflitti e perché molti gruppi si sciolgono nei primi anni. Si chiede di leggere le regole del primo anno con questa esperienza e di dire dove non reggerebbero nella vita reale.",
+ "come_funziona": [
+  "Per partire servono almeno trenta persone che aderiscono in modo individuale e informato, un ente senza scopo di lucro, un luogo, un censimento di suolo, competenze, attrezzature, animali presenti e bisogni, un Magazzino e una Cassa comune. Nessuno deve lasciare il lavoro esterno o conferire beni (All. C al Cod. 16, art. 2).",
+  "Decide l'Assemblea di tutti, di norma una volta al mese, senza deleghe. I Consigli tecnici sono riuniti in tre Consigli d'area da 3 a 7 persone; sopra i centocinquanta aventi diritto di voto non si accorpano, salvo deliberazione. A parte ci sono il Consiglio Contabilità, il Cerchio di Garanzia, il Consiglio Transizione e, se nel Cerchio vivono animali, il Consiglio Biodiversità. Tutti gli incarichi sono sorteggiati tra chi è maggiorenne, idoneo e disponibile, con diritto di rifiuto; dai 16 anni si partecipa in affiancamento. Coordinamento, facilitazione e garanzia durano al massimo novanta giorni (All. C, artt. 1 e 3–4; Cod. 16, art. 3, c. 1, lett. f; Cod. 3, art. 12-bis, cc. 4, 8 e 12).",
+  "Si decide per consenso: una proposta è pubblicata per almeno 72 ore e può essere bloccata solo da un'obiezione «valida», che indica un rischio per la salute o la sicurezza, un limite ecologico, un'impossibilità tecnica, la violazione di una norma, un conflitto di interessi o un vizio di procedura. La validità la decidono il facilitatore e il Consiglio Qualità. Se le obiezioni restano dopo due sessioni facilitate e una mediazione, si vota. Le spese sopra una soglia che cresce con il numero delle persone vanno all'Assemblea (Cod. 3, artt. 4, 7 e 13).",
+  "Per le decisioni più importanti serve la partecipazione di un terzo degli aventi diritto, astenuti compresi; se manca due volte, la proposta decade. Le maggioranze si contano solo su chi vota sì o no. Il 10% dei votanti può sospendere una decisione con un'obiezione di coscienza o ecologica entro 72 ore, con firme anonime (Cod. 3, artt. 12, 13-bis).",
+  "Il lavoro comune (CBO) non supera una media di quindici ore settimanali e i compiti sgradevoli ruotano. Se le ore non bastano si tagliano le attività differibili, non si alza il limite, salvo il Protocollo di Solidarietà. Il tempo per Consigli, garanzia, facilitazione, contabilità e documentazione non supera un decimo del CBO totale (All. C, artt. 3, c. 5, e 5; Cod. 3, art. 12-bis, c. 13).",
+  "I conflitti passano prima per una procedura riparativa volontaria: segnalazione, esame entro sette giorni, ascolti separati, conferenza con un facilitatore del Cerchio di Garanzia, accordo scritto, verifica. Il termine ordinario è di trenta giorni. Nessuno è obbligato a incontrare l'altra parte, e rifiutare non vale come ammissione (Cod. 4, artt. 2, 5–8; All. C, art. 7).",
+  "Le misure riparative vanno dalla restituzione alle scuse concordate, all'affiancamento, alla limitazione temporanea di un ruolo. Non possono essere afflittive né toccare il Paniere. Chi rifiuta il CBO senza giustificazione segue un percorso graduale (Assemblea di Chiarimento, poi Piano di Trasformazione) che, se il rifiuto continua, può portare alla perdita dello status di membro; durante la transizione questo vuol dire l'esclusione dal Cerchio pilota. Non si applicano misure coercitive, e i reati restano alle autorità pubbliche (Cost. 7.3–7.3-bis; Cod. 4, artt. 11–13, 29 e 37; All. C, art. 7).",
+  "I redditi esterni restano alle persone e concorrono alla Cassa in proporzione; i beni conferiti possono essere definitivi o in uso temporaneo. Dopo dodici mesi l'Assemblea esamina la verifica delle soglie fatta dal Consiglio Transizione e pubblica un rapporto su che cosa ha funzionato e che cosa va semplificato (All. C, artt. 8–10)."
+ ],
+ "numeri": [
+  {
+   "valore": "Cerchio pilota da 30 a 500 persone; almeno 30 per partire; sopra 150 aventi diritto di voto non si accorpano i Consigli",
+   "dove": "All. C al Cod. 16, artt. 1–2",
+   "nota": "Registro dei parametri: incertezza bassa, origine Cost. 5.1 b. La soglia di 150 per le «Comunità piccole» non ha un fondamento solido."
+  },
+  {
+   "valore": "Assemblea di norma almeno una volta al mese",
+   "dove": "All. C, art. 4, c. 4",
+   "nota": "Registro dei parametri: incertezza bassa, da verificare con l'esperienza del primo anno."
+  },
+  {
+   "valore": "CBO in media non oltre 15 ore a settimana",
+   "dove": "All. C, art. 5, c. 2 (Cod. 1, art. 3)",
+   "nota": "Registro dei parametri: incertezza alta. La bozza dell'Allegato UCR stima 9–14 ore; uno studio indipendente, con il modo di produrre di oggi, circa 27."
+  },
+  {
+   "valore": "tempo amministrativo non oltre un decimo del CBO totale",
+   "dove": "All. C, art. 3, c. 5; Cod. 3, art. 12-bis, c. 13",
+   "nota": "Registro dei parametri: incertezza alta. Con 30 adulti a 15 ore fanno circa 45 ore a settimana per tutti gli organi."
+  },
+  {
+   "valore": "incarichi di coordinamento, facilitazione e garanzia: massimo 90 giorni consecutivi, poi 12 mesi di pausa",
+   "dove": "All. C, art. 3, c. 4; Cod. 4, art. 4, c. 4",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "Cerchio di Garanzia da 3 a 7 persone, con 40 ore di formazione iniziale e 40 l'anno",
+   "dove": "Cod. 4, art. 4, cc. 4–5",
+   "nota": "Registro dei parametri: incertezza media; carico dei ricorsi e tempo per imparare la funzione."
+  },
+  {
+   "valore": "Assemblea di Chiarimento di 7 persone sorteggiate per ogni caso tra i membri estranei ai fatti",
+   "dove": "Cod. 4, art. 27, c. 1",
+   "nota": "Registro dei parametri: incertezza media, da provare su casi."
+  },
+  {
+   "valore": "pubblicazione delle proposte per almeno 72 ore; convocazione dell'Assemblea con 7 giorni di preavviso",
+   "dove": "Cod. 3, art. 4, c. 2, e art. 13, c. 1",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "quorum di un terzo degli aventi diritto per le decisioni assembleari qualificate, astenuti compresi",
+   "dove": "Cod. 3, art. 12, cc. 3 e 5",
+   "nota": "Registro dei parametri: nelle assemblee del Vermont partecipa in media circa il 20%."
+  },
+  {
+   "valore": "soglia bassa 100 UCR più 1 per persona, soglia alta 500 UCR più 5 per persona: in una Comunità di 30 persone 130 e 650 UCR",
+   "dove": "Cod. 3, art. 7, c. 3-bis",
+   "nota": "Registro dei parametri: incertezza alta; in una Comunità di 150 persone le soglie sono lo 0,7% e il 3,4% del lavoro annuo necessario."
+  },
+  {
+   "valore": "procedura riparativa conclusa di norma in 30 giorni; esame preliminare entro 7",
+   "dove": "Cod. 4, art. 5, c. 2, e art. 6, c. 2",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "rifiuto del CBO: almeno 14 giorni di mediazione prima di sospendere il CdR; illecito di Grado 3 dopo 60 giorni; avviso di 30 giorni prima del Tribunale",
+   "dove": "Cost. 7.3–7.3-bis; Cod. 4, art. 29, cc. 4-bis e 6-bis",
+   "nota": "Registro dei parametri: incertezza media per i 14 giorni, alta per la cessazione dello status."
+  }
+ ],
+ "domande": [
+  "Rotazione in una Comunità di trenta persone (Cod. 4, art. 4, cc. 4–5; All. C, artt. 1 e 3; Cod. 3, art. 12-bis, cc. 4, 8 e 12; Cod. 16, art. 3, c. 1, lett. f). Il Cerchio di Garanzia ha almeno tre persone; ciascuna resta al massimo novanta giorni e poi aspetta dodici mesi. Per coprire un anno servono circa dodici turni e, a regime, almeno quindici persone diverse con quaranta ore di formazione. A questo si aggiungono i tre Consigli d'area (almeno nove posti, che non si possono cumulare con il Cerchio di Garanzia), il Consiglio Contabilità, il Consiglio Transizione e, se ci sono animali, il Consiglio Biodiversità; dal 1 novembre 2026 si sorteggiano solo maggiorenni. Nella vostra esperienza, quante persone su trenta sono davvero disponibili e capaci per questi ruoli? Che cosa succede quando non bastano?",
+  "Tempo delle riunioni (All. C, art. 3, c. 5; Cod. 3, art. 12-bis, c. 13). Con trenta adulti a quindici ore, un decimo del CBO fa circa quarantacinque ore a settimana per tutti i Consigli, la garanzia, la facilitazione, la contabilità e i verbali. Il testo non dice se la partecipazione all'Assemblea sia compresa. Quante ore a settimana richiedeva, nella vostra comunità, l'organizzazione interna, e quante ne assorbiva il primo anno?",
+  "Quindici ore nel primo anno (All. C, art. 5, cc. 2–3). Il primo anno di un gruppo di solito richiede molto lavoro: sistemare edifici, avviare orti, costruire procedure. Il testo vieta di superare la media di quindici ore, salvo il Protocollo di Solidarietà, e chiede di tagliare le attività differibili. Nella vostra esperienza è realistico, o il limite porterebbe a rimandare lavori che poi costano di più? Chi lavorava fuori quante ore riusciva a dare alla comunità?",
+  "Obiezioni «valide» (Cod. 3, art. 4, cc. 1, 3 e 5). Un'obiezione blocca solo se rientra in un elenco: salute, sicurezza, qualità, limiti ecologici, impossibilità tecnica, norme, dati, conflitto di interessi, procedura. Non vi rientrano, per esempio, i valori, la convivenza o il «non me la sento». Nella vostra esperienza (per esempio nella sociocrazia o nel consenso classico), un elenco chiuso aiuta a decidere o spinge a travestire da «rischio» un'obiezione di valori? Che effetto ha che la validità la decida il facilitatore con il Consiglio Qualità?",
+  "Tempi di una decisione contestata (Cod. 3, art. 4, c. 2; art. 13, cc. 1, 1-bis, 1-ter e 3; art. 13-bis, c. 3; All. C, art. 4, c. 4). Una proposta contestata richiede pubblicazione per 72 ore, risposta del proponente, versione modificata, mediazione e due sessioni facilitate; dal 3 novembre 2026 tutto deve chiudersi entro 45 giorni (prorogabili di 30), e le sessioni si possono convocare anche fuori dall'Assemblea mensile. Per i casi urgenti c'è una via di 48 ore con decisione provvisoria per 30 giorni. Nella vostra esperienza, 45 giorni sono realistici per un gruppo di trenta persone che lavora anche fuori, o le sessioni straordinarie finiscono per essere frequentate da pochi? Il criterio dell'urgenza (danno concreto a persone, Paniere, servizi essenziali o beni deperibili) è abbastanza chiaro, o rischia di essere usato per saltare il confronto?",
+  "Quorum e astensione (Cod. 3, art. 12, cc. 3, 5 e 6). Per le decisioni più importanti deve partecipare un terzo degli aventi diritto; se manca due volte, la proposta decade. Dal 2 novembre 2026 chi si astiene conta per il quorum ma non per la maggioranza. Nelle vostre assemblee qual era la partecipazione abituale, e come cambiava dopo i primi due anni? Le persone si astenevano per non bloccare, o per non prendere posizione davanti agli altri? Il voto tramite rete aiuta o svuota l'assemblea?",
+  "Conflitti quotidiani (Cod. 4, artt. 3, 5 e 6; All. C, art. 7, c. 1). La procedura parte da una segnalazione registrata, apre un fascicolo e ha fasi e termini. Il testo non prevede un livello più informale per gli attriti di ogni giorno (pulizie, rumore, figli, fine di una relazione). Nella vostra esperienza quali conflitti vanno trattati in modo formale e quali no? Una procedura così scoraggia le segnalazioni o le moltiplica?",
+  "Facilitatore che vive con le parti (Cod. 4, art. 4, c. 4; art. 7, cc. 2 e 7; art. 15). Il facilitatore è designato dal Cerchio di Garanzia, sorteggiato tra i membri della stessa Comunità, che convivono con le parti. L'art. 15 impone l'astensione a chi ha «un rapporto diretto con una parte» e, se il conflitto riguarda l'intero Cerchio di Garanzia, la sostituzione con persone formate di altri Cerchi. In un gruppo di trenta persone quasi tutti hanno rapporti diretti con tutti: l'eccezione rischia di diventare la regola? Conviene prevedere facilitatori esterni fin dal primo anno? Quanto conta, nella vostra esperienza, un facilitatore esterno?",
+  "Riservatezza degli accordi (Cod. 4, art. 8, c. 3; art. 14, cc. 1 e 3). L'accordo riparativo è registrato al livello «aventi diritto», cioè leggibile da tutti i membri, salvo diversa classificazione motivata. È vietata la pubblicazione a fini di gogna. In una piccola comunità, sapere che tutti potranno leggere l'accordo frena le persone dal partecipare o, al contrario, rende gli impegni più seri?",
+  "Chi non partecipa e chi non contribuisce (Cod. 4, art. 5, c. 3; art. 13, cc. 2 e 6; art. 27, c. 1; art. 29, cc. 2, 4-bis e 6-bis; Cost. 7.3–7.3-bis). Il rifiuto della mediazione non è un'ammissione, ma rientra tra gli elementi da valutare prima di limitare il ruolo di una persona. Per chi non fa il proprio CBO il percorso è scritto: segnalazione, Assemblea di Chiarimento di sette persone estranee ai fatti, mediazione, sospensione del CdR, dopo sessanta giorni un Piano di Trasformazione fino a dodici mesi, rinnovabile, e solo alla fine la perdita dello status, che durante la transizione è l'esclusione dal Cerchio pilota (art. 29, c. 6-bis, ultimo periodo). Nella vostra esperienza, come si affronta chi non accetta nessuna mediazione o smette di contribuire? Un percorso che può durare più di un anno e richiede sette persone estranee ai fatti in un gruppo di trenta regge, o logora il gruppo prima di arrivare a una decisione?",
+  "Soldi e disuguaglianze (All. C, art. 2, c. 2, e art. 8, cc. 2–3). I redditi esterni restano alle persone e chi li ha versa alla Cassa una quota proporzionale; dentro, i beni del Paniere sono uguali per tutti. Nelle comunità con condivisione parziale del reddito che conoscete, la convivenza tra chi ha un buon stipendio esterno e chi lavora solo per la comunità ha creato tensioni? Quale regola le ha attenuate?",
+  "Beni conferiti e uscite (All. C, art. 9, c. 1; art. 2, c. 3). Chi entra può conferire beni in modo definitivo o in uso temporaneo. Nella vostra esperienza, quali conflitti sono nati quando qualcuno se ne andava dopo aver portato denaro, terra o attrezzi, o dopo anni di lavoro? Che cosa avreste voluto fosse scritto prima?"
+ ],
+ "modifiche_recenti": [
+  "All. C al Cod. 16, art. 1, c. 1: la Carta del primo anno vale per Cerchi pilota da 30 a 500 persone; sopra 150 aventi diritto di voto i Consigli non si accorpano, salvo deliberazione dell'Assemblea.",
+  "Cost. 35.4; Cod. 3, art. 12, c. 3, lett. d: chi si astiene conta per il quorum ma non tra i votanti, quindi non pesa sulle maggioranze.",
+  "Cod. 3, art. 7, c. 3-bis: le soglie di spesa crescono con il numero delle persone; nelle Comunità piccole più decisioni salgono al Consiglio Qualità o all'Assemblea.",
+  "Cost. 7.3-bis; Cod. 4, art. 29, cc. 4-bis e 6-bis: il rifiuto persistente del CBO ha un percorso scritto che può portare alla perdita dello status di membro; durante la transizione, all'esclusione dal Cerchio pilota.",
+  "Cod. 3, art. 13, cc. 1-bis e 1-ter: la procedura del consenso si chiude entro 45 giorni; per i casi urgenti c'è una via di 48 ore con decisione provvisoria per 30 giorni."
+ ],
+ "testi": [
+  {
+   "file": "codice-16-allegato-c",
+   "articoli": "tutti"
+  },
+  {
+   "file": "codice-03",
+   "articoli": [
+    "2",
+    "4",
+    "7",
+    "12",
+    "12-bis",
+    "13",
+    "13-bis"
+   ]
+  },
+  {
+   "file": "codice-04",
+   "articoli": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "27",
+    "29",
+    "37"
+   ]
+  },
+  {
+   "file": "costituzione",
+   "articoli": [
+    "7"
+   ]
+  },
+  {
+   "file": "codice-16",
+   "articoli": [
+    "3"
+   ]
+  }
+ ],
+ "approfondire": [
+  {
+   "titolo": "Allegato C al Codice 16 — Carta Operativa del Primo Anno",
+   "pagina": "registro/codice-16-allegato-c.html"
+  },
+  {
+   "titolo": "Codice 3 — Deliberazione (testo completo)",
+   "pagina": "registro/codice-03.html"
+  },
+  {
+   "titolo": "Codice 4 — Giustizia riparativa (testo completo)",
+   "pagina": "registro/codice-04.html"
+  },
+  {
+   "titolo": "Registro dei parametri da verificare",
+   "pagina": "registro/parametri.html"
+  },
+  {
+   "titolo": "Bozza dell'Allegato UCR e primo bilancio delle ore",
+   "pagina": "registro/bozza-ucr.html"
+  }
+ ],
+ "aggiornata": "2026-11-02",
+ "slug": "vita-in-comunita",
+ "ordine": 1
+}

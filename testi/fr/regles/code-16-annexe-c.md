@@ -1,7 +1,7 @@
 ---
 titolo: "ANNEXE TECHNIQUE C AU CODE 16 — CHARTE OPÉRATIONNELLE DE LA PREMIÈRE ANNÉE"
 breve: "Annexe C au Code 16 — Charte opérationnelle de la première année"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "allegati"
 ordine: 16.3
 id: "codice-16-allegato-c"
@@ -13,7 +13,7 @@ Annexe technique adoptée en application de l’article 19 du Code 3 et visée a
 
 ## Art. 1 — À qui elle sert et ce qu’elle contient
 
-1.  La présente Charte est destinée à un Cercle pilote composé de trente à cinq cents personnes pendant la Phase 0 prévue à l’article 3 du Code 16 ; au-delà de cent cinquante personnes, le regroupement des Conseils de l’article 3, alinéa 2, ne s’applique pas, sauf délibération de l’Assemblée.
+1.  La présente Charte est destinée à un Cercle pilote composé de trente à cinq cents personnes pendant la Phase 0 prévue à l’article 3 du Code 16 ; au-delà de cent cinquante personnes ayant le droit de vote, le regroupement des Conseils de l’article 3, alinéa 2, ne s’applique pas, sauf délibération de l’Assemblée.
 2.  Elle n’indique que ce qui est nécessaire pour commencer. Tout ce qui n’y est pas indiqué s’active par phases, lorsque les seuils correspondants sont atteints, conformément aux articles 3 et 4 du Code 16.
 3.  Chaque règle de la Charte renvoie à la disposition dont elle découle. La Charte ne peut pas être utilisée pour imposer des comportements non prévus par les Codes.
 

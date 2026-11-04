@@ -1,7 +1,7 @@
 ---
 titolo: "ALLEGATO TECNICO B AL CODICE 16 — MANUALE OPERATIVO DI DISINSERIMENTO E FEDERAZIONE"
 breve: "Allegato B al Codice 16 — Manuale operativo di disinserimento e federazione"
-versione: "V1.7"
+versione: "V1.8"
 gruppo: "allegati"
 ordine: 16.2
 id: "codice-16-allegato-b"
@@ -169,7 +169,7 @@ Allegato tecnico adottato ai sensi dell’articolo 19 del Codice 3. Il presente 
 
     a) l’aggregazione di almeno tre Bacini;
 
-    b) la prima versione del Registro Dipendenze secondo il Codice 15, con un piano a termine certo per ciascuna dipendenza critica;
+    b) la prima versione del Registro Dipendenze secondo il Codice 15, con un piano a termine certo per ciascuna dipendenza critica, o un Piano di Garanzia per quelle strutturali ai sensi dell’articolo 12, comma 5-ter, del Codice 15;
 
     c) audit L3 sull’autonomia ecologica, di sicurezza e alimentare;
 

@@ -6,7 +6,7 @@ gruppo: "codici"
 ordine: 8
 id: "codice-08"
 slug: "codice-08"
-allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.11; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.12; Codice 16 V1.10."
+allineamento: "Costituzione V.39; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.13; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.13; Codice 16 V1.11."
 ---
 
 ## Art. 1 — Oggetto e natura giuridica

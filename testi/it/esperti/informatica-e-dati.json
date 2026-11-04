@@ -1,0 +1,166 @@
+{
+ "chiave": "informatica",
+ "titolo": "Informatica, sicurezza informatica, protezione dei dati e IA",
+ "a_chi": "informatici, amministratori di sistemi, esperti di sicurezza informatica, di protezione dei dati, di voto elettronico e di intelligenza artificiale",
+ "perche": "Il progetto affida a una rete federata di server comunitari la memoria comune: i registri del lavoro e dei beni, il sapere, le decisioni e ora anche il voto. Usa sistemi di IA locali che propongono ma non decidono, e dà a ogni persona un computer personale offline con una propria IA. Tutto questo deve funzionare senza cloud proprietari, senza sorveglianza e con poche persone competenti per Comunità. Si chiede di verificare se le regole si possono realizzare con le tecnologie aperte di oggi, quanto lavoro richiedono e dove lasciano buchi di sicurezza o di protezione dei dati.",
+ "come_funziona": [
+  "Ogni Cerchio 1 (la Comunità di Base) gestisce almeno un nodo server. La Rete Federata usa protocolli aperti e non ha un nodo centrale. I dati critici sono replicati su almeno tre nodi di Cerchi diversi, se la riservatezza lo consente. L'accesso alla Rete fa parte del Paniere: un punto di accesso per alloggio, un dispositivo personale dai dodici anni su richiesta, un punto assistito per Comunità (Cod. 7, art. 3, cc. 1, 4 e 9).",
+  "Un Consiglio Rete di 3–5 persone sorteggiate, in carica un anno, gestisce nodi, aggiornamenti, copie di sicurezza e misure di sicurezza. Non può moderare contenuti politici; può intervenire solo contro un rischio tecnico immediato. I nodi e le IA dei Cerchi 2 e 3 li gestisce un Consiglio Rete condiviso; ogni Comunità conserva l'override manuale (Cod. 7, art. 4, cc. 1–7).",
+  "L'IA Gestionale propone e non decide. Svolge le funzioni di supporto previste dai testi (sapere, abbinamento domanda-offerta, carenze, bozze di schede e sintesi), con un elenco chiuso di divieti: idoneità, validazioni, sanzioni, allocazioni, sorveglianza. Usa modelli open source con pesi accessibili ed eseguibili in locale. Ogni proposta è etichettata, con fonte, criteri e margine d'incertezza; la contestazione ne sospende gli effetti fino a una verifica umana entro sette giorni (Cod. 7, artt. 2 e 5; Cost. 19.6).",
+  "Non esiste un'IA centrale e nessuna IA può comandarne un'altra. Ogni IA rifiuta le istruzioni manifestamente incostituzionali. Per Magazzino, acqua ed energia l'IA di Comunità è solo consultiva. Se gli organi di un Cerchio respingono tre volte una proposta dell'IA sulla stessa materia, anche da organi diversi, il modello è rivisto. Gli aggiornamenti non ispezionabili sono vietati (Cod. 7, art. 5-ter; Cost. 19, 20 e 22).",
+  "Ogni persona ha un Nodo di calcolo personale offline, di sua proprietà, e un'IA personale che non trasmette dati senza un comando esplicito. Il Nodo custodisce Portfolio, registro dei CdR e testamento biologico. Ognuno ha diritto alla disconnessione e all'oblio; chi si disconnette accede ai servizi e vota per vie non digitali (Cod. 7, art. 5-bis; Cost. 21).",
+  "Il voto e le firme tramite Rete usano due sistemi separati, amministrati da persone diverse: il registro degli aventi diritto, che controlla solo chi può votare e che voti una volta, e l'urna, sui nodi delle Comunità, che non contiene dati identificativi. Sono vietati log o metadati che colleghino persona e voto, anche per audit o ricorso, e nessuno riceve una prova di come ha votato. Software solo open source, nessun aggiornamento durante una votazione, conteggio per Comunità pubblico su registro distribuito, audit L3 prima del primo uso e ogni anno (Cod. 7, art. 7-bis; Cost. 34.4).",
+  "I dati sono separati per dominio: sanitari, Portfolio delle competenze, mappa aggregata, log tecnici. I log sono ridotti al minimo e non si possono usare per profilare. Ogni nodo ha una Scheda di Sicurezza informatica; sono vietate le dipendenze proprietarie critiche (sistemi operativi, database, modelli di IA, crittografia, autenticazione); audit federato annuale. Gli accessi privilegiati richiedono due persone di Cerchi 0 diversi e un registro non modificabile, riesaminato ogni trimestre da tre persone sorteggiate (Cod. 7, artt. 2, 7 e 8; Cod. 6, art. 11).",
+  "I robot hanno un arresto fisico indipendente dal software, lavorano sotto supervisione e non possono sorvegliare né profilare. Se usano un'IA, è locale e validata dal Consiglio Rete (Cod. 7, art. 6-bis).",
+  "Transizione: il Codice 7 si attiva nella Fase 1, ma dalla Fase 0 il voto in Rete segue l'art. 7-bis. Nodo minimo con copia verificata entro sei mesi; migrazione dai cloud proprietari entro dodici, oppure Piano di Sostituzione. I sistemi ospitati fuori sono ammessi solo se il programma e i suoi aggiornamenti li sceglie, verifica e installa la Comunità; finché il Consiglio Rete non c'è, le verifiche le fanno due persone competenti sorteggiate (Cod. 7, art. 10; Cod. 16, art. 3, c. 2, lett. b; art. 9-bis)."
+ ],
+ "numeri": [
+  {
+   "valore": "nodo minimo con copia verificata entro 6 mesi; migrazione dai cloud proprietari entro 12 mesi",
+   "dove": "Cod. 7, art. 10, cc. 2–3",
+   "nota": "Non compare nel registro dei parametri: scelta di redazione senza una stima del lavoro necessario. Il cloud proprietario è ammesso solo durante la transizione (Cod. 7, art. 2, c. 1)."
+  },
+  {
+   "valore": "sistemi senza codice sorgente ammessi al più per 12 mesi, prorogabili una volta, con Piano di Sostituzione pubblico; mai per i sistemi che propongono o decidono su diritti, voto e Beni Comuni",
+   "dove": "Cost. 19.4; Cod. 2, art. 5, c. 2, lett. b, e art. 12",
+   "nota": "Registro dei parametri: incertezza media. Prova indicata: elenco dei dispositivi della dotazione minima di Rete per cui non esiste un'alternativa aperta."
+  },
+  {
+   "valore": "ogni dato critico replicato su almeno 3 nodi di Cerchi diversi",
+   "dove": "Cod. 7, art. 3, c. 4",
+   "nota": "Non compare nel registro dei parametri. La norma stessa lo subordina alla compatibilità con la riservatezza, senza dire quando non lo è."
+  },
+  {
+   "valore": "accessi privilegiati: 2 persone di Cerchi 0 diversi; registro riesaminato ogni trimestre da 3 persone sorteggiate senza incarichi tecnici",
+   "dove": "Cod. 7, art. 8, cc. 7–8",
+   "nota": "Registro dei parametri: scelta di redazione, incertezza bassa; prova necessaria: verifica tecnica con chi amministra sistemi informatici."
+  },
+  {
+   "valore": "Consiglio Rete di 3–5 persone, in carica un anno, non risorteggiabili prima di 12 mesi",
+   "dove": "Cod. 7, art. 4, cc. 1–2",
+   "nota": "Registro dei parametri (Consigli tecnici): incertezza media; da verificare la continuità delle competenze con mandati annuali e le persone idonee nelle Comunità piccole."
+  },
+  {
+   "valore": "verifica umana entro 7 giorni dalla contestazione di una proposta dell'IA; decisione entro 72 ore su un rifiuto dell'IA; revisione del modello dopo 3 rifiuti dello stesso Cerchio sulla stessa materia, senza limite di tempo",
+   "dove": "Cod. 7, art. 5, c. 8; art. 5-ter, cc. 4–5; art. 4, c. 7, lett. b",
+   "nota": "Scelte di redazione. Per i rifiuti delle IA dei Cerchi 2 e 3 il registro dei parametri indica incertezza bassa e una verifica tecnica con chi gestisce i nodi."
+  },
+  {
+   "valore": "classificazione delle automazioni convalidata da 2 persone L3, di cui una estranea al sistema",
+   "dove": "Cod. 7, art. 6, c. 5; Cod. 2, art. 3-bis",
+   "nota": "Registro dei parametri: incertezza bassa; prova indicata: caso di prova su una STV di automazione."
+  },
+  {
+   "valore": "prima del Consiglio Rete: verifiche tecniche di 2 persone con competenza informatica L2 o L3, sorteggiate; esito provvisorio, il parere negativo impedisce l'ammissione",
+   "dove": "Cod. 16, art. 9-bis, c. 3",
+   "nota": "Registro dei parametri: scelta di redazione (verifica di coerenza del 1 novembre 2026), incertezza bassa."
+  },
+  {
+   "valore": "rimozione o anonimizzazione dei dati entro 30 giorni dalla richiesta",
+   "dove": "Cod. 7, art. 5-bis, c. 7",
+   "nota": "Non compare nel registro dei parametri. Il testo non dice se il termine vale anche per repliche e copie di sicurezza."
+  },
+  {
+   "valore": "videosorveglianza cieca: sovrascrittura dopo 72 ore; chiave divisa fra almeno 3 soggetti",
+   "dove": "Cod. 14, art. 8-quinquies, c. 2; Cost. 18.3",
+   "nota": "Scritto nella Costituzione. Non è indicato quanti frammenti servono per ricostruire la chiave."
+  },
+  {
+   "valore": "una funzione critica che meno di 3 persone formate sanno svolgere è una dipendenza critica",
+   "dove": "Cod. 15, art. 12, c. 7",
+   "nota": "Registro dei parametri: incertezza media. Per le funzioni condivise si conta nel Cerchio 2; nel frattempo vale il reperimento federato (art. 13)."
+  }
+ ],
+ "domande": [
+  "Il Cod. 7, art. 8, c. 7 chiede per ogni operazione di amministrazione su nodi, database critici, modelli di IA e sistemi di autenticazione due persone abilitate di Cerchi 0 diversi. In un Cerchio 1 con un Consiglio Rete di 3–5 persone (art. 4, c. 1), la regola è praticabile per una correzione di sicurezza urgente di notte? Serve una procedura d'emergenza per l'accesso, e con quali garanzie? E l'intervento immediato contro un «rischio tecnico» (art. 4, c. 6; art. 7-bis, c. 6) comprende messaggi di massa, file malevoli o la saturazione della piattaforma deliberativa? Come si verifica dopo che non sia servito a zittire il dissenso?",
+  "Il Cod. 7, art. 5-ter, c. 7 vieta gli aggiornamenti non ispezionabili e chiede che ognuno sia verificato prima dell'adozione; il Cod. 16, art. 9-bis, c. 1, lett. c esclude gli aggiornamenti da remoto per i sistemi installati presso la Comunità, e l'art. 7-bis, c. 4 vieta di aggiornare durante una votazione aperta. Sistemi operativi e librerie aperte ricevono correzioni di sicurezza ogni settimana. Una Comunità di poche centinaia di persone può verificarle davvero? Che cosa dovrebbe voler dire «verificato» in pratica (firma, build riproducibile, revisione del codice), e per quanto tempo un nodo resta esposto in attesa?",
+  "Il Cod. 7, art. 7-bis, cc. 2–3 separa il registro degli aventi diritto dall'urna, vieta qualunque log o metadato che colleghi persona e voto, anche per ricorso, e vieta di dare a chi vota una prova di come ha votato; il c. 5 rende il conteggio per Comunità verificabile su un registro distribuito. Esiste oggi un sistema open source che soddisfa insieme queste condizioni? Come si impedisce che indirizzi di rete e tempi di arrivo colleghino registro e urna? Senza alcun collegamento, come si gestisce un ricorso su un voto contestato o doppio?",
+  "Il Cod. 7, art. 5-bis, c. 3 mette nel Nodo personale offline il registro dei CdR e il Portfolio Personale. Ma il Portfolio deve essere accessibile anche al Consiglio delle Competenze per le validazioni (art. 7, c. 3, lett. b). Dove sta la copia di riferimento di questi dati? Se il Nodo si rompe o si perde, come si ricostruiscono senza violare il divieto di acquisire i dati del Nodo senza consenso (art. 5-bis, c. 5)?",
+  "Il Cod. 7, art. 3, cc. 4–5 chiede repliche su tre nodi e copie di sicurezza verificate; l'art. 5-bis, c. 7 dà diritto all'oblio entro trenta giorni. Come si cancella davvero un dato personale da tutte le repliche e le copie entro quel termine, e quale architettura servirebbe? Inoltre il Cod. 6, art. 11, c. 6 e il Cod. 7, art. 7, c. 5 permettono di conservare dati «irreversibilmente anonimizzati»: in Comunità da 30 a 500 persone, quali soglie minime di aggregazione o quali tecniche servono perché lo siano davvero?",
+  "Il Cod. 7, art. 5, c. 3, lett. d e c. 4 chiede che ogni proposta dell'IA indichi un margine d'incertezza, con un metodo verificabile scritto nella STV. L'elenco delle funzioni dell'art. 5, c. 1 ora è aperto («tra cui»). Per quali sistemi (abbinamento domanda-offerta, segnalazione di carenze, sintesi delle decisioni assembleari, modelli linguistici in genere) esiste oggi un metodo affidabile per stimarlo? Se per alcuni non esiste, la norma va riscritta?",
+  "Il Cod. 7, art. 2, c. 3 e art. 7, c. 3, lett. d limitano i log al minimo e al «tempo strettamente necessario», senza fissare durate. L'art. 8, c. 5, lett. c chiede di preservare le evidenze dopo un incidente. Quali durate minime e massime servono perché un'intrusione scoperta dopo mesi sia ancora ricostruibile, senza creare un archivio che permetta la sorveglianza?",
+  "Il Cod. 7, art. 3, c. 7 prevede l'accesso alla Rete con una «identità fiduciaria del Cerchio», senza identità statale; l'art. 8, c. 2, lett. e vieta dipendenze proprietarie critiche nell'autenticazione, e l'art. 3, c. 8 vieta di usare l'identità per profilare. Il registro degli aventi diritto dell'art. 7-bis, c. 2, lett. a deve anche garantire un solo voto a persona. Con quali strumenti aperti si realizza oggi un'autenticazione robusta e federata, con recupero delle credenziali perse, che non permetta di collegare le attività di una persona fra servizi diversi?",
+  "Il Cod. 2, art. 5, c. 2, lett. b dice che il firmware e il software che eseguono comandi umani o automazioni dotate di STV non «propongono né decidono» ai sensi della Cost. 19.4, e possono quindi essere chiusi per un tempo limitato. Dove passa il confine per un inverter che gestisce l'accumulo, un sistema di distacco dei carichi, un termostato con logica adattiva o la navigazione di un robot, che «sceglie da sé traiettoria o azione» (Cod. 7, art. 1, c. 2, lett. f)? Il criterio è abbastanza preciso da applicarlo a un dispositivo reale?",
+  "Il Cod. 16, art. 9-bis, c. 1, lett. c ammette un sistema ospitato su infrastrutture esterne «soltanto se il programma e i suoi aggiornamenti sono scelti, verificati e installati dalla Comunità». Un server virtuale noleggiato, dove la Comunità installa il proprio software ma il fornitore controlla hardware e hypervisor, rispetta la regola? Quali garanzie tecniche (cifratura dei dischi, calcolo confidenziale, chiavi tenute dalla Comunità) servono perché il fornitore non possa leggere o alterare i dati?",
+  "Il Cod. 7 prevede un audit federato annuale da parte di persone L3 indipendenti (art. 8, c. 3), un audit per ogni automazione critica o vitale (art. 6, c. 5), uno a ogni revisione obbligatoria di un modello (art. 5-ter, c. 5) e quelli del sistema di voto prima del primo uso, ogni anno e su richiesta (art. 7-bis, c. 6). Quante persone con competenza L3 in sicurezza informatica servono, e quante è realistico averne? Il Codice 7 si attiva nella Fase 1, ma il voto in Rete segue l'art. 7-bis già dalla Fase 0 (Cod. 16, art. 9-bis, c. 3): chi fa allora l'audit, e chi valida i primi esperti L3, visto che chi ha una validazione provvisoria non può validare altri (Cod. 7, art. 10, c. 5)?",
+  "Il Cod. 14, art. 8-quinquies, c. 2 divide la chiave della videosorveglianza fra almeno tre soggetti e dice che nessuno può ricostruirla da solo, ma non dice quanti frammenti servono (due su tre, tutti e tre). Il c. 3 limita la decrittazione «al luogo e al tempo dell'evento». Con quale schema crittografico si garantisce che aprire un'ora di una telecamera non apra tutto il resto? Chi non gestisce l'impianto può verificare che la sovrascrittura dopo settantadue ore avvenga davvero?"
+ ],
+ "modifiche_recenti": [
+  "Cod. 7, art. 7-bis: il voto in Rete separa registro degli aventi diritto e urna, senza log che leghino persona e voto; anche il software con cui si vota è open source e l'urna sta sui nodi delle Comunità.",
+  "Cod. 2, art. 5, c. 2, lett. b: il firmware che esegue comandi umani o automazioni dotate di STV non «propone né decide» ai sensi della Cost. 19.4.",
+  "Cod. 16, art. 9-bis, cc. 1 e 3: un sistema su server esterni è ammesso solo se programma e aggiornamenti li sceglie, verifica e installa la Comunità; prima del Consiglio Rete verificano due persone competenti sorteggiate.",
+  "Cod. 7, art. 3, c. 9 e art. 6-bis: la dotazione minima di accesso alla Rete è nel Paniere e i robot hanno regole proprie (arresto fisico, IA locale validata, divieto di sorveglianza)."
+ ],
+ "testi": [
+  {
+   "file": "codice-07",
+   "articoli": "tutti"
+  },
+  {
+   "file": "costituzione",
+   "articoli": [
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "34"
+   ]
+  },
+  {
+   "file": "codice-02",
+   "articoli": [
+    "3-bis",
+    "5",
+    "12"
+   ]
+  },
+  {
+   "file": "codice-06",
+   "articoli": [
+    "11"
+   ]
+  },
+  {
+   "file": "codice-14",
+   "articoli": [
+    "8-quinquies"
+   ]
+  },
+  {
+   "file": "codice-15",
+   "articoli": [
+    "12",
+    "13"
+   ]
+  },
+  {
+   "file": "codice-16",
+   "articoli": [
+    "3",
+    "9-bis"
+   ]
+  }
+ ],
+ "approfondire": [
+  {
+   "titolo": "Codice 7 — Automazione e Rete",
+   "pagina": "registro/codice-07.html"
+  },
+  {
+   "titolo": "Codice 16 — Transizione (art. 9-bis, gradualità della sovranità tecnologica)",
+   "pagina": "registro/codice-16.html"
+  },
+  {
+   "titolo": "Registro dei parametri da verificare",
+   "pagina": "registro/parametri.html"
+  },
+  {
+   "titolo": "Bozza dell'Allegato del Paniere: istruzione, connettività e Nodo-IA",
+   "pagina": "registro/bozza-paniere.html"
+  }
+ ],
+ "aggiornata": "2026-11-02",
+ "slug": "informatica-e-dati",
+ "ordine": 11
+}

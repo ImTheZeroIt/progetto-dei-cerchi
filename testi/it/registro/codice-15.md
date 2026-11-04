@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 15 — RAPPORTI ESTERNI E SALDO MONDIALE"
 breve: "Codice 15 — Rapporti esterni e Saldo"
-versione: "V1.12"
+versione: "V1.13"
 gruppo: "codici"
 ordine: 15
 id: "codice-15"
 slug: "codice-15"
-allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.11; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 16 V1.10."
+allineamento: "Costituzione V.39; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.13; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 16 V1.11."
 ---
 
 ## TITOLO PRELIMINARE — DISPOSIZIONI GENERALI
@@ -277,6 +277,8 @@ allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.11;
 5.  Ogni dipendenza critica è accompagnata da un Piano di Uscita che indica l’obiettivo verificabile, il responsabile, le risorse, le misure intermedie e un termine finale certo. Il Piano è approvato dall’Assemblea su proposta del Consiglio competente. Se l’uscita non è tecnicamente possibile entro il termine, il Piano è riesaminato con motivazione; il riesame non può limitarsi a prorogare la dipendenza.
 
 5-bis. Per le materie prime il Piano di Uscita indica riduzione del fabbisogno, riuso, riciclo e recupero. Non può indicare nuove estrazioni. Si applica il comma 5.
+
+5-ter. **Dipendenze strutturali.** Una dipendenza critica è strutturale quando il bene, il componente o la competenza non possono essere prodotti o sostituiti, nel prevedibile futuro, a una scala raggiungibile dalla Confederazione, come accade per molti farmaci, componenti elettronici, metalli e batterie. La qualificazione è motivata nel Registro dal Consiglio competente, con il parere del Consiglio omologo di un’altra Comunità. Per la dipendenza strutturale il Piano di Uscita del comma 5 è sostituito da un Piano di Garanzia, che indica: a) le scorte di sicurezza; b) almeno due fonti di approvvigionamento indipendenti, quando esistono; c) le misure di riduzione del fabbisogno, di riuso e di riparazione; d) le alternative in sperimentazione e le competenze da formare; e) per ciascuna misura un responsabile e un termine certo. Il Piano di Garanzia è approvato dall’Assemblea ed è riesaminato almeno ogni ventiquattro mesi; a ogni riesame si verifica se la dipendenza è ancora strutturale o se può avere un Piano di Uscita. Si applica il comma 5-bis.
 
 6.  Il Registro è pubblicato in forma aggregata. Le informazioni che espongono vulnerabilità delle infrastrutture sono accessibili secondo l’articolo 15 del Codice 3.
 

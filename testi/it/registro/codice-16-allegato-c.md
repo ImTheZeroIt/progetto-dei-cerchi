@@ -1,7 +1,7 @@
 ---
 titolo: "ALLEGATO TECNICO C AL CODICE 16 — CARTA OPERATIVA DEL PRIMO ANNO"
 breve: "Allegato C al Codice 16 — Carta operativa del primo anno"
-versione: "V1.4"
+versione: "V1.5"
 gruppo: "allegati"
 ordine: 16.3
 id: "codice-16-allegato-c"
@@ -13,7 +13,7 @@ Allegato tecnico adottato ai sensi dell’articolo 19 del Codice 3 e richiamato 
 
 ## Art. 1 — A chi serve e cosa contiene
 
-1.  La presente Carta è destinata a un Cerchio pilota composto da trenta a cinquecento persone nella Fase 0 prevista dall’articolo 3 del Codice 16; sopra centocinquanta persone non si applica l’accorpamento dei Consigli dell’articolo 3, comma 2, salvo deliberazione dell’Assemblea.
+1.  La presente Carta è destinata a un Cerchio pilota composto da trenta a cinquecento persone nella Fase 0 prevista dall’articolo 3 del Codice 16; sopra centocinquanta persone aventi diritto di voto non si applica l’accorpamento dei Consigli dell’articolo 3, comma 2, salvo deliberazione dell’Assemblea.
 2.  Indica soltanto ciò che è necessario per cominciare. Tutto ciò che non è indicato si attiva per fasi, quando ne ricorrono le soglie, secondo gli articoli 3 e 4 del Codice 16.
 3.  Ogni regola della Carta rinvia alla disposizione da cui deriva. La Carta non può essere usata per imporre condotte non previste dai Codici.
 

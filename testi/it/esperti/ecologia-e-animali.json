@@ -1,0 +1,145 @@
+{
+ "chiave": "ecologia",
+ "titolo": "Ecologia, zoologia e tutela degli animali",
+ "a_chi": "ecologi, zoologi, entomologi, etologi, veterinari, esperti di conservazione e di gestione della fauna, chi lavora nei santuari per animali",
+ "perche": "Il progetto tratta gli animali come esseri senzienti e non come mezzi di produzione: vieta l'allevamento a fini di sfruttamento, la macellazione, la caccia e ora anche ogni uccisione per gestire la fauna o le zoonosi. Allo stesso tempo chiede di proteggere la biodiversità, con santuari ecologici, corridoi e tutela degli impollinatori. Le due cose possono entrare in conflitto: specie invasive, popolazioni in eccesso, predatori, epidemie, animali presenti al momento dell'adesione. Si chiede di verificare se le regole sono coerenti con ciò che si sa di ecologia, comportamento e salute animale, e se si possono applicare con le competenze di una Comunità piccola.",
+ "come_funziona": [
+  "Gli animali non sono oggetti né merci. Sono vietati l'allevamento a fini di sfruttamento, la macellazione, la caccia e la manipolazione riproduttiva per uso umano. Sono ammesse solo la convivenza e la collaborazione non sfruttanti, autorizzate dal Consiglio Biodiversità (Cost. 13.1–13.3; Cod. 13, art. 3, c. 5).",
+  "Un animale può aiutare nel lavoro leggero, con limiti fissati in una scheda tecnica (STV), una Scheda Benessere individuale e controlli veterinari. Ha diritto al ritiro e alla cura per tutta la vita. Si raccoglie solo ciò che l'animale produce spontaneamente e senza danno (letame, lana, uova non fecondate, latte eccedente, una parte del miele); nel dubbio, niente raccolta (Cost. 13.3-bis e 13.3-ter; Cod. 9, art. 6-bis, cc. 3–4).",
+  "Ogni Cerchio 2 istituisce almeno un santuario ecologico ogni tre o quattro Comunità, dove sono vietati edificazione, attività produttive, caccia e accesso libero, e almeno un santuario di accoglienza, dimensionato sugli animali censiti, dove vivono gli animali salvati o ritirati, senza riprodursi e senza essere soppressi per convenienza (Cod. 13, artt. 4 e 4-bis).",
+  "Il cibo minimo e le cure veterinarie urgenti degli animali che vivono con la Comunità, compresi i santuari, sono emergenze vitali, senza togliere ai livelli 1 e 2 del Paniere delle persone. Se l'acqua scarseggia, l'acqua minima degli animali ha la stessa priorità di quella delle colture essenziali, e il numero degli animali si pianifica sull'acqua degli anni secchi (Cod. 1, art. 32, c. 1-sexies; Cod. 9, art. 10, c. 8; Cod. 13, art. 4-bis, c. 6).",
+  "Un Consiglio Biodiversità di 3–5 persone sorteggiate (ecologia, zoologia, botanica, entomologia, etologia, conservazione) approva i parametri di benessere delle STV e delle Schede Benessere. Il suo parere negativo è vincolante sui parametri di biodiversità, fauna selvatica e funzionalità dei corridoi, ma non su localizzazione e geometria, che spettano al Codice 10 (Cod. 13, art. 3, cc. 3 e 5).",
+  "La fauna selvatica si gestisce solo con metodi non cruenti, in quest'ordine: prevenzione e dissuasione, recinzioni che non interrompono i corridoi, cattura senza dolore e trasferimento in habitat idonei, compresi i santuari ecologici. Uccidere, cacciare e avvelenare sono vietati. Un animale aggredito da un altro animale si può proteggere, senza uccidere l'aggressore (Cod. 13, art. 5-bis; Cod. 14, art. 8-sexies, c. 8).",
+  "Per le zoonosi sono ammessi soltanto la separazione o l'isolamento temporaneo degli animali, le cure e le vaccinazioni, l'igiene degli ambienti e la limitazione dei contatti. L'uccisione è vietata, salvo l'eutanasia per sofferenza irreversibile attestata da due competenze L3, una veterinaria (Cod. 13, art. 8, c. 7; art. 7, c. 12).",
+  "Le api delle arnie di custodia non sono proprietà. Sono vietati la nutrizione artificiale (salvo soccorso), l'inseminazione e la soppressione delle regine, il nomadismo, gli acaricidi di sintesi persistenti e le linee brevettate. Attorno a ogni rifugio c'è una fascia di almeno 500 metri senza trattamenti vietati (Cod. 9, art. 6-bis, c. 5; Cod. 10, art. 6; Cod. 13, artt. 5–6).",
+  "Gli animali domestici convivono con le persone secondo una Scheda Benessere Domestico, autorizzata dal Consiglio Biodiversità. Sono vietati riproduzione per cessione, mutilazioni estetiche, abbandono e vendita. La sterilizzazione indicata da un veterinario per il benessere o per la capacità di cura non è manipolazione riproduttiva (Cod. 13, art. 7, cc. 2, 6 e 10).",
+  "Gli animali presenti quando una Comunità aderisce restano con essa se le condizioni lo permettono; altrimenti vanno in un santuario. La verifica si chiude entro dodici mesi e intanto restano senza collaborare. Il Paniere Alimentare è interamente vegetale (Cost. 13.4-bis; Cod. 9, art. 6-bis, cc. 6–7; art. 10, cc. 3 e 9). Il monitoraggio è ammesso solo se serve alla tutela, con dati aggregati; le coordinate di nidi e tane non sono pubbliche (Cod. 13, art. 2, c. 6; art. 4, c. 2, lett. e; art. 8, c. 4)."
+ ],
+ "numeri": [
+  {
+   "valore": "almeno un santuario ecologico e uno di accoglienza ogni tre o quattro Comunità del Cerchio 2",
+   "dove": "Cod. 13, art. 4, c. 1; art. 4-bis, c. 5",
+   "nota": "Scelta di redazione. Non è fissata una superficie minima. Le Comunità hanno di norma tra 30 e 500 persone (Cost. 5.1). Nella transizione almeno un santuario per Bacino dalla Fase 2 (Cod. 16, art. 3, c. 3, lett. d)."
+  },
+  {
+   "valore": "fascia di rispetto di almeno 500 metri attorno al rifugio per impollinatori, riducibile fino a 200",
+   "dove": "Cod. 10, art. 6, cc. 2–3; Cod. 13, art. 5",
+   "nota": "Scelta di redazione, senza fonte indicata."
+  },
+  {
+   "valore": "Consiglio Biodiversità di 3–5 persone, mandato di un anno",
+   "dove": "Cod. 13, art. 3, c. 1",
+   "nota": "Dal registro dei parametri: incertezza media. Da verificare quante persone idonee esistano nelle Comunità piccole."
+  },
+  {
+   "valore": "eutanasia solo con l'attestazione di due competenze L3, di cui una veterinaria",
+   "dove": "Cod. 13, art. 7, c. 12; art. 4-bis, c. 7",
+   "nota": "Scelta di redazione. Vale anche per gli animali dei santuari e, per le zoonosi, è l'unica uccisione ammessa (art. 8, c. 7)."
+  },
+  {
+   "valore": "accoglienza provvisoria di un animale in pericolo: non oltre 30 giorni, convalida del Tribunale di Garanzia entro 24 ore",
+   "dove": "Cod. 13, art. 7, c. 3-bis",
+   "nota": "Dal registro dei parametri: scelta di redazione, incertezza media. Prova: casi reali di soccorso e tempi di accoglienza dei rifugi."
+  },
+  {
+   "valore": "verifica degli animali presenti all'adesione entro 12 mesi; censimento in 6 mesi; Consiglio, STV e santuari di accoglienza in 12 mesi, prorogabili di 6",
+   "dove": "Cod. 9, art. 10, cc. 3, lett. d, e 9; Cod. 13, art. 11, cc. 2–3",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "adeguamento delle attività esistenti: almeno 30 giorni, di norma non oltre 90",
+   "dove": "Cod. 13, art. 11, c. 4",
+   "nota": "Scelta di redazione. Per le pratiche vietate su animali il Cod. 9, art. 10, c. 9 chiede la cessazione «senza ritardo»."
+  },
+  {
+   "valore": "log degli accessi ai dati riservati dei santuari conservati 12 mesi",
+   "dove": "Cod. 13, art. 4, c. 5",
+   "nota": "Scelta di redazione."
+  }
+ ],
+ "domande": [
+  "Il Cod. 13, art. 5-bis vieta di uccidere la fauna selvatica e ammette, come ultimo passo, la cattura e il trasferimento «in habitat idonei, compresi i santuari ecologici». Dove mancano grandi predatori, cinghiali e caprioli possono crescere fino a danneggiare boschi e colture. Quando ogni habitat vicino è già saturo, dove si trasferiscono? Portarli in un santuario ne compromette l'integrità (art. 4, c. 2)? E per proteggere gli animali di un santuario dal lupo bastano recinzioni e dissuasione, visto che il Cod. 14, art. 8-sexies, c. 8 vieta di uccidere l'animale che aggredisce e il Cod. 9, art. 6-bis, c. 3, lett. a non elenca la guardia tra i lavori dei cani?",
+  "Il Cod. 13, art. 10, c. 1, lett. d vieta di introdurre specie alloctone invasive nell'ambiente selvatico, e l'art. 5-bis, c. 1, lett. c ammette solo la cattura e il trasferimento. Per nutria, scoiattolo grigio, gambero della Louisiana o testuggine palustre americana, trasferire significa reintrodurre altrove. Senza eradicazione letale, quali specie invasive si possono controllare davvero (cattura e cattività a vita, sterilizzazione)? Il Codice dovrebbe regolare in modo esplicito il conflitto tra tutela della biodiversità e tutela del singolo animale?",
+  "Il Cod. 13, art. 8, c. 7 ammette contro le zoonosi solo isolamento, cure, vaccinazioni, igiene e limitazione dei contatti, e vieta l'uccisione. Per un focolaio di influenza aviaria ad alta patogenicità in un santuario di galline, di peste suina africana tra i suini accolti o di tubercolosi bovina, queste misure bastano a proteggere gli altri animali, la fauna selvatica e le persone? Con quali strutture di isolamento e per quanto tempo? Durante la transizione come si concilia la regola con l'abbattimento che la legge dello Stato può imporre?",
+  "Il Cod. 13, art. 4, c. 1 chiede almeno un santuario ecologico ogni tre o quattro Comunità del Cerchio 2, preferendo aree degradate da rigenerare, ma non fissa né una superficie minima né un collegamento con altri santuari. Un'area piccola e isolata può svolgere la funzione di «rifugio e riproduzione delle specie» dell'art. 1, c. 2, lett. d? Quali criteri minimi (superficie, forma, distanza da altri habitat, collegamento con i corridoi dell'art. 5) andrebbero scritti nel Codice?",
+  "Cod. 9, art. 6-bis, c. 5, lett. c: senza sostituzione delle regine, senza nutrizione artificiale (salvo soccorso) e senza acaricidi di sintesi persistenti, le colonie possono convivere con la varroa? I trattamenti con acidi organici sono compatibili con il testo? E l'obbligo di tendere ad arnie di custodia in ogni Comunità (lett. a) rischia di far competere l'ape mellifera con gli impollinatori selvatici del Cod. 13, art. 6? Va fissata nella STV Impollinatori, su cui il Consiglio Biodiversità dà parere vincolante se negativo (art. 6, c. 6), una densità massima di arnie vicino ai santuari?",
+  "La fascia di rispetto è di almeno 500 metri dal rifugio, riducibile a 200 (Cod. 10, art. 6, cc. 2–3; Cod. 13, art. 5, cc. 2–3). L'ape mellifera raccoglie spesso a più di un chilometro, molte api selvatiche entro poche centinaia di metri. Il raggio è adeguato a proteggere le colonie dai trattamenti? Per quali gruppi di impollinatori la riduzione a 200 metri è difendibile?",
+  "Il Cod. 13, art. 7, c. 10 dice che la sterilizzazione degli animali domestici, indicata da un veterinario, è prevenzione «non lesiva» delle nascite; per gli animali dei santuari l'art. 4-bis, c. 3 rinvia ai «metodi non lesivi» della STV Santuari di Accoglienza. La castrazione chirurgica di bovini, suini od ovini adulti rientra tra questi metodi, con i suoi rischi anestesiologici? Quali alternative (separazione dei sessi, contraccezione ormonale o immunologica) sono praticabili in un santuario, e con quali effetti sul benessere?",
+  "Se aderisce una Comunità con un allevamento di duecento vacche da latte, gli animali restano con essa senza collaborare fino alla verifica, entro dodici mesi (Cod. 9, art. 10, cc. 3, lett. d, e 9), e poi vanno accolti e curati per tutta la vita, che può superare i quindici anni. Quanta terra, quanto foraggio, quanta acqua e quante ore di cura servono? Il Cod. 9, art. 10, c. 8 chiede di pianificare il numero degli animali sull'acqua degli anni secchi e di accogliere gli altri tramite altre Comunità: è realistico per una mandria così? Che cosa succede se non c'è posto, visto che l'eutanasia è ammessa solo per sofferenza irreversibile (Cod. 13, art. 7, c. 12)?",
+  "Il Cod. 9, art. 6-bis, c. 4, lett. a ammette il «latte eccedente» e le uova non fecondate deposte spontaneamente; la lett. b vieta la riproduzione indotta e la separazione dalla prole. Senza gravidanze indotte, quando esiste latte eccedente, e quanto? Le vacche ad alta produzione e le galline di linee selezionate presenti all'adesione hanno problemi di salute legati alla produzione (mastiti, carenze di calcio, fratture): mungere o raccogliere le uova può essere necessario al loro benessere? Il testo, che dice «nel dubbio la raccolta non è consentita» (c. 4, lett. c; Cost. 13.3-ter), lo permette?",
+  "Il Cod. 13, art. 7, c. 11 nutre gli animali domestici con «risorse compatibili con il Paniere, scarti idonei o un fondo dedicato», e la Cost. 13.5 stabilisce che la carne non si produce. Il gatto è un carnivoro obbligato, e un centro di recupero per rapaci ha bisogno di prede intere. Diete vegetali integrate sono adeguate e sicure per queste specie? Il Codice deve prevedere un'eccezione esplicita, per esempio per carne importata o per animali morti per cause naturali?",
+  "Il Cod. 13, art. 2, c. 3 dice che la sola mappa non dimostra che un corridoio funziona; l'art. 2, c. 6 e l'art. 8, c. 4 ammettono il monitoraggio solo in forma aggregata, e l'art. 4, c. 2, lett. f richiede un'autorizzazione per la ricerca invasiva. Fototrappole che riprendono anche persone, inanellamento, radiocollari e DNA ambientale sono compatibili con queste regole? E se il monitoraggio mostra che un tracciato deciso dal Codice 10 è troppo stretto o interrotto, il parere vincolante del Consiglio Biodiversità, limitato ai parametri biologici (art. 3, c. 3; art. 5, c. 4), basta a ottenere che venga corretto?",
+  "Il Cod. 13, art. 3, c. 1 chiede 3–5 persone L2 o L3 per ogni Comunità, e l'art. 7, c. 2 fa autorizzare dal Consiglio ogni convivenza con un animale domestico, con la sua Scheda. Gli artt. 4-bis, c. 2 e 7, c. 12 chiedono competenze veterinarie L3 per trasferimenti ed eutanasia. In una Comunità di 150 persone con decine di cani e gatti, il carico di lavoro è sostenibile, e queste figure esisteranno? Il santuario può già avere un Consiglio condiviso (art. 4-bis, c. 5): va previsto lo stesso per il Consiglio Biodiversità e un servizio veterinario a livello di Cerchio 2?"
+ ],
+ "modifiche_recenti": [
+  "Cod. 13, art. 5-bis: la fauna selvatica si gestisce solo con metodi non cruenti (prevenzione, recinzioni, cattura e trasferimento); decide il Consiglio Biodiversità.",
+  "Cod. 13, art. 8, c. 7: per le zoonosi sono ammessi solo isolamento, cure, vaccinazioni, igiene e limitazione dei contatti; l'uccisione è vietata, salvo l'eutanasia già regolata.",
+  "Cod. 1, art. 32, c. 1-sexies e Cod. 13, art. 4-bis, c. 6: il cibo minimo e le cure urgenti degli animali, compresi i santuari, sono emergenze vitali, come l'acqua minima (Cod. 9, art. 10, c. 8).",
+  "Cod. 13, art. 7, c. 10: la sterilizzazione degli animali domestici indicata da un veterinario non è manipolazione riproduttiva e nessuno la impone a tutti."
+ ],
+ "testi": [
+  {
+   "file": "codice-13",
+   "articoli": "tutti"
+  },
+  {
+   "file": "costituzione",
+   "articoli": [
+    "13",
+    "14"
+   ]
+  },
+  {
+   "file": "codice-09",
+   "articoli": [
+    "6-bis",
+    "10"
+   ]
+  },
+  {
+   "file": "codice-10",
+   "articoli": [
+    "6"
+   ]
+  },
+  {
+   "file": "codice-01",
+   "articoli": [
+    "32"
+   ]
+  },
+  {
+   "file": "codice-14",
+   "articoli": [
+    "8-sexies"
+   ]
+  },
+  {
+   "file": "codice-16",
+   "articoli": [
+    "3"
+   ]
+  }
+ ],
+ "approfondire": [
+  {
+   "titolo": "Codice 13 — Biodiversità, santuari e fauna",
+   "pagina": "registro/codice-13.html"
+  },
+  {
+   "titolo": "Codice 9 — Agroecologia e alimentazione",
+   "pagina": "registro/codice-09.html"
+  },
+  {
+   "titolo": "Codice 10 — Habitat e territorio",
+   "pagina": "registro/codice-10.html"
+  },
+  {
+   "titolo": "Registro dei parametri da verificare",
+   "pagina": "registro/parametri.html"
+  }
+ ],
+ "aggiornata": "2026-11-02",
+ "slug": "ecologia-e-animali",
+ "ordine": 10
+}

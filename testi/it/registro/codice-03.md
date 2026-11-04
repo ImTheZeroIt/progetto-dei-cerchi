@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 3 — DELLA DELIBERAZIONE, DELLE SOGLIE E DELL’ASSEMBLEA"
 breve: "Codice 3 — Deliberazione, soglie e Assemblea"
-versione: "V1.11"
+versione: "V1.13"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
 slug: "codice-03"
-allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.12; Codice 16 V1.10."
+allineamento: "Costituzione V.39; Codice 1 V1.12; Codice 2 V1.9; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.13; Codice 16 V1.11."
 ---
 
 ## CAPO I — PRINCIPI DELIBERATIVI
@@ -477,7 +477,7 @@ e) gli atti del Consiglio condiviso sono pubblicati secondo l’articolo 15 e so
 
     c) il Consiglio delle Garanzie Tecniche, che riunisce i Consigli Qualità, Sicurezza, Rete e Biodiversità.
 
-    Ogni Consiglio d’area è composto da tre a sette persone ed esercita le funzioni che i Codici attribuiscono ai Consigli riuniti; le espressioni dei Codici si intendono riferite ad esso. Restano distinti il Consiglio Contabilità, che può essere costituito in forma condivisa nel Cerchio 2, e il Cerchio di Garanzia. Quando un Codice richiede il parere di un Consiglio diverso da quello che propone e i due sono riuniti nella stessa area, il parere è reso da due persone competenti estranee all’istruttoria. Nelle Comunità piccole l’intervallo previsto dal comma 5 è ridotto a sei mesi.
+    Ogni Consiglio d’area è composto da tre a sette persone ed esercita le funzioni che i Codici attribuiscono ai Consigli riuniti; le espressioni dei Codici si intendono riferite ad esso. Restano distinti il Consiglio Contabilità, che può essere costituito in forma condivisa nel Cerchio 2, e il Cerchio di Garanzia. Quando un Codice richiede il parere di un Consiglio diverso da quello che propone e i due sono riuniti nella stessa area, il parere è reso da due persone competenti estranee all’istruttoria.
 
 13. **Limite al tempo amministrativo.** Il tempo complessivo dedicato alle funzioni di Consiglio, di garanzia, di facilitazione e di contabilità e alla documentazione obbligatoria non supera un decimo del CBO totale della Comunità, calcolato su base trimestrale nel Bilancio del Lavoro previsto dall’articolo 2 del Codice 1. Se il limite è superato, prima di assegnare nuove ore l’Assemblea semplifica: accorpa gli organi, riduce la frequenza degli adempimenti e sopprime i registri duplicati. Non possono essere ridotti gli adempimenti a tutela della salute, della sicurezza, dei dati personali e delle garanzie del Codice 4. Ogni proposta di nuova regola indica nel Dossier il tempo amministrativo che richiede.
 
@@ -497,6 +497,10 @@ e) gli atti del Consiglio condiviso sono pubblicati secondo l’articolo 15 e so
 
     f) le modalità per presentare obiezioni.
 
+1-bis. **Termine della procedura.** La procedura dell’articolo 4 e del presente articolo si conclude entro quarantacinque giorni dalla pubblicazione della proposta. Le sessioni di confronto facilitato e la mediazione possono essere convocate anche fuori dalle sedute ordinarie dell’Assemblea, con un preavviso di almeno quarantotto ore. Il termine può essere prorogato una sola volta, per non più di trenta giorni, con deliberazione motivata, quando lo richiedono la complessità dell’istruttoria o un parere ancora pendente. Scaduto il termine, la proposta è iscritta d’ufficio alla prima Assemblea utile, che decide secondo il comma 3.
+
+1-ter. **Decisioni urgenti.** Quando il ritardo causerebbe un danno concreto alle persone, al Paniere, a un servizio essenziale o a beni che andrebbero perduti, l’Assemblea può essere convocata con un preavviso di quarantotto ore, indicando le ragioni dell’urgenza. La finestra per le obiezioni dura ventiquattro ore; se restano obiezioni si svolge una sola sessione di confronto facilitato, senza mediazione, e poi l’Assemblea decide secondo il comma 3, lettere a) e b). La decisione è provvisoria: ha efficacia per non più di trenta giorni, entro i quali la proposta segue la procedura ordinaria; se non è confermata decade, salvi gli effetti già prodotti. Un’obiezione per violazione di norma imperativa o per rischio grave non rimediabile e il parere vincolante negativo dell’articolo 8 impediscono l’adozione anche in via urgente. Restano fermi il quorum dell’articolo 12 e il comma 4-bis. L’urgenza dichiarata senza i suoi presupposti è un vizio impugnabile secondo l’articolo 17.
+
 2.  La decisione è adottata per consenso, inteso come assenza di obiezioni motivate valide e persistenti dopo la procedura dell’articolo 4.
 
 3.  Se permangono obiezioni dopo due sessioni di confronto facilitato, si applicano le regole seguenti:
@@ -506,6 +510,8 @@ e) gli atti del Consiglio condiviso sono pubblicati secondo l’articolo 15 e so
     b) se l’obiezione riguarda un profilo tecnicamente risolvibile e non permane un rischio grave o una violazione imperativa, è svolta una mediazione obbligatoria. Se, dopo la mediazione, l’obiezione persiste, l’Assemblea decide: per le deliberazioni ordinarie, a maggioranza semplice dei partecipanti attivi ai sensi dell’articolo 35.1 della Costituzione; per le decisioni che la matrice dell’articolo 7 attribuisce all’Assemblea e negli altri casi in cui i Codici richiedono la maggioranza qualificata, con la maggioranza dei due terzi dei partecipanti attivi, con motivazione rafforzata e tracciata.
 
 4.  Ai fini della maggioranza qualificata, il denominatore è costituito dai partecipanti attivi alla deliberazione; gli astenuti sono esclusi. A titolo esemplificativo: se centoventi persone partecipano, quaranta si astengono e ottanta partecipano attivamente, la maggioranza dei due terzi è raggiunta con almeno cinquantaquattro voti favorevoli.
+
+4-bis. Quando si procede a votazione, le decisioni per le quali l’articolo 12, comma 5, richiede un quorum sono approvate soltanto se, oltre alla maggioranza richiesta, i voti favorevoli sono almeno pari alla metà del quorum: un sesto degli aventi diritto quando è richiesta la partecipazione di un terzo, un quarto quando è richiesta la partecipazione della metà. A titolo esemplificativo: con centocinquanta aventi diritto, una decisione a maggioranza qualificata richiede almeno venticinque voti favorevoli, anche se i due terzi dei partecipanti attivi sono raggiunti con meno voti.
 
 5.  La maggioranza qualificata non può convalidare una decisione incompatibile con una norma imperativa o superare un parere vincolante negativo ai sensi dell’articolo 8.
 
@@ -542,7 +548,7 @@ e) gli atti del Consiglio condiviso sono pubblicati secondo l’articolo 15 e so
 
 5.  Può essere avviata una revisione straordinaria, con motivazione, su proposta del Consiglio Qualità o del Consiglio Contabilità.
 
-6.  L’Assemblea Generale è convocata con almeno ventuno giorni di preavviso. La deliberazione è valida quando partecipano almeno tre quarti delle Comunità di Base interessate; una Comunità partecipa quando prende parte alla deliberazione almeno un terzo dei suoi aventi diritto, compresi gli astenuti.
+6.  L’Assemblea Generale è convocata con almeno ventuno giorni di preavviso. La deliberazione è valida quando partecipano almeno tre quarti delle Comunità di Base interessate; una Comunità partecipa quando prende parte alla deliberazione almeno un terzo dei suoi aventi diritto, compresi gli astenuti. Se la deliberazione non è valida per mancanza di partecipazione, l’Assemblea Generale è convocata di nuovo sulla stessa proposta entro trenta giorni; nella seconda convocazione la deliberazione è valida quando partecipano almeno la metà delle Comunità di Base interessate. Restano fermi i commi 7 e 8.
 
 7.  Ai sensi dell’articolo 35.2 della Costituzione, l’approvazione richiede congiuntamente:
 

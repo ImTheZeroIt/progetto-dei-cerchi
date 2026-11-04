@@ -6,6 +6,34 @@ From here on, every accepted change will be recorded on this page with its date,
 
 # Changes
 
+## 3 November 2026 — Four weak points: slow decisions, General Assembly, dependencies, rigidity
+
+Author’s choices, following the list of the system’s weak points.
+
+**Time limit of the procedure** (Code 3, new Art. 13, para. 1-bis). A contested decision could last months. The consensus procedure now ends within 45 days, extendable once by 30 with reasons; discussion sessions and mediation may also be convened outside the monthly Assembly, with 48 hours’ notice. When the time limit expires, the first available Assembly decides.
+
+**Urgent decisions** (Code 3, new Art. 13, para. 1-ter). Circle 1 had no general urgent route. Now, if delay harms persons, the Basket, essential services or goods that would be lost: Assembly with 48 hours’ notice, 24 hours for objections, a single discussion session, then the decision. It is provisional for 30 days, while the proposal follows the ordinary procedure. Objections for breach of a mandatory rule or serious risk and binding negative opinions block the urgent route too; quorum and minimum votes in favour remain.
+
+**Second convocation of the General Assembly** (Code 3, Art. 14, para. 6). If three quarters of the Communities do not participate, the General Assembly is reconvened within 30 days and half of the Communities suffice. The majorities of paras. 7 and 8 remain.
+
+**Structural dependencies** (Code 15, new Art. 12, para. 5-ter; Code 16, Art. 4, para. 4, letters a and b; Annex B to Code 16). For medicines, electronic components, metals or batteries that cannot be produced at this scale, a definite exit deadline was unrealistic. These dependencies, if recognised as structural with the opinion of another Community, now have a Guarantee Plan: stocks, at least two independent suppliers, reduced use, repair, alternatives under trial, each measure with a definite deadline. The Plan is reviewed every 24 months. Other critical dependencies keep the definite exit deadline.
+
+**Inviolable Core: principles yes, numbers no** (Const. 37.4, letter i). Sortition, rotation, the temporary nature of offices and the ban on professional politics remain untouchable. Durations and intervals (90 days, 180 a year, 12 months’ pause, one year in the Councils) may be changed by the Double Long Majority, but only within limits: every office stays temporary, rotating and not immediately renewable, no duration exceeds twice today’s, no interval falls below half.
+
+Versions: Constitution from V.38 to V.39; Code 3 from V1.12 to V1.13; Code 15 from V1.12 to V1.13; Code 16 from V1.10 to V1.11; Annex B to Code 16 from V1.7 to V1.8. Alignment lines updated.
+
+## 2 November 2026 — Councils of small Communities; minimum votes in favour
+
+Two inconsistencies found while updating the expert sheets.
+
+**Interval between two mandates** (Code 3, Art. 12-bis, para. 12). The Code reduced to six months, in small Communities, the interval before being drawn again for the same Council. The Constitution (Art. 6.5) requires twelve months in every Community. The reduction is removed: twelve months apply everywhere. Where suitable persons are lacking, the tools of paras. 5 and 6 remain (reasoned extension, merged Councils or Councils shared within Circle 2).
+
+**Threshold of 150** (Annex C to Code 16, Art. 1, para. 1). The first-year Charter counted 150 «persons», while the Constitution (Art. 6.5) and Code 3 (Art. 12-bis, para. 12) count 150 «persons entitled to vote». The Charter now also counts persons entitled to vote.
+
+**Minimum votes in favour** (Code 3, new Art. 13, para. 4-bis). Author’s choice. After the definition of voters (Const. 35.4), with many abstentions an important decision could pass with very few votes: with 150 persons entitled to vote, 50 participants and 44 abstentions, 4 votes in favour were enough. Now, when a decision requiring a quorum is put to the vote, the votes in favour must be at least half of the quorum: one sixth of those entitled to vote for qualified-majority decisions, one quarter for those with special guarantees. With 150 persons entitled to vote, at least 25 votes in favour are needed. Ordinary decisions, which have no quorum, do not change.
+
+Versions: Code 3 from V1.11 to V1.12; Annex C to Code 16 from V1.4 to V1.5. Alignment lines updated.
+
 ## 2 November 2026 — Those who abstain are not among the voters
 
 Author’s choice. The Constitution and Code 3 spoke of «voters» without saying whether abstainers are included, and the Constitution (Art. 35.1) required the «majority of the participants» while Code 3 required that of the «active participants».

@@ -103,7 +103,10 @@ button.del{background:transparent;color:var(--bad);border-color:transparent;padd
 <div id="m-blocco">
 <p class="small quiet" id="m-nota"></p>
 <div class="table-wrap"><table><thead><tr><th>Nome</th><th>Sito (indirizzo)</th><th>Note</th><th></th></tr></thead><tbody id="t-membri"></tbody></table></div>
-<div class="row"><button type="button" onclick="aggiungi('membri')">Aggiungi</button></div>
+<div class="row"><button type="button" onclick="aggiungi('membri')">Aggiungi</button>
+<button type="button" class="secondary" onclick="controllaSiti()">Controlla i siti</button></div>
+<p class="small" id="m-esito"></p>
+<p class="small quiet">Se un sito è stato fatto con questo modello, il vostro sito mostra da solo le sue ultime decisioni e la prossima assemblea, leggendole ogni volta dal sito della comunità. Nessun archivio centrale: se una comunità aggiorna il suo sito, il vostro lo vede.</p>
 </div>
 <h3>Servizi e Consigli comuni</h3>
 <p class="small quiet">es. Magazzino, Consiglio di Magazzino, ambulatorio, laboratorio, ferrovia locale, ospedale di distretto.</p>
@@ -179,8 +182,8 @@ const CHIAVE="cerchi-modello-sito-v1";
 const LIVELLI={
   rete:{nome:"Rete di mutuo aiuto",nota:"Per chi comincia: un gruppo che si aiuta e prepara un Cerchio pilota (Codice 16).",membri:null,sup:"Rete più ampia o Cerchio pilota",vicini:"Reti e comunità vicine"},
   c1:{nome:"Cerchio 1 — Comunità di Base",nota:"La comunità che decide in assemblea e gestisce il proprio Magazzino (Costituzione, art. 5).",membri:null,sup:"Cerchio 2 di appartenenza",vicini:"Comunità vicine"},
-  c2:{nome:"Cerchio 2 — Cerchio Intermedio",nota:"Riunisce Comunità di Base vicine e coordina ciò che serve a più comunità.",membri:"Comunità di Base",sup:"Cerchio 3 di appartenenza",vicini:"Cerchi Intermedi vicini"},
-  c3:{nome:"Cerchio 3 — Cerchio Esteso",nota:"Coordina servizi federati su un territorio ampio, senza potere generale di comando.",membri:"Cerchi Intermedi",sup:"Cerchio 4",vicini:"Cerchi Estesi vicini"}
+  c2:{nome:"Cerchio 2 — Cerchio Intermedio",nota:"Riunisce Comunità di Base vicine e coordina ciò che serve a più comunità.",membri:"Comunità di Base",dalle:"Notizie dalle comunità",sup:"Cerchio 3 di appartenenza",vicini:"Cerchi Intermedi vicini"},
+  c3:{nome:"Cerchio 3 — Cerchio Esteso",nota:"Coordina servizi federati su un territorio ampio, senza potere generale di comando.",membri:"Cerchi Intermedi",dalle:"Notizie dai Cerchi Intermedi",sup:"Cerchio 4",vicini:"Cerchi Estesi vicini"}
 };
 const ESITI=[["approvata","Approvata"],["respinta","Respinta"],["rinviata","Rinviata"],["in-mediazione","In mediazione"]];
 const CATEGORIE={cibo:"Cibo",acqua:"Acqua potabile",energia:"Energia",medicine:"Medicine di base",igiene:"Igiene",attrezzi:"Attrezzi e ricambi",altro:"Altro"};
@@ -309,6 +312,20 @@ function importaTurni(inp){leggi(inp,txt=>{
   if(!righe.length) throw new Error("Nel file non ci sono turni: generateli prima nello strumento dei Turni.");
   st.turni={data:oggi(),righe};tutto();
 });}
+function controllaSiti(){
+  const out=document.getElementById("m-esito"), ms=st.membri.filter(x=>urlOk(x.url));
+  if(!ms.length){out.textContent="Scrivete prima l'indirizzo di almeno un sito.";return;}
+  out.textContent="Controllo in corso…";let fatti=0;const esiti=[];
+  for(const m of ms){
+    fetch(m.url.trim()).then(r=>{if(!r.ok)throw 0;return r.text();}).then(h=>{
+      const x=h.match(/<script type="application\/json" id="dati-cerchi">([\s\S]*?)<\/script>/);if(!x)throw 1;
+      const d=JSON.parse(x[1]);if(d.tipo!=="sito-cerchi")throw 1;
+      if(!m.nome&&d.nome){m.nome=String(d.nome);}
+      esiti.push(`✓ ${m.nome||m.url}: aggiornato al ${dataIt(d.aggiornato)}`);
+    }).catch(e=>esiti.push(`✗ ${m.nome||m.url}: ${e===1?"non è fatto con il modello":"non raggiungibile da qui"}`))
+    .finally(()=>{if(++fatti===ms.length){out.textContent=esiti.join(" · ");salva();disegnaTabelle();anteprima();}});
+  }
+}
 function apri(inp){leggi(inp,txt=>{
   let d;
   if(/^\s*</.test(txt)){const m=txt.match(/<script type="application\/json" id="dati-cerchi">([\s\S]*?)<\/script>/);if(!m)throw new Error("Questo sito non è stato fatto con il modello.");d=JSON.parse(m[1]);}
@@ -340,6 +357,8 @@ function sito(){
   add("decisioni","Decisioni",de.length?`<div class="tw"><table><thead><tr><th>Data</th><th>Decisione</th><th>Esito</th></tr></thead><tbody>${de.map(x=>`<tr><td class="nw">${dataIt(x.data)}</td><td>${esc(x.oggetto)}${voti(x)?`<br><span class="q">${voti(x)}</span>`:""}${urlOk(x.verbale)?`<br>${a(x.verbale,"Verbale")}`:""}</td><td class="esito-${esc(x.esito)}">${esc((ESITI.find(e=>e[0]===x.esito)||["",""])[1])}</td></tr>`).join("")}</tbody></table></div>`:"");
 
   if(L.membri){const m=s.membri.filter(x=>x.nome);add("membri",L.membri,m.length?"<ul class=\"lista\">"+m.map(x=>`<li><strong>${a(x.url,x.nome)}</strong>${x.note?` <span class="q">· ${esc(x.note)}</span>`:""}</li>`).join("")+"</ul>":"");}
+  if(L.membri){const ms=s.membri.filter(x=>urlOk(x.url));
+    if(ms.length) add("notizie",L.dalle,`<p class="q">Le ultime decisioni e la prossima assemblea, lette ora dai loro siti.</p><ul class="lista" id="notizie-lista">${ms.map(x=>`<li data-url="${esc(x.url.trim())}"><strong>${a(x.url,x.nome||x.url)}</strong><br><span class="q stato-n">Apri il sito per le notizie.</span></li>`).join("")}</ul>`);}
   const sv=s.servizi.filter(x=>x.nome);
   add("servizi","Servizi comuni",sv.length?"<ul class=\"lista\">"+sv.map(x=>`<li><strong>${a(x.url,x.nome)}</strong>${x.descr?" — "+esc(x.descr):""}</li>`).join("")+"</ul>":"");
 
@@ -432,6 +451,22 @@ var l=document.getElementById("lista-assemblee");
 if(l){var v=[].slice.call(l.children),f=0;v.forEach(function(x){if(x.getAttribute("data-data")<o){x.className="vecchia";l.appendChild(x);}else f++;});if(!f)document.getElementById("nessuna").hidden=false;}
 var t=document.getElementById("lista-turni");
 if(t){var g=[].slice.call(t.children),n=0;g.forEach(function(x){if(x.getAttribute("data-data")<o)x.hidden=true;else n++;});if(!n)document.getElementById("nessun-turno").hidden=false;}
+var nb=document.getElementById("notizie-lista");
+if(nb&&window.fetch&&location.protocol!=="file:"){
+var E=function(v){return String(v==null?"":v).replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];});};
+var D=function(d){var x=Date.parse(d+"T12:00:00Z");return isFinite(x)?new Date(x).toLocaleDateString("it-IT",{day:"numeric",month:"long",year:"numeric",timeZone:"UTC"}):"";};
+var ES={approvata:"approvata",respinta:"respinta",rinviata:"rinviata","in-mediazione":"in mediazione"};
+[].slice.call(nb.children).forEach(function(li){var st=li.querySelector(".stato-n");st.textContent="Lettura del sito…";
+var ctl=window.AbortController?new AbortController():null;if(ctl)setTimeout(function(){ctl.abort();},10000);
+fetch(li.getAttribute("data-url"),ctl?{signal:ctl.signal}:{}).then(function(r){if(!r.ok)throw 0;return r.text();}).then(function(h){
+var m=h.match(/<script type="application\\/json" id="dati-cerchi">([\\s\\S]*?)<\\/script>/);if(!m)throw 1;var d=JSON.parse(m[1]);if(d.tipo!=="sito-cerchi")throw 1;
+var out=[],as=(d.assemblee||[]).filter(function(x){return x&&x.data>=o;}).sort(function(a,b){return a.data<b.data?-1:1;});
+if(as.length)out.push("Prossima assemblea: "+E(D(as[0].data))+(as[0].ora?", ore "+E(as[0].ora):"")+(as[0].luogo?" · "+E(as[0].luogo):"")+(as[0].odg?" — "+E(as[0].odg):""));
+var de=(d.decisioni||[]).filter(function(x){return x&&x.oggetto;}).sort(function(a,b){return a.data<b.data?1:-1;}).slice(0,3);
+de.forEach(function(x){out.push(E(D(x.data))+": "+E(x.oggetto)+" <span class=\\"q\\">("+E(ES[x.esito]||x.esito||"")+")</span>");});
+if(!out.length)out.push("Nessuna assemblea in programma e nessuna decisione pubblicata.");
+st.className="";st.innerHTML=out.join("<br>")+(d.aggiornato?"<br><span class=\\"q\\">Sito aggiornato al "+E(D(d.aggiornato))+".</span>":"");
+}).catch(function(e){st.textContent=e===1?"Questo sito non è stato fatto con il modello: aprilo dal collegamento.":"Non è stato possibile leggere il sito ora: aprilo dal collegamento.";});});}
 })();
 <\/script>
 </body>

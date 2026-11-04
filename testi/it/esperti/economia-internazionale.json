@@ -1,0 +1,153 @@
+{
+ "chiave": "internazionale",
+ "titolo": "Economia internazionale e commercio",
+ "a_chi": "economisti internazionali, esperti di commercio, di catene di fornitura, di aiuti e redistribuzione tra territori",
+ "perche": "Nessuna Comunità produce tutto ciò che le serve. Il progetto prevede che, tra le Comunità che aderiscono, i surplus di beni necessari siano messi in un fondo comune (il Saldo e il Pool) e assegnati a chi è in deficit, senza scambi bilaterali né prezzi. Con il resto del mondo, finché esiste, si commercia in modo legale e senza profitto, e ogni dipendenza critica va registrata con un piano per uscirne. Si chiede a chi conosce il commercio, la redistribuzione tra territori e le catene di fornitura di verificare se il meccanismo regge agli incentivi, ai tempi dei beni deperibili e alla dipendenza reale da importazioni.",
+ "come_funziona": [
+  "Per ogni risorsa e ogni trimestre si calcola: prodotto (P) meno bisogno validato (B) dà il Saldo Lordo; da un surplus si toglie una Riserva Tecnica per la continuità locale; ciò che resta, se fisicamente disponibile, è Saldo Federabile e confluisce nel Pool. Dichiarano i Cerchi 1, 2 e 3; il surplus lo accerta il Consiglio di Magazzino del Cerchio presso cui la risorsa è custodita (Cod. 15, artt. 2–3).",
+  "Il surplus resta fisicamente dove si trova ma è contabilizzato nel Pool. Un deficit avvia automaticamente la copertura, ma assegnazione e trasferimento li decide un organo umano: il Consiglio di Magazzino del Cerchio 2 (tra le Comunità del Bacino) o del Cerchio 3 (tra Cerchi 2), sorteggiato, entro criteri approvati ogni anno dall'Assemblea Generale; oltre i criteri decide l'Assemblea Generale. Non ci sono rapporti bilaterali: chi cede non sceglie il destinatario (Cod. 15, artt. 4, 9 e 9-bis).",
+  "L'IA di ogni Cerchio Intermedio aggiorna ogni 24 ore una mappa di disponibilità e deficit del proprio territorio e propone flussi; le mappe si scambiano con protocolli aperti, senza un modello centrale. L'ordine è: bisogni vitali, beni che stanno per scadere, bisogni produttivi, riserve per eventi prevedibili. A parità, si sceglie il percorso che consuma meno energia. Il Consiglio decide entro 48 ore, entro 24 sui bisogni vitali (Cod. 15, artt. 8 e 9-bis, c. 5).",
+  "Il Cerchio cedente può opporsi entro 72 ore solo per emergenza documentata, rischio vitale o errore nei dati; l'opposizione non è un veto e la decide un collegio di persone estranee, al quale può rivolgersi anche ogni Comunità contro una decisione di allocazione. Condizionare una cessione a un vantaggio è «ricatto» ed è vietato (Cod. 15, artt. 9, 9-bis, c. 6, e 11).",
+  "Il lavoro per produrre e trasferire la quota destinata ad altri conta nel Contributo di Base della Comunità che lo svolge (Cod. 15, art. 7). Il trasporto tra Comunità avviene di norma su ferrovia, quando adatta alla risorsa e ai tempi; l'ultimo miglio con mezzi leggeri (Cod. 15, art. 10).",
+  "Il Registro Dipendenze elenca ciò che viene da fuori o non è sostituibile. Una dipendenza è critica se la sua interruzione compromette il Paniere e manca un'alternativa nei tempi previsti; ogni dipendenza critica ha un Piano di Uscita con termine certo, che per le materie prime non può prevedere nuove estrazioni. Una funzione che meno di tre persone sanno svolgere è una dipendenza da persone (Cod. 15, art. 12).",
+  "Con l'esterno: gli scambi servono solo a coprire bisogni non autoprodotti e a cedere eccedenze reali, cioè ciò che non va al Pool; la Cassa comune detiene il denaro esterno, non circola tra i membri, ha una riserva massima di dodici mesi di spese ed è alimentata anche da un contributo sui redditi esterni (un decimo in prima applicazione); i fornitori si scelgono preferendo altri Cerchi, poi cooperative, poi imprese locali (Cod. 15, artt. 15, 17, 18 e 19-bis).",
+  "La produzione per l'esterno non può essere organizzata in funzione del mercato e la quota di CBO che vi si dedica non supera quanto serve a pagare gli acquisti esterni necessari. Durante la coesistenza il lavoro dei membri nelle filiere essenziali esterne (acqua, energia, cibo, sanità) può valere come CBO (Cod. 15, art. 19).",
+  "Una Comunità associata non è obbligata a usare il Pool: mette a disposizione soltanto il surplus di cibo, acqua e beni per le cure quando un'altra Comunità ha un deficit vitale, e riceve allo stesso modo. Nel percorso delle reti, un paese che parte da solo deve avere dodici mesi di Paniere d'emergenza e un piano pubblico per le importazioni (Cod. 15, art. 21-bis, c. 2; Cod. 16, artt. 14, c. 3, e 18)."
+ ],
+ "numeri": [
+  {
+   "valore": "periodo contabile trimestrale; mappa delle disponibilità almeno ogni 24 ore",
+   "dove": "Cod. 15, art. 2, c. 5; art. 8, c. 1",
+   "nota": "Scelte di redazione, nessuna fonte esterna."
+  },
+  {
+   "valore": "Consigli di Magazzino dei Cerchi 2 e 3: 5–7 persone, non più di 2 della stessa Comunità; decisione entro 48 ore, entro 24 per i bisogni vitali",
+   "dove": "Cod. 15, art. 9-bis, cc. 2 e 5",
+   "nota": "Registro dei parametri: incertezza media. Prova necessaria: simulazione dei flussi del Pool di un Bacino."
+  },
+  {
+   "valore": "opposizione al trasferimento entro 72 ore",
+   "dove": "Cod. 15, art. 11, c. 1",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "misure contro lo spreco entro 72 ore dalla segnalazione; senza ritardo se la vita utile residua è sotto sette giorni",
+   "dove": "Cod. 15, art. 6, cc. 2–3",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "risposta al reperimento di competenze entro 24 ore (emergenze vitali) o 72 ore",
+   "dove": "Cod. 15, art. 13, c. 1",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "almeno tre persone formate per ogni funzione critica",
+   "dove": "Cod. 15, art. 12, c. 7",
+   "nota": "Registro dei parametri: incertezza media. Prova necessaria: elenco delle funzioni critiche di una Comunità tipo e tempi di formazione."
+  },
+  {
+   "valore": "riserva della Cassa comune non oltre 12 mesi di fabbisogno esterno",
+   "dove": "Cod. 15, art. 17, c. 5",
+   "nota": "Registro dei parametri: incertezza media; variabilità delle spese esterne nei primi anni."
+  },
+  {
+   "valore": "contributo sui redditi esterni: un decimo del reddito netto in prima applicazione, mai oltre un quinto",
+   "dove": "Cod. 15, art. 19-bis, c. 3",
+   "nota": "Registro dei parametri: incertezza alta. Prova necessaria: fabbisogno esterno reale di una Comunità in transizione (imposte, acquisti, cure)."
+  },
+  {
+   "valore": "manufatti contati sul bisogno: circa 2.352 euro per persona all'anno, quasi tutti acquistati fuori",
+   "dove": "Bozza dell'Allegato UCR, § 4.3",
+   "nota": "Prezzi e durate sono ipotesi di redazione; la bozza dice che vanno sostituiti con preventivi veri."
+  },
+  {
+   "valore": "paese che parte da solo: 12 mesi di Paniere d'emergenza e un piano per le importazioni di dodici mesi",
+   "dove": "Cod. 16, art. 14, c. 3; art. 18, c. 2",
+   "nota": "Registro dei parametri: incertezza alta, ipotesi del progetto. Prova necessaria: tempi di reazione di Stati e mercati esteri; fabbisogno di importazioni essenziali."
+  }
+ ],
+ "domande": [
+  "Chi cede accerta il proprio surplus (Cod. 15, art. 3, cc. 1 e 3; art. 9-bis, c. 6; art. 21-bis, c. 2, lett. b). Il prodotto e il bisogno sono dichiarati dallo stesso Cerchio, e il Saldo Federabile è accertato dal Consiglio di Magazzino del Cerchio in cui la risorsa è custodita. Ogni Comunità può chiedere la verifica contro una decisione di allocazione (art. 9-bis, c. 6), ma il testo non dice chi può contestare l'accertamento fatto da un'altra Comunità; per la sola Comunità associata l'accertamento interno è verificato dal Consiglio di Magazzino del Cerchio 2. Quali incentivi a sottodichiarare il prodotto o a gonfiare il bisogno ne derivano, e quali controlli esterni servirebbero? L'audit annuale dell'art. 14 riguarda le dipendenze, non il Saldo: la verifica esterna prevista per le Comunità associate andrebbe estesa a tutte?",
+  "Bisogno, Riserva Tecnica e trattenimento del surplus (art. 2, c. 1, lett. b, e c. 4; art. 5, cc. 1–3). Il bisogno validato (B) comprende già perdite ordinarie, semina e continuità operativa, e la Riserva Tecnica può comprendere anch'essa ricambi, energia e sementi; l'art. 2, c. 4, vieta di contare la stessa quantità due volte. Il limite della Riserva dipende da fabbisogno tecnico, rischio di interruzione, tempi di sostituzione e capacità di ripristino, ma è validato dal «Consiglio competente» dello stesso Cerchio e riesaminato una volta l'anno. Questa regola è verificabile in pratica? Esistono metodi standard di dimensionamento delle scorte di sicurezza da indicare nel testo, perché la riserva non diventi un modo per trattenere surplus?",
+  "L'art. 4, c. 3, esclude rapporti bilaterali: chi cede non sceglie il destinatario e chi riceve non conosce l'origine. Le esperienze di perequazione tra territori, di banchi alimentari o di aiuti mostrano che una redistribuzione anonima di questo tipo regge nel tempo senza reciprocità visibile? Quali segnali di calo della cooperazione andrebbero misurati?",
+  "Deperibili (art. 2, c. 5; art. 6, cc. 2–3; art. 9-bis, c. 5; art. 11, cc. 1 e 3). Il periodo contabile è trimestrale, ma le misure contro lo spreco vanno prese entro 72 ore e, sotto i sette giorni di vita utile, senza ritardo. La riassegnazione tramite il Pool la decide il Consiglio di Magazzino del Cerchio 2 o 3 entro lo stesso termine; se non decide in tempo, il Cerchio di custodia destina la risorsa da sé. L'opposizione può arrivare fino a 72 ore dopo la comunicazione e il trasferimento può essere sospeso in attesa della verifica. Queste finestre sono compatibili con la durata reale dei freschi? Serve una procedura separata per i deperibili?",
+  "Lavoro per il Pool (art. 7, cc. 1, 3 e 4; Cod. 1, art. 3, cc. 2–3). Il lavoro necessario di un Cerchio è il bisogno locale più la quota di bisogno globale assegnata dal Pool, e quel lavoro conta nel CBO. Il Codice 1 vieta di superare la media di quindici ore senza il Protocollo di Solidarietà, ma il Codice 15 non dice che cosa succede se la quota globale porta il Cerchio produttore oltre quel limite, né chi la riduce: dove andrebbe scritto il limite e con quale regola di riparto tra Cerchi? Inoltre il c. 4 esclude una «conversione automatica» tra unità di prodotto e ore di lavoro: senza un prezzo e senza un valore in ore, come si confrontano i contributi di Cerchi che cedono beni molto diversi (grano, ricambi, energia)? Il sistema regge se alcuni Cerchi sono sempre cedenti e altri sempre riceventi?",
+  "A parità di priorità, l'art. 8, c. 3, preferisce il percorso che richiede meno energia; l'art. 10, c. 1, indica la ferrovia come mezzo ordinario tra Comunità, «quando adeguata alla risorsa e compatibile con i tempi di consegna». Il criterio dell'energia trascura le ore di lavoro e i tempi di carico e scarico. Per flussi piccoli tra Comunità di 150–300 persone, la ferrovia come regola è realistica? Quali criteri di scelta del percorso andrebbero aggiunti?",
+  "Dipendenze critiche e strutturali (art. 12, cc. 4, 5, 5-bis e 5-ter). Ogni dipendenza critica ha un Piano di Uscita con un termine certo. Per quelle «strutturali» (beni che non si possono produrre o sostituire a questa scala: molti farmaci, componenti elettronici, metalli, batterie) il Piano di Uscita è sostituito da un Piano di Garanzia con scorte, almeno due fornitori indipendenti, riduzione d'uso e alternative in prova, riesaminato ogni 24 mesi. Il criterio «nel prevedibile futuro, a una scala raggiungibile» è abbastanza preciso da evitare che quasi tutto diventi «strutturale», con il solo parere di un'altra Comunità come controllo? Quali scorte di sicurezza e quante fonti indipendenti sono realistiche per farmaci e componenti con catene di fornitura concentrate in pochi paesi?",
+  "L'art. 12, c. 7, considera dipendenza critica ogni funzione dei livelli da 1 a 3 che meno di tre persone formate sanno svolgere nel Cerchio 1 o, per le funzioni condivise, nel Cerchio 2. In una Comunità di 150 persone, con un'assistenza sanitaria che secondo la bozza dell'Allegato UCR richiede da una a nove persone abilitate, quante funzioni ricadrebbero in questa regola e quanto tempo di formazione servirebbe per uscirne? Il reperimento federato dell'art. 13 basta a coprire il periodo di transizione?",
+  "L'art. 18, c. 2, chiede di valutare i fornitori su diritti di chi lavora, assenza di sfruttamento, impatto ecologico e trattamento degli animali, pratiche ingannevoli e trasparenza. Il testo non dice chi svolge la valutazione. Per beni con catene di fornitura lunghe, come può farla una Comunità di 150 persone? Quali certificazioni o banche dati esistenti sarebbero affidabili, e quale quota dei fornitori di oggi supererebbe la valutazione?",
+  "Cassa comune e acquisti esterni (art. 17, cc. 2–3; art. 19, cc. 2–3; art. 19-bis, c. 3). La quota di CBO destinata a produzioni per l'esterno non supera quanto serve a pagare gli acquisti esterni necessari, e la Cassa è alimentata anche dal contributo di un decimo sui redditi esterni e dalla cessione di eccedenze. Ora la Cassa paga anche il sostegno a chi lascia la Confederazione e, durante la transizione, debiti dei membri verso terzi. La bozza dell'Allegato UCR stima circa 2.352 euro per persona all'anno di manufatti, circa 350.000 euro per 150 persone. Con quali beni e servizi vendibili, e con quante ore di CBO, una Comunità di 150 persone può coprire questa cifra restando nel limite delle quindici ore, tanto più se una parte dei membri lavora nelle filiere essenziali esterne?",
+  "Comunità associate e Pool (art. 21-bis, c. 2, lett. b–c, e c. 3). Per una Comunità associata usare il Pool è facoltativo: cede soltanto cibo, acqua e beni per le cure quando un'altra Comunità ha un deficit vitale, e riceve la copertura dei propri deficit vitali alle stesse condizioni; la sua quota di lavoro per le funzioni comuni si può rendere, durante la transizione, anche in beni. Questo crea un incentivo a restare associati per ricevere la garanzia vitale senza mettere in comune i surplus non vitali? Che cosa insegnano le esperienze di unioni con adesione a geometria variabile (per esempio le clausole di partecipazione differenziata) sulla tenuta di un fondo comune?",
+  "Un paese che parte da solo (Cod. 16, art. 14, c. 3; art. 18). Nel percorso delle reti, se nessun altro paese approva la stessa data, la scelta del boicottaggio vale solo con dodici mesi di Paniere d'emergenza e un piano pubblico per le importazioni, pagate con le casse della rete, con la cessione di eccedenze senza profitto e con scambi diretti con reti di altri paesi. Energia, farmaci e componenti che le reti non producono restano da importare. Quanto è realistico finanziare dodici mesi di importazioni essenziali così, se nel frattempo calano i redditi esterni che alimentano le casse? Quali reazioni di Stati, banche e mercati esteri (restrizioni ai pagamenti, sanzioni, cambi) andrebbero considerate nel piano dell'art. 18, c. 2?"
+ ],
+ "modifiche_recenti": [
+  "Cod. 15, art. 9-bis, e art. 9, c. 2, lett. c: l'allocazione del Pool la decide il Consiglio di Magazzino sorteggiato del Cerchio 2 o del Cerchio 3, entro criteri approvati ogni anno dall'Assemblea Generale.",
+  "Cod. 15, art. 12, c. 5-bis: il Piano di Uscita per le materie prime indica riduzione del fabbisogno, riuso, riciclo e recupero, e non può indicare nuove estrazioni.",
+  "Cod. 15, art. 21-bis, c. 2, lett. b: per le Comunità associate il Pool è facoltativo, ma il surplus di cibo, acqua e beni per le cure si condivide quando un'altra Comunità è in deficit vitale.",
+  "Cod. 16, artt. 14, c. 3, e 18: il percorso delle reti chiede a un paese che parte da solo dodici mesi di Paniere d'emergenza e un piano pubblico per le importazioni.",
+  "Cod. 15, art. 12, c. 5-ter: le dipendenze critiche strutturali (farmaci, componenti elettronici, metalli, batterie non producibili a questa scala) hanno un Piano di Garanzia invece del Piano di Uscita a termine certo."
+ ],
+ "testi": [
+  {
+   "file": "codice-15",
+   "articoli": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "9-bis",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "17",
+    "18",
+    "19",
+    "19-bis",
+    "20",
+    "21-bis"
+   ]
+  },
+  {
+   "file": "codice-16",
+   "articoli": [
+    "14",
+    "18"
+   ]
+  },
+  {
+   "file": "codice-01",
+   "articoli": [
+    "3"
+   ]
+  }
+ ],
+ "approfondire": [
+  {
+   "titolo": "Codice 15 completo",
+   "pagina": "registro/codice-15.html"
+  },
+  {
+   "titolo": "Codice 16 — Transizione e percorso delle reti",
+   "pagina": "registro/codice-16.html"
+  },
+  {
+   "titolo": "Bozza dell'Allegato UCR (manufatti e coefficienti per paese)",
+   "pagina": "registro/bozza-ucr.html"
+  },
+  {
+   "titolo": "Registro dei parametri da verificare",
+   "pagina": "registro/parametri.html"
+  }
+ ],
+ "aggiornata": "2026-11-02",
+ "slug": "economia-internazionale",
+ "ordine": 16
+}

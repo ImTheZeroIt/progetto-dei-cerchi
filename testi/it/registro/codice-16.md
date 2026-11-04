@@ -1,12 +1,12 @@
 ---
 titolo: "CODICE 16 — TRANSIZIONE E AVVIO DELLA CONFEDERAZIONE"
 breve: "Codice 16 — Transizione e avvio"
-versione: "V1.10"
+versione: "V1.11"
 gruppo: "codici"
 ordine: 16
 id: "codice-16"
 slug: "codice-16"
-allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.11; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.12."
+allineamento: "Costituzione V.39; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.13; Codice 4 V1.10; Codice 5 V1.7; Codice 6 V1.9; Codice 7 V1.10; Codice 8 V1.7; C.1-Annex A V1.7; Codice 9 V3.4; Codice 10 V1.8; Codice 11 V1.6; Codice 12 V1.7; Codice 13 V1.9; Codice 14 V1.10; Codice 15 V1.13."
 ---
 
 ## Art. 1 — Oggetto, definizioni e natura temporanea
@@ -207,9 +207,9 @@ allineamento: "Costituzione V.38; Codice 1 V1.12; Codice 2 V1.9; Codice 3 V1.11;
 
 4.  **Passaggio dalla Fase 3 alla Fase 4.** Sono richiesti:
 
-    a) un audit federato positivo sull’autonomia, svolto dopo almeno sei mesi continuativi di operatività senza dipendenze critiche non sostituibili che compromettano la continuità del Paniere;
+    a) un audit federato positivo sull’autonomia, svolto dopo almeno sei mesi continuativi di operatività senza dipendenze critiche non sostituibili che compromettano la continuità del Paniere; la dipendenza strutturale coperta da un Piano di Garanzia attuato, ai sensi dell’articolo 12, comma 5-ter, del Codice 15, non la compromette;
 
-    b) l’iscrizione nel Registro Dipendenze di un piano di uscita a termine certo per ciascuna dipendenza critica ancora presente;
+    b) l’iscrizione nel Registro Dipendenze di un piano di uscita a termine certo per ciascuna dipendenza critica ancora presente, o un Piano di Garanzia per quelle strutturali ai sensi dell’articolo 12, comma 5-ter, del Codice 15;
 
     c) il funzionamento dei nodi della Rete federata in tutti i Bacini;
 

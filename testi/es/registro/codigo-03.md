@@ -1,12 +1,12 @@
 ---
 titolo: "CÓDIGO 3 — DE LA DELIBERACIÓN, DE LOS UMBRALES Y DE LA ASAMBLEA"
 breve: "Código 3 — Deliberación, umbrales y Asamblea"
-versione: "V1.11"
+versione: "V1.13"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
 slug: "codigo-03"
-allineamento: "Constitución V.38; Código 1 V1.12; Código 2 V1.9; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 7 V1.10; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 15 V1.12; Código 16 V1.10."
+allineamento: "Constitución V.39; Código 1 V1.12; Código 2 V1.9; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 7 V1.10; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 15 V1.13; Código 16 V1.11."
 ---
 
 ## CAPÍTULO I — PRINCIPIOS DELIBERATIVOS
@@ -477,7 +477,7 @@ e) los actos del Consejo compartido se publican según el artículo 15 y pueden 
 
     c) el Consejo de las Garantías Técnicas, que reúne los Consejos de Calidad, de Seguridad, de la Red y de Biodiversidad.
 
-    Cada Consejo de área está compuesto por entre tres y siete personas y ejerce las funciones que los Códigos atribuyen a los Consejos reunidos; las expresiones de los Códigos se entienden referidas a él. Siguen siendo distintos el Consejo de Contabilidad, que puede constituirse de forma compartida en el Círculo 2, y el Círculo de Garantía. Cuando un Código exige el dictamen de un Consejo distinto del que propone y ambos están reunidos en la misma área, el dictamen lo emiten dos personas competentes ajenas a la instrucción. En las Comunidades pequeñas el intervalo previsto en el apartado 5 se reduce a seis meses.
+    Cada Consejo de área está compuesto por entre tres y siete personas y ejerce las funciones que los Códigos atribuyen a los Consejos reunidos; las expresiones de los Códigos se entienden referidas a él. Siguen siendo distintos el Consejo de Contabilidad, que puede constituirse de forma compartida en el Círculo 2, y el Círculo de Garantía. Cuando un Código exige el dictamen de un Consejo distinto del que propone y ambos están reunidos en la misma área, el dictamen lo emiten dos personas competentes ajenas a la instrucción.
 
 13. **Límite al tiempo administrativo.** El tiempo total dedicado a las funciones de Consejo, de garantía, de facilitación y de contabilidad y a la documentación obligatoria no supera una décima parte de la CBO total de la Comunidad, calculada sobre una base trimestral en el Balance del Trabajo previsto en el artículo 2 del Código 1. Si se supera el límite, antes de asignar nuevas horas la Asamblea simplifica: agrupa los órganos, reduce la frecuencia de las obligaciones y suprime los registros duplicados. No pueden reducirse las obligaciones que protegen la salud, la seguridad, los datos personales y las garantías del Código 4. Toda propuesta de nueva regla indica en el Dossier el tiempo administrativo que requiere.
 
@@ -497,6 +497,10 @@ e) los actos del Consejo compartido se publican según el artículo 15 y pueden 
 
     f) las modalidades para presentar objeciones.
 
+1-bis. **Plazo del procedimiento.** El procedimiento del artículo 4 y del presente artículo concluye dentro de los cuarenta y cinco días siguientes a la publicación de la propuesta. Las sesiones de intercambio facilitado y la mediación pueden convocarse también fuera de las sesiones ordinarias de la Asamblea, con un preaviso de al menos cuarenta y ocho horas. El plazo puede prorrogarse una sola vez, por no más de treinta días, mediante deliberación motivada, cuando lo exijan la complejidad de la instrucción o un dictamen aún pendiente. Vencido el plazo, la propuesta se incluye de oficio en la primera Asamblea disponible, que decide según el apartado 3.
+
+1-ter. **Decisiones urgentes.** Cuando el retraso causaría un daño concreto a las personas, a la Cesta, a un servicio esencial o a bienes que se perderían, la Asamblea puede convocarse con un preaviso de cuarenta y ocho horas, indicando las razones de la urgencia. La ventana para las objeciones dura veinticuatro horas; si quedan objeciones, se celebra una sola sesión de intercambio facilitado, sin mediación, y después la Asamblea decide según el apartado 3, letras a) y b). La decisión es provisional: produce efectos durante no más de treinta días, dentro de los cuales la propuesta sigue el procedimiento ordinario; si no se confirma, decae, sin perjuicio de los efectos ya producidos. Una objeción por violación de una norma imperativa o por riesgo grave no remediable y el dictamen vinculante negativo del artículo 8 impiden la adopción también por la vía urgente. Siguen siendo aplicables el quórum del artículo 12 y el apartado 4-bis. La urgencia declarada sin sus presupuestos es un vicio impugnable según el artículo 17.
+
 2.  La decisión se adopta por consenso, entendido como ausencia de objeciones motivadas válidas y persistentes después del procedimiento del artículo 4.
 
 3.  Si persisten objeciones después de dos sesiones de intercambio facilitado, se aplican las reglas siguientes:
@@ -506,6 +510,8 @@ e) los actos del Consejo compartido se publican según el artículo 15 y pueden 
     b) si la objeción se refiere a un aspecto técnicamente resoluble y no persiste un riesgo grave ni una infracción imperativa, se realiza una mediación obligatoria. Si, tras la mediación, la objeción persiste, decide la Asamblea: para las deliberaciones ordinarias, por mayoría simple de los participantes activos conforme al artículo 35.1 de la Constitución; para las decisiones que la matriz del artículo 7 atribuye a la Asamblea y en los demás casos en que los Códigos exigen la mayoría calificada, por mayoría de dos tercios de los participantes activos, con una motivación reforzada y trazable.
 
 4.  A efectos de la mayoría calificada, el denominador está constituido por los participantes activos en la deliberación; las personas que se abstienen quedan excluidas. A título de ejemplo: si participan ciento veinte personas, cuarenta se abstienen y ochenta participan activamente, la mayoría de dos tercios se alcanza con al menos cincuenta y cuatro votos favorables.
+
+4-bis. Cuando se procede a votación, las decisiones para las que el artículo 12, apartado 5, exige un quórum solo se aprueban si, además de la mayoría requerida, los votos favorables alcanzan al menos la mitad del quórum: un sexto de las personas con derecho a voto cuando se exige la participación de un tercio, un cuarto cuando se exige la participación de la mitad. A modo de ejemplo: con ciento cincuenta personas con derecho a voto, una decisión por mayoría calificada requiere al menos veinticinco votos favorables, aunque los dos tercios de los participantes activos se alcancen con menos votos.
 
 5.  La mayoría calificada no puede convalidar una decisión incompatible con una norma imperativa ni superar un dictamen vinculante negativo conforme al artículo 8.
 
@@ -542,7 +548,7 @@ e) los actos del Consejo compartido se publican según el artículo 15 y pueden 
 
 5.  Puede iniciarse una revisión extraordinaria, con motivación, a propuesta del Consejo de Calidad o del Consejo de Contabilidad.
 
-6.  La Asamblea General se convoca con al menos veintiún días de preaviso. La deliberación es válida cuando participan al menos tres cuartas partes de las Comunidades de Base interesadas; una Comunidad participa cuando al menos un tercio de sus personas con derecho a voto toma parte en la deliberación, incluidas las que se abstienen.
+6.  La Asamblea General se convoca con al menos veintiún días de preaviso. La deliberación es válida cuando participan al menos tres cuartas partes de las Comunidades de Base interesadas; una Comunidad participa cuando al menos un tercio de sus personas con derecho a voto toma parte en la deliberación, incluidas las que se abstienen. Si la deliberación no es válida por falta de participación, la Asamblea General se convoca de nuevo sobre la misma propuesta dentro de los treinta días; en la segunda convocatoria la deliberación es válida cuando participa al menos la mitad de las Comunidades de Base interesadas. Siguen siendo aplicables los apartados 7 y 8.
 
 7.  Conforme al artículo 35.2 de la Constitución, la aprobación requiere conjuntamente:
 

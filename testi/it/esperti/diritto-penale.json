@@ -1,0 +1,170 @@
+{
+ "chiave": "diritto_penale",
+ "titolo": "Diritto penale, procedura e giustizia riparativa",
+ "a_chi": "penalisti, processualisti, criminologi, esperti di esecuzione penale, di giustizia minorile e di giustizia riparativa",
+ "perche": "Il progetto abolisce la pena come punizione e affida i conflitti anzitutto a una procedura riparativa volontaria. Per i fatti più gravi prevede sei gradi di illecito, organi giudicanti sorteggiati e non professionali, e misure di protezione che possono arrivare al contenimento in una comunità chiusa o all'allontanamento definitivo, solo in caso di recidiva. Regola anche la difesa personale disarmata e la perdita dello status di membro per chi rifiuta in modo persistente il lavoro comune. Queste regole limitano la libertà delle persone senza magistrati di carriera e senza carcere. Si chiede a chi conosce le garanzie penali, il processo e la criminologia di verificare se la legalità, la prova, la difesa e la proporzione sono garantite davvero, e se il sistema protegge le vittime.",
+ "come_funziona": [
+  "La pena fine a sé stessa è abolita: le misure servono solo a riparare, rieducare e proteggere. La procedura riparativa resta la via ordinaria; il Capo V interviene quando non è accettata, non porta a un accordo o non basta per la gravità del fatto (Cost. 30.1; Cod. 4, artt. 1, 2 e 25, c. 1).",
+  "Garanzie: nessuna misura senza una norma precedente, divieto di analogia, presunzione di non responsabilità, prova oltre ogni ragionevole dubbio per i Gradi 4–6, il silenzio non è ammissione, divieto di doppio giudizio. Ogni persona ha due facilitatori di fiducia con competenza giuridica e una persona di fiducia. Nessuna IA valuta responsabilità o pericolosità (Cod. 4, art. 25; Cost. 31.4–31.5).",
+  "Sei gradi di illecito: dalla lieve inosservanza (Grado 1) all'omicidio volontario e alla tortura (Grado 6). I Codici possono qualificare condotte solo nei Gradi 1–4; i Gradi 5 e 6 sono solo quelli elencati. Nel dubbio si applica il grado inferiore. L'uso della forza nella difesa personale è qualificato a parte (Cod. 4, artt. 26 e 26-bis).",
+  "Organi sorteggiati per il singolo caso: Assemblea di Chiarimento di 7 persone (Gradi 1–2), Consiglio di Trasformazione di 5 (Grado 3), Tribunale di Garanzia di 7 per i Gradi 4–6, con almeno tre persone di formazione giuridica e componenti di altre Comunità. Sono sorteggiate solo persone maggiorenni; dai 16 anni si partecipa in affiancamento, senza voto. Si decide per consenso o con i due terzi; per il contenimento protettivo e le misure estreme servono 6 voti su 7. I ricorsi contro le decisioni dei Gradi 1–3 vanno al Collegio di Riesame. La magistratura professionale permanente è vietata (Cod. 4, artt. 27 e 35, c. 1; Cost. 31.2–31.3).",
+  "Regola delle due possibilità: il primo fatto di Grado 5 o 6 porta a un percorso di protezione e trasformazione (allontanamento protettivo, divieto territoriale, percorso intensivo). Se c'è un pericolo concreto e attuale si può disporre il contenimento protettivo in una Comunità di accompagnamento: una Comunità aperta, senza perimetro né sorveglianza, con obbligo di permanenza e affiancamento quotidiano, per non più di 5 o 10 anni. Le misure estreme (decadenza dallo status di membro, Contenimento ad Alta Sicurezza o Allontanamento Definitivo) sono riservate alla recidiva accertata con decisione definitiva (Cost. 1.3-bis e 30.3; Cod. 4, artt. 30–32).",
+  "Difesa personale: chi si difende o difende altri da un'aggressione fisica o sessuale in corso o imminente, senza armi e con la sola forza necessaria, non commette illecito. Non è illecito l'eccesso dovuto a spavento o turbamento scusabili. L'eccesso non scusabile è di Grado 4, anche se ne derivano lesioni gravi o la morte; di Grado 2 o 1 se il danno è lieve o assente. Se resta un dubbio ragionevole sulla difesa, la responsabilità non è accertata (Cost. 17.9; Cod. 4, art. 26-bis; Cod. 14, art. 8-sexies).",
+  "Rifiuto del lavoro comune (CBO): prima del Grado 3 l'Assemblea di Chiarimento ascolta, propone altre mansioni e una mediazione e, dopo almeno 14 giorni senza esito, può sospendere il CdR e l'accesso alle risorse non essenziali. Se il rifiuto continua dopo il Piano di Trasformazione del Grado 3, il Tribunale di Garanzia può dichiarare con 6 voti su 7 la cessazione dello status di membro: la persona riceve solo una porzione di terra con l'acqua, conserva le garanzie vitali e può essere riammessa in ogni momento (Cost. 7.3 e 7.3-bis; Cod. 4, art. 29, cc. 4-bis e 6-bis).",
+  "Minorenni: solo misure riparative, educative e di protezione; sono esclusi il contenimento protettivo e le misure degli artt. 31–33. In caso di pericolo concreto e attuale, dopo una decisione definitiva di Grado 4–6 e con 6 voti su 7, il Tribunale può disporre un'accoglienza educativa protetta, aperta, per non più di 12 mesi, rinnovabile una volta (Cod. 4, art. 25, c. 9).",
+  "Il dispositivo di localizzazione non biometrico è ammesso solo dopo una decisione definitiva per i Gradi 5–6, con il consenso della persona, come alternativa al contenimento, per non più di dodici mesi (Cost. 18.7; Cod. 4, art. 33). Le misure cautelari che limitano il movimento vanno convalidate dal Tribunale entro ventiquattro ore e durano trenta giorni, rinnovabili; alla persona spetta un alloggio adeguato (Cod. 4, art. 34; Cod. 1, art. 47-bis, c. 5).",
+  "Le decisioni sui Gradi 5 e 6 diventano definitive solo dopo la conferma di un secondo Tribunale, anche senza ricorso; vale il divieto di peggiorare la misura su ricorso del solo destinatario; la revisione è possibile in ogni tempo con elementi nuovi (Cod. 4, art. 35; Cost. 31.6).",
+  "Durante la transizione il Capo V è solo un ordinamento interno e volontario: i reati restano alla giurisdizione dello Stato, nessuno può essere dissuaso dal denunciare, e non si eseguono contenimento, allontanamento coattivo o localizzazione. Finché non c'è un Bacino, i collegi si sorteggiano tra persone formate di altri Cerchi pilota o, in mancanza, tra membri estranei ai fatti; il collegio di soli membri non può disporre le misure più gravi (Cod. 4, art. 37)."
+ ],
+ "numeri": [
+  {
+   "valore": "convalida delle misure cautelari entro 24 ore",
+   "dove": "Cod. 4, art. 34, c. 2; art. 37, c. 5",
+   "nota": "Registro dei parametri: più stretto della Costituzione italiana (art. 13: 48 ore per la comunicazione al giudice e 48 per la convalida). Incertezza media: va verificato che un organo sorteggiato riesca a rispettarlo. Se nessun collegio si forma in tempo, la misura cessa."
+  },
+  {
+   "valore": "misura cautelare fino a 30 giorni, rinnovabile fino alla decisione",
+   "dove": "Cod. 4, art. 34, c. 3",
+   "nota": "Nessun limite complessivo è indicato."
+  },
+  {
+   "valore": "decisione entro 30 giorni (Gradi 1–2), 60 (Grado 3), 120 (Gradi 4–6), prorogabili",
+   "dove": "Cod. 4, art. 28, c. 4",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "organi di 7, 5 e 7 persone; 6 voti su 7 per il contenimento protettivo, le misure estreme, l'accoglienza educativa protetta e la cessazione dello status; età minima 18 anni",
+   "dove": "Cod. 4, art. 27, cc. 1–5; art. 25, c. 9; art. 29, c. 6-bis, lett. c",
+   "nota": "Registro dei parametri: incertezza media, da provare su casi. L'età di 18 anni è una decisione dell'autore del 1 novembre 2026."
+  },
+  {
+   "valore": "contenimento protettivo non oltre 5 anni (Grado 5) e 10 anni (Grado 6); riesame almeno ogni 6 mesi; rapporto al Tribunale almeno ogni 3 mesi",
+   "dove": "Cod. 4, art. 30, c. 3",
+   "nota": "Registro dei parametri: incertezza alta; da confrontare con i dati sulla recidiva e con gli ordinamenti che usano misure a termine con riesame."
+  },
+  {
+   "valore": "accoglienza educativa protetta dei minorenni non oltre 12 mesi, rinnovabile una volta; riesame almeno ogni 3 mesi",
+   "dove": "Cod. 4, art. 25, c. 9",
+   "nota": "Registro dei parametri: dentro la forbice della messa alla prova minorile italiana (1–3 anni). Incertezza media."
+  },
+  {
+   "valore": "Contenimento ad Alta Sicurezza senza durata predeterminata, riesame ogni 12 mesi (6 su richiesta); visita esterna ogni 3 mesi",
+   "dove": "Cod. 4, art. 32, cc. 4–5; Cost. 30.4",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "dispositivo di localizzazione per non più di 12 mesi; dati non pertinenti distrutti entro 72 ore",
+   "dove": "Cod. 4, art. 33, cc. 3–4",
+   "nota": "Scelta di redazione."
+  },
+  {
+   "valore": "Grado 4: esclusione dai sorteggi fino a 36 mesi; allontanamento protettivo fino a 12 mesi",
+   "dove": "Cod. 4, art. 29, c. 5",
+   "nota": "Scelta di redazione. Vale anche per l'eccesso di difesa non scusabile (art. 26-bis, c. 3)."
+  },
+  {
+   "valore": "rifiuto del CBO: almeno 14 giorni prima della sospensione; 60 giorni prima del Grado 3; avviso scritto di 30 giorni prima della trasmissione al Tribunale",
+   "dove": "Cod. 4, art. 29, c. 4-bis, lett. b–c, e c. 6-bis, lett. b; Cost. 7.3",
+   "nota": "Registro dei parametri: incertezza media per i 14 giorni, alta per la cessazione dello status; da verificare con casi di prova."
+  },
+  {
+   "valore": "riesame entro 14 giorni (Collegio di Riesame) o 30 giorni (secondo Tribunale)",
+   "dove": "Cod. 4, art. 35, cc. 1–2",
+   "nota": "Scelta di redazione."
+  }
+ ],
+ "domande": [
+  "Recidiva (Cost. 1.3-bis; Cod. 4, art. 31, c. 1, lett. a–b). Le misure estreme richiedono una «precedente decisione definitiva» e un «nuovo fatto» accertato in via definitiva. Il testo non dice se il nuovo fatto debba essere commesso dopo che la prima decisione è diventata definitiva. Se due fatti di Grado 5, commessi prima di ogni decisione, sono giudicati in tempi diversi, il secondo vale come recidiva? Come andrebbe scritta la norma per evitarlo, tenendo conto che il Grado 6 comprende già i fatti «in danno di più persone» (art. 26, c. 1, lett. f)?",
+  "Comunità di accompagnamento (Cod. 4, art. 30, cc. 3–4; Cost. 30.2–30.3). Ora la Comunità di accompagnamento è aperta, senza perimetro né sorveglianza, e la persona «non è trattenuta con la forza»; ha però un «obbligo di permanenza» fino a cinque o dieci anni. Se se ne va, il Tribunale «può rivedere le misure nei limiti del presente articolo e dell'articolo 34», ma senza recidiva non può passare alle misure dell'art. 31. Che cosa protegge in concreto le persone quando la persona si allontana? Un obbligo di permanenza così lungo ha una base sufficiente nella Costituzione, che come contenimento nomina solo quello dell'art. 1.3-bis (Cost. 30.3)? Il c. 4 richiama solo le garanzie dell'art. 32, c. 2: andrebbero richiamati anche i divieti del c. 3 (isolamento, contenzione, lavoro imposto) e le visite esterne del c. 5?",
+  "Determinatezza (Cod. 4, art. 25, c. 2, e art. 26, cc. 1 e 3). Il Grado 1 è «inosservanza lieve di una regola comune»; il Grado 3 comprende la «violazione grave delle regole sui dati» e il «maltrattamento di animali»; il Grado 4 comprende «minaccia grave» e «percosse» senza definizione; i Codici possono qualificare altre condotte nei Gradi 1–4. Per il Grado 4 il Tribunale può disporre l'allontanamento protettivo fino a dodici mesi (art. 29, c. 5). Il principio di legalità dell'art. 25, c. 2, è rispettato con fattispecie così aperte? Quali andrebbero descritte meglio?",
+  "Standard di prova e rifiuto del CBO (Cod. 4, art. 25, c. 3; art. 29, cc. 2, 4-bis e 6-bis; Cost. 7.3-bis e 30.2). La prova «oltre ogni ragionevole dubbio» è richiesta solo per i Gradi 4–6. Per i Gradi 1–3 il testo non indica uno standard, ma il Grado 3 per rifiuto del CBO è il presupposto della cessazione dello status, che toglie Paniere, alloggio comune e voto (art. 29, c. 6-bis, lett. d). La Costituzione dice che la cessazione non è una misura del sistema sanzionatorio e il Codice che la sospensione del CdR «non accerta un illecito». Secondo i criteri usati per riconoscere la «materia penale» (per esempio i criteri Engel della Corte europea dei diritti dell'uomo), queste misure vanno trattate come sanzioni? Quale standard di prova andrebbe scritto per il Grado 3 e per l'accertamento del rifiuto, oltre alla regola «in caso di dubbio il rifiuto non è accertato» (art. 29, c. 6-bis, lett. a)?",
+  "Eccesso di difesa (Cod. 4, art. 26-bis, cc. 2–4; Cod. 14, art. 8-sexies, c. 5). L'eccesso non scusabile commesso «allo scopo di far cessare» l'aggressione è sempre di Grado 4, anche se causa la morte (c. 3); la forza «diretta a uccidere o a ferire gravemente quando non era necessaria» è invece qualificata secondo l'art. 26, quindi anche di Grado 5 o 6 (c. 4). Chi usa volontariamente una forza letale per fermare un'aggressione, quando bastava meno, rientra nel c. 3 o nel c. 4? Il confine è abbastanza chiaro rispetto all'eccesso colposo e alla legittima difesa del codice penale italiano (artt. 52 e 55 c.p.) o al § 33 del codice penale tedesco? È proporzionato che un eccesso con esito mortale porti al massimo alle misure del Grado 4?",
+  "Collegi sorteggiati (Cod. 4, art. 27, cc. 3–5; art. 37, c. 5; Cost. 31.2). Per accertare un fatto di Grado 5 o 6 basta il consenso o una maggioranza di due terzi, cioè cinque su sette, di persone sorteggiate, di cui solo tre con formazione giuridica validata internamente. Nella transizione, se l'elenco esterno non basta, il collegio è formato da membri del Cerchio pilota, che possono accertare un Grado 5 o 6 e disporre le misure dell'art. 30, c. 2. Confrontato con le giurie popolari e con le corti miste (per esempio la Corte d'Assise), questo assetto offre garanzie sufficienti di competenza e di indipendenza? Decidere «per consenso» in un collegio giudicante rischia di produrre pressione al conformismo e motivazioni deboli?",
+  "Misure cautelari e localizzazione (Cod. 4, art. 34, cc. 2–3; art. 35, c. 6; art. 37, c. 5; art. 33, cc. 1 e 5). La convalida spetta entro ventiquattro ore a un Tribunale che si costituisce per il singolo caso; se nessun collegio si forma in tempo la misura cessa: la persona offesa resta senza protezione? La misura dura trenta giorni, rinnovabili «fino alla decisione sul fatto», e per i Gradi 5–6 fino alla conferma del secondo Tribunale: senza un limite complessivo, quanto può durare in pratica? Il dispositivo di localizzazione richiede una decisione definitiva e il consenso della persona, come alternativa al contenimento: il consenso è libero, e la sua esclusione nei mesi del giudizio, quando la persona offesa è più esposta, è una lacuna o una scelta da mantenere?",
+  "Allontanamento Definitivo (Cod. 4, art. 32, c. 6; Cost. 30.3 e 30.4). Il Codice e la Costituzione lo definiscono come «divieto permanente» di risiedere e accedere ai Cerchi della persona offesa; la stessa Costituzione dice che le misure «cessano quando viene meno il pericolo concreto e attuale» e prevede il riesame periodico. Le due norme sono compatibili? Una misura permanente, che si applica anche quando il pericolo è cessato, è coerente con la finalità solo protettiva dell'art. 30.1?",
+  "Minorenni (Cod. 4, art. 25, c. 9; art. 26-bis, c. 7; art. 29, c. 5). Il contenimento protettivo ora è escluso e al suo posto c'è l'accoglienza educativa protetta. Il testo però non fissa un'età minima sotto la quale non si è chiamati a rispondere: un bambino di dieci anni può essere sottoposto al Capo V e all'accoglienza? Le misure del Grado 4 dell'art. 29, c. 5 (allontanamento protettivo, esclusione dai sorteggi) valgono per i minorenni o sono escluse dalla regola delle «sole misure riparative, educative e di protezione»? Quali garanzie del processo minorile andrebbero riprese, per esempio la non imputabilità sotto i quattordici anni (art. 97 c.p.) e le regole del d.P.R. 448/1988?",
+  "Transizione e giurisdizione dello Stato (Cod. 4, art. 37, cc. 1–2; art. 28, c. 2; art. 25, c. 8; art. 26-bis, c. 9). Per un fatto che è reato, la procedura interna può svolgersi in parallelo a un'indagine penale, con l'ascolto separato delle persone coinvolte e la raccolta di elementi; lo stesso vale per l'accertamento della difesa personale. Questo rischia di inquinare la prova, esporre la vittima a pressioni o configurare reati (per esempio favoreggiamento o intralcio alla giustizia)? Andrebbe prevista la sospensione della procedura interna finché pende quella penale? Il divieto di doppio giudizio interno che rapporto ha con il processo dello Stato?",
+  "Riesame e revisione (Cod. 4, art. 35, cc. 3, 5 e 6). Il riesame dei Gradi 5–6 è obbligatorio anche senza ricorso: in quel caso il secondo Tribunale può aggravare la misura, visto che il divieto di peggioramento vale solo se il riesame è «chiesto soltanto dalla persona destinataria»? La revisione «in ogni tempo» per elementi nuovi che dimostrano «l'errore dell'accertamento» vale anche contro chi è stato assolto?",
+  "Criminologia della seconda possibilità (Cod. 4, art. 30, cc. 1–2 e 5; art. 25, c. 7). Il primo fatto di Grado 5 o 6, compresi l'omicidio volontario e la violenza sessuale, porta a un percorso di trasformazione e alla possibile piena reintegrazione. Che cosa dicono i dati sulla recidiva e sui programmi intensivi (per esempio i Circles of Support and Accountability) a sostegno o contro questa regola? Chi dovrebbe valutare la pericolosità, con quali strumenti di valutazione strutturata del rischio, visto che è escluso l'uso dell'IA e i collegi sono sorteggiati?"
+ ],
+ "modifiche_recenti": [
+  "Cod. 4, art. 26-bis: nuova disciplina della difesa personale; non è illecito l'eccesso dovuto a spavento scusabile; l'eccesso non scusabile è di Grado 4, o di Grado 2 o 1 se il danno è lieve o assente; accerta il Tribunale di Garanzia.",
+  "Cod. 4, art. 25, c. 9: per i minorenni è escluso il contenimento protettivo; al suo posto un'accoglienza educativa protetta, aperta, per non più di 12 mesi rinnovabili una volta, con 6 voti su 7.",
+  "Cod. 4, art. 30, c. 3: la Comunità di accompagnamento è definita come Comunità aperta, senza perimetro né sorveglianza; la persona non è trattenuta con la forza e la durata massima è un limite fermo.",
+  "Cost. 7.3-bis; Cod. 4, art. 29, cc. 4-bis e 6-bis: procedura per il rifiuto del CBO, con sospensione del CdR prima del Grado 3 e cessazione dello status dopo il Grado 3; negli organi della giustizia si sorteggiano solo maggiorenni (art. 27, c. 4)."
+ ],
+ "testi": [
+  {
+   "file": "costituzione",
+   "articoli": [
+    "1",
+    "4",
+    "7",
+    "17",
+    "18",
+    "30",
+    "31"
+   ]
+  },
+  {
+   "file": "codice-04",
+   "articoli": [
+    "1",
+    "2",
+    "4",
+    "5",
+    "17",
+    "23",
+    "25",
+    "26",
+    "26-bis",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "32-bis",
+    "33",
+    "34",
+    "35",
+    "35-bis",
+    "36",
+    "37"
+   ]
+  },
+  {
+   "file": "codice-14",
+   "articoli": [
+    "8-sexies"
+   ]
+  },
+  {
+   "file": "codice-01",
+   "articoli": [
+    "47-bis"
+   ]
+  }
+ ],
+ "approfondire": [
+  {
+   "titolo": "Codice 4 — Giustizia riparativa (testo completo)",
+   "pagina": "registro/codice-04.html"
+  },
+  {
+   "titolo": "Costituzione (testo completo)",
+   "pagina": "registro/costituzione.html"
+  },
+  {
+   "titolo": "Codice 14 — Sicurezza generale (art. 8-sexies, difesa personale)",
+   "pagina": "registro/codice-14.html"
+  },
+  {
+   "titolo": "Registro dei parametri da verificare",
+   "pagina": "registro/parametri.html"
+  }
+ ],
+ "aggiornata": "2026-11-02",
+ "slug": "diritto-penale",
+ "ordine": 15
+}

@@ -6,6 +6,34 @@ De aquí en adelante, cada cambio aceptado se anotará en esta página con la fe
 
 # Cambios
 
+## 3 de noviembre de 2026 — Cuatro puntos débiles: decisiones lentas, Asamblea General, dependencias, rigidez
+
+Elecciones del autor, tras la lista de los puntos débiles del sistema.
+
+**Plazo del procedimiento** (Cód. 3, nuevo art. 13, apdo. 1-bis). Una decisión impugnada podía durar meses. Ahora el procedimiento de consenso termina en 45 días, prorrogables una vez por 30 con motivación; las sesiones de intercambio y la mediación pueden convocarse también fuera de la Asamblea mensual, con 48 horas de preaviso. Vencido el plazo, decide la primera Asamblea disponible.
+
+**Decisiones urgentes** (Cód. 3, nuevo art. 13, apdo. 1-ter). El Círculo 1 no tenía una vía urgente general. Ahora, si el retraso perjudica a las personas, la Cesta, los servicios esenciales o bienes que se perderían: Asamblea con 48 horas de preaviso, 24 horas para las objeciones, una sola sesión de intercambio y después la decisión. Es provisional durante 30 días, mientras la propuesta sigue el procedimiento ordinario. Las objeciones por norma imperativa o riesgo grave y los dictámenes vinculantes negativos bloquean también la vía urgente; el quórum y los votos favorables mínimos se mantienen.
+
+**Segunda convocatoria de la Asamblea General** (Cód. 3, art. 14, apdo. 6). Si no participan tres cuartas partes de las Comunidades, la Asamblea General se convoca de nuevo en 30 días y basta la mitad de las Comunidades. Se mantienen las mayorías de los apdos. 7 y 8.
+
+**Dependencias estructurales** (Cód. 15, nuevo art. 12, apdo. 5-ter; Cód. 16, art. 4, apdo. 4, letras a y b; Anexo B al Cód. 16). Para medicamentos, componentes electrónicos, metales o baterías que no pueden producirse a esta escala, un plazo cierto de salida era poco realista. Estas dependencias, si se reconocen como estructurales con el dictamen de otra Comunidad, tienen ahora un Plan de Garantía: existencias, al menos dos proveedores independientes, reducción del uso, reparación, alternativas en prueba, cada medida con un plazo cierto. El Plan se revisa cada 24 meses. Las demás dependencias críticas mantienen el plazo cierto de salida.
+
+**Núcleo Inviolable: los principios sí, los números no** (Const. 37.4, letra i). Siguen siendo intocables el sorteo, la rotación, el carácter temporal de los cargos y la prohibición de la política como oficio. Las duraciones e intervalos (90 días, 180 al año, 12 meses de pausa, un año en los Consejos) pueden cambiarse con la Doble Mayoría Larga, pero solo dentro de límites: todo cargo sigue siendo temporal, rotatorio y no inmediatamente renovable, ninguna duración supera el doble de la actual y ningún intervalo baja de la mitad.
+
+Versiones: Constitución de V.38 a V.39; Código 3 de V1.12 a V1.13; Código 15 de V1.12 a V1.13; Código 16 de V1.10 a V1.11; Anexo B al Código 16 de V1.7 a V1.8. Líneas de alineación actualizadas.
+
+## 2 de noviembre de 2026 — Consejos de las Comunidades pequeñas; votos favorables mínimos
+
+Dos incoherencias detectadas al actualizar las fichas para expertos.
+
+**Intervalo entre dos mandatos** (Cód. 3, art. 12-bis, apdo. 12). El Código reducía a seis meses, en las Comunidades pequeñas, el intervalo antes de poder ser sorteado de nuevo en el mismo Consejo. La Constitución (art. 6.5) exige doce meses en toda Comunidad. Se suprime la reducción: doce meses en todas partes. Donde faltan personas idóneas siguen los instrumentos de los apdos. 5 y 6 (prórroga motivada, Consejos agrupados o compartidos en el Círculo 2).
+
+**Umbral de 150** (Anexo C al Cód. 16, art. 1, apdo. 1). La Carta del primer año contaba 150 «personas», mientras que la Constitución (art. 6.5) y el Código 3 (art. 12-bis, apdo. 12) cuentan 150 «personas con derecho a voto». Ahora también la Carta cuenta las personas con derecho a voto.
+
+**Votos favorables mínimos** (Cód. 3, nuevo art. 13, apdo. 4-bis). Elección del autor. Tras la definición de votantes (Const. 35.4), con muchas abstenciones una decisión importante podía aprobarse con muy pocos votos: con 150 personas con derecho a voto, 50 participantes y 44 abstenciones bastaban 4 síes. Ahora, cuando se vota una decisión que exige quórum, los síes deben ser al menos la mitad del quórum: un sexto de las personas con derecho a voto para las decisiones por mayoría calificada, un cuarto para las que tienen garantías especiales. Con 150 personas con derecho a voto se necesitan al menos 25 síes. Las decisiones ordinarias, que no tienen quórum, no cambian.
+
+Versiones: Código 3 de V1.11 a V1.12; Anexo C al Código 16 de V1.4 a V1.5. Líneas de alineación actualizadas.
+
 ## 2 de noviembre de 2026 — Quien se abstiene no está entre los votantes
 
 Elección del autor. La Constitución y el Código 3 hablaban de «votantes» sin decir si las personas que se abstienen forman parte de ellos, y la Constitución (art. 35.1) exigía la «mayoría de los participantes» mientras que el Código 3 exigía la de los «participantes activos».

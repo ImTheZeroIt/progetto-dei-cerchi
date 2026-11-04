@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 3 — DE LA DÉLIBÉRATION, DES SEUILS ET DE L’ASSEMBLÉE"
 breve: "Code 3 — Délibération, seuils et Assemblée"
-versione: "V1.11"
+versione: "V1.13"
 gruppo: "codici"
 ordine: 3
 id: "codice-03"
 slug: "code-03"
-allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 7 V1.10 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 15 V1.12 ; Code 16 V1.10."
+allineamento: "Constitution V.39 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 7 V1.10 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 15 V1.13 ; Code 16 V1.11."
 ---
 
 ## CHAPITRE I — PRINCIPES DÉLIBÉRATIFS
@@ -477,7 +477,7 @@ e) les actes du Conseil commun sont publiés conformément à l’article 15 et 
 
     c) le Conseil des Garanties techniques, qui réunit les Conseils Qualité, Sécurité, Réseau et Biodiversité.
 
-    Chaque Conseil de secteur se compose de trois à sept personnes et exerce les fonctions que les Codes attribuent aux Conseils réunis ; les expressions des Codes s’entendent comme se référant à lui. Restent distincts le Conseil Comptabilité, qui peut être constitué en commun dans le Cercle 2, et le Cercle de garantie. Lorsqu’un Code exige l’avis d’un Conseil autre que celui qui propose et que les deux sont réunis dans le même secteur, l’avis est rendu par deux personnes compétentes étrangères à l’instruction. Dans les petites Communautés, l’intervalle prévu par l’alinéa 5 est réduit à six mois.
+    Chaque Conseil de secteur se compose de trois à sept personnes et exerce les fonctions que les Codes attribuent aux Conseils réunis ; les expressions des Codes s’entendent comme se référant à lui. Restent distincts le Conseil Comptabilité, qui peut être constitué en commun dans le Cercle 2, et le Cercle de garantie. Lorsqu’un Code exige l’avis d’un Conseil autre que celui qui propose et que les deux sont réunis dans le même secteur, l’avis est rendu par deux personnes compétentes étrangères à l’instruction.
 
 13. **Limite du temps administratif.** Le temps total consacré aux fonctions de Conseil, de garantie, de facilitation et de comptabilité ainsi qu’à la documentation obligatoire ne dépasse pas un dixième de la CBO totale de la Communauté, calculé sur une base trimestrielle dans le Bilan du travail prévu par l’article 2 du Code 1. Si la limite est dépassée, avant d’attribuer de nouvelles heures, l’Assemblée simplifie : elle regroupe les organes, réduit la fréquence des formalités et supprime les registres faisant double emploi. Les formalités qui protègent la santé, la sécurité, les données personnelles et les garanties du Code 4 ne peuvent pas être réduites. Toute proposition de nouvelle règle indique dans le Dossier le temps administratif qu’elle requiert.
 
@@ -497,6 +497,10 @@ e) les actes du Conseil commun sont publiés conformément à l’article 15 et 
 
     f) les modalités de présentation des objections.
 
+1-bis. **Délai de la procédure.** La procédure de l’article 4 et du présent article se conclut dans les quarante-cinq jours suivant la publication de la proposition. Les séances de discussion facilitée et la médiation peuvent aussi être convoquées en dehors des séances ordinaires de l’Assemblée, avec un préavis d’au moins quarante-huit heures. Le délai peut être prorogé une seule fois, de trente jours au plus, par une délibération motivée, lorsque la complexité de l’instruction ou un avis encore pendant l’exigent. À l’expiration du délai, la proposition est inscrite d’office à la première Assemblée utile, qui décide conformément à l’alinéa 3.
+
+1-ter. **Décisions urgentes.** Lorsque le retard causerait un dommage concret aux personnes, au Panier, à un service essentiel ou à des biens qui seraient perdus, l’Assemblée peut être convoquée avec un préavis de quarante-huit heures, en indiquant les raisons de l’urgence. La fenêtre pour les objections dure vingt-quatre heures ; s’il reste des objections, une seule séance de discussion facilitée a lieu, sans médiation, puis l’Assemblée décide conformément à l’alinéa 3, lettres a) et b). La décision est provisoire : elle produit ses effets pendant trente jours au plus, au cours desquels la proposition suit la procédure ordinaire ; si elle n’est pas confirmée, elle devient caduque, sans préjudice des effets déjà produits. Une objection pour violation d’une norme impérative ou pour risque grave irrémédiable et l’avis contraignant négatif de l’article 8 empêchent l’adoption même par la voie urgente. Le quorum de l’article 12 et l’alinéa 4-bis restent applicables. L’urgence déclarée sans ses conditions est un vice susceptible de recours conformément à l’article 17.
+
 2.  La décision est adoptée par consensus, entendu comme l’absence d’objections motivées valables et persistantes après la procédure de l’article 4.
 
 3.  Si des objections subsistent après deux séances de discussion facilitée, les règles suivantes s’appliquent :
@@ -506,6 +510,8 @@ e) les actes du Conseil commun sont publiés conformément à l’article 15 et 
     b) si l’objection porte sur un aspect techniquement soluble et qu’il ne subsiste ni risque grave ni violation d’une règle impérative, une médiation obligatoire est conduite. Si, après la médiation, l’objection persiste, l’Assemblée décide : pour les délibérations ordinaires, à la majorité simple des participants actifs, conformément à l’article 35.1 de la Constitution ; pour les décisions que la matrice de l’article 7 attribue à l’Assemblée et dans les autres cas où les Codes exigent la majorité qualifiée, à la majorité des deux tiers des participants actifs, avec une motivation renforcée et traçable.
 
 4.  Aux fins de la majorité qualifiée, le dénominateur est constitué des participants actifs à la délibération ; les abstentionnistes en sont exclus. À titre d’exemple : si cent vingt personnes participent, que quarante s’abstiennent et que quatre-vingts participent activement, la majorité des deux tiers est atteinte avec au moins cinquante-quatre voix favorables.
+
+4-bis. Lorsqu’il est procédé à un vote, les décisions pour lesquelles l’article 12, alinéa 5, exige un quorum ne sont approuvées que si, outre la majorité requise, les voix favorables atteignent au moins la moitié du quorum : un sixième des ayants droit lorsque la participation d’un tiers est requise, un quart lorsque la participation de la moitié est requise. À titre d’exemple : avec cent cinquante ayants droit, une décision à la majorité qualifiée exige au moins vingt-cinq voix favorables, même si les deux tiers des participants actifs sont atteints avec moins de voix.
 
 5.  La majorité qualifiée ne peut pas valider une décision incompatible avec une règle impérative ni surmonter un avis contraignant négatif rendu en application de l’article 8.
 
@@ -542,7 +548,7 @@ e) les actes du Conseil commun sont publiés conformément à l’article 15 et 
 
 5.  Une révision extraordinaire peut être engagée, avec motivation, sur proposition du Conseil Qualité ou du Conseil Comptabilité.
 
-6.  L’Assemblée générale est convoquée avec un préavis d’au moins vingt et un jours. La délibération est valable lorsque participent au moins les trois quarts des Communautés de base concernées ; une Communauté participe lorsqu’au moins un tiers de ses ayants droit prend part à la délibération, abstentionnistes compris.
+6.  L’Assemblée générale est convoquée avec un préavis d’au moins vingt et un jours. La délibération est valable lorsque participent au moins les trois quarts des Communautés de base concernées ; une Communauté participe lorsqu’au moins un tiers de ses ayants droit prend part à la délibération, abstentionnistes compris. Si la délibération n’est pas valable faute de participation, l’Assemblée générale est convoquée de nouveau sur la même proposition dans les trente jours ; lors de la seconde convocation, la délibération est valable lorsque participent au moins la moitié des Communautés de base concernées. Les alinéas 7 et 8 restent applicables.
 
 7.  En application de l’article 35.2 de la Constitution, l’approbation requiert conjointement :
 

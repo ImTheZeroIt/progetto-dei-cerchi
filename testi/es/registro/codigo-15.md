@@ -1,12 +1,12 @@
 ---
 titolo: "CÓDIGO 15 — RELACIONES EXTERNAS Y SALDO MUNDIAL"
 breve: "Código 15 — Relaciones externas y Saldo"
-versione: "V1.12"
+versione: "V1.13"
 gruppo: "codici"
 ordine: 15
 id: "codice-15"
 slug: "codigo-15"
-allineamento: "Constitución V.38; Código 1 V1.12; Código 2 V1.9; Código 3 V1.11; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 7 V1.10; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 16 V1.10."
+allineamento: "Constitución V.39; Código 1 V1.12; Código 2 V1.9; Código 3 V1.13; Código 4 V1.10; Código 5 V1.7; Código 6 V1.9; Código 7 V1.10; Código 8 V1.7; C.1-Annex A V1.7; Código 9 V3.4; Código 10 V1.8; Código 11 V1.6; Código 12 V1.7; Código 13 V1.9; Código 14 V1.10; Código 16 V1.11."
 ---
 
 ## TÍTULO PRELIMINAR — DISPOSICIONES GENERALES
@@ -277,6 +277,8 @@ allineamento: "Constitución V.38; Código 1 V1.12; Código 2 V1.9; Código 3 V1
 5.  Cada dependencia crítica va acompañada de un Plan de Salida que indica el objetivo verificable, la persona responsable, los recursos, las medidas intermedias y un plazo final cierto. El Plan lo aprueba la Asamblea a propuesta del Consejo competente. Si la salida no es técnicamente posible dentro del plazo, el Plan se reexamina con motivación; el reexamen no puede limitarse a prorrogar la dependencia.
 
 5-bis. Para las materias primas, el Plan de Salida indica reducción de las necesidades, reutilización, reciclaje y recuperación. No puede indicar nuevas extracciones. Se aplica el apartado 5.
+
+5-ter. **Dependencias estructurales.** Una dependencia crítica es estructural cuando el bien, el componente o la competencia no pueden, en un futuro previsible, producirse o sustituirse a una escala al alcance de la Confederación, como ocurre con muchos medicamentos, componentes electrónicos, metales y baterías. La calificación se motiva en el Registro por el Consejo competente, con el dictamen del Consejo homólogo de otra Comunidad. Para la dependencia estructural, el Plan de Salida del apartado 5 se sustituye por un Plan de Garantía, que indica: a) las existencias de seguridad; b) al menos dos fuentes de abastecimiento independientes, cuando existan; c) las medidas de reducción de las necesidades, reutilización y reparación; d) las alternativas en experimentación y las competencias que deben formarse; e) para cada medida, un responsable y un plazo cierto. El Plan de Garantía lo aprueba la Asamblea y se revisa al menos cada veinticuatro meses; en cada revisión se comprueba si la dependencia sigue siendo estructural o si puede tener un Plan de Salida. Se aplica el apartado 5-bis.
 
 6.  El Registro se publica en forma agregada. La información que expone vulnerabilidades de las infraestructuras es accesible según el artículo 15 del Código 3.
 

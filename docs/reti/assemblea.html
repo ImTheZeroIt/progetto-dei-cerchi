@@ -182,9 +182,11 @@ function esitoC1(p,r){
   } else r.push(`Partecipano ${P} persone. Per le decisioni ordinarie non c'è quorum (Costituzione, art. 35.1).`);
   if(consenso){r.push("Nessuna obiezione motivata resta dopo la procedura del consenso (art. 13.2).");return {stato:"approvata",titolo:"Approvata per consenso",righe:r,dati:{P}};}
   if(!attivi) return {stato:"incompleta",titolo:"Nessun voto sì o no",righe:r.concat(["Tutte le persone si sono astenute: non c'è una maggioranza da calcolare."])};
-  const qual=p.genere!=="ordinaria", serve=qual?Math.ceil(attivi*2/3):Math.floor(attivi/2)+1, ok=p.si>=serve;
+  const qual=p.genere!=="ordinaria", serve=qual?Math.ceil(attivi*2/3):Math.floor(attivi/2)+1;
+  const minSi=qual?Math.ceil(aventi/(p.genere==="speciale"?4:6)):0, ok=p.si>=serve&&p.si>=minSi;
   r.push(`Sì ${p.si}, no ${p.no}, astenuti ${p.ast}. Gli astenuti contano per il quorum ma non per la maggioranza: i votanti sono ${attivi} (Costituzione, art. 35.4; Codice 3, art. 12.3 e 13.4).`);
   r.push(qual?`Serve la maggioranza dei due terzi dei votanti: almeno ${serve} sì (art. 13.3, lettera b, e 13.4). Ci sono ${p.si} sì.`:`Serve la maggioranza semplice dei votanti: almeno ${serve} sì (art. 13.3, lettera b). Ci sono ${p.si} sì.`);
+  if(qual) r.push(`${p.si>=minSi?"Sì":"No"}: i voti favorevoli devono essere almeno la metà del quorum, cioè ${minSi} (${p.genere==="speciale"?"un quarto":"un sesto"} degli aventi diritto, art. 13.4-bis). Ci sono ${p.si} sì.`);
   if(qual) r.push("La decisione a maggioranza qualificata richiede una motivazione rafforzata: scrivetela nelle ragioni.");
   const firme=Math.ceil(attivi/10);
   if(ok) r.push(`Entro 72 ore dalla proclamazione, almeno ${firme===1?"1 persona":firme+" persone"} con diritto di voto (il 10% dei votanti) possono firmare un'Obiezione di Coscienza o di Sostenibilità Ecologica, che sospende la parte contestata (art. 13-bis).`);

@@ -1,12 +1,12 @@
 ---
 titolo: "CODE 15 — RELATIONS EXTÉRIEURES ET SOLDE MONDIAL"
 breve: "Code 15 — Relations extérieures et Solde"
-versione: "V1.12"
+versione: "V1.13"
 gruppo: "codici"
 ordine: 15
 id: "codice-15"
 slug: "code-15"
-allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 3 V1.11 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 7 V1.10 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 16 V1.10."
+allineamento: "Constitution V.39 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 3 V1.13 ; Code 4 V1.10 ; Code 5 V1.7 ; Code 6 V1.9 ; Code 7 V1.10 ; Code 8 V1.7 ; C.1-Annex A V1.7 ; Code 9 V3.4 ; Code 10 V1.8 ; Code 11 V1.6 ; Code 12 V1.7 ; Code 13 V1.9 ; Code 14 V1.10 ; Code 16 V1.11."
 ---
 
 ## TITRE PRÉLIMINAIRE — DISPOSITIONS GÉNÉRALES
@@ -277,6 +277,8 @@ allineamento: "Constitution V.38 ; Code 1 V1.12 ; Code 2 V1.9 ; Code 3 V1.
 5.  Chaque dépendance critique est assortie d’un Plan de sortie qui indique l’objectif vérifiable, le responsable, les ressources, les mesures intermédiaires et un délai final certain. Le Plan est approuvé par l’Assemblée sur proposition du Conseil compétent. Si la sortie n’est pas techniquement possible dans le délai, le Plan est réexaminé de manière motivée ; le réexamen ne peut pas se borner à proroger la dépendance.
 
 5-bis. Pour les matières premières, le Plan de sortie indique la réduction des besoins, le réemploi, le recyclage et la récupération. Il ne peut pas indiquer de nouvelles extractions. L’alinéa 5 s’applique.
+
+5-ter. **Dépendances structurelles.** Une dépendance critique est structurelle lorsque le bien, le composant ou la compétence ne peuvent pas, dans un avenir prévisible, être produits ou remplacés à une échelle à la portée de la Confédération, comme c’est le cas pour de nombreux médicaments, composants électroniques, métaux et batteries. La qualification est motivée dans le Registre par le Conseil compétent, avec l’avis du Conseil homologue d’une autre Communauté. Pour la dépendance structurelle, le Plan de sortie de l’alinéa 5 est remplacé par un Plan de garantie, qui indique : a) les stocks de sécurité ; b) au moins deux sources d’approvisionnement indépendantes, lorsqu’elles existent ; c) les mesures de réduction des besoins, de réemploi et de réparation ; d) les alternatives en expérimentation et les compétences à former ; e) pour chaque mesure, un responsable et un terme certain. Le Plan de garantie est approuvé par l’Assemblée et réexaminé au moins tous les vingt-quatre mois ; à chaque réexamen, on vérifie si la dépendance est encore structurelle ou si elle peut avoir un Plan de sortie. L’alinéa 5-bis s’applique.
 
 6.  Le Registre est publié sous forme agrégée. Les informations qui exposent des vulnérabilités des infrastructures sont accessibles conformément à l’article 15 du Code 3.
 

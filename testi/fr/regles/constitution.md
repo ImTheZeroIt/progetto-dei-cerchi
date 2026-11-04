@@ -1,7 +1,7 @@
 ---
 titolo: "CONSTITUTION DE LA CONFÉDÉRATION DES CERCLES"
 breve: "Constitution"
-versione: "V.38"
+versione: "V.39"
 gruppo: "costituzione"
 ordine: 0
 id: "costituzione"
@@ -659,7 +659,7 @@ g) le principe de délibération scientifique visé à l’article 33 et le prin
 
 h) l’interdiction d’une IA qui décide à la place des personnes visée à l’article 19.6, le principe d’indépendance et de non-subordination des IA visé à l’article 20.1 et le droit aux facilitateurs et à la personne de confiance visé à l’article 31.5 ;
 
-i) le caractère acéphale et non hiérarchique de la Confédération, la souveraineté de la Communauté de base et la subsidiarité visés aux articles 4.1, 4.2 et 32.1, ainsi que le tirage au sort, la rotation et l’interdiction de l’exercice professionnel et permanent de la politique et de la fonction judiciaire visés aux articles 4.3, 4.4, 6.5 et 31.2 ;
+i) le caractère acéphale et non hiérarchique de la Confédération, la souveraineté de la Communauté de base et la subsidiarité visés aux articles 4.1, 4.2 et 32.1, ainsi que le tirage au sort, la rotation, le caractère temporaire des charges et l’interdiction de l’exercice professionnel et permanent de la politique et de la fonction judiciaire visés aux articles 4.3, 4.4, 6.5 et 31.2. Les durées, les intervalles et les limites numériques fixés dans ces articles peuvent être modifiés à la Double majorité longue, pourvu que toute charge reste temporaire, tournante et non immédiatement renouvelable, qu’aucune durée ne dépasse le double de celle prévue par le présent texte et qu’aucun intervalle entre deux mandats ne descende sous la moitié ;
 
 j) le droit de quitter la Confédération et de vivre au moyen d’un Pacte de cohabitation autonome visé aux articles 4.8, 4.9 et 4.9-bis, le droit de retrait des Communautés visé à l’article 4.6 et le droit de quitter une Communauté visé à l’article 5.2 ;
 
