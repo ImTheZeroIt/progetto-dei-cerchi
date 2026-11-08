@@ -25,12 +25,12 @@ Poi vengono le regole.
 
 | Testo | Versione |
 |---|---|
-| [Costituzione](testi/it/registro/costituzione.md) | V.39 |
+| [Costituzione](testi/it/registro/costituzione.md) | V.40 |
 | [Codice 1 — Contributo di base e Magazzini comuni](testi/it/registro/codice-01.md) | V1.12 |
 | [Annex A al Codice 1 — Produzione materiale e officine](testi/it/registro/codice-01-annex-a.md) | V1.7 |
 | [Codice 2 — Qualità e validazione](testi/it/registro/codice-02.md) | V1.9 |
 | [Codice 3 — Deliberazione, soglie e Assemblea](testi/it/registro/codice-03.md) | V1.13 |
-| [Codice 4 — Giustizia riparativa e garanzia](testi/it/registro/codice-04.md) | V1.10 |
+| [Codice 4 — Giustizia riparativa e garanzia](testi/it/registro/codice-04.md) | V1.11 |
 | [Codice 5 — Apprendimento e competenze](testi/it/registro/codice-05.md) | V1.7 |
 | [Codice 6 — Salute](testi/it/registro/codice-06.md) | V1.9 |
 | [Codice 7 — Automazione e Rete](testi/it/registro/codice-07.md) | V1.10 |

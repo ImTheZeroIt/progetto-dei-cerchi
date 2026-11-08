@@ -6,6 +6,29 @@ De aquí en adelante, cada cambio aceptado se anotará en esta página con la fe
 
 # Cambios
 
+## 5 de noviembre de 2026 — Justicia: correcciones técnicas y elecciones del autor
+
+Nueve puntos débiles del Capítulo V del Código 4, detectados gracias a la ficha para expertos de derecho penal.
+
+- **Reincidencia** (Cód. 4, art. 31, apdo. 1, letra b). El nuevo hecho cuenta como reincidencia solo si se comete después de que la primera decisión haya adquirido firmeza. Dos hechos juzgados en momentos distintos ya no bastan para las medidas extremas.
+- **Alejamiento Definitivo** (Const. 1.3-bis, 30.3, 30.4 y 37.4, letra a; Cód. 4, art. 31, nuevo apdo. 1-bis, y art. 32, apdo. 6). Elección del autor. Sigue siendo la medida extrema y sigue siendo permanente: la Const. 30.4 lo dice ahora expresamente, mientras que antes decía que toda medida cesa con el peligro. Pasados doce meses la persona puede pedir la readmisión a la Asamblea de cada Círculo interesado, que decide por dos tercios oída la persona ofendida; si la persona ofendida vive en el Círculo y se opone, la readmisión no es posible; tras una negativa puede pedirse de nuevo después de veinticuatro meses. El Alejamiento Definitivo, sin Contención, se aplica ahora también a la reincidencia de hechos de Grado 4 contra las garantías comunes o los bienes comunes (por ejemplo daños a infraestructuras vitales, chantaje sobre los recursos, armas, compraventa de votos). Quien es alejado ya no accede a la Cesta ni a los bienes comunes: vive de su propio trabajo con el Pacto de Convivencia Autónoma, y solo le quedan el agua potable y la atención de urgencia vital (Const. 30.4; Cód. 4, art. 32, apdo. 6). En la Contención se mantienen vivienda, alimentos, agua, energía mínima y atención básica, pero no los demás bienes de la Cesta ni el CdR (Cód. 4, art. 32, apdo. 2). Otra comunidad solo puede acogerlo con los dos tercios de la Asamblea y la verificación del Tribunal; como máximo una persona alejada por cada 150 habitantes y nunca más de dos; ningún cargo, ninguna tarea con menores; control anual por un Círculo de Garantía externo (Cód. 4, nuevo art. 32, apdo. 6-bis). Así no pueden formarse comunidades de personas violentas.
+- **Reexamen de oficio** (Cód. 4, art. 35, apdo. 3). El reexamen obligatorio de los Grados 5 y 6 no puede agravar la medida si nadie más lo ha pedido.
+- **Revisión** (Cód. 4, art. 35, apdo. 5). La revisión solo se admite a favor de la persona; quien ha sido absuelto no puede ser juzgado de nuevo por el mismo hecho.
+- **Edad mínima** (Cód. 4, art. 25, apdo. 9). Por debajo de los catorce años no se aplica el Capítulo V: solo las medidas de protección y de cuidado del Código 12 y, si se acepta, el procedimiento restaurativo.
+- **Prueba en los Grados 1–3** (Cód. 4, art. 25, apdo. 3). Se exige una prueba clara y convincente; la duda favorece a la persona.
+- **Medidas cautelares** (Cód. 4, art. 34, apdos. 2 y 3; art. 37, apdo. 5). Si el Tribunal no se forma en 24 horas, tres personas de la lista federada pueden convalidar la medida durante 72 horas; si no, el Círculo de Garantía asegura protección no coercitiva y ayuda para acudir a las autoridades. Las medidas cautelares por un mismo hecho no duran en total más de seis meses (Grados 1–4) o doce (Grados 5–6).
+- **Comunidad de acompañamiento** (Cód. 4, art. 30, apdo. 4). Se aplican también las prohibiciones del art. 32, apdo. 3 (aislamiento, contención, trabajo impuesto) y las visitas de un Círculo de Garantía externo.
+- **Proceso penal en curso** (Cód. 4, art. 37, apdo. 2). Si está pendiente un proceso del Estado por el mismo hecho, la comprobación interna se suspende; se mantienen la protección no coercitiva y, si la persona ofendida lo pide, el procedimiento restaurativo.
+
+Dos elecciones del autor:
+
+- **Segunda oportunidad para los hechos más graves** (Cód. 4, nuevo art. 30, apdo. 5-bis). La segunda oportunidad se mantiene para todos, pero para los hechos de Grado 6 y para la violencia sexual y los abusos a menores el itinerario es más largo y prudente: al menos tres años antes de evaluar su resultado; evaluación del riesgo de reincidencia por dos expertos de Círculos 2 distintos, con métodos verificables y sin IA; reintegración por etapas, con verificaciones durante otros dos años y seis votos de siete; a petición de la persona ofendida o de los familiares, ningún regreso a su Círculo 1; en los abusos a menores, ningún cargo en contacto con menores durante al menos diez años.
+- **Colegios para los hechos graves** (Cód. 4, art. 27, apdos. 3 y 5). Para los Grados 5 y 6, al menos cuatro juristas de siete; la comprobación del hecho se decide por voto secreto con mayoría de dos tercios y con motivación escrita sobre las pruebas, no por consenso.
+
+El exceso de legítima defensa queda como está (Cód. 4, art. 26-bis): la defensa proporcionada no es ilícito, el exceso debido a un miedo excusable no es ilícito, el exceso no excusable es como máximo de Grado 4 aunque cause la muerte; solo la fuerza usada para matar cuando no era necesaria para defenderse se juzga como un hecho ordinario.
+
+Versiones: Constitución de V.39 a V.40; Código 4 de V1.10 a V1.11. Líneas de alineación actualizadas.
+
 ## 3 de noviembre de 2026 — Cuatro puntos débiles: decisiones lentas, Asamblea General, dependencias, rigidez
 
 Elecciones del autor, tras la lista de los puntos débiles del sistema.

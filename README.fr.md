@@ -27,12 +27,12 @@ La Constitution, les Codes et les Annexes techniques. Chaque modification est no
 
 | Texte | Version |
 |---|---|
-| [Constitution](testi/fr/regles/constitution.md) | V.39 |
+| [Constitution](testi/fr/regles/constitution.md) | V.40 |
 | [Code 1 — Contribution de base et Entrepôts communs](testi/fr/regles/code-01.md) | V1.12 |
 | [Annexe A au Code 1 — Production matérielle et ateliers](testi/fr/regles/code-01-annexe-a.md) | V1.7 |
 | [Code 2 — Qualité et validation](testi/fr/regles/code-02.md) | V1.9 |
 | [Code 3 — Délibération, seuils et Assemblée](testi/fr/regles/code-03.md) | V1.13 |
-| [Code 4 — Justice réparatrice et garantie](testi/fr/regles/code-04.md) | V1.10 |
+| [Code 4 — Justice réparatrice et garantie](testi/fr/regles/code-04.md) | V1.11 |
 | [Code 5 — Apprentissage et compétences](testi/fr/regles/code-05.md) | V1.7 |
 | [Code 6 — Santé](testi/fr/regles/code-06.md) | V1.9 |
 | [Code 7 — Automatisation et Réseau](testi/fr/regles/code-07.md) | V1.10 |

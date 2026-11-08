@@ -199,20 +199,20 @@ LINGUE = {
                  "In caso di conflitto prevale la Costituzione.",
             desc_reg="Costituzione, Codici e Allegati del Progetto dei Cerchi, con tutte le versioni.",
             versione="versione",
-            etichetta="Una proposta aperta", domanda="Quali alternative abbiamo?",
+            etichetta="Progetto dei Cerchi · una proposta aperta", domanda="Quali alternative abbiamo?",
             attacco="Le ingiustizie, le ipocrisie e le violenze del mondo di oggi sono sotto gli occhi di tutti, ma nessuno ha ancora trovato il modo di superarle. Il Progetto dei Cerchi nasce dal rifiuto di accettarle come inevitabili e propone un altro modo di vivere insieme: comincia dalla persona, organizza la collettività e costruisce gli strumenti perché nessuna delle due domini l’altra.",
             comincia="Comincia dal percorso", vai_regole="Vai alle regole", prova_caso="Metti alla prova un caso",
             h_prova="Mettila alla prova",
-            guida_prova="Il progetto ha bisogno di critiche più che di consensi. Tre modi per cominciare, ciascuno "
-                        "con segnalazioni già aperte:",
+            guida_prova="Il progetto ha bisogno di critiche più che di consensi. Tre modi per cominciare:",
             prova=[
                 ("caso", "Prova un caso", "Prendi una situazione concreta, un conflitto o un’obiezione in Assemblea, e "
                                           "falla passare nelle procedure: dove reggono e dove no."),
                 ("dato", "Verifica un dato", "Molte soglie sono proposte iniziali: da 30 a 500 persone per Comunità, il "
                                              "quorum, 50 litri d’acqua al giorno. Servono dati che le confermino o le "
                                              "smentiscano."),
-                ("codice", "Controlla un Codice", "Se conosci una materia, leggi il Codice che la riguarda e di’ che "
-                                                  "cosa è sbagliato, che cosa manca, che cosa non è applicabile."),
+                ("codice", "Sei esperto di una materia?", "Sedici schede, una per materia: le regole in breve, i numeri "
+                                                          "incerti e circa dodici domande precise, ciascuna con il suo "
+                                                          "articolo. Si leggono senza account."),
             ],
             senza_conto="Non hai un account su GitHub? Scrivi a {mail}: va bene anche una riga.",
             h_minuto="In un minuto",
@@ -245,7 +245,7 @@ LINGUE = {
                     "ripubblicare per intero, ma non modificare: {licp}. Tradurli è permesso.",
             contribuire_testo="Leggere, criticare, verificare, correggere. Servono competenze diverse e casi "
                               "concreti con cui mettere alla prova le regole.",
-            desc_home="Nato dal rifiuto delle ingiustizie di oggi, una proposta aperta di alternativa al modo in cui organizziamo la vita collettiva: "
+            desc_home="Progetto dei Cerchi: nato dal rifiuto delle ingiustizie di oggi, una proposta aperta di alternativa al modo in cui organizziamo la vita collettiva: "
                       "il percorso, la Costituzione, i Codici.",
             figura="Persone disposte in cerchio, tutte uguali, con altre comunità collegate attorno",
             si_uniscono="si uniscono in",
@@ -312,7 +312,7 @@ LINGUE = {
                  "specifications. In case of conflict, the Constitution prevails.",
             desc_reg="Constitution, Codes and Annexes of the Circles Project, with all their versions.",
             versione="version",
-            etichetta="An open proposal", domanda="What alternatives do we have?",
+            etichetta="The Circles Project · an open proposal", domanda="What alternatives do we have?",
             attacco="The injustices, hypocrisies and violence of today’s world are there for everyone to see, yet no one has found a way to overcome them. The Circles Project is born of a refusal to accept them as inevitable, and proposes another way of living together: it starts from the person, organises the collectivity and builds the tools so that neither dominates the other.",
             comincia="Start with the path", vai_regole="Go to the rules", prova_caso="Put a case to the test",
             h_prova="Put it to the test",
@@ -358,7 +358,7 @@ LINGUE = {
                     "republished in full, but not modified: {licp}. Translating them is permitted.",
             contribuire_testo="Read, criticise, verify, correct. Different skills are needed, and concrete "
                               "cases with which to put the rules to the test.",
-            desc_home="Born of a refusal of today’s injustices, an open proposal for an alternative to the way we organise collective life: "
+            desc_home="The Circles Project: born of a refusal of today’s injustices, an open proposal for an alternative to the way we organise collective life: "
                       "the path, the Constitution, the Codes.",
             figura="People standing in a circle, all equal, with other communities linked around them",
             si_uniscono="join into",
@@ -424,7 +424,7 @@ LINGUE = {
                  "especificaciones. En caso de conflicto prevalece la Constitución.",
             desc_reg="Constitución, Códigos y Anexos del Proyecto de los Círculos, con todas sus versiones.",
             versione="versión",
-            etichetta="Una propuesta abierta", domanda="¿Qué alternativas tenemos?",
+            etichetta="Proyecto de los Círculos · una propuesta abierta", domanda="¿Qué alternativas tenemos?",
             attacco="Las injusticias, las hipocresías y las violencias del mundo de hoy están a la vista de todos, pero nadie ha encontrado todavía la manera de superarlas. El Proyecto de los Círculos nace del rechazo a aceptarlas como inevitables y propone otra manera de vivir juntos: empieza por la persona, organiza la colectividad y construye los instrumentos para que ninguna de las dos domine a la otra.",
             comincia="Empieza por el recorrido", vai_regole="Ir a las reglas", prova_caso="Pon a prueba un caso",
             h_prova="Ponla a prueba",
@@ -470,7 +470,7 @@ LINGUE = {
                     "volver a publicarse íntegros, pero no modificarse: {licp}. Traducirlos está permitido.",
             contribuire_testo="Leer, criticar, verificar, corregir. Hacen falta competencias distintas y casos "
                               "concretos con los que poner a prueba las reglas.",
-            desc_home="Nacida del rechazo a las injusticias de hoy, una propuesta abierta de alternativa al modo en que organizamos la vida colectiva: "
+            desc_home="Proyecto de los Círculos: nacido del rechazo a las injusticias de hoy, una propuesta abierta de alternativa al modo en que organizamos la vida colectiva: "
                       "el recorrido, la Constitución, los Códigos.",
             figura="Personas dispuestas en círculo, todas iguales, con otras comunidades conectadas alrededor",
             si_uniscono="se unen en",
@@ -536,7 +536,7 @@ LINGUE = {
                  "spécifications. En cas de conflit, la Constitution prévaut.",
             desc_reg="Constitution, Codes et Annexes du Projet des Cercles, avec toutes leurs versions.",
             versione="version",
-            etichetta="Une proposition ouverte", domanda="Quelles alternatives avons-nous ?",
+            etichetta="Projet des Cercles · une proposition ouverte", domanda="Quelles alternatives avons-nous ?",
             attacco="Les injustices, les hypocrisies et les violences du monde d’aujourd’hui sont sous les yeux de tous, mais personne n’a encore trouvé le moyen de les dépasser. Le Projet des Cercles naît du refus de les accepter comme inévitables et propose une autre manière de vivre ensemble : il part de la personne, organise la collectivité et construit les outils pour qu’aucune des deux ne domine l’autre.",
             comincia="Commencer par le parcours", vai_regole="Aller aux règles", prova_caso="Mettre un cas à l’épreuve",
             h_prova="Mettez-la à l’épreuve",
@@ -582,7 +582,7 @@ LINGUE = {
                     "republiés en entier, mais pas modifiés : {licp}. Les traduire est permis.",
             contribuire_testo="Lire, critiquer, vérifier, corriger. Il faut des compétences diverses et des cas "
                               "concrets pour mettre les règles à l’épreuve.",
-            desc_home="Née du refus des injustices d’aujourd’hui, une proposition ouverte d’alternative à la manière dont nous organisons la vie collective : "
+            desc_home="Projet des Cercles : né du refus des injustices d’aujourd’hui, une proposition ouverte d’alternative à la manière dont nous organisons la vie collective : "
                       "le parcours, la Constitution, les Codes.",
             figura="Des personnes disposées en cercle, toutes égales, avec d’autres communautés reliées autour",
             si_uniscono="s’unissent en",
@@ -922,7 +922,8 @@ def pagina(lingua, titolo, descrizione, corpo, profondita, sezione="", gemelle=N
            v3=voce(t["contribuire"], lingua["pag_contribuire"], "contribuire"),
            v4=voce(ricerca.LINGUE[lingua["codice"]]["voce"], ricerca.LINGUE[lingua["codice"]]["pagina"], "domande")
            if ha_domande(lingua) else "",
-           v5=voce("Strumenti", "reti/index.html", "strumenti") if lingua["codice"] == "it" else "")
+           v5=(voce("Esperti", "esperti/index.html", "esperti") + voce("Strumenti", "reti/index.html", "strumenti"))
+           if lingua["codice"] == "it" else "")
 
 
 # nomi con cui il progetto viene cercato: finiscono nei dati strutturati delle pagine iniziali
@@ -1275,7 +1276,8 @@ def costruisci_lingua(lingua, altre):
         h_minuto=t["h_minuto"], url_caso=segnalazioni("caso"), prova_caso=t["prova_caso"], h_prova=t["h_prova"],
         guida_prova=t["guida_prova"],
         prova="\n".join('    <div><h3><a href="%s">%s</a></h3><p>%s</p></div>'
-                        % (html.escape(segnalazioni(k)), html.escape(a), html.escape(b)) for k, a, b in t["prova"]),
+                        % (html.escape("esperti/index.html" if (k == "codice" and lingua["codice"] == "it")
+                                       else segnalazioni(k)), html.escape(a), html.escape(b)) for k, a, b in t["prova"]),
         senza_conto=t["senza_conto"].format(mail='<a href="mailto:%s">%s</a>' % (CONTATTO, CONTATTO)),
         minuto="\n".join("    <div><dt>%s</dt><dd>%s</dd></div>" % (html.escape(a), html.escape(b)) for a, b in t["minuto"]),
         h_percorso=t["h_percorso"], guida_percorso=t["guida_percorso"], passi=passi, h_regole=t["h_regole"],
@@ -1287,8 +1289,7 @@ def costruisci_lingua(lingua, altre):
         h_licenza=t["h_licenza"], licenza=t["licenza"].format(lic=licenza, licp=licenza_p), contribuire=t["contribuire"],
         ctesto=t["contribuire_testo"], pcon=lingua["pag_contribuire"], come=t["come_contribuire"],
         strumenti=STRUMENTI_HOME if lingua["codice"] == "it" else "",
-        esperti_home=('\n  <p class="senza-conto">Conosci bene una materia? C\u2019è una <a href="esperti/index.html">scheda per esperti</a> '
-                      'con le domande aperte, una per ciascuna delle sedici materie.</p>') if lingua["codice"] == "it" else "")
+        esperti_home="")
     scrivi(lingua, "index.html",
            pagina(lingua, TITOLO_HOME.get(lingua["codice"], nome), t["desc_home"], contenuto, 0, "", gemelle()))
 

@@ -27,12 +27,12 @@ Then come the rules.
 
 | Text | Version |
 |---|---|
-| [Constitution](testi/en/register/constitution.md) | V.39 |
+| [Constitution](testi/en/register/constitution.md) | V.40 |
 | [Code 1 — Base contribution and Common Storehouses](testi/en/register/code-01.md) | V1.12 |
 | [Annex A to Code 1 — Material production and workshops](testi/en/register/code-01-annex-a.md) | V1.7 |
 | [Code 2 — Quality and validation](testi/en/register/code-02.md) | V1.9 |
 | [Code 3 — Deliberation, thresholds and Assembly](testi/en/register/code-03.md) | V1.13 |
-| [Code 4 — Restorative justice and guarantee](testi/en/register/code-04.md) | V1.10 |
+| [Code 4 — Restorative justice and guarantee](testi/en/register/code-04.md) | V1.11 |
 | [Code 5 — Learning and competences](testi/en/register/code-05.md) | V1.7 |
 | [Code 6 — Health](testi/en/register/code-06.md) | V1.9 |
 | [Code 7 — Automation and the Network](testi/en/register/code-07.md) | V1.10 |

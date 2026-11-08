@@ -27,12 +27,12 @@ La Constitución, los Códigos y los Anexos técnicos. Cada cambio se anota en e
 
 | Texto | Versión |
 |---|---|
-| [Constitución](testi/es/registro/constitucion.md) | V.39 |
+| [Constitución](testi/es/registro/constitucion.md) | V.40 |
 | [Código 1 — Contribución básica y Almacenes comunes](testi/es/registro/codigo-01.md) | V1.12 |
 | [Anexo A al Código 1 — Producción material y talleres](testi/es/registro/codigo-01-anexo-a.md) | V1.7 |
 | [Código 2 — Calidad y validación](testi/es/registro/codigo-02.md) | V1.9 |
 | [Código 3 — Deliberación, umbrales y Asamblea](testi/es/registro/codigo-03.md) | V1.13 |
-| [Código 4 — Justicia restaurativa y garantía](testi/es/registro/codigo-04.md) | V1.10 |
+| [Código 4 — Justicia restaurativa y garantía](testi/es/registro/codigo-04.md) | V1.11 |
 | [Código 5 — Aprendizaje y competencias](testi/es/registro/codigo-05.md) | V1.7 |
 | [Código 6 — Salud](testi/es/registro/codigo-06.md) | V1.9 |
 | [Código 7 — Automatización y Red](testi/es/registro/codigo-07.md) | V1.10 |

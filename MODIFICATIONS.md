@@ -6,6 +6,29 @@ Ceci est la première version publique : Constitution V.29 et Codes alignés, 
 
 # Modifications
 
+## 5 novembre 2026 — Justice : corrections techniques et choix de l’auteur
+
+Neuf points faibles du Chapitre V du Code 4, relevés grâce à la fiche pour experts de droit pénal.
+
+- **Récidive** (Code 4, art. 31, al. 1, lettre b). Le nouveau fait ne compte comme récidive que s’il est commis après que la première décision est devenue définitive. Deux faits jugés à des moments différents ne suffisent plus pour les mesures extrêmes.
+- **Éloignement définitif** (Const. 1.3-bis, 30.3, 30.4 et 37.4, lettre a ; Code 4, art. 31, nouvel al. 1-bis, et art. 32, al. 6). Choix de l’auteur. Il reste la mesure extrême et reste permanent : la Const. 30.4 le dit désormais expressément, alors qu’elle disait que toute mesure prend fin avec le danger. Après douze mois, la personne peut demander sa réadmission à l’Assemblée de chaque Cercle concerné, qui décide aux deux tiers après avoir entendu la personne lésée ; si la personne lésée vit dans le Cercle et s’y oppose, la réadmission est impossible ; après un refus, la demande peut être renouvelée après vingt-quatre mois. L’Éloignement définitif, sans Confinement, s’applique désormais aussi à la récidive de faits de Degré 4 contre les garanties communes ou les biens communs (par exemple dégradation d’infrastructures vitales, chantage sur les ressources, armes, achat et vente de voix). La personne éloignée n’a plus accès au Panier ni aux biens communs : elle vit de son propre travail avec le Pacte de cohabitation autonome, et il ne lui reste que l’eau potable et les soins d’urgence vitaux (Const. 30.4 ; Code 4, art. 32, al. 6). Dans le Confinement restent le logement, la nourriture, l’eau, l’énergie minimale et les soins de base, mais pas les autres biens du Panier ni le CdR (Code 4, art. 32, al. 2). Une autre communauté ne peut l’accueillir qu’aux deux tiers de l’Assemblée et après vérification du Tribunal ; au plus une personne éloignée pour 150 habitants et jamais plus de deux ; aucune charge, aucune tâche auprès de mineurs ; contrôle annuel par un Cercle de garantie extérieur (Code 4, nouvel art. 32, al. 6-bis). Ainsi ne peuvent pas naître des communautés de personnes violentes.
+- **Réexamen d’office** (Code 4, art. 35, al. 3). Le réexamen obligatoire des Degrés 5 et 6 ne peut pas aggraver la mesure si personne d’autre ne l’a demandé.
+- **Révision** (Code 4, art. 35, al. 5). La révision n’est admise qu’en faveur de la personne ; la personne mise hors de cause ne peut pas être jugée de nouveau pour le même fait.
+- **Âge minimal** (Code 4, art. 25, al. 9). Au-dessous de quatorze ans, le Chapitre V ne s’applique pas : seulement les mesures de protection et de soin du Code 12 et, si elle est acceptée, la procédure réparatrice.
+- **Preuve aux Degrés 1–3** (Code 4, art. 25, al. 3). Une preuve claire et convaincante est requise ; le doute profite à la personne.
+- **Mesures conservatoires** (Code 4, art. 34, al. 2 et 3 ; art. 37, al. 5). Si le Tribunal n’est pas formé en 24 heures, trois personnes de la liste fédérée peuvent valider la mesure pour 72 heures ; à défaut, le Cercle de garantie assure une protection non coercitive et l’aide pour s’adresser aux autorités. Les mesures conservatoires pour un même fait ne durent pas plus de six mois au total (Degrés 1–4) ou douze (Degrés 5–6).
+- **Communauté d’accompagnement** (Code 4, art. 30, al. 4). Les interdictions de l’art. 32, al. 3 (isolement, contention, travail imposé) et les visites d’un Cercle de garantie extérieur s’appliquent aussi.
+- **Procédure pénale en cours** (Code 4, art. 37, al. 2). Si une procédure de l’État est pendante pour le même fait, la constatation interne est suspendue ; restent la protection non coercitive et, si la personne lésée le demande, la procédure réparatrice.
+
+Deux choix de l’auteur :
+
+- **Seconde chance pour les faits les plus graves** (Code 4, nouvel art. 30, al. 5-bis). La seconde chance reste pour tous, mais pour les faits de Degré 6 et pour les violences sexuelles et les abus sur mineurs le parcours est plus long et plus prudent : au moins trois ans avant d’en évaluer l’issue ; évaluation du risque de récidive par deux experts de Cercles 2 différents, avec des méthodes vérifiables et sans IA ; réintégration par étapes, avec des vérifications pendant deux ans encore et six voix sur sept ; à la demande de la personne lésée ou de sa famille, pas de retour dans leur Cercle 1 ; pour les abus sur mineurs, aucune charge au contact de mineurs pendant au moins dix ans.
+- **Collèges pour les faits graves** (Code 4, art. 27, al. 3 et 5). Pour les Degrés 5 et 6, au moins quatre juristes sur sept ; la constatation du fait se décide par vote secret à la majorité des deux tiers, avec une motivation écrite sur les preuves, et non par consensus.
+
+L’excès de légitime défense reste tel quel (Code 4, art. 26-bis) : la défense proportionnée n’est pas une infraction, l’excès dû à une frayeur excusable n’est pas une infraction, l’excès inexcusable est au plus de Degré 4 même s’il cause la mort ; seule la force employée pour tuer quand elle n’était pas nécessaire à la défense est jugée comme un fait ordinaire.
+
+Versions : Constitution de V.39 à V.40 ; Code 4 de V1.10 à V1.11. Lignes d’alignement mises à jour.
+
 ## 3 novembre 2026 — Quatre points faibles : décisions lentes, Assemblée générale, dépendances, rigidité
 
 Choix de l’auteur, après la liste des points faibles du système.

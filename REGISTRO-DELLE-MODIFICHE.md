@@ -6,6 +6,29 @@ Da qui in avanti ogni modifica accolta sarà annotata in questa pagina con la da
 
 # Modifiche
 
+## 5 novembre 2026 — Giustizia: correzioni tecniche e scelte dell’autore
+
+Nove punti deboli del Capo V del Codice 4, emersi dalla scheda per esperti di diritto penale.
+
+- **Recidiva** (Cod. 4, art. 31, c. 1, lett. b). Il nuovo fatto conta come recidiva solo se è commesso dopo che la prima decisione è divenuta definitiva. Due fatti giudicati in tempi diversi non bastano più per le misure estreme.
+- **Allontanamento Definitivo** (Cost. 1.3-bis, 30.3, 30.4 e 37.4, lett. a; Cod. 4, art. 31, nuovo c. 1-bis, e art. 32, c. 6). Scelta dell’autore. Resta la misura estrema e resta permanente: la Cost. 30.4 ora lo dice espressamente, mentre prima diceva che ogni misura cessa con il pericolo. Dopo dodici mesi la persona può chiedere la riammissione all’Assemblea di ogni Cerchio interessato, che decide con i due terzi sentita la persona offesa; se la persona offesa vive nel Cerchio e si oppone, la riammissione non è possibile; dopo un rifiuto si può chiedere di nuovo dopo ventiquattro mesi. L’Allontanamento Definitivo, senza Contenimento, vale ora anche per la recidiva di fatti di Grado 4 contro le garanzie comuni o i beni comuni (per esempio danneggiamento di infrastrutture vitali, ricatto sulle risorse, armi, compravendita di voti). Chi è allontanato non accede più al Paniere né ai beni comuni: vive del proprio lavoro con il Patto di Convivenza Autonoma, e gli restano solo l’acqua potabile e le cure d’emergenza salvavita (Cost. 30.4; Cod. 4, art. 32, c. 6). Nel Contenimento restano alloggio, cibo, acqua, energia minima e cure di base, ma non gli altri beni del Paniere né il CdR (Cod. 4, art. 32, c. 2). Un’altra comunità può accoglierlo solo con i due terzi dell’Assemblea e la verifica del Tribunale; al massimo una persona allontanata ogni 150 abitanti e mai più di due; nessun incarico, nessun compito con minori; controllo annuale da un Cerchio di Garanzia esterno (Cod. 4, nuovo art. 32, c. 6-bis). Così non possono nascere comunità di persone violente.
+- **Riesame d’ufficio** (Cod. 4, art. 35, c. 3). Il riesame obbligatorio dei Gradi 5 e 6 non può aggravare la misura se nessun altro lo ha chiesto.
+- **Revisione** (Cod. 4, art. 35, c. 5). La revisione è ammessa solo a favore della persona; chi è stato prosciolto non può essere giudicato di nuovo per lo stesso fatto.
+- **Età minima** (Cod. 4, art. 25, c. 9). Sotto i quattordici anni non si applica il Capo V: solo misure di protezione e di cura del Codice 12 e, se accettata, la procedura riparativa.
+- **Prova nei Gradi 1–3** (Cod. 4, art. 25, c. 3). Serve una prova chiara e convincente; il dubbio va a favore della persona.
+- **Misure cautelari** (Cod. 4, art. 34, cc. 2 e 3; art. 37, c. 5). Se il Tribunale non si forma in 24 ore, tre persone dell’elenco federato possono convalidare la misura per 72 ore; altrimenti il Cerchio di Garanzia assicura protezione non coercitiva e aiuto per rivolgersi alle autorità. Le misure cautelari per lo stesso fatto non durano in tutto più di sei mesi (Gradi 1–4) o dodici (Gradi 5–6).
+- **Comunità di accompagnamento** (Cod. 4, art. 30, c. 4). Valgono anche i divieti dell’art. 32, c. 3 (isolamento, contenzione, lavoro imposto) e le visite di un Cerchio di Garanzia esterno.
+- **Procedimento penale in corso** (Cod. 4, art. 37, c. 2). Se per lo stesso fatto c’è un procedimento dello Stato, l’accertamento interno è sospeso; restano la protezione non coercitiva e, se la persona offesa lo chiede, la procedura riparativa.
+
+Due scelte dell’autore:
+
+- **Seconda possibilità per i fatti più gravi** (Cod. 4, nuovo art. 30, c. 5-bis). La seconda possibilità resta per tutti, ma per i fatti di Grado 6 e per la violenza sessuale e gli abusi su minori il percorso è più lungo e prudente: almeno tre anni prima di valutarne l’esito; valutazione del rischio di recidiva da due esperti di Cerchi 2 diversi, con metodi verificabili e senza IA; reintegrazione per gradi, con verifiche per altri due anni e sei voti su sette; su richiesta della persona offesa o dei familiari, nessun ritorno nel loro Cerchio 1; per gli abusi su minori, nessun incarico a contatto con minori per almeno dieci anni.
+- **Collegi per i fatti gravi** (Cod. 4, art. 27, cc. 3 e 5). Per i Gradi 5 e 6 almeno quattro giuristi su sette; l’accertamento del fatto si decide con voto segreto a maggioranza dei due terzi e con motivazione scritta sulle prove, non per consenso.
+
+L’eccesso di difesa resta com’è (Cod. 4, art. 26-bis): la difesa proporzionata non è illecito, l’eccesso dovuto a spavento scusabile non è illecito, l’eccesso non scusabile è al massimo di Grado 4 anche se causa la morte; solo la forza usata per uccidere quando non serviva a difendersi è giudicata come un fatto ordinario.
+
+Versioni: Costituzione da V.39 a V.40; Codice 4 da V1.10 a V1.11. Righe di allineamento aggiornate.
+
 ## 3 novembre 2026 — Quattro punti deboli: decisioni lente, Assemblea Generale, dipendenze, rigidità
 
 Scelte dell’autore, dopo l’elenco dei punti deboli del sistema.
