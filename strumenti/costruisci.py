@@ -1251,8 +1251,7 @@ def costruisci_lingua(lingua, altre):
     licenza_p = '<a href="%s">%s</a>' % (lingua["licenza_percorso_url"], LICENZA_PERCORSO)
     contenuto = """<section class="eroe">
   <div>
-    <p class="etichetta">%(etichetta)s</p>
-    <h1>%(domanda)s</h1>
+    <h1><span class="etichetta">%(etichetta)s</span>%(domanda)s</h1>
     <p class="attacco">%(attacco)s</p>
     <p><span class="stato">%(bozza)s</span></p>
     <p class="azioni"><a class="bottone" href="%(dp)s/%(primo)s.html">%(comincia)s</a><a class="secondario" href="%(dr)s/index.html">%(vai)s</a><a class="secondario" href="%(url_caso)s">%(prova_caso)s</a></p>
