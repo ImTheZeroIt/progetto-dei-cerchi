@@ -87,6 +87,8 @@ BOZZE = {
              titolo="Allegato UCR e primo bilancio delle ore", nota="bozza 0.2"),
         dict(chiave="cdr", md="bozze/tabella-cdr.md", pagina="bozza-cdr.html",
              titolo="Tabella pubblica del CdR", nota="bozza 0.2"),
+        dict(chiave="nascere", md="bozze/come-puo-nascere.md", pagina="come-puo-nascere.html",
+             titolo="Come può nascere: dal mutuo aiuto alla Confederazione", nota="spiegazione del Codice 16", classe=""),
         dict(chiave="proposte", md="PROPOSTE.md", pagina="proposte.html",
              titolo="Proposte di modifica (archivio)", nota="accolte il 19 ottobre 2026", classe=""),
         dict(chiave="verifica", md="VERIFICA-PROPOSTE.md", pagina="verifica-proposte.html",
@@ -101,6 +103,8 @@ BOZZE = {
              titolo="UCR Annex and first balance of hours", nota="draft 0.2"),
         dict(chiave="cdr", md="testi/en/drafts/draft-cdr.md", pagina="draft-cdr.html",
              titolo="Public CdR table", nota="draft 0.2"),
+        dict(chiave="nascere", md="testi/en/drafts/how-it-can-begin.md", pagina="how-it-can-begin.html",
+             titolo="How it can begin: from mutual aid to the Confederation", nota="explanation of Code 16", classe=""),
         dict(chiave="proposte", md="testi/en/drafts/proposals.md", pagina="proposals.html",
              titolo="Change proposals (archive)", nota="accepted on 19 October 2026", classe=""),
         dict(chiave="verifica", md="testi/en/drafts/proposals-review.md", pagina="proposals-review.html",
@@ -113,6 +117,8 @@ BOZZE = {
              titolo="Annexe UCR et premier bilan des heures", nota="brouillon 0.2"),
         dict(chiave="cdr", md="testi/fr/brouillons/brouillon-cdr.md", pagina="brouillon-cdr.html",
              titolo="Barème public de la CdR", nota="brouillon 0.2"),
+        dict(chiave="nascere", md="testi/fr/brouillons/comment-cela-peut-naitre.md", pagina="comment-cela-peut-naitre.html",
+             titolo="Comment cela peut naître\u202f: de l’entraide à la Confédération", nota="explication du Code 16", classe=""),
         dict(chiave="proposte", md="testi/fr/brouillons/propositions.md", pagina="propositions.html",
              titolo="Propositions de modification (archives)", nota="acceptées le 19 octobre 2026", classe=""),
         dict(chiave="verifica", md="testi/fr/brouillons/verification-propositions.md",
@@ -126,6 +132,8 @@ BOZZE = {
              titolo="Anexo UCR y primer balance de las horas", nota="borrador 0.2"),
         dict(chiave="cdr", md="testi/es/borradores/borrador-cdr.md", pagina="borrador-cdr.html",
              titolo="Tabla pública de la CdR", nota="borrador 0.2"),
+        dict(chiave="nascere", md="testi/es/borradores/como-puede-nacer.md", pagina="como-puede-nacer.html",
+             titolo="Cómo puede nacer: de la ayuda mutua a la Confederación", nota="explicación del Código 16", classe=""),
         dict(chiave="proposte", md="testi/es/borradores/propuestas.md", pagina="propuestas.html",
              titolo="Propuestas de cambio (archivo)", nota="aceptadas el 19 de octubre de 2026", classe=""),
         dict(chiave="verifica", md="testi/es/borradores/verificacion-propuestas.md",
@@ -620,6 +628,20 @@ def lingua_servizio(lingua):
     return lingua if lingua["codice"] in PARAMETRI else LINGUE["it"]
 
 
+# Collegamenti alla spiegazione del percorso delle reti (Codice 16, artt. 11-20).
+NASCERE = {
+    "it": ("In pratica", "In parole semplici: le fasi, il boicottaggio come scelta delle persone, i perché."),
+    "en": ("In practice", "In plain words: the phases, the boycott as a choice of the people, the reasons."),
+    "fr": ("En pratique", "En mots simples\u202f: les phases, le boycott comme choix des personnes, les raisons."),
+    "es": ("En la práctica", "Con palabras sencillas: las fases, el boicot como decisión de las personas, los porqués."),
+}
+
+
+def pagina_nascere(lingua):
+    lp = lingua_servizio(lingua)
+    return next((b for b in BOZZE[lp["codice"]] if b["chiave"] == "nascere"), None)
+
+
 def url_parametri(lingua, profondita=0):
     """Indirizzo del registro dei parametri, visto da una pagina della lingua a una certa profondità."""
     lp = lingua_servizio(lingua)
@@ -1046,6 +1068,12 @@ def costruisci_lingua(lingua, altre):
         else:
             seguito = ('<a class="seguito" href="../%s/index.html"><span class="etichetta">%s</span>'
                        '<strong>%s</strong><span>%s</span></a>' % (dr, t["fine"], t["leggi_regole"], t["fine_testo"]))
+            bn = pagina_nascere(lingua)
+            if bn:
+                et, sp = NASCERE.get(lingua["codice"], NASCERE["it"])
+                base_n = url_parametri(lingua, 1).rsplit("/", 1)[0]
+                seguito += ('<a class="seguito" href="%s/%s"><span class="etichetta">%s</span>'
+                            '<strong>%s</strong><span>%s</span></a>' % (base_n, bn["pagina"], et, html.escape(bn["titolo"]), sp))
         prima = ('<a href="%s.html">← %s</a>' % (percorso[i - 1][0]["slug"], percorso[i - 1][0]["titolo"])) if i \
             else '<a href="../index.html">%s</a>' % t["inizio"]
         contenuto = """<article class="lettura">
@@ -1084,6 +1112,11 @@ def costruisci_lingua(lingua, altre):
         if meta.get("allineamento"):
             dettagli = ('<details class="allineamento"><summary>%s</summary><p>%s</p></details>'
                         % (t["allineamento"], html.escape(meta["allineamento"])))
+        if meta["id"] == "codice-16" and pagina_nascere(lingua):
+            bn = pagina_nascere(lingua)
+            dettagli += ('<p class="piccolo">%s: <a href="%s/%s">%s</a></p>'
+                         % (NASCERE.get(lingua["codice"], NASCERE["it"])[0],
+                            url_parametri(lingua, 1).rsplit("/", 1)[0], bn["pagina"], html.escape(bn["titolo"])))
         contenuto = """<article class="norma">
 <header class="apertura">
   <p class="briciole"><a href="index.html">%(registro)s</a> / %(breve)s</p>
